@@ -1,0 +1,243 @@
+#!/usr/bin/env python3
+import os
+import re
+import sys
+import json
+import requests
+import urllib.parse
+
+from dataclasses import dataclass, asdict
+from typing import Optional, Dict, Any
+
+ENV_GOOGLE_MAPS_API_KEY = "GOOGLE_MAPS_API_KEY"
+
+# Portugal district codes mapping (ISO 3166-2:PT)
+PORTUGAL_DISTRICT_CODES = {
+    # Mainland Districts
+    "Aveiro": 1,
+    "Beja": 2,
+    "Braga": 3,
+    "Bragança": 4,
+    "Castelo Branco": 5,
+    "Coimbra": 6,
+    "Évora": 7,
+    "Faro": 8,
+    "Guarda": 9,
+    "Leiria": 10,
+    "Lisboa": 11,
+    "Portalegre": 12,
+    "Porto": 13,
+    "Santarém": 14,
+    "Setúbal": 15,
+    "Viana do Castelo": 16,
+    "Vila Real": 17,
+    "Viseu": 18,
+    # Autonomous Regions
+    "Região Autónoma dos Açores": 20,
+    "Açores": 20,
+    "Azores": 20,
+    "Região Autónoma da Madeira": 30,
+    "Madeira": 30,
+}
+
+
+def get_district_code(district_name: Optional[str]) -> Optional[int]:
+    """Get Portuguese district code from district name (ISO 3166-2:PT)."""
+    if not district_name:
+        return None
+
+    # Direct lookup
+    if district_name in PORTUGAL_DISTRICT_CODES:
+        return PORTUGAL_DISTRICT_CODES[district_name]
+
+    # Try common variations and normalize
+    normalized = district_name.strip()
+
+    # Handle common variations for autonomous regions
+    variations = {
+        "Região Autónoma da Madeira": "Madeira",
+        "Região Autónoma dos Açores": "Açores",
+    }
+
+    if normalized in variations:
+        return PORTUGAL_DISTRICT_CODES[variations[normalized]]
+
+    # Last resort: try partial matching for districts
+    for district in PORTUGAL_DISTRICT_CODES:
+        if (
+            district.lower() in normalized.lower()
+            or normalized.lower() in district.lower()
+        ):
+            return PORTUGAL_DISTRICT_CODES[district]
+
+    return None
+
+
+@dataclass
+class Coordinates:
+    """Geographic coordinates."""
+
+    lat: float
+    lon: float
+
+    def to_dict(self) -> Dict[str, float]:
+        return asdict(self)
+
+
+@dataclass
+class EventLocation:
+    """Location information for an event."""
+
+    name: str
+    country: str
+    locality: str
+    coordinates: Optional[Coordinates] = None
+    administrative_area_level_1: Optional[str] = None  # District
+    administrative_area_level_2: Optional[str] = None  # Municipality
+    administrative_area_level_3: Optional[str] = None  # Parish
+    district_code: Optional[int] = None  # Portuguese district code
+
+    def to_dict(self) -> Dict[str, Any]:
+        result = {}
+        result["name"] = self.name
+        result["country"] = self.country
+        result["locality"] = self.locality
+        if self.coordinates:
+            result["coordinates"] = self.coordinates.to_dict()  # type: ignore
+        if self.administrative_area_level_1:
+            result["administrative_area_level_1"] = self.administrative_area_level_1
+        if self.administrative_area_level_2:
+            result["administrative_area_level_2"] = self.administrative_area_level_2
+        if self.administrative_area_level_3:
+            result["administrative_area_level_3"] = self.administrative_area_level_3
+        if self.district_code:
+            result["district_code"] = self.district_code
+        return result
+
+
+class GoogleGeocodingClient:
+    """Google Maps Geocoding API client with caching."""
+
+    def __init__(self, api_key: str):
+        self.api_key = api_key
+        self.base_url = "https://maps.googleapis.com/maps/api/geocode/json"
+
+    def _parse_google_response(
+        self, location: str, google_result: dict
+    ) -> EventLocation:
+        """Parse Google Maps API response into EventLocation."""
+        location_data = {
+            "name": location,
+            "lat": google_result["geometry"]["location"]["lat"],
+            "lon": google_result["geometry"]["location"]["lng"],
+            "country": "Portugal",
+            "locality": location.split(",")[0].strip(),
+            "administrative_area_level_1": None,
+            "administrative_area_level_2": None,
+            "administrative_area_level_3": None,
+            "district_code": None,
+        }
+
+        # Extract all administrative levels from address components
+        for component in google_result["address_components"]:
+            types = component["types"]
+            if "country" in types:
+                location_data["country"] = component["long_name"]
+            elif "administrative_area_level_1" in types:
+                location_data["administrative_area_level_1"] = component["long_name"]
+                # Use district as locality for Portugal
+                location_data["locality"] = component["long_name"]
+            elif "administrative_area_level_2" in types:
+                location_data["administrative_area_level_2"] = component["long_name"]
+            elif "administrative_area_level_3" in types:
+                location_data["administrative_area_level_3"] = component["long_name"]
+
+        # Calculate district code from administrative_area_level_1 (district)
+        location_data["district_code"] = get_district_code(
+            location_data["administrative_area_level_1"]
+        )
+
+        return EventLocation(
+            name=location,
+            country=location_data["country"],
+            locality=location_data["locality"],
+            coordinates=Coordinates(lat=location_data["lat"], lon=location_data["lon"]),
+            administrative_area_level_1=location_data["administrative_area_level_1"],
+            administrative_area_level_2=location_data["administrative_area_level_2"],
+            administrative_area_level_3=location_data["administrative_area_level_3"],
+            district_code=location_data["district_code"],
+        )
+
+    def geocode(self, location: str) -> Optional[EventLocation]:
+        """Geocode a location string."""
+        # Build request
+        params = {
+            "address": location,
+            "key": self.api_key,
+            "region": "pt",
+            "language": "pt",
+        }
+
+        try:
+            url = f"{self.base_url}?{urllib.parse.urlencode(params)}"
+            response = requests.get(url)
+            response.raise_for_status()
+            content = response.content
+            # print(f"GEOCODING|Google API content|{location}|{content}")
+            data = json.loads(content)
+            result = data["results"][0]
+            # print(f"GEOCODING|Google API result|{location}|{result}")
+            return self._parse_google_response(location, result)
+        except Exception as e:
+            # print(f"GEOCODING|Error|{location}|{str(e)}")
+            return None
+
+
+def clean_ics_location(loc: str) -> str:
+    def clean_ics_segment(segment: str) -> str:
+        segment = segment.strip()
+        words = segment.split()
+        # Madeira Madeira
+        # Santa Maria da Cruz Santa Maria da Cruz
+        if len(words) % 2 == 0:
+            hl = len(words) // 2
+            if words[:hl] == words[hl:]:
+                words = words[:hl]
+        return " ".join(words)
+
+    loc = loc.strip()
+    loc = loc.replace("\\", "")
+    segments = [clean_ics_segment(s) for s in loc.split(",")]
+
+    # Cabeço de Vida, Fontreira Cabeço de Vida, Fontreira
+    # Alcaria da Serra, Beja Alcaria da Serra, Beja
+    if len(segments) == 3 and segments[1] == f"{segments[2]} {segments[0]}":
+        segments = [segments[0], segments[2]]
+    return ", ".join(segments)
+
+
+FIXUP_TABLE = {"Alcaria da Serra, Beja": "Alcaria da Serra"}
+
+key = os.environ[ENV_GOOGLE_MAPS_API_KEY]
+client = GoogleGeocodingClient(key)
+for slug in sys.argv[1:]:
+    ics_path = os.path.join("events", slug, "ics")
+    location_path = os.path.join("events", slug, "location")
+    if os.path.exists(location_path):
+        continue
+    ics_content = open(ics_path, "rb").read().decode("utf-8", errors="ignore")
+    ics_location_match = re.search(r"LOCATION:(.*)", ics_content)
+    assert ics_location_match is not None
+    ics_location = ics_location_match[1]
+    ics_location = clean_ics_location(ics_location)
+    if ics_location == "":
+        continue
+    if ics_location in FIXUP_TABLE:
+        ics_location = FIXUP_TABLE[ics_location]
+    location = client.geocode(ics_location)
+    if location is None:
+        print(f"failed to obtain location from {slug} '{ics_location}'")
+        sys.exit(1)
+    with open(location_path, "w") as f:
+        json.dump(location.to_dict(), f)
+

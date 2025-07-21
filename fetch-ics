@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+import os
+import sys
+import requests
+
+for slug in sys.argv[1:]:
+    id_path = os.path.join("events", slug, "id")
+    id = open(id_path, "r").read()
+    ics_path = os.path.join("events", slug, "ics")
+    if os.path.exists(ics_path):
+        continue
+    ics_url = f"http://www.portugalrunning.com/export-events/{id}_0/"
+    response = requests.get(ics_url)
+    response.raise_for_status()
+    with open(ics_path, "wb") as f:
+        f.write(response.content)
+

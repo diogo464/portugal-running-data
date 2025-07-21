@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+import os
+import sys
+import requests
+
+for slug in sys.argv[1:]:
+    id = open(os.path.join("events", slug, "id"), "r").read()
+    data_path = os.path.join("events", slug, "data.json")
+    if os.path.exists(data_path):
+        continue
+    data_url = f"https://portugalrunning.com/wp-json/wp/v2/ajde_events/{id}"
+    response = requests.get(data_url)
+    response.raise_for_status()
+    with open(data_path, "w") as f:
+        f.write(response.text)
+

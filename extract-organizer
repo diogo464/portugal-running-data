@@ -1,0 +1,83 @@
+#!/usr/bin/env python3
+import os
+import sys
+import json
+
+ORGANIZER_XISTARCA = "xistarca"
+ORGANIZER_WERUN = "werun"
+ORGANIZER_HMS_SPORTS = "hms-sports"
+ORGANIZER_CPA = "cpa"
+ORGANIZER_TRILHO_PERDIDO = "trilho-perdido"
+ORGANIZER_EVENT_SPORT = "event-sport"
+ORGANIZER_RUN_PORTO = "run-porto"
+ORGANIZER_BRAGANCA_GRANFONDO_BY_TREK="braganca-grafondo-by-trek"
+ORGANIZER_VILA_FRANCA_DE_XIRA_LISBOA = "vila-franca-de-xira-lisboa"
+ORGANIZER_SINTRA_LISBOA = "sintra-lisboa"
+ORGANIZER_CAMARA_MUNICIPAL_DE_OEIRAS = "camara-municipal-de-oeiras"
+ORGANIZER_MARCO_DE_CANAVESES_PORTO = "marco-de-canaveses-porto"
+ORGANIZER_ESTADIO_UNIVERSITARIO_LISBOA = "estadio-universitario-lisboa"
+ORGANIZER_CLUBE_DO_PESSOAL_AGUAS_DE_GAIA = "clube-do-pessoal-aguas-de-gaia"
+ORGANIZER_AARAM = "aaram"
+ORGANIZER_SANTA_CRUZTORRES_VEDRAS = "santa-cruztorres-vedras"
+ORGANIZER_CLUBE_ASSOCIACAO_DESPORTIVA_E_RECREATIVA_DA_MATA = "clube-associacao-desportiva-e-recreativa-da-mata"
+ORGANIZER_TURRES_EVENTS = "turres-events"
+ORGANIZER_CAMARA_MUNICIPAL_DE_ESTREMOZ = "camara-municipal-de-estremoz"
+ORGANIZER_GRUPO_DE_CULTURA_E_DESPORTO_DOS_BOMBEIROS_VOLUNTARIOS_DE_S_B_MESSINES = "grupo-de-cultura-e-desporto-dos-bombeiros-voluntarios-de-s-b-messines"
+
+CLASS_TO_ORGANIZER = {
+    "event_organizer-xistarca": ORGANIZER_XISTARCA,
+    "event_organizer-we-run": ORGANIZER_WERUN,
+    "event_organizer-cpa": ORGANIZER_CPA,
+    "event_organizer-eventsport": ORGANIZER_EVENT_SPORT,
+    "event_organizer-trilho-perdido": ORGANIZER_TRILHO_PERDIDO,
+    "event_organizer-runporto": ORGANIZER_RUN_PORTO,
+    "event_organizer-hms-sports": ORGANIZER_HMS_SPORTS,
+    "event_organizer-vila-franca-de-xira-lisboa":ORGANIZER_VILA_FRANCA_DE_XIRA_LISBOA,
+    "event_organizer-braganca-granfondo-by-trek":ORGANIZER_BRAGANCA_GRANFONDO_BY_TREK,
+    "event_organizer-sintra-lisboa": ORGANIZER_SINTRA_LISBOA,
+    "event_organizer-camara-municipal-de-oeiras": ORGANIZER_CAMARA_MUNICIPAL_DE_OEIRAS,
+    "event_organizer-marco-de-canaveses-porto": ORGANIZER_MARCO_DE_CANAVESES_PORTO,
+    "event_organizer-estadio-universitario-lisboa": ORGANIZER_ESTADIO_UNIVERSITARIO_LISBOA,
+    "event_organizer-clube-do-pessoal-aguas-de-gaia": ORGANIZER_CLUBE_DO_PESSOAL_AGUAS_DE_GAIA,
+    "event_organizer-aaram": ORGANIZER_AARAM,
+    "event_organizer-santa-cruztorres-vedras": ORGANIZER_SANTA_CRUZTORRES_VEDRAS,
+    "event_organizer-clube-associacao-desportiva-e-recreativa-da-mata": ORGANIZER_CLUBE_ASSOCIACAO_DESPORTIVA_E_RECREATIVA_DA_MATA,
+    "event_organizer-turres-events": ORGANIZER_TURRES_EVENTS,
+    "event_organizer-camara-municipal-de-estremoz": ORGANIZER_CAMARA_MUNICIPAL_DE_ESTREMOZ,
+    "event_organizer-grupo-de-cultura-e-desporto-dos-bombeiros-voluntarios-de-s-b-messines": ORGANIZER_GRUPO_DE_CULTURA_E_DESPORTO_DOS_BOMBEIROS_VOLUNTARIOS_DE_S_B_MESSINES,
+    # ignored
+    "ajde_events": None,
+    "type-ajde_events": None,
+    "status-publish": None,
+    "has-post-thumbnail": None,
+    "hentry": None,
+}
+CLASS_IGNORE_PREFIXES = [
+    "post-",
+    "event_location-",
+    "event_type-",
+    "event_type_2",
+    "event_type_3-sim",
+    "event_type_4-",
+    "event_type_5-",
+]
+
+for slug in sys.argv[1:]:
+    data_path = os.path.join("events", slug, "data.json")
+    with open(data_path, "r") as f:
+        data = json.load(f)
+    classes = data["class_list"]
+    organizer = None
+    organizer_path = os.path.join("events", slug, "organizer")
+    for class_ in classes:
+        if any(class_.startswith(p) for p in CLASS_IGNORE_PREFIXES):
+            continue
+        if class_ not in CLASS_TO_ORGANIZER:
+            raise Exception(f"unknown class: {class_}")
+        if organizer is not None:
+            raise Exception(f"duplicate organizer")
+        organizer = CLASS_TO_ORGANIZER[class_]
+    if organizer is not None:
+        with open(organizer_path, "w") as f:
+            f.write(organizer)
+

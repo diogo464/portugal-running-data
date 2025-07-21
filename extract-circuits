@@ -1,0 +1,85 @@
+#!/usr/bin/env python3
+import os
+import sys
+import json
+
+CIRCUIT_ATRP = "atrp"
+CIRCUIT_MAJORS = "majors"
+CIRCUIT_RIOS_TRAIL_TROPHY = "rios-trail-trophy"
+CIRCUIT_SUPER_HALFS = "super-halfs"
+CIRCUIT_ESTRELAS_DE_PORTUGAL = "estrelas-de-portugal"
+CIRCUIT_TROFEU_ATLETISMO_ALMADA = "trofeu-atletismo-almada"
+CIRCUIT_TROFEU_ALMADA = "trofeu-almada"
+CIRCUIT_ATLETISMO_BARREIRO = "atletismo-barreiro"
+CIRCUIT_MADEIRA_TRAIL = "circuit-madeira-trail"
+CIRCUITO_4_ESTACOES = "quatro-estacoes"
+
+CLASS_TO_CIRCUITS = {
+    "event_type_5-circuito-atrp": [CIRCUIT_ATRP],
+    "event_type_5-superhalfs": [CIRCUIT_SUPER_HALFS],
+    "event_type_5-trofeu-de-almada": [CIRCUIT_TROFEU_ALMADA],
+    "event_type_5-trofeu-atletismo-de-almada": [CIRCUIT_TROFEU_ATLETISMO_ALMADA],
+    "event_type_5-circuito-trail-madeira": [CIRCUIT_MADEIRA_TRAIL],
+    "event_type_5-circuito-estrelas-de-portugal": [CIRCUIT_ESTRELAS_DE_PORTUGAL],
+    "event_type_5-circuito-de-atletismo-do-barreiro": [CIRCUIT_ATLETISMO_BARREIRO],
+    "event_type_5-majors": [CIRCUIT_MAJORS],
+    "event_type_5-circuito-4-estacoes": [CIRCUIT_MAJORS],
+    "event_type_5-3-rios-trail-trophy": [CIRCUIT_RIOS_TRAIL_TROPHY],
+    "event_type_5-circuito-4-estacoes": [CIRCUITO_4_ESTACOES],
+    # ignored
+    "event_type-corrida-10km": [],
+    "event_type-corrida-10-km": [],
+    "event_type-corrida-de-15-km": [],
+    "event_type-meiamaratona": [],
+    "event_type-maratona": [],
+    "event_type-trail": [],
+    "event_type-kids-trail": [],
+    "event_type-trail-curto": [],
+    "event_type-trail-longo": [],
+    "event_type-trail-endurance": [],
+    "event_type-trail-ultra": [],
+    "event_type-sao-silvestre": [],
+    "event_type-outras": [],
+    "event_type-obstaculos": [],
+    "event_type-corta-mato": [],
+    "event_type-backyard-2": [],
+    "event_type-skyrunning": [],
+    "event_type-corridas-inferior-10": [],
+    "event_type-corrida": [],
+    "event_type-kids": [],
+    "event_type-caminhada": [],
+    "ajde_events": [],
+    "type-ajde_events": [],
+    "status-publish": [],
+    "has-post-thumbnail": [],
+    "hentry": [],
+}
+CLASS_IGNORE_PREFIXES = [
+    "post-",
+    "event_location-",
+    "event_organizer-",
+    "event_type_2-",
+    "event_type_4-",
+    "event_type_3-sim",
+]
+
+for slug in sys.argv[1:]:
+    data_path = os.path.join("events", slug, "data.json")
+    with open(data_path, "r") as f:
+        data = json.load(f)
+    classes = data["class_list"]
+    circuits = set()
+    circuits_path = os.path.join("events", slug, "circuits")
+    for class_ in classes:
+        if any(class_.startswith(p) for p in CLASS_IGNORE_PREFIXES):
+            continue
+        if class_ not in CLASS_TO_CIRCUITS:
+            raise Exception(f"unknown class: {class_}")
+        for category in CLASS_TO_CIRCUITS[class_]:
+            circuits.add(category)
+    with open(circuits_path, "w") as f:
+        for i, category in enumerate(sorted(circuits)):
+            if i > 0:
+                f.write("\n")
+            f.write(category)
+

@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+curl https://www.portugalrunning.com/ajde_events-sitemap.xml -o sitemap.xml

@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+import os
+import re
+import sys
+
+for slug in sys.argv[1:]:
+    page_path = os.path.join("events", slug, "page.html")
+    page_content = open(page_path).read()
+    event_id_match = re.search(
+        r'href="https://www.portugalrunning.com/wp-json/wp/v2/ajde_events/(\d+)"',
+        page_content,
+    )
+    assert event_id_match is not None, f"failed to extract event id from {slug}"
+    event_id_path = os.path.join("events", slug, "id")
+    with open(event_id_path, "w") as f:
+        f.write(event_id_match[1].strip())
+

@@ -1,0 +1,74 @@
+#!/usr/bin/env python3
+import os
+import sys
+import json
+
+CATEGORY_RUN = "run"
+CATEGORY_WALK = "walk"
+CATEGORY_TRAIL = "trail"
+CATEGORY_KIDS = "kids"
+CATEGORY_SAINT_SILVESTER = "saint-silvester"
+CATEGORY_10K = "10k"
+CATEGORY_15K = "15k"
+CATEGORY_HALF_MARATHON = "half-marathon"
+CATEGORY_MARATHON = "marathon"
+
+CLASS_TO_CATEGORIES = {
+    "event_type-corrida": [CATEGORY_RUN],
+    "event_type-caminhada": [CATEGORY_WALK],
+    "event_type-corrida-10km": [CATEGORY_RUN, CATEGORY_10K],
+    "event_type-corrida-10-km": [CATEGORY_RUN, CATEGORY_10K],
+    "event_type-corrida-de-15-km": [CATEGORY_RUN, CATEGORY_15K],
+    "event_type-trail": [CATEGORY_TRAIL],
+    "event_type-kids-trail": [CATEGORY_TRAIL, CATEGORY_KIDS],
+    "event_type-trail-curto": [CATEGORY_TRAIL],
+    "event_type-trail-longo": [CATEGORY_TRAIL],
+    "event_type-trail-endurance": [CATEGORY_TRAIL],
+    "event_type-trail-ultra": [CATEGORY_TRAIL],
+    "event_type-sao-silvestre": [CATEGORY_SAINT_SILVESTER],
+    "event_type-outras": [],
+    "event_type-obstaculos": [CATEGORY_RUN],
+    "event_type-corta-mato": [CATEGORY_RUN],
+    "event_type-backyard-2": [CATEGORY_RUN],
+    "event_type-meiamaratona": [CATEGORY_RUN, CATEGORY_HALF_MARATHON],
+    "event_type-maratona": [CATEGORY_RUN, CATEGORY_MARATHON],
+    "event_type-skyrunning": [CATEGORY_RUN],
+    "event_type-corridas-inferior-10": [CATEGORY_RUN],
+    "event_type-kids": [CATEGORY_KIDS],
+    # ignored
+    "ajde_events": [],
+    "type-ajde_events": [],
+    "status-publish": [],
+    "has-post-thumbnail": [],
+    "hentry": [],
+}
+CLASS_IGNORE_PREFIXES = [
+    "post-",
+    "event_location-",
+    "event_organizer-",
+    "event_type_2-",
+    "event_type_3-",
+    "event_type_4-",
+    "event_type_5-",
+]
+
+for slug in sys.argv[1:]:
+    data_path = os.path.join("events", slug, "data.json")
+    with open(data_path, "r") as f:
+        data = json.load(f)
+    classes = data["class_list"]
+    categories = set()
+    categories_path = os.path.join("events", slug, "categories")
+    for class_ in classes:
+        if any(class_.startswith(p) for p in CLASS_IGNORE_PREFIXES):
+            continue
+        if class_ not in CLASS_TO_CATEGORIES:
+            raise Exception(f"unknown class: {class_}")
+        for category in CLASS_TO_CATEGORIES[class_]:
+            categories.add(category)
+    with open(categories_path, "w") as f:
+        for i, category in enumerate(sorted(categories)):
+            if i > 0:
+                f.write("\n")
+            f.write(category)
+
