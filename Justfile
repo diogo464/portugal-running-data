@@ -1,6 +1,9 @@
 _default:
     just --list
 
+commit:
+    ./commit-events.sh
+
 scrape:
     ./fetch-sitemap
     ./setup-directories
@@ -24,3 +27,4 @@ scrape-circuits:
 
 scrape-organizer:
     ./list-slugs | xargs -e -L 64 -P 1 ./extract-organizer
+
