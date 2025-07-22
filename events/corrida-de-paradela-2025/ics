@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4918304
+DTSTAMP:20250720T222305Z
+DTSTART:20251026T171700Z
+DTEND:20251026T235900Z
+LOCATION:Paradela do Vouga\,  Aveiro Paradela do Vouga\,  Aveiro
+SUMMARY:Corrida de Paradela 2025
+DESCRIPTION:A CORRIDA DE PARADELA\,  4ª Edição\,  é uma organização d
+ o Centro Desportivo e Cultural de Paradela do Vouga\,  com o patrocínio\, 
+  Município de Sever do Vouga e em parceria com a União.\nhttps://www.port
+ ugalrunning.com/eventos/corrida-de-paradela-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-paradela-2025/
+END:VEVENT
+END:VCALENDAR

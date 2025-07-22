@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8b30efe
+DTSTAMP:20250720T222827Z
+DTSTART:20220918
+DTEND:20220919
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:2º Trail São Gonçalo 2022
+DESCRIPTION:A “2º Edição&nbsp;“TRAIL SÃO GONÇALO FLOKI”&nbsp;é 
+ uma organização da BestMove com a colaboração da Junta de Freguesia de 
+ Carapeços. Realiza-se no dia 18 de setembro de 2022\,  em Carapeços\,  Ba
+ rcelos e será constituído pelas seguintes atividades: Trail Longo +/- 30k
+ m -&nbsp;Campeonato:&nbsp;Taça Portugal de Trail&nbsp;Serie:&nbsp;100&nbsp
+ ;Grau&nbsp;3Trail Curto +/- 19km -&nbsp;Campeonato:&nbsp;Circuito Jovem&nbs
+ p;Serie:&nbsp;150&nbsp;Grau&nbsp;3Mini Trail[..]\nhttps://www.portugalrunni
+ ng.com/eventos/trail-sao-goncalo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-sao-goncalo-2022/
+END:VEVENT
+END:VCALENDAR

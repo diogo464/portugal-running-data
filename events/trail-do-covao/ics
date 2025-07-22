@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d59dc6f4
+DTSTAMP:20250720T222737Z
+DTSTART:20220313
+DTEND:20220314
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Trail do Covão
+DESCRIPTION:a primeira edição do Trail do Covão é uma prova que percorr
+ e trilhos e caminhos nas freguesias de cête\,  parada de todeia e baltar\,
+   com início e fim no parque urbano de cête.a prova de caracter competiti
+ vo tem duas distâncias (12 km e 20km).a prova está aberta a maiores de[..
+ ]\nhttps://www.portugalrunning.com/eventos/trail-do-covao/
+URL:https://www.portugalrunning.com/eventos/trail-do-covao/
+END:VEVENT
+END:VCALENDAR

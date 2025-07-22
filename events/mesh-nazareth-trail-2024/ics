@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce49592e
+DTSTAMP:20250720T222540Z
+DTSTART:20240501
+DTEND:20240502
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Mesh Nazareth Trail 2024
+DESCRIPTION:Mesh Nazareth Trail 2024\nhttps://www.portugalrunning.com/event
+ os/mesh-nazareth-trail-2024/
+URL:https://www.portugalrunning.com/eventos/mesh-nazareth-trail-2024/
+END:VEVENT
+END:VCALENDAR

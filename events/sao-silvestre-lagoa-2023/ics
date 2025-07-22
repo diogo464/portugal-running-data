@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d217ab05
+DTSTAMP:20250720T222641Z
+DTSTART:20231230
+DTEND:20231231
+LOCATION:Lagoa\,  Faro Lagoa\,  Faro
+SUMMARY:São Silvestre Lagoa 2023
+DESCRIPTION:A corrida São Silvestre Lagoa\,  prova organizada pela Associa
+ ção Académica da Bela Vista\,  com sede na Urbanização da Bela Vista\,
+   Centro Comercial da Bela Vista\,  Lote P17\,  Loja P\,  8400-656 Lagoa\, 
+  e conta com o apoio da Camara Municipal de Lagoa\,  e será realizada no d
+ ia 30 de dezembro de[..]\nhttps://www.portugalrunning.com/eventos/sao-silve
+ stre-lagoa-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-lagoa-2023/
+END:VEVENT
+END:VCALENDAR

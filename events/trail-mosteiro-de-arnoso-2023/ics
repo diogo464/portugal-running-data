@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7730420
+DTSTAMP:20250720T222807Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Arnoso\,  Vila Nova de Famalicão Arnoso\,  Vila Nova de Famalicão
+SUMMARY:Trail Mosteiro de Arnoso 2023
+DESCRIPTION:Depois do enorme sucesso da primeira edição onde estiveram pr
+ esentes cerca de 1000 atletas\,  o Trail Mosteiro de Arnoso está de volta 
+ para edição 2023. É uma organização a cargo da Associação QuebraRitm
+ o\,  a qual promete garantir as mesmas boas emoções e sensações aos par
+ ticipantes da edição anterior\,  pois trata-se[..]\nhttps://www.portugalr
+ unning.com/eventos/trail-mosteiro-de-arnoso-2023/
+URL:https://www.portugalrunning.com/eventos/trail-mosteiro-de-arnoso-2023/
+END:VEVENT
+END:VCALENDAR

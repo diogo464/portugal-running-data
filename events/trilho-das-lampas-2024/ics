@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9b49fc6
+DTSTAMP:20250720T222843Z
+DTSTART:20240511
+DTEND:20240512
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:Trilho das Lampas 2024
+DESCRIPTION:Trilho das Lampas 2024\nhttps://www.portugalrunning.com/eventos
+ /trilho-das-lampas-2024/
+URL:https://www.portugalrunning.com/eventos/trilho-das-lampas-2024/
+END:VEVENT
+END:VCALENDAR

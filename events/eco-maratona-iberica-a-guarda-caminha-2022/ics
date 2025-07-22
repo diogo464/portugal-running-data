@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c82944ff
+DTSTAMP:20250720T222402Z
+DTSTART:20220904
+DTEND:20220905
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:Eco Maratona Ibérica A guarda - Caminha 2022
+DESCRIPTION:Constituída por 2 eventos em localidades fronteiriças (Verín
+ -Chaves e A Guarda-Caminha). A Eco Maratona Ibérica vem revolucionar o con
+ ceito das maratonas. Durante a travessia entre Espanha e Portugal\,  desfru
+ tamos de mar\,  rio\,  e de uma beleza inigualável ao longo de toda a ecov
+ ia. Será uma experiência inédita para todos os[..]\nhttps://www.portugal
+ running.com/eventos/eco-maratona-iberica-a-guarda-caminha-2022/
+URL:https://www.portugalrunning.com/eventos/eco-maratona-iberica-a-guarda-caminha-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdcc384a
+DTSTAMP:20250720T222532Z
+DTSTART:20200906
+DTEND:20200907
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona Lisboa 2020
+DESCRIPTION:A EDP Meia Maratona de Lisboa é o maior evento de atletismo de
+  Portugal reunindo anualmente mais de 35.000 participantes\,  incluindo mil
+ hares de atletas estrangeiros. Com início em 2020\,  a EDP Meia Maratona d
+ e Lisboa é a primeira prova da Super Halfs permitindo que todos os seus 
+ participantes sejam os primeiros a[..]\nhttps://www.portugalrunning.com/eve
+ ntos/meia-maratona-lisboa/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-lisboa/
+END:VEVENT
+END:VCALENDAR

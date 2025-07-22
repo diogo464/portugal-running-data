@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c604a320
+DTSTAMP:20250720T222328Z
+DTSTART:20240106
+DTEND:20240107
+LOCATION:Albergaria-a-Velha\,  Aveiro Albergaria-a-Velha\,  Aveiro
+SUMMARY:Corrida e Caminhada Nocturna dos Reis 2024
+DESCRIPTION:Este evento gratuito\,  promovido pela Junta de Freguesia de Al
+ bergaria-a-Velha e Valmaior\,  realiza-se no dia 6 de janeiro\,  às 18h00.
+ \nhttps://www.portugalrunning.com/eventos/corrida-e-caminhada-nocturna-dos-
+ reis-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-nocturna-dos-reis-2024/
+END:VEVENT
+END:VCALENDAR

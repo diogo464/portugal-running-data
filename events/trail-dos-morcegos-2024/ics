@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65f40ff
+DTSTAMP:20250720T222749Z
+DTSTART:20240921
+DTEND:20240922
+LOCATION:São Miguel\,  Açores São Miguel\,  Açores
+SUMMARY:Trail dos Morcegos 2024
+DESCRIPTION:Percursos: Trail Longo (36km)\,  Trail Curto (18km)\,  Caminhad
+ a (9km) Kids Juvenil (9km)\,  Kids (2km) e Desporto Adaptado (2km)Data: 21 
+ de Setembro 2024Local: Ponta Delgada - Ilha de São Miguel - Açores O&nbsp
+ ;Trail dos Morcegos (TdM)&nbsp;é um evento de trail running que surgiu atr
+ avés da ideia do fundador da equipa\, &nbsp;Ricardo Almeida\, [..]\nhttps:
+ //www.portugalrunning.com/eventos/trail-dos-morcegos-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dos-morcegos-2024/
+END:VEVENT
+END:VCALENDAR

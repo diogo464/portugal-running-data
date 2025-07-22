@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c237a564
+DTSTAMP:20250720T222227Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Lisboa Lisboa
+SUMMARY:Bimbo Global Race 2024
+DESCRIPTION:O Ursinho Bimbo nasce com o Grupo Bimbo\,  acompanhando-o sempr
+ e\,  assando cada fatia de pão\,  cada biscoito\,  cada alimento\,  lado a
+  lado. O seu propósito é o mesmo\,  colocar em cada grão de farinha a vo
+ ntade de alimentar um mundo melhor. Dessa mesma forma\,  nasceu a&nbsp;Bimb
+ o Global Race\,  em busca[..]\nhttps://www.portugalrunning.com/eventos/bimb
+ o-global-race-2024/
+URL:https://www.portugalrunning.com/eventos/bimbo-global-race-2024/
+END:VEVENT
+END:VCALENDAR

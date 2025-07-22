@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d82194f9
+DTSTAMP:20250720T222818Z
+DTSTART:20241124
+DTEND:20241125
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Quinta das Arcas 2024
+DESCRIPTION:Este evento será realizado no concelho de Valongo\,  na fregue
+ sia de Sobrado no dia 24 de Novembro de 2024\,  com partidas/chegadas nas i
+ nstalações da Quinta das Arcas.\nhttps://www.portugalrunning.com/eventos/
+ trail-quinta-das-arcas-2024/
+URL:https://www.portugalrunning.com/eventos/trail-quinta-das-arcas-2024/
+END:VEVENT
+END:VCALENDAR

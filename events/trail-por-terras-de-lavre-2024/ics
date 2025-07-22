@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7f7a66d
+DTSTAMP:20250720T222815Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Lavre\,  Évora Lavre\,  Évora
+SUMMARY:Trail por Terras de Lavre 2024
+DESCRIPTION:O “V Trail Por Terras de Lavre” éorganizado pela Comissão
+  do Departamento Desportivo da Casa Do Povo De Lavre. A prova possui 3 perc
+ ursos diferentes: Trail (+/- 17km) Mini Trail (+/-8 Km) Caminhada (+/-8km)\
+ nhttps://www.portugalrunning.com/eventos/trail-por-terras-de-lavre-2024/
+URL:https://www.portugalrunning.com/eventos/trail-por-terras-de-lavre-2024/
+END:VEVENT
+END:VCALENDAR

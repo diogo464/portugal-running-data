@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09db57e
+DTSTAMP:20250720T222617Z
+DTSTART:20241117
+DTEND:20241118
+LOCATION:Sabrosa\,  Vila Real Sabrosa\,  Vila Real
+SUMMARY:Sabrosa Trail 2024
+DESCRIPTION:O ST é uma prova de Trail Running certificada pela ATRP que pe
+ rcorre trilhos\,  caminhos rurais e estradões do concelho de Sabrosa\,  te
+ ndo como ponto de partida e chegada no Parque B.B. King junto à Exposiçã
+ o Permanente Fernão Magalhães\nhttps://www.portugalrunning.com/eventos/sa
+ brosa-trail-2024/
+URL:https://www.portugalrunning.com/eventos/sabrosa-trail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf748ba2
+DTSTAMP:20250720T222143Z
+DTSTART:20240329
+DTEND:20240330
+LOCATION:Porto de Mós\,  Leiria Porto de Mós\,  Leiria
+SUMMARY:17 kms Porto de Mós 2024
+DESCRIPTION:A&nbsp;Associação Porto de Mós a Correr&nbsp;em conjunto com
+  a Câmara Municipal de Porto de Mós organiza no dia 29 de março de 2024\
+ ,  pelas 10 horas\,  um evento desportivo\,  denominado de&nbsp;“17KM&nbs
+ p;PORTO DE MÓS - SERRA DE AIRE”. Nesta edição irá ser disputado o&nbs
+ p;Campeonato Distrital de Rampa&nbsp;promovido pela&nbsp;ADAL.\nhttps://www
+ .portugalrunning.com/eventos/17-kms-porto-de-mos-2024/
+URL:https://www.portugalrunning.com/eventos/17-kms-porto-de-mos-2024/
+END:VEVENT
+END:VCALENDAR

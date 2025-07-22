@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0d9374a
+DTSTAMP:20250720T222205Z
+DTSTART:20210523
+DTEND:20210524
+LOCATION:Porto de Leixões\,  Porto Porto de Leixões\,  Porto
+SUMMARY:7ª Corrida Porto de Leixões 2021
+DESCRIPTION:A Corrida Porto de Leixões&nbsp;que irá realizar-se no dia 12
+  de Setembro 2021\,  está a ser organizada pela APDL - Administração dos
+  Portos do Douro\,  Leixões e Viana do Castelo e pela EventSport\,  em col
+ aboração com o Centro de Cultura e Desporto da APDL. Esta prova irá deco
+ rrer dentro do[..]\nhttps://www.portugalrunning.com/eventos/7a-corrida-port
+ o-de-leixoes-2021/
+URL:https://www.portugalrunning.com/eventos/7a-corrida-porto-de-leixoes-2021/
+END:VEVENT
+END:VCALENDAR

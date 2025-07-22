@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c53acac4
+DTSTAMP:20250720T222315Z
+DTSTART:20230129
+DTEND:20230130
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:32ª Corrida do Fim da Europa 2023
+DESCRIPTION:A prova com uma distancia total de 17KM\,  com partida em plena
+  Vila de Sintra\,  em frente à Fonte Mourisca\,  com a Meta colocada mesmo
+  em cima das arribas e junto ao Farol do Cabo da Roca\,  o local mais ocide
+ ntal do continente Europeu. Como refere a maior obra épica[..]\nhttps://ww
+ w.portugalrunning.com/eventos/corrida-do-fim-da-europa-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-do-fim-da-europa-2023/
+END:VEVENT
+END:VCALENDAR

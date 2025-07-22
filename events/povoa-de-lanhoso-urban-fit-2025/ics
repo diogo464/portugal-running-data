@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0094264
+DTSTAMP:20250720T222608Z
+DTSTART:20250607
+DTEND:20250608
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:Póvoa de Lanhoso Urban Fit 2025
+DESCRIPTION:O Póvoa de Lanhoso Urban Fit é uma prova que combina corrida 
+ com obstáculos urbanos\,  organizada pela empresa URBAN FIT RACE. A prova 
+ terá partida e chegada no centro da vila.\nhttps://www.portugalrunning.com
+ /eventos/povoa-de-lanhoso-urban-fit-2025/
+URL:https://www.portugalrunning.com/eventos/povoa-de-lanhoso-urban-fit-2025/
+END:VEVENT
+END:VCALENDAR

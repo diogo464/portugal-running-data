@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cacdc32d
+DTSTAMP:20250720T222444Z
+DTSTART:20220910
+DTEND:20220911
+LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+SUMMARY:I Trail Caminhos da Artilharia 2022
+DESCRIPTION:Integrado nas Comemorações 60º Aniversário do Concelho de V
+ endas Novas o Município de Vendas Novas vai organizar o 1º Trail “Camin
+ hos da Artilharia” com as provas\,  trail longo\,  trail curto e uma cami
+ nhada. Partida e chegada no recinto das festas na parada D. Pedro V do Regi
+ mento de Artilharia nº[..]\nhttps://www.portugalrunning.com/eventos/i-trai
+ l-caminhos-da-artilharia-2022/
+URL:https://www.portugalrunning.com/eventos/i-trail-caminhos-da-artilharia-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc84b2ac
+DTSTAMP:20250720T222512Z
+DTSTART:20240907
+DTEND:20240908
+LOCATION:Castro Marim\,  Faro Castro Marim\,  Faro
+SUMMARY:Meia Maratona Castro Marim 2024
+DESCRIPTION:O CLUBE RECREATIVO ALTURENSE vai levar a efeito no dia 7 de ste
+ mebro de 2024 a 15ª Meia Maratona do Concelho de Castro Marim.\nhttps://ww
+ w.portugalrunning.com/eventos/meia-maratona-castro-marim-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-castro-marim-2024/
+END:VEVENT
+END:VCALENDAR

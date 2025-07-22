@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64dc627
+DTSTAMP:20250720T222332Z
+DTSTART:20231014
+DTEND:20231015
+LOCATION:Parque Ribeirinho do Oriente\,  Lisboa Parque Ribeirinho do Oriente\,  Lisboa
+SUMMARY:Corrida Jorge Pina 2023
+DESCRIPTION:A&nbsp;Corrida Associação Jorge Pina powered by MultiOpticas\
+ ,  6ª edição\, &nbsp;é uma corrida de cariz solidário que pretende ang
+ ariar verbas para o desenvolvimento dos projectos da AJP\,  e consiste num 
+ conjunto de provas desportivas na modalidade do atletismo\,  a realizar-se 
+ no dia 14 de Outubro de 2023 no Parque Ribeirinho do Oriente.\nhttps://www.
+ portugalrunning.com/eventos/corrida-jorge-pina-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-jorge-pina-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdd00ad7
+DTSTAMP:20250720T222533Z
+DTSTART:20241123
+DTEND:20241124
+LOCATION:Évora Évora
+SUMMARY:Meia Maratona Évora 2024
+DESCRIPTION:Évora\,  capital de distrito de grande relevância e cheia de 
+ História para contar\,  mas também local de uma Meia-Maratona que promete
+  agitar a prática desportiva. Venha participar na distância principal\,  
+ ou na distância de 10 quilómetros\,  senão percorra as ruas a caminhar.\
+ nhttps://www.portugalrunning.com/eventos/meia-maratona-evora-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-evora-2024/
+END:VEVENT
+END:VCALENDAR

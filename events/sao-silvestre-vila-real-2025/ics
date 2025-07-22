@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d264a660
+DTSTAMP:20250720T222646Z
+DTSTART:20250104
+DTEND:20250105
+LOCATION:Vila Real Vila Real
+SUMMARY:São Silvestre Vila Real 2025
+DESCRIPTION:Realiza-se no dia 4 de Janeiro de 2025\,  pelas 18Horas\,  com 
+ partida no Regimento de Infantaria 13 e chegada na Avenida Carvalho Araújo
+  a XVIII S. Silvestre Cidade de Vila Real\,  na qual se integrará uma Cami
+ nhada S. Silvestre Cidade de Vila Real com a distância de 5 kms\,  sem[..]
+ \nhttps://www.portugalrunning.com/eventos/sao-silvestre-vila-real-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vila-real-2025/
+END:VEVENT
+END:VCALENDAR

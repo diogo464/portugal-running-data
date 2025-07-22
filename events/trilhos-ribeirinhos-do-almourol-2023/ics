@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daec74ee
+DTSTAMP:20250720T222902Z
+DTSTART:20230707
+DTEND:20230708
+LOCATION:Vila Nova da Barquinha\,  Santarém Vila Nova da Barquinha\,  Santarém
+SUMMARY:Trilhos Ribeirinhos Do Almourol 2023
+DESCRIPTION:A prova de aproximadamente de 10 km tem partida no Parque de Vi
+ la Nova da Barquinhae chegada no Regimento de Engenharia N.º 1;\nhttps://w
+ ww.portugalrunning.com/eventos/trilhos-ribeirinhos-do-almourol-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-ribeirinhos-do-almourol-2023/
+END:VEVENT
+END:VCALENDAR

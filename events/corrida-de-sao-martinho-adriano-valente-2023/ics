@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d612fb
+DTSTAMP:20250720T222309Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Cabeceiras de Basto\,  Braga Cabeceiras de Basto\,  Braga
+SUMMARY:Corrida de São Martinho - Adriano Valente 2023
+DESCRIPTION:A prova realiza-se no dia 12 de novembro de 2023\,  pelas 10h30
+ m\,  com partida e chegada na Rua de Arco de Baúlhe. A 8ª Corrida de São
+  Martinho – Adriano Valente é organização do grupo de corrida Arco4Run
+  e da Associação Festeiros do Arco\,  com o apoio da União de[..]\nhttps
+ ://www.portugalrunning.com/eventos/corrida-de-sao-martinho-adriano-valente-
+ 2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-martinho-adriano-valente-2023/
+END:VEVENT
+END:VCALENDAR

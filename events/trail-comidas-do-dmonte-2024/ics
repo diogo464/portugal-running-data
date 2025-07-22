@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d43f40a8
+DTSTAMP:20250720T222715Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:São Marcos da Serra\,  Silves São Marcos da Serra\,  Silves
+SUMMARY:Trail Comidas do D'Monte 2024
+DESCRIPTION:O II Trail Comidas do Monte é um evento desportivo de caráter
+  lúdico e competitivo que tem por objetivo divulgar e promover não só a 
+ prática desportiva\,  em especial na modalidade de trail running\,  mas ta
+ mbém os territórios onde decorre o evento. O evento irá decorrer no dia 
+ 29 de[..]\nhttps://www.portugalrunning.com/eventos/trail-comidas-do-dmonte-
+ 2024/
+URL:https://www.portugalrunning.com/eventos/trail-comidas-do-dmonte-2024/
+END:VEVENT
+END:VCALENDAR

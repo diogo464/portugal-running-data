@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc2dae
+DTSTAMP:20250720T222651Z
+DTSTART:20200920
+DTEND:20200921
+LOCATION:Évora Évora
+SUMMARY:Sharish Monsaraz Natur Trail 2020
+DESCRIPTION:No dia 22 março 2020 esta aventura épica continua entre o cé
+ u e a terra. O Sharish Monsaraz Natur Trail leva-te a conquistar trilhos ou
+ trora percorridos por bravos cavaleiros templários. Aventura-te neste desa
+ fio onde o palco fica entre o céu e a terra\nhttps://www.portugalrunning.c
+ om/eventos/sharish-monsaraz-natur-trail-2020/
+URL:https://www.portugalrunning.com/eventos/sharish-monsaraz-natur-trail-2020/
+END:VEVENT
+END:VCALENDAR

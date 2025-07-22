@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4431453
+DTSTAMP:20250720T222300Z
+DTSTART:20220820
+DTEND:20220821
+LOCATION:Leiria Leiria
+SUMMARY:Corrida da Praia da Vieira 2022
+DESCRIPTION:O Industrial Desportivo Vieirense leva a efeito no próximo d
+ ia 20 de Agosto de 2022\,  a Corrida da Praia da Vieira\,  competição e
+ nglobada no circuito de meio-fundo da Associação Distrital de Atletismo d
+ e Leiria (ADAL).\nhttps://www.portugalrunning.com/eventos/corrida-da-praia-
+ da-vieira-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-praia-da-vieira-2022/
+END:VEVENT
+END:VCALENDAR

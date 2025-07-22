@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5092807
+DTSTAMP:20250720T222728Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Trail Da União 2022
+DESCRIPTION:Trail Da União 2022\nhttps://www.portugalrunning.com/eventos/t
+ rail-da-uniao-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-uniao-2022/
+END:VEVENT
+END:VCALENDAR

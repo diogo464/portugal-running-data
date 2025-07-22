@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccdc631
+DTSTAMP:20250720T222516Z
+DTSTART:20250511
+DTEND:20250512
+LOCATION:Bragança Bragança
+SUMMARY:Meia Maratona das Cantarinhas 2025
+DESCRIPTION:O Ginásio Clube de Bragança teria muito gosto em contar com a
+  participação dos clubes da Associação de Atletismo de Viseu na nossa p
+ rova. Para além das corridas gratuitas destinadas a crianças e jovens\,  
+ o evento inclui uma caminhada e provas de 5 km\,  10 km e meia maratona. To
+ dos[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-das-cantarin
+ has-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-das-cantarinhas-2025/
+END:VEVENT
+END:VCALENDAR

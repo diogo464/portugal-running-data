@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d55498e6
+DTSTAMP:20250720T222733Z
+DTSTART:20241013T222700Z
+DTEND:20241013T222700Z
+LOCATION:Ilha do Faial\,  Açores Ilha do Faial\,  Açores
+SUMMARY:Trail de São Mateus 2024
+DESCRIPTION:O Trail de São Mateus é um evento desportivo\,  cultural e so
+ cial organizado para todas as pessoas. É composta por uma Caminhada de 8 k
+ ms e por&nbsp;uma Corrida em Trilho de 14 kms pelos 'Caminhos do Cabrito'.&
+ nbsp; Realiza-se no próximo dia 13 de outubro de 2024\,  domingo\,  em tri
+ lhos sinalizados\, [..]\nhttps://www.portugalrunning.com/eventos/trail-de-s
+ ao-mateus-2024/
+URL:https://www.portugalrunning.com/eventos/trail-de-sao-mateus-2024/
+END:VEVENT
+END:VCALENDAR

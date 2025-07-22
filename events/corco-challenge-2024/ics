@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2f4a271
+DTSTAMP:20250720T222239Z
+DTSTART:20240602T071300Z
+DTEND:20240602T235900Z
+LOCATION:Macedo de Cavaleiros\,  Bragança Macedo de Cavaleiros\,  Bragança
+SUMMARY:Corço Challenge 2024
+DESCRIPTION:No dia 2 de junho\,  em Grijó\,  terá lugar o I Corço Challe
+ nge\,  organizado pela Grijó + Jovem e Câmara Municipal de Macedo de Cava
+ leiros. Uma prova de 10Km de obstáculos\,  na natureza\,  desenhada para c
+ olocar à prova os mais atletas e ser um dia cheio de diversão.\nhttps://w
+ ww.portugalrunning.com/eventos/corco-challenge-2024/
+URL:https://www.portugalrunning.com/eventos/corco-challenge-2024/
+END:VEVENT
+END:VCALENDAR

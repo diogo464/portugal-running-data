@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c09005c0
+DTSTAMP:20250720T222201Z
+DTSTART:20221223
+DTEND:20221224
+LOCATION:Nisa\,  Portalegre Nisa\,  Portalegre
+SUMMARY:5.° Corrida São Silvestre de Nisa - Memorial Ricardo Mateus 2022
+DESCRIPTION:A “5.a Corrida São Silvestre de Nisa” é uma prova de atle
+ tismo (estrada) e realiza-se no dia 23 de dezembro de 2022\,  entre as 20h3
+ 0 e as 22h30\,  na Praça da República de Nisa\,  organizada pelo Sporting
+  Clube de Nisa\,  com o apoio da Câmara Municipal de Nisa e a[..]\nhttps:/
+ /www.portugalrunning.com/eventos/5-corrida-sao-silvestre-de-nisa-memorial-r
+ icardo-mateus-2022/
+URL:https://www.portugalrunning.com/eventos/5-corrida-sao-silvestre-de-nisa-memorial-ricardo-mateus-2022/
+END:VEVENT
+END:VCALENDAR

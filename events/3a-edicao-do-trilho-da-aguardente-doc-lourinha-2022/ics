@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0449f1b
+DTSTAMP:20250720T222156Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:3ª Edição Do Trilho Da Aguardente Doc Lourinhã 2022
+DESCRIPTION:A 3ª edição do Trilho da Aguardente DOC Lourinhã será real
+ izado no dia 13 de Novembro de 2022\,  com partida e chegada na Lourinhã\,
+   com início previsto para as 09H00 para as provas principais. Trata-se de
+  um evento misto com três distâncias de trail e uma de caminhada em ambie
+ nte[..]\nhttps://www.portugalrunning.com/eventos/3a-edicao-do-trilho-da-agu
+ ardente-doc-lourinha-2022/
+URL:https://www.portugalrunning.com/eventos/3a-edicao-do-trilho-da-aguardente-doc-lourinha-2022/
+END:VEVENT
+END:VCALENDAR

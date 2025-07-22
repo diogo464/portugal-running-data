@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4c62768
+DTSTAMP:20250720T222724Z
+DTSTART:20221127
+DTEND:20221128
+LOCATION:Alvaiázere\,  Leiria Alvaiázere\,  Leiria
+SUMMARY:Trail da Maçã 2022
+DESCRIPTION:Adiado para 27 de Novembro. O Trail da Maçã – Maçãs de D.
+  Maria2022\,  sob organização da Junta de Freguesia de Maçãs de Dona Ma
+ ria pretende afirmar-se como uma prova de desporto e lazer\,  com carácter
+  competitivo\,  na vertente de corrida [Trail Running]\,  a realizar por pe
+ rcursos e trilhos envolventes[..]\nhttps://www.portugalrunning.com/eventos/
+ trail-da-maca-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-maca-2022/
+END:VEVENT
+END:VCALENDAR

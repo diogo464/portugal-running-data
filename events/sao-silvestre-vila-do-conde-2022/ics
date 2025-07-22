@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d26dcd85
+DTSTAMP:20250720T222646Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:São Silvestre Vila do Conde 2022
+DESCRIPTION:Realiza-se no dia 10 de dezembro de 2022 pelas 17h\,  a prova c
+ omeça e acaba nos Jardins da Avenida Júlio Graça\,  o tempo máximo de d
+ uração desta prova é de 2 horas.\nhttps://www.portugalrunning.com/evento
+ s/sao-silvestre-vila-do-conde-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vila-do-conde-2022/
+END:VEVENT
+END:VCALENDAR

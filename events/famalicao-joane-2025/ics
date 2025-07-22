@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8c31321
+DTSTAMP:20250720T222412Z
+DTSTART:20250511T192400Z
+DTEND:20250511T192400Z
+LOCATION:Joane\,  Vila Nova de Famalicão Joane\,  Vila Nova de Famalicão
+SUMMARY:Famalicão Joane 2025
+DESCRIPTION:A 25.ª edição da prova\,  na distância de 11\, 1 km\,  que 
+ também contempla uma caminhada de 4km\,  terá lugar no dia 11 de maio de 
+ 2025. A prova\,  que já foi palco de duas edições do Campeonato Nacional
+  de Estrada da FP Atletismo\,  desenrola-se ao longo da Estrada Nacional 20
+ 6\, [..]\nhttps://www.portugalrunning.com/eventos/famalicao-joane-2025/
+URL:https://www.portugalrunning.com/eventos/famalicao-joane-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca4018ba
+DTSTAMP:20250720T222436Z
+DTSTART:20231031
+DTEND:20231101
+LOCATION:Estádio Universitário de Lisboa\,  Lisboa Estádio Universitário de Lisboa\,  Lisboa
+SUMMARY:Halloween Night Run 2023
+DESCRIPTION:No dia 31 de Outubro de 2023\,  o Estádio Universitário de Li
+ sboa será\,  uma vez mais\,  o palco para a 8ª Halloween Night Run\,  mai
+ s uma vez com a Special Edition: Zombie Run. Mascara-te a rigor\,  corre o 
+ mais rápido que puderes e foge dos ZOMBIES que vão CORRER atrás[..]\nhtt
+ ps://www.portugalrunning.com/eventos/halloween-night-run-2023/
+URL:https://www.portugalrunning.com/eventos/halloween-night-run-2023/
+END:VEVENT
+END:VCALENDAR

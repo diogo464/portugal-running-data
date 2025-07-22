@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d827b05c
+DTSTAMP:20250720T222818Z
+DTSTART:20250621T074100Z
+DTEND:20250621T074100Z
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:Trail Real Edificio de Mafra 2025
+DESCRIPTION:A Associação Humanitária dos Bombeiros Voluntários de Mafra
+  irá organizar\,  a 21 de Junho de2025\,  pelas 18h00\,  a primeira ediç�
+ �o do Trail do Real Edifício de Mafra – Sunset\,  EdiçãoEspecial. O Tr
+ ail do Real Edifício de Mafra é uma prova de TrailRunning\,  corrida pede
+ stre emnatureza\,  com duas vertentes\,  Trail K12+[..]\nhttps://www.portug
+ alrunning.com/eventos/trail-real-edificio-de-mafra-2025/
+URL:https://www.portugalrunning.com/eventos/trail-real-edificio-de-mafra-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc362ace
+DTSTAMP:20250720T222923Z
+DTSTART:20221023
+DTEND:20221024
+LOCATION:Viseu Viseu
+SUMMARY:Viseu Trail Running 2022
+DESCRIPTION:O Viseu Trail Running 2022 realiza-se em 23 de outubro de 2022.
+  A VI Edição do Viseu Trail Running será constituída por três provas:�
+ �� TRAIL CURTO (TC15) – Distância de 15km• TRAIL LONGO (TL28) – Dist
+ ância de 28km – (Circuito Nacional de Trail)• ULTRA TRAIL MÉDIO (UTM4
+ 5) – Distância de[..]\nhttps://www.portugalrunning.com/eventos/viseu-tra
+ il-running-2022/
+URL:https://www.portugalrunning.com/eventos/viseu-trail-running-2022/
+END:VEVENT
+END:VCALENDAR

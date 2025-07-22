@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3b30bb6
+DTSTAMP:20250720T222707Z
+DTSTART:20250425
+DTEND:20250426
+LOCATION:Alte\,  Loulé Alte\,  Loulé
+SUMMARY:Trail Alte Algarve 2025
+DESCRIPTION:O 9.º TRAIL ALTE Algarve é promovido e organizado pela Escola
+  Profissional de Alte e realiza-se no dia 25 de abril. 2.1- O Trail / Camin
+ hadas é constituído pelos seguintes níveis: Trail 15 km; Caminhada 15 km
+ ; Caminhada 10 km.\nhttps://www.portugalrunning.com/eventos/trail-alte-alga
+ rve-2025/
+URL:https://www.portugalrunning.com/eventos/trail-alte-algarve-2025/
+END:VEVENT
+END:VCALENDAR

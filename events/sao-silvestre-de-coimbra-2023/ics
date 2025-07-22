@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1718a33
+DTSTAMP:20250720T222631Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Coimbra Coimbra
+SUMMARY:São Silvestre Coimbra 2023
+DESCRIPTION:A REMAX WHITE Corrida São Silvestre tem um percurso de aproxim
+ adamente 10 km enquanto a Caminhada INTERMARCHÉ TAVEIRO terá uma distânc
+ ia de 5 km.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-coimb
+ ra-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-coimbra-2023/
+END:VEVENT
+END:VCALENDAR

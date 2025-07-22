@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd5aa9db
+DTSTAMP:20250720T222525Z
+DTSTART:20231022
+DTEND:20231023
+LOCATION:Valência\,  Espanha Valência\,  Espanha
+SUMMARY:Meia Maratona de Valência 2023
+DESCRIPTION:The Royal Spanish Athletics Federation have awarded the Valenci
+ a Half Marathon Trinidad Alfonso EDP the title of the best half marathon in
+  Spain\,  and when you run this amazing race it’s easy to see why. As wel
+ l as the best\,  it’s also the country’s fastest half marathon\,  with 
+ 10 people[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-val
+ encia-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-valencia-2023/
+END:VEVENT
+END:VCALENDAR

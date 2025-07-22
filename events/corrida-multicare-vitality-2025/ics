@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6501d56
+DTSTAMP:20250720T222333Z
+DTSTART:20251005
+DTEND:20251006
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corrida Multicare Vitality 2025
+DESCRIPTION:Dia 5 de Outubro\,  o Parque do Jamor recebe a 5ª edição da 
+ Corrida Multicare Vitality com desafios para pessoas de todas as idades: co
+ rrida 10 km/5 km\,  caminhada 5 km e Corrida das Crianças.\nhttps://www.po
+ rtugalrunning.com/eventos/corrida-multicare-vitality-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-multicare-vitality-2025/
+END:VEVENT
+END:VCALENDAR

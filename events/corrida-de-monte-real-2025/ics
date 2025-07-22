@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c48c427b
+DTSTAMP:20250720T222304Z
+DTSTART:20250719
+DTEND:20250720
+LOCATION:Monte Real\,  Leiria Monte Real\,  Leiria
+SUMMARY:Corrida de Monte Real 2025
+DESCRIPTION:A Corrida Monte Real é uma organização da Câmara Municipal 
+ de Leiria em parceria com a União de Freguesias de Monte Real e Carvide e 
+ que volta a visitar a Base Aérea n.º 5.\nhttps://www.portugalrunning.com/
+ eventos/corrida-de-monte-real-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-monte-real-2025/
+END:VEVENT
+END:VCALENDAR

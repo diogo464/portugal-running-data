@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d61708
+DTSTAMP:20250720T222309Z
+DTSTART:20240810
+DTEND:20240811
+LOCATION:Carvalhal\,  Grândola Carvalhal\,  Grândola
+SUMMARY:Corrida de São Romão 2024
+DESCRIPTION:A Corrida de São Romão é organizada pela Juventude Desportiv
+ a do Carvalhal. Esta corrida é caracterizada por um percurso de dificuldad
+ e moderada\,  realizada na Aldeia do Carvalhal e arredores. Por ter 3 tipos
+  de piso (Alcatrão\,  terra batida e Areia solta - Praia) num só percurso
+  pode ser considerada única.[..]\nhttps://www.portugalrunning.com/eventos/
+ corrida-de-sao-romao-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-romao-2024/
+END:VEVENT
+END:VCALENDAR

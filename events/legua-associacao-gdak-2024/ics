@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb4dcab6
+DTSTAMP:20250720T222452Z
+DTSTART:20240512T085400Z
+DTEND:20240512T235900Z
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:Légua Associação GDAK 2024
+DESCRIPTION:A Associação GDAK\,  juntamente com o apoio da Câmara Munici
+ pal do Barreiro e organização técnica da Xistarca\,  organiza no dia 12 
+ de maio de 2024\,  a 8ª Prova do Circuito de Atletismo do Barreiro.\nhttp
+ s://www.portugalrunning.com/eventos/legua-associacao-gdak-2024/
+URL:https://www.portugalrunning.com/eventos/legua-associacao-gdak-2024/
+END:VEVENT
+END:VCALENDAR

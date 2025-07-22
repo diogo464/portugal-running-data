@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da34a0e5
+DTSTAMP:20250720T222851Z
+DTSTART:20240324
+DTEND:20240325
+LOCATION:Belas\,  Sintra\,  Lisboa Belas\,  Sintra\,  Lisboa
+SUMMARY:Trilhos de Bellas 2024
+DESCRIPTION:Trilhos de Bellas 2024\nhttps://www.portugalrunning.com/eventos
+ /trilhos-de-bellas-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-bellas-2024/
+END:VEVENT
+END:VCALENDAR

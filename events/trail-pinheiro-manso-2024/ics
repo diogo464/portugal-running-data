@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7f309f4
+DTSTAMP:20250720T222815Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Caranguejeira\,  Leiria Caranguejeira\,  Leiria
+SUMMARY:Trail Pinheiro Manso 2024
+DESCRIPTION:O&nbsp;Trail do Pinheiro Manso (TPM)\,  sob organização do cl
+ ube –&nbsp;Grupo de Atletismo da Caranguejeira&nbsp;em parceria com outra
+ s entidades\,  nomeadamente a&nbsp;Junta de Freguesia da Caranguejeira\, &n
+ bsp;pretende afirmar-se como uma prova de desporto e lazer\,  com caráter 
+ competitivo\,  na vertente de corrida [Trail Running]\,  a realizar por per
+ cursos e trilhos envolventes à freguesia[..]\nhttps://www.portugalrunning.
+ com/eventos/trail-pinheiro-manso-2024/
+URL:https://www.portugalrunning.com/eventos/trail-pinheiro-manso-2024/
+END:VEVENT
+END:VCALENDAR

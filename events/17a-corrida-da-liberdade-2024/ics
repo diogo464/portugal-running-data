@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf417f7b
+DTSTAMP:20250720T222140Z
+DTSTART:20240425
+DTEND:20240426
+LOCATION:Setúbal Setúbal
+SUMMARY:17ª Corrida da Liberdade 2024
+DESCRIPTION:A Junta de Freguesia de São Sebastião organiza com o apoio 
+ da Associação de Atletismo Lebres do Sado e do movimento associativo a 1
+ 7º edição da Corrida da Liberdade no dia 25 de abril de 2024\nhttps://w
+ ww.portugalrunning.com/eventos/17a-corrida-da-liberdade-2024/
+URL:https://www.portugalrunning.com/eventos/17a-corrida-da-liberdade-2024/
+END:VEVENT
+END:VCALENDAR

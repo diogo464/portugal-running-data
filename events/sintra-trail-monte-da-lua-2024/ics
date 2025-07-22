@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc37f2
+DTSTAMP:20250720T222651Z
+DTSTART:20240407
+DTEND:20240408
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Sintra Trail Monte da Lua 2024
+DESCRIPTION:Sintra Trail Monte da Lua 2024\nhttps://www.portugalrunning.com
+ /eventos/sintra-trail-monte-da-lua-2024/
+URL:https://www.portugalrunning.com/eventos/sintra-trail-monte-da-lua-2024/
+END:VEVENT
+END:VCALENDAR

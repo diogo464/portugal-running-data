@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cac18fc9
+DTSTAMP:20250720T222444Z
+DTSTART:20240727
+DTEND:20240728
+LOCATION:Gondar\,  Caminha Gondar\,  Caminha
+SUMMARY:II Trail Noturno Gondarense 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ii-trail-noturno-gond
+ arense-2024/
+URL:https://www.portugalrunning.com/eventos/ii-trail-noturno-gondarense-2024/
+END:VEVENT
+END:VCALENDAR

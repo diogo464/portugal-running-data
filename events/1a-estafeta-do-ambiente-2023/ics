@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf7c53b5
+DTSTAMP:20250720T222143Z
+DTSTART:20230608
+DTEND:20230609
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:1ª Estafeta Do Ambiente 2023
+DESCRIPTION:A Estafeta do&nbsp;Ambiente&nbsp;é uma corrida por&nbsp;equipa
+ s de 2 elementos\,  num circuito fechado com o perímetro de 5 km\,  com&nb
+ sp;partida e chegada na Alameda Keil do Amaral\,  no Monsanto\,  Lisboa. As
+  equipas poderão ser masculinas\,  femininas ou mistas. Junta a tua equipa
+ \,  corram e aproveitem para celebrar o&nbsp;Dia Mundial do Meio[..]\nhttps
+ ://www.portugalrunning.com/eventos/1a-estafeta-do-ambiente-2023/
+URL:https://www.portugalrunning.com/eventos/1a-estafeta-do-ambiente-2023/
+END:VEVENT
+END:VCALENDAR

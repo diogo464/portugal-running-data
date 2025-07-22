@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c36f4134
+DTSTAMP:20250720T222246Z
+DTSTART:20240908T044500Z
+DTEND:20240908T235900Z
+LOCATION:Lusical\,  Alcanede Lusical\,  Alcanede
+SUMMARY:Corrida / Caminhada Lusical 2024
+DESCRIPTION:A&nbsp;2ª Corrida / Caminhada Solidária Lusical 2024&nbsp;é 
+ um evento de corrida e caminhada com partida das instalações da&nbsp;LUSI
+ CAL\,  com percurso em terra batida e alcatrão e meta nas instalações do
+ s&nbsp;Bombeiros Voluntários de Alcanede. O evento é organizado pela Lusi
+ cal - Companhia Lusitana de Cal\,  SA e Bombeiros Voluntários de Alcanede\
+ , [..]\nhttps://www.portugalrunning.com/eventos/corrida-caminhada-lusical-2
+ 024/
+URL:https://www.portugalrunning.com/eventos/corrida-caminhada-lusical-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b48a5c
+DTSTAMP:20250720T222411Z
+DTSTART:20240610
+DTEND:20240611
+LOCATION:Cucos\,  Torres Vedras Cucos\,  Torres Vedras\,  Lisboa
+SUMMARY:Extreme Trail Cucos 2024
+DESCRIPTION: O   TURRES TRAIL  CLUBE \,  com o apoio da Câmara Munic
+ ipal de Torres Vedras e junta de freguesia de São Pedro Santiago e Santa M
+ aria  \,   vai realizar no próximo dia 10 de Junho de 2024\,  um event
+ o denominado "   10º EXTREME TRAIL CUCOS". Este evento\,  terá um Tra
+ il Longo  MD de Grau 3\,  um Trail Curto  MD[..]\nhttps://www.portugalr
+ unning.com/eventos/extreme-trail-cucos-2024/
+URL:https://www.portugalrunning.com/eventos/extreme-trail-cucos-2024/
+END:VEVENT
+END:VCALENDAR

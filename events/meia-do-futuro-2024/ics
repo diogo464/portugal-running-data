@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc895316
+DTSTAMP:20250720T222512Z
+DTSTART:20241109
+DTEND:20241110
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Meia do Futuro 2024
+DESCRIPTION:A&nbsp;19ª Meia do Futuro&nbsp;é organizada numa parceria con
+ junta entre a&nbsp;Meia Maratona Internacional da Nazaré&nbsp;e o&nbsp;Clu
+ be de Atletismo da Nazaré. Será realizada no dia&nbsp;09&nbsp;de Novembro
+  de 2024&nbsp;a partir das&nbsp;15h30&nbsp;com partida na&nbsp;Praça Manue
+ l de Arriaga - Nazaré.\nhttps://www.portugalrunning.com/eventos/meia-do-fu
+ turo-2024/
+URL:https://www.portugalrunning.com/eventos/meia-do-futuro-2024/
+END:VEVENT
+END:VCALENDAR

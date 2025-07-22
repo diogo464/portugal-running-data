@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9f00c41
+DTSTAMP:20250720T222431Z
+DTSTART:20230917
+DTEND:20230918
+LOCATION:Viana do Alentejo\,  Évora Viana do Alentejo\,  Évora
+SUMMARY:Grande Prémio de Atletismo“Sr.ª D’AIRES" 2023
+DESCRIPTION:O Município de Viana do Alentejo com a organização do Grande
+  Prémio de Atletismo “Sr.ª D’Aires”-Memorial Luís Filipe Branco\, 
+  o evento organizar-se-á no domingo anterior à Feira D’Aires\,  a 17 de
+ setembro de 2023\nhttps://www.portugalrunning.com/eventos/grande-premio-de-
+ atletismosr-a-daires-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismosr-a-daires-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50c42c6
+DTSTAMP:20250720T222728Z
+DTSTART:20211024
+DTEND:20211025
+LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+SUMMARY:Trail de Fátima 2021
+DESCRIPTION:O percurso Trail Longo&nbsp;terá a distância aproximada de 30
+  km.&nbsp;É uma prova\,  dirigida a atletas experimentados.Éumaprova com 
+ certificaçãoATRP e pontuável para a Taça de Portugal.É ainda uma prova
+  pontuável para o Campeonato de Trail da AAS (Associação Trail Santarém
+ ) O percurso Trail Curto&nbsp;tem a distância aproximada de 15km. É uma[.
+ .]\nhttps://www.portugalrunning.com/eventos/trail-de-fatima-2021/
+URL:https://www.portugalrunning.com/eventos/trail-de-fatima-2021/
+END:VEVENT
+END:VCALENDAR

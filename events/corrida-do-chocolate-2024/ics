@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c521925f
+DTSTAMP:20250720T222314Z
+DTSTART:20240302
+DTEND:20240303
+LOCATION:Óbidos\,  Leiria Óbidos\,  Leiria
+SUMMARY:Corrida do Chocolate 2024
+DESCRIPTION:&nbsp;Empresa Municipal “Óbidos Criativa” (OC) organiza em
+  parceria com a Câmara Municipal de Óbidos (CMO)\,  o Clube de Atletismo 
+ de Óbidos (CAOB) e a Ganhardestak\,  no dia 2 de março de 2024\,  uma com
+ petição denominada “V CORRIDA DO CHOCOLATE”\,  integrando ainda a “
+ IV CAMINHADA DO CHOCOLATE”\,  ambas com partida e[..]\nhttps://www.portug
+ alrunning.com/eventos/corrida-do-chocolate-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-chocolate-2024/
+END:VEVENT
+END:VCALENDAR

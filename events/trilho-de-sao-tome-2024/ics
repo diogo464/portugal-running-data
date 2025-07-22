@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9c7ad85
+DTSTAMP:20250720T222844Z
+DTSTART:20240107
+DTEND:20240108
+LOCATION:Ferreira-a-Nova\,  Figueira da Foz Ferreira-a-Nova\,  Figueira da Foz
+SUMMARY:X Trilho de S. Tomé 2024
+DESCRIPTION:O “X Trilho de S. Tomé'24” será realizado no dia 7 de Jan
+ eiro de 2024\,  em Ferreira-a-Nova (40.23488620\,  -8.73803616) a partir da
+ s 09:30h\,  independentemente das condições climatéricas desse dia\,  de
+ sde que a organização entenda que não ofereçam risco para os participan
+ tes. Se a Organização o entender\,  e a segurança dos[..]\nhttps://www.p
+ ortugalrunning.com/eventos/trilho-de-sao-tome-2024/
+URL:https://www.portugalrunning.com/eventos/trilho-de-sao-tome-2024/
+END:VEVENT
+END:VCALENDAR

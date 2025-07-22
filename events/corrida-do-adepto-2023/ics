@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d63824
+DTSTAMP:20250720T222309Z
+DTSTART:20230128
+DTEND:20230129
+LOCATION:Leiria Leiria
+SUMMARY:Corrida do Adepto 2023
+DESCRIPTION:A CORRIDA DO ADEPTO 2023 é um evento desportivo organizado pel
+ a Fundação do Futebol - Liga Portugal\,  com o apoio da Câmara Municipa
+ l de Leiria\,  do Instituto Português do Desporto e da Juventude e do Mini
+ stério de Educação. A organização técnica é da responsabilidade da e
+ mpresa HMS Sports.\nhttps://www.portugalrunning.com/eventos/corrida-do-adep
+ to-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-do-adepto-2023/
+END:VEVENT
+END:VCALENDAR

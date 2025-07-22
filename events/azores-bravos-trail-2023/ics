@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1e79a44
+DTSTAMP:20250720T222222Z
+DTSTART:20231007
+DTEND:20231008
+LOCATION:Angra do Heroísmo\,  Ilha Terceira\,  Açores Angra do Heroísmo\,  Ilha Terceira\,  Açores
+SUMMARY:Azores Bravos Trail 2023
+DESCRIPTION:O Azores Bravos Trail (AzBT) é um evento competitivo de Trail-
+ Running organizado pelaAssociação de Atletismo da Ilha Terceira (AAIT)\, 
+  em parceria com o Governo Regional dos Açorese dos Municípios de Angra d
+ o Heroísmo e da Praia da Vitória\,  e que integra quatro provas: AzoresBr
+ avos Trail 100K (AzBT_100)\,  Azores Bravos Trail[..]\nhttps://www.portugal
+ running.com/eventos/azores-bravos-trail-2023/
+URL:https://www.portugalrunning.com/eventos/azores-bravos-trail-2023/
+END:VEVENT
+END:VCALENDAR

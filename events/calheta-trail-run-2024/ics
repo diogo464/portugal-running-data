@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2732d72
+DTSTAMP:20250720T222231Z
+DTSTART:20240713
+DTEND:20240714
+LOCATION:Calheta\,  Madeira Calheta\,  Madeira
+SUMMARY:Calheta Trail Run 2024
+DESCRIPTION:O "CALHETA TRAIL RUN 2024"\,  realiza-se no dia 13 de Julho de 
+ 2024\,  no concelho de Calheta na Ilha de São Jorge – Açores. Este even
+ to é uma organização da Aventour Azores Adventures em parceria com a Câ
+ mara Municipal de Calheta\,  inserido no Festival de Julho 2024\,  com duas
+  modalidades:[..]\nhttps://www.portugalrunning.com/eventos/calheta-trail-ru
+ n-2024/
+URL:https://www.portugalrunning.com/eventos/calheta-trail-run-2024/
+END:VEVENT
+END:VCALENDAR

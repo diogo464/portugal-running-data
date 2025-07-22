@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc361433
+DTSTAMP:20250720T222923Z
+DTSTART:20230611
+DTEND:20230612
+LOCATION:Arentim e Cunha\,  Braga Arentim e Cunha\,  Braga
+SUMMARY:Vi Trail Senhora Do Carmo 2023
+DESCRIPTION:O VI Trail Senhora do Carmo será realizado no dia 11 de junho 
+ 2023\,  sendo constituído por 3eventos: Trail Longo com a distância aprox
+ imada de 21 km\,  ±900 m de desnível positivo. Trail Curto com a distânc
+ ia aproximada de 14 km\,  ±550 m de desnível positivo. Caminhada com a di
+ stância[..]\nhttps://www.portugalrunning.com/eventos/vi-trail-senhora-do-c
+ armo-2023/
+URL:https://www.portugalrunning.com/eventos/vi-trail-senhora-do-carmo-2023/
+END:VEVENT
+END:VCALENDAR

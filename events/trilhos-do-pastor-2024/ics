@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da97b1ec
+DTSTAMP:20250720T222857Z
+DTSTART:20240421
+DTEND:20240422
+LOCATION:Batalha\,  Leiria Batalha\,  Leiria
+SUMMARY:Trilhos do Pastor 2024
+DESCRIPTION:Trilhos do Pastor 2024\nhttps://www.portugalrunning.com/eventos
+ /trilhos-do-pastor-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-pastor-2024/
+END:VEVENT
+END:VCALENDAR

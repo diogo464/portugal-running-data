@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdd18358
+DTSTAMP:20250720T222533Z
+DTSTART:20250921
+DTEND:20250922
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:Meia Maratona Loures Odivelas 2025
+DESCRIPTION:Os Municípios de Loures e Odivelas organizam pela terceira ve
+ z a Meia Maratona – Odivelas-Loures-Odivelas\,  no dia 21 de setembro. S
+ ob o slogan Juntos pelo Desporto\,  as duas autarquias unem-se para reviver
+  uma prova de atletismo que se realizava nos anos 80 e 90 e que ligava as d
+ uas cidades. Numa data[..]\nhttps://www.portugalrunning.com/eventos/meia-ma
+ ratona-loures-odivelas-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-loures-odivelas-2025/
+END:VEVENT
+END:VCALENDAR

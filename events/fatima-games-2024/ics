@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b31935
+DTSTAMP:20250720T222411Z
+DTSTART:20240907T154400Z
+DTEND:20240907T154400Z
+LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+SUMMARY:Fátima Games 2024
+DESCRIPTION:O Fátima Games consiste numa prova de corrida de 800m seguida 
+ de um exercício funcional. Após cada exercício\,  o participante deverá
+  voltar a correr os 800m. Num total de 6400m\,  e repetindo-se assim por 8 
+ vezes os 800m durante toda a prova.\nhttps://www.portugalrunning.com/evento
+ s/fatima-games-2024/
+URL:https://www.portugalrunning.com/eventos/fatima-games-2024/
+END:VEVENT
+END:VCALENDAR

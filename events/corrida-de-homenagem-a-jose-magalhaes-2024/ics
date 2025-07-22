@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4893555
+DTSTAMP:20250720T222304Z
+DTSTART:20241012
+DTEND:20241013
+LOCATION:Vilar do Torno e Alentém\,  Lousada Vilar do Torno e Alentém\,  Lousada
+SUMMARY:Corrida de Homenagem a José Magalhães 2024
+DESCRIPTION:Realiza-se no dia 12 de outubro de 2024\,  com partida e chegad
+ a na Quinta do Forno de Vilar do Torno – Lousada\,  a Corrida de Homenage
+ m a José Magalhães – Vilar do Torno e Alentém\,  com distância de 10.
+ 000 metros.\nhttps://www.portugalrunning.com/eventos/corrida-de-homenagem-a
+ -jose-magalhaes-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-homenagem-a-jose-magalhaes-2024/
+END:VEVENT
+END:VCALENDAR

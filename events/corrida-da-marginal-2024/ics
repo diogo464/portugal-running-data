@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f1a9d3
+DTSTAMP:20250720T222255Z
+DTSTART:20240302
+DTEND:20240303
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Corrida da Marginal 2024
+DESCRIPTION:Realiza-se no dia 2 de Março de 2024 pelas 17h00\,  com o temp
+ o máximo de 2 horas\nhttps://www.portugalrunning.com/eventos/corrida-da-ma
+ rginal-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-marginal-2024/
+END:VEVENT
+END:VCALENDAR

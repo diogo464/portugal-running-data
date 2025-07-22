@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9adbfae
+DTSTAMP:20250720T222842Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Antas\,  Penalva do Castelo Antas\,  Penalva do Castelo
+SUMMARY:Trilho das Antas 2024
+DESCRIPTION:O ”TRILHOS DAS ANTAS” é uma corrida de montanha\,  organiz
+ ada pela “AVCAT-Associação Vila Chã Aldeia Trail de Portugal e pela Un
+ ião das Freguesias de Antas e Matela”\,  a realizar no dia 28 de abril d
+ e 2024\,  em Antas – Penalva do Castelo. Este trail faz parte da 3ª edi�
+ �ão do[..]\nhttps://www.portugalrunning.com/eventos/trilho-das-antas-2024/
+URL:https://www.portugalrunning.com/eventos/trilho-das-antas-2024/
+END:VEVENT
+END:VCALENDAR

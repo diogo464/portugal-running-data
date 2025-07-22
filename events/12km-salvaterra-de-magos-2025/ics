@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf3f38c0
+DTSTAMP:20250720T222139Z
+DTSTART:20250316
+DTEND:20250317
+LOCATION:Salvaterra de Magos\,  Santarém Salvaterra de Magos\,  Santarém
+SUMMARY:12KM Salvaterra de Magos 2025
+DESCRIPTION:O “ACS – Amigos da Corrida de Salvaterra”\,  organiza no 
+ dia 16 de Março de 2025\,  pelas 10h00\,  a corrida “XXIII 12 Km Salva
+ terra Prova Professor António Lopes”\,  a “5ª Mini-Corrida 5km Ferna
+ ndo José Andrade” e a 17ª “Caminhada Mexa-se por nós”.\nhttps://ww
+ w.portugalrunning.com/eventos/12km-salvaterra-de-magos-2025/
+URL:https://www.portugalrunning.com/eventos/12km-salvaterra-de-magos-2025/
+END:VEVENT
+END:VCALENDAR

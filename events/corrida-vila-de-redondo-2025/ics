@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7417df7
+DTSTAMP:20250720T222348Z
+DTSTART:20250110
+DTEND:20250111
+LOCATION:Redondo\,  Évora Redondo\,  Évora
+SUMMARY:Corrida Vila de Redondo 2025
+DESCRIPTION:A 3ª CORRIDA VILA DE REDONDO é um evento de natureza desporti
+ va\,  que visa promover o desporto e hábitos de vida saudáveis. O evento 
+ é uma organização conjunta entre a Junta de Freguesia de Redondo e o Tra
+ il do Texugo.\nhttps://www.portugalrunning.com/eventos/corrida-vila-de-redo
+ ndo-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-vila-de-redondo-2025/
+END:VEVENT
+END:VCALENDAR

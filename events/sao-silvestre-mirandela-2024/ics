@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2162c1b
+DTSTAMP:20250720T222641Z
+DTSTART:20241228
+DTEND:20241229
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:São Silvestre Mirandela 2024
+DESCRIPTION:O grupo Mirandela a Correr irá realizar a 6ª São Silvestre d
+ e Mirandela\,  no dia 28 de dezembro2024\,  pelas 19h:00h.A "6ª São Silve
+ stre de Mirandela”\,  é um evento desportivo que tem como objetivo incen
+ tivare consciencializar a população para a importância da prática de ex
+ ercício físico.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-mi
+ randela-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mirandela-2024/
+END:VEVENT
+END:VCALENDAR

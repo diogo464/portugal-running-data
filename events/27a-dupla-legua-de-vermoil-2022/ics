@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc18cd1
+DTSTAMP:20250720T222148Z
+DTSTART:20221106
+DTEND:20221107
+LOCATION:Vermoil\,  Pombal Vermoil\,  Pombal
+SUMMARY:27ª Dupla-Légua De Vermoil 2022
+DESCRIPTION:O ATLÉTICO CLUBE DE VERMOIL leva a efeito no dia 06 de no
+ vembro de 2022\,  pelas 09:30 horas\,  uma prova de estrada denominada 
+ “27ª DUPLA-LÉGUA DE VERMOIL”.\nhttps://www.portugalrunning.com/evento
+ s/27a-dupla-legua-de-vermoil-2022/
+URL:https://www.portugalrunning.com/eventos/27a-dupla-legua-de-vermoil-2022/
+END:VEVENT
+END:VCALENDAR

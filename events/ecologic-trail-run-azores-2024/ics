@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c82af993
+DTSTAMP:20250720T222402Z
+DTSTART:20241116
+DTEND:20241117
+LOCATION:Ribeira Grande\,  São Miguel Ribeira Grande\,  São Miguel
+SUMMARY:Ecologic Trail Run Azores 2024
+DESCRIPTION:O Ecologic Trail Run Azores – Ribeira Grande é um evento da 
+ responsabilidade organizada pelo Clube Desportivo os Metralhas\,  com o apo
+ io e colaboração da Câmara Municipal da Ribeira Grande. ECOLOGIC 38K ECO
+ LOGIC 21k ECOLOGICaminhada\nhttps://www.portugalrunning.com/eventos/ecologi
+ c-trail-run-azores-2024/
+URL:https://www.portugalrunning.com/eventos/ecologic-trail-run-azores-2024/
+END:VEVENT
+END:VCALENDAR

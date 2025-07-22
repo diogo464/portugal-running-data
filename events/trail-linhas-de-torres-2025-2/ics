@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72c51bf
+DTSTAMP:20250720T222802Z
+DTSTART:20250322
+DTEND:20250323
+LOCATION:Lisboa Lisboa
+SUMMARY:Trail Linhas de Torres 2025
+DESCRIPTION:O evento “Trail Linhas de Torres ” é uma corrida maioritar
+ iamente de trail e com alguns percursos em estrada\,  realizada pela primei
+ ra vez em 2013\,  para homenagear todos aqueles que construíram e defender
+ am o sistema defensivo\,  património turístico-militar de Portugal\,  con
+ hecido como Linhas de Torres\,  inserido nos concelhos de Arruda dos[..]\n
+ https://www.portugalrunning.com/eventos/trail-linhas-de-torres-2025-2/
+URL:https://www.portugalrunning.com/eventos/trail-linhas-de-torres-2025-2/
+END:VEVENT
+END:VCALENDAR

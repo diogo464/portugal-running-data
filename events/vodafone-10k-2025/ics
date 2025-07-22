@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc479b23
+DTSTAMP:20250720T222924Z
+DTSTART:20240720
+DTEND:20240721
+LOCATION:Lisboa Lisboa
+SUMMARY:Vodafone 10k 2025
+DESCRIPTION:A Vodafone 10k 2025realiza-se a 9de Março. É uma prova integr
+ ada na EDP Meia Maratona de Lisboa partilhando com a mesma a partida na Pon
+ te 25 de Abril.\nhttps://www.portugalrunning.com/eventos/vodafone-10k-2025/
+URL:https://www.portugalrunning.com/eventos/vodafone-10k-2025/
+END:VEVENT
+END:VCALENDAR

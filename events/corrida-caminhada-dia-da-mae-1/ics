@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c36f4220
+DTSTAMP:20250720T222246Z
+DTSTART:20220501
+DTEND:20220502
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Corrida/Caminhada Dia Da Mãe 1
+DESCRIPTION:Corrida/Caminhada Dia Da Mãe 1\nhttps://www.portugalrunning.co
+ m/eventos/corrida-caminhada-dia-da-mae-1/
+URL:https://www.portugalrunning.com/eventos/corrida-caminhada-dia-da-mae-1/
+END:VEVENT
+END:VCALENDAR

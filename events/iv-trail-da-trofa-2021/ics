@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6caf61929
+DTSTAMP:20250720T222447Z
+DTSTART:20210801
+DTEND:20210802
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:IV Trail da Trofa 2021
+DESCRIPTION:Dia 12 de Setembro de 2021\,  o IV Trail da Trofa será uma rea
+ lidade. O evento será constituído por três provas\,  uma de 35 km\,  out
+ ra de 17 km e uma Caminhada de 10km. Existirá ainda um trail kids no dia 1
+ 1 de Setembro. Todas as provas irão percorrer os[..]\nhttps://www.portugal
+ running.com/eventos/iv-trail-da-trofa-2021/
+URL:https://www.portugalrunning.com/eventos/iv-trail-da-trofa-2021/
+END:VEVENT
+END:VCALENDAR

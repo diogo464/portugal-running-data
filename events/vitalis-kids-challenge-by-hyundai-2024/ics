@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc39315d
+DTSTAMP:20250720T222923Z
+DTSTART:20240414
+DTEND:20240415
+LOCATION:Porto Porto
+SUMMARY:Vitalis Kids Challenge By Hyundai 1 - 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/vitalis-kids-challeng
+ e-by-hyundai-2024/
+URL:https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai-2024/
+END:VEVENT
+END:VCALENDAR

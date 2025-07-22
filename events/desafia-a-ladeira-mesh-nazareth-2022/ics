@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e320a1
+DTSTAMP:20250720T222358Z
+DTSTART:20230114
+DTEND:20230115
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Desafia a Ladeira Mesh Nazareth 2022
+DESCRIPTION:O percurso será feito pela Ladeira do Sitio na Nazaré. Grau d
+ e dificuldade média/alto. O percurso poderá estar escorregadio na subida 
+ da Ladeira e na encosta do Sitio\,  o que implica ao atleta o máximo de cu
+ idado.\nhttps://www.portugalrunning.com/eventos/desafia-a-ladeira-mesh-naza
+ reth-2022/
+URL:https://www.portugalrunning.com/eventos/desafia-a-ladeira-mesh-nazareth-2022/
+END:VEVENT
+END:VCALENDAR

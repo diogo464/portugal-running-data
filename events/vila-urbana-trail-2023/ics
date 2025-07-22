@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc061a84
+DTSTAMP:20250720T222920Z
+DTSTART:20231014
+DTEND:20231015
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Vila Urbana Trail 2023
+DESCRIPTION:A 6.ª edição do VILA URBANA TRAIL irá realizar-se no dia 14
+  de outubro de 2023 com uma distância competitiva de 10 km e uma caminhada
+  solidária organizada em parceria com o Rotary Club de Ponte de Lima.\nhtt
+ ps://www.portugalrunning.com/eventos/vila-urbana-trail-2023/
+URL:https://www.portugalrunning.com/eventos/vila-urbana-trail-2023/
+END:VEVENT
+END:VCALENDAR

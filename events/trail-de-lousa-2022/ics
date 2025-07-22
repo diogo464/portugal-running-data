@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54c36c9
+DTSTAMP:20250720T222732Z
+DTSTART:20220123
+DTEND:20220124
+LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+SUMMARY:Trail De Lousa 2022
+DESCRIPTION:Resultados Trilho Perdido e Trail4U\,  com o apoio da Freguesia
+  de Lousa irão organizar a 23 de Janeiro de2021 pelas 10 horas o Trail de 
+ Lousa\,  na Vila de Lousa\,  concelho de Loures. Trail De Lousa 2022é uma 
+ prova de Trail Running\,  corrida pedestre em Natureza\,  com três provas\
+ ,  Trail[..]\nhttps://www.portugalrunning.com/eventos/trail-de-lousa-2022/
+URL:https://www.portugalrunning.com/eventos/trail-de-lousa-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3319d6c
+DTSTAMP:20250720T222243Z
+DTSTART:20251026
+DTEND:20251027
+LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+SUMMARY:Corrida 4 Estações Outono - Condeixa 2025
+DESCRIPTION:Corrida 4 Estações Outono - Condeixa 2025\nhttps://www.portug
+ alrunning.com/eventos/corrida-4-estacoes-outono-condeixa-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-outono-condeixa-2025/
+END:VEVENT
+END:VCALENDAR

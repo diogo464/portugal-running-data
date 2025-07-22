@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf448ac5
+DTSTAMP:20250720T222140Z
+DTSTART:20200405
+DTEND:20200406
+LOCATION:Avenida Machado Santos\,  Lisboa Avenida Machado Santos\,  Lisboa
+SUMMARY:15ª Corrida do Benfica António Leitão 2020
+DESCRIPTION:A 15ª Corrida do Benfica António Leitão é organizada pelo S
+ port Lisboa e Benfica sob a direção técnica da Prof. Ana Oliveira. INFOR
+ MAÇÕES ADICIONAIS Horários e Local 4 abril às 11H00: Corrida da Pequena
+ da com partida e chegada no relvado do Estádio da Luz. 5 abril às 10H30: 
+ Corrida 10Km[..]\nhttps://www.portugalrunning.com/eventos/15a-corrida-do-be
+ nfica-antonio-leitao-2020/
+URL:https://www.portugalrunning.com/eventos/15a-corrida-do-benfica-antonio-leitao-2020/
+END:VEVENT
+END:VCALENDAR

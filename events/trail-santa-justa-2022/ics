@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8adc992
+DTSTAMP:20250720T222826Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Santa Justa 2022
+DESCRIPTION:A X edição do Trail Santa Justa é uma prova que percorre tri
+ lhos e caminhos na serra de Santa Justa e de Pias no concelho de Valongo\, 
+  com início e fim Junto à Igreja de Santa Justa. As três provas de cará
+ cter competitivo (30km\,  15 km\,  10km) estão abertas a[..]\nhttps://www.
+ portugalrunning.com/eventos/trail-santa-justa-2022/
+URL:https://www.portugalrunning.com/eventos/trail-santa-justa-2022/
+END:VEVENT
+END:VCALENDAR

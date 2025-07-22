@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db061492
+DTSTAMP:20250720T222904Z
+DTSTART:20200531
+DTEND:20200601
+LOCATION:Sertã\,  Castelo Branco Sertã\,  Castelo Branco
+SUMMARY:Troviscal Trail
+DESCRIPTION:A Associação Desportiva e Recreativa do Troviscal com o apoio
+  da Câmara Municipal de Sertã e com a organização técnica da Werun\,  
+ irá realizar o I Troviscal Trail. Esta é uma prova de TrailRunning\,  cor
+ rida pedestre em Natureza\,  com três provas\,  Trail Longo (TL) K25+\,  T
+ rail Curto (TC) K12+ e[..]\nhttps://www.portugalrunning.com/eventos/trovisc
+ al-trail/
+URL:https://www.portugalrunning.com/eventos/troviscal-trail/
+END:VEVENT
+END:VCALENDAR

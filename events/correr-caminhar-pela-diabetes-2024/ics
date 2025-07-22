@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3318521
+DTSTAMP:20250720T222243Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:Covilhã\,  Castelo Branco Covilhã\,  Castelo Branco
+SUMMARY:Correr/Caminhar pela Diabetes 2024
+DESCRIPTION:No âmbito das comemorações do "dia mundial da diabetes"\,  a
+  cidade da Covilhã acolhe no dia 10 de Novembro\,  o 3º Encontro a Correr
+  e a Caminhar pela Diabetes. U ma iniciativa organizada pela Câmara Munici
+ pal da Covilhã em parceria com o Programa Nacional para a Diabetes e da Di
+ reção[..]\nhttps://www.portugalrunning.com/eventos/correr-caminhar-pela-d
+ iabetes-2024/
+URL:https://www.portugalrunning.com/eventos/correr-caminhar-pela-diabetes-2024/
+END:VEVENT
+END:VCALENDAR

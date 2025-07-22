@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b495b1
+DTSTAMP:20250720T222251Z
+DTSTART:20250810
+DTEND:20250811
+LOCATION:Monte Gordo\,  Vila Real de Santo António Monte Gordo\,  Vila Real de Santo António
+SUMMARY:Corrida da Baía de Monte Gordo 2025
+DESCRIPTION:O percurso da 26ª Corrida da Baia de Monte Gordo é inteiramen
+ te corrido na praia e tem uma extensão de aproximadamente 8 quilometros. A
+  partida far-se-á na Praia da Manta Rota (Zona Poente) e a chegada decorre
+ rd na Praia de Monte Gordo (primeira concessão na Zona Nascente).\nhttps:/
+ /www.portugalrunning.com/eventos/corrida-da-baia-de-monte-gordo-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-baia-de-monte-gordo-2025/
+END:VEVENT
+END:VCALENDAR

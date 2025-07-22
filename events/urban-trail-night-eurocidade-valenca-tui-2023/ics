@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dba192aa
+DTSTAMP:20250720T222914Z
+DTSTART:20231125
+DTEND:20231126
+LOCATION:Valença Valença
+SUMMARY:Urban Trail Night Eurocidade Valença-Tui 2023
+DESCRIPTION:As empresas NOKO Deporte y Salud S.L.\,  e SRA. EMILIA AGENCIA 
+ DE COMUNICACIÓN Y PUBLICIDAD S.L\,  com a colaboração da EUROCIDADE TUI-
+ VALENÇA\,  (Municípios de Valença do Minho e Tui) organizarão no sábad
+ o 25 de Novembre a V Edição da “URBAN TRAIL NIGHT – EUROCIDADE.\nhttp
+ s://www.portugalrunning.com/eventos/urban-trail-night-eurocidade-valenca-tu
+ i-2023/
+URL:https://www.portugalrunning.com/eventos/urban-trail-night-eurocidade-valenca-tui-2023/
+END:VEVENT
+END:VCALENDAR

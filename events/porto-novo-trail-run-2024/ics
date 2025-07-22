@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0092d9b
+DTSTAMP:20250720T222608Z
+DTSTART:20240915T233000Z
+DTEND:20240915T235900Z
+LOCATION:Porto Novo\,  Torres Vedras Porto Novo\,  Torres Vedras
+SUMMARY:Porto Novo Trail Run 2024
+DESCRIPTION:O  TURRES TRAIL  CLUBE \,  com o apoio da Junta de Freguesi
+ a de A dos Cunhados e Maceira  e o Município de Torres Vedras \,  vai r
+ ealizar no próximo dia 15 de Setembro de 2024\,  pelas 9:00 horas\,  a 8º
+  edição do evento em 2024 com a  denominado "  PORTO NOVO TRAIL RUN 2
+ 024". Este evento\, [..]\nhttps://www.portugalrunning.com/eventos/porto-nov
+ o-trail-run-2024/
+URL:https://www.portugalrunning.com/eventos/porto-novo-trail-run-2024/
+END:VEVENT
+END:VCALENDAR

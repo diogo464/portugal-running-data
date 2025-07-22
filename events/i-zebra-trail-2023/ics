@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb19220d
+DTSTAMP:20250720T222449Z
+DTSTART:20230115
+DTEND:20230116
+LOCATION:Pena\,  Cantanhede Pena\,  Cantanhede
+SUMMARY:I Zebra Trail 2023
+DESCRIPTION:Realiza-se a 15 de janeiro de 2023 a primeira edição do Zebra
+  Trail\,  uma prova Trail Running que percorrerá percursos e trilhos maior
+ itariamente envolventes à localidade da Pena\,  no município de Cantanhed
+ e.Sob organização da Secção de Atletisto do C. F. “Os Marialvas”\, 
+  com o apoio institucional da Câmara Municipal de[..]\nhttps://www.portuga
+ lrunning.com/eventos/i-zebra-trail-2023/
+URL:https://www.portugalrunning.com/eventos/i-zebra-trail-2023/
+END:VEVENT
+END:VCALENDAR

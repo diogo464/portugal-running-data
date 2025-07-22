@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cabc2d3d
+DTSTAMP:20250720T222443Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:II Trail Serra dos Passos 2022
+DESCRIPTION:O evento II Trail Serra dos Passos\,  realizar-se-á no dia 13 
+ de novembro de 2022 na localidade dos Passos\,  Mirandela. Utiliza o percur
+ so criado pelo grupo Mirandela a Correr. É constituído por uma prova comp
+ etitiva de 10 e 23 quilómetros.O evento é coorganizado pelo Grupo Mirande
+ la a Correr sendo articulado[..]\nhttps://www.portugalrunning.com/eventos/i
+ i-trail-serra-dos-passos-2022/
+URL:https://www.portugalrunning.com/eventos/ii-trail-serra-dos-passos-2022/
+END:VEVENT
+END:VCALENDAR

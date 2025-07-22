@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9719161
+DTSTAMP:20250720T222423Z
+DTSTART:20231022
+DTEND:20231023
+LOCATION:Tregosa\,  Barcelos Tregosa\,  Barcelos
+SUMMARY:Grande Prémio Atletismo de Tregosa 2023
+DESCRIPTION:A.D.C. de Tregosa vai realizar no dia 22 de Outubro de 2023 o s
+ eu 27º Grande Prémio de Atletismo de Tregosa.\nhttps://www.portugalrunnin
+ g.com/eventos/grande-premio-atletismo-de-tregosa-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-de-tregosa-2023/
+END:VEVENT
+END:VCALENDAR

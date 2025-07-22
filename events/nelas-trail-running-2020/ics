@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cee00ff6
+DTSTAMP:20250720T222550Z
+DTSTART:20200419
+DTEND:20200420
+LOCATION:Nelas\,  Viseu Nelas\,  Viseu
+SUMMARY:Nelas Trail Running 2020
+DESCRIPTION:A 19 de abril de 2020 Nelas vos espera para o "Nelas Trail Runn
+ ing" inserido no circuito "Verurium". Não falte!!\nhttps://www.portugalrun
+ ning.com/eventos/nelas-trail-running-2020/
+URL:https://www.portugalrunning.com/eventos/nelas-trail-running-2020/
+END:VEVENT
+END:VCALENDAR

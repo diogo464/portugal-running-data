@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d16aa6c6
+DTSTAMP:20250720T222630Z
+DTSTART:20221114
+DTEND:20221115
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:São Silvestre de Chaves 2022
+DESCRIPTION:Esta prova\,  com inscrições gratuitas\,  contempla prémios 
+ monetários até ao 10º lugar\,  sendo sorteado também um prémio de part
+ icipação no valor de 150 euros\,  entre todos os participantes que termin
+ em a corrida.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-cha
+ ves-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-chaves-2022/
+END:VEVENT
+END:VCALENDAR

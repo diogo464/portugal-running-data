@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c53ac1e6
+DTSTAMP:20250720T222315Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Vinhais\,  Bragança Vinhais\,  Bragança
+SUMMARY:Corrida do Foral 2023
+DESCRIPTION:Terá lugar no dia 28 de maio de 2023\,  a 3ª edição da Corr
+ ida do Foral de Vinhais promovida pela Autarquia de Vinhais\,  conta o apoi
+ o técnico da Associação de Atletismo de Bragança. A prova é aberta a a
+ tletas filiados na Federação Portuguesa de Atletismo em representação i
+ ndividual ou de[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-for
+ al-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-do-foral-2023/
+END:VEVENT
+END:VCALENDAR

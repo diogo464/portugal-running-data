@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9eaad9e
+DTSTAMP:20250720T222846Z
+DTSTART:20230226
+DTEND:20230227
+LOCATION:Vidigueira\,  Beja Vidigueira\,  Beja
+SUMMARY:Trilho Dos Cogumelos 2023
+DESCRIPTION:A Câmara Municipal de Vidigueira com o apoio da Junta de Fregu
+ esia de Selmes\,  da Associação ARFA de Alcaria da Serra e da Associaçã
+ o de Atletismo de Beja vai organizar\,  no próximo dia 26 DE FEVEREIRO DE 
+ 2023\,  o Trilho dos Cogumelos em Alcaria da Serra e em simultâneo realiza
+ -se[..]\nhttps://www.portugalrunning.com/eventos/trilho-dos-cogumelos-2023/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-cogumelos-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d407a856
+DTSTAMP:20250720T222712Z
+DTSTART:20241006
+DTEND:20241007
+LOCATION:Campo Maior\,  Portalegre Campo Maior\,  Portalegre
+SUMMARY:Trail Campo Maior 2024
+DESCRIPTION:O II Trail Campo Maior procura ser promotor de estilos de vida 
+ saudáveis\,  de competição desportiva e de promoção do nosso patrimón
+ io natural\,  cultural\,  empresarial e Humano. Valorizar o nosso concelho 
+ e realçar a vertente cultural é fundamental para criar um evento distinti
+ vo no panorama do Trail em Portugal e[..]\nhttps://www.portugalrunning.com/
+ eventos/trail-campo-maior-2024/
+URL:https://www.portugalrunning.com/eventos/trail-campo-maior-2024/
+END:VEVENT
+END:VCALENDAR

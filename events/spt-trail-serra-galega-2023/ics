@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3031621
+DTSTAMP:20250720T222656Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Alenquer\,  Lisboa Alenquer\,  Lisboa
+SUMMARY:Spt Trail Serra Galega 2023
+DESCRIPTION:A Equipa&nbsp;Sabores do Paço Trail Zatopeques&nbsp;(associada
+  ao&nbsp;Centro Recreativo e Cultural de Freixial do Meio)\,  com o apoio d
+ o&nbsp;Município de Alenquer\, &nbsp;Junta de Freguesia da Ventosa\, &nbsp
+ ;Junta de Freguesia Vila Verde dos Francos\, &nbsp;Junta de Freguesia da Al
+ deia galega da Merceana&nbsp;e restantes patrocinadores propõem-se a reali
+ zar este evento para promover e divulgar a&nbsp;Região da[..]\nhttps://www
+ .portugalrunning.com/eventos/spt-trail-serra-galega-2023/
+URL:https://www.portugalrunning.com/eventos/spt-trail-serra-galega-2023/
+END:VEVENT
+END:VCALENDAR

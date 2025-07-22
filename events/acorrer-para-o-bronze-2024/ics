@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c12922f8
+DTSTAMP:20250720T222210Z
+DTSTART:20240815T154200Z
+DTEND:20240815T235900Z
+LOCATION:Portugal Portugal
+SUMMARY:Acorrer para o Bronze 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/acorrer-para-o-bronze
+ -2024/
+URL:https://www.portugalrunning.com/eventos/acorrer-para-o-bronze-2024/
+END:VEVENT
+END:VCALENDAR

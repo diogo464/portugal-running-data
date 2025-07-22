@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db73615f
+DTSTAMP:20250720T222911Z
+DTSTART:20221007
+DTEND:20221008
+LOCATION:Louriçal do Campo\,  Castelo Branco Louriçal do Campo\,  Castelo Branco
+SUMMARY:Ultra Trilhos da Gardunha 2022
+DESCRIPTION:O Ultra Trilhos da Gardunha é uma prova de trail com percursos
+  que atravessam zonas dos concelhos de Castelo Branco e Fundão\,  passando
+  nas freguesias de Louriçal do Campo\,  Castelo Novo\,  Alpedrinha\,  Alco
+ ngosta\,  Souto da Casa e Casal da Serra.\nhttps://www.portugalrunning.com/
+ eventos/ultra-trilhos-da-gardunha-2022/
+URL:https://www.portugalrunning.com/eventos/ultra-trilhos-da-gardunha-2022/
+END:VEVENT
+END:VCALENDAR

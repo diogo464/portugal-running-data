@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4e91fe7
+DTSTAMP:20250720T222310Z
+DTSTART:20200223
+DTEND:20200224
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:GP Atlântico 2020
+DESCRIPTION:BEM-VINDOS A MAIS UMA EDIÇÃO DO GRANDE PRÉMIO DO ATLÂNTICO!
+  No dia 23 de Fevereiro\,  junto ao mar da Costa da Caparica\,  esperamos p
+ or si no 21º GP do Atlântico. DISTÂNCIA/HORA/LOCAL Corrida 10 km | 10h
+ 00 Caminhada 5 km | 10h05 Partida e chegada junto ao Caparica Oceano\,  
+ perto do Tarquínio – Beach Bar. INSCRIÇÕES Corrida[..]\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-do-atlantico/
+URL:https://www.portugalrunning.com/eventos/corrida-do-atlantico/
+END:VEVENT
+END:VCALENDAR

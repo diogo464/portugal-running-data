@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c82aa673
+DTSTAMP:20250720T222402Z
+DTSTART:20230701
+DTEND:20230702
+LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+SUMMARY:Duas Léguas Gandaresas 2023
+DESCRIPTION:Da 5ª Edição das Duas Léguas faz parte uma prova de corrida
+  com 10 km e uma caminhada com aproximadamente 8 km. O percurso das provas 
+ será circular\,  com início e fim no Parque S. João na Sanguinheira.\nht
+ tps://www.portugalrunning.com/eventos/duas-leguas-gandaresas-2023/
+URL:https://www.portugalrunning.com/eventos/duas-leguas-gandaresas-2023/
+END:VEVENT
+END:VCALENDAR

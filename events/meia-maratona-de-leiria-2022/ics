@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd0c4092
+DTSTAMP:20250720T222520Z
+DTSTART:20221002
+DTEND:20221003
+LOCATION:Leiria Leiria
+SUMMARY:Meia Maratona de Leiria 2022
+DESCRIPTION:MEIA MARATONA de LEIRIA é um evento de excelência\,  com nova
+ s dinâmicas que irão permitir momentos fantásticos para todas as famíli
+ as e rigor aos atletas&nbsp; mais competitivos! Esta será a 3ª edição\,
+   mas a primeira de uma nova aventura e desafio para a Cidade Europeia do D
+ esporto\,  será uma edição[..]\nhttps://www.portugalrunning.com/eventos/
+ meia-maratona-de-leiria-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-leiria-2022/
+END:VEVENT
+END:VCALENDAR

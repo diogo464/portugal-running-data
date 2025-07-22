@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c07db607
+DTSTAMP:20250720T222159Z
+DTSTART:20200202
+DTEND:20200203
+LOCATION:Aldeia das Acoteias Aldeia das Acoteias\,  Albufeira\,  Faro
+SUMMARY:43º Crosse Internacional das Amendoeiras 2020
+DESCRIPTION:A Associação de Atletismo do Algarve\,  com o apoio da Câmar
+ a Municipal de Albufeira e do Clube Desportivo Areias de São João\,  real
+ iza no próximo dia 2 de Fevereiro de 2020 o 43º Crosse Internacional das 
+ Amendoeiras e a European Cross League Clubs. Juntamente com esta realizaç�
+ �o decorre o Torneio/[..]\nhttps://www.portugalrunning.com/eventos/43o-cros
+ se-internacional-das-amendoeiras-2020/
+URL:https://www.portugalrunning.com/eventos/43o-crosse-internacional-das-amendoeiras-2020/
+END:VEVENT
+END:VCALENDAR

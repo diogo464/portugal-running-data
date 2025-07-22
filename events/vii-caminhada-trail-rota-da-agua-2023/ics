@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbe18a6a
+DTSTAMP:20250720T222918Z
+DTSTART:20230507
+DTEND:20230508
+LOCATION:Querença\,  Loulé Querença\,  Loulé
+SUMMARY:Vii Caminhada/Trail Rota Da Água 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/vii-caminhada-trail-r
+ ota-da-agua-2023/
+URL:https://www.portugalrunning.com/eventos/vii-caminhada-trail-rota-da-agua-2023/
+END:VEVENT
+END:VCALENDAR

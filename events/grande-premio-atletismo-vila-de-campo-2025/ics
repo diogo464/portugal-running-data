@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c97db1ae
+DTSTAMP:20250720T222423Z
+DTSTART:20250425
+DTEND:20250426
+LOCATION:Vila de Campo\,  Valongo Vila de Campo\,  Valongo
+SUMMARY:Grande Prémio Atletismo Vila de Campo 2025
+DESCRIPTION:No âmbito das Comemorações do 25 de abril\,  a Junta de Freg
+ uesia de Campo e Sobrado promove o 25º Grande Prémio de Atletismo da Vila
+  de Campo\,  numa organização conjunta com a Câmara Municipal de Valongo
+ \,  Associações locais e Comércio e Indústria local.\nhttps://www.portu
+ galrunning.com/eventos/grande-premio-atletismo-vila-de-campo-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-vila-de-campo-2025/
+END:VEVENT
+END:VCALENDAR

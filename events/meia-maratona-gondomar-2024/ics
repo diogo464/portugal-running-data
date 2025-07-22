@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdc7b896
+DTSTAMP:20250720T222532Z
+DTSTART:20240609
+DTEND:20240610
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Meia Maratona Gondomar 2024
+DESCRIPTION:Gondomar recebe no dia 9 de Junho de 2024 às 09h00 a 9ª edi
+ ção da Tranquilidade Meia Maratona D´Ouro Run Gondomar que se vai realiz
+ ar na estrada marginal do Município\,  entre Valbom e Foz do Sousa - Espo
+ sade\,  é uma organização da Associação Comvidacorrer com o apoio do M
+ unicipio de Gondomar e parte[..]\nhttps://www.portugalrunning.com/eventos/m
+ eia-maratona-gondomar-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-gondomar-2024/
+END:VEVENT
+END:VCALENDAR

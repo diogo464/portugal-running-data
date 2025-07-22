@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb93216b
+DTSTAMP:20250720T222457Z
+DTSTART:20220409
+DTEND:20220410
+LOCATION:Lisboa Lisboa
+SUMMARY:Linhas De Torres Runnig Challenge 2022
+DESCRIPTION:O evento “Linhas De Torres Runnig Challenge 2022” é uma 
+ corrida maioritariamente de trail e com alguns percursos em estrada\,  real
+ izada pela primeira vez em 2013\,  para homenagear todos aqueles que constr
+ uíram e defenderam o sistema defensivo\,  património turístico-militar d
+ e Portugal\,  conhecido como Linhas de Torres\,  inserido nos concelhos de�
+ �Vila Franca de[..]\nhttps://www.portugalrunning.com/eventos/linhas-de-torr
+ es-running-challenge-2022/
+URL:https://www.portugalrunning.com/eventos/linhas-de-torres-running-challenge-2022/
+END:VEVENT
+END:VCALENDAR

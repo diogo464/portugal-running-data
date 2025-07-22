@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b48e20
+DTSTAMP:20250720T222411Z
+DTSTART:20200308
+DTEND:20200309
+LOCATION:Fafe\,  Braga Fafe\,  Braga
+SUMMARY:Fafe Trail Run 2020
+DESCRIPTION:Com partida e chegada na Barragem de Queimadela\,  esta aventu
+ ra\,  que caminha já para a sua 5ª edição\,  leva os participantes à c
+ onquista do Alto do Maroiço\,  do maciço granítico da Laje Branca e ao p
+ onto mais alto do concelho de Fafe\,  o Alto de Morgaír\,  passando por al
+ deias típicas minhotas.[..]\nhttps://www.portugalrunning.com/eventos/fafe-
+ trail-run-2020/
+URL:https://www.portugalrunning.com/eventos/fafe-trail-run-2020/
+END:VEVENT
+END:VCALENDAR

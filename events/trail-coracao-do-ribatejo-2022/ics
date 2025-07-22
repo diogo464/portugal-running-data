@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d449349e
+DTSTAMP:20250720T222716Z
+DTSTART:20220522
+DTEND:20220523
+LOCATION:Chamusca\,  Ribatejo Chamusca\,  Ribatejo
+SUMMARY:Trail Coração Do Ribatejo 2022
+DESCRIPTION:O Trail Coração Do Ribatejo 2022 irá ser realizada com o apo
+ io de várias entidades ecuja a organização será da responsabilidade da 
+ Chamusca Trail\,  secção da União Desportivada Chamusca.\nhttps://www.po
+ rtugalrunning.com/eventos/trail-coracao-do-ribatejo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-coracao-do-ribatejo-2022/
+END:VEVENT
+END:VCALENDAR

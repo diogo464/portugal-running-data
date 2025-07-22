@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d377b4f8
+DTSTAMP:20250720T222703Z
+DTSTART:20220306
+DTEND:20220307
+LOCATION:Travassô\,  Águeda Travassô\,  Águeda
+SUMMARY:Trail.22 ADT - Trilhos de Águeda 2022
+DESCRIPTION:O Trail.22 ADT - Trilhos de Águeda 2022 atravessa alguns locai
+ s\,  lugares e vilas circundantes a Travassô e à cidade de Águeda (Trava
+ ssô\,  Casaínho\,  Óis-da-Ribeira\,  Segadães\,  Cabanões e Casal de �
+ �lvaro) e respetivos espaços naturais e estradas.\nhttps://www.portugalrun
+ ning.com/eventos/trail-22-adt-trilhos-de-agueda-2022/
+URL:https://www.portugalrunning.com/eventos/trail-22-adt-trilhos-de-agueda-2022/
+END:VEVENT
+END:VCALENDAR

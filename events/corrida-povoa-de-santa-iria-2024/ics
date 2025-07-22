@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69dc2ab
+DTSTAMP:20250720T222337Z
+DTSTART:20240127
+DTEND:20240128
+LOCATION:Póvoa de Santa Iria \,  Vila Franca de Xira Póvoa de Santa Iria\,  Vila Franca de Xira
+SUMMARY:Corrida Póvoa de Santa Iria 2024
+DESCRIPTION:A “I Corrida CPCD – Póvoa de Santa Iria”\,  é um evento
+  de natureza desportiva que irá realizar-se no dia 27 de janeiro de 2024 e
+  que se desenrolará na cidade da Póvoa de Santa Iria. Esta corrida tem co
+ mo objetivo principal a promoção do desporto junto dos nossos atletas[..]
+ \nhttps://www.portugalrunning.com/eventos/corrida-povoa-de-santa-iria-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-povoa-de-santa-iria-2024/
+END:VEVENT
+END:VCALENDAR

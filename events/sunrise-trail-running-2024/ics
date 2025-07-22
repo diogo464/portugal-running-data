@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d337986c
+DTSTAMP:20250720T222659Z
+DTSTART:20240505
+DTEND:20240506
+LOCATION:Ferreira do Alentejo\,  Beja Ferreira do Alentejo\,  Beja
+SUMMARY:Sunrise Trail Running 2024
+DESCRIPTION:O SUNRISE TRAIL RUNNING Ferreira do Alentejo é um evento despo
+ rtivo de caráter lúdicocompetitivo\,  organizado pela associação SINGAR
+ UNNERS\,  em estreita parceira com a Câmara Municipal de Ferreira do Alent
+ ejo\,  a União das Freguesias de Ferreira do Alentejo e Canhestros\,  Asso
+ ciação dos Bombeiros Voluntários de Ferreira do Alentejo\,  Casas de hot
+ elaria\, [..]\nhttps://www.portugalrunning.com/eventos/sunrise-trail-runnin
+ g-2024/
+URL:https://www.portugalrunning.com/eventos/sunrise-trail-running-2024/
+END:VEVENT
+END:VCALENDAR

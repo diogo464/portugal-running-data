@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc18002
+DTSTAMP:20250720T222148Z
+DTSTART:20230407
+DTEND:20230408
+LOCATION:Alcacer do Sal\,  Setúbal Alcacer do Sal\,  Setúbal
+SUMMARY:25º Grande Prémio da Páscoa em Atletismo 2023
+DESCRIPTION:O XXV Grande Prémio da Páscoa irá realizar-se no dia 07 de A
+ bril de 2023 (sextafeira) com início pelas 09h00 sendo a prova da respons
+ abilidade do Município de Alcácer do Sal\,  que conta com o apoio da Uni�
+ �o de Freguesias de Alcácer do Sal e Santa Susana\,  Caixa de Crédito[..]
+ \nhttps://www.portugalrunning.com/eventos/25o-grande-premio-da-pascoa-em-at
+ letismo-2023/
+URL:https://www.portugalrunning.com/eventos/25o-grande-premio-da-pascoa-em-atletismo-2023/
+END:VEVENT
+END:VCALENDAR

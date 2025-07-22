@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c287a0cb
+DTSTAMP:20250720T222232Z
+DTSTART:20240804
+DTEND:20240805
+LOCATION:Camacha\,  Madeira Camacha\,  Madeira
+SUMMARY:Camacha Trail 2024
+DESCRIPTION:O “Camacha Trail”\,  designado abreviadamente por CT\,  é 
+ um evento de Trail Running\,  uma Coorganização entre a Casa do Povo da C
+ amacha e a Junta de Freguesia da Camacha\,  que ocorre no dia 04 de Agosto 
+ de 2024\,  na Freguesia da Camacha\,  Santa Cruz\,  Madeira.O evento em ref
+ erência integra 2[..]\nhttps://www.portugalrunning.com/eventos/camacha-tra
+ il-2024/
+URL:https://www.portugalrunning.com/eventos/camacha-trail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9fab98b
+DTSTAMP:20250720T222847Z
+DTSTART:20250330T190300Z
+DTEND:20250330T190300Z
+LOCATION:Cambra\,  Vouzela Cambra\,  Vouzela
+SUMMARY:Trilho Medieval 2025
+DESCRIPTION:Trail - percurso 1 - 10km + percurso 2 - 20kmCaminhada/percurso
+  pedestre - Trilho Medieval\nhttps://www.portugalrunning.com/eventos/trilho
+ -medieval-2025/
+URL:https://www.portugalrunning.com/eventos/trilho-medieval-2025/
+END:VEVENT
+END:VCALENDAR

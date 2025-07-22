@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce249fc6
+DTSTAMP:20250720T222538Z
+DTSTART:20220515
+DTEND:20220516
+LOCATION:Melgaço Melgaço
+SUMMARY:Melgaço Alvarinho Trail 2022
+DESCRIPTION:As paisagens deslumbrantes do Melgaço Alvarinho Trail 2022 a t
+ ranquilidade\,  a adrenalina\,  a deliciosa gastronomia\,  o alvarinho moti
+ vam entusiastas de vários pontos do País e também de Espanha a participa
+ rem neste trail\,  no Destino de Natureza Mais Radical de Portugal.\nhttps:
+ //www.portugalrunning.com/eventos/melgaco-alvarinho-trail-2022/
+URL:https://www.portugalrunning.com/eventos/melgaco-alvarinho-trail-2022/
+END:VEVENT
+END:VCALENDAR

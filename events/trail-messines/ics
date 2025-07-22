@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d76c4a53
+DTSTAMP:20250720T222806Z
+DTSTART:20200301
+DTEND:20200302
+LOCATION:Messines Messines\,  Faro
+SUMMARY:TRAILRUNING Bombeiros de Messines
+DESCRIPTION:ONDE? S.B. Messines\,  Faro QUANDO? Domingo\,  01 de Março de 
+ 2020 às 09:00 Pagamentos até: Terça\,  25 de Fevereiro de 2020 às 23:5
+ 9 QUANTO? INSCRIÇÃO € 12.00 ALMOçO € 6.00 ACOMPANHANTES € 6.00 
+ CONTACTOS DA ORGANIZAÇÃO 967594094\nhttps://www.portugalrunning.com/event
+ os/trail-messines/
+URL:https://www.portugalrunning.com/eventos/trail-messines/
+END:VEVENT
+END:VCALENDAR

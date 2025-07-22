@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b002ca
+DTSTAMP:20250720T222411Z
+DTSTART:20221014
+DTEND:20221015
+LOCATION:Penhas da Saúde Penhas da Saúde\,  Covilhã
+SUMMARY:VIII Estrelaçor Ultra Endurance 2022
+DESCRIPTION:VIII Edição do Estrelaçor Ultra Endurance 2022 que liga a Se
+ rra da Estrela e a Serra do Açor. Cinco distâncias em disputa e um passei
+ o a caminhar\,  são algumas das surpresas para 2022.\nhttps://www.portugal
+ running.com/eventos/estrelacor-ultra-endurance-2022/
+URL:https://www.portugalrunning.com/eventos/estrelacor-ultra-endurance-2022/
+END:VEVENT
+END:VCALENDAR

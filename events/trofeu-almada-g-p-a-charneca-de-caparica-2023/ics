@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daec7ba6
+DTSTAMP:20250720T222902Z
+DTSTART:20230319
+DTEND:20230320
+LOCATION:Charneca De Caparica\,  Setubal Charneca De Caparica\,  Setubal
+SUMMARY:Troféu Almada – G.P.A. Charneca De Caparica 2023
+DESCRIPTION:A 19 de Março de 2023 vai realizar-se o 28º Grande Prémio
+  de Atletismo da Charneca de Caparica\,  prova inserida no Troféu de Alma
+ da Atletismo ‘Mário Pinto Claro’ 2022/2023. A organização é da res
+ ponsabilidade do Amigos do Atletismo da Charneca de Caparica com o apoio da
+  Junta de Freguesia da Charneca de Caparica e Sobreda\, [..]\nhttps://www.p
+ ortugalrunning.com/eventos/trofeu-almada-g-p-a-charneca-de-caparica-2023/
+URL:https://www.portugalrunning.com/eventos/trofeu-almada-g-p-a-charneca-de-caparica-2023/
+END:VEVENT
+END:VCALENDAR

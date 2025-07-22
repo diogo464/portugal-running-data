@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0c185c7
+DTSTAMP:20250720T222204Z
+DTSTART:20230611
+DTEND:20230612
+LOCATION:S. João de Lourosa\,  Viseu S. João de Lourosa\,  Viseu
+SUMMARY:5.º Trail nos Trilhos do Dão 2023
+DESCRIPTION:Promover a atividade física e o turismo na nossa freguesia é 
+ um dos nossos objetivos\,  dando a conhecer todo o património histórico\,
+   cultural e ambiental da nossa região. O evento será composto por dois p
+ ercursos:Trail – 13 quilómetros;Caminhada – 8 quilómetros.\nhttps://w
+ ww.portugalrunning.com/eventos/5-o-trail-nos-trilhos-do-dao-2023/
+URL:https://www.portugalrunning.com/eventos/5-o-trail-nos-trilhos-do-dao-2023/
+END:VEVENT
+END:VCALENDAR

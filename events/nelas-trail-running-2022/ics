@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cee0263b
+DTSTAMP:20250720T222550Z
+DTSTART:20220424
+DTEND:20220425
+LOCATION:Nelas\,  Viseu Nelas\,  Viseu
+SUMMARY:Nelas Trail Running 2022
+DESCRIPTION:O Nelas Trail Running 2022 é o herdeiro do Trail dos Caminhos 
+ Cruzados que teve a sua primeira edição em 2015. Nas diferentes distânci
+ as os atletas passam maioritariamente por carreiros seculares criados pelos
+  nossos antepassados\,  que eram percorridos por necessidade de sobrevivên
+ cia nas suas deslocações para os campos agrícolas.\nhttps://www.portugal
+ running.com/eventos/nelas-trail-running-2022/
+URL:https://www.portugalrunning.com/eventos/nelas-trail-running-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd161a55
+DTSTAMP:20250720T222521Z
+DTSTART:20211128
+DTEND:20211129
+LOCATION:Évora Évora
+SUMMARY:Meia maratona de Évora 2021
+DESCRIPTION:Numa alusão ao caminho que Évora percorre rumo à Capital Eur
+ opeia da Cultura 2027\,  a Meia maratona de Évora 2021\,  cidade Patrimón
+ io Mundial da Unesco chega a 28 de novembro\,  com a Praça do Giraldo a se
+ r o ponto de partida e de chegada da prova e um percurso desafiante[..]\nht
+ tps://www.portugalrunning.com/eventos/meia-maratona-de-evora-2021/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-evora-2021/
+END:VEVENT
+END:VCALENDAR

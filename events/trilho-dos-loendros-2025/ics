@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9ec371d
+DTSTAMP:20250720T222846Z
+DTSTART:20250525T190300Z
+DTEND:20250525T190300Z
+LOCATION:Campia\,  Vouzela Campia\,  Vouzela
+SUMMARY:Trilho dos Loendros 2025
+DESCRIPTION:Trail - percurso 1 - 10km + percurso 2 - 20kmCaminhada/percurso
+  pedestre - Trilho de Cambarinho\nhttps://www.portugalrunning.com/eventos/t
+ rilho-dos-loendros-2025/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-loendros-2025/
+END:VEVENT
+END:VCALENDAR

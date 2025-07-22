@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61c68f2
+DTSTAMP:20250720T222745Z
+DTSTART:20240217
+DTEND:20240218
+LOCATION:Vinhais\,  Bragança Vinhais\,  Bragança
+SUMMARY:Trail dos Diabos 2024
+DESCRIPTION:Os trilhos do Parque Natural de Montesinho vão ser o palco do 
+ TRAIL DOS DIABOS. Vinhais é uma Vila Portuguesa\,  pertencente ao Distr
+ ito de Bragança\,  Região Norte e sub-região do Alto Trás-os-Montes.
+  Trail Dos Diabos - 16Km e Caminhada\nhttps://www.portugalrunning.com/event
+ os/trail-dos-diabos-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dos-diabos-2024/
+END:VEVENT
+END:VCALENDAR

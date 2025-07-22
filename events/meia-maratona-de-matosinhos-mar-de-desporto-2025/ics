@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd1312ba
+DTSTAMP:20250720T222521Z
+DTSTART:20250504
+DTEND:20250505
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Meia Maratona de Matosinhos Mar de Desporto 2025
+DESCRIPTION:Meia Maratona de Matosinhos Mar de Desporto 2025\nhttps://www.p
+ ortugalrunning.com/eventos/meia-maratona-de-matosinhos-mar-de-desporto-2025
+ /
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-matosinhos-mar-de-desporto-2025/
+END:VEVENT
+END:VCALENDAR

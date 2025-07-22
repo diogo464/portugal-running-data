@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3730aec
+DTSTAMP:20250720T222247Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Portimão\,  Faro Portimão\,  Faro
+SUMMARY:Corrida Bombeiros de Portimão 2024
+DESCRIPTION:A Associação Humanitária de Bombeiros Voluntários de Portim
+ ão\,  vai realizar no domingo\,  dia 26 demaio de 2024\,  pelas 10:00 hora
+ s\,  um evento desportivo de Atletismo\,  designado por VIIICorrida/Caminha
+ da Solidária Bombeiros de Portimão “Uma Força da Sociedade Civil”.\n
+ https://www.portugalrunning.com/eventos/corrida-bombeiros-de-portimao-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-bombeiros-de-portimao-2024/
+END:VEVENT
+END:VCALENDAR

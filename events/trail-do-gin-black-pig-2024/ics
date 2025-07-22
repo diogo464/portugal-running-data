@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d48ee0
+DTSTAMP:20250720T222741Z
+DTSTART:20240413
+DTEND:20240414
+LOCATION:Santo André\,  Santiago do Cacém Santo André\,  Santiago do Cacém
+SUMMARY:Trail do Gin Black Pig 2024
+DESCRIPTION:O Trail do Gin Black Pig 2024 é um evento de Trail Running\,  
+ que percorre trilhos e caminhosflorestais e linhas de água na freguesia de
+  Santo André e União das Freguesias de Santiago doCacém\,  nas vertentes
+  de Trail (15 km) e Caminhada (8 km).\nhttps://www.portugalrunning.com/even
+ tos/trail-do-gin-black-pig-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-gin-black-pig-2024/
+END:VEVENT
+END:VCALENDAR

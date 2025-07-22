@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8993a66
+DTSTAMP:20250720T222409Z
+DTSTART:20240106
+DTEND:20240107
+LOCATION:Estádio Universitário de Lisboa Estádio Universitário de Lisboa\,  Lisboa
+SUMMARY:Estafeta dos Reis 2024
+DESCRIPTION:A Estafeta dos Reis&nbsp;é uma corrida por&nbsp;equipas de 3 e
+ lementos\,  num circuito fechado com o perímetro de 3&nbsp;km\,  com&nbsp;
+ partida e chegada na Pista do Estádio de Honra\,  do Estádio Universitár
+ io de Lisboa.&nbsp; As equipas poderão ser masculinas\,  femininas ou mist
+ as (pelo menos um atleta de&nbsp;género diferente). Junta a tua equipa\, [
+ ..]\nhttps://www.portugalrunning.com/eventos/estafeta-dos-reis-2024/
+URL:https://www.portugalrunning.com/eventos/estafeta-dos-reis-2024/
+END:VEVENT
+END:VCALENDAR

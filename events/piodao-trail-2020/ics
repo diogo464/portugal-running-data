@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc4bdc2
+DTSTAMP:20250720T222604Z
+DTSTART:20201003
+DTEND:20201004
+LOCATION:Piódão Piódão\,  Coimbra
+SUMMARY:Piódão Trail 2020
+DESCRIPTION:Prova mítica realizada no coração da Serra do Açor. Partida
+  e chegada na aldeia presépio do Piódão. Percurso renovados. < A Prova d
+ e 55 km faz parte do Circuito Distrital de Trail do Distrito de Coimbra. Os
+  associados na ADAC terão nessa prova um desconto de 1.5€ >\nhttps://www
+ .portugalrunning.com/eventos/piodao-trail-2020/
+URL:https://www.portugalrunning.com/eventos/piodao-trail-2020/
+END:VEVENT
+END:VCALENDAR

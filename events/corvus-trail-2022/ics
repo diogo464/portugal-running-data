@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c790150a
+DTSTAMP:20250720T222353Z
+DTSTART:20220402
+DTEND:20220403
+LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+SUMMARY:Corvus Trail 2022
+DESCRIPTION:A prova “Corvus Trail 2022” tem como objetivo proporcionar 
+ aos atletas novas experiências e sensações em trilhos distintos\,  valor
+ ização e divulgação do território e promoção da Grande Rota das Ribe
+ iras de Arçês e Rio Frio e do Rio Tejo (GR-55) que atravessa várias alde
+ ias e pontos de interesse cultural e[..]\nhttps://www.portugalrunning.com/e
+ ventos/corvus-trail-2022/
+URL:https://www.portugalrunning.com/eventos/corvus-trail-2022/
+END:VEVENT
+END:VCALENDAR

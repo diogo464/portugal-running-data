@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf84acef
+DTSTAMP:20250720T222144Z
+DTSTART:20220515
+DTEND:20220516
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:1º Trail Manuelino - SicóTrilhos 2022
+DESCRIPTION:1º Trail Manuelino - SicóTrilhos 2022\nhttps://www.portugalru
+ nning.com/eventos/1o-trail-manuelino-sicotrilhos-2022/
+URL:https://www.portugalrunning.com/eventos/1o-trail-manuelino-sicotrilhos-2022/
+END:VEVENT
+END:VCALENDAR

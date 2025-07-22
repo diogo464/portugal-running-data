@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd13085c
+DTSTAMP:20250720T222521Z
+DTSTART:20211121
+DTEND:20211122
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona de Lisboa 2021
+DESCRIPTION:Resultados Detentora do record do mundo da distância (21km) de
+  2010 a 2018\,  na sua 30ª edição\,  a EDP Meia Maratona de Lisboa 2021 
+ vai juntar os melhores atletas do mundo da distância para recuperar o reco
+ rd mundo! A EDP Meia Maratona de Lisboa 2021 é também uma das cinco[..]\n
+ https://www.portugalrunning.com/eventos/meia-maratona-de-lisboa-2021/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-lisboa-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfb006ec
+DTSTAMP:20250720T222147Z
+DTSTART:20211031
+DTEND:20211101
+LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+SUMMARY:20 Km de Almeirim 2021
+DESCRIPTION:A Associação 20 Kms de Almeirim voltará a organizar a cláss
+ ica: 20 Km de Almeirim 2021\,  em simultâneo com a prova de 10 quilómetro
+ s e "PELARIGO Mini Prova" não competitiva\,  em circuito urbano. Inscriç�
+ �es abertas a partir de Setembro. Venha novamente fazer parte da festa e cr
+ uzar com a Rota[..]\nhttps://www.portugalrunning.com/eventos/20-km-de-almei
+ rim-2021/
+URL:https://www.portugalrunning.com/eventos/20-km-de-almeirim-2021/
+END:VEVENT
+END:VCALENDAR

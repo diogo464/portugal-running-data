@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c58626ad
+DTSTAMP:20250720T222320Z
+DTSTART:20230624
+DTEND:20230625
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Corrida dos Gambuzinos 2023
+DESCRIPTION:Venha divertir-se com a corrida dos Gambuzinos. Esta corrida se
+ rá disputada na tipologia de contra-relógio\,  onde os corredores sairão
+  um a um. Seja o rei e a raínha de Pombal e saia de sorriso rasgado na car
+ a de um conceito inovador de evento.\nhttps://www.portugalrunning.com/event
+ os/corrida-dos-gambuzinos-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-gambuzinos-2023/
+END:VEVENT
+END:VCALENDAR

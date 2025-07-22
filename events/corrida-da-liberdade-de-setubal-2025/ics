@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f49dd5
+DTSTAMP:20250720T222255Z
+DTSTART:20250425
+DTEND:20250426
+LOCATION:Setúbal Setúbal
+SUMMARY:Corrida da Liberdade de Setúbal 2025
+DESCRIPTION:Com partida e chegada no Parque Verde da Bela Vista\,  durante 
+ a manhã vamos proporcionar: prova de 10Km (com sistema de cronometragem)\,
+   caminhada de 5Km para famílias e minicorrida para crianças e a vertente
+  inclusiva associada às atividades identificadas. Acrescentamos aula de zu
+ mba\,  demonstrações desportivas\,  artesanato\,  música\,  entre outras
+ \,  motivando[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-liber
+ dade-de-setubal-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-de-setubal-2025/
+END:VEVENT
+END:VCALENDAR

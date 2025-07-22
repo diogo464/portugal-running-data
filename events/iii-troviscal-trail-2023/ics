@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca8f38ef
+DTSTAMP:20250720T222440Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Sertã\,  Castelo Branco Sertã\,  Castelo Branco
+SUMMARY:III Troviscal Trail 2023
+DESCRIPTION:A&nbsp; Associação Desportiva e Recreativa do Troviscal com o
+  apoio da Câmara Municipal da&nbsp;Sertã\, &nbsp;da Junta de Freguesia do
+  Troviscal e&nbsp;a organização técnica da Werun\,  irá realizar o II T
+ roviscal Trail. Esta é uma prova de TrailRunning\, &nbsp; em Natureza\,  c
+ om três provas\,  Trail Longo k29+ \,  Trail Curto k12+ e Caminhada[..]\nh
+ ttps://www.portugalrunning.com/eventos/iii-troviscal-trail-2023/
+URL:https://www.portugalrunning.com/eventos/iii-troviscal-trail-2023/
+END:VEVENT
+END:VCALENDAR

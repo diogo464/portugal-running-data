@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca661d50
+DTSTAMP:20250720T222438Z
+DTSTART:20240630T151100Z
+DTEND:20240630T151100Z
+LOCATION:Rio de Moinhos\,  Évora Rio de Moinhos\,  Évora
+SUMMARY:I Corrida / Caminhada Memorial João Maltez 2024
+DESCRIPTION:O percurso é em linha\,  com partida junto do Campo de Futebol
+  de Rio de Moinhos\, localidade de Rio de Moinhos e chegada junto ao ringue
+  desportivo de Glória\,  localidade deGlória. Percurso Aproximado de 5kms
+ .\nhttps://www.portugalrunning.com/eventos/i-corrida-caminhada-memorial-joa
+ o-maltez-2024/
+URL:https://www.portugalrunning.com/eventos/i-corrida-caminhada-memorial-joao-maltez-2024/
+END:VEVENT
+END:VCALENDAR

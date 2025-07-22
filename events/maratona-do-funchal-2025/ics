@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3c4f30
+DTSTAMP:20250720T222507Z
+DTSTART:20250119
+DTEND:20250120
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Maratona do Funchal 2025
+DESCRIPTION:A Maratona do Funchal é organizada pela Associação de Atleti
+ smo da Região Autónoma da Madeira com o apoio de instituições públicas
+  e privadas. A organização oferece 3 distâncias aos participantes\,  a M
+ aratona do Funchal com 42.195 metros\,  Meia Maratona com 21.097\, 5 metros
+  e a Mini Maratona.\nhttps://www.portugalrunning.com/eventos/maratona-do-fu
+ nchal-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-do-funchal-2025/
+END:VEVENT
+END:VCALENDAR

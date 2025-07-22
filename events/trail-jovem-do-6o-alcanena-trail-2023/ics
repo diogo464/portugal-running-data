@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72c35cb
+DTSTAMP:20250720T222802Z
+DTSTART:20230318
+DTEND:20230319
+LOCATION:Alcanena\,  Santarém Alcanena\,  Santarém
+SUMMARY:Trail Jovem Do 6º Alcanena Trail 2023
+DESCRIPTION:Trail Jovem Do 6º Alcanena Trail 2023\nhttps://www.portugalrun
+ ning.com/eventos/trail-jovem-do-6o-alcanena-trail-2023/
+URL:https://www.portugalrunning.com/eventos/trail-jovem-do-6o-alcanena-trail-2023/
+END:VEVENT
+END:VCALENDAR

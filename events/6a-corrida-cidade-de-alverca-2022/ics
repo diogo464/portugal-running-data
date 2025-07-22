@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0c3208e
+DTSTAMP:20250720T222204Z
+DTSTART:20220522
+DTEND:20220523
+LOCATION:Alverca Alverca\,  Lisboa
+SUMMARY:6ª Corrida Cidade de Alverca 2022
+DESCRIPTION:Alverca do Ribatejo volta a ser\,  no dia 22 de Maio de 2022\,
+   o palco para a já tradicional 6ª Corrida Cidade de Alverca 2022 que a
+ nualmente\,  reúne na cidade mais de um milhar de participantes\,  oriundo
+ s de todo o país.A prova volta à estrada\,  este ano com partida e chegad
+ a no Pólo[..]\nhttps://www.portugalrunning.com/eventos/6a-corrida-cidade-d
+ e-alverca-2022/
+URL:https://www.portugalrunning.com/eventos/6a-corrida-cidade-de-alverca-2022/
+END:VEVENT
+END:VCALENDAR

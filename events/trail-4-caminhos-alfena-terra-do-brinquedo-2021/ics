@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d37dc428
+DTSTAMP:20250720T222703Z
+DTSTART:20211010
+DTEND:20211011
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail 4 Caminhos Alfena Terra Do Brinquedo 2021
+DESCRIPTION:Trail 4 Caminhos Alfena Terra Do Brinquedo 2021\nhttps://www.po
+ rtugalrunning.com/eventos/trail-4-caminhos-alfena-terra-do-brinquedo-2021/
+URL:https://www.portugalrunning.com/eventos/trail-4-caminhos-alfena-terra-do-brinquedo-2021/
+END:VEVENT
+END:VCALENDAR

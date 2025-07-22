@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db71a157
+DTSTAMP:20250720T222911Z
+DTSTART:20230205
+DTEND:20230206
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Ultra Trail Ibérico do Contrabando 2023
+DESCRIPTION:O Ultra Trail Ibérico do Contrabando (UTIC) é uma prova de tr
+ ail running organizada em Chaves pela Associação Wildfun - Desporto\,  Av
+ entura & Turismo com o apoio do Município de Chaves\,  Instituto portuguê
+ s do Desporto e Juventude – IPD\,  Associação de Atletismo de Vila Real
+  (AAVR)\,  Associação Trail Running Portugal[..]\nhttps://www.portugalrun
+ ning.com/eventos/ultra-trail-iberico-do-contrabando-2023/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-iberico-do-contrabando-2023/
+END:VEVENT
+END:VCALENDAR

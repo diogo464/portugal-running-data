@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9732566
+DTSTAMP:20250720T222839Z
+DTSTART:20231007
+DTEND:20231008
+LOCATION:Campo Maior\,  Portalegre Campo Maior\,  Portalegre
+SUMMARY:Trail Vila de Campo Maior 2023
+DESCRIPTION:O Trail Vila de Campo Maior procura ser promotor de estilos de 
+ vida saudáveis\,  de competição desportiva e de promoção do nosso patr
+ imónio natural\,  cultural\,  empresarial e Humano. Valorizar o nosso conc
+ elho e realçar a vertente cultural é fundamental para criar um evento dis
+ tintivo no panorama do Trail em Portugal[..]\nhttps://www.portugalrunning.c
+ om/eventos/trail-vila-de-campo-maior-2023/
+URL:https://www.portugalrunning.com/eventos/trail-vila-de-campo-maior-2023/
+END:VEVENT
+END:VCALENDAR

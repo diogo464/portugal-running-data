@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6961318
+DTSTAMP:20250720T222753Z
+DTSTART:20220522
+DTEND:20220523
+LOCATION:Vale Venteiro\,  Tomar Vale Venteiro\,  Tomar
+SUMMARY:Trail do Vale 2022
+DESCRIPTION:Na sua primeira edição\,  o Trail do Vale 2022 irá realizar-
+ se em pleno município de Tomar com duas distâncias competitivas e uma pro
+ va de Caminhada. Venha retomar a sua atividade connosco em Vale Venteiro.\n
+ https://www.portugalrunning.com/eventos/trail-do-vale-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-vale-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d697a132
+DTSTAMP:20250720T222753Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Guisande\,  Santa Maria da Feira Guisande\,  Santa Maria da Feira
+SUMMARY:Trail do Viso 2023
+DESCRIPTION:O Trail do Viso é um evento desportivo com duas vertentes\,  u
+ m Trail com cariz competitivo e uma Caminhada com cariz recreativo que perm
+ itirá aos participantes partir da Capela do Viso de Guisande e percorrer t
+ rilhos de beleza extrema do concelho de Santa Maria da Feira.\nhttps://www.
+ portugalrunning.com/eventos/trail-do-viso-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-viso-2023/
+END:VEVENT
+END:VCALENDAR

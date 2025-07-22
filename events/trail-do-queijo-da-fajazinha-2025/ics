@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61ac72c
+DTSTAMP:20250720T222745Z
+DTSTART:20251011T150200Z
+DTEND:20251011T235900Z
+LOCATION:Fajãzinha\,  Ilha das Flores Fajãzinha\,  Ilha das Flores
+SUMMARY:Trail do Queijo da Fajãzinha 2025
+DESCRIPTION:O Trail do Queijo da Fajãzinha é uma prova de trail running c
+ om uma organização conjunta entre a Queijaria do Pico Redondo\,  o Atlét
+ ico Clube Fajã Grande\,  e a Câmara Municipal de Lajes das Flores\,  e de
+ correrá no dia 11 de outubro de 2025\,  com partida e chegada marcadas par
+ a[..]\nhttps://www.portugalrunning.com/eventos/trail-do-queijo-da-fajazinha
+ -2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-queijo-da-fajazinha-2025/
+END:VEVENT
+END:VCALENDAR

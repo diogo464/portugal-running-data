@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4433298
+DTSTAMP:20250720T222300Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:São Jacinto\,  Aveiro São Jacinto\,  Aveiro
+SUMMARY:Corrida das Areias 2024
+DESCRIPTION:A CORRIDA DAS AREIAS é uma organização do Regimento de Infan
+ taria Nº10 e irá decorrer no próximo dia 26 de maio de 2024\,  em S. Jac
+ into a sua 11ª edição. Decorrerá num percurso com uma extensão de\,  a
+ proximadamente\,  17 km percorridos na Freguesia de S. Jacinto\,  com iníc
+ io no Regimento[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-ar
+ eias-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-das-areias-2024/
+END:VEVENT
+END:VCALENDAR

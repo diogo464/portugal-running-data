@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c487b85c
+DTSTAMP:20250720T222304Z
+DTSTART:20200111
+DTEND:20200112
+LOCATION:Esposende Esposende
+SUMMARY:Corrida de Ano Novo
+DESCRIPTION:A Câmara Municipal de Esposende vai organizar\,  mais uma vez\
+ ,  a Corrida de Ano Novo\,  que terá lugar no dia 11 de janeiro de 2020\,
+   pelas 18h00. A prova desenrolar-se-á num percurso citadino\,  numa exten
+ são de 10 km\,  com início e término no Largo Rodrigues Sampaio\,  em E
+ sposende. À semelhança dos anos[..]\nhttps://www.portugalrunning.com/even
+ tos/corrida-de-ano-novo/
+URL:https://www.portugalrunning.com/eventos/corrida-de-ano-novo/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cba17f50
+DTSTAMP:20250720T222458Z
+DTSTART:20220724
+DTEND:20220725
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Lisboa Green Trail 2022
+DESCRIPTION:O parque florestal de Monsanto prepara-se para receber a V edi
+ ção do Lisboa Green Trail 2022 com as habituais provas\,  trail longo e 
+ trail curto\,  não esquecendo a caminhada. Com partida no Rio Seco\,  vamo
+ s dar-te a conhecer os trilhos mais sinuosos e as vistas soberbas sobre o R
+ io Tejo! \nhttps://www.portugalrunning.com/eventos/lisboa-green-trail-2022
+ /
+URL:https://www.portugalrunning.com/eventos/lisboa-green-trail-2022/
+END:VEVENT
+END:VCALENDAR

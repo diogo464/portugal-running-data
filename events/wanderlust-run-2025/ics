@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc9f3bda
+DTSTAMP:20250720T222929Z
+DTSTART:20250928T082700Z
+DTEND:20250928T082700Z
+LOCATION:Parque Eduardo VII\,  Lisboa Parque Eduardo VII\,  Lisboa
+SUMMARY:Wanderlust Run 2025
+DESCRIPTION:A&nbsp;Corrida & Caminhada Wanderlust\, &nbsp;irá realizar-se 
+ no dia&nbsp;28&nbsp;de Setembro&nbsp;pelas&nbsp;09h30&nbsp;e integra uma co
+ rrida de 10km e&nbsp;uma caminhada de 5km. &nbsp; Uma organização da&nbsp
+ ;Wanderlust Portugal&nbsp;com o apoio da&nbsp;&nbsp;Câmara Municipal de Li
+ sboa&nbsp;e da&nbsp;Junta de Freguesia das Avenidas Novas.\nhttps://www.por
+ tugalrunning.com/eventos/wanderlust-run-2025/
+URL:https://www.portugalrunning.com/eventos/wanderlust-run-2025/
+END:VEVENT
+END:VCALENDAR

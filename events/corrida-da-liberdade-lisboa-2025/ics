@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f188fb
+DTSTAMP:20250720T222255Z
+DTSTART:20250425
+DTEND:20250426
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida da Liberdade Lisboa 2025
+DESCRIPTION:No dia 25 Abril\,  a alegria e a festa colectiva saem mais uma 
+ vez à rua. O desejo e o prazer da participação mantêm viva a “Corrida
+  da Liberdade” e a sua simbologia\,  nesse dia em que saudamos os 51 ano
+ s da Revolução dos Cravos! A PRAÇA dos RESTAURADORES irá de[..]\nhttps:
+ //www.portugalrunning.com/eventos/corrida-da-liberdade-lisboa-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-lisboa-2025/
+END:VEVENT
+END:VCALENDAR

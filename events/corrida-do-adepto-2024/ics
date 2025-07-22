@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4e30587
+DTSTAMP:20250720T222310Z
+DTSTART:20240127
+DTEND:20240128
+LOCATION:Leiria Leiria
+SUMMARY:Corrida do Adepto 2024
+DESCRIPTION:A Corrida do Adepto é organizada no dia 27 de Janeiro pela Fun
+ dação do Futebol - Liga Portugal com o apoio da Câmara Municipal de Leir
+ ia\,  Instituto Português do Desporto e da Juventude e do Ministério da E
+ ducação\,  com organização técnica da HMS SportsConsulting Lda. Corrid
+ a do Adepto 10 kmCaminhada[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-do-adepto-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-adepto-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf1dc976
+DTSTAMP:20250720T222553Z
+DTSTART:20201017
+DTEND:20201018
+LOCATION:Torres Vedras Torres Vedras
+SUMMARY:Nigth Run Urban Trail 2020
+DESCRIPTION:Esta atividade integra o programa Torres Vedras Running 2020 A
+  Nigth Run Urban Trail realiza-se no dia 17 de outubro\,  às 19h30\,  em T
+ orres Vedras. Evento de Trail e caminhada noturno em contexto maioritariame
+ nte urbano com troços em trilhos seminaturais nas imediações da cidade. 
+ O percurso incluirá passagens nos locais mais[..]\nhttps://www.portugalrun
+ ning.com/eventos/nigth-run-urban-trail-2020/
+URL:https://www.portugalrunning.com/eventos/nigth-run-urban-trail-2020/
+END:VEVENT
+END:VCALENDAR

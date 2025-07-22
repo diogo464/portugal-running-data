@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c3bf3
+DTSTAMP:20250720T222617Z
+DTSTART:20241026T131600Z
+DTEND:20241026T235900Z
+LOCATION:Santarém Santarém
+SUMMARY:Santarém On Fire – Assalto ao Centro Histórico 2024
+DESCRIPTION:Neste evento os bombeiros irão percorrer equipados cerca de 80
+ 0 M uma elevação máxima de 115 M com o seu equipamento de proteção ind
+ ividual no menor tempo possível.\nhttps://www.portugalrunning.com/eventos/
+ santarem-on-fire-assalto-ao-centro-historico-2024/
+URL:https://www.portugalrunning.com/eventos/santarem-on-fire-assalto-ao-centro-historico-2024/
+END:VEVENT
+END:VCALENDAR

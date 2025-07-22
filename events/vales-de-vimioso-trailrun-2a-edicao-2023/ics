@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb30c34
+DTSTAMP:20250720T222915Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Vimioso\,  Bragança Vimioso\,  Bragança
+SUMMARY:Vales De Vimioso TrailRun – 2ª Edição 2023
+DESCRIPTION:A Organização: está a cargo do Moto Club Furões de Vimioso.
+  Distâncias: Trail Longo 30Km\,  Trail Curto 15Km\,  Caminhada 10kmPartida
+ /chegada: Largo da Igreja Matriz (auditório)\nhttps://www.portugalrunning.
+ com/eventos/vales-de-vimioso-trailrun-2a-edicao-2023/
+URL:https://www.portugalrunning.com/eventos/vales-de-vimioso-trailrun-2a-edicao-2023/
+END:VEVENT
+END:VCALENDAR

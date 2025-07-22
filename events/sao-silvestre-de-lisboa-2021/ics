@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17aacf6
+DTSTAMP:20250720T222631Z
+DTSTART:20211218
+DTEND:20211219
+LOCATION:Lisboa Lisboa
+SUMMARY:São Silvestre de Lisboa 2021
+DESCRIPTION:Resultados Este ano\,  a Lidl São Silvestre de Lisboa 2021 cel
+ ebra a 14ª edição de forma presencial e virtual a 18 de Dezembro.\nhttps
+ ://www.portugalrunning.com/eventos/sao-silvestre-de-lisboa-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-lisboa-2021/
+END:VEVENT
+END:VCALENDAR

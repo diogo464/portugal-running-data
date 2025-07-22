@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc330d54
+DTSTAMP:20250720T222923Z
+DTSTART:20221201
+DTEND:20221202
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Trail Este Romanico 2022
+DESCRIPTION:A Câmara Municipal de Vila do Conde em parceria com a Junta da
+  União das Freguesias de Rio Mau e Arcos - Vila do Conde\,  são as entida
+ des organizadoras do evento denominado VI Este Românico - Vila do Conde\, 
+  que decorrerá no dia 01 de Dezembro de 2022 em Arcos\, [..]\nhttps://www.
+ portugalrunning.com/eventos/vi-trail-este-romanico-arcos-vila-do-conde/
+URL:https://www.portugalrunning.com/eventos/vi-trail-este-romanico-arcos-vila-do-conde/
+END:VEVENT
+END:VCALENDAR

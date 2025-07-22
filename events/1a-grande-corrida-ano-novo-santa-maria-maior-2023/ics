@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf7c4d78
+DTSTAMP:20250720T222143Z
+DTSTART:20230108
+DTEND:20230109
+LOCATION:Lisboa Lisboa
+SUMMARY:1ª Grande Corrida Ano Novo Santa Maria Maior 2023
+DESCRIPTION:Centro Histórico da Cidade | Lisboa Corrida 10km | 10h00Caminh
+ ada 5km | 10h05\nhttps://www.portugalrunning.com/eventos/1a-grande-corrida-
+ ano-novo-santa-maria-maior-2023/
+URL:https://www.portugalrunning.com/eventos/1a-grande-corrida-ano-novo-santa-maria-maior-2023/
+END:VEVENT
+END:VCALENDAR

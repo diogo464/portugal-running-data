@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8b922ce
+DTSTAMP:20250720T222827Z
+DTSTART:20250914
+DTEND:20250915
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Trail São Gonçalo Floki 2025
+DESCRIPTION:Esta prova de trail-running atravessa os desafiantes trilhos e 
+ caminhos das montanha de São Gonçalo\,  no concelho de Barcelos.\nhttps:/
+ /www.portugalrunning.com/eventos/trail-sao-goncalo-floki-2025/
+URL:https://www.portugalrunning.com/eventos/trail-sao-goncalo-floki-2025/
+END:VEVENT
+END:VCALENDAR

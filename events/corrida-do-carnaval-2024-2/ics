@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c523152a
+DTSTAMP:20250720T222314Z
+DTSTART:20240213
+DTEND:20240214
+LOCATION:Rio Tinto\,  Gondomar Rio Tinto\,  Gondomar
+SUMMARY:Corrida do Carnaval 2024
+DESCRIPTION:Realiza-se no dia 13 de Fevereiro de 2024 pelas 17h00\,  a prov
+ a começa e acaba em frente ao Estádio do Sport Clube Rio Tinto. Entrar na
+  Avenida Doutor Almeida Santos e por ai se segue até a Avenida Doutor Aní
+ bal Cavaco Silva\,  onde se desce até ao ponto de retorno[..]\nhttps://www
+ .portugalrunning.com/eventos/corrida-do-carnaval-2024-2/
+URL:https://www.portugalrunning.com/eventos/corrida-do-carnaval-2024-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9761b7a
+DTSTAMP:20250720T222423Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Tregosa\,  Barcelos Tregosa\,  Barcelos
+SUMMARY:Grande Prémio Atletismo de Tregosa 2024
+DESCRIPTION:A.D.C. de Tregosa vai realizar no dia 20 de Outubro de 2024 o s
+ eu 28º Grande Prémio de Atletismo de Tregosa que decorrerá nas principai
+ s artérias da União de Freguesias Durrães-Tregosa.As partidas e chegadas
+  serão realizadas junto às instalações desta Associação.\nhttps://www
+ .portugalrunning.com/eventos/grande-premio-atletismo-de-tregosa-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-de-tregosa-2024/
+END:VEVENT
+END:VCALENDAR

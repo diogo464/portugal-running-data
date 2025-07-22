@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d217a6fb
+DTSTAMP:20250720T222641Z
+DTSTART:20221230
+DTEND:20221231
+LOCATION:Ponte da Barca\,  Viana do Castelo Ponte da Barca\,  Viana do Castelo
+SUMMARY:São Silvestre Ponte da Barca 2022
+DESCRIPTION:A São Silvestre Ponte da Barca é organizada pela Associação
+  EcoBarcAventura-Associação com a colaboração da Câmara Municipal de P
+ onte de Barca. Realiza-se no dia 30 de dezembro de 2022\,  pelas 20h00m\,  
+ com partida e chegada na Praça Dr. António Lacerda em frente à Câmara M
+ unicipal de Ponte da Barca a[..]\nhttps://www.portugalrunning.com/eventos/s
+ ao-silvestre-ponte-da-barca-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-ponte-da-barca-2022/
+END:VEVENT
+END:VCALENDAR

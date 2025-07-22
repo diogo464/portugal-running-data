@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb00da3
+DTSTAMP:20250720T222915Z
+DTSTART:20230618
+DTEND:20230619
+LOCATION:Águeda\,  Aveiro Águeda\,  Aveiro
+SUMMARY:Vai ser um Calvário 2023
+DESCRIPTION:O Trail será uma prova que percorre trilhos e caminhos nas mar
+ gens do rio Marnel e noutros locais da Vila de Valongo do Vouga\,  com part
+ ida e chegada no largo do Calvário\nhttps://www.portugalrunning.com/evento
+ s/vai-ser-um-calvario-2023/
+URL:https://www.portugalrunning.com/eventos/vai-ser-um-calvario-2023/
+END:VEVENT
+END:VCALENDAR

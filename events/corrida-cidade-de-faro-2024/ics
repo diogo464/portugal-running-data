@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b00c7b
+DTSTAMP:20250720T222251Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Corrida Cidade de Faro 2024
+DESCRIPTION:A 4.ª Corrida Cidade de Faro é organizada pelos Tugas On Tour
+  Associação Desportiva em coorganização com a Câmara Municipal de Faro
+  e a União de Freguesias de Faro. A 4.ª Corrida Cidade de Faro (sub 20 at
+ é veteranos VI) é composto por um circuito de ida e volta\,  totalmente[.
+ .]\nhttps://www.portugalrunning.com/eventos/corrida-cidade-de-faro-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-faro-2024/
+END:VEVENT
+END:VCALENDAR

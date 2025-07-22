@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfb1842c
+DTSTAMP:20250720T222603Z
+DTSTART:20240421
+DTEND:20240422
+LOCATION:Pedroso\,  Vila Nova de Gaia Pedroso\,  Vila Nova de Gaia
+SUMMARY:Petrus Run 2024
+DESCRIPTION:A Junta de Freguesia de Pedroso e Seixezelo\,  com o apoio orga
+ nizativo do Clube Spiridon de Gaia e doClube os Gaienses/Toyota\,  promover
+ ão uma prova de atletismo em estrada designada Petrus Run Intermarché 202
+ 4. Esta iniciativa tem por objetivo difundir a freguesia através de uma in
+ iciativa desportivade periocidade anual\,  promovendo o[..]\nhttps://www.po
+ rtugalrunning.com/eventos/petrus-run-2024/
+URL:https://www.portugalrunning.com/eventos/petrus-run-2024/
+END:VEVENT
+END:VCALENDAR

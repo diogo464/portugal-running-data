@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4091ebd
+DTSTAMP:20250720T222256Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Porto Porto
+SUMMARY:Corrida da Mulher 2025
+DESCRIPTION:A 19ª EDP Corrida da Mulher realiza-se no dia 25 de maio de 20
+ 25\,  às 09h30\,  na cidade do Porto\,  com partida e chegada na Alameda d
+ as Antas.\nhttps://www.portugalrunning.com/eventos/corrida-da-mulher-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc84ac2f
+DTSTAMP:20250720T222512Z
+DTSTART:20240204
+DTEND:20240205
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Meia Maratona Cascais 2024
+DESCRIPTION:A Meia Maratona Cascais\,  powered by Associação Mutualista
+  Montepio\,  organizada pela HMS Sports\,  em parceria com a Câmara Munici
+ pal de Cascais e o CCD Cascais\,  celebra a 7ª edição e contará com a C
+ orrida das Crianças\,  no dia 3 de fevereiro\,  a Meia Maratona (21\, 0975
+ km) e os 5 Km\,  no dia 4[..]\nhttps://www.portugalrunning.com/eventos/meia
+ -maratona-cascais-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-cascais-2024/
+END:VEVENT
+END:VCALENDAR

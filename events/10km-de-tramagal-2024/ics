@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf3c2bc3
+DTSTAMP:20250720T222139Z
+DTSTART:20240501
+DTEND:20240502
+LOCATION:Tramagal\,  Abrantes Tramagal\,  Abrantes
+SUMMARY:10Km De Tramagal 2024
+DESCRIPTION:A Freguesia de Tramagal realiza anualmente a prova de atletismo
+  “10 Km de Tramagal”\,  que vai na sua 5.ª edição\,  como forma de i
+ ncentivar a prática desportiva\,  o convívio e a valorização do territ�
+ �rio. A realização deste popular evento faz parte das Comemorações do 1
+ º de Maio na Freguesia de[..]\nhttps://www.portugalrunning.com/eventos/10k
+ m-de-tramagal-2024/
+URL:https://www.portugalrunning.com/eventos/10km-de-tramagal-2024/
+END:VEVENT
+END:VCALENDAR

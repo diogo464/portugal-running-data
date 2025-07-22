@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbedbb26
+DTSTAMP:20250720T222502Z
+DTSTART:20251109
+DTEND:20251110
+LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+SUMMARY:Lynxrace Oeiras 2025
+DESCRIPTION:A LYNXRACE é uma Corrida de Obstáculos. A LYNX OEIRAS de 09 d
+ e Novembro de 2025 é uma etapa da LIGA OCR PORTUGAL mas também uma prova 
+ para quem procura um evento desportivo para pura DIVERSÃO. A LYNX OEIRAS t
+ em duas distâncias e está por isso dividida em duas partes:A[..]\nhttps:/
+ /www.portugalrunning.com/eventos/lynxrace-oeiras-2025/
+URL:https://www.portugalrunning.com/eventos/lynxrace-oeiras-2025/
+END:VEVENT
+END:VCALENDAR

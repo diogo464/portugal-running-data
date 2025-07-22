@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbadbf8e
+DTSTAMP:20250720T222458Z
+DTSTART:20231007
+DTEND:20231008
+LOCATION:Lousã\,  Coimbra Lousã\,  Coimbra
+SUMMARY:Louzanskyrace 2023
+DESCRIPTION:Louzanskyrace 2023\nhttps://www.portugalrunning.com/eventos/lou
+ zanskyrace-2023/
+URL:https://www.portugalrunning.com/eventos/louzanskyrace-2023/
+END:VEVENT
+END:VCALENDAR

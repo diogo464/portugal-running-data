@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17c41d6
+DTSTAMP:20250720T222631Z
+DTSTART:20211211
+DTEND:20211212
+LOCATION:
+SUMMARY:São Silvestre de Mozelos 2021
+DESCRIPTION:A São Silvestre de Mozelos 2021 terá como partida e chegada a
+  Travessa José Santos Cardoso\,  junto ao Pavilhão Desportivo de Mozelos 
+ e decorrerá nas ruas da Vila de Mozelos.\nhttps://www.portugalrunning.com/
+ eventos/sao-silvestre-de-mozelos-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-mozelos-2021/
+END:VEVENT
+END:VCALENDAR

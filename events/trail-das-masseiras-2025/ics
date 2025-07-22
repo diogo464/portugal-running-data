@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5093640
+DTSTAMP:20250720T222728Z
+DTSTART:20250907
+DTEND:20250908
+LOCATION:Aguçadoura\,  Póvoa de Varzim Aguçadoura\,  Póvoa de Varzim
+SUMMARY:Trail das Masseiras 2025
+DESCRIPTION:O I Trail das Masseiras decorre em trilhos e caminhos rurais do
+  Concelho da Póvoa de Varzim.\nhttps://www.portugalrunning.com/eventos/tra
+ il-das-masseiras-2025/
+URL:https://www.portugalrunning.com/eventos/trail-das-masseiras-2025/
+END:VEVENT
+END:VCALENDAR

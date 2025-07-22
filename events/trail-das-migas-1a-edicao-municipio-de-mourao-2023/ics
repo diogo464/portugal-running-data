@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50aaf71
+DTSTAMP:20250720T222728Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Mourão\,  Évora Mourão\,  Évora
+SUMMARY:Trail Das Migas - 1ª Edição - Município De Mourão 2023
+DESCRIPTION:O Trail das Migas 1ª edição é organizado pelo Município de
+  Mourão. Trail Longo +- 24 Km Trail Curto +- 15 Km Caminhada +- 8 Km\nhttp
+ s://www.portugalrunning.com/eventos/trail-das-migas-1a-edicao-municipio-de-
+ mourao-2023/
+URL:https://www.portugalrunning.com/eventos/trail-das-migas-1a-edicao-municipio-de-mourao-2023/
+END:VEVENT
+END:VCALENDAR

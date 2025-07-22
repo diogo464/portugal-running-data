@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c48caf
+DTSTAMP:20250720T222636Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+SUMMARY:São Silvestre Estremoz 2023
+DESCRIPTION:No dia 16 de dezembro de 2023\,  irá realizar-se a São Silves
+ tre ESTREMOZ\,  percurso\,  pela cidade de Estremoz\,  com início às 19h0
+ 0m. A Corrida contará com 10km\,  corridos pelos pontos principais da cida
+ de de Estremoz\,  e caminhada terá cerca de 5km.\nhttps://www.portugalrunn
+ ing.com/eventos/sao-silvestre-estremoz-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-estremoz-2023/
+END:VEVENT
+END:VCALENDAR

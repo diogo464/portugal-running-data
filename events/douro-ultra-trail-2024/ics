@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c82abefd
+DTSTAMP:20250720T222402Z
+DTSTART:20241005
+DTEND:20241006
+LOCATION:Peso da Régua\,  Vila Real Peso da Régua\,  Vila Real
+SUMMARY:Douro Ultra Trail 2024
+DESCRIPTION:O Douro Ultra Trail é já um dos grandes eventos do ano para a
+  modalidade de trail running em Portugal. Enfrentando a temível Serra do M
+ arão no meio de outros complexos montanhosos como a Serra da Estrela\,  Se
+ rra de Montemuro\,  Gerês e Cabreira\,  venha sentir a adrenalina e finali
+ zar no[..]\nhttps://www.portugalrunning.com/eventos/douro-ultra-trail-2024/
+URL:https://www.portugalrunning.com/eventos/douro-ultra-trail-2024/
+END:VEVENT
+END:VCALENDAR

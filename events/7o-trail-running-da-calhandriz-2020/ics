@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c113244e
+DTSTAMP:20250720T222209Z
+DTSTART:20200606
+DTEND:20200607
+LOCATION:Calhandriz (Concelho de Vila Franca de Xira) Calhandriz (Concelho de Vila Franca de Xira)
+SUMMARY:7º Trail Running da Calhandriz 2020
+DESCRIPTION:O “VII Trail da Calhandriz” Versão Sunset será realizado 
+ no dia 06 de Junho de 2020\,  em Calhandriz ás 17h00m\,  independentemente
+  das condições climatéricas desse dia\,  desde que a organização enten
+ da que não ofereçam risco para os participantes. A prova “VII Trail da 
+ Calhandriz” Versão Sunset terá a distância de[..]\nhttps://www.portuga
+ lrunning.com/eventos/7o-trail-running-da-calhandriz-2020/
+URL:https://www.portugalrunning.com/eventos/7o-trail-running-da-calhandriz-2020/
+END:VEVENT
+END:VCALENDAR

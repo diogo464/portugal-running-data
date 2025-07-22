@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4c189e0
+DTSTAMP:20250720T222724Z
+DTSTART:20240714
+DTEND:20240715
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail da Lomba 2024
+DESCRIPTION:Este evento será realizado no concelho de Gondomar\,  na fregu
+ esia da Lomba no dia 14 de Julho de 2024\,  com partidas/chegadas no cais d
+ e Pé de Moura (Av. Feysin) A 6ª edição do Trail da Lomba está integrad
+ a no calendário da ATRP\,  onde a distância de 25km faz parte do[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-da-lomba-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-lomba-2024/
+END:VEVENT
+END:VCALENDAR

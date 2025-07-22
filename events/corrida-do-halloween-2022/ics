@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c57610d2
+DTSTAMP:20250720T222319Z
+DTSTART:20221029
+DTEND:20221030
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Corrida do Halloween 2022
+DESCRIPTION:Corrida do Halloween 2022 29 de Outubro de 2022 - V. N. Gaia - 
+ 7km\nhttps://www.portugalrunning.com/eventos/corrida-do-halloween-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-halloween-2022/
+END:VEVENT
+END:VCALENDAR

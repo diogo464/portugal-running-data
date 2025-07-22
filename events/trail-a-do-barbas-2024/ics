@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3849a4f
+DTSTAMP:20250720T222704Z
+DTSTART:20241006
+DTEND:20241007
+LOCATION:Maceira\,  Leiria Maceira\,  Leiria
+SUMMARY:Trail A-do-Barbas 2024
+DESCRIPTION:O Centro Popular e Recreativo de A-do-Barbas em co-organizaçã
+ o da ADAL\,  com o apoio da Câmara Municipal de Leiria\,  Junta de Fregues
+ ia de Maceira e junta da União de Freguesias de Pataias e Martingança\,  
+ organiza no dia&nbsp;6 de outubro de 2024&nbsp;a&nbsp;8ª Edição do Cross
+ /Trail CPR. A-do-Barbas\,  que consiste numa prova[..]\nhttps://www.portuga
+ lrunning.com/eventos/trail-a-do-barbas-2024/
+URL:https://www.portugalrunning.com/eventos/trail-a-do-barbas-2024/
+END:VEVENT
+END:VCALENDAR

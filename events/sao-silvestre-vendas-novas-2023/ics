@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d26c2fb0
+DTSTAMP:20250720T222646Z
+DTSTART:20231207
+DTEND:20231208
+LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+SUMMARY:São Silvestre Vendas Novas 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/sao-silvestre-vendas-
+ novas-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vendas-novas-2023/
+END:VEVENT
+END:VCALENDAR

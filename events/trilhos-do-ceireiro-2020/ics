@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da619c4a
+DTSTAMP:20250720T222854Z
+DTSTART:20200510
+DTEND:20200511
+LOCATION:Beselga Beselga
+SUMMARY:Trilhos do Ceireiro 2020
+DESCRIPTION:A Associação Humanitária Cultural e Recreativa Beselguense v
+ ai realizar o V Trail Running Nos Trilhos do Ceireiro no dia 10 de maio de 
+ 2020. Em perspectiva está a realização de três trajetos diferentes (30\
+ ,  18 e 10 quilómetros).\nhttps://www.portugalrunning.com/eventos/trilhos-
+ do-ceireiro-2020/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-ceireiro-2020/
+END:VEVENT
+END:VCALENDAR

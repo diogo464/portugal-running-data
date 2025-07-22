@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c33188eb
+DTSTAMP:20250720T222243Z
+DTSTART:20240407
+DTEND:20240408
+LOCATION:Venda da Luísa\,  Condeixa Venda da Luísa\,  Condeixa
+SUMMARY:Corrida 4 Estações\,  Venda da Luísa 2024
+DESCRIPTION:A Associação Desportiva 4 Estações com o apoio da Câmara M
+ unicipal de Condeixa a\,  vai realizar no dia 7 de Abril de 2024 pelas 10.3
+ 0h na vila da Venda da Luísa a corrida de atletismo de estrada com a dist�
+ �ncia de cerca de 10km num\,  designada por Corrida das 4[..]\nhttps://www.
+ portugalrunning.com/eventos/corrida-4-estacoes-venda-da-luisa-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-venda-da-luisa-2024/
+END:VEVENT
+END:VCALENDAR

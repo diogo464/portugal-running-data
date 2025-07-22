@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4cdba25
+DTSTAMP:20250720T222724Z
+DTSTART:20250629T195800Z
+DTEND:20250629T195800Z
+LOCATION:Antas\,  Penalva do Castelo Antas\,  Penalva do Castelo
+SUMMARY:Trail das Antas 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-das-antas-2025/
+URL:https://www.portugalrunning.com/eventos/trail-das-antas-2025/
+END:VEVENT
+END:VCALENDAR

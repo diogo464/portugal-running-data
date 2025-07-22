@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1d4922a
+DTSTAMP:20250720T222221Z
+DTSTART:20230407
+DTEND:20230408
+LOCATION:Senhora do Monte\,  Leiria Senhora do Monte\,  Leiria
+SUMMARY:Assiste A Mexer 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/assiste-a-mexer-2023/
+URL:https://www.portugalrunning.com/eventos/assiste-a-mexer-2023/
+END:VEVENT
+END:VCALENDAR

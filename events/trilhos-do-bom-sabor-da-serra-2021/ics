@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da63170a
+DTSTAMP:20250720T222854Z
+DTSTART:20220410
+DTEND:20220411
+LOCATION:Fornos de Algodres\,  Guarda Fornos de Algodres\,  Guarda
+SUMMARY:Trilhos D’O Bom Sabor da Serra 2022
+DESCRIPTION:Trilhos D’O Bom Sabor da Serra 2022 ONDE?Fornos de Algodres\,
+   Guarda QUANDO?Domingo\,  10 de Abril de 2022\nhttps://www.portugalrunning
+ .com/eventos/trilhos-do-bom-sabor-da-serra-2021/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-bom-sabor-da-serra-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf264332
+DTSTAMP:20250720T222554Z
+DTSTART:20250531
+DTEND:20250601
+LOCATION:Almeida\,  Guarda Almeida\,  Guarda
+SUMMARY:OCR Fireman Almeida 2025
+DESCRIPTION:A Almeida OCR FIREMAN é uma prova que combina corrida com obst
+ áculos urbanos\,  organizada pela Associação Terras Dom Pedro Afonso –
+  Fireman Challenge\,  e conta com o apoio da seguinte entidade pública: C�
+ �mara Municipal de Almeida.\nhttps://www.portugalrunning.com/eventos/ocr-fi
+ reman-almeida-2025/
+URL:https://www.portugalrunning.com/eventos/ocr-fireman-almeida-2025/
+END:VEVENT
+END:VCALENDAR

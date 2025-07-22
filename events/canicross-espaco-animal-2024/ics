@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2a30a10
+DTSTAMP:20250720T222234Z
+DTSTART:20241123T144300Z
+DTEND:20241124T144300Z
+LOCATION:Vale da Borra\,  Torres Vedras Vale da Borra\,  Torres Vedras
+SUMMARY:Canicross Espaço Animal 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/canicross-espaco-anim
+ al-2024/
+URL:https://www.portugalrunning.com/eventos/canicross-espaco-animal-2024/
+END:VEVENT
+END:VCALENDAR

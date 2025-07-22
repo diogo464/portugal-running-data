@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6062665
+DTSTAMP:20250720T222328Z
+DTSTART:20241109T235000Z
+DTEND:20241110T235000Z
+LOCATION:Fajã Grande\,  Ilha das Flores\,  Fajã Grande\,  Ilha das Flores
+SUMMARY:Corrida e Caminhada de São Martinho 2024
+DESCRIPTION:A Corrida e Caminhada de São Martinho\,  é um evento organiza
+ do pelo Atlético ClubemFajã Grande e que tem como finalidade promover a a
+ tividade desportiva e o saudável convívio\,  através de uma prova de atl
+ etismo de estrada e uma caminhada. A primeira edição decorrerá no dia 09
+  de novembro de 2024.\nhttps://www.portugalrunning.com/eventos/corrida-e-ca
+ minhada-de-sao-martinho-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-de-sao-martinho-2024/
+END:VEVENT
+END:VCALENDAR

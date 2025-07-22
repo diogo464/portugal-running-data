@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d43ab88d
+DTSTAMP:20250720T222715Z
+DTSTART:20240511
+DTEND:20240512
+LOCATION:Vila Nova de Cerveira\,  Viana do Castelo Vila Nova de Cerveira\,  Viana do Castelo
+SUMMARY:Trail Cerveira 2024
+DESCRIPTION:Trail Cerveira 2024\nhttps://www.portugalrunning.com/eventos/tr
+ ail-cerveira-2024/
+URL:https://www.portugalrunning.com/eventos/trail-cerveira-2024/
+END:VEVENT
+END:VCALENDAR

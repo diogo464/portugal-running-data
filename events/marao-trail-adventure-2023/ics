@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbf18fd5
+DTSTAMP:20250720T222503Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Baião\,  Porto Baião\,  Porto
+SUMMARY:Marão Trail Adventure 2023
+DESCRIPTION:As 3 distâncias deste evento\,  trilham a Serra do Marão e o 
+ Rio Teixeira\,  com particular atenção\,  para o Trail Longo\,  que será
+  o único a ir à Senhora da Serra\,  ponto mais alto da Serra do Marão (1
+ 416 m). Venha participar no trail onde todos os atletas sobem ao[..]\nhttps
+ ://www.portugalrunning.com/eventos/marao-trail-adventure-2023/
+URL:https://www.portugalrunning.com/eventos/marao-trail-adventure-2023/
+END:VEVENT
+END:VCALENDAR

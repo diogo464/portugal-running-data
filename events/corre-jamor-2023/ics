@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c330045c
+DTSTAMP:20250720T222243Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corre Jamor 2023
+DESCRIPTION:O Clube Olímpico de Oeiras promove a 13ª edição do Corre Ja
+ mor by Saúde Prime no dia 12 de novembro de 2023. O Centro Desportivo Naci
+ onal do Jamor recebe o evento dirigido a toda a família\,  com a Corrida 1
+ 0 Km\,  a Caminhada 5 Km e a Corrida das Crianças.\nhttps://www.portugalru
+ nning.com/eventos/corre-jamor-2023/
+URL:https://www.portugalrunning.com/eventos/corre-jamor-2023/
+END:VEVENT
+END:VCALENDAR

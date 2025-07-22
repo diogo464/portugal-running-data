@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9eaba9f
+DTSTAMP:20250720T222846Z
+DTSTART:20250501
+DTEND:20250502
+LOCATION:Canedo\,  Santa Maria da Feira Canedo\,  Santa Maria da Feira\,  Aveiro
+SUMMARY:Trilho dos Pernetas 7.10 2025
+DESCRIPTION:Venha correr e divertir-se na sétima edição dos Trilhos dos 
+ Pernetas\,  nas serras de Canedo\,  em pleno concelho de Santa Maria da Fei
+ ra.\nhttps://www.portugalrunning.com/eventos/trilho-dos-pernetas-7-10-2025/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-pernetas-7-10-2025/
+END:VEVENT
+END:VCALENDAR

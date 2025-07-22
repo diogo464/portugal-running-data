@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0062797
+DTSTAMP:20250720T222608Z
+DTSTART:20240601
+DTEND:20240602
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:Póvoa de Lanhoso Urban Fit 2024
+DESCRIPTION:O Póvoa de Lanhoso Urban Fit é uma prova que combina corrida 
+ com obstáculos urbanos\,  organizada pela empresa URBAN FIT RACE. A prova 
+ terá partida e chegada no centro da vila.\nhttps://www.portugalrunning.com
+ /eventos/povoa-de-lanhoso-urban-fit-2024/
+URL:https://www.portugalrunning.com/eventos/povoa-de-lanhoso-urban-fit-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c48dbb3f
+DTSTAMP:20250720T222304Z
+DTSTART:20231001
+DTEND:20231002
+LOCATION:Vilar do Torno e Alentém\,  Lousada Vilar do Torno e Alentém\,  Lousada
+SUMMARY:Corrida De Homenagem A Jose Magalhães - Vilar Do Torno 2023
+DESCRIPTION:Realiza-se com partida e chegada no Parque de Vilar do Torno �
+ � Lousada\,  a Corrida de Homenagem a José Magalhães – Vilar do Torno e
+  Alentém\,  com distância de 10.000 metros.\nhttps://www.portugalrunning.
+ com/eventos/corrida-de-homenagem-a-jose-magalhaes-vilar-do-torno-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-homenagem-a-jose-magalhaes-vilar-do-torno-2023/
+END:VEVENT
+END:VCALENDAR

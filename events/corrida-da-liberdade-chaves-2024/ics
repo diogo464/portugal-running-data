@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f1828d
+DTSTAMP:20250720T222255Z
+DTSTART:20240425T152400Z
+DTEND:20240425T152400Z
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Corrida da Liberdade Chaves 2024
+DESCRIPTION: “Corrida da Liberdade – 2024” é uma corrida organizad
+ a pelo Município de Chaves com a colaboração da Associação de Atletism
+ o de Vila Real. A prova irá realizar-se no dia 25 de Abril 2024 com iníci
+ o pelas 10h00\,  com partida e chegada na Alameda do Trajano – Traseiras 
+ da Piscina Municipal.\nhttps://www.portugalrunning.com/eventos/corrida-da-l
+ iberdade-chaves-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-chaves-2024/
+END:VEVENT
+END:VCALENDAR

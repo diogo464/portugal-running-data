@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8ec48a7
+DTSTAMP:20250720T222830Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Penela da Beira\,  Viseu Penela da Beira\,  Viseu
+SUMMARY:Trail Solidário Penela da Beira 2023
+DESCRIPTION:A Junta de Freguesia de Penela da Beira realizará no próximo 
+ dia 16 de abril\,  um evento de cariz solidário que irá reverter para a S
+ anta Casa da Misericórdia de Penela da Beira. A caminhada/mini trail foi p
+ ensada com o propósito de contribuir para esta instituição da terra\,  p
+ ermitindo\,  ainda\, [..]\nhttps://www.portugalrunning.com/eventos/trail-so
+ lidario-penela-da-beira-2023/
+URL:https://www.portugalrunning.com/eventos/trail-solidario-penela-da-beira-2023/
+END:VEVENT
+END:VCALENDAR

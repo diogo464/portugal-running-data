@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dab18ff1
+DTSTAMP:20250720T222859Z
+DTSTART:20240218
+DTEND:20240219
+LOCATION:Celorico de Basto\,  Braga Celorico de Basto\,  Braga
+SUMMARY:Trilhos do Viso 2024
+DESCRIPTION:O Trail Trilhos do Viso é uma prova que percorre trilhos de mo
+ ntanha\,  caminhos rurais e estradas da Serra do Viso\,  Concelho de Celori
+ co de Basto no dia 18 de fevereiro de 2024.Trail Longo 27km Trail Curto 17k
+ mCaminhada 8km .\nhttps://www.portugalrunning.com/eventos/trilhos-do-viso-2
+ 024/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-viso-2024/
+END:VEVENT
+END:VCALENDAR

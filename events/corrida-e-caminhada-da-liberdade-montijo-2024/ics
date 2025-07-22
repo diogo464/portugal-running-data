@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5cab61f
+DTSTAMP:20250720T222324Z
+DTSTART:20240425
+DTEND:20240426
+LOCATION:Montijo\,  Setúbal Montijo\,  Setúbal
+SUMMARY:Corrida e Caminhada da Liberdade Montijo 2024
+DESCRIPTION:A X Corrida e Caminhada da Liberdade da Cidade do Montijo terá
+  três percursos\,  um percurso com 1000mts para os escalões jovens\,  um 
+ percurso com 9000mts para a corrida principal e um percurso de 5000mts para
+  a caminhada.\nhttps://www.portugalrunning.com/eventos/corrida-e-caminhada-
+ da-liberdade-montijo-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-da-liberdade-montijo-2024/
+END:VEVENT
+END:VCALENDAR

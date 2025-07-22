@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca7c3eb3
+DTSTAMP:20250720T222439Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Alcobaça Alcobaça
+SUMMARY:III Trail Monges de Cister 2023
+DESCRIPTION:Os&nbsp;Bombeiros Voluntários de Alcobaça&nbsp;organizam pela
+  3ª vez consecutiva o&nbsp;Trail Monges de Cister. O intuito desta prova �
+ � angariar fundos para os BVA\,  e ao mesmo tempo que promover hábitos de 
+ vida saudável. As provas que constituem o evento (Trail + Caminhada + Mong
+ es Kids) irão ocorrer na cidade de Alcobaça[..]\nhttps://www.portugalrunn
+ ing.com/eventos/iii-trail-monges-de-cister-2023/
+URL:https://www.portugalrunning.com/eventos/iii-trail-monges-de-cister-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfb9363d
+DTSTAMP:20250720T222147Z
+DTSTART:20200419
+DTEND:20200420
+LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+SUMMARY:20 km Marginal 2020
+DESCRIPTION:20KM DA MARGINAL Partida no Estoril | 09h00 Junto ao Casino 
+ Estoril\,  em frente ao Centro de Exposições e chegada na Praça do Impé
+ rio\,  Belém. CAMINHADA 4KM Partida na Praça do Império | 09h45 Partida 
+ e chegada na Praça do Império\,  Belém.\nhttps://www.portugalrunning.com
+ /eventos/20-km-marginal-2020/
+URL:https://www.portugalrunning.com/eventos/20-km-marginal-2020/
+END:VEVENT
+END:VCALENDAR

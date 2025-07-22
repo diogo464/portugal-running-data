@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c96db3f9
+DTSTAMP:20250720T222422Z
+DTSTART:20251019
+DTEND:20251020
+LOCATION:Tregosa\,  Barcelos Tregosa\,  Barcelos
+SUMMARY:Grande Prémio Atletismo de Tregosa 2025
+DESCRIPTION:A.D.C. de Tregosa vai realizar no dia 19 de outubro de 2025 o s
+ eu 29º Grande Prémio de Atletismo de Tregosa que decorrerá nas principai
+ s artérias da União de Freguesias Durrães-Tregosa.\nhttps://www.portugal
+ running.com/eventos/grande-premio-atletismo-de-tregosa-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-de-tregosa-2025/
+END:VEVENT
+END:VCALENDAR

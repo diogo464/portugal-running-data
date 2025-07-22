@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72c4136
+DTSTAMP:20250720T222802Z
+DTSTART:20220702
+DTEND:20220703
+LOCATION:Óbidos Óbidos
+SUMMARY:Trail Lagoa De Óbidos 2022
+DESCRIPTION:Com o apoio da Câmara Municipal de Óbidos e da Junta de Fregu
+ esia do Vau\,  realiza-se no dia 2 de julho de 2022\,  o Trail Lagoa De Ób
+ idos 2022 que será percorrido por caminhos e trilhos na zona da Lagoa de �
+ �bidos. Será composto por um Trail Longo na distância[..]\nhttps://www.po
+ rtugalrunning.com/eventos/trail-lagoa-de-obidos-2022/
+URL:https://www.portugalrunning.com/eventos/trail-lagoa-de-obidos-2022/
+END:VEVENT
+END:VCALENDAR

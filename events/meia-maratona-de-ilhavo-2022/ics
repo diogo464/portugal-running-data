@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd118e86
+DTSTAMP:20250720T222521Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Ílhavo\,  Aveiro Ílhavo\,  Aveiro
+SUMMARY:Meia Maratona de Ílhavo 2022
+DESCRIPTION:Numa organização conjunta da Câmara Municipal de Ílhavo e d
+ a  Melinvest\,  proprietária do portal Atletas.net\,  realiza-se a 30 de 
+ Outubro de 2022 a Meia Maratona de Ílhavo\,  com partida e chegada na Av. 
+ 25 de Abril\,  em Ílhavo. É o seguinte o programa-horário geral do event
+ o: 09:30h&nbsp;- Corrida da Pequenada[..]\nhttps://www.portugalrunning.com/
+ eventos/meia-maratona-de-ilhavo-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-ilhavo-2022/
+END:VEVENT
+END:VCALENDAR

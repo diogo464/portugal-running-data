@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c387a71b
+DTSTAMP:20250720T222248Z
+DTSTART:20240512
+DTEND:20240513
+LOCATION:Beja Beja
+SUMMARY:Corrida Cidade de Beja - 10km Fernando Mamede 2024
+DESCRIPTION:Dia 12 de Maio todos os caminhos vão dar à Corrida Cidade de 
+ Beja - 10km Fernando Mamede! Esta iniciativa organizada em parceria com o 
+ Regimento de Infantaria 1 e a Base Aérea 11\,  está de regresso para vos 
+ proporcionar uma manhã de muita atividade física. 10km de corrida ou 7.5k
+ m[..]\nhttps://www.portugalrunning.com/eventos/corrida-cidade-de-beja-10km-
+ fernando-mamede-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-beja-10km-fernando-mamede-2024/
+END:VEVENT
+END:VCALENDAR

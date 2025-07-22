@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4c627ea
+DTSTAMP:20250720T222724Z
+DTSTART:20220529
+DTEND:20220530
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail da Mulher 2022
+DESCRIPTION:Trail da Mulher 2022\nhttps://www.portugalrunning.com/eventos/t
+ rail-da-mulher-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-mulher-2022/
+END:VEVENT
+END:VCALENDAR

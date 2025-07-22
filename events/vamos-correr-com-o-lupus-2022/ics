@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb6274d
+DTSTAMP:20250720T222915Z
+DTSTART:20220514
+DTEND:20220515
+LOCATION:Jamor Jamor\,  Lisboa
+SUMMARY:Vamos Correr Com o Lúpus 2022
+DESCRIPTION:A VI Corrida/Caminhada da Associação de Doentes com Lúpus\,
+   “Vamos Correr Com o Lúpus 2022” desenvolve-se no âmbito das comem
+ orações do Dia Mundial do Lúpus (10 de Maio) e com ela pretende-se:» di
+ vulgar a doença e a Associação\,  bem como sensibilizar a comunidade par
+ a a mesma;» incentivar e promover o desenvolvimento da prática[..]\nhttps
+ ://www.portugalrunning.com/eventos/vamos-correr-com-o-lupus-2022/
+URL:https://www.portugalrunning.com/eventos/vamos-correr-com-o-lupus-2022/
+END:VEVENT
+END:VCALENDAR

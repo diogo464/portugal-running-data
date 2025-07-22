@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dae9b4d6
+DTSTAMP:20250720T222902Z
+DTSTART:20250104
+DTEND:20250105
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:Trilhos Noturnos dos Templários 2025
+DESCRIPTION:A 11ª Edição dos Trilhos Noturnos dos Templários 2025\,  co
+ ntextualiza-se na vontade de dar a possibilidade a todos os atletas de pode
+ r usufruir de trilhos fantásticos no centro de Portugal\,  em Santa Cita\,
+   Tomar\,  num percurso aperfeiçoado e adaptado ao longo dos últimos anos
+  acessíveis a todos os participantes\,  que[..]\nhttps://www.portugalrunni
+ ng.com/eventos/trilhos-noturnos-dos-templarios-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-noturnos-dos-templarios-2025/
+END:VEVENT
+END:VCALENDAR

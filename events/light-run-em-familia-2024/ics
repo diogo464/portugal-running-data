@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb7c3e5b
+DTSTAMP:20250720T222455Z
+DTSTART:20240517T153900Z
+DTEND:20240517T153900Z
+LOCATION:Reguengos de Monsaraz\,  Évora Reguengos de Monsaraz\,  Évora
+SUMMARY:Light Run em Família 2024
+DESCRIPTION:O evento “Light Run em Família” é uma caminhada/corrida\,
+   organizada pela Comissão de Proteção de Crianças e Jovens de Reguengo
+ s de Monsaraz e pelo Município de Reguengos de Monsaraz. Este evento visa 
+ assinalar e comemorar o Dia Internacional da Família.\nhttps://www.portuga
+ lrunning.com/eventos/light-run-em-familia-2024/
+URL:https://www.portugalrunning.com/eventos/light-run-em-familia-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c34c4694
+DTSTAMP:20250720T222244Z
+DTSTART:20240608
+DTEND:20240609
+LOCATION:São Brás de Alportel\,  Faro São Brás de Alportel\,  Faro
+SUMMARY:Corrida A.C.S. 2024
+DESCRIPTION:O percurso da corrida é totalmente de asfalto com uma distânc
+ ia total aproximada de 10km\,  paraConcluir a prova será necessário perfa
+ zer 2 voltas de cerca 5km cada. Para a caminhada\,  o percurso é misto (As
+ falto\,  terra batida e trilhos) com 1 volta única deaproximadamente 9km. 
+ A prova inicia-se no Pavilhão[..]\nhttps://www.portugalrunning.com/eventos
+ /corrida-a-c-s-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-a-c-s-2024/
+END:VEVENT
+END:VCALENDAR

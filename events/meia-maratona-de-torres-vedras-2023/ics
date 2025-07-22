@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd57a8a6
+DTSTAMP:20250720T222525Z
+DTSTART:20230122
+DTEND:20230123
+LOCATION:Torres Vedras\,  Lisboa Torres Vedras\,  Lisboa
+SUMMARY:Arena Shopping 2ª Meia Maratona Torres Vedras 2023
+DESCRIPTION:Em 2021 chegou um novo desafio\,  a Meia Maratona De Torres Ved
+ ras\,  que juntou largas centenas de atletas! Em 2022\,  o mote está dado 
+ e promete juntar os apaixonados da distância dos 21km\,  juntamente com o
+ s atletas de 10km e a família na caminhada de 5km.  Torres Vedras\,  u
+ ma zona cheia de atrativos para[..]\nhttps://www.portugalrunning.com/evento
+ s/meia-maratona-de-torres-vedras-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-torres-vedras-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf417fe0
+DTSTAMP:20250720T222140Z
+DTSTART:20221008
+DTEND:20221009
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:10 km Cidade Templária By Santander 2022
+DESCRIPTION:Numa organização conjunta do União Futebol Comercio e Indú
+ stria de Tomar\,  da Câmara Municipal de Tomar e do Banco Santander\,  
+ realiza-se a 08 de outubro de 2022 o evento 10 km Cidade Templária By S
+ antander. PERCURSO A prova de aproximadamente de 10 km tem partida e chegad
+ a na Várzea Grande em Tomar; O percurso percorrido em asfalto[..]\nhttps:/
+ /www.portugalrunning.com/eventos/10-km-cidade-templaria-by-santander-2022/
+URL:https://www.portugalrunning.com/eventos/10-km-cidade-templaria-by-santander-2022/
+END:VEVENT
+END:VCALENDAR

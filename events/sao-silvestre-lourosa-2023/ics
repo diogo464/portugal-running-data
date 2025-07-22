@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d217c554
+DTSTAMP:20250720T222641Z
+DTSTART:20231223
+DTEND:20231224
+LOCATION:Lourosa\,  Santa Maria da Feira Lourosa\,  Santa Maria da Feira
+SUMMARY:São Silvestre Lourosa 2023
+DESCRIPTION:Pela primeira vez a São Silvestre Lourosa sairá para as estra
+ das desta cidade que pertence ao município de Santa Maria da Feira. Venha 
+ correr 10 quilómetros ou caminhar com o propósito de estimular a sua ativ
+ idade física e a dos outros.\nhttps://www.portugalrunning.com/eventos/sao-
+ silvestre-lourosa-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-lourosa-2023/
+END:VEVENT
+END:VCALENDAR

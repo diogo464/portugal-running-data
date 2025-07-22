@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce24bf9d
+DTSTAMP:20250720T222538Z
+DTSTART:20221112
+DTEND:20221113
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Meia maratona Zemou 2022
+DESCRIPTION:A Meia Maratona Zemou\,  com a distância de 22km a realizar-se
+  a 12 de Novembro\,  esta última prova do circuito terá como local de par
+ tida e chegada a Aldeia de Tebilhão.\nhttps://www.portugalrunning.com/even
+ tos/meia-maratona-zemou-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-zemou-2022/
+END:VEVENT
+END:VCALENDAR

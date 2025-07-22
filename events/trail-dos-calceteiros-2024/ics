@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61dd122
+DTSTAMP:20250720T222745Z
+DTSTART:20240317
+DTEND:20240318
+LOCATION:Fanhões\,  Loures Fanhões\,  Loures
+SUMMARY:Trail dos Calceteiros 2024
+DESCRIPTION:O Trail dos Calceteiros é um evento desportivo de caráter lú
+ dico e competitivo que tem por objetivo divulgar e promover não só a prá
+ tica desportiva\,  em especial na modalidade de trail running\,  mas també
+ m as localidades onde decorre o evento. É um evento organizado pela Associ
+ ação Desportiva Trilhos do Costume[..]\nhttps://www.portugalrunning.com/e
+ ventos/trail-dos-calceteiros-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dos-calceteiros-2024/
+END:VEVENT
+END:VCALENDAR

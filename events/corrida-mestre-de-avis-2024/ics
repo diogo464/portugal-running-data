@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c650210c
+DTSTAMP:20250720T222333Z
+DTSTART:20240815
+DTEND:20240816
+LOCATION:Avis\,  Portalegre Avis\,  Portalegre
+SUMMARY:Corrida Mestre de Avis 2024
+DESCRIPTION:Integrado nas Festas da Batalha\,  organizadas pelo Municípi
+ o da Batalha\,  realiza-se no dia 15 de agosto de 2024\,  na Batalha\,  ma
+ is uma edição da Prova de Atletismo “Mestre de Avis”\,  a XV Prova d
+ e Atletismo “Batalha Jovem” e uma caminhada\nhttps://www.portugalrunni
+ ng.com/eventos/corrida-mestre-de-avis-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-mestre-de-avis-2024/
+END:VEVENT
+END:VCALENDAR

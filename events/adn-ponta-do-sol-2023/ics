@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c14f3b43
+DTSTAMP:20250720T222212Z
+DTSTART:20231105
+DTEND:20231106
+LOCATION:Ponta do Sol\,  Madeira Ponta do Sol\,  Madeira
+SUMMARY:Adn Ponta Do Sol 2023
+DESCRIPTION:A ADN Race Ponta do Sol é organizada pela ADN Ponta do Sol no 
+ dia 5 de Novembro\,  em parceria com a Associação de Atletismo da Região
+  Autónoma da Madeira\,  integrando no Campeonato Regional de Trail. A part
+ ida da prova Trail Longo será dada às 08:00 na Madalena do Mar[..]\nhttps
+ ://www.portugalrunning.com/eventos/adn-ponta-do-sol-2023/
+URL:https://www.portugalrunning.com/eventos/adn-ponta-do-sol-2023/
+END:VEVENT
+END:VCALENDAR

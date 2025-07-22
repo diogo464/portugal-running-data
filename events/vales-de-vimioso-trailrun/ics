@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb49d6f
+DTSTAMP:20250720T222915Z
+DTSTART:20200301
+DTEND:20200302
+LOCATION:Vimioso\,  Bragança Vimioso\,  Bragança
+SUMMARY:Vales de Vimioso TrailRun
+DESCRIPTION:Contamos com os nossos amigos e amantes da modalidade de trail!
+  Acreditem que vão encontrar montes e vales de suster a respiração! VIMI
+ OSO\,  São Joanico e outras aldeias recheadas de terra\,  abrigo de cogume
+ los e frutos silvestres\,  mas também de rios e riachos de águas cristali
+ nas\,  de pontões e pontes[..]\nhttps://www.portugalrunning.com/eventos/va
+ les-de-vimioso-trailrun/
+URL:https://www.portugalrunning.com/eventos/vales-de-vimioso-trailrun/
+END:VEVENT
+END:VCALENDAR

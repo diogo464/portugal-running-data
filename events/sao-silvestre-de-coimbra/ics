@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d167af9c
+DTSTAMP:20250720T222630Z
+DTSTART:20191214
+DTEND:20191215
+LOCATION:Coimbra Coimbra
+SUMMARY:São Silvestre de Coimbra
+DESCRIPTION:A 42ª São Silvestre de Coimbra\,  uma das mais antigas corrid
+ as de São Silvestre de Portugal\,  realiza-se no dia 14 de Dezembro de 201
+ 9\,  pelas 18h30. Percorrendo as bonitas ruas da cidade de Coimbra\,  a 42�
+ � edição conta com uma prova de cerca de 10 km e com a Caminhada[..]\nhtt
+ ps://www.portugalrunning.com/eventos/sao-silvestre-de-coimbra/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-coimbra/
+END:VEVENT
+END:VCALENDAR

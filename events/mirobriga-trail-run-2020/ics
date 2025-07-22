@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dbb11
+DTSTAMP:20250720T222544Z
+DTSTART:20200912
+DTEND:20200913
+LOCATION:Santiago do Cacém Santiago do Cacém\,  Setubal
+SUMMARY:7º Miróbriga Trail Run 2020
+DESCRIPTION:A 7” edição do Trail Running do Litoral Alentejano o MIRÓB
+ RIGA TRAIL RUN será no dia 12 de Setembro de 2020 na cidade de Santiago do
+  Cacém.\nhttps://www.portugalrunning.com/eventos/mirobriga-trail-run-2020/
+URL:https://www.portugalrunning.com/eventos/mirobriga-trail-run-2020/
+END:VEVENT
+END:VCALENDAR

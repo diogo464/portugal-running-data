@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d25935ca
+DTSTAMP:20250720T222645Z
+DTSTART:20241221
+DTEND:20241222
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:São Silvestre Torres Novas 2024
+DESCRIPTION:A São Silvestre Torres Novas\,  a prova jovem\,  e a Caminhada
+  de São Silvestre \,  promovidas pelo Município de Torres Novas\,  estão
+  marcadas para dia 21 de dezembro.\nhttps://www.portugalrunning.com/eventos
+ /sao-silvestre-torres-novas-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-torres-novas-2024/
+END:VEVENT
+END:VCALENDAR

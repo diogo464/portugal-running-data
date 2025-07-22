@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3c36b5
+DTSTAMP:20250720T222507Z
+DTSTART:20260201T155400Z
+DTEND:20260201T155400Z
+LOCATION:Múrcia\,  Espanha Múrcia\,  Espanha
+SUMMARY:Maratona de Múrcia 2026
+DESCRIPTION:O Murcia Challenge Club\,  em colaboração com a Prefeitura de
+  Múrcia\,  a Comunidade Autónoma da Região de Múrcia e a Federação de
+  Atletismo da Região de Múrcia\,  está organizando a 13ª edição da Ma
+ ratona de Múrcia\,  que será realizada no domingo\,  1º de fevereiro de 
+ 2026. A maratona (42\, 195 metros[..]\nhttps://www.portugalrunning.com/even
+ tos/maratona-de-murcia-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-de-murcia-2026/
+END:VEVENT
+END:VCALENDAR

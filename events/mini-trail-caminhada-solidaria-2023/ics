@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dcf29
+DTSTAMP:20250720T222544Z
+DTSTART:20230618
+DTEND:20230619
+LOCATION:Gandra\,  Ponte de Lima Gandra\,  Ponte de Lima
+SUMMARY:Mini Trail / Caminhada Solidaria 2023
+DESCRIPTION:1º mini trail/ caminhada na freguesia de Gandra-Ponte de lima\
+ ,  o objetivo deste evento é participar por uma causa solidária\,  Liga P
+ ortuguesa contra o cancro\,  todo o lucro será revertido em favor da liga 
+ portuguesa contra o cancro\,  e assim junta-se o útil ao agradável \, par
+ ticipa e ajuda ao mesmo[..]\nhttps://www.portugalrunning.com/eventos/mini-t
+ rail-caminhada-solidaria-2023/
+URL:https://www.portugalrunning.com/eventos/mini-trail-caminhada-solidaria-2023/
+END:VEVENT
+END:VCALENDAR

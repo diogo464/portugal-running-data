@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5cab8c5
+DTSTAMP:20250720T222740Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Trail Dolorosa de Moldes 2022
+DESCRIPTION:Trail Dolorosa de Moldes 2022.\nhttps://www.portugalrunning.com
+ /eventos/trail-dolorosa-de-moldes-20222/
+URL:https://www.portugalrunning.com/eventos/trail-dolorosa-de-moldes-20222/
+END:VEVENT
+END:VCALENDAR

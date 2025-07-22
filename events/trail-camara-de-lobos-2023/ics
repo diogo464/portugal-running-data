@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4031823
+DTSTAMP:20250720T222712Z
+DTSTART:20231118
+DTEND:20231119
+LOCATION:Câmara de Lobos\,  Madeira Câmara de Lobos\,  Madeira
+SUMMARY:Trail Câmara de Lobos 2023
+DESCRIPTION:A ACDJS (Associação Cultural e Desportiva do Jardim da Serra)
+  e a ACRE (Associação Cultural e Recreativa do Estreito)\,  promovem no d
+ ia 18 de novembro a X Edição do Trail Câmara de Lobos\,  evento do Circu
+ ito Regional “Trail Madeira”\,  um projeto da AARAM - 2023/2024. Contan
+ do com percursos – Ultra[..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-camara-de-lobos-2023/
+URL:https://www.portugalrunning.com/eventos/trail-camara-de-lobos-2023/
+END:VEVENT
+END:VCALENDAR

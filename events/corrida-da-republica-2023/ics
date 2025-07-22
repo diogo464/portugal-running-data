@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c444a303
+DTSTAMP:20250720T222300Z
+DTSTART:20231005
+DTEND:20231006
+LOCATION:Rio Tinto\,  Gondomar Rio Tinto\,  Gondomar
+SUMMARY:Corrida da República 2023
+DESCRIPTION:Rio Tinto recebe no dia 5 de Outubro de 2023\,  às 10h00\,  a 
+ 9ª edição Corrida da República \,  uma organização da Associação Co
+ mvidacorrer e Junta de Freguesia de Rio Tinto com o apoio técnico da Event
+ sport. A 9ª Corrida da República consiste numa prova de 10 km e numa[..]\
+ nhttps://www.portugalrunning.com/eventos/corrida-da-republica-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-republica-2023/
+END:VEVENT
+END:VCALENDAR

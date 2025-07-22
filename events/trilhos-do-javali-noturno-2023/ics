@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da6c349b
+DTSTAMP:20250720T222854Z
+DTSTART:20230311
+DTEND:20230312
+LOCATION:Setúbal Setúbal
+SUMMARY:Trilhos do Javali Noturno 2023
+DESCRIPTION:A versão 2023 dos Trilhos do Javali Noturno será constituído
+  por 2 eventos: a. Trilhos do Javali Noturno: prova de Trail Running com um
+  percurso de 15 km.b. Caminhada Javali Noturna: Caminhada guiada com um per
+ curso máximo de 10km. Os Trilhos do Javali Noturno serão uma organizaçã
+ o da Associação Outdoor[..]\nhttps://www.portugalrunning.com/eventos/tril
+ hos-do-javali-noturno-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-javali-noturno-2023/
+END:VEVENT
+END:VCALENDAR

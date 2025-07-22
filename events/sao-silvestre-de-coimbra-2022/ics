@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d16db6c0
+DTSTAMP:20250720T222630Z
+DTSTART:20221217
+DTEND:20221218
+LOCATION:Coimbra Coimbra
+SUMMARY:Espaço Casa São Silvestre de Coimbra 2022
+DESCRIPTION:A festa da São Silvestre está de regresso. Cada vez mais ativ
+ a e relevante\,  a São Silvestre de Coimbra 2022 continua a garantir a tra
+ dição e a mística de ser uma das mais antigas provas de São Silvestre e
+ m Portugal. Vem participar e fazer a festa\,  antes de entrares na[..]\nhtt
+ ps://www.portugalrunning.com/eventos/sao-silvestre-de-coimbra-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-coimbra-2022/
+END:VEVENT
+END:VCALENDAR

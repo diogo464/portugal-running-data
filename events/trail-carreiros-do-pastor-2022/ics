@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d40c3516
+DTSTAMP:20250720T222712Z
+DTSTART:20221016
+DTEND:20221017
+LOCATION:Arrimal\,  Porto de Mós Arrimal\,  Porto de Mós
+SUMMARY:6° Trail Carreiros do Pastor Arrimalano 2022
+DESCRIPTION:O evento&nbsp;6º Trail Carreiros do Pastor Arrimalano&nbsp;é 
+ constituído por uma&nbsp;Corrida (Trail Curto) de 17 km&nbsp;e uma&nbsp;ca
+ minhada com distância a rondar os 10 Km&nbsp;a realizar no dia&nbsp;16 de 
+ outubro de 2022. A prova é constituída no seu percurso por trilhos\,  car
+ reiros e caminhos com pouco desnível\,  no entanto e estando o[..]\nhttps:
+ //www.portugalrunning.com/eventos/trail-carreiros-do-pastor-2022/
+URL:https://www.portugalrunning.com/eventos/trail-carreiros-do-pastor-2022/
+END:VEVENT
+END:VCALENDAR

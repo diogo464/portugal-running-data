@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9302485
+DTSTAMP:20250720T222835Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Quinta das Pratas\,  Cartaxo Quinta das Pratas\,  Cartaxo
+SUMMARY:Trail Terras do Cartaxo 2023
+DESCRIPTION:Com o apoio da Câmara Municipal do Cartaxo\,  da Adega do Cart
+ axo\,  da Quinta do Sampayo\,  da Casa das Peles e da Miranda Construções
+ \,  no dia 29 de outubro realiza-se a segunda edição do Trail Terras do C
+ artaxo\,  que será percorrido pelos trilhos do Concelho do Cartaxo\,  num 
+ Trail Longo[..]\nhttps://www.portugalrunning.com/eventos/trail-terras-do-ca
+ rtaxo-2023/
+URL:https://www.portugalrunning.com/eventos/trail-terras-do-cartaxo-2023/
+END:VEVENT
+END:VCALENDAR

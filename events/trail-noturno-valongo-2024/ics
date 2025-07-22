@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7b62799
+DTSTAMP:20250720T222811Z
+DTSTART:20241207
+DTEND:20241208
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Noturno Valongo 2024
+DESCRIPTION:O TNV- Trail Noturno de Valongo é organizado pela KeMedo Team 
+ Associação Desportos em Natureza. Conta ainda com a coorganização da C�
+ �mara Municipal de Valongo e apoio da Junta Freguesia de Valongo e Bombeiro
+ s Voluntários de Valongo. Provas:Trail Longo 21 km Tem início às 19.15hT
+ rail Curto 13km - Tem Inicio[..]\nhttps://www.portugalrunning.com/eventos/t
+ rail-noturno-valongo-2024/
+URL:https://www.portugalrunning.com/eventos/trail-noturno-valongo-2024/
+END:VEVENT
+END:VCALENDAR

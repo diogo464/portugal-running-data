@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09dcc99
+DTSTAMP:20250720T222617Z
+DTSTART:20240525
+DTEND:20240526
+LOCATION:Ilha de Santa Maria\,  Açores Ilha de Santa Maria\,  Açores
+SUMMARY:Santa Maria Trail 2024
+DESCRIPTION:O Santa Maria Trail é organizado pela Secção de Trail Runnin
+ g da Casa do Povo de São Pero\,  e percorre trilhos\,  caminhos agrícolas
+  e florestais e linhas de água do concelho de Vila do Porto\,  na Ilha de 
+ Santa Maria\,  Açores\,  enquadrado nas vertentes de Trail Ultra (55 km)\,
+   Trail[..]\nhttps://www.portugalrunning.com/eventos/santa-maria-trail-smat
+ -2024/
+URL:https://www.portugalrunning.com/eventos/santa-maria-trail-smat-2024/
+END:VEVENT
+END:VCALENDAR

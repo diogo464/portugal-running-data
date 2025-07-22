@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1eab521
+DTSTAMP:20250720T222222Z
+DTSTART:20221008
+DTEND:20221009
+LOCATION:Angra do Heroísmo Angra do Heroísmo
+SUMMARY:Azores Bravos Trail 2022
+DESCRIPTION:Azores Bravos Trail 2022\nhttps://www.portugalrunning.com/event
+ os/azores-bravos-trail-2022/
+URL:https://www.portugalrunning.com/eventos/azores-bravos-trail-2022/
+END:VEVENT
+END:VCALENDAR

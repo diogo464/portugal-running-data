@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca348daa
+DTSTAMP:20250720T222435Z
+DTSTART:20240324
+DTEND:20240325
+LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
+SUMMARY:Grande Prémio "Susana Feitor" 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-susana-
+ feitor-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-susana-feitor-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c280006d
+DTSTAMP:20250720T222232Z
+DTSTART:20230806
+DTEND:20230807
+LOCATION:Camacha\,  Madeira Camacha\,  Madeira
+SUMMARY:Camacha Trail 2023
+DESCRIPTION:O “Camacha Trail” é um evento de Trail Running\,  uma Coor
+ ganização entre a Casa do Povo da Camacha e a Junta de Freguesia da Camac
+ ha\,  que ocorre na Freguesia da Camacha\,  Santa Cruz\,  na ilha da Madeir
+ a.\nhttps://www.portugalrunning.com/eventos/camacha-trail-2023/
+URL:https://www.portugalrunning.com/eventos/camacha-trail-2023/
+END:VEVENT
+END:VCALENDAR

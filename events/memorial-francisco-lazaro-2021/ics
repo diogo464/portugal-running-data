@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce24947f
+DTSTAMP:20250720T222538Z
+DTSTART:20210925
+DTEND:20210926
+LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
+SUMMARY:Memorial Francisco Lázaro 2021
+DESCRIPTION:Resultados Francisco Lázaro\,  foi um atleta português\,  nas
+ cido em 1888. Fez parte da primeira equipa olímpica portuguesa nos Jogos O
+ límpicos de 1912\,  em Estocolmo\,  Suécia. Nestes jogos\,  Lázaro parti
+ cipou na prova da maratona\,  desfalecendo durante a prova\,  ao km 29\,  n
+ a colina de Öfver-Järva. Lázaro tinha cambaleado\,  caído por várias[.
+ .]\nhttps://www.portugalrunning.com/eventos/memorial-francisco-lazaro-2021/
+URL:https://www.portugalrunning.com/eventos/memorial-francisco-lazaro-2021/
+END:VEVENT
+END:VCALENDAR

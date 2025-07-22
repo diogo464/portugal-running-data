@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1cc3f9f
+DTSTAMP:20250720T222220Z
+DTSTART:20220619
+DTEND:20220620
+LOCATION:Argoncilhe\,  Santa Maria da Feira Argoncilhe\,  Santa Maria da Feira
+SUMMARY:Argon Trail 2022
+DESCRIPTION:A corrida Argon Trail é uma organização conjunta da Casa da 
+ Gaia – Centro de Cultura Desporto e Recreio de Argoncilhe e do Grupo de C
+ orrida de Argoncilhe\,  com o apoio da Câmara Municipal de Santa Maria da 
+ Feira\,  IPDJ e Junta de Freguesia de Argoncilhe.\nhttps://www.portugalrunn
+ ing.com/eventos/argon-trail-2022/
+URL:https://www.portugalrunning.com/eventos/argon-trail-2022/
+END:VEVENT
+END:VCALENDAR

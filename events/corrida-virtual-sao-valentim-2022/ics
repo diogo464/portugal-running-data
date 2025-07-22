@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7900d96
+DTSTAMP:20250720T222353Z
+DTSTART:20220212
+DTEND:20220213
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Virtual São Valentim 2022
+DESCRIPTION:Corrida Virtual São Valentim 2022 a 12 e 13 de Fevereiro em mo
+ do virtual.\nhttps://www.portugalrunning.com/eventos/corrida-virtual-sao-va
+ lentim-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-virtual-sao-valentim-2022/
+END:VEVENT
+END:VCALENDAR

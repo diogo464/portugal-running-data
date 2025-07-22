@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4300312
+DTSTAMP:20250720T222715Z
+DTSTART:20220206
+DTEND:20220207
+LOCATION:Alvados\,  Porto de Mós Alvados\,  Porto de Mós\,  Lisboa
+SUMMARY:Trail Castelejo 2022
+DESCRIPTION:Trail Castelejo 2022\,  mais informações em breve. Distância
+ s: Corrida Trail 30KM / Corrida Trail 20KM / Corrida Trail 10KM / Caminhada
+  5KM\nhttps://www.portugalrunning.com/eventos/trail-castelejo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-castelejo-2022/
+END:VEVENT
+END:VCALENDAR

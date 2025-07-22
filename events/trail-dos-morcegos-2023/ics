@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65dd31a
+DTSTAMP:20250720T222749Z
+DTSTART:20230923
+DTEND:20230924
+LOCATION:São Miguel\,  Açores São Miguel\,  Açores
+SUMMARY:VII Trail dos Morcegos 2023
+DESCRIPTION:A VII edição do Trail dos Morcegos é um evento de Trail Runn
+ ing\,  que percorre trilhos e caminhos doconcelho de Ponta Delgada. Integra
+  6 provas com 4 percursos: o TdM Longo ʹ 36\, 3 km / 1940 d+ / 1930 d-\,  
+ o TdM Curto ʹ 17\, 5 km / 740 d+ /[..]\nhttps://www.portugalrunning.com/ev
+ entos/trail-dos-morcegos-2023/
+URL:https://www.portugalrunning.com/eventos/trail-dos-morcegos-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d381968c
+DTSTAMP:20250720T222704Z
+DTSTART:20250309
+DTEND:20250310
+LOCATION:Alvelos\,  Braga Alvelos\,  Braga
+SUMMARY:Trail Águias de Alvelos 2025
+DESCRIPTION:O Trail Águias de Alvelos é organizado pela Secção de Atlet
+ ismo e Trail Running da Associação Recreativa e Cultural Águias de Alvel
+ os\,  no dia 9 de Março de 2025 sendo constituído por duas provas competi
+ tivas - o Trail Longo e o Trail Curto\,  assim como uma caminhada\,  sem ca
+ racter competitivo.\nhttps://www.portugalrunning.com/eventos/trail-aguias-d
+ e-alvelos-2025/
+URL:https://www.portugalrunning.com/eventos/trail-aguias-de-alvelos-2025/
+END:VEVENT
+END:VCALENDAR

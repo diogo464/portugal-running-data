@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9761575
+DTSTAMP:20250720T222423Z
+DTSTART:20230806
+DTEND:20230807
+LOCATION:Parque de La Salette\,  Oliveira de Azeméis Parque de La Salette\,  Oliveira de Azeméis
+SUMMARY:Grande Prémio Atletismo de La Salette 2023
+DESCRIPTION:É em ambiente de festa que poderá correr um dos eventos emble
+ máticos do circuito de provas de atletismo do município de Oliveira de Az
+ eméis. Venha sentir o ambiente especial de La Salette e corra até que as 
+ pernas lhe permitam.\nhttps://www.portugalrunning.com/eventos/grande-premio
+ -atletismo-de-la-salette-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-de-la-salette-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f17e0b
+DTSTAMP:20250720T222415Z
+DTSTART:20220521
+DTEND:20220522
+LOCATION:Barreiro Barreiro
+SUMMARY:Forum Barreiro Night Run 2022
+DESCRIPTION:O Forum Barreiro Night Run 2022 está de volta! Depois do adiam
+ ento da edição de 2020 e 2021\,  a 7ª edição deste evento de referênc
+ ia está agendado para sábado\,  21 de Maio\,  com partida às 21h30.&nbsp
+ ;Não perca a oportunidade de correr ou caminhar à noite pelas ruas do Bar
+ reiro!\nhttps://www.portugalrunning.com/eventos/forum-barreiro-night-run-20
+ 22/
+URL:https://www.portugalrunning.com/eventos/forum-barreiro-night-run-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54dc8bd
+DTSTAMP:20250720T222732Z
+DTSTART:20240609
+DTEND:20240610
+LOCATION:Vila Franca do Campo\,  Açores Vila Franca do Campo\,  Açores
+SUMMARY:Trail de São João da Vila 2024
+DESCRIPTION:O Trail de São João da Vila (TSJV) é um evento de Trail Runn
+ ing\,  que percorre trilhos e caminhos no concelho de Vila Franca do Campo\
+ ,  Açores.\nhttps://www.portugalrunning.com/eventos/trail-de-sao-joao-da-v
+ ila-2024/
+URL:https://www.portugalrunning.com/eventos/trail-de-sao-joao-da-vila-2024/
+END:VEVENT
+END:VCALENDAR

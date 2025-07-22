@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1c48aa2
+DTSTAMP:20250720T222220Z
+DTSTART:20220612
+DTEND:20220613
+LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+SUMMARY:Arada Skyrace 2022
+DESCRIPTION:Arada Skyrace 2022\nhttps://www.portugalrunning.com/eventos/ara
+ da-skyrace-2022/
+URL:https://www.portugalrunning.com/eventos/arada-skyrace-2022/
+END:VEVENT
+END:VCALENDAR

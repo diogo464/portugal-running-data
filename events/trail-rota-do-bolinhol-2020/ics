@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d83aa6c7
+DTSTAMP:20250720T222819Z
+DTSTART:20200524
+DTEND:20200525
+LOCATION:Vizela Vizela\,  Braga
+SUMMARY:Trail Rota do Bolinhol 2020
+DESCRIPTION:O IV Trail Rota do Bolinhol é constituído por um Mini-Trail d
+ e 13km\,  um Trail de 20km\,  organizados pela Run4fun \,  e uma Caminhad
+ a de 6km. Kit de inscrição TRAIL: &nbsp; – t-shirt técnica do evento 
+ – dorsal personalizado com chip – abastecimentos – seguro desportivo 
+ – banho – prémio finisher: BOLINHOL &nbsp; Kit[..]\nhttps://www.portu
+ galrunning.com/eventos/trail-rota-do-bolinhol-2020/
+URL:https://www.portugalrunning.com/eventos/trail-rota-do-bolinhol-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2179df1
+DTSTAMP:20250720T222641Z
+DTSTART:20211231
+DTEND:20220101
+LOCATION:Ponte da Barca\,  Viana do Castelo Ponte da Barca\,  Viana do Castelo
+SUMMARY:São Silvestre Ponte da Barca 2021
+DESCRIPTION:No dia 31 de dezembro às 18\, 30h retomamos a mítica corrida 
+ de São Silvestre Ponte da Barca 2021 .interrompida pela pandemia esperamos
+  agora contar com a tua presença para terminar o ano da melhor forma poss�
+ �vel.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-ponte-da-barca
+ -2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-ponte-da-barca-2021/
+END:VEVENT
+END:VCALENDAR

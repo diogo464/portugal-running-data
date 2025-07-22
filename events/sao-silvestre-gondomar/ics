@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c7ac21
+DTSTAMP:20250720T222636Z
+DTSTART:20191214
+DTEND:20191215
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:São Silvestre Gondomar
+DESCRIPTION:No dia 14 de Dezembro de 2019\,  pelas 21h00\,  o Município de
+  Gondomar recebe a 4ª São Silvestre Gondomar Generali. Com mais de 90 ano
+ s de história\,  esta temática foi inspirada numa corrida noturna onde os
+  atletas corriam pela cidade com tochas acesas nas mãos\,  é considerada 
+ uma das mais[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-gon
+ domar/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-gondomar/
+END:VEVENT
+END:VCALENDAR

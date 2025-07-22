@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d347b104
+DTSTAMP:20250720T222700Z
+DTSTART:20240308
+DTEND:20240309
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:TAUT Trail 2024
+DESCRIPTION:O primeiro trail realizado na região de Ansião pelos ANSIBIKE
+ RS\,  foi em 2013. Desde aí tem sido reconhecida por todos: atletas\,  apo
+ iantes\,  voluntários\,  instituições e patrocinadores\,  um evento de e
+ levada qualidade com um grande impacto na população local\,  contribuindo
+  de forma significativa param o seu desenvolvimento. Os seus percursos dese
+ nrolam-se[..]\nhttps://www.portugalrunning.com/eventos/taut-trail-2024/
+URL:https://www.portugalrunning.com/eventos/taut-trail-2024/
+END:VEVENT
+END:VCALENDAR

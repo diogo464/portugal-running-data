@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9f91e7b
+DTSTAMP:20250720T222431Z
+DTSTART:20230610
+DTEND:20230611
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:Grande Prémio De Santo António 2023
+DESCRIPTION:O 44º Grande Prémio de S. António e Campeonato Distrital de 
+ Estrada em atletismo a realizar no dia10 de Junho de 2023 pelas 17h00m\,  t
+ em como entidade organizadora\,  a União Desportiva eRecreativa da Zona Al
+ ta.\nhttps://www.portugalrunning.com/eventos/grande-premio-de-santo-antonio
+ -2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-santo-antonio-2023/
+END:VEVENT
+END:VCALENDAR

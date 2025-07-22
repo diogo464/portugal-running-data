@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3c6228c
+DTSTAMP:20250720T222708Z
+DTSTART:20220529
+DTEND:20220530
+LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+SUMMARY:Trail Barracas de Pedra 2022
+DESCRIPTION:O V Trail Barracas de Pedra será realizado no dia 29 de Maio d
+ e 2022\,  na Aldeia da Povoa da Lomba – Cantanhede\,  “casa” da equip
+ a de Trail / Atletismo S. C. Povoense – Caracóis de Corrida.\nhttps://ww
+ w.portugalrunning.com/eventos/trail-barracas-de-pedra-2022/
+URL:https://www.portugalrunning.com/eventos/trail-barracas-de-pedra-2022/
+END:VEVENT
+END:VCALENDAR

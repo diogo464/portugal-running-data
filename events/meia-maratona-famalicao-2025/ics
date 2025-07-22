@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdc4b04c
+DTSTAMP:20250720T222532Z
+DTSTART:20251019
+DTEND:20251020
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:Meia Maratona Famalicão 2025
+DESCRIPTION:Meia Maratona Famalicão 2025\nhttps://www.portugalrunning.com/
+ eventos/meia-maratona-famalicao-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-famalicao-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c374b2bf
+DTSTAMP:20250720T222247Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Setúbal Setúbal
+SUMMARY:Corrida Centenário Porto De Setúbal 2023
+DESCRIPTION:Evento: Dia 21 de maio de 2023\,  entre as 09h00 e as 11h00\,  
+ no Parque Urbano deAlbarquel• Corrida de 10 km: 21 de maio de 2023\,  às
+  09h00\,  com partida e chegada no Parque Urbanode Albarquel• Caminhada d
+ e 5km:\nhttps://www.portugalrunning.com/eventos/corrida-centenario-porto-de
+ -setubal-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-centenario-porto-de-setubal-2023/
+END:VEVENT
+END:VCALENDAR

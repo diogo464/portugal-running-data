@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db062582
+DTSTAMP:20250720T222904Z
+DTSTART:20240519
+DTEND:20240520
+LOCATION:Sertã\,  Castelo Branco Sertã\,  Castelo Branco
+SUMMARY:Troviscal Trail 2024
+DESCRIPTION:A&nbsp; Associação Desportiva e Recreativa do Troviscal com o
+  apoio da Câmara Municipal da&nbsp;Sertã\, &nbsp;da Junta de Freguesia do
+  Troviscal e&nbsp;a organização técnica da Werun\,  irá realizar o IV&n
+ bsp;Troviscal Trail. Esta é uma prova de TrailRunning\, &nbsp; em Natureza
+ \,  com três provas\,  Trail Longo k22+ \,  Trail Curto k12+ e Caminhada 1
+ 0km\nhttps://www.portugalrunning.com/eventos/troviscal-trail-2024/
+URL:https://www.portugalrunning.com/eventos/troviscal-trail-2024/
+END:VEVENT
+END:VCALENDAR

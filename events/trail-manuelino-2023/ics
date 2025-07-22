@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d76921af
+DTSTAMP:20250720T222806Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Trail Manuelino 2023
+DESCRIPTION:A 2a edição do Trail Manuelino é um evento desportivo de Tra
+ il Running\,  constituído por 2 provascompetitivas e uma caminhada\,  orga
+ nizada pela Associação SicóTrilhos\,  contando com a colaboração doMun
+ icípio de Pombal\,  da Junta de Freguesia de Abiul\,  entre outros patroci
+ nadores e apoiantes. A sua 2a edição realizar-se-á no dia a[..]\nhttps:/
+ /www.portugalrunning.com/eventos/trail-manuelino-2023/
+URL:https://www.portugalrunning.com/eventos/trail-manuelino-2023/
+END:VEVENT
+END:VCALENDAR

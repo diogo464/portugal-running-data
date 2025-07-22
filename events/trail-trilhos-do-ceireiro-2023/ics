@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d930106a
+DTSTAMP:20250720T222835Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Beselga\,  Viseu Beselga\,  Viseu
+SUMMARY:Trail Trilhos do Ceireiro 2023
+DESCRIPTION:A Associação H. C. R.&nbsp; Beselguense em parceria com o Mun
+ icipio de Penedono vai realizar o VI Trail Running Trilhos do Ceireiro no d
+ ia 14 de maio de 2023. Em perspetiva está a realização de três trajetos
+  diferentes (25\,  15 e 10 quilómetros). Nesta edição destacamos o Trail
+  Longo de[..]\nhttps://www.portugalrunning.com/eventos/trail-trilhos-do-cei
+ reiro-2023/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-do-ceireiro-2023/
+END:VEVENT
+END:VCALENDAR

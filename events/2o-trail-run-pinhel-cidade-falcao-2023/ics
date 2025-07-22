@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0092151
+DTSTAMP:20250720T222152Z
+DTSTART:20230618
+DTEND:20230619
+LOCATION:Pinhel\,  Guarda Pinhel\,  Guarda
+SUMMARY:2º Trail Run Pinhel Cidade Falcão 2023
+DESCRIPTION:O 2º Trail Run Pinhel Cidade Falcão é promovido e organizado
+  pelo Município de Pinhel e realiza-se a 18 de Junho de 2023. O 2º Trail 
+ Run Pinhel Cidade Falcão é composta por 3 percursos\,  com 3 níveis dist
+ intos: Trail Longo (TL) – ( +/-) 35 km Trail Curto (TC)[..]\nhttps://www.
+ portugalrunning.com/eventos/2o-trail-run-pinhel-cidade-falcao-2023/
+URL:https://www.portugalrunning.com/eventos/2o-trail-run-pinhel-cidade-falcao-2023/
+END:VEVENT
+END:VCALENDAR

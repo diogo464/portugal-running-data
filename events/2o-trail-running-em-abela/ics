@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c00614b9
+DTSTAMP:20250720T222152Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Abela\,  Santiago do Cacém Abela\,  Santiago do Cacém
+SUMMARY:2º Trail Running em Abela
+DESCRIPTION:O 2º Trail em Abela é um evento organizado pelo Sporting Fute
+ bol Clube Abelense e tem como principal propósito percorrer trilhos e cami
+ nhos do concelho de Santiago do Cacém e freguesia de Abela. - A partida do
+  trail será dada às 9h30 junto ao Museu do Trabalho Rural- A partida[..]\
+ nhttps://www.portugalrunning.com/eventos/2o-trail-running-em-abela/
+URL:https://www.portugalrunning.com/eventos/2o-trail-running-em-abela/
+END:VEVENT
+END:VCALENDAR

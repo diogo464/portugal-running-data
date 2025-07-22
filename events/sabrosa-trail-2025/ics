@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c4d3d
+DTSTAMP:20250720T222617Z
+DTSTART:20251116
+DTEND:20251117
+LOCATION:Sabrosa\,  Vila Real Sabrosa\,  Vila Real
+SUMMARY:Sabrosa Trail 2025
+DESCRIPTION:O ST é uma prova de Trail Running certificada pela ATRP que pe
+ rcorre trilhos\,  caminhos rurais e estradões do concelho de Sabrosa\,  te
+ ndo como ponto de partida e chegada no Parque B.B. King junto à Exposiçã
+ o Permanente Fernão Magalhães.\nhttps://www.portugalrunning.com/eventos/s
+ abrosa-trail-2025/
+URL:https://www.portugalrunning.com/eventos/sabrosa-trail-2025/
+END:VEVENT
+END:VCALENDAR

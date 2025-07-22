@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8631c51
+DTSTAMP:20250720T222822Z
+DTSTART:20230122
+DTEND:20230123
+LOCATION:Viseu Viseu
+SUMMARY:IV Trail Rota Do Crasto 2022
+DESCRIPTION:IV Trail Rota do Crasto é um evento desportivo de corrida em t
+ rilhos organizado pela secção de Atletismo/Trail Running da ASDREQ – As
+ sociação Social Desportiva Recreativa Educativa e Cultural de Quintela\, 
+  contando com o apoio de vários parceiros. A ASDREQ – Associação Socia
+ l Desportiva Recreativa Educativa e Cultural de Quintela[..]\nhttps://www.p
+ ortugalrunning.com/eventos/trail-rota-do-crasto-2022-2/
+URL:https://www.portugalrunning.com/eventos/trail-rota-do-crasto-2022-2/
+END:VEVENT
+END:VCALENDAR

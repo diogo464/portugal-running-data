@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9761774
+DTSTAMP:20250720T222423Z
+DTSTART:20220410
+DTEND:20220411
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Grande Prémio Atletismo Clube Do Pessoal Águas De Gaia 2022
+DESCRIPTION:Grande Prémio Atletismo Clube Do Pessoal Águas De Gaia 2022\n
+ https://www.portugalrunning.com/eventos/grande-premio-atletismo-clube-do-pe
+ ssoal-aguas-de-gaia-2022-2/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-clube-do-pessoal-aguas-de-gaia-2022-2/
+END:VEVENT
+END:VCALENDAR

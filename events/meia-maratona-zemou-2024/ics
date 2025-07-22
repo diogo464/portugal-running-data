@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce248b20
+DTSTAMP:20250720T222538Z
+DTSTART:20241102
+DTEND:20241103
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Meia Maratona Zemou 2024
+DESCRIPTION:O 3º Circuito Terras do Mundo- Serra da Freita é uma organiza
+ ção da Confraria Trotamontes em parceriacom o Município de Arouca e com 
+ o apoio da União de Freguesias de Cabreiros e Albergaria da Serra e Junta 
+ de Freguesia de Moldes. Meia maratona Zemou – D+2400 D-2400\nhttps://www.
+ portugalrunning.com/eventos/meia-maratona-zemou-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-zemou-2024/
+END:VEVENT
+END:VCALENDAR

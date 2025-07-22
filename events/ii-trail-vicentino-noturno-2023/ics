@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cacaa680
+DTSTAMP:20250720T222444Z
+DTSTART:20230909
+DTEND:20230910
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:Ii Trail Vicentino Noturno 2023
+DESCRIPTION:A II edição do Trail Vicentino Noturno é um evento de Trail 
+ Running\,  com carácter competitivo e lúdico\,  que percorre trilhos e ca
+ minhos do concelho de Ponta Delgada e Ribeira Grande\,  designadamente\,  n
+ as freguesias de São Vicente Ferreira\,  Fenais da Luz\,  Calhetas e Pico 
+ da Pedra. Dele fazem parte o[..]\nhttps://www.portugalrunning.com/eventos/i
+ i-trail-vicentino-noturno-2023/
+URL:https://www.portugalrunning.com/eventos/ii-trail-vicentino-noturno-2023/
+END:VEVENT
+END:VCALENDAR

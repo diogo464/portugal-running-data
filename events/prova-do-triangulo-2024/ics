@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0094bb0
+DTSTAMP:20250720T222608Z
+DTSTART:20241006
+DTEND:20241007
+LOCATION:Chafé\,  Viana do Castelo Chafé\,  Viana do Castelo
+SUMMARY:Prova do Triângulo 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/prova-do-triangulo-20
+ 24/
+URL:https://www.portugalrunning.com/eventos/prova-do-triangulo-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc3880
+DTSTAMP:20250720T222651Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Sem Limites Trail 2024
+DESCRIPTION:O “Sem Limites Trail” é organizado pela Associação Frid�
+ �o Sem Limites\,  através da sua secção de Trail Running. O “Sem Limit
+ es Trail” será realizado no dia 20 de Outubro de 2024. O “Sem Limites 
+ Trail ” será constituído por 3 eventos: Trail Longo\,  com a distância
+  aproximada de 31 km[..]\nhttps://www.portugalrunning.com/eventos/sem-limit
+ es-trail-2024/
+URL:https://www.portugalrunning.com/eventos/sem-limites-trail-2024/
+END:VEVENT
+END:VCALENDAR

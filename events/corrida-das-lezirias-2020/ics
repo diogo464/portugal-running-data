@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c449376d
+DTSTAMP:20250720T222300Z
+DTSTART:20200301
+DTEND:20200302
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida das Lezírias
+DESCRIPTION:Resultados e Fotos &nbsp; Vila Franca de Xira volta a ser no di
+ a 01 de Março 2020\,  o palco para a tradicional Corrida das Lezírias que
+  anualmente\,  reúne na cidade milhares de atletas e amantes do desporto\,
+   oriundos de todo o país. A prova volta à estrada\,  com partida pelas[.
+ .]\nhttps://www.portugalrunning.com/eventos/corrida-das-lezirias-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-das-lezirias-2020/
+END:VEVENT
+END:VCALENDAR

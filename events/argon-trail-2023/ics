@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1cc40f0
+DTSTAMP:20250720T222220Z
+DTSTART:20230507
+DTEND:20230508
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Argon Trail 2023
+DESCRIPTION:A corrida Argon_Trail 2023 é uma organização da Casa da Gaia
+  – Centro de Cultura\,  Desporto e Recreio de Argoncilhe\,  com o apoio d
+ a Câmara Municipal de Santa Maria da Feira e da Junta de Freguesia de Argo
+ ncilhe e tem como diretor da prova Rui Alves – Presidente da Casa[..]\nht
+ tps://www.portugalrunning.com/eventos/argon-trail-2023/
+URL:https://www.portugalrunning.com/eventos/argon-trail-2023/
+END:VEVENT
+END:VCALENDAR

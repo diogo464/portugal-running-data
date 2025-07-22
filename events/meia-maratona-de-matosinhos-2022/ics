@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd149449
+DTSTAMP:20250720T222521Z
+DTSTART:20220508
+DTEND:20220509
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Meia Maratona de Matosinhos 2022
+DESCRIPTION:Meia Maratona de Matosinhos 2022. 8 de Maio de 2022 - Matosinho
+ s - 21km/6km\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-mato
+ sinhos-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-matosinhos-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1ec3abd
+DTSTAMP:20250720T222222Z
+DTSTART:20221105
+DTEND:20221106
+LOCATION:São Miguel\,  Açores São Miguel\,  Açores
+SUMMARY:Azores Challenge Trail 2022
+DESCRIPTION:O “Azores Challenge Trail 2022” é um evento de Trail Runni
+ ng\,  que percorre trilhos e caminhos no concelho da cidade de Lagoa enquad
+ rado nas vertentes de Skyrace (25 Kms)\,  Mini Trail (12Kms) e Caminhada (1
+ 0 Kms).\nhttps://www.portugalrunning.com/eventos/azores-challenge-trail-202
+ 2/
+URL:https://www.portugalrunning.com/eventos/azores-challenge-trail-2022/
+END:VEVENT
+END:VCALENDAR

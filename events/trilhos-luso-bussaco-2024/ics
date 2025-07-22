@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dac7a808
+DTSTAMP:20250720T222900Z
+DTSTART:20240505
+DTEND:20240506
+LOCATION:Luso\,  Aveiro Luso\,  Aveiro
+SUMMARY:Trilhos Luso Bussaco 2024
+DESCRIPTION:Numa organização da Associação Trilhos Luso Bussaco\,  com 
+ o apoio da Câmara Municipal da Mealhada\,  Junta de Freguesia do Luso e Fu
+ ndação Mata do Bussaco. Vai realizar-se no próximo dia 05 de maio de 202
+ 4 na Vila de Luso-Mealhada\,  o evento de Trail denominado “6.º Trilhos 
+ Luso Bussaco". Este evento[..]\nhttps://www.portugalrunning.com/eventos/tri
+ lhos-luso-bussaco-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-luso-bussaco-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d137a8a4
+DTSTAMP:20250720T222627Z
+DTSTART:20221217
+DTEND:20221218
+LOCATION:Boticas\,  Vila Real Boticas\,  Vila Real
+SUMMARY:São Silvestre De Boticas 2022
+DESCRIPTION:Na sua primeira edição a São Silvestre de Boticas promete vi
+ r para ficar. Venha também ser estreante nesta prova com partida e chegada
+  em frente ao Município de Boticas\,  nesta belíssima vila portuguesa. A 
+ 1º São Silvestre de Boticas terá um percurso com 10 km:Partida em frente
+  à Câmara Municipal\, [..]\nhttps://www.portugalrunning.com/eventos/sao-s
+ ilvestre-de-boticas-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-boticas-2022/
+END:VEVENT
+END:VCALENDAR

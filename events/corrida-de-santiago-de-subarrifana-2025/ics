@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4a92c58
+DTSTAMP:20250720T222306Z
+DTSTART:20250601T230900Z
+DTEND:20250601T235900Z
+LOCATION:Santiago de Subarrifana\,  Penafiel Santiago de Subarrifana\,  Penafiel
+SUMMARY:Corrida de Santiago de Subarrifana 2025
+DESCRIPTION:Realiza-se no dia 1 de junho de 2025 pelas 9:00\,  na zona envo
+ lvente de Santiago de Subarrifana\,  partidae chegada na Av. General Humber
+ to Delgado nº 57\,  Santiago de Subarrifana-Penafiel\,  a prova deatletism
+ o denominada de: Corrida de Santiago de Subarrifana - CSRDC Santiago de Sub
+ arrifana – 41º Aniversário.\nhttps://www.portugalrunning.com/eventos/co
+ rrida-de-santiago-de-subarrifana-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-santiago-de-subarrifana-2025/
+END:VEVENT
+END:VCALENDAR

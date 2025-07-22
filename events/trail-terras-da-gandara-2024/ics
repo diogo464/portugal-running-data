@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9261eb1
+DTSTAMP:20250720T222834Z
+DTSTART:20240623
+DTEND:20240624
+LOCATION:Seixo\,  Mira Seixo\,  Mira
+SUMMARY:Trail Terras da Gândara 2024
+DESCRIPTION:A terceira edição do Trail Terras da Gândara é uma prova qu
+ e vai percorrer trilhos e caminhos em locais rurais e florestais.\nhttps://
+ www.portugalrunning.com/eventos/trail-terras-da-gandara-2024/
+URL:https://www.portugalrunning.com/eventos/trail-terras-da-gandara-2024/
+END:VEVENT
+END:VCALENDAR

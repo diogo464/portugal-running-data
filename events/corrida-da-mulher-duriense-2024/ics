@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4093efb
+DTSTAMP:20250720T222256Z
+DTSTART:20240901T093300Z
+DTEND:20240901T235900Z
+LOCATION:Lamego\,  Viseu Lamego\,  Viseu
+SUMMARY:Corrida da Mulher Duriense 2024
+DESCRIPTION:A Marcha e Corrida da Mulher Duriense é um evento que decorre 
+ com o propósito de festejar a Mulher Duriense como elemento primordial na 
+ beleza natural do Douro. Esta iniciativa também procura sensibilizar e mot
+ ivar as mulheres e homens para a importância da atividade física e ao mes
+ mo tempo angariar[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-m
+ ulher-duriense-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-duriense-2024/
+END:VEVENT
+END:VCALENDAR

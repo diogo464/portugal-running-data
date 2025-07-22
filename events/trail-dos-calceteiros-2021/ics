@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61aae57
+DTSTAMP:20250720T222745Z
+DTSTART:20211101
+DTEND:20211102
+LOCATION:Fanhões\,  Loures Fanhões\,  Loures
+SUMMARY:Trail dos Calceteiros 2021
+DESCRIPTION:O Trail dos Calceteiros é uma nova aventura para o dia 31 de O
+ utubro Trail longo 30km Trail curto 15km Caminhada 10km\nhttps://www.portug
+ alrunning.com/eventos/trail-dos-calceteiros-2021/
+URL:https://www.portugalrunning.com/eventos/trail-dos-calceteiros-2021/
+END:VEVENT
+END:VCALENDAR

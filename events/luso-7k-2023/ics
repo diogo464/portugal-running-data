@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbb4b02b
+DTSTAMP:20250720T222459Z
+DTSTART:20230311
+DTEND:20230312
+LOCATION:Lisboa Lisboa
+SUMMARY:Luso 7k 2023
+DESCRIPTION:Com uma partida no templo do atletismo de Lisboa\, &nbsp;Estád
+ io Nacional\,  a prova Luso 7K faz parte integrante do programa da&nbsp;EDP
+  Meia Maratona de Lisboa. RESULTADOS AQUI Acompanhamento Personalizado O Po
+ rtugal Running disponibiliza um acompanhamento personalizado para os atleta
+ s que queiram melhorar as suas performances ou fazer a sua primeira corrida
+ .\nhttps://www.portugalrunning.com/eventos/luso-7k-2023/
+URL:https://www.portugalrunning.com/eventos/luso-7k-2023/
+END:VEVENT
+END:VCALENDAR

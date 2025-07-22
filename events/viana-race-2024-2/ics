@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbc31308
+DTSTAMP:20250720T222916Z
+DTSTART:20240713
+DTEND:20240714
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Viana Race 2024
+DESCRIPTION:A Viana Race é uma prova que combina corrida Urbana com obstá
+ culos\,  organizada pela Xlife Events e o CrossFit Viana do Castelo\,  cont
+ ando com o apoio da Câmara Municipal de Viana do Castelo.\nhttps://www.por
+ tugalrunning.com/eventos/viana-race-2024-2/
+URL:https://www.portugalrunning.com/eventos/viana-race-2024-2/
+END:VEVENT
+END:VCALENDAR

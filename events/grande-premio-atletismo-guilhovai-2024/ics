@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9718eb8
+DTSTAMP:20250720T222423Z
+DTSTART:20240616
+DTEND:20240617
+LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+SUMMARY:Grande Prémio Atletismo Guilhovai 2024
+DESCRIPTION:As provas do programa incluem todos os escalões etários/géne
+ ro e uma caminhada\,  e terão início a partir das 09:00. Este G.P. Atleti
+ smo é organizado pelo Grupo Desportivo e Cultural de Guilhovai que conta c
+ om a cobertura técnica da Associação de Atletismo da Aveiro.\nhttps://ww
+ w.portugalrunning.com/eventos/grande-premio-atletismo-guilhovai-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-guilhovai-2024/
+END:VEVENT
+END:VCALENDAR

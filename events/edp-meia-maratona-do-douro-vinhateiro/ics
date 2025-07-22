@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c86f3b1a
+DTSTAMP:20250720T222406Z
+DTSTART:20200524
+DTEND:20200525
+LOCATION:Baião\,  Porto Baião\,  Porto
+SUMMARY:EDP Meia Maratona do Douro Vinhateiro 2020
+DESCRIPTION:Correr com quem voa num mar de mosto\,  linhas no horizonte des
+ enhadas a xisto\,  um território tão fascinante quanto generoso. A MAIS B
+ ELA CORRIDA DO MUNDO. Um dia o sonho nasceu. Hoje é uma realidade reconhec
+ ida a nível mundial. A simbiose perfeita entre território\,  saúde e bem
+ -estar. É no coração[..]\nhttps://www.portugalrunning.com/eventos/edp-me
+ ia-maratona-do-douro-vinhateiro/
+URL:https://www.portugalrunning.com/eventos/edp-meia-maratona-do-douro-vinhateiro/
+END:VEVENT
+END:VCALENDAR

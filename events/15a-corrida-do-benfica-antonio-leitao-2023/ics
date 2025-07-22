@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf401062
+DTSTAMP:20250720T222140Z
+DTSTART:20230401
+DTEND:20230402
+LOCATION:Avenida Machado Santos\,  Lisboa Avenida Machado Santos\,  Lisboa
+SUMMARY:15ª Corrida do Benfica António Leitão 2023
+DESCRIPTION:A 15ª Corrida do Benfica António Leitão é organizada pelo S
+ port Lisboa e Benfica sob a direção técnica da Prof. Ana Oliveira. INFOR
+ MAÇÕES ADICIONAIS Horários e Local&nbsp;1 abril às 11H00: Corrida da Pe
+ quenada com partida e chegada no relvado do Estádio da Luz.2&nbsp;abril à
+ s 10H30: Corrida 10Km com partida na[..]\nhttps://www.portugalrunning.com/e
+ ventos/15a-corrida-do-benfica-antonio-leitao-2023/
+URL:https://www.portugalrunning.com/eventos/15a-corrida-do-benfica-antonio-leitao-2023/
+END:VEVENT
+END:VCALENDAR

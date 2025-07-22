@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cee01f03
+DTSTAMP:20250720T222550Z
+DTSTART:20241026
+DTEND:20241027
+LOCATION:Torres Vedras Torres Vedras
+SUMMARY:Night Run Urban Trail 2024
+DESCRIPTION:A Câmara Municipal de Torres Vedras\,  em parceria com as asso
+ ciações Académico de Torres Vedras\,  Clube de Praticantes de Trail Dolc
+ e Furadouro\,  Clube Académico de Penafirme (CAP Running)\,  Grupo Desport
+ ivo Sobreirense (GOAT – West Trail Team) e Turres Trail Clube\,  organiza
+  o TORRES VEDRAS NIGHT RUN URBAN TRAIL no dia[..]\nhttps://www.portugalrunn
+ ing.com/eventos/night-run-urban-trail-2024/
+URL:https://www.portugalrunning.com/eventos/night-run-urban-trail-2024/
+END:VEVENT
+END:VCALENDAR

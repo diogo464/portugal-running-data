@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b629ee
+DTSTAMP:20250720T222323Z
+DTSTART:20220115
+DTEND:20220116
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida dos Reis 2022
+DESCRIPTION:Corrida de Reis 2022 o primeiro passo para um 2022 em grande fo
+ rma No dia 15 de janeiro\,  a Póvoa de Varzim será palco da IV Grupo CCR 
+ | Corrida de Reis 2022. O evento tem o selo de qualidade das organizações
+  Bikeservice e será muito mais do que uma[..]\nhttps://www.portugalrunning
+ .com/eventos/corrida-dos-reis-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-2022/
+END:VEVENT
+END:VCALENDAR

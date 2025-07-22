@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54dc3b6
+DTSTAMP:20250720T222732Z
+DTSTART:20240629T184200Z
+DTEND:20240629T184200Z
+LOCATION:Porto de Mós\,  Leiria Porto de Mós\,  Leiria
+SUMMARY:Trail Dmós 2024
+DESCRIPTION:A&nbsp;Associação Humanitária dos Bombeiros Voluntários de 
+ Porto de Mós&nbsp;organiza no dia&nbsp;29 de junho\,  o 1º Trail D’Mós
+ \, &nbsp;inserido no programa das&nbsp;Festas de São Pedro 2024. Este even
+ to é de carácter solidário\,  com a finalidade de aquisição de equipam
+ entos de protecção individual para os operacionais desta Associação. O 
+ evento é composto por[..]\nhttps://www.portugalrunning.com/eventos/trail-d
+ mos-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dmos-2024/
+END:VEVENT
+END:VCALENDAR

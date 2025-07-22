@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2eac7a0
+DTSTAMP:20250720T222238Z
+DTSTART:20231022
+DTEND:20231023
+LOCATION:Aldeia das Dez\,  Oliveira do Hospital Aldeia das Dez\,  Oliveira do Hospital
+SUMMARY:Colcurinho Epic Trail 2023
+DESCRIPTION:É uma corrida\,  com percursos recheados de trilhos técnicos\
+ ,  muitas vezes inacessíveis de qualquer outra forma\,  sem ser a pé. Com
+  grandes declives\,  subidas de pequenos riachos\,  com fundos rochosos e c
+ om pouca água\,  subida de pedras\,  entre outros tipos de piso com terren
+ os acidentados. ​Porque já alguém o chamou[..]\nhttps://www.portugalrun
+ ning.com/eventos/colcurinho-epic-trail-2023/
+URL:https://www.portugalrunning.com/eventos/colcurinho-epic-trail-2023/
+END:VEVENT
+END:VCALENDAR

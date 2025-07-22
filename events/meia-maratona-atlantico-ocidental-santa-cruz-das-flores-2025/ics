@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc879979
+DTSTAMP:20250720T222512Z
+DTSTART:20250609T100600Z
+DTEND:20250609T235900Z
+LOCATION:Santa Cruz das Flores\,  Açores Santa Cruz das Flores\,  Açores
+SUMMARY:Meia Maratona Atlântico Ocidental - Santa Cruz das Flores 2025
+DESCRIPTION:A Meia Maratona do Atlântico Ocidental realiza-se no dia 9 de 
+ junho de 2025. O evento vai estar dividida em 4 diferentes provas das quais
+ : -Meia Maratona – prova principal; -Mini Maratona – prova secundária;
+  -Corrida Kids – prova secundária; -Caminhada – prova de promoção\nh
+ ttps://www.portugalrunning.com/eventos/meia-maratona-atlantico-ocidental-sa
+ nta-cruz-das-flores-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-atlantico-ocidental-santa-cruz-das-flores-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61aae42
+DTSTAMP:20250720T222745Z
+DTSTART:20220116
+DTEND:20220117
+LOCATION:Viseu Viseu
+SUMMARY:Trail Do Rio Paiva 2022
+DESCRIPTION:Trail Do Rio Paiva 2022\nhttps://www.portugalrunning.com/evento
+ s/trail-do-rio-paiva-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-rio-paiva-2022/
+END:VEVENT
+END:VCALENDAR

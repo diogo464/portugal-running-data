@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d379303a
+DTSTAMP:20250720T222703Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Abela\,  Santiago do Cacém Abela\,  Santiago do Cacém
+SUMMARY:Trail Abela 2023
+DESCRIPTION:O 3º Trail em Abela ocorre a 29 de Outubro é um evento organi
+ zado a pelo Sporting Futebol Clube Abelense e tem como principal propósito
+  percorrer trilhos e caminhos do concelho de Santiago do Cacém. Percursos 
+ Trail curto com 14km; Trail longo com 19km; Caminhada com 10km.\nhttps://ww
+ w.portugalrunning.com/eventos/trail-abela-2023/
+URL:https://www.portugalrunning.com/eventos/trail-abela-2023/
+END:VEVENT
+END:VCALENDAR

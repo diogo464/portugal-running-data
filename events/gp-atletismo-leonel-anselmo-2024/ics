@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9379b11
+DTSTAMP:20250720T222419Z
+DTSTART:20241005T070600Z
+DTEND:20241005T235900Z
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:GP Atletismo Leonel Anselmo 2024
+DESCRIPTION:A Câmara Municipal do Barreiro e organização técnica da Xis
+ tarca\,  organiza no dia 05 de outubro de 2024\,  o 6º GP Atletismo Leone
+ l Anselmo.\nhttps://www.portugalrunning.com/eventos/gp-atletismo-leonel-ans
+ elmo-2024/
+URL:https://www.portugalrunning.com/eventos/gp-atletismo-leonel-anselmo-2024/
+END:VEVENT
+END:VCALENDAR

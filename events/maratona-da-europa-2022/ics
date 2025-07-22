@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbf93211
+DTSTAMP:20250720T222503Z
+DTSTART:20220424
+DTEND:20220425
+LOCATION:Aveiro Aveiro
+SUMMARY:Maratona da Europa 2022
+DESCRIPTION:Resultados A Maratona da Europa 2022\,  "maratona das mil emoç
+ ões"\,  amadrinhada por Aurora Cunha\,  tri-campeã mundial de estrada\,  
+ regressa a 24 de Abril de 2022. Em 2019\,  foi a Maratona de estreia mais p
+ articipada de sempre em Portugal. No coração de um território deslumbran
+ te\,  cerzida na paisagem por longos canais\, [..]\nhttps://www.portugalrun
+ ning.com/eventos/maratona-da-europa-2022/
+URL:https://www.portugalrunning.com/eventos/maratona-da-europa-2022/
+END:VEVENT
+END:VCALENDAR

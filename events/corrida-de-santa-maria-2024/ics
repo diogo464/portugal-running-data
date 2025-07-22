@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c49ab6b7
+DTSTAMP:20250720T222305Z
+DTSTART:20240713
+DTEND:20240714
+LOCATION:Santa Maria de Lamas\,  Santa Maria da Feira Santa Maria de Lamas\,  Santa Maria da Feira
+SUMMARY:Corrida de Santa Maria 2024
+DESCRIPTION:Santa Maria de Lamas é de novo o palco para um grande prémio 
+ de atletismo\,  que além das provas competitivas para adultos terá uma Mi
+ ni-Corrida (para jovens atletas) e uma Caminhada.\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-de-santa-maria-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-santa-maria-2024/
+END:VEVENT
+END:VCALENDAR

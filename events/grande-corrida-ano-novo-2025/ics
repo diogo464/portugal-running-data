@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c95aa4b4
+DTSTAMP:20250720T222421Z
+DTSTART:20250105
+DTEND:20250106
+LOCATION:Praça do Comércio\,  Lisboa Praça do Comércio\,  Lisboa
+SUMMARY:Grande Corrida Ano Novo 2025
+DESCRIPTION:Com partida e chegada na icónica Praça do Comércio\,  em Li
+ sboa!Se um dos teus desejos é começar a correr em 2025\,  esta prova ser�
+ � o teu primeiro desafio. Praça do Comércio&nbsp;| Lisboa » Kids Race 40
+ 0m |&nbsp;09h30» Corrida 10km |&nbsp;10h00» Caminhada 5km&nbsp;| 10h05\nh
+ ttps://www.portugalrunning.com/eventos/grande-corrida-ano-novo-2025/
+URL:https://www.portugalrunning.com/eventos/grande-corrida-ano-novo-2025/
+END:VEVENT
+END:VCALENDAR

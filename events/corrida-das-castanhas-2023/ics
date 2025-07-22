@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4430613
+DTSTAMP:20250720T222300Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Ajuda\,  Lisboa Ajuda\,  Lisboa
+SUMMARY:Corrida das Castanhas 2023
+DESCRIPTION:A mítica corrida das Castanhas está marcada para o dia 12 de 
+ Novembro de 2023. Corrida 10km | 10h00 | Torre do Galo\,  AjudaCaminhada 5
+ km | 10h05 | Torre do Galo\,  AjudaKids Race 400m | 9h30 | Torre do Galo\
+ ,  Ajuda\nhttps://www.portugalrunning.com/eventos/corrida-das-castanhas-202
+ 3/
+URL:https://www.portugalrunning.com/eventos/corrida-das-castanhas-2023/
+END:VEVENT
+END:VCALENDAR

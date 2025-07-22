@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc861231
+DTSTAMP:20250720T222928Z
+DTSTART:20230225
+DTEND:20230226
+LOCATION:Portugal Portugal
+SUMMARY:Walk & Run For Freedom 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/walk-run-for-freedom-
+ 2023/
+URL:https://www.portugalrunning.com/eventos/walk-run-for-freedom-2023/
+END:VEVENT
+END:VCALENDAR

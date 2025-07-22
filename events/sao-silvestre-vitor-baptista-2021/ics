@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d26f4022
+DTSTAMP:20250720T222646Z
+DTSTART:20211211
+DTEND:20211212
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:São Silvestre Vítor Baptista 2021
+DESCRIPTION:São Silvestre Vítor Baptista 2021 na Lourinhã\,  no dia 11 d
+ e Dezembro.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-vitor-ba
+ ptista-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vitor-baptista-2021/
+END:VEVENT
+END:VCALENDAR

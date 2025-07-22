@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a314e1
+DTSTAMP:20250720T222842Z
+DTSTART:20240204
+DTEND:20240205
+LOCATION:Vilarinho de Cima\,  Paredes Vilarinho de Cima\,  Paredes
+SUMMARY:Trail Vilarinho de Cima 2024
+DESCRIPTION:Este evento Trail Vilarinho de Cima 2024 será realizado no con
+ celho de Paredes\,  na freguesia de Gandra\,  no dia 04 de fevereiro de 202
+ 4\,  com partidas/chegadas nas instalações da Associação Cultural e Rec
+ reativa Vilarinho Cima.\nhttps://www.portugalrunning.com/eventos/trail-vila
+ rinho-de-cima-2024/
+URL:https://www.portugalrunning.com/eventos/trail-vilarinho-de-cima-2024/
+END:VEVENT
+END:VCALENDAR

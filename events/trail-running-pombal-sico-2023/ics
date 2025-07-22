@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d87f3ed2
+DTSTAMP:20250720T222823Z
+DTSTART:20230423
+DTEND:20230424
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Trail Running Pombal Sicó 2023
+DESCRIPTION:Esta prova irá ser organizada pelos Bombeiros Voluntários de 
+ Pombal em parceria com o Município de Pombal e SC Pombal Trail Team\,  com
+  o apoio técnico da LAP2GO.O dinheiro das inscrições irá reverter na su
+ a totalidade a favor dos Bombeiros Voluntários de Pombal\,  para a aquisi�
+ �ão de equipamento de proteção[..]\nhttps://www.portugalrunning.com/even
+ tos/trail-running-pombal-sico-2023/
+URL:https://www.portugalrunning.com/eventos/trail-running-pombal-sico-2023/
+END:VEVENT
+END:VCALENDAR

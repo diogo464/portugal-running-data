@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b4b3c7
+DTSTAMP:20250720T222251Z
+DTSTART:20240526T221200Z
+DTEND:20240526T235900Z
+LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+SUMMARY:Corrida Egas Moniz 2024
+DESCRIPTION:A 26 Maio 2024 vai realizar-se o Corrida da Egas Moniz\,  pr
+ ova inserida no Troféu de Almada Atletismo ‘Mário Pinto Claro’ 2023/
+ 2024.\nhttps://www.portugalrunning.com/eventos/corrida-da-egas-moniz-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-egas-moniz-2024/
+END:VEVENT
+END:VCALENDAR

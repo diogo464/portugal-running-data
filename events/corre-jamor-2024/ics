@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3318cb6
+DTSTAMP:20250720T222243Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corre Jamor 2024
+DESCRIPTION:O Clube Olímpico de Oeiras promove a 14ª edição do Corre Ja
+ mor by Saúde Prime no dia 3 de novembro de 2024. O Centro Desportivo Nacio
+ nal do Jamor recebe o evento dirigido a toda a família\,  com a Corrida 10
+  Km\,  a Caminhada 5 Km e a Corrida das Crianças.\nhttps://www.portugalrun
+ ning.com/eventos/corre-jamor-2024/
+URL:https://www.portugalrunning.com/eventos/corre-jamor-2024/
+END:VEVENT
+END:VCALENDAR

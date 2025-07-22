@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b31fad
+DTSTAMP:20250720T222411Z
+DTSTART:20250308
+DTEND:20250309
+LOCATION:Albufeira\,  Faro Albufeira\,  Faro
+SUMMARY:Falésia Run 2025
+DESCRIPTION:Numa co-organizacao da Free Challenge\,  AP Hotels & Resorts\, 
+  realiza-se no dia 08 de Marco de 2025\,  a FALESIA RUN. Com inicio agendad
+ o para as 16h00 horas\,  nas Agoteias\,  com partida e chegada no Victoria 
+ Sport & Beach Hotel\,  nas distancias de 6 e 11kms.\nhttps://www.portugalru
+ nning.com/eventos/falesia-run-2025/
+URL:https://www.portugalrunning.com/eventos/falesia-run-2025/
+END:VEVENT
+END:VCALENDAR

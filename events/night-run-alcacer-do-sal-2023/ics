@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ceddc75f
+DTSTAMP:20250720T222549Z
+DTSTART:20230907
+DTEND:20230908
+LOCATION:Alcacer do Sal\,  Setúbal Alcacer do Sal\,  Setúbal
+SUMMARY:Night Run Alcacer do Sal 2023
+DESCRIPTION:Night Run 2023 em Alcacer do Sal a 7 de Setembro.\nhttps://www.
+ portugalrunning.com/eventos/night-run-alcacer-do-sal-2023/
+URL:https://www.portugalrunning.com/eventos/night-run-alcacer-do-sal-2023/
+END:VEVENT
+END:VCALENDAR

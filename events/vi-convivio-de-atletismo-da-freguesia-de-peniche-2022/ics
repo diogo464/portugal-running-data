@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb7ab88
+DTSTAMP:20250720T222915Z
+DTSTART:20221004
+DTEND:20221005
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:VI Convívio de Atletismo da Freguesia de Peniche 2022
+DESCRIPTION:O VI Convívio de Atletismo da Freguesia de Peniche que irá ac
+ ontecer no próximo dia 9 de outubro.Até dia 4 de outubro na sede da Fregu
+ esia de Peniche\,  pode inscrever-se para a Corrida (10Km) ou para a Caminh
+ ada (5Km).Não se atrase\,  as inscrições são limitadas.\nhttps://www.po
+ rtugalrunning.com/eventos/vi-convivio-de-atletismo-da-freguesia-de-peniche-
+ 2022/
+URL:https://www.portugalrunning.com/eventos/vi-convivio-de-atletismo-da-freguesia-de-peniche-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c12c3545
+DTSTAMP:20250720T222210Z
+DTSTART:20240616T204700Z
+DTEND:20240616T204700Z
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:A Corrida Mais Bonita de Portugal 2024
+DESCRIPTION:A Corrida Mais Bonita de Portugal é promovida pela Câmara Mun
+ icipal da Figueira da Foz\,  com a organização técnica da PorAkaso - Eve
+ ntos Desportivos. A Corrida Mais Bonita de Portugal (Corrida e Caminhada) t
+ em um percurso de aproximadamente 8 km e terá uma duração máxima de 02h
+ 30\nhttps://www.portugalrunning.com/eventos/a-corrida-mais-bonita-de-portug
+ al-2024/
+URL:https://www.portugalrunning.com/eventos/a-corrida-mais-bonita-de-portugal-2024/
+END:VEVENT
+END:VCALENDAR

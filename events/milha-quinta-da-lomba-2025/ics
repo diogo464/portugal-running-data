@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dbe61
+DTSTAMP:20250720T222544Z
+DTSTART:20250413T085800Z
+DTEND:20250413T235900Z
+LOCATION:Quinta da Lomba\,  Barreiro Quinta da Lomba\,  Barreiro
+SUMMARY:Milha Quinta da Lomba 2025
+DESCRIPTION:A Câmara Municipal do Barreiro e organização técnica da Xis
+ tarca\,  organiza no dia 13 de abril de 2025\,  a 3ª Milha Quinta da Lomb
+ a.\nhttps://www.portugalrunning.com/eventos/milha-quinta-da-lomba-2025/
+URL:https://www.portugalrunning.com/eventos/milha-quinta-da-lomba-2025/
+END:VEVENT
+END:VCALENDAR

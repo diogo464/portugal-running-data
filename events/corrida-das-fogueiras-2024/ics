@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4466115
+DTSTAMP:20250720T222300Z
+DTSTART:20240629
+DTEND:20240630
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:Corrida das Fogueiras 2024
+DESCRIPTION:A CORRIDA DAS FOGUEIRAS é uma clássica corrida de estrada\,  
+ dada a simbiose existente entre o fascínio da própria corrida noturna\,  
+ iluminada pelas fogueiras ao longo do percurso e a grande festa da sardinha
+ da\,  uma cortesia da comunidade e do Município de Peniche. Este é o desa
+ fio de Verão e[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-fo
+ gueiras-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-das-fogueiras-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc00e63
+DTSTAMP:20250720T222604Z
+DTSTART:20230401
+DTEND:20230402
+LOCATION:Piódão\,  Coimbra Piódão\,  Coimbra
+SUMMARY:XI Piodão Trail Running 2023
+DESCRIPTION:Piodão Trail Running 2023\,  XI edição realizada na serra do
+  Açor\,  com início e fim na bonita aldeia do Piódão. Para esta ediçã
+ o os atletas vão ter um percurso novo na prova de 50 km. A prova ultra faz
+  parte do circuito distrital de trail de Coimbra.\nhttps://www.portugalrunn
+ ing.com/eventos/piodao-trail-running-2023/
+URL:https://www.portugalrunning.com/eventos/piodao-trail-running-2023/
+END:VEVENT
+END:VCALENDAR

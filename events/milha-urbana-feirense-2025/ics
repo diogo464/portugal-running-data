@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8c581a
+DTSTAMP:20250720T222544Z
+DTSTART:20250405
+DTEND:20250406
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Milha Urbana Feirense 2025
+DESCRIPTION:A 2ª Milha Urbana Stream / Feirense é uma prova aberta a todo
+ s os atletas\,  quer sejam federados\,  populares ou outros e realiza-se co
+ m o apoio da Câmara Municipal de Santa Maria da Feira\,  Junta de Freguesi
+ a de São João de Ver e da Associação de Atletismo de Aveiro.\nhttps://w
+ ww.portugalrunning.com/eventos/milha-urbana-feirense-2025/
+URL:https://www.portugalrunning.com/eventos/milha-urbana-feirense-2025/
+END:VEVENT
+END:VCALENDAR

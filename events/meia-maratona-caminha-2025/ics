@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc86223a
+DTSTAMP:20250720T222512Z
+DTSTART:20250621
+DTEND:20250622
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:Meia Maratona Caminha 2025
+DESCRIPTION:Realiza-se no dia 21 de junho 2025\,  pelas 18h00 horas (Meia M
+ aratona) e 18h00 (Mini Maratona)\,  com partida junto à torre do relógio 
+ no centro de Caminha onde será dado o tiro de partida.\nhttps://www.portug
+ alrunning.com/eventos/meia-maratona-caminha-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-caminha-2025/
+END:VEVENT
+END:VCALENDAR

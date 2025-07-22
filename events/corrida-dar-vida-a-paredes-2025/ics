@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4431823
+DTSTAMP:20250720T222300Z
+DTSTART:20250727T152300Z
+DTEND:20250727T152300Z
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Corrida Dar Vida a Paredes 2025
+DESCRIPTION:No dia 27 de julho de 2025\,  às 09h30\,  o Parque José Guilh
+ erme acolhe a estreia de uma nova prova que promete conquistar todos os par
+ ticipantes! Uma corrida de 10 km e uma corrida de 5 km oficialmente integra
+ da no circuito Super 5km — um formato raro em Portugal\,  que[..]\nhttps:
+ //www.portugalrunning.com/eventos/corrida-dar-vida-a-paredes-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-dar-vida-a-paredes-2025/
+END:VEVENT
+END:VCALENDAR

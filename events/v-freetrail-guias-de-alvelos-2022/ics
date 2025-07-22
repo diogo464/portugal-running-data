@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb7a5d5
+DTSTAMP:20250720T222915Z
+DTSTART:20221231
+DTEND:20230101
+LOCATION:Alvelos\,  Braga Alvelos\,  Braga
+SUMMARY:V Freetrail Guias De Alvelos | Reivellon 2022
+DESCRIPTION:Associação Recreativa e Cultural Águias de Alvelos\,  atrav�
+ �s da sua Secção de Trail Running e Atletismo\,  realiza no dia 31 de Dez
+ embro de 2022 o V FreeTrail Águias de Alvelos | Reivellon\,  na freguesia 
+ de Alvelos – Barcelos. Este evento é constituído por uma Caminhada de 1
+ 0 km\,  respetivamente\,  e[..]\nhttps://www.portugalrunning.com/eventos/v-
+ freetrail-guias-de-alvelos-2022/
+URL:https://www.portugalrunning.com/eventos/v-freetrail-guias-de-alvelos-2022/
+END:VEVENT
+END:VCALENDAR

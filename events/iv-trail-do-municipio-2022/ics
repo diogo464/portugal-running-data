@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb049804
+DTSTAMP:20250720T222448Z
+DTSTART:20220925
+DTEND:20220926
+LOCATION:Alcochete\,  Setúbal Alcochete\,  Setúbal
+SUMMARY:IV Trail do Município 2022
+DESCRIPTION:O IV Trail do Município de Alcochete é um evento no âmbito d
+ o desporto amador e do turismo de natureza. Esta iniciativa é organizada p
+ or uma Comissão Organizadora\,  constituída pelo Município de Alcochete 
+ e o Campo de Tiro. O IV Trail do Município de Alcochete será composto por
+  um percurso[..]\nhttps://www.portugalrunning.com/eventos/iv-trail-do-munic
+ ipio-2022/
+URL:https://www.portugalrunning.com/eventos/iv-trail-do-municipio-2022/
+END:VEVENT
+END:VCALENDAR

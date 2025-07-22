@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc6aa718
+DTSTAMP:20250720T222926Z
+DTSTART:20220108
+DTEND:20220109
+LOCATION:Sever do Vouga\,  Aveiro Sever do Vouga\,  Aveiro
+SUMMARY:Vouga Trail 2022
+DESCRIPTION:Resultados\nhttps://www.portugalrunning.com/eventos/vouga-trail
+ -2022/
+URL:https://www.portugalrunning.com/eventos/vouga-trail-2022/
+END:VEVENT
+END:VCALENDAR

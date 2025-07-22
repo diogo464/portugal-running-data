@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc74a882
+DTSTAMP:20250720T222927Z
+DTSTART:20221106
+DTEND:20221107
+LOCATION:Sebolido\,  Penafiel Sebolido\,  Penafiel
+SUMMARY:V Trail Boneca D Ouro 2022
+DESCRIPTION:A organização do V Trail da Boneca D'Ouro 2022 está a cargo 
+ da A.D.Sebolido – Associação para o Desenvolvimento de Sebolido. Caminh
+ ada (8km) Trail Curto (13km) Trail Longo (23km)\nhttps://www.portugalrunnin
+ g.com/eventos/v-trail-da-boneca-douro-2022/
+URL:https://www.portugalrunning.com/eventos/v-trail-da-boneca-douro-2022/
+END:VEVENT
+END:VCALENDAR

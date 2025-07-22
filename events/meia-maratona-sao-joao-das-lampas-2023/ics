@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce2321ae
+DTSTAMP:20250720T222538Z
+DTSTART:20230909
+DTEND:20230910
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:Meia Maratona São João das Lampas 2023
+DESCRIPTION:O Meia Maratona de S. João das Lampas - Grupo de Dinamização
+  Desportiva\,  com o apoio institucional de União de Freguesias de S. Joã
+ o das Lampas e Terrugem e da Câmara Municipal de Sintra\,  vai levar a efe
+ ito no Sábado\,  dia 09 de Setembro de 2023 às 17 horas\,  uma[..]\nhttps
+ ://www.portugalrunning.com/eventos/meia-maratona-sao-joao-das-lampas-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-sao-joao-das-lampas-2023/
+END:VEVENT
+END:VCALENDAR

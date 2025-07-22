@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d64c2d53
+DTSTAMP:20250720T222748Z
+DTSTART:20220910
+DTEND:20220911
+LOCATION:Nadadouro\,  Caldas da Rainha Nadadouro\,  Caldas da Rainha
+SUMMARY:Trail dos Flamingos 2022
+DESCRIPTION:O Trail dos Flamingos será a 10 de Setembro de 2022 em Nadadou
+ ro (concelho de Caldas da Rainha). Todas as provas [11 km e 22 km] partem 
+ da sede do Centro de Apoio Social do Nadadouro Junto ao campo de Futebol.\n
+ https://www.portugalrunning.com/eventos/trail-dos-flamingos-2022/
+URL:https://www.portugalrunning.com/eventos/trail-dos-flamingos-2022/
+END:VEVENT
+END:VCALENDAR

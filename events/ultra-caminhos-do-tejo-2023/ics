@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db2aace6
+DTSTAMP:20250720T222906Z
+DTSTART:20230609
+DTEND:20230610
+LOCATION:Ourém\,  Santarém Ourém\,  Santarém
+SUMMARY:Ultra Caminhos Do Tejo 2023
+DESCRIPTION:XVI edição O Caminho faz-se caminhando... Caminhos do Tejo\, 
+  um mundo de emoções. A UMCT\,  144km\,  classifica para o Circuito Nacio
+ nal de Trail Ultra Endurance/ATRP\nhttps://www.portugalrunning.com/eventos/
+ ultra-caminhos-do-tejo-2023/
+URL:https://www.portugalrunning.com/eventos/ultra-caminhos-do-tejo-2023/
+END:VEVENT
+END:VCALENDAR

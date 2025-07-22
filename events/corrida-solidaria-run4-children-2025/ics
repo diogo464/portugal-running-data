@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f91f8b
+DTSTAMP:20250720T222343Z
+DTSTART:20250601T115300Z
+DTEND:20250601T115300Z
+LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+SUMMARY:Corrida Solidária - RUN4 CHILDREN 2025
+DESCRIPTION:No próximo dia&nbsp;1 de junho\,  tem lugar a&nbsp;primeira ed
+ ição da RUN4 CHILDREN&nbsp;em Almada\,  uma corrida solidária que conta 
+ com dois embaixadores muito especiais: o apresentador Pedro Fernandes e a a
+ tleta olímpica Naide Gomes. Com o objetivo de celebrar o Dia da Criança\,
+   a corrida tem lugar no dia 1 de[..]\nhttps://www.portugalrunning.com/even
+ tos/corrida-solidaria-run4-children-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-run4-children-2025/
+END:VEVENT
+END:VCALENDAR

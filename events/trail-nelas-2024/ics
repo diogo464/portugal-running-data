@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7730913
+DTSTAMP:20250720T222807Z
+DTSTART:20240317
+DTEND:20240318
+LOCATION:Nelas\,  Viseu Nelas\,  Viseu
+SUMMARY:Trail Nelas 2024
+DESCRIPTION:O Nelas Trail Running é o herdeiro do Trail dos Caminhos Cruza
+ dos que teve a sua primeira edição em 2015. Em agosto de 2023\,  um incê
+ ndio no vale do Rio Castelo destruiu todos os trilhos existentes e usados n
+ as edições anteriores. Assim em 2024 levamos os atletas a outras outras[.
+ .]\nhttps://www.portugalrunning.com/eventos/trail-nelas-2024/
+URL:https://www.portugalrunning.com/eventos/trail-nelas-2024/
+END:VEVENT
+END:VCALENDAR

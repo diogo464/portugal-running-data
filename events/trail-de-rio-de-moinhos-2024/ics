@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54c4c27
+DTSTAMP:20250720T222732Z
+DTSTART:20241027T125900Z
+DTEND:20241027T235900Z
+LOCATION:Rio de Moinhos\,  Viseu Rio de Moinhos\,  Viseu
+SUMMARY:Trail de Rio de Moinhos 2024
+DESCRIPTION:O evento é composto por três percursos:Trail de ±16 km (apro
+ x.);Mini Trail ±11 km (aprox.);Caminhada ±11Km (aprox.)\nhttps://www.port
+ ugalrunning.com/eventos/trail-de-rio-de-moinhos-2024/
+URL:https://www.portugalrunning.com/eventos/trail-de-rio-de-moinhos-2024/
+END:VEVENT
+END:VCALENDAR

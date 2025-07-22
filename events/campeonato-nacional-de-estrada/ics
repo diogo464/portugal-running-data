@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c29ab824
+DTSTAMP:20250720T222233Z
+DTSTART:20200111
+DTEND:20200112
+LOCATION:Jamor Jamor\,  Lisboa
+SUMMARY:Campeonato Nacional de Estrada 2020
+DESCRIPTION:RESULTADOS VIDEO -  REPORTAGEM A Federação Portuguesa de Atl
+ etismo organiza o Campeonato Nacional de Estrada 2020 no próximo dia 11 de
+  janeiro\,  a partir das 14.30. Integrada neste Campeonato\,  organiza aind
+ a uma prova aberta\,  para todos\,  designada "Corrida com os campeões" qu
+ e possibilita a participação de todos os corredores usufruírem[..]\nhttp
+ s://www.portugalrunning.com/eventos/campeonato-nacional-de-estrada/
+URL:https://www.portugalrunning.com/eventos/campeonato-nacional-de-estrada/
+END:VEVENT
+END:VCALENDAR

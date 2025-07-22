@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f92509
+DTSTAMP:20250720T222343Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Saúde + Solidária 2023
+DESCRIPTION:A Corrida Saúde+Solidária\,  uma atividade 100% solidária e 
+ organizada pela Associação de Estudantes da Faculdade de Medicina de Lisb
+ oa\,  tem como dois pilares fundamentais a promoção da atividade desporti
+ va e a solidariedade. A X edição irá decorrer na Cidade Universitária 
+ no dia 30 de abril de 2023. Esta edição conta com uma[..]\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-saude-solidaria-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-saude-solidaria-2023/
+END:VEVENT
+END:VCALENDAR

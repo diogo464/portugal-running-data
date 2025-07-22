@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db701349
+DTSTAMP:20250720T222911Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Picote\,  Miranda do Douro Picote\,  Miranda do Douro
+SUMMARY:Ultra Trail Tierra de Miranda 2023
+DESCRIPTION:O Clube Desportivo de Miranda do Douro apresenta um dos maiores
+  eventos do ano para a modalidade de trail running do distrito de Bragança
+ . O “ULTRA TRAIL TIERRA DE MIRANDA”\,  organizado pela secção de atle
+ tismo do CD Miranda do Douro\,  contará com o apoio da Associação de Atl
+ etismo de Bragança\, [..]\nhttps://www.portugalrunning.com/eventos/ultra-t
+ rail-tierra-de-miranda-2023/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-tierra-de-miranda-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db7186dc
+DTSTAMP:20250720T222911Z
+DTSTART:20211107
+DTEND:20211108
+LOCATION:Grândola Grândola\,  Setúbal
+SUMMARY:Ultra Trail Serra de Grândola 2021
+DESCRIPTION:Já temos data para a 6ª edição do UTSG! Reservem já a data
+  para vir a Grândola participar num grande dia de Trail!!!Mais informaçõ
+ es brevemente!!!\nhttps://www.portugalrunning.com/eventos/ultra-trail-serra
+ -de-grandola-2021/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-serra-de-grandola-2021/
+END:VEVENT
+END:VCALENDAR

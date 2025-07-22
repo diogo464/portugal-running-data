@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f7b2a5
+DTSTAMP:20250720T222343Z
+DTSTART:20250405
+DTEND:20250406
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida Solidária NEM/AAC 2025
+DESCRIPTION:A&nbsp;IV Corrida Solidária&nbsp;é um evento desportivo organ
+ izado pelo&nbsp;Núcleo de Estudantes de Medicina da Associação Académic
+ a de Coimbra (NEM/AAC)\,  com o apoio da&nbsp;Câmara Municipal de Coimbra\
+ ,  da&nbsp;Associação Académica de Coimbra&nbsp;e da Recorde Pessoal\,  
+ responsável pela organização técnica do evento. Serão realizados dois 
+ eventos competitivos\,  uma&nbsp;Corrida de 10 km&nbsp;e outra de&nbsp;5 km
+ \, [..]\nhttps://www.portugalrunning.com/eventos/corrida-solidaria-nem-aac-
+ 2025/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-nem-aac-2025/
+END:VEVENT
+END:VCALENDAR

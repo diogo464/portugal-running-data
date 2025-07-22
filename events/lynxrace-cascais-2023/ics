@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbec40c6
+DTSTAMP:20250720T222502Z
+DTSTART:20230513
+DTEND:20230514
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Lynxrace Cascais 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/lynxrace-cascais-2023
+ /
+URL:https://www.portugalrunning.com/eventos/lynxrace-cascais-2023/
+END:VEVENT
+END:VCALENDAR

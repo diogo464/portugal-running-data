@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dc243
+DTSTAMP:20250720T222544Z
+DTSTART:20250726T222300Z
+DTEND:20250726T235900Z
+LOCATION:Vila Boim\,  Elvas Vila Boim\,  Elvas
+SUMMARY:Milha da Vila Boim 2025
+DESCRIPTION:A organização da 1ª Edição da Milha de Vila Boim é uma in
+ iciativa conjunta da Junta de Freguesia de Vila Boim e da Associação Desp
+ ortiva IALBAX com a colaboração técnica da Associação de Atletismo do 
+ Distrito de Portalegre (AADP).\nhttps://www.portugalrunning.com/eventos/mil
+ ha-da-vila-boim-2025/
+URL:https://www.portugalrunning.com/eventos/milha-da-vila-boim-2025/
+END:VEVENT
+END:VCALENDAR

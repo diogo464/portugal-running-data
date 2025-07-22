@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7918691
+DTSTAMP:20250720T222353Z
+DTSTART:20211003
+DTEND:20211004
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Virtual Solidária - Vamos ajudar o Rafael 2021
+DESCRIPTION:Corrida Virtual Solidária - Vamos ajudar o Rafael\,  trata-se 
+ de um evento de cariz solidário\,  cujo o único objectivo é aliar o desp
+ orto à vertente solidária.O valor da inscrição é um donativo que cada 
+ atleta pode escolher ao seu critério\,  que reverterá na sua totalidade p
+ ara a causa Vamos ajudar[..]\nhttps://www.portugalrunning.com/eventos/corri
+ da-virtual-solidaria-vamos-ajudar-o-rafael-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-virtual-solidaria-vamos-ajudar-o-rafael-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c73dc715
+DTSTAMP:20250720T222347Z
+DTSTART:20220724
+DTEND:20220725
+LOCATION:Celorico de Basto Celorico de Basto
+SUMMARY:Corrida S.Tiago 2022
+DESCRIPTION:Corrida S.Tiago 2022\nhttps://www.portugalrunning.com/eventos/c
+ orrida-s-tiago-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-s-tiago-2022/
+END:VEVENT
+END:VCALENDAR

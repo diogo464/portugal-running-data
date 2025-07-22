@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c47dd76c
+DTSTAMP:20250720T222303Z
+DTSTART:20250601
+DTEND:20250602
+LOCATION:Coruche\,  Santarém Coruche\,  Santarém
+SUMMARY:Corrida das Pontes 2025
+DESCRIPTION:O Serviço Desporto do Município de Coruche\,  com a colabora�
+ �ão técnica do Trilho Perdido\,  levam a efeito no próximo dia 1 de Junh
+ o a 19.ª Corrida das Pontes\,  com uma extensão de 10Km e a 19ª Corrida 
+ da Família com uma extensão de 3Km. Estes dois eventos estão integrados 
+ na[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-pontes-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-das-pontes-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c3a0d
+DTSTAMP:20250720T222617Z
+DTSTART:20230826
+DTEND:20230827
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Santa Luzia Night Trail 2023
+DESCRIPTION:O Santa Luzia Night Trail é organizado pelo MUTSeries.Contando
+  com a colaboração da Câmara Municipal de Viana do Castelo. Nesta segund
+ a edição\,  com duas distâncias disponíveis: - Trail Curto / Caminhada 
+ - 12km com cerca de 550D+ - Trail Longo – 22km com cerca de 1 000D+\nhttp
+ s://www.portugalrunning.com/eventos/santa-luzia-night-trail-2023/
+URL:https://www.portugalrunning.com/eventos/santa-luzia-night-trail-2023/
+END:VEVENT
+END:VCALENDAR

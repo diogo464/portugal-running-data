@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcadbd3d
+DTSTAMP:20250720T222930Z
+DTSTART:20231202
+DTEND:20231203
+LOCATION:Leiria Leiria
+SUMMARY:Xmas Night Trail Leiria 2023
+DESCRIPTION:Os&nbsp;Liz Runners – Associação Desporto\,  Cultura e Recr
+ eio&nbsp;com o apoio da&nbsp;Câmara Municipal de Leiria\, &nbsp;organiza n
+ o dia&nbsp;02 de Dezembro de 2023 o 11º XMas Night Trail Leiria 2023\,  qu
+ e consiste numa prova de Trail\,  em Leiria com partida junto à Tosel no S
+ outocito e chegada junto ao Jardim Camões em Leiria.[..]\nhttps://www.port
+ ugalrunning.com/eventos/xmas-night-trail-leiria-2023/
+URL:https://www.portugalrunning.com/eventos/xmas-night-trail-leiria-2023/
+END:VEVENT
+END:VCALENDAR

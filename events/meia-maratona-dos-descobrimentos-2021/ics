@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd731a95
+DTSTAMP:20250720T222527Z
+DTSTART:20211205
+DTEND:20211206
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona dos Descobrimentos 2021
+DESCRIPTION:Meia Maratona - Resultados 10 km' - Resultados A Meia Maratona 
+ dos Descobrimentos 2021 realiza-se em Dezembro\,  um mês propício à prá
+ tica de corridas de rua de longa distância e\,  talvez\,  uma das últimas
+  oportunidades para correr ao ar livre na Europa antes da chegada do invern
+ o. Foi realizada pela[..]\nhttps://www.portugalrunning.com/eventos/meia-mar
+ atona-dos-descobrimentos-2021/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-dos-descobrimentos-2021/
+END:VEVENT
+END:VCALENDAR

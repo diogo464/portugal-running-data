@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c31dca0e
+DTSTAMP:20250720T222241Z
+DTSTART:20200418
+DTEND:20200419
+LOCATION:Coruche Coruche\,  Santarém
+SUMMARY:Cork Trail 2020
+DESCRIPTION:Sétima edição do Cork Trail em Coruche no dia 18 de Abril 20
+ 20 O Cork Trail regressa no dia 18 de Abril às 17h\,  levando pelo sétimo
+  ano consecutivo a festa do Trail aos Trilhos de constante sobe e desce exi
+ stentes na localidade de Erra\,  no concelho de Coruche. São[..]\nhttps://
+ www.portugalrunning.com/eventos/cork-trail-2020/
+URL:https://www.portugalrunning.com/eventos/cork-trail-2020/
+END:VEVENT
+END:VCALENDAR

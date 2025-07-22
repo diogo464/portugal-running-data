@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d05320cf
+DTSTAMP:20250720T222613Z
+DTSTART:20250720T141800Z
+DTEND:20250720T235900Z
+LOCATION:Fontinha\,  √Ågueda Fontinha\,  √Ågueda
+SUMMARY:Rota do Talefe 2025
+DESCRIPTION:O evento realiza-se no dia 20 de Julho de 2025\,  com in√≠cio √
+ †s 9h30\,  com partida e chegada no Largo do Talefe na Fontinha. PercursosM
+ ini trail: 12 kmCaminhada: 10 kmMini Talefe: 600 metros (para idades < 12 a
+ nos)\nhttps://www.portugalrunning.com/eventos/rota-do-talefe-2025/
+URL:https://www.portugalrunning.com/eventos/rota-do-talefe-2025/
+END:VEVENT
+END:VCALENDAR

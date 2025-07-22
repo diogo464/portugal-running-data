@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c871811f
+DTSTAMP:20250720T222407Z
+DTSTART:20230408
+DTEND:20230409
+LOCATION:Porto Porto
+SUMMARY:Ecotrail Porto 2023
+DESCRIPTION:O EcoTrail Porto está à tua espera no dia 8 de abril e promet
+ e levar-te a locais com muita história.\nhttps://www.portugalrunning.com/e
+ ventos/ecotrail-porto-2023/
+URL:https://www.portugalrunning.com/eventos/ecotrail-porto-2023/
+END:VEVENT
+END:VCALENDAR

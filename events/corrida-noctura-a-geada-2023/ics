@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64dc414
+DTSTAMP:20250720T222332Z
+DTSTART:20230107
+DTEND:20230108
+LOCATION:Vinhais\,  Bragança Vinhais\,  Bragança
+SUMMARY:Corrida Nocturna à Geada 2023
+DESCRIPTION:Terá lugar no dia 07 de janeiro de 2023\,  a 4ª edição à G
+ eada promovida pela Autarquia de Vinhais\,  corrida de cariz solidário com
+  o valor da inscrição a reverter para uma instituição de Solidariedade 
+ social do concelho de Vinhais\,  conta o apoio técnico da Associação de 
+ Atletismo de Bragança.\nhttps://www.portugalrunning.com/eventos/corrida-no
+ ctura-a-geada-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-noctura-a-geada-2023/
+END:VEVENT
+END:VCALENDAR

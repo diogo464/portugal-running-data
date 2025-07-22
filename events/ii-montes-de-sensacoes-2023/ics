@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6caa310b1
+DTSTAMP:20250720T222442Z
+DTSTART:20230501
+DTEND:20230502
+LOCATION:Gouveia\,  Guarda Gouveia\,  Guarda
+SUMMARY:II Montes de Sensações 2023
+DESCRIPTION:O II Montes de Sensações surge integrado nas tradicionais cel
+ ebrações do Dia do Trabalhador. Com partida em frente à Sede da Junta de
+  Freguesia\,  o evento contará com uma vertente de caminhada (cerca de 10k
+ m) e uma vertente de trail (cerca de 18km). Relativamente ao trail\,  o per
+ curso levará os[..]\nhttps://www.portugalrunning.com/eventos/ii-montes-de-
+ sensacoes-2023/
+URL:https://www.portugalrunning.com/eventos/ii-montes-de-sensacoes-2023/
+END:VEVENT
+END:VCALENDAR

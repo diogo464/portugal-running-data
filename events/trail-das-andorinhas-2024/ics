@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4d1a16b
+DTSTAMP:20250720T222725Z
+DTSTART:20241208
+DTEND:20241209
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:Trail das Andorinhas 2024
+DESCRIPTION:Evento organizado pelo GRUPO DESPORTIVO DA GOMA\,  em parceria 
+ com o Município da Póvoa de Lanhoso. Distâncias: Trail Longo – 26KmsTr
+ ail Curto 15kmsCaminhada – 5\nhttps://www.portugalrunning.com/eventos/tra
+ il-das-andorinhas-2024/
+URL:https://www.portugalrunning.com/eventos/trail-das-andorinhas-2024/
+END:VEVENT
+END:VCALENDAR

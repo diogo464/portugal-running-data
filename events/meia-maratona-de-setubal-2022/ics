@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd5db2ee
+DTSTAMP:20250720T222525Z
+DTSTART:20220514
+DTEND:20220515
+LOCATION:Setúbal Setúbal
+SUMMARY:Meia Maratona de Setúbal 2022
+DESCRIPTION:A Meia Maratona de Setúbal 2022\,  Corrida das Famílias e Cor
+ rida Miúdos Alegro são as propostas de Setúbal para um fim-de-semana re
+ pleto de desafios! Escolha a sua prova\,  venha participar e conhecer Setú
+ bal\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-setubal-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-setubal-2022/
+END:VEVENT
+END:VCALENDAR

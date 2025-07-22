@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca3f3f9f
+DTSTAMP:20250720T222435Z
+DTSTART:20250316T111600Z
+DTEND:20250316T111600Z
+LOCATION:Guarda Guarda
+SUMMARY:Guarda Trail Running 2025
+DESCRIPTION:A organização do Guarda Trail Running é da responsabilidade 
+ do Clube de Montanhismo da Guarda e do Município da Guarda\,  tendo o apoi
+ o da Associação de Atletismo da Guarda e demais parceiros. O Guarda Trail
+  Running é um evento de corrida em montanha que integra duas provas: um Tr
+ ail Curto[..]\nhttps://www.portugalrunning.com/eventos/guarda-trail-running
+ -2025/
+URL:https://www.portugalrunning.com/eventos/guarda-trail-running-2025/
+END:VEVENT
+END:VCALENDAR

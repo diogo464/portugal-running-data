@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb2005e7
+DTSTAMP:20250720T222450Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Montemor-o-Velho\,  Coimbra Montemor-o-Velho\,  Coimbra
+SUMMARY:IX Trilho Dos Gatos 2023
+DESCRIPTION:O IX TRILHO DOS GATOS - TRAIL RUNNING\,  é organizado pelo GAT
+ ÕES BTT \, com o apoio de várias entidades de zona de Montemor-o-Velho. E
+ ste evento de Trail em estado puro será composto por:Trail Curto com cerca
+  19 KM (prova esta que faz parte do Circuito Distrital de Trail Curto –[.
+ .]\nhttps://www.portugalrunning.com/eventos/ix-trilho-dos-gatos-2023/
+URL:https://www.portugalrunning.com/eventos/ix-trilho-dos-gatos-2023/
+END:VEVENT
+END:VCALENDAR

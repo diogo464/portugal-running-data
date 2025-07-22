@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc7018f8
+DTSTAMP:20250720T222927Z
+DTSTART:20230326
+DTEND:20230327
+LOCATION:Queiriga\,  Viseu Queiriga\,  Viseu
+SUMMARY:V Queiriga Trail 2023
+DESCRIPTION:O evento é composto por três percursos e realiza-se no dia 26
+  de Março de 2023:• Trail Curto de 22 km;• Mini Trail 12km;• Caminha
+ da 8 km ou 12Km.\nhttps://www.portugalrunning.com/eventos/v-queiriga-trail-
+ 2023/
+URL:https://www.portugalrunning.com/eventos/v-queiriga-trail-2023/
+END:VEVENT
+END:VCALENDAR

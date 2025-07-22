@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1e18c6d
+DTSTAMP:20250720T222222Z
+DTSTART:20220903
+DTEND:20220904
+LOCATION:Macedo de Cavaleiros\,  Bragança Macedo de Cavaleiros\,  Bragança
+SUMMARY:Aziborne 2022
+DESCRIPTION:O Aziborne 2022 assume-se como a derradeira aventura entre a Al
+ bufeira do Azibo e a Serra de Bornes\,  na qual as equipas realizam uma com
+ petição única e onde os principais adversários são os elementos\,  ter
+ ra\,  água e ar\,  numa corrida de estafeta não convencional\,  composta 
+ por um trajeto de Atletismo\, [..]\nhttps://www.portugalrunning.com/eventos
+ /aziborne-2022/
+URL:https://www.portugalrunning.com/eventos/aziborne-2022/
+END:VEVENT
+END:VCALENDAR

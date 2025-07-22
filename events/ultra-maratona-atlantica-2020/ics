@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db2f41e0
+DTSTAMP:20250720T222906Z
+DTSTART:20200802
+DTEND:20200803
+LOCATION:Melides - Tróia Melides - Tróia
+SUMMARY:Ultra Maratona Atlântica 2020
+DESCRIPTION:A ULTRA MARATONA ATLÂNTICA MELIDES - TRÓIA é uma organizaç�
+ �o da Câmara Municipal de Grândola e vai decorrer no dia 2 Agosto 2020\, 
+  nas praias do Concelho de Grândola\,  a 16ª edição. A CORRIDA ATLÂNTI
+ CA COMPORTA - TRÓIA é uma organização da Câmara Municipal de Grândola
+  e vai decorrer a[..]\nhttps://www.portugalrunning.com/eventos/ultra-marato
+ na-atlantica-2020/
+URL:https://www.portugalrunning.com/eventos/ultra-maratona-atlantica-2020/
+END:VEVENT
+END:VCALENDAR

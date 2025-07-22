@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3063339
+DTSTAMP:20250720T222656Z
+DTSTART:20230608
+DTEND:20230609
+LOCATION:Coimbra Coimbra
+SUMMARY:Summer Run Coimbra 2023
+DESCRIPTION:10km\,  Meia Maratona e Maratona! Ofertas: kit Atleta (Inclui m
+ ochila Mesh String)\,  Kit Finisher\,  Fan Zone\,  Abastecimentos sub-zero 
+ e uma festa no Recovery !!!\nhttps://www.portugalrunning.com/eventos/summer
+ -run-coimbra-2023/
+URL:https://www.portugalrunning.com/eventos/summer-run-coimbra-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d497a3a9
+DTSTAMP:20250720T222721Z
+DTSTART:20250425T224100Z
+DTEND:20250425T224100Z
+LOCATION:Lamego\,  Viseu Lamego\,  Viseu
+SUMMARY:Trail da Liberdade 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-da-liberdade-20
+ 25/
+URL:https://www.portugalrunning.com/eventos/trail-da-liberdade-2025/
+END:VEVENT
+END:VCALENDAR

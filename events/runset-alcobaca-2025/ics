@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c3e10
+DTSTAMP:20250720T222617Z
+DTSTART:20250712
+DTEND:20250713
+LOCATION:Alcobaça\,  Leiria Alcobaça\,  Leiria
+SUMMARY:Runset Alcobaça 2025
+DESCRIPTION:A RUNSET Alcobaça é um evento co-organizado pela Associação
+  MakeMove em conjunto com oMunicípio de Alcobaça.Paralelamente à Runset 
+ Alcobaça com aprox. 12km\,  decorrerá também a MiniRace/Caminhada de+/- 
+ 8km \,  bem como a Kids Race e a Runset Sénior\,  todas elas sem qualquer 
+ carácter competitivo\nhttps://www.portugalrunning.com/eventos/runset-alcob
+ aca-2025/
+URL:https://www.portugalrunning.com/eventos/runset-alcobaca-2025/
+END:VEVENT
+END:VCALENDAR

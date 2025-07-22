@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c47db30a
+DTSTAMP:20250720T222303Z
+DTSTART:20250302
+DTEND:20250303
+LOCATION:Vila Franca de Xira\,  Lisboa Vila Franca de Xira\,  Lisboa
+SUMMARY:Corrida das Lezírias 2025
+DESCRIPTION:A mítica e adorada Corrida das Lezírias celebra a 30ª ediç�
+ �o em 2025! Vila Franca de Xira volta a ser\,  no dia&nbsp;2 de março 2025
+ \,  o palco da tradicional&nbsp;Corrida das Lezírias&nbsp;que\,  anualment
+ e\,  reúne na cidade milhares de atletas e amantes do desporto\,  oriundos
+  de todo o país. Poderás participar na[..]\nhttps://www.portugalrunning.c
+ om/eventos/corrida-das-lezirias-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-das-lezirias-2025/
+END:VEVENT
+END:VCALENDAR

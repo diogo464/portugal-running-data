@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c10ab57e
+DTSTAMP:20250720T222208Z
+DTSTART:20231005
+DTEND:20231006
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:7º GP Vale Grande 2023
+DESCRIPTION:A Associação Vale Grande e a Câmara Municipal de Odivelas\, 
+  com a colaboração da PSPde Odivelas\,  dos Bombeiros Voluntários de Odi
+ velas e da WeRun promovem\,  no próximodia 5 de Outubro de 2023\,  pelas 1
+ 0h00m\,  uma prova de atletismo de estrada\,  designada porGrande Prémio d
+ o Vale Grande\,  na distância de 10[..]\nhttps://www.portugalrunning.com/e
+ ventos/7o-gp-vale-grande-2023/
+URL:https://www.portugalrunning.com/eventos/7o-gp-vale-grande-2023/
+END:VEVENT
+END:VCALENDAR

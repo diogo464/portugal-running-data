@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9749885
+DTSTAMP:20250720T222423Z
+DTSTART:20250615
+DTEND:20250616
+LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+SUMMARY:Grande Prémio Atletismo Guilhovai 2025
+DESCRIPTION:O 4º Grande Prémio de Atletismo de Guilhovai irá disputar-se
+  no dia 15 de junho de 2025 nas ruas de Guilhovai e Sande\,  freguesia de S
+ . João de Ovar\,  com início e meta instalada junto à sede do Grupo Desp
+ ortivo e Cultural de Guilhovai\,  na Rua de S. Donato\,  315\, [..]\nhttps:
+ //www.portugalrunning.com/eventos/grande-premio-atletismo-guilhovai-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-guilhovai-2025/
+END:VEVENT
+END:VCALENDAR

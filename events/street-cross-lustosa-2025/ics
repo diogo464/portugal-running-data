@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d30799d5
+DTSTAMP:20250720T222656Z
+DTSTART:20250511
+DTEND:20250512
+LOCATION:Lousada\,  Porto Lousada\,  Porto
+SUMMARY:Street Cross Lustosa 2025
+DESCRIPTION:A Associação Desportiva de Lustosa\,  com o apoio da Câmara 
+ Municipal de Lousada e União de Freguesias de Lustosa e Barrosas Santo Est
+ êvão\,  irá organizar o 9º Street Cross Lustosa\,  com partida e chegad
+ a na Alameda da Igreja – Lustosa\,  no dia 11 de maio de 2025.\nhttps://w
+ ww.portugalrunning.com/eventos/street-cross-lustosa-2025/
+URL:https://www.portugalrunning.com/eventos/street-cross-lustosa-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbec45be
+DTSTAMP:20250720T222502Z
+DTSTART:20240623
+DTEND:20240624
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:Lynx Fuzileiros 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/lynxrace-fuzileiros-2
+ 024/
+URL:https://www.portugalrunning.com/eventos/lynxrace-fuzileiros-2024/
+END:VEVENT
+END:VCALENDAR

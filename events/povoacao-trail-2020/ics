@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d00ac46a
+DTSTAMP:20250720T222608Z
+DTSTART:20200315
+DTEND:20200316
+LOCATION:Povoação\,  Açores Povoação\, Açores
+SUMMARY:Povoação Trail 2020
+DESCRIPTION:A prova “Povoação Trail” tem como objetivo proporcionar a
+ os atletas novas experiências e sensações em trilhos distintos. Este eve
+ nto irá decorrer no dia 15 de março de 2020\,  organizado pelo Clube de P
+ raticantes 4 de Atletismos – HL Runners Club e Ginásio HL Health Club\, 
+  em parceria com o Município[..]\nhttps://www.portugalrunning.com/eventos/
+ povoacao-trail-2020/
+URL:https://www.portugalrunning.com/eventos/povoacao-trail-2020/
+END:VEVENT
+END:VCALENDAR

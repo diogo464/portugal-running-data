@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db718682
+DTSTAMP:20250720T222911Z
+DTSTART:20241026
+DTEND:20241027
+LOCATION:Louriçal do Campo\,  Castelo Branco Louriçal do Campo\,  Castelo Branco
+SUMMARY:Ultra Trilhos da Gardunha 2024
+DESCRIPTION:O UTG\,  é um evento de trail running\,  composto por uma cami
+ nhada e por 3 percursos circulares de 18k\,  32k e 50k\,  que percorrem est
+ radas florestais\,  trilhos\,  caminhos romanos\,  levadas\,  ribeiras\,  z
+ onas históricas\,  ruas de aldeias e os pontos mais altos da Serra da Gard
+ unha. Grande parte dos percursos estão[..]\nhttps://www.portugalrunning.co
+ m/eventos/ultra-trilhos-da-gardunha-2024/
+URL:https://www.portugalrunning.com/eventos/ultra-trilhos-da-gardunha-2024/
+END:VEVENT
+END:VCALENDAR

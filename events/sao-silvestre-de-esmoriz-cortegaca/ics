@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1700a04
+DTSTAMP:20250720T222631Z
+DTSTART:20221211
+DTEND:20221212
+LOCATION:Esmoriz\,  Aveiro Esmoriz\,  Aveiro
+SUMMARY:São Silvestre de Esmoriz Cortegaça
+DESCRIPTION:&nbsp;A Academia de Boxe Vitor Sá \,  organiza no dia 11&nbsp;
+ de Dezembro de 2022&nbsp;a 1ª São Silvestre de Esmoriz/Cortegaça.\nhttps
+ ://www.portugalrunning.com/eventos/sao-silvestre-de-esmoriz-cortegaca/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-esmoriz-cortegaca/
+END:VEVENT
+END:VCALENDAR

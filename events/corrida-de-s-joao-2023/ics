@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d61d7a
+DTSTAMP:20250720T222309Z
+DTSTART:20230618
+DTEND:20230619
+LOCATION:Porto Porto
+SUMMARY:Corrida de S. João 2023
+DESCRIPTION:Corrida de S. João 2023\nhttps://www.portugalrunning.com/event
+ os/corrida-de-s-joao-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-s-joao-2023/
+END:VEVENT
+END:VCALENDAR

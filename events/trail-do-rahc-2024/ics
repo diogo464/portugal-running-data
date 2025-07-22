@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61aa62c
+DTSTAMP:20250720T222745Z
+DTSTART:20240922T052000Z
+DTEND:20240922T235900Z
+LOCATION:Riba de Ave\,  Vila Nova de Famalicão Riba de Ave\,  Vila Nova de Famalicão
+SUMMARY:Trail do RAHC 2024
+DESCRIPTION:A 1º Trail do RAHC é uma prova de corrida de montanha\,  orga
+ nizada pelo Riba de Ave Hoquei Clube e parceria com a Camara Municipal de V
+ ila Nova de Famalicao Junta de Freguesia de Riba de Ave e Junta de freguesi
+ a de Serzedelo\,  que se desenvolve pelas Montes de Riba[..]\nhttps://www.p
+ ortugalrunning.com/eventos/trail-do-rahc-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-rahc-2024/
+END:VEVENT
+END:VCALENDAR

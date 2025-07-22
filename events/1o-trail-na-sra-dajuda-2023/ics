@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf832755
+DTSTAMP:20250720T222144Z
+DTSTART:20230730
+DTEND:20230731
+LOCATION:Vieira de Leiria\,  Marinha Grande Vieira de Leiria\,  Marinha Grande
+SUMMARY:1º Trail Nª Srª D´Ajuda 2023
+DESCRIPTION:A&nbsp;Comissão de Festas da Passagem&nbsp;com o apoio do&nbsp
+ ;Industrial Desportivo Vieirense\,  organiza no dia&nbsp;30 de Julho de 202
+ 3\,  o&nbsp;1º Trail\,  inserido nas&nbsp;Festas de Na Sra D 'Ajuda da Pas
+ sagem&nbsp;–&nbsp;Vieira de Leiria.\nhttps://www.portugalrunning.com/even
+ tos/1o-trail-na-sra-dajuda-2023/
+URL:https://www.portugalrunning.com/eventos/1o-trail-na-sra-dajuda-2023/
+END:VEVENT
+END:VCALENDAR

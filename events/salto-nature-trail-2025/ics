@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c4009
+DTSTAMP:20250720T222617Z
+DTSTART:20250413T161400Z
+DTEND:20250413T161400Z
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Salto Nature Trail 2025
+DESCRIPTION:O evento SALTO NATURE TRAIL é organizado conjuntamente pela No
+ rth Sport Events e pelo Sport Club Nun’Alvares. Colaboram o Município de
+  Paredes e as Juntas de Freguesia de Aguiar de Sousa e Recarei. O evento SA
+ LTO NATURE TRAIL é um evento de Trail Running que decorre no distrito do P
+ orto[..]\nhttps://www.portugalrunning.com/eventos/salto-nature-trail-2025/
+URL:https://www.portugalrunning.com/eventos/salto-nature-trail-2025/
+END:VEVENT
+END:VCALENDAR

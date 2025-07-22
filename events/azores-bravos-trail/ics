@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1e9263d
+DTSTAMP:20250720T222222Z
+DTSTART:20201003
+DTEND:20201004
+LOCATION:Ilha Terceira\,  Açores Ilha Terceira\,  Açores
+SUMMARY:Azores Bravos Trail
+DESCRIPTION:A Ilha Terceira\,  também conhecida por Terra dos Bravos\,  é
+  o cenário do novo trail running dos Açores que pretende desafiá-lo ao m
+ esmo tempo que lhe oferece paisagens únicas. Falamos de mato e pastagens c
+ om o vislumbre do mar num horizonte a perder de vista e também de recantos
+  misteriosos\, [..]\nhttps://www.portugalrunning.com/eventos/azores-bravos-
+ trail/
+URL:https://www.portugalrunning.com/eventos/azores-bravos-trail/
+END:VEVENT
+END:VCALENDAR

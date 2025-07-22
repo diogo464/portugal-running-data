@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d43abcee
+DTSTAMP:20250720T222715Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:São Martinho da Gândara\,  Oliveira de Azeméis São Martinho da Gândara\,  Oliveira de Azeméis
+SUMMARY:Trail Castro Recarei 2024
+DESCRIPTION:O VI Trail Castro Recarei é uma prova de corrida em zona de ma
+ ta\,  caminhos\,  represas e linhas de água. Este evento faz parte do Circ
+ uito Concelhio de Oliveira de Azeméis. A prova é circular\,  com início 
+ e término no campo das Alminhas\,  sede do CDC.\nhttps://www.portugalrunni
+ ng.com/eventos/trail-castro-recarei-2024/
+URL:https://www.portugalrunning.com/eventos/trail-castro-recarei-2024/
+END:VEVENT
+END:VCALENDAR

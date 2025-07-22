@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d76dd1c0
+DTSTAMP:20250720T222806Z
+DTSTART:20220220
+DTEND:20220221
+LOCATION:Marvão\,  Portalegre Marvão\,  Portalegre
+SUMMARY:Trail Marvão 2022
+DESCRIPTION:O Trail Marvão 2022 é uma organização do Município de Marv
+ ão\,  com o apoio da UJA - União da JuventudeArenense e do GDA - Grupo De
+ sportivo Arenense.O Trail de Marvão é um evento composto por uma corrida 
+ de trail running e por uma caminhada\,  que serealiza por trilhos\,  azinha
+ gas e[..]\nhttps://www.portugalrunning.com/eventos/trail-marvao-2022/
+URL:https://www.portugalrunning.com/eventos/trail-marvao-2022/
+END:VEVENT
+END:VCALENDAR

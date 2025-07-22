@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2594060
+DTSTAMP:20250720T222229Z
+DTSTART:20220910
+DTEND:20220911
+LOCATION:Entroncamento\,  Santarém Entroncamento\,  Santarém
+SUMMARY:Bonito by Night 2022
+DESCRIPTION:O&nbsp;CLAC -&nbsp;Clube de Lazer\,  Aventura e Competição do
+  Entroncamento\,  tem o prazer de informar que irá organizar a&nbsp;&nbsp;
+ 5ª Edição "Bonito by Night". O evento terá lugar no dia&nbsp;10 de Sete
+ mbro de 2022\,  junto ao campo de jogos do Bonito&nbsp;(Entroncamento).\nht
+ tps://www.portugalrunning.com/eventos/bonito-by-night-2022/
+URL:https://www.portugalrunning.com/eventos/bonito-by-night-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d44192d5
+DTSTAMP:20250720T222716Z
+DTSTART:20250413
+DTEND:20250414
+LOCATION:Moura\,  Beja Moura\,  Beja
+SUMMARY:Trail Cidade de Moura - Terra do Grande Lago 2025
+DESCRIPTION:Veio para ficar. O Trail Cidade de Moura - Terra do Grande Lago
+  é uma das principais atividades organizada pela Casa do Benfica de Moura 
+ e volta a trazer a todos os participantes o grande espelho de água do Alqu
+ eva\,  em pleno Alentejo.\nhttps://www.portugalrunning.com/eventos/trail-ci
+ dade-de-moura-terra-do-grande-lago-2025/
+URL:https://www.portugalrunning.com/eventos/trail-cidade-de-moura-terra-do-grande-lago-2025/
+END:VEVENT
+END:VCALENDAR

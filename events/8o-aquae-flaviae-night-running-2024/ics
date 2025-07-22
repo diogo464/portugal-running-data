@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1161bb2
+DTSTAMP:20250720T222209Z
+DTSTART:20240713
+DTEND:20240714
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:8º Aquae Flaviae Night Running 2024
+DESCRIPTION:A Aquae Flaviae Night Running é organizada pela Associação d
+ esporto aquae flaviae. Corrida – 13 kmPercurso urbano constituído por um
+ a volta única de 13 km (aprox.)\,  sem desníveis consideráveis. Caminhad
+ a – 8 kmPercurso urbano constituído por uma volta única de 8 km (aprox.
+ )\,  sem desníveis consideráveis.\nhttps://www.portugalrunning.com/evento
+ s/8o-aquae-flaviae-night-running-2024/
+URL:https://www.portugalrunning.com/eventos/8o-aquae-flaviae-night-running-2024/
+END:VEVENT
+END:VCALENDAR

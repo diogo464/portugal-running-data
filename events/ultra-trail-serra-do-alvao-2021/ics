@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db7016a8
+DTSTAMP:20250720T222911Z
+DTSTART:20211204
+DTEND:20211205
+LOCATION:Vila Real Vila Real
+SUMMARY:Ultra Trail Serra do Alvão 2021
+DESCRIPTION:Resultados A VII Edição do Ultra Trail Serra do Alvão é uma
+  prova que percorre os trilhos da Serra do Alvão\,  nas categorias Ultra T
+ rail\,  Trail e Mini Trail / Camihada da Serra do Alvão\,  aberto a todos 
+ os indivíduos maiores de idade. Será realizado ao abrigo das regras sanit
+ árias[..]\nhttps://www.portugalrunning.com/eventos/ultra-trail-serra-do-al
+ vao-2021/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-serra-do-alvao-2021/
+END:VEVENT
+END:VCALENDAR

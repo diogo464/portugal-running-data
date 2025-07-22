@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d87f3c9f
+DTSTAMP:20250720T222823Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:Trail Running Moinhos Saloios 2024
+DESCRIPTION:O “8º Trail Moinhos Saloios” é um evento desportivo que t
+ em como objetivos a divulgação da modalidade de atletismo\,  a promoção
+  da União de Freguesias de Venda do Pinheiro e Santo Estêvão das Galés 
+ e do Município de Mafra no panorama do atletismo regional. A organização
+  está a cargo da[..]\nhttps://www.portugalrunning.com/eventos/trail-runnin
+ g-moinhos-saloios-2024/
+URL:https://www.portugalrunning.com/eventos/trail-running-moinhos-saloios-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c529342c
+DTSTAMP:20250720T222314Z
+DTSTART:20200906
+DTEND:20200907
+LOCATION:Porto Porto
+SUMMARY:Corrida do Dragão
+DESCRIPTION:Uma corrida emblemática que nasce com o objectivo de oferecer 
+ a milhares de adeptos do FC Porto a oportunidade de correr de Dragão ao Pe
+ ito\,  na Cidade Invicta\,  junto ao Estádio do Dragão\,  palco de todas 
+ as emoções\,  o palco dos campeões.\nhttps://www.portugalrunning.com/eve
+ ntos/corrida-do-dragao/
+URL:https://www.portugalrunning.com/eventos/corrida-do-dragao/
+END:VEVENT
+END:VCALENDAR

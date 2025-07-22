@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c25c3cd2
+DTSTAMP:20250720T222229Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Boticas\,  Vila Real Boticas\,  Vila Real
+SUMMARY:Boticas Trail 2024
+DESCRIPTION:O Boticas Trail Caminhos do Galaico é uma das maiores provas d
+ esportivas da região de Barroso\, o único território portugues com o sel
+ o de Patrimônio agrícola Mundial A prova é composta por 3 fantásticos t
+ rilhos de montanha ( 13\, 19 e 30km) e uma caminhada de 13km\,  oferecendo 
+ ainda um leque de[..]\nhttps://www.portugalrunning.com/eventos/boticas-trai
+ l-2024/
+URL:https://www.portugalrunning.com/eventos/boticas-trail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f4ae83
+DTSTAMP:20250720T222415Z
+DTSTART:20230312
+DTEND:20230313
+LOCATION:Vila Nova de Foz Côa\,  Guarda Vila Nova de Foz Côa\,  Guarda
+SUMMARY:Foz Coa Douro Trail Adventure 2023
+DESCRIPTION:Foz Coa Douro Trail Adventure 2023\nhttps://www.portugalrunning
+ .com/eventos/foz-coa-douro-trail-adventure-2023/
+URL:https://www.portugalrunning.com/eventos/foz-coa-douro-trail-adventure-2023/
+END:VEVENT
+END:VCALENDAR

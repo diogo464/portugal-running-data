@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09dbc01
+DTSTAMP:20250720T222617Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Sabrosa\,  Vila Real Sabrosa\,  Vila Real
+SUMMARY:Sabrosa Trail por Terras de Magalhães 2022
+DESCRIPTION:A Câmara Municipal de Sabrosa e a Naturthoughts -Turismo de Na
+ tureza\,  Lda. organizam\,  no próximo dia 13 de novembro\,  a I edição 
+ do Sabrosa Trail por Terras de Magalhães (ST).O ST é uma prova de Trail R
+ unning certificada pela ATRP que percorre trilhos\,  caminhos rurais e estr
+ adões do concelho de[..]\nhttps://www.portugalrunning.com/eventos/sabrosa-
+ trail-por-terras-de-magalhaes-2022/
+URL:https://www.portugalrunning.com/eventos/sabrosa-trail-por-terras-de-magalhaes-2022/
+END:VEVENT
+END:VCALENDAR

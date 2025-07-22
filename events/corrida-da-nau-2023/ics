@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4092c8a
+DTSTAMP:20250720T222256Z
+DTSTART:20230903
+DTEND:20230904
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:28ª Corrida da Nau 2023
+DESCRIPTION:O Clube de Atletismo os Rompe Solas e a EventSport organizam a 
+ 28ª Edição Corrida da Nau que tem a finalidade de estimular a prática d
+ esportiva como elemento da promoção da saúde e da qualidade de vida. Rea
+ liza-se no dia 3 de Setembro de 2023\,  com início às 10h00\,  a[..]\nhtt
+ ps://www.portugalrunning.com/eventos/corrida-da-nau-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-nau-2023/
+END:VEVENT
+END:VCALENDAR

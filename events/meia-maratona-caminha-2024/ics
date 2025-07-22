@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc892044
+DTSTAMP:20250720T222512Z
+DTSTART:20240615
+DTEND:20240616
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:Meia Maratona Caminha 2024
+DESCRIPTION:Realiza-se no dia 15 de junho 2024\,  pelas 18h00 horas (Meia M
+ aratona) e 18h00 (Mini Maratona)\,  com partida junto à torre do relógio 
+ no centro de Caminha onde será dado o tiro de partida.\nhttps://www.portug
+ alrunning.com/eventos/meia-maratona-caminha-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-caminha-2024/
+END:VEVENT
+END:VCALENDAR

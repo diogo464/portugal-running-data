@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca0004a0
+DTSTAMP:20250720T222432Z
+DTSTART:20240113
+DTEND:20240114
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Grande Prémio dos Reis 2024
+DESCRIPTION:Prova de estrada\,  incluída no Plano de Atividades dos Grupos
+ /Equipa (G/E) de Atletismo e Desporto Adaptado da CLDE – Porto numa coorg
+ anização com a ANDDI e APPACDM – Matosinhos e Câmara de Matosinhos.\nh
+ ttps://www.portugalrunning.com/eventos/grande-premio-dos-reis-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-dos-reis-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc761c89
+DTSTAMP:20250720T222927Z
+DTSTART:20220327
+DTEND:20220328
+LOCATION:Gondar\,  Amarante Gondar\,  Amarante
+SUMMARY:V Trail Do Pote Gondar E Orbacém
+DESCRIPTION:V Trail Do Pote Gondar E Orbacém\nhttps://www.portugalrunning.
+ com/eventos/v-trail-do-pote-gondar-e-orbacem/
+URL:https://www.portugalrunning.com/eventos/v-trail-do-pote-gondar-e-orbacem/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0318b21
+DTSTAMP:20250720T222155Z
+DTSTART:20230608
+DTEND:20230609
+LOCATION:Vidigueira\,  Beja Vidigueira\,  Beja
+SUMMARY:36ª Escalada do Mendro 2023
+DESCRIPTION:No dia 8 de Junho realiza-se a 36ª edição da Escalada do Men
+ dro em Atletismo em Vidigueira- Baixo Alentejo.\nhttps://www.portugalrunnin
+ g.com/eventos/36a-escalada-do-mendro-2023/
+URL:https://www.portugalrunning.com/eventos/36a-escalada-do-mendro-2023/
+END:VEVENT
+END:VCALENDAR

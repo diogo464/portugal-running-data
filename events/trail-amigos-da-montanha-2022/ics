@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3b17f35
+DTSTAMP:20250720T222707Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Trail Amigos da Montanha 2022
+DESCRIPTION:O XII Trail AM realiza-se a 20 novembro de 2022. A aventura do 
+ trail pelos trilhos de Barcelos tem quatro provas competitivas e uma Caminh
+ ada\,  não competitiva.– Trail Ultra Sidónios – 69 km– Trail Ultra 
+ Crédito Agrícola Caixa do Noroeste - 48 km– Trail Longo Martins & Filho
+ s - 25[..]\nhttps://www.portugalrunning.com/eventos/trail-amigos-da-montanh
+ a-2022/
+URL:https://www.portugalrunning.com/eventos/trail-amigos-da-montanha-2022/
+END:VEVENT
+END:VCALENDAR

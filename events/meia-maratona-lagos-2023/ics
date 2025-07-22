@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdc6395b
+DTSTAMP:20250720T222532Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Lagos\,  Faro Lagos\,  Faro
+SUMMARY:Meia Maratona Lagos 2023
+DESCRIPTION:Numa organização do Olímpico Clube de Lagos\,  vai realizar-
+ se no dia 29 de Outubro de 2023 pelas9h30\,  a 33.ª Meia Maratona Lagos 20
+ 23\,  Mini Meia Maratona e a MegaCaminhada. Este evento\,  pretende ser uma
+  experiência única de corrida em Portugal\,  tendo como ex-librisapassage
+ m do percurso pela ponte levadiça que liga[..]\nhttps://www.portugalrunnin
+ g.com/eventos/meia-maratona-lagos-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-lagos-2023/
+END:VEVENT
+END:VCALENDAR

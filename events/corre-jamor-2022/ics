@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3301f73
+DTSTAMP:20250720T222243Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corre Jamor by Saúde Prime 2022
+DESCRIPTION:O Corre Jamor by Saúde Prime é organizado pelo Clube Olímp
+ ico de Oeiras\,  em parceria com o Centro Desportivo Nacional do Jamor\,  a
+  Câmara Municipal de Oeiras e o Instituto Português do Desporto e Juventu
+ de\,  e com o apoio técnico da HMS Sports Consulting\,  Lda. Data:&nbsp;13
+  de novembro de 2022. Horários: Corrida[..]\nhttps://www.portugalrunning.c
+ om/eventos/corre-jamor-2022/
+URL:https://www.portugalrunning.com/eventos/corre-jamor-2022/
+END:VEVENT
+END:VCALENDAR

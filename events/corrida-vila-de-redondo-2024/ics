@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c74302fb
+DTSTAMP:20250720T222348Z
+DTSTART:20240112
+DTEND:20240113
+LOCATION:Redondo\,  Évora Redondo\,  Évora
+SUMMARY:Corrida Vila de Redondo 2024
+DESCRIPTION:A 2ª CORRIDA VILA DE REDONDO é um evento de natureza desporti
+ va\,  que visa promover o desporto e hábitos de vida saudáveis. O evento 
+ é uma organização conjunta entre a Junta de Freguesia de Redondo e o Tra
+ il do Texugo.\nhttps://www.portugalrunning.com/eventos/corrida-vila-de-redo
+ ndo-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-vila-de-redondo-2024/
+END:VEVENT
+END:VCALENDAR

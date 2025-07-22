@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d857ac1e
+DTSTAMP:20250720T222821Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Romariz\,  Santa Maria da Feira Romariz\,  Santa Maria da Feira
+SUMMARY:Trail Rota do Castro 2023
+DESCRIPTION:II Trail Rota do Castro pretende promover a prática desportiva
+ \,  em geral\,  o desporto pela Natureza.Esta prova é organizada pela Junt
+ a de Freguesia de Romariz em parceria com o Município de Santa Maria da Fe
+ ira. O Trail é uma prova de Trail Running\,  realizada por trilhos sinaliz
+ ados\,  em pisoacidentado\,  estradões\, [..]\nhttps://www.portugalrunning
+ .com/eventos/trail-rota-do-castro-2023/
+URL:https://www.portugalrunning.com/eventos/trail-rota-do-castro-2023/
+END:VEVENT
+END:VCALENDAR

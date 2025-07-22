@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb618625
+DTSTAMP:20250720T222454Z
+DTSTART:20230506
+DTEND:20230507
+LOCATION:Leiria Leiria
+SUMMARY:Leiria Run 2023
+DESCRIPTION:E aqui está a 7ª edição do Leiria Run a corrida mais espect
+ acular de LEIRIA que te vai levar a correr aos locais mais inesperados da c
+ idade do Lis. A passagem pelo rio é uma certeza\,  mas prepara-te….! Exp
+ erimenta Leiria a correr! Corrida 13 Km; Caminhada 9 Km\nhttps://www.portug
+ alrunning.com/eventos/leiria-run-2023/
+URL:https://www.portugalrunning.com/eventos/leiria-run-2023/
+END:VEVENT
+END:VCALENDAR

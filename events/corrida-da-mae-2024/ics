@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f31959
+DTSTAMP:20250720T222255Z
+DTSTART:20240505
+DTEND:20240506
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida da Mãe 2024
+DESCRIPTION:Está a chegar a 2ª edição da corrida da mãe\,  um evento d
+ e homenagem a todas as mães e solidária com o nosso parceiro social casa 
+ são vicente! Com partida e chegada no Parque Ribeirinho do Oriente\,  o pe
+ rcurso desenrolar-se-á pela magnífica Av. Infante D. Henrique\,  na zona 
+ oriental de[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-mae-202
+ 4/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mae-2024/
+END:VEVENT
+END:VCALENDAR

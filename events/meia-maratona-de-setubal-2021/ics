@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd131828
+DTSTAMP:20250720T222521Z
+DTSTART:20211030
+DTEND:20211031
+LOCATION:Setúbal Setúbal
+SUMMARY:Meia Maratona de Setúbal 2021
+DESCRIPTION:Resultados Percurso A Meia Maratona de Setúbal 2021\,  Corrida
+  das Famílias e Corrida Miúdos Alegro&nbsp;são as propostas de Setúbal 
+ para um fim-de-semana repleto de desafios! Escolha a sua prova\,  venha par
+ ticipar e conhecer Setúbal\nhttps://www.portugalrunning.com/eventos/meia-m
+ aratona-de-setubal-2021/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-setubal-2021/
+END:VEVENT
+END:VCALENDAR

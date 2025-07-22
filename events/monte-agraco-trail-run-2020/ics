@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cedc353b
+DTSTAMP:20250720T222549Z
+DTSTART:20201108
+DTEND:20201109
+LOCATION:Sobral de Monte Agraço Sobral de Monte Agraço
+SUMMARY:Monte Agraço Trail Run 2020
+DESCRIPTION:O TURRES TRAIL CLUBE\,  com o apoio da Câmara Municipal de Sob
+ ral de Monte Agraço vai realizar no próximo dia 8 de Novembro de 2020 pel
+ as 9:00 horas\,  a 3º edição do evento denominado "Monte Agraço Trail R
+ un 2020". Este evento\,  terá um Trail Longo de Grau 2\,  um Trail[..]\nht
+ tps://www.portugalrunning.com/eventos/monte-agraco-trail-run-2020/
+URL:https://www.portugalrunning.com/eventos/monte-agraco-trail-run-2020/
+END:VEVENT
+END:VCALENDAR

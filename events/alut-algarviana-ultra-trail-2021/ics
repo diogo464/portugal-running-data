@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c16c4187
+DTSTAMP:20250720T222214Z
+DTSTART:20211125
+DTEND:20211126
+LOCATION:Cabo de São Vicente\,  Sagres Cabo de São Vicente\,  Sagres
+SUMMARY:ALUT – Algarviana Ultra Trail 2021
+DESCRIPTION:A edição 2021 do ALUT – Algarviana Ultra Trail – tem inic
+ io quinta-feira\,  dia 25 de novembro\,  pelas 16h30 no Cabo de São Vicent
+ e em Sagres. A entrega de prémios será pelas 14h30 do dia 28 de Novembro 
+ em Alcoutim. Pelo caminho os atletas irão percorrer 300Km pela Via Algarvi
+ ana\, [..]\nhttps://www.portugalrunning.com/eventos/alut-algarviana-ultra-t
+ rail-2021/
+URL:https://www.portugalrunning.com/eventos/alut-algarviana-ultra-trail-2021/
+END:VEVENT
+END:VCALENDAR

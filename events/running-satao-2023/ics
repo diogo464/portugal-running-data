@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0530fb1
+DTSTAMP:20250720T222613Z
+DTSTART:20230819
+DTEND:20230820
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:Running Satão 2023
+DESCRIPTION:A prova realiza-se no dia 19 de agosto de 2023\,  pelas 09h00m\
+ ,  com partida e chegada em frente à Câmara Municipal de Sátão\,  onde 
+ se enquadra nas Festas de São Bernardo\,  com corrida na distância de 10 
+ kms e uma caminhada na distância de 7 kms. Data: 19 de agosto[..]\nhttps:/
+ /www.portugalrunning.com/eventos/running-satao-2023/
+URL:https://www.portugalrunning.com/eventos/running-satao-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f920d7
+DTSTAMP:20250720T222343Z
+DTSTART:20240928
+DTEND:20240929
+LOCATION:Instituto Superior Técnico Taguspark\,  Oeiras Instituto Superior Técnico Taguspark\,  Oeiras
+SUMMARY:Corrida Solidária AEIST 2024
+DESCRIPTION:&nbsp;Corrida Solidária AEIST é um evento de caráter solidá
+ rio com o objetivo de reverter 100% dos lucros para a Associação de Paral
+ isia Cerebral de Lisboa e apoiar os seus projetos em desenvolvimento. A pro
+ va consiste em duas modalidades: 5 km de caminhada e 10 km de corrida\,  se
+ ndo ambas na[..]\nhttps://www.portugalrunning.com/eventos/corrida-solidaria
+ -aeist-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-aeist-2024/
+END:VEVENT
+END:VCALENDAR

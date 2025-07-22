@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2179ecb
+DTSTAMP:20250720T222641Z
+DTSTART:20231223
+DTEND:20231224
+LOCATION:Mortágua\,  Viseu Mortágua\,  Viseu
+SUMMARY:São Silvestre Mortágua 2023
+DESCRIPTION:A São Silvestre Mortágua e Kids Race terá lugar no dia 23 de
+  Dezembro de 2023 com início às 17h. Todas as provas terão início e fim
+  no mesmo local\,  a Praça do Município de Mortágua\,  e decorrerão em 
+ percurso misto de alcatrão e calçada. IO Evento S. Silvestre de[..]\nhttp
+ s://www.portugalrunning.com/eventos/sao-silvestre-mortagua-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mortagua-2023/
+END:VEVENT
+END:VCALENDAR

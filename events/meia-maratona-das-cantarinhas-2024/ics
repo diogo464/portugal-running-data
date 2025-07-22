@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccc92dd6
+DTSTAMP:20250720T222516Z
+DTSTART:20240512
+DTEND:20240513
+LOCATION:Bragança Bragança
+SUMMARY:Meia Maratona das Cantarinhas 2024
+DESCRIPTION:A “MEIA-MARATONA DAS CANTARINHAS” é uma prova de atletismo
+  organizada pelo Município de Bragança e pelo Ginásio Clube de Bragança
+  que terá lugar no dia 12/05/2024 com início às 09:00 horas\,  com parti
+ da e chegada na Praça do Município\,  junto à Câmara Municipalde Bragan
+ ça. A ORGANIZAÇÃO conta com a colaboração[..]\nhttps://www.portugalrun
+ ning.com/eventos/meia-maratona-das-cantarinhas-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-das-cantarinhas-2024/
+END:VEVENT
+END:VCALENDAR

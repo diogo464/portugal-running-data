@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc3b40
+DTSTAMP:20250720T222651Z
+DTSTART:20250711
+DTEND:20250712
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Sintra Trail Monte da Lua 2025
+DESCRIPTION:A&nbsp;Câmara Municipal de Sintra&nbsp;organiza a&nbsp;11 de j
+ ulho de 2025\,  pelas 21h00\,  o&nbsp;Sintra Trail Monte da Lua. A quarta e
+ dição do evento é composta por uma prova de corrida e duas caminhadas: -
+  Trail de 10 Km\,  com caráter competitivo - Caminhada Longa 10 Km\,  de c
+ aráter lúdico-desportivo - Caminhada Familiar[..]\nhttps://www.portugalru
+ nning.com/eventos/sintra-trail-monte-da-lua-2025/
+URL:https://www.portugalrunning.com/eventos/sintra-trail-monte-da-lua-2025/
+END:VEVENT
+END:VCALENDAR

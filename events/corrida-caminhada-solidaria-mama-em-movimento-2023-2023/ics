@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3761dea
+DTSTAMP:20250720T222247Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Santa Barbara de Nexe\,  Faro Santa Barbara de Nexe\,  Faro
+SUMMARY:Corrida/Caminhada Solidária ‘Mama em Movimento’ 2023
+DESCRIPTION:O Algarve Biomedical Center\,  em conjunto com a Algarviana Tea
+ m\,  a Associação Oncológica do Algarve (AOA) e a Liga Portuguesa contra
+  o Cancro - Núcleo Regional do Sul (LPCC-NRS)\,  está a organizar a 2ª c
+ orrida/caminhada solidária ‘Mama em Movimento’\,  com vista à angaria
+ ção de fundos para a AOA e a[..]\nhttps://www.portugalrunning.com/eventos
+ /corrida-caminhada-solidaria-mama-em-movimento-2023-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-caminhada-solidaria-mama-em-movimento-2023-2023/
+END:VEVENT
+END:VCALENDAR

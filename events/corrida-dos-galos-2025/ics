@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c58313c0
+DTSTAMP:20250720T222320Z
+DTSTART:20250907T100900Z
+DTEND:20250907T100900Z
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Corrida dos Galos 2025
+DESCRIPTION:A Corrida dos Galos é organizada pelo Gil Vicente Futebol Club
+ e em coprodução da Fundista – Agênciade Marketing Desportivo e com o a
+ poio do Município de Barcelos. A Corrida dos Galos realiza-se no dia 7 de 
+ setembro de 2025. A corrida de crianças tem início às 08:45horas\,  a co
+ rrida às[..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-galos-20
+ 25/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-galos-2025/
+END:VEVENT
+END:VCALENDAR

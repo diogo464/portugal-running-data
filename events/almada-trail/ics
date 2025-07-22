@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c16610d0
+DTSTAMP:20250720T222214Z
+DTSTART:20200621
+DTEND:20200622
+LOCATION:Parque Desportivo do Atlântico Costa da Caparica Parque Desportivo do Atlântico Costa da Caparica
+SUMMARY:Almada Trail 2020
+DESCRIPTION:O CPA - Clube Praças da Armada com o apoio técnico da Werun e
+  a co-parceria da Câmara Municipal de Almada\,  irão organizar o 3º Alma
+ da Trail\,  na cidade de Almada\,  com Partida e Chegada no Parque Desporti
+ vo do Atlântico Costa da Caparica. &nbsp; Programa / Horário 9h00 - Corri
+ da[..]\nhttps://www.portugalrunning.com/eventos/almada-trail/
+URL:https://www.portugalrunning.com/eventos/almada-trail/
+END:VEVENT
+END:VCALENDAR

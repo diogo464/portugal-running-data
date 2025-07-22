@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7b195f5
+DTSTAMP:20250720T222811Z
+DTSTART:20200105
+DTEND:20200106
+LOCATION:São Romão\,  Guarda São Romão\,  Guarda
+SUMMARY:Trail e Caminhada dos Pais Natais 2020
+DESCRIPTION:RESULTADOS &nbsp; A organização do evento desportivo designad
+ o por “Trail dos Pais Natais” é da responsabilidade da Delegação de 
+ Seia da Cruz Vermelha Portuguesa\,  em estreita parceria com a EAT com o RN
+ AAT 306/2019. O referido evento desportivo terá lugar no concelho de Seia\
+ ,  com início e fim na aldeia[..]\nhttps://www.portugalrunning.com/eventos
+ /trail-pais-natais/
+URL:https://www.portugalrunning.com/eventos/trail-pais-natais/
+END:VEVENT
+END:VCALENDAR

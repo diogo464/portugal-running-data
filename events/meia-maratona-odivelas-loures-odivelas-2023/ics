@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce249a92
+DTSTAMP:20250720T222538Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:Meia Maratona – Odivelas-Loures-Odivelas 2023
+DESCRIPTION:Os Municípios de Loures e Odivelas organizam pela primeira vez
+  a Meia Maratona – Odivelas-Loures-Odivelas\,  no dia 24 de setembro. Sob
+  o slogan Juntos pelo Desporto\,  as duas autarquias unem-se para reviver u
+ ma prova de atletismo que se realizava nos anos 80 e 90 e que ligava as dua
+ s cidades.[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-odive
+ las-loures-odivelas-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-odivelas-loures-odivelas-2023/
+END:VEVENT
+END:VCALENDAR

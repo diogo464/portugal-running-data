@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7fdc9af
+DTSTAMP:20250720T222815Z
+DTSTART:20230527
+DTEND:20230528
+LOCATION:Magoito\,  Sintra Magoito\,  Sintra
+SUMMARY:Trail Praia Mag8 2023
+DESCRIPTION:Este evento decorre em Magoito\,  a 27 e 28 de Maio de 2023\,  
+ evento que se destina à promoção do Trail\,  tendo como base o convívio
+ \,  o contacto com a natureza\,  o espirito de aventura e a prática de exe
+ rcício físico. dia 27 - sabado de tarde - Trail Kidsdia[..]\nhttps://www.
+ portugalrunning.com/eventos/trail-praia-mag8-2023/
+URL:https://www.portugalrunning.com/eventos/trail-praia-mag8-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1531384
+DTSTAMP:20250720T222213Z
+DTSTART:20210401
+DTEND:20210402
+LOCATION:Portugal Portugal
+SUMMARY:A Grande Corrida Virtual Dia das Mentiras
+DESCRIPTION:A Grande Corrida Virtual Dia das Mentiras. Com duas distâncias
+  5km e 10km com uma inscrição.Para correr de dia 1 a 4 de Abril.Cumpre as
+  recomendações da DGS em relação ao Covid-19.\nhttps://www.portugalrunn
+ ing.com/eventos/a-grande-corrida-virtual-dia-das-mentiras/
+URL:https://www.portugalrunning.com/eventos/a-grande-corrida-virtual-dia-das-mentiras/
+END:VEVENT
+END:VCALENDAR

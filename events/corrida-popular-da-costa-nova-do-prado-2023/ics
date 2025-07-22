@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69c2cd7
+DTSTAMP:20250720T222337Z
+DTSTART:20230701
+DTEND:20230702
+LOCATION:Costa Nova\,  Ílhavo Costa Nova\,  Ílhavo\,  Aveiro
+SUMMARY:Corrida Costa Nova 2023
+DESCRIPTION:A Câmara Municipal de Ílhavo vai promover a Corrida Popular d
+ a Costa Nova do Prado\,  no dia 1 de julho (sábado)\,  com tiro de partida
+  às 19 horas\,  junto ao Mercado da Costa Nova. O trajeto\,  de dez quiló
+ metros em asfalto\,  entre a Costa Nova e a Vagueira\,  foi homologado[..]\
+ nhttps://www.portugalrunning.com/eventos/corrida-popular-da-costa-nova-do-p
+ rado-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-popular-da-costa-nova-do-prado-2023/
+END:VEVENT
+END:VCALENDAR

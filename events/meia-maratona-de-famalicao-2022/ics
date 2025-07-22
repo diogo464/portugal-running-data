@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd1dceef
+DTSTAMP:20250720T222521Z
+DTSTART:20221127
+DTEND:20221128
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:Meia Maratona de Famalicão 2022
+DESCRIPTION:A Meia Maratona de Famalicão está de regresso ao Parque da De
+ vesa em Vila Nova de Famalicão em 2022. O evento está marcado para dia 27
+  de Novembro e conta com uma prova de 21 quilómetros e uma prova de 10 qui
+ lómetros\,  percorrendo algumas das mais belas e importantes artérias[..]
+ \nhttps://www.portugalrunning.com/eventos/meia-maratona-de-famalicao-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-famalicao-2022/
+END:VEVENT
+END:VCALENDAR

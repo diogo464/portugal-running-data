@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca3db3db
+DTSTAMP:20250720T222435Z
+DTSTART:20220918
+DTEND:20220919
+LOCATION:Porto de Mós\,  Leiria Porto de Mós\,  Leiria
+SUMMARY:Grande Trail Secreto (G.T.S.) 2022
+DESCRIPTION:A equipa de Trail do&nbsp;Grupo Recreativo da Corredoura&nbsp;o
+ rganiza no dia&nbsp;18 de Setembro de 2022\,  a&nbsp;2ª edição do Grande
+  Trail Secreto (G.T.S.)\,  composto por 3 provas: G.T.S. START –&nbsp;pro
+ va com a distância de aproximadamente 10km;G.T.S. ORIGINAL&nbsp;– prova 
+ com a distância de aproximadamente 16km;G.T.S. PLUS&nbsp;- prova com a dis
+ tância de aproximadamente 30km[..]\nhttps://www.portugalrunning.com/evento
+ s/grande-trail-secreto-g-t-s-2022/
+URL:https://www.portugalrunning.com/eventos/grande-trail-secreto-g-t-s-2022/
+END:VEVENT
+END:VCALENDAR

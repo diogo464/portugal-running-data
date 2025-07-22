@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f9226e
+DTSTAMP:20250720T222343Z
+DTSTART:20250511T181700Z
+DTEND:20250511T181700Z
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida Solidária Queima das Fitas 2025
+DESCRIPTION:A&nbsp;Primeira Edição da Corrida Solidária Queima das Fitas
+ &nbsp;é um evento desportivo organizado pela&nbsp;Comissão Organizadora d
+ a Queima das Fitas\,  com o apoio da&nbsp;Câmara Municipal de Coimbra\,  d
+ a Associação Académica de Coimbra e da Recorde Pessoal\,  responsável p
+ ela organização técnica do evento. Serão realizados dois eventos\,  uma
+  Corrida de 10 km e[..]\nhttps://www.portugalrunning.com/eventos/corrida-so
+ lidaria-queima-das-fitas-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-queima-das-fitas-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc37a4e1
+DTSTAMP:20250720T222923Z
+DTSTART:20221218
+DTEND:20221219
+LOCATION:Viseu Viseu
+SUMMARY:Viseu XMAS Run 2022
+DESCRIPTION:Em 2022\,  o Viseu XMAS RUN está de regresso para trazer o esp
+ írito natalício às ruas e avenidas da Cidade-Jardim! Realiza-se a 18 de 
+ dezembro este evento\,  100% solidário\,  que pretende envolver a comunid
+ ade\,  convidando-a e incentivando-a a dar um pouco de si aos que mais prec
+ isam. Para isso\,  basta que[..]\nhttps://www.portugalrunning.com/eventos/v
+ iseu-xmas-run-2022/
+URL:https://www.portugalrunning.com/eventos/viseu-xmas-run-2022/
+END:VEVENT
+END:VCALENDAR

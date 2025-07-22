@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db331566
+DTSTAMP:20250720T222907Z
+DTSTART:20210619
+DTEND:20210620
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Ultra Trail de Cerveira 2021
+DESCRIPTION:O&nbsp;Trail 22 km&nbsp;tem início no dia 19 de junho de 2021\
+ ,  tem início às 9.00 horas\,  de carácter competitivo e desnível acumu
+ lado positivo de aproximadamente 1745 metros\,  com início e fim em Vila N
+ ova de Cerveira\,  o tempo limite para concluir a prova é de 8 horas. O&nb
+ sp;Mini Trail 12[..]\nhttps://www.portugalrunning.com/eventos/ultra-trail-d
+ e-cerveira-2021/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-de-cerveira-2021/
+END:VEVENT
+END:VCALENDAR

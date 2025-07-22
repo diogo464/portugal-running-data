@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7448a25
+DTSTAMP:20250720T222348Z
+DTSTART:20240517T154200Z
+DTEND:20240517T235900Z
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Virtual Aubay Portugal 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-virtual-aubay
+ -portugal-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-virtual-aubay-portugal-2024/
+END:VEVENT
+END:VCALENDAR

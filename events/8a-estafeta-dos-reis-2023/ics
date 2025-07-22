@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c11aa8b2
+DTSTAMP:20250720T222209Z
+DTSTART:20230107
+DTEND:20230108
+LOCATION:Estádio Universitário de Lisboa Estádio Universitário de Lisboa\,  Lisboa
+SUMMARY:8ª Estafeta Dos Reis 2023
+DESCRIPTION:A Estafeta dos Reis é uma corrida por equipas de 3 elementos\,
+   num circuito fechado com o perímetro de 3 km\,  com partida e chegada na
+  Pista do Estádio de Honra\,  do Estádio Universitário de Lisboa. As equ
+ ipas poderão ser masculinas\,  femininas ou mistas (pelo menos um atleta d
+ e sexo[..]\nhttps://www.portugalrunning.com/eventos/8a-estafeta-dos-reis-20
+ 23/
+URL:https://www.portugalrunning.com/eventos/8a-estafeta-dos-reis-2023/
+END:VEVENT
+END:VCALENDAR

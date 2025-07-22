@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9019093
+DTSTAMP:20250720T222416Z
+DTSTART:20230507
+DTEND:20230508
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Funchal Vertical Kilometer 2023
+DESCRIPTION:O Funchal Vertical Kilometer® realiza-se no âmbito dos calend
+ ários competitivos de Skyrunning da Federação de Campismo e Montanhismo 
+ de Portugal. A quarta edição do Funchal Vertical Kilometer® tem uma dist
+ ância aproximada de 4\, 5km e sobe 1000m de desnível positivo\,  na verte
+ nte esquerda do vale da Ribeira de Santa Luzia\,  no[..]\nhttps://www.portu
+ galrunning.com/eventos/funchal-vertical-kilometer-2023/
+URL:https://www.portugalrunning.com/eventos/funchal-vertical-kilometer-2023/
+END:VEVENT
+END:VCALENDAR

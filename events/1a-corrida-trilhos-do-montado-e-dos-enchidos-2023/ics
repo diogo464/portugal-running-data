@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf76163e
+DTSTAMP:20250720T222143Z
+DTSTART:20230617
+DTEND:20230618
+LOCATION:Santa Luzia\,  Beja Santa Luzia\,  Beja
+SUMMARY:1ª Corrida "Trilhos do Montado e dos Enchidos" 2023
+DESCRIPTION:A União de Freguesias de Garvão e Santa Luzia em colaboraçã
+ o com o Município de Ourique\,  irá levar a efeito no dia 17 de Junho de 
+ 2023\,  sábado pelas 18h30\,  a 1º Corrida “Trilhos do Montado e dos En
+ chidos. A 1º Corrida “Trilhos do Montado e dos Enchidos” consiste numa
+ [..]\nhttps://www.portugalrunning.com/eventos/1a-corrida-trilhos-do-montado
+ -e-dos-enchidos-2023/
+URL:https://www.portugalrunning.com/eventos/1a-corrida-trilhos-do-montado-e-dos-enchidos-2023/
+END:VEVENT
+END:VCALENDAR

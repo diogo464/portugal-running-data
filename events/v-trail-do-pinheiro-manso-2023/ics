@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc7611ac
+DTSTAMP:20250720T222927Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Caranguejeira\,  Leiria Caranguejeira\,  Leiria
+SUMMARY:VI Trail do Pinheiro Manso 2023
+DESCRIPTION:Sob organização do clube – Grupo de Atletismo da Carangueje
+ ira\,  em parceria com a Junta de Freguesia da Caranguejeira\,  realiza-se 
+ a 28 de Maio de 2023 a VI edição do Trail do Pinheiro Manso\,  uma prova 
+ Trail Running que percorrerá percursos e trilhos na freguesia da Caranguej
+ eira\,  no concelho de[..]\nhttps://www.portugalrunning.com/eventos/v-trail
+ -do-pinheiro-manso-2023/
+URL:https://www.portugalrunning.com/eventos/v-trail-do-pinheiro-manso-2023/
+END:VEVENT
+END:VCALENDAR

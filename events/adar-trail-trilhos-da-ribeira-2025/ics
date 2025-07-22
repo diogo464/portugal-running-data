@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c14abfa0
+DTSTAMP:20250720T222212Z
+DTSTART:20250628T083500Z
+DTEND:20250628T235900Z
+LOCATION:Alcanede\,  Santarém Alcanede\,  Santarém
+SUMMARY:Adar Trail - Trilhos da Ribeira 2025
+DESCRIPTION:A ADAR – Associação Desportiva de Aldeia da Ribeira leva a 
+ cabo a organização da 2ª Edição da ADAR Trail – “Trilhos da Ribeir
+ a”\,  evento a realizar-se no dia 28 de junho de 2025. O evento realizar-
+ se-á em Aldeia da Ribeira\,  na freguesia de Alcanede\,  concelho de Santa
+ rém\,  e conta[..]\nhttps://www.portugalrunning.com/eventos/adar-trail-tri
+ lhos-da-ribeira-2025/
+URL:https://www.portugalrunning.com/eventos/adar-trail-trilhos-da-ribeira-2025/
+END:VEVENT
+END:VCALENDAR

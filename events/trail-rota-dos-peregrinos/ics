@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d87001d5
+DTSTAMP:20250720T222823Z
+DTSTART:20210620
+DTEND:20210621
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Trail Rota dos Peregrinos 2021
+DESCRIPTION:“Best Runners Barcelos”&nbsp;constituído por 3 etapas:Trai
+ l Rota do Leite&nbsp;(23 fevereiro de 2020);&nbsp;Macieira Rates\,  Barcelo
+ s\, &nbsp;Trail Rota dos Peregrinos&nbsp;(20 junho de 2021);&nbsp;Carvalhal
+ \,  Barcelos\,  e&nbsp;Trail&nbsp;São Gonçalo&nbsp;(19 setembro de 2021);
+ &nbsp;Carapeços\,  Barcelos. Desta feita\,  o evento é promovido com fins
+  de lazer e turístico/culturais e enquadrada no Regulamento de “Prova Ab
+ erta” da ATRP – Associação[..]\nhttps://www.portugalrunning.com/event
+ os/trail-rota-dos-peregrinos/
+URL:https://www.portugalrunning.com/eventos/trail-rota-dos-peregrinos/
+END:VEVENT
+END:VCALENDAR

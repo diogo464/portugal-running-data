@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf76144c
+DTSTAMP:20250720T222559Z
+DTSTART:20200611
+DTEND:20200612
+LOCATION:Serra da Estrela Serra da Estrela
+SUMMARY:Oh Meu Deus - Ultra Trail Serra da Estrela 2020
+DESCRIPTION:A Organização do Oh Meu Deus – Ultra Trail® – Serra da 
+ Estrela – 100 Milhas Portugal cabe à Horizontes Turismo Desportivo\,  co
+ m sede em Proença-a-Nova com os apoios institucionais da Câmara Municipal
+  de Seia e União das Freguesias de Seia\,  São Romão e Lapa dos Dinheiro
+ s. O Oh Meu Deus[..]\nhttps://www.portugalrunning.com/eventos/oh-meu-deus-u
+ ltra-trail-serra-da-estrela-2020/
+URL:https://www.portugalrunning.com/eventos/oh-meu-deus-ultra-trail-serra-da-estrela-2020/
+END:VEVENT
+END:VCALENDAR

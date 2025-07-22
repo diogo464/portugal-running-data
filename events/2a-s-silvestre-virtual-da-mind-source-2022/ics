@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0018918
+DTSTAMP:20250720T222152Z
+DTSTART:20221223
+DTEND:20221224
+LOCATION:Portugal Portugal
+SUMMARY:2ª S. Silvestre Virtual da Mind Source 2022
+DESCRIPTION:Corrida virtual\nhttps://www.portugalrunning.com/eventos/2a-s-s
+ ilvestre-virtual-da-mind-source-2022/
+URL:https://www.portugalrunning.com/eventos/2a-s-silvestre-virtual-da-mind-source-2022/
+END:VEVENT
+END:VCALENDAR

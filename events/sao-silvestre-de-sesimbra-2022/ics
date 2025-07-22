@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17f3aa9
+DTSTAMP:20250720T222631Z
+DTSTART:20221208
+DTEND:20221209
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:São Silvestre de Sesimbra 2022
+DESCRIPTION:A organização do São Silvestre de Sesimbra está ao cuidado 
+ da Associação LIMITED EDITON TEAM\,  com o apoio da Câmara Municipal de 
+ Sesimbra e diversos parceiros. A São Silvestre de Sesimbra terá um percur
+ so de 10 km\,  percorridos pela vila de Sesimbra e será a 8 de dezembro 20
+ 22 às[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-sesimb
+ ra-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-sesimbra-2022/
+END:VEVENT
+END:VCALENDAR

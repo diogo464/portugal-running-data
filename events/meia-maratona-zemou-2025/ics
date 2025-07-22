@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce4ac872
+DTSTAMP:20250720T222540Z
+DTSTART:20250920
+DTEND:20250921
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Meia Maratona Zemou 2025
+DESCRIPTION:Meia Maratona Zemou 2025\nhttps://www.portugalrunning.com/event
+ os/meia-maratona-zemou-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-zemou-2025/
+END:VEVENT
+END:VCALENDAR

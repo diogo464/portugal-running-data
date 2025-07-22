@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2162351
+DTSTAMP:20250720T222641Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Oliveira de Frades\,  Viseu Oliveira de Frades\,  Viseu
+SUMMARY:Sao Silvestre Oliveira de Frades 2023
+DESCRIPTION:A Associação Académica Santa Cruz\,  em parceria com o Munic
+ ípio\,  promove no próximo dia 17 de dezembro\,  a 1ª São Silvestre Oli
+ veira de Frades\,  cujo percurso\,  com cerca de 10 km\,  começa em Santa 
+ Cruz (Arcozelo das Maias) e termina em Oliveira de Frades. Existem duas op�
+ �ões de participação: corrida[..]\nhttps://www.portugalrunning.com/event
+ os/sao-silvestre-oliveira-de-frades-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-oliveira-de-frades-2023/
+END:VEVENT
+END:VCALENDAR

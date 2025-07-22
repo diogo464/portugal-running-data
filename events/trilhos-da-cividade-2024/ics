@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da23242d
+DTSTAMP:20250720T222850Z
+DTSTART:20241027
+DTEND:20241028
+LOCATION:Bagunte\,  Vila do Conde Bagunte\,  Vila do Conde
+SUMMARY:Trilhos da Cividade 2024
+DESCRIPTION:A segunda edição dos Trilhos da Cividade é um evento que con
+ siste em um trail curto\,  um trail longo e uma caminhada para dar a conhec
+ er as melhores paisagens que temos da nossa freguesia. percursos de tirar o
+  fôlego podemos ter a certeza que ninguém se vai arrepender de o[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trilhos-da-cividade-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-cividade-2024/
+END:VEVENT
+END:VCALENDAR

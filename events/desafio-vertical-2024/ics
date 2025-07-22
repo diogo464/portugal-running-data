@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8292bf8
+DTSTAMP:20250720T222402Z
+DTSTART:20240413
+DTEND:20240414
+LOCATION:São Miguel\,  Açores São Miguel\,  Açores
+SUMMARY:Desafio Vertical 0/947 2024
+DESCRIPTION:O&nbsp;Desafio Vertical (DV)&nbsp;é um evento de trail running
+  que surgiu através da ideia de um dos primeiros elementos da equipa\, &nb
+ sp;Carlos Figueiredo. Ele\,  em conjunto com a Câmara Municipal de Lagoa\,
+   decidiu organizar um evento que visava fomentar a atividade física e mos
+ trar alguns dos bonitos trilhos do concelho de Lagoa.[..]\nhttps://www.port
+ ugalrunning.com/eventos/desafio-vertical-2024/
+URL:https://www.portugalrunning.com/eventos/desafio-vertical-2024/
+END:VEVENT
+END:VCALENDAR

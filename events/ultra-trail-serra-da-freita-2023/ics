@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db71824a
+DTSTAMP:20250720T222911Z
+DTSTART:20230624
+DTEND:20230625
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Ultra Trail Serra da Freita 2023
+DESCRIPTION:A Confraria Trotamontes em parceria com a Câmara de Arouca vai
+  realizar a XVII Edição do UltraTrail Serra da Freita\,  que decorrerá a
+  24 e 25 de Junho\,  em Arouca. A XVII Edição do evento Ultra Trail Serra
+  da Freita será constituída por quatro provas:ELITE TRAIL SERRA DA FREITA
+  100KM[..]\nhttps://www.portugalrunning.com/eventos/ultra-trail-serra-da-fr
+ eita-2023/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-serra-da-freita-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c16010cd
+DTSTAMP:20250720T222214Z
+DTSTART:20240512
+DTEND:20240513
+LOCATION:Praia Fluvial de Alfusqueiro\,  Águeda Praia Fluvial de Alfusqueiro
+SUMMARY:Alfusqueiro Trail 2024
+DESCRIPTION:O Alfusqueiro Trail é a 4ª prova a contar para o Troféu de T
+ rail Terras de Águeda\,  da responsabilidade da Câmara Municipal de Águe
+ da. As provas de trail (25K e 15K) pontuarão para o referido troféu. Por 
+ sua vez\,  o mini trail de 10 km não conta para a pontuação[..]\nhttps:/
+ /www.portugalrunning.com/eventos/alfusqueiro-trail-2024/
+URL:https://www.portugalrunning.com/eventos/alfusqueiro-trail-2024/
+END:VEVENT
+END:VCALENDAR

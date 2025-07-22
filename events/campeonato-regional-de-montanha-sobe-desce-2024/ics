@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2a31cbb
+DTSTAMP:20250720T222234Z
+DTSTART:20240727T125100Z
+DTEND:20240727T125100Z
+LOCATION:Querença\,  Loulé Querença\,  Loulé
+SUMMARY:Campeonato Regional de Montanha (Sobe & Desce) 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/campeonato-regional-d
+ e-montanha-sobe-desce-2024/
+URL:https://www.portugalrunning.com/eventos/campeonato-regional-de-montanha-sobe-desce-2024/
+END:VEVENT
+END:VCALENDAR

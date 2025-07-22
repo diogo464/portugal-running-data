@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8c00b9e
+DTSTAMP:20250720T222828Z
+DTSTART:20220522
+DTEND:20220523
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail Serra das Flores 2022
+DESCRIPTION:O TSF – Trail Serra das Flores 2022\,  é um evento de trail-
+ running organizado pelo Medense Futebol Clube (MFC) e pela Sports 4 Life (S
+ 4L)\,  que decorre na Serra das Flores e montes adjacentes e que integra 3 
+ provas: TSF 21\,  MTSF 11 e CTSF 7\,  todas elas de formato[..]\nhttps://ww
+ w.portugalrunning.com/eventos/trail-serra-das-flores-2022/
+URL:https://www.portugalrunning.com/eventos/trail-serra-das-flores-2022/
+END:VEVENT
+END:VCALENDAR

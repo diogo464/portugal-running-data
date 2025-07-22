@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b4aaf9
+DTSTAMP:20250720T222251Z
+DTSTART:20220904
+DTEND:20220905
+LOCATION:Seixal Seixal
+SUMMARY:33ª Corrida da Festa do Avante 2022
+DESCRIPTION:Corrida da Festa do Avante 2022\nhttps://www.portugalrunning.co
+ m/eventos/corrida-da-festa-do-avante-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-festa-do-avante-2022/
+END:VEVENT
+END:VCALENDAR

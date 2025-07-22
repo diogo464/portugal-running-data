@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d13ab03d
+DTSTAMP:20250720T222627Z
+DTSTART:20191221
+DTEND:20191222
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:São Silvestre da Lourinhã
+DESCRIPTION:Localidade: Lourinhã (Praça José Máximo da Costa) Data: 21 
+ de Dezembro de 2019 Data lmite de Inscrições: 15 de Dezembro de 2019\nht
+ tps://www.portugalrunning.com/eventos/sao-silvestre-da-lourinha/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-lourinha/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d30630ed
+DTSTAMP:20250720T222656Z
+DTSTART:20250614
+DTEND:20250615
+LOCATION:Coimbra Coimbra
+SUMMARY:Summer Run Coimbra 2025
+DESCRIPTION:A Summer Run insere-se no Evento Multisport Weekend Coimbra 202
+ 5 que decorre em Coimbra entre os dias 14 e 15 de junho de 2025. Será cons
+ tituída por três distâncias\,  uma prova de 10km\,  a Meia Maratona\,  c
+ om 21\, 098km\,  e a Maratona com 42\, 195km\,  provas que decorrem sábado
+ \,  dia 14 de[..]\nhttps://www.portugalrunning.com/eventos/summer-run-coimb
+ ra-2025/
+URL:https://www.portugalrunning.com/eventos/summer-run-coimbra-2025/
+END:VEVENT
+END:VCALENDAR

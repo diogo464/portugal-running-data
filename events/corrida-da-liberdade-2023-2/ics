@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3e7a66d
+DTSTAMP:20250720T222254Z
+DTSTART:20230425
+DTEND:20230426
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida da Liberdade 2023
+DESCRIPTION:No dia 25 Abril\,  a alegria e a festa colectiva saem mais uma 
+ vez à rua. O desejo e o prazer da participação mantêm viva a “Corrida
+  da Liberdade“ e a sua simbologia\,  nesse dia em que saudamos os 49 anos
+  da Revolução dos Cravos. A PRAÇA dos RESTAURADORES irá[..]\nhttps://ww
+ w.portugalrunning.com/eventos/corrida-da-liberdade-2023-2/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-2023-2/
+END:VEVENT
+END:VCALENDAR

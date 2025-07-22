@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf80227f
+DTSTAMP:20250720T222144Z
+DTSTART:20221217
+DTEND:20221218
+LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+SUMMARY:1º São Silvestre União de Freguesias de Estremoz 2022
+DESCRIPTION:O São Silvestre União de Freguesias de Estremoz é um evento 
+ promovido pela União de Freguesias de Santa Maria e S. André e conta com 
+ o apoio da Camara Municipal de Estremoz\,  da Associação BTTMOZ – SDT e
+  da Associação Rota D’Ossa.No dia 17 de Dezembro de 2022 irá realizar-
+ se[..]\nhttps://www.portugalrunning.com/eventos/1o-sao-silvestre-uniao-de-f
+ reguesias-de-estremoz-2022/
+URL:https://www.portugalrunning.com/eventos/1o-sao-silvestre-uniao-de-freguesias-de-estremoz-2022/
+END:VEVENT
+END:VCALENDAR

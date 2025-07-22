@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c37318a4
+DTSTAMP:20250720T222247Z
+DTSTART:20250412T141600Z
+DTEND:20250412T141600Z
+LOCATION:Barrocas\,  Torres Vedras Barrocas\,  Torres Vedras
+SUMMARY:Corrida Barrocas Foz Azul 2025
+DESCRIPTION:Prepara-te para participar na corrida mais emocionante da tempo
+ rada!As inscrições para a Corrida Barrocas Foz Azul já estão abertas.N�
+ �o percas a oportunidade de correr num percurso deslumbrante e desafiador. 
+ Estão também abertas as inscrições para a caminhada\,  destinada a toda
+ s as idades e para aqueles que não pretendem alinhar na[..]\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-barrocas-foz-azul-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-barrocas-foz-azul-2025/
+END:VEVENT
+END:VCALENDAR

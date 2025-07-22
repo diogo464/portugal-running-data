@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8717c8f
+DTSTAMP:20250720T222407Z
+DTSTART:20221202
+DTEND:20221203
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:Epic Trail Azores 2022
+DESCRIPTION:O EPIC Trail Run Azores (7ª edição) é um evento certificado
+  pela Internacional Trail Run Association (ITRA) e pela Associação Trail 
+ Running Portugal (ATRP). É constituído por 4 provas e que tem por base a 
+ corrida em trilhos (trail running) e decorrerá entre os dias 01 e 04 de de
+ zembro[..]\nhttps://www.portugalrunning.com/eventos/epic-trail-azores-2022/
+URL:https://www.portugalrunning.com/eventos/epic-trail-azores-2022/
+END:VEVENT
+END:VCALENDAR

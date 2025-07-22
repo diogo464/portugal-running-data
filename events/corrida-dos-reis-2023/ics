@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b48f19
+DTSTAMP:20250720T222323Z
+DTSTART:20230107
+DTEND:20230108
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida dos Reis 2023
+DESCRIPTION:O PRIMEIRO PASSO PARA UM 2023 EM GRANDE FORMANo dia 7 de janeir
+ o\,  a Póvoa de Varzim será palco da V Grupo CCR Corrida dos Reis 2023. O
+  evento tem o selo de qualidade das organizações Bikeservice e será muit
+ o mais do que uma mera corrida. Com partida marcada para[..]\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-dos-reis-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-2023/
+END:VEVENT
+END:VCALENDAR

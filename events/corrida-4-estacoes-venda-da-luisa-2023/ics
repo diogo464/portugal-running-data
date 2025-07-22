@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3318861
+DTSTAMP:20250720T222243Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Venda da Luísa\,  Condeixa Venda da Luísa\,  Condeixa
+SUMMARY:Corrida 4 Estações\,  Venda da Luísa 2023
+DESCRIPTION:Numa co organização entre a Associação Desportiva 4 Est
+ ações e a Câmara Municipal de Condeixa\,  vai realizar no dia 29 de
+  outubro de 2023 pelas 10.30h na Venda da Luísa uma corrida de atle
+ tismo de estrada com a distância de 10k\,  designada por Corrida
+  das 4 Estações Outono. Esta prova faz parte do Circuito de C
+ orrida 4 Estações Portugal.\nhttps://www.portugalrunning.com/eventos/c
+ orrida-4-estacoes-venda-da-luisa-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-venda-da-luisa-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d193dd
+DTSTAMP:20250720T222741Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Trail Do Marco 2022
+DESCRIPTION:Trail Do Marco 2022\nhttps://www.portugalrunning.com/eventos/tr
+ ail-do-marco-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-marco-2022/
+END:VEVENT
+END:VCALENDAR

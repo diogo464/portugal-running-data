@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cba003e0
+DTSTAMP:20250720T222458Z
+DTSTART:20220508
+DTEND:20220509
+LOCATION:Parque Eduardo Sétimo\,  Lisboa Parque Eduardo Sétimo\,  Lisboa
+SUMMARY:Lisbon ECO Marathon 2022
+DESCRIPTION:Tendo em conta a evolução da situação e os dados oficiais r
+ elacionados com a pandemia de Covid-19 em Portugal e as medidas que foram a
+ nunciadas pelo Governo Português no passado dia 11 de Março\,  a organiza
+ ção da Lisbon Eco Marathon 2022\,  em conjunto com a CM de Lisboa\,  foi 
+ obrigada[..]\nhttps://www.portugalrunning.com/eventos/lisbon-eco-marathon-2
+ 022/
+URL:https://www.portugalrunning.com/eventos/lisbon-eco-marathon-2022/
+END:VEVENT
+END:VCALENDAR

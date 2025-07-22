@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6648b97
+DTSTAMP:20250720T222750Z
+DTSTART:20220109
+DTEND:20220110
+LOCATION:Beja Beja
+SUMMARY:Trail dos Reis 2022
+DESCRIPTION:O evento desportivo\,  Trail dos Reis 2022é promovido e organi
+ zado pelo DespertarSporting Clube\,  com o apoio da Camara Municipal de Bej
+ a e as uniões defreguesias de União de freguesias de Beja\,  Santiago Mai
+ or e São João Batista eSalvador e Santa Maria da Feira e destina-se a tod
+ os os cidadãos que[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-
+ reis-2022/
+URL:https://www.portugalrunning.com/eventos/trail-dos-reis-2022/
+END:VEVENT
+END:VCALENDAR

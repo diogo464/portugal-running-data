@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d96dcac2
+DTSTAMP:20250720T222838Z
+DTSTART:20231126
+DTEND:20231127
+LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+SUMMARY:Trail Vila de S. Torcato 2023
+DESCRIPTION:O TRAIL VILA DE S. TORCATO será realizado no dia 26 de novembr
+ o de 2023\,  sendo constituído por 3 eventos: Trail Longo com a distância
+  aproximada de 27km\,  ±1200 m de desnível positivo; Trail Curto com a di
+ stância aproximada de 17km\,  ±800 m de desnível positivo. Caminhada com
+  a distância[..]\nhttps://www.portugalrunning.com/eventos/trail-vila-de-s-
+ torcato-2023/
+URL:https://www.portugalrunning.com/eventos/trail-vila-de-s-torcato-2023/
+END:VEVENT
+END:VCALENDAR

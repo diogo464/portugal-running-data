@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c197974c
+DTSTAMP:20250720T222217Z
+DTSTART:20240922T082100Z
+DTEND:20240922T082100Z
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Aquae Brunheiro Trail Running 2024
+DESCRIPTION:O AQUAE BRUNHEIRO TRAIL RUNNING é uma prova de Trail Running\,
+   organizada pela Associação Lobos do Brunheiro de Chaves\,  com a colabo
+ ração do Município de Chaves\,  Associação de Atletismo de Vila Real e
+  Juntas de Freguesias. Este evento decorrerá no e 22 de setembro de 2024\,
+   com partida na aldeia[..]\nhttps://www.portugalrunning.com/eventos/aquae-
+ brunheiro-trail-running-2024/
+URL:https://www.portugalrunning.com/eventos/aquae-brunheiro-trail-running-2024/
+END:VEVENT
+END:VCALENDAR

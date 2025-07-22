@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2eaa6b9
+DTSTAMP:20250720T222238Z
+DTSTART:20231118
+DTEND:20231119
+LOCATION:Santa Catarina da Serra\,  Leiria Santa Catarina da Serra\,  Leiria
+SUMMARY:Chícharo Desportivo 2023
+DESCRIPTION:Integrado no Festival o Chícaro da Serra\,  realiza-se a 18 de
+  Novembro um evento de convívio sem cronometragem nem caráter competitivo
+ . 3 Percursos:&nbsp; Caminhada - 10 km Crosstrail curto - 15 km Crosstrail 
+ longo - 25 km\nhttps://www.portugalrunning.com/eventos/chicharo-desportivo-
+ 2023/
+URL:https://www.portugalrunning.com/eventos/chicharo-desportivo-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3879a5e
+DTSTAMP:20250720T222704Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Agroal\,  Ourém Agroal\,  Ourém
+SUMMARY:Trail Agroal 2023
+DESCRIPTION:A 1 a edição do Trail do Agroal é um evento desportivo de Tr
+ ail Running\,  constituído por 2 provas competitivas e uma caminhada\,  or
+ ganizada pela Liga dos Amigos da Secção da Freixianda\,  dos Bombeiros do
+ s Voluntários de Ourém\,  contando com a colaboração do Município de O
+ urém\,  da União das freguesias[..]\nhttps://www.portugalrunning.com/even
+ tos/trail-agroal-2023/
+URL:https://www.portugalrunning.com/eventos/trail-agroal-2023/
+END:VEVENT
+END:VCALENDAR

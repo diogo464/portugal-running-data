@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc84a6ac
+DTSTAMP:20250720T222512Z
+DTSTART:20211002
+DTEND:20211003
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Meia Maratona Água de Faro 2021
+DESCRIPTION:A Meia Maratona Água de Faro 2021 Edição Virtual é uma prov
+ a pedestre de cariz lúdico\,  organizada pela Fagar e pelo Município de F
+ aro\,  com o apoio técnico da Associação de Atletismo do Algarve.\nhttps
+ ://www.portugalrunning.com/eventos/meia-maratona-agua-de-faro-2021/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-agua-de-faro-2021/
+END:VEVENT
+END:VCALENDAR

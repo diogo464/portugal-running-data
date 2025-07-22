@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c03f41c0
+DTSTAMP:20250720T222155Z
+DTSTART:20221023
+DTEND:20221024
+LOCATION:Ourique\,  Beja Ourique\,  Beja
+SUMMARY:III Corrida MegaFitness 2022
+DESCRIPTION:O Município de Ourique em colaboração com o Ourique Desporto
+ s Clube\,  irá levar a efeito\,  no dia 23 de Outubro\,  Domingo\,  pelas 
+ 17:00h\,  a 3º Corrida MegaFitness.\nhttps://www.portugalrunning.com/event
+ os/3a-corrida-megafitness-2022/
+URL:https://www.portugalrunning.com/eventos/3a-corrida-megafitness-2022/
+END:VEVENT
+END:VCALENDAR

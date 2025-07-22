@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c65185c0
+DTSTAMP:20250720T222333Z
+DTSTART:20241027
+DTEND:20241028
+LOCATION:Ourique\,  Beja Ourique\,  Beja
+SUMMARY:Corrida Mega Fitness 2024
+DESCRIPTION:A secção de atletismo do Ourique Desportos Clube em colabora�
+ �ão com o Município de Ourique\,  irá levar a efeito\,  no dia 27 de Out
+ ubro\,  Domingo\,  pelas 10:00h\,  a 5ª Corrid MegaFitness.A caminhada/cor
+ rida do Megafitness é um evento desportivo de caráter lúdico e competiti
+ vo que tem por objetivo divulgar e promover[..]\nhttps://www.portugalrunnin
+ g.com/eventos/corrida-mega-fitness-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-mega-fitness-2024/
+END:VEVENT
+END:VCALENDAR

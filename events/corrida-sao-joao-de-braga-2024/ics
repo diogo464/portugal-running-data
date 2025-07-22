@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6a30b92
+DTSTAMP:20250720T222338Z
+DTSTART:20240630
+DTEND:20240701
+LOCATION:Braga Braga
+SUMMARY:Corrida São João Braga 2024
+DESCRIPTION:No mês mais popular do ano\,  não poderia faltar a Q8 corrida
+  de São João de Braga\,  dia 30 de junho de 2024\,  às 9h30\,  a Cidade 
+ de Braga espera encher as ruas de alegria e diversão com este grande event
+ o. Para além da corrida de 12 km haverá também[..]\nhttps://www.portugal
+ running.com/eventos/corrida-sao-joao-de-braga-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-joao-de-braga-2024/
+END:VEVENT
+END:VCALENDAR

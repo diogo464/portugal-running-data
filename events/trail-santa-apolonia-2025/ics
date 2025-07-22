@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8a7b218
+DTSTAMP:20250720T222826Z
+DTSTART:20250413T171600Z
+DTEND:20250413T235900Z
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Trail Santa Apolónia 2025
+DESCRIPTION:As provas irdo decorrer no dia 13 de abril de 2025 (
+ domingo) pelas 9h00. Começa no largo de Santa Apolónia na freguesi
+ a de Malta\,  concelho de Vila do Conde. De salientar que as pr
+ ovas nao se iniciam todas ao mesmo tempo. Existe um intervalo en
+ tre o Trail Longo\,  Trail Curto e a Caminhada de 10 min.\nhttps
+ ://www.portugalrunning.com/eventos/trail-santa-apolonia-2025/
+URL:https://www.portugalrunning.com/eventos/trail-santa-apolonia-2025/
+END:VEVENT
+END:VCALENDAR

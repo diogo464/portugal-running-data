@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3dbd40
+DTSTAMP:20250720T222507Z
+DTSTART:20230122
+DTEND:20230123
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Maratona do Funchal 2023
+DESCRIPTION:A Maratona do Funchal 2023 é organizada pela Associação de A
+ tletismo da Região Autónoma da Madeira com o apoio de instituições púb
+ licas e privadas. A organização oferece 3 distâncias aos participantes\,
+   a Maratona do Funchal com 42.195 metros\,  a Meia Maratona do Funchal com
+  21.097\, 50 metros\,  e a Mini Maratona[..]\nhttps://www.portugalrunning.c
+ om/eventos/maratona-do-funchal-2023/
+URL:https://www.portugalrunning.com/eventos/maratona-do-funchal-2023/
+END:VEVENT
+END:VCALENDAR

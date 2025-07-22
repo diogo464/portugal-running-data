@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d48f3d8a
+DTSTAMP:20250720T222720Z
+DTSTART:20231125
+DTEND:20231126
+LOCATION:Zambujal\,  Condeixa-a-Nova Zambujal\,  Condeixa-a-Nova
+SUMMARY:Trail da Escarpiada 2023
+DESCRIPTION:A ARCD Venda da Luísa vai realizar no dia 25 de novembro de 20
+ 23 o III Trail da Escarpiada. A prova terá partida e chegada junto à Asso
+ ciação da aldeia do Casmilo\,  concelho de Condeixa-a-Nova e percorrerá 
+ a Serra de Sicó nas freguesias do Zambujal e do Furadouro. Terá 3[..]\nht
+ tps://www.portugalrunning.com/eventos/trail-da-escarpiada-2023/
+URL:https://www.portugalrunning.com/eventos/trail-da-escarpiada-2023/
+END:VEVENT
+END:VCALENDAR

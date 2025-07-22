@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd700583
+DTSTAMP:20250720T222527Z
+DTSTART:20230311
+DTEND:20230312
+LOCATION:Porto Santo\,  Madeira Porto Santo\,  Madeira
+SUMMARY:Meia-Maratona do Porto Santo 2023
+DESCRIPTION:A Meia Maratona do Porto Santo é a prova que designa os atleta
+ s campeões regionais absolutos e dos vários escalões de veteranos da Mei
+ a Maratona e também os clubes campeões regionais coletivos. A participaç
+ ão nestas provas obriga a uma inscrição prévia até ao dia 26 de fevere
+ iro.a. Mini Maratona do[..]\nhttps://www.portugalrunning.com/eventos/meia-m
+ aratona-do-porto-santo-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-porto-santo-2023/
+END:VEVENT
+END:VCALENDAR

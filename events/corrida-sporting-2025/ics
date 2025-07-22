@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c74018fa
+DTSTAMP:20250720T222348Z
+DTSTART:20251116
+DTEND:20251117
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Sporting 2025
+DESCRIPTION:A Corrida Sporting regressa a 16 novembro de 2025\,  para um fi
+ m-de-semana de muito desporto entre pessoas de todas as idades. O evento é
+  promovido pela Fundação Sporting.\nhttps://www.portugalrunning.com/event
+ os/corrida-sporting-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-sporting-2025/
+END:VEVENT
+END:VCALENDAR

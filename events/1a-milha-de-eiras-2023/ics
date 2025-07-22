@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf7dc640
+DTSTAMP:20250720T222143Z
+DTSTART:20230408
+DTEND:20230409
+LOCATION:Eiras\,  Coimbra Eiras\,  Coimbra
+SUMMARY:1ª Milha de Eiras 2023
+DESCRIPTION:Para todos os Eirenses\,  amantes das corridas e demais interes
+ sados: estão todos convocados para a 𝑰 𝑴𝑰𝑳𝑯𝑨 𝑼𝑹�
+ �𝑨𝑵𝑨 𝑫𝑬 𝑬𝑰𝑹𝑨𝑺.\nhttps://www.portugalrunning.c
+ om/eventos/1a-milha-de-eiras-2023/
+URL:https://www.portugalrunning.com/eventos/1a-milha-de-eiras-2023/
+END:VEVENT
+END:VCALENDAR

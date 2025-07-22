@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf449d28
+DTSTAMP:20250720T222140Z
+DTSTART:20200111
+DTEND:20200112
+LOCATION:Moita Moita\,  Setúbal
+SUMMARY:16ª Corrida dos Reis 2020
+DESCRIPTION:A Câmara Municipal da Moita e a União de Freguesias do Gaio-R
+ osário e Sarilhos Pequenos\,  estão a organizar no próximo dia 11 de Jan
+ eiro de 2019 pelas 15h\,  a 16ª Corrida dos Reis integrada no Torneio das 
+ Coletividades do Município da Moita em Atletismo – ATLETISMOITA. Podem p
+ articipar nestas Provas[..]\nhttps://www.portugalrunning.com/eventos/16a-co
+ rrida-dos-reis-2020/
+URL:https://www.portugalrunning.com/eventos/16a-corrida-dos-reis-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1d49777
+DTSTAMP:20250720T222221Z
+DTSTART:20251005
+DTEND:20251006
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Argon Run 2025
+DESCRIPTION:Esta é uma prova que faz parte do calendário do município de
+  Santa Maria da Feira\,  com partida e chegada na sede da Casa da Gaia.\nht
+ tps://www.portugalrunning.com/eventos/argon-trail-2025/
+URL:https://www.portugalrunning.com/eventos/argon-trail-2025/
+END:VEVENT
+END:VCALENDAR

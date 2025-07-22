@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da2636e8
+DTSTAMP:20250720T222850Z
+DTSTART:20240616
+DTEND:20240617
+LOCATION:Casal Vasco\,  Guarda Casal Vasco\,  Guarda
+SUMMARY:Trilhos das Terras do Vasco 2024
+DESCRIPTION:O ” TRILHOS DAS TERRAS DO VASCO” é uma corrida de montanha
+ \,  organizada pela “AVCATAssociação Vila Chã Aldeia Trail de Portugal
+ ” a realizar no dia 16 de junho de 2024\,  no Casal Vasco – Fornos de A
+ lgodres. Este trail faz parte da 3ª edição do Circuito Municipal de Corr
+ ida de[..]\nhttps://www.portugalrunning.com/eventos/trilhos-das-ovelhas-neg
+ ras-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-das-ovelhas-negras-2024/
+END:VEVENT
+END:VCALENDAR

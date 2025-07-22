@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cabdb90b
+DTSTAMP:20250720T222443Z
+DTSTART:20231021
+DTEND:20231022
+LOCATION:Cabeção\,  Mora Cabeção\,  Mora
+SUMMARY:Ii Trail Puro Aço 2023
+DESCRIPTION:O Trail Puro Aço é um evento de trail-running que percorre te
+ rritório da Freguesia de Cabeção no concelho de Mora e tem o objetivo da
+ r a conhecer aos participantes a freguesia de Cabeção\,  as sua gentes e 
+ tradições este ano como tema principal a vinha\,  o vinho e as famosas[..
+ ]\nhttps://www.portugalrunning.com/eventos/ii-trail-puro-aco-2023/
+URL:https://www.portugalrunning.com/eventos/ii-trail-puro-aco-2023/
+END:VEVENT
+END:VCALENDAR

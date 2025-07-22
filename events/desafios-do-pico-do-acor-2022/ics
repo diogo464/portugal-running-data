@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e495b5
+DTSTAMP:20250720T222358Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Arganil\,  Coimbra Arganil\,  Coimbra
+SUMMARY:Desafios do Pico do Açor 2022
+DESCRIPTION:O Desafio Picos do Açor 2022 é organizado pela Evolução Ver
+ tical. Conta ainda com a colaboração da Câmara Municipal de Arganil e da
+ s Juntas de Freguesia de Arganil e Folques.A Evolução Vertical é uma ent
+ idade\,  que tem como principal objetivo promover e desenvolver atividades 
+ desportivas de aventura associadas à natureza.[..]\nhttps://www.portugalru
+ nning.com/eventos/desafios-do-pico-do-acor-2022/
+URL:https://www.portugalrunning.com/eventos/desafios-do-pico-do-acor-2022/
+END:VEVENT
+END:VCALENDAR

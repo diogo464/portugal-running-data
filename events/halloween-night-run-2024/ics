@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca44a897
+DTSTAMP:20250720T222436Z
+DTSTART:20241031
+DTEND:20241101
+LOCATION:Estádio Universitário de Lisboa\,  Lisboa Estádio Universitário de Lisboa\,  Lisboa
+SUMMARY:Halloween Night Run 2024
+DESCRIPTION:o dia 31 de Outubro de 2024\,  o Estádio Universitário de Lis
+ boa será\,  uma vez mais\,  o palco para a 9ª Halloween Night Run! Mascar
+ a-te a rigor\,  corre o mais rápido que puderes e foge dos ZOMBIES que vã
+ o CORRER atrás de ti!\nhttps://www.portugalrunning.com/eventos/halloween-n
+ ight-run-2024/
+URL:https://www.portugalrunning.com/eventos/halloween-night-run-2024/
+END:VEVENT
+END:VCALENDAR

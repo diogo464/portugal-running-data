@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdd48db3
+DTSTAMP:20250720T222533Z
+DTSTART:20220911
+DTEND:20220912
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:Meia Maratona na Areia Analice Silva 2022
+DESCRIPTION:13ª Edição da Meia Maratona na Areia Analice Silva 2022 em a
+ reia mais antiga do País. Para além da Meia Maratona\,  uma prova e uma c
+ aminhada de 10 km\nhttps://www.portugalrunning.com/eventos/meia-maratona-na
+ -areia-analice-silva-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-na-areia-analice-silva-2022/
+END:VEVENT
+END:VCALENDAR

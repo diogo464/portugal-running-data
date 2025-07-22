@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c10f3a6f
+DTSTAMP:20250720T222208Z
+DTSTART:20230129
+DTEND:20230130
+LOCATION:Torres Vedras Torres Vedras
+SUMMARY:7º TRSA - Trail Run Socorro e Archeira 2023
+DESCRIPTION:O TURRES TRAIL CLUBE \,  com o apoio da Câmara Municipal de To
+ rres Vedras\,  junta de freguesia do Turcifal e APPLSSA - Área de paisagem
+  protegida Local da serra do Socorro e Archeira vai realizar no próximo di
+ a 29 de Janeiro de 2023\,  um evento denominado " 7º TRAIL RUN[..]\nhttps:
+ //www.portugalrunning.com/eventos/7o-trsa-trail-run-socorro-e-archeira-2023
+ /
+URL:https://www.portugalrunning.com/eventos/7o-trsa-trail-run-socorro-e-archeira-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dab18fc1
+DTSTAMP:20250720T222859Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Paço\,  Lourinhã Paço\,  Lourinhã
+SUMMARY:Trilhos D. Pedro e D. Inês 2024
+DESCRIPTION:A prova será no dia 3 de Novembro na localidade do Paço ( Pen
+ iche /Lourinhã) e é composto por: Um trail Kids Uma distância média de 
+ cerca de 20/21 Km Uma distância curta de cerca de 14 Km. Caminhada\nhttps:
+ //www.portugalrunning.com/eventos/trilhos-d-pedro-e-d-ines-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-d-pedro-e-d-ines-2024/
+END:VEVENT
+END:VCALENDAR

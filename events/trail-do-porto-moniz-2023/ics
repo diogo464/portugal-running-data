@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5e4acf6
+DTSTAMP:20250720T222742Z
+DTSTART:20230212
+DTEND:20230213
+LOCATION:Porto Moniz\,  Ilha da Madeira Porto Moniz\,  Ilha da Madeira
+SUMMARY:Trail do Porto Moniz 2023
+DESCRIPTION:O Clube de Montanha do Funchal é a associação organizadora d
+ o evento denominado Trail do Porto Moniz\,  que decorrerá no dia 12 de fev
+ ereiro de 2023 no Concelho do Porto Moniz na Ilha da Madeira. Devido a raz�
+ �es de logística o evento Trail do Porto Moniz é limitado a cerca[..]\nht
+ tps://www.portugalrunning.com/eventos/trail-do-porto-moniz-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-porto-moniz-2023/
+END:VEVENT
+END:VCALENDAR

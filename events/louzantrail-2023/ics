@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbb0102b
+DTSTAMP:20250720T222459Z
+DTSTART:20230304
+DTEND:20230305
+LOCATION:Lousã\,  Coimbra Lousã\,  Coimbra
+SUMMARY:LouzanTrail 2023
+DESCRIPTION:Montanha Clube\,  Secção de Trail Running\,  é a entidade or
+ ganizadora do evento Louzantrail\,  que decorrerá nos dias 3\,  4 e 5 de m
+ arço de 2023 na Vila da Lousã\,  independentemente das condições climat
+ éricas do dia\,  desde que a organização entenda que estas não ofereça
+ m riscos aos participantes.\nhttps://www.portugalrunning.com/eventos/louzan
+ trail-2023/
+URL:https://www.portugalrunning.com/eventos/louzantrail-2023/
+END:VEVENT
+END:VCALENDAR

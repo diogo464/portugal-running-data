@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d347aac4
+DTSTAMP:20250720T222700Z
+DTSTART:20220313
+DTEND:20220314
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Terras do Ancião Ultra Trail 2022
+DESCRIPTION:TAUT – Terras do Ancião Ultra Trail 2022 é organizado pela 
+ associação ANSIBIKERS - Associação Praticantes de BTT.O TAUT – É um 
+ evento desportivo de carater lúdico e competitivo que tem por objetivo div
+ ulgar e promover não só a prática desportiva\,  em especial na modalidad
+ e de trail running\,  mas também[..]\nhttps://www.portugalrunning.com/even
+ tos/terras-do-anciao-ultra-trail-2022/
+URL:https://www.portugalrunning.com/eventos/terras-do-anciao-ultra-trail-2022/
+END:VEVENT
+END:VCALENDAR

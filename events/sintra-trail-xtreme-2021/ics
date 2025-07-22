@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2baca4a
+DTSTAMP:20250720T222651Z
+DTSTART:20210919
+DTEND:20210920
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Sintra Trail X'treme 2021
+DESCRIPTION:Sintra Trail X'treme 2021\nhttps://www.portugalrunning.com/even
+ tos/sintra-trail-xtreme-2021/
+URL:https://www.portugalrunning.com/eventos/sintra-trail-xtreme-2021/
+END:VEVENT
+END:VCALENDAR

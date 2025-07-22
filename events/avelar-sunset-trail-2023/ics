@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1dc48ad
+DTSTAMP:20250720T222221Z
+DTSTART:20230624
+DTEND:20230625
+LOCATION:Avelar\,  Ansião Avelar\,  Ansião
+SUMMARY:Avelar Sunset Trail 2023
+DESCRIPTION:O Avelar Sunset Trail 2023\,  sob organização da Junta de Fre
+ guesia de Avelar\,  pretende confirmar-se como uma prova de desporto e laze
+ r\,  com carácter competitivo\,  na vertente de corrida [trail running]\, 
+  a realizar por percursos e trilhos integrados no seu território e fregues
+ ias contiguas. A quarta edição realiza-se a 24[..]\nhttps://www.portugalr
+ unning.com/eventos/avelar-sunset-trail-2023/
+URL:https://www.portugalrunning.com/eventos/avelar-sunset-trail-2023/
+END:VEVENT
+END:VCALENDAR

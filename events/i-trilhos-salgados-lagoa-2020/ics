@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6caf313f7
+DTSTAMP:20250720T222447Z
+DTSTART:20200126
+DTEND:20200127
+LOCATION:Lagoa Lagoa\,  Faro
+SUMMARY:I Trilhos Salgados - Lagoa 2020
+DESCRIPTION:I Trilhos Salgados - Lagoa 2020\nhttps://www.portugalrunning.co
+ m/eventos/i-trilhos-salgados-lagoa-2020/
+URL:https://www.portugalrunning.com/eventos/i-trilhos-salgados-lagoa-2020/
+END:VEVENT
+END:VCALENDAR

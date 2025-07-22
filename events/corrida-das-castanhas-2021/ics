@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c444a693
+DTSTAMP:20250720T222300Z
+DTSTART:20211114
+DTEND:20211115
+LOCATION:Ajuda\,  Lisboa Ajuda\,  Lisboa
+SUMMARY:Corrida das Castanhas 2021
+DESCRIPTION:Resultados A 10ª edição da Corrida das Castanhas 2021\,  pro
+ porcionará a todos os participantes de corrida e caminhada\,  uma manhã d
+ iferente\, &nbsp;acompanhada de um convívio final com oferta de castanhas 
+ e água-pé.\nhttps://www.portugalrunning.com/eventos/corrida-das-castanhas
+ -2021/
+URL:https://www.portugalrunning.com/eventos/corrida-das-castanhas-2021/
+END:VEVENT
+END:VCALENDAR

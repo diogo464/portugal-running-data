@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69c3c26
+DTSTAMP:20250720T222337Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Oliveira do Douro\,  Vila Nova de Gaia Oliveira do Douro\,  Vila Nova de Gaia
+SUMMARY:Corrida Praia do Areinho 2023
+DESCRIPTION:A Corrida da Praia do Areinho realiza-se no dia 24 de setembro
+  de 2023 pelas 10h00\,  a prova começa e acaba junto à Praia do Areinho\
+ ,  o tempo máximo de duração desta prova é de 2 horas. Corrida da Praia
+  do Areinho – Duas voltas de 5 KmPartida e Chegada – Rua[..]\nhttps://w
+ ww.portugalrunning.com/eventos/corrida-praia-do-areinho-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-praia-do-areinho-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc4629a3
+DTSTAMP:20250720T222508Z
+DTSTART:20250223
+DTEND:20250224
+LOCATION:Sevilha\,  Espanha Sevilha\,  Espanha
+SUMMARY:Maratona de Sevilha 2025
+DESCRIPTION:A Maratona de Sevilha 2025 realiza-se a 23 de fevereiro de 2025
+  e é organizada pelo Instituto Municipal de Deportes del Ayuntamiento de S
+ evilla.\nhttps://www.portugalrunning.com/eventos/maratona-de-sevilha-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-de-sevilha-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da9aa554
+DTSTAMP:20250720T222857Z
+DTSTART:20220327
+DTEND:20220328
+LOCATION:Batalha\,  Leiria Batalha\,  Leiria
+SUMMARY:Trilhos do Pastor 2022
+DESCRIPTION:Trilhos do Pastor 2022\nhttps://www.portugalrunning.com/eventos
+ /trilhos-do-pastor-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-pastor-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2ec2d87
+DTSTAMP:20250720T222238Z
+DTSTART:20200628
+DTEND:20200629
+LOCATION:Bombarral Bombarral\,  Leiria
+SUMMARY:Columbeira TRAIL RUN
+DESCRIPTION:O TURRES TRAIL CLUBE juntamente com o PENHAS TRAIL TEAM \,  e o
+  apoio da Câmara Municipal do Bombarral e junta de freguesia da Roliça \,
+   vai realizar no próximo dia 15 de Março de 2020 \,  pelas 9:00 horas\, 
+  um evento denominado " 4º edição COLUMBEIRA TRAIL RUN ".[..]\nhttps://w
+ ww.portugalrunning.com/eventos/columbeira-trail-run/
+URL:https://www.portugalrunning.com/eventos/columbeira-trail-run/
+END:VEVENT
+END:VCALENDAR

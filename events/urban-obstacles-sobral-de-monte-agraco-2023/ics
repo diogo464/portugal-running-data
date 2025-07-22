@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db848e43
+DTSTAMP:20250720T222912Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Sobral de Monte Agraço\,  Lisboa Sobral de Monte Agraço\,  Lisboa
+SUMMARY:Urban Obstacles Sobral de Monte Agraço 2023
+DESCRIPTION:Dia 29 de Outubro de 2023 a Urban Obstacles regressa ao Sobral 
+ de Monte Agraço para mais uma edição\,  num um percurso desafiante de 10
+  km que vai colocar as tuas capacidades à prova. A cerca de 30 min. de dis
+ tância de Lisboa e a 20 min. de Torres Vedras\, [..]\nhttps://www.portugal
+ running.com/eventos/urban-obstacles-sobral-de-monte-agraco-2023/
+URL:https://www.portugalrunning.com/eventos/urban-obstacles-sobral-de-monte-agraco-2023/
+END:VEVENT
+END:VCALENDAR

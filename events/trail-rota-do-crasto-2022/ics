@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d861824b
+DTSTAMP:20250720T222822Z
+DTSTART:20220123
+DTEND:20220124
+LOCATION:Serra do Crasto\,  Viseu Serra do Crasto\,  Viseu
+SUMMARY:Trail Rota do Crasto 2022
+DESCRIPTION:Trail Rota do Crasto 2022\,  é uma iniciativa da Associação 
+ Social\,  Desportiva\,  Recreativa\,  Educativa e Cultural de Quintela de O
+ rgens\,  ASDREQ. Todos os percursos terão como passagem os belos trilhos d
+ a Serra do Crasto.\nhttps://www.portugalrunning.com/eventos/trail-rota-do-c
+ rasto-2022/
+URL:https://www.portugalrunning.com/eventos/trail-rota-do-crasto-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb2f39cf
+DTSTAMP:20250720T222450Z
+DTSTART:20220610
+DTEND:20220611
+LOCATION:Vouzela\,  Viseu Vouzela\,  Viseu
+SUMMARY:Lafões Epic Challenge 2022
+DESCRIPTION:Lafões Epic Challenge 2022\nhttps://www.portugalrunning.com/ev
+ entos/lafoes-epic-challenge-2022/
+URL:https://www.portugalrunning.com/eventos/lafoes-epic-challenge-2022/
+END:VEVENT
+END:VCALENDAR

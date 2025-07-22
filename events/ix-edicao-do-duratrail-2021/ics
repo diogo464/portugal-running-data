@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb0dcdd7
+DTSTAMP:20250720T222448Z
+DTSTART:20211009
+DTEND:20211010
+LOCATION:Setúbal Setúbal
+SUMMARY:IX edição do DURATRAIL 2021
+DESCRIPTION:Inscrições em breve! Estejam atentos!\nhttps://www.portugalru
+ nning.com/eventos/ix-edicao-do-duratrail-2021/
+URL:https://www.portugalrunning.com/eventos/ix-edicao-do-duratrail-2021/
+END:VEVENT
+END:VCALENDAR

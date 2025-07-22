@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c49013da
+DTSTAMP:20250720T222305Z
+DTSTART:20250202T142900Z
+DTEND:20250202T235900Z
+LOCATION:Vila Nova de Cerveira\,  Viana do Castelo Vila Nova de Cerveira\,  Viana do Castelo
+SUMMARY:Corrida de Reis – Troféu Ponte Da Amizade 2025
+DESCRIPTION:A CORRIDA DE REIS – TROFÉU PONTE DA AMIZADE\,  é um evento
+  desportivo promovido pela Eurocidade Cerveira-Tomiño\,  em colaboração 
+ com a Pedal’Arte de Vila Nova de Cerveira e a Sociedade Atlética do Treg
+ a de Tomiño.\nhttps://www.portugalrunning.com/eventos/corrida-de-reis-trof
+ eu-ponte-da-amizade-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-reis-trofeu-ponte-da-amizade-2025/
+END:VEVENT
+END:VCALENDAR

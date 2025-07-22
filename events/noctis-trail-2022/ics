@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf232193
+DTSTAMP:20250720T222554Z
+DTSTART:20221203
+DTEND:20221204
+LOCATION:Águeda\,  Leiria Águeda\,  Leiria
+SUMMARY:Noctis Trail 22
+DESCRIPTION:Noctis Traill é um evento desportivo\,  em terceira edição\,
+   nas vertentes de Trail e Caminhada\,  a realizar no dia 3 de dezembro de 
+ 2022\,  com partida às 17:00h no Instituto Duarte de Lemos\,  situado em T
+ rofa do Vouga. É organizado pela empresa PORTA.ABERTA.EVENTS com o apoio d
+ o Instituto Duarte de[..]\nhttps://www.portugalrunning.com/eventos/noctis-t
+ rail-2022/
+URL:https://www.portugalrunning.com/eventos/noctis-trail-2022/
+END:VEVENT
+END:VCALENDAR

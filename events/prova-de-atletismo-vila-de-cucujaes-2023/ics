@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007b1d3
+DTSTAMP:20250720T222608Z
+DTSTART:20230730
+DTEND:20230731
+LOCATION:Cucujães\,  Oliveira de Azeméis Cucujães\,  Oliveira de Azeméis
+SUMMARY:Prova de Atletismo Vila de Cucujães 2023
+DESCRIPTION:Cucujães volta a acolher uma prova de atletismo\,  pelo seu cl
+ ube local\,  para todas as idades. Uma manhã repleta de animação na vila
+ \,  onde a vertente competitiva também terá lugar na prova principal.\nht
+ tps://www.portugalrunning.com/eventos/prova-de-atletismo-vila-de-cucujaes-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/prova-de-atletismo-vila-de-cucujaes-2023/
+END:VEVENT
+END:VCALENDAR

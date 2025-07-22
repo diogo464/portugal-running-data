@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4d18c27
+DTSTAMP:20250720T222725Z
+DTSTART:20240303
+DTEND:20240304
+LOCATION:São João da Pesqueira\,  Viseu São João da Pesqueira
+SUMMARY:Trail das Amendoeiras 2024
+DESCRIPTION:Na sua terceira edição os participantes poderão desafiar-se 
+ pelos trilhos do Vale do Douro numa viagem que também os levará pela hist
+ ória remota de Portugal\,  pelas paisagens e sabores da região e os fará
+  experienciar o calor e o bem receber das gentes da Região do Douro.\nhttp
+ s://www.portugalrunning.com/eventos/trail-das-amendoeiras-2024/
+URL:https://www.portugalrunning.com/eventos/trail-das-amendoeiras-2024/
+END:VEVENT
+END:VCALENDAR

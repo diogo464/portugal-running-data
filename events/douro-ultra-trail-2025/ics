@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c82b543e
+DTSTAMP:20250720T222402Z
+DTSTART:20251003
+DTEND:20251004
+LOCATION:Peso da Régua\,  Vila Real Peso da Régua\,  Vila Real
+SUMMARY:Douro Ultra Trail 2025
+DESCRIPTION:A Nexplore Lda. é a entidade organizadora do evento denominado
+  DOURO ULTRA TRAIL®\,  deagora em diante designado DUT\,  que decorrerá n
+ os dias 3 e 4 de Outubro de 2025. O DUT é um evento de Trail Running que i
+ ntegra quatro provas:ULTRA TRAIL ENDURANCETRAIL LONGOTRAIL TRAIL CURTO\nhtt
+ ps://www.portugalrunning.com/eventos/douro-ultra-trail-2025/
+URL:https://www.portugalrunning.com/eventos/douro-ultra-trail-2025/
+END:VEVENT
+END:VCALENDAR

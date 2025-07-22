@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbf01b68
+DTSTAMP:20250720T222503Z
+DTSTART:20250921
+DTEND:20250922
+LOCATION:Berlim\,  Alemanha Berlim\,  Alemanha
+SUMMARY:Maratona de Berlim 2025
+DESCRIPTION:A Maratona de Berlim\,  conhecida como "Berlin Marathon\, " oco
+ rre a 21 de Setembro de 2025. A primeira edição da maratona foi realizada
+  em 1974\,  e desde então\,  tornou-se uma das maratonas mais icónicas e 
+ procuradas pelos corredores de elite e amadores. A Maratona de Berlim é fa
+ mosa por seu percurso[..]\nhttps://www.portugalrunning.com/eventos/maratona
+ -de-berlim-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-de-berlim-2025/
+END:VEVENT
+END:VCALENDAR

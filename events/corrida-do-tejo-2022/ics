@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5c92c8a
+DTSTAMP:20250720T222324Z
+DTSTART:20220918
+DTEND:20220919
+LOCATION:Algés\,  Oeiras Algés\,  Oeiras
+SUMMARY:Corrida do Tejo 2022
+DESCRIPTION:No dia 18 de setembro de 2022\,  o Município de Oeiras irá re
+ tomar a organização habitual da Corrida do Tejo 2022\,  com duas vagas de
+  partida\,  às 09h00 e às 10h00\,  à escolha dos participantes.&nbsp;Sob
+  o lema “Leva Oeiras contigo”\,  a 41ª Corrida do Tejo continuará a a
+ proveitar os 10[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-tej
+ o-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-tejo-2022/
+END:VEVENT
+END:VCALENDAR

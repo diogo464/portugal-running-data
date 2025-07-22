@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4448a7e
+DTSTAMP:20250720T222300Z
+DTSTART:20211005
+DTEND:20211006
+LOCATION:Rio Tinto\,  Gondomar Rio Tinto\,  Gondomar
+SUMMARY:Corrida da República 2021
+DESCRIPTION:A EventSport/Status Marathon e a Junta de Freguesia de Rio T
+ into organizam a 7ª edição da Corrida da República 2021 que tem a fin
+ alidade de estimular a prática desportiva como elemento da promoção da s
+ aúde e da qualidade de vida. Realiza-se no dia 5 de Outubro 2021\,  com i
+ nício às 10h00\,  com o tempo máximo de duração da[..]\nhttps://www.
+ portugalrunning.com/eventos/corrida-da-republica-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-da-republica-2021/
+END:VEVENT
+END:VCALENDAR

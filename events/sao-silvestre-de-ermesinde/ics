@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17317d6
+DTSTAMP:20250720T222631Z
+DTSTART:20191227
+DTEND:20191228
+LOCATION:Ermesinde\,  Porto Ermesinde\,  Porto
+SUMMARY:São Silvestre de Ermesinde
+DESCRIPTION:A Junta da Freguesia de Ermesinde\,  em coorganização com a C
+ âmara Municipal de Valongo e a CandiByke Associação de Ciclismo\,  vai r
+ ealizar a IV CORRIDA SÃO SILVESTRE de ERMESINDE\,  no próximo dia 27 de d
+ ezembro\,  pelas 21h00. A referida iniciativa contará com uma corrida de 1
+ 0Km e uma caminhada de[..]\nhttps://www.portugalrunning.com/eventos/sao-sil
+ vestre-de-ermesinde/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-ermesinde/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc49948
+DTSTAMP:20250720T222148Z
+DTSTART:20220409
+DTEND:20220410
+LOCATION:Mem Martins Mem Martins\,  Sintra
+SUMMARY:24 Horas a Correr de Mem Martins – Sintra 2022
+DESCRIPTION:A 24 Horas a Correr de Mem Martins – Sintra\,  é uma de corr
+ ida de resistência\,  que se realizará em Mem Martins – Sintra\,  e que
+  será composta por uma corrida de longa duração. Para além da corrida d
+ e 24 horas tem outras opções\,  12\,  6 e 3 horas e[..]\nhttps://www.port
+ ugalrunning.com/eventos/24-horas-a-correr-de-mem-martins-sintra-2022/
+URL:https://www.portugalrunning.com/eventos/24-horas-a-correr-de-mem-martins-sintra-2022/
+END:VEVENT
+END:VCALENDAR

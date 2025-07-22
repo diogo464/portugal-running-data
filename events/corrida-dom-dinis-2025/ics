@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c574a64a
+DTSTAMP:20250720T222319Z
+DTSTART:20250608
+DTEND:20250609
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:Corrida Dom Dinis 2025
+DESCRIPTION:A Câmara Municipal de Odivelas\,  com a colaboração do Centr
+ o de Marcha e Corrida de Odivelas e dos Bombeiros Voluntários de Odivelas\
+ ,  promove no próximo dia 08 de Junho de 2025\,  pelas 09h30\,  a prova d
+ e atletismo Corrida Dom Dinis\,  que este ano assinala o 7º centenário d
+ a morte do Rei D.[..]\nhttps://www.portugalrunning.com/eventos/corrida-dom-
+ dinis-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-dom-dinis-2025/
+END:VEVENT
+END:VCALENDAR

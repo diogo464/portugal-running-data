@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbb64ee7
+DTSTAMP:20250720T222459Z
+DTSTART:20250223
+DTEND:20250224
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:Lusíadas G.P. do Atlântico – Serafim Martins 2025
+DESCRIPTION:A mítica corrida “Lusíadas G.P. do Atlântico” será real
+ izada no dia 23 de fevereiro de 2025. Percorre as principais ruas da Cos
+ ta de Caparica e o fantástico paredão\,  junto às praias.\nhttps://www.p
+ ortugalrunning.com/eventos/lusiadas-g-p-do-atlantico-serafim-martins-2025/
+URL:https://www.portugalrunning.com/eventos/lusiadas-g-p-do-atlantico-serafim-martins-2025/
+END:VEVENT
+END:VCALENDAR

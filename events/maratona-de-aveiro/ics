@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbf496cd
+DTSTAMP:20250720T222503Z
+DTSTART:20200426
+DTEND:20200427
+LOCATION:Aveiro Aveiro
+SUMMARY:Maratona de Aveiro 2020
+DESCRIPTION:Batizada pelos atletas como “A Maratona das Mil Emoções” 
+ e depois pelo sucesso da primeira edição\,  uma maratona inaugural mais p
+ articipada em Portugal\,  estamos empenhados na preparação para a ediçã
+ o de 2020\,  convictos que nos ajudam a continuar a surpreender com as novi
+ dades e uma Organização que deixa a Europa[..]\nhttps://www.portugalrunni
+ ng.com/eventos/maratona-de-aveiro/
+URL:https://www.portugalrunning.com/eventos/maratona-de-aveiro/
+END:VEVENT
+END:VCALENDAR

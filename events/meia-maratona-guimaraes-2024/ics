@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdbdcb7b
+DTSTAMP:20250720T222531Z
+DTSTART:20241005
+DTEND:20241006
+LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+SUMMARY:Meia Maratona Guimarães 2024
+DESCRIPTION:A Meia Maratona Cidade Berço é um evento que se vai realizar 
+ no dia de 05 de Outubro em Guimarães. Inscreve-te nas diferentes provas ou
+  participa com voluntário na organização. Um novo conceito com uma verte
+ nte solidária e sustentável.\nhttps://www.portugalrunning.com/eventos/mei
+ a-maratona-guimaraes-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-guimaraes-2024/
+END:VEVENT
+END:VCALENDAR

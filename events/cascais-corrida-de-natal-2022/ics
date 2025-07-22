@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2a31fe9
+DTSTAMP:20250720T222234Z
+DTSTART:20221208
+DTEND:20221209
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Cascais Corrida De Natal 2022
+DESCRIPTION:Venha correr ou caminhar 5 km num evento que promove inclusão!
+ \nhttps://www.portugalrunning.com/eventos/cascais-corrida-de-natal-2022/
+URL:https://www.portugalrunning.com/eventos/cascais-corrida-de-natal-2022/
+END:VEVENT
+END:VCALENDAR

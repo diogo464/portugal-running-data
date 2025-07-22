@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5c941e1
+DTSTAMP:20250720T222324Z
+DTSTART:20240317
+DTEND:20240318
+LOCATION:Viseu Viseu
+SUMMARY:Corrida dos Viriatos 2024
+DESCRIPTION:Integrada no programa desportivo do Dia da Unidade do Regimento
+  de Infantaria N.o 14\,  é intenção do Comando da referida Unidade dispu
+ tar\,  no dia 17 de março de 2024. A corrida será realizada num circuito 
+ urbano pelas ruas da cidade de Viseu numa distância de 11Km (masculinos / 
+ femininos)\,  com[..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-
+ viriatos-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-viriatos-2024/
+END:VEVENT
+END:VCALENDAR

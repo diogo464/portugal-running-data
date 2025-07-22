@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3992ec1
+DTSTAMP:20250720T222249Z
+DTSTART:20211024
+DTEND:20211025
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Corrida Cidade de Faro 2021
+DESCRIPTION:A 1.ª Corrida Cidade de Faro 2021 é organizada pelos Tugas On
+  Tour Associação Desportiva em coorganização com a Câmara Municipal de
+  Faro e a União de Freguesias de Faro.A prova realiza-se no dia 24 de Outu
+ bro de 2021\,  pelas 10h00.Para a realização deste evento contamos com o 
+ apoio da[..]\nhttps://www.portugalrunning.com/eventos/corrida-cidade-de-far
+ o-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-faro-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf262e6e
+DTSTAMP:20250720T222554Z
+DTSTART:20240607
+DTEND:20240608
+LOCATION:Seia\,  Guarda Seia\,  Guarda
+SUMMARY:Oh Meu Deus 2024
+DESCRIPTION:Este evento contará com 4 distâncias: OMD20\,  OMD50\,  OMD10
+ 0 e OMD160. - A prova do OMD20 será no formato circular com partida e cheg
+ ada em Seia em frente à Câmara de Seia\,  no sábado\,  dia 8 de Junho. A
+  prova do OMD50 será no formato linear com partida na Aldeia[..]\nhttps://
+ www.portugalrunning.com/eventos/oh-meu-deus-2024/
+URL:https://www.portugalrunning.com/eventos/oh-meu-deus-2024/
+END:VEVENT
+END:VCALENDAR

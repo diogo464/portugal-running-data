@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb87ad51
+DTSTAMP:20250720T222456Z
+DTSTART:20230722
+DTEND:20230723
+LOCATION:Porto de Mós\,  Leiria Porto de Mós\,  Leiria
+SUMMARY:Limestone Ultra Trail 2023
+DESCRIPTION:Limestone Ultra Trail 2023\nhttps://www.portugalrunning.com/eve
+ ntos/limestone-ultra-trail-2023/
+URL:https://www.portugalrunning.com/eventos/limestone-ultra-trail-2023/
+END:VEVENT
+END:VCALENDAR

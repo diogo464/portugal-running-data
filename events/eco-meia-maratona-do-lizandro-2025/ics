@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8292b38
+DTSTAMP:20250720T222402Z
+DTSTART:20250608
+DTEND:20250609
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:Eco Meia Maratona do Lizandro 2025
+DESCRIPTION:A 1ª Eco Meia Maratona do Lizandro será constituída por 2 pr
+ ovas de caracter competitivo e uma caminhada de lazer: Eco Meia Maratona ( 
+ 21\, 120 Kms ) Mini Mini Maratona ( 12 Kms ) Eco Caminhada ( 12 Kms )\nhttp
+ s://www.portugalrunning.com/eventos/eco-meia-maratona-do-lizandro-2025/
+URL:https://www.portugalrunning.com/eventos/eco-meia-maratona-do-lizandro-2025/
+END:VEVENT
+END:VCALENDAR

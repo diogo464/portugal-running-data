@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d621df
+DTSTAMP:20250720T222309Z
+DTSTART:20230729
+DTEND:20230730
+LOCATION:Vila Viçosa\,  Évora Vila Viçosa\,  Évora
+SUMMARY:Corrida De Vila Viçosa 2023
+DESCRIPTION:A Associação Papatrilhos Vila Viçosa\,  em parceria com a As
+ sociação de Atletismo de Évora e coma Câmara Municipal de Vila Viçosa\
+ ,  pretende organizar a Corrida de Vila Viçosa\,  que consiste emvárias p
+ rovas de Atletismo a decorrer durante a noite do dia 29 de Julho.As prova d
+ os adultos estão previstas a[..]\nhttps://www.portugalrunning.com/eventos/
+ corrida-de-vila-vicosa-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-vila-vicosa-2023/
+END:VEVENT
+END:VCALENDAR

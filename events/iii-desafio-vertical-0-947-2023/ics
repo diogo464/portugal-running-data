@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca818adb
+DTSTAMP:20250720T222440Z
+DTSTART:20230415
+DTEND:20230416
+LOCATION:São Miguel\,  Açores São Miguel\,  Açores
+SUMMARY:III Desafio Vertical 0/947 2023
+DESCRIPTION:III edição do Desafio Vertical 0/947 é um evento de Trail Ru
+ nning\,  com carácter competitivo e lúdico\, que percorre trilhos e camin
+ hos do concelho de Lagoa\,  designadamente\,  nas freguesias de Água de Pa
+ u e Ribeira Chã e que funciona em formato de contrarrelógio (intervalo de
+  30 segundos entre cada partida). Integra[..]\nhttps://www.portugalrunning.
+ com/eventos/iii-desafio-vertical-0-947-2023/
+URL:https://www.portugalrunning.com/eventos/iii-desafio-vertical-0-947-2023/
+END:VEVENT
+END:VCALENDAR

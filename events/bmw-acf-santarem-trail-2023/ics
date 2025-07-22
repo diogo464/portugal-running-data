@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c25c3441
+DTSTAMP:20250720T222229Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Santarém Santarém
+SUMMARY:BMW ACF Santarém Trail 2023
+DESCRIPTION:A organização do Santarém Trail cabe à associação pace.ma
+ kers running club\,  em parceria com o Agrupamento 52 Santarém (Corpo Naci
+ onal de Escutas); O Santarém Trail é um evento lúdico e desportivo. O pr
+ incipal objetivo é a conjugação do espírito de aventura na natureza e o
+  desporto; Realizar-se-á no dia 14[..]\nhttps://www.portugalrunning.com/ev
+ entos/bmw-acf-santarem-trail-2023/
+URL:https://www.portugalrunning.com/eventos/bmw-acf-santarem-trail-2023/
+END:VEVENT
+END:VCALENDAR

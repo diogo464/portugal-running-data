@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c930112c
+DTSTAMP:20250720T222419Z
+DTSTART:20240713
+DTEND:20240714
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Galo Night Run 2024
+DESCRIPTION:O Quinta & Santos Galo Night Run tem já data marcada para a ed
+ ição de 2024! Por isso\,  reserva a noite do dia 13 de julho para uma fes
+ ta desportiva que é um verdadeiro hino à cor\,  à luz\,  à alegria\,  �
+ � amizade e à partilha.\nhttps://www.portugalrunning.com/eventos/galo-nigh
+ t-run-2024/
+URL:https://www.portugalrunning.com/eventos/galo-night-run-2024/
+END:VEVENT
+END:VCALENDAR

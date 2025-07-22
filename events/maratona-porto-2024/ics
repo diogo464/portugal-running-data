@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc862daa
+DTSTAMP:20250720T222512Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Porto Porto
+SUMMARY:Maratona Porto 2024
+DESCRIPTION:Resultados A EDP Maratona do Porto com os seus 19 anos de vida\
+ ,  inicia a sua campanha de divulgação\,  com vista à 20ª. Edição\,  
+ em 2024 a 3 de novembro\,  com início às 8h00.\nhttps://www.portugalrunni
+ ng.com/eventos/maratona-porto-2024/
+URL:https://www.portugalrunning.com/eventos/maratona-porto-2024/
+END:VEVENT
+END:VCALENDAR

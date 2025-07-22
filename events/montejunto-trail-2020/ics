@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ceddb954
+DTSTAMP:20250720T222549Z
+DTSTART:20200419
+DTEND:20200420
+LOCATION:Montejunto\,  Cadaval Montejunto\,  Cadaval
+SUMMARY:Montejunto Trail 2020
+DESCRIPTION:A Câmara Municipal de Cadaval\,  Câmara Municipal de Alenquer
+  e Associação de Solidariedade de Montejunto com o apoio do Turres Trail 
+ Clube \,  realizarão no próximo dia 19 de Abril de 2020\,  pelas 9:00 hor
+ as\,  um evento denominado de "Montejunto Trail 2020". Este evento é const
+ ituído por uma corrida de[..]\nhttps://www.portugalrunning.com/eventos/mon
+ tejunto-trail-2020/
+URL:https://www.portugalrunning.com/eventos/montejunto-trail-2020/
+END:VEVENT
+END:VCALENDAR

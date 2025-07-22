@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf767d83
+DTSTAMP:20250720T222559Z
+DTSTART:20200209
+DTEND:20200210
+LOCATION:Malveira da Serra Malveira da Serra\,  Cascais\,  Lisboa
+SUMMARY:Peninha Sky Race 2020
+DESCRIPTION:1º - O TURRES TRAIL CLUBE \,  com o apoio da Câmara Municipal
+  de Cascais \,  Parque Natural Sintra Cascais e a FCMP- Federação de Cara
+ vanismo e Montanhismo de Portugal vai realizar no próximo dia 9 de Feverei
+ ro de 2020\,  um evento denominado " PENINHA SkyRace ® . Este evento\, [..
+ ]\nhttps://www.portugalrunning.com/eventos/peninha-sky-race/
+URL:https://www.portugalrunning.com/eventos/peninha-sky-race/
+END:VEVENT
+END:VCALENDAR

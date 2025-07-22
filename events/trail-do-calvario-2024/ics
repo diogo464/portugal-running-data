@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d594aa55
+DTSTAMP:20250720T222737Z
+DTSTART:20240505T233400Z
+DTEND:20240505T233400Z
+LOCATION:Ruivães\,  Vila Nova de Famalicão Ruivães\,  Vila Nova de Famalicão
+SUMMARY:Trail do Calvário 2024
+DESCRIPTION:O Mka - Trail do Calvário é uma organização conjunta da Ass
+ ociação de Desporto e Aventura 365 Running Project e a União de Freguesi
+ as de Ruivães e Novais com o apoio do Município de Famalicão e a Junta d
+ e Freguesia de Castelões.\nhttps://www.portugalrunning.com/eventos/trail-d
+ o-calvario-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-calvario-2024/
+END:VEVENT
+END:VCALENDAR

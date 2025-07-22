@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d266221a
+DTSTAMP:20250720T222646Z
+DTSTART:20211218
+DTEND:20211219
+LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+SUMMARY:São Silvestre União das Freguesias de Estremoz 2021
+DESCRIPTION:São Silvestre União das Freguesias de Estremoz 2021 a 18 de D
+ ezembro.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-uniao-das-f
+ reguesias-de-estremoz-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-uniao-das-freguesias-de-estremoz-2021/
+END:VEVENT
+END:VCALENDAR

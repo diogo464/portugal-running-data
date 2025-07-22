@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6a7a662
+DTSTAMP:20250720T222754Z
+DTSTART:20231210
+DTEND:20231211
+LOCATION:Elvas\,  Portalegre Elvas\,  Portalegre
+SUMMARY:Trail Elvas 2023
+DESCRIPTION:O “VI Trail Elvas Património Mundial”\,  é uma prova pede
+ stre de carácter competitivo\,  que se realiza por trilhos\,  azinhagas e 
+ caminhos rurais do concelho de Elvas\,  sendo a passagem pelo Forte da Gra�
+ �a\,  Aqueduto da Amoreira\,  Castelo\,  Cemitério dos Ingleses e muralhas
+  seiscentistas as grandes referências de beleza turística desta[..]\nhttp
+ s://www.portugalrunning.com/eventos/trail-elvas-2023/
+URL:https://www.portugalrunning.com/eventos/trail-elvas-2023/
+END:VEVENT
+END:VCALENDAR

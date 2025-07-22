@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc6c3ec9
+DTSTAMP:20250720T222926Z
+DTSTART:20241208
+DTEND:20241209
+LOCATION:Paranhos\,  Porto Paranhos\,  Porto
+SUMMARY:Volta a Paranhos 2024
+DESCRIPTION:Realiza-se no dia 8 de dezembro de 2024\,  com início às 10h0
+ 0\,  uma corrida de 500m direcionada para os mais pequenos\,  às 10h45 uma
+  Corrida 10K e caminhada de 4 Km\,  que se pretende que seja uma verdadeira
+  festa para os amantes de desporto. O evento conta com o apoio[..]\nhttps:/
+ /www.portugalrunning.com/eventos/volta-a-paranhos-2024/
+URL:https://www.portugalrunning.com/eventos/volta-a-paranhos-2024/
+END:VEVENT
+END:VCALENDAR

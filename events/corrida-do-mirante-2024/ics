@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5748df7
+DTSTAMP:20250720T222319Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Ota\,  Lisboa Ota\,  Lisboa
+SUMMARY:Corrida do Mirante 2024
+DESCRIPTION:A Corrida do Mirante √© sem d√∫vida uma das provas mais emblem√
+ °ticas do Circuito Lisboa Trail. Com partida no Centro Social Recreativo De
+ sportivo da Ota esta etapa vai levar-te a conhecer os melhores pontos de in
+ teresse da Ota\,  como o Mirante\,  por subidas e descidas bastante acentua
+ das\,  mas com vistas[..]\nhttps://www.portugalrunning.com/eventos/corrida-
+ do-mirante-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-mirante-2024/
+END:VEVENT
+END:VCALENDAR

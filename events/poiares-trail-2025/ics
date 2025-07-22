@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc325b3
+DTSTAMP:20250720T222604Z
+DTSTART:20250208
+DTEND:20250209
+LOCATION:Vila Nova de Poiares\,  Coimbra Vila Nova de Poiares\,  Coimbra
+SUMMARY:Poiares Trail 2025
+DESCRIPTION:A secção de Atletismo da Associação Recreativa de S. Miguel
+  – Vila Nova de Poiares é a entidade organizadoradoevento denominado POI
+ ARES TRAIL 2025\,  que decorrerá a 8 e 9 de fevereiro de 2025. O POIARES T
+ RAIL 2025 é um evento que integra quatro provas competitivas e uma caminha
+ da: PT35K(±35km\, 1800mD+)\,  o[..]\nhttps://www.portugalrunning.com/event
+ os/poiares-trail-2025/
+URL:https://www.portugalrunning.com/eventos/poiares-trail-2025/
+END:VEVENT
+END:VCALENDAR

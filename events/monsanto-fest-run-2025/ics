@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cedf394b
+DTSTAMP:20250720T222549Z
+DTSTART:20250706T141400Z
+DTEND:20250706T235900Z
+LOCATION:Estrada da Serafina\,  Lisboa Estrada da Serafina\,  Lisboa
+SUMMARY:Monsanto Fest Run 2025
+DESCRIPTION:O festival de música “Monsanto Fest”\,  a caminho da sua 7
+ ª edição\, &nbsp; junta\,  este ano\,  a&nbsp;música urbana e o desport
+ o! As Juntas de Freguesia de Benfica\,  Ajuda\,  Alcântara e Campolide\,  
+ vão realizar o “Monsanto Fest Run”\,  no próximo dia 06 de Julho\,  n
+ um percurso pelas estradas do Monsanto.&nbsp;\nhttps://www.portugalrunning.
+ com/eventos/monsanto-fest-run-2025/
+URL:https://www.portugalrunning.com/eventos/monsanto-fest-run-2025/
+END:VEVENT
+END:VCALENDAR

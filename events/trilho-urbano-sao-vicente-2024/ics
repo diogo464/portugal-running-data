@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daec5110
+DTSTAMP:20250720T222902Z
+DTSTART:20240512
+DTEND:20240513
+LOCATION:Lisboa Lisboa
+SUMMARY:Trilho Urbano São Vicente 2024
+DESCRIPTION:O Trilho Urbano de São Vicente surge como uma ideia inovadora 
+ da Junta de Freguesia de São Vicente em parceria com as coletividades da f
+ reguesia e com o apoio da Câmara Municipal de Lisboa. Um percurso pelos tr
+ ês pontos principais da freguesia (São Vicente de Fora\,  Graça e Sta. E
+ ngrácia)\, [..]\nhttps://www.portugalrunning.com/eventos/trilho-urbano-sao
+ -vicente-2024/
+URL:https://www.portugalrunning.com/eventos/trilho-urbano-sao-vicente-2024/
+END:VEVENT
+END:VCALENDAR

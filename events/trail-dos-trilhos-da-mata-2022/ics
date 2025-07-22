@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65f3af1
+DTSTAMP:20250720T222749Z
+DTSTART:20220130
+DTEND:20220131
+LOCATION:Leiria Leiria
+SUMMARY:Trail dos Trilhos da Mata 2022
+DESCRIPTION:A Associação Desportiva e Recreativa da Mata realizará no 
+ dia 30 de janeiro de 2022 a quarta edição do Trail dos Trilhos da Mata
+  2022. Uma prova de Trail Running (aproximadamente 19 km) que percorrerá p
+ ercursos e trilhos na freguesia dos Milagres\,  concelho e distrito de Leir
+ ia. Para além\,  da prova de Trail running\,  haverá[..]\nhttps://www.por
+ tugalrunning.com/eventos/trail-dos-trilhos-da-mata-2022/
+URL:https://www.portugalrunning.com/eventos/trail-dos-trilhos-da-mata-2022/
+END:VEVENT
+END:VCALENDAR

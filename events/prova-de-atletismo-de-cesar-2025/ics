@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0094cbe
+DTSTAMP:20250720T222608Z
+DTSTART:20250330
+DTEND:20250331
+LOCATION:Cesar\,  Oliveira de Azeméis Cesar\,  Oliveira de Azeméis
+SUMMARY:Prova de Atletismo de Cesar 2025
+DESCRIPTION:A Associação Villa Cesari\,  através da sua secção de Atle
+ tismo\,  organiza de novo a Prova de Atletismo de Cesar\,  que reunirá nes
+ ta vila do concelho de Oliveira de Azeméis provas para todos os escalões 
+ etários e um leque dos melhores atletas nacionais.\nhttps://www.portugalru
+ nning.com/eventos/prova-de-atletismo-de-cesar-2025/
+URL:https://www.portugalrunning.com/eventos/prova-de-atletismo-de-cesar-2025/
+END:VEVENT
+END:VCALENDAR

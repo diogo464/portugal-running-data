@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf6127e
+DTSTAMP:20250720T222919Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+SUMMARY:Vii Trail Cidade De Estremoz 2023
+DESCRIPTION:O COAAL-Cube de Orientação do Alto Alentejo irá organizar no
+  dia 21 de maio de 2023 o VII TRAIL CIDADE DE ESTREMOZ "PELOS TRILHOS DE É
+ VORA MONTE" O VII TRAIL CIDADE DE ESTREMOZ é um evento de Trail Running\, 
+  que percorre trilhos e caminhos no concelho de Estremoz\,  mais propriamen
+ te[..]\nhttps://www.portugalrunning.com/eventos/vii-trail-cidade-de-estremo
+ z-2023/
+URL:https://www.portugalrunning.com/eventos/vii-trail-cidade-de-estremoz-2023/
+END:VEVENT
+END:VCALENDAR

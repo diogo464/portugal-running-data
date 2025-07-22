@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfb93bfd
+DTSTAMP:20250720T222603Z
+DTSTART:20210918
+DTEND:20210919
+LOCATION:Piódão Piódão\,  Coimbra
+SUMMARY:Piodão Trail Running 2021
+DESCRIPTION:IX Edição com partida e chegada na aldeia histórica do Piód
+ ão. Passagem pela Aldeia do Xisto\,  Sobral de São Miguel.\nhttps://www.p
+ ortugalrunning.com/eventos/piodao-trail-running-2021/
+URL:https://www.portugalrunning.com/eventos/piodao-trail-running-2021/
+END:VEVENT
+END:VCALENDAR

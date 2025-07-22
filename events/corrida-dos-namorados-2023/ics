@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5830e2c
+DTSTAMP:20250720T222320Z
+DTSTART:20230212
+DTEND:20230213
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida dos Namorados 2023
+DESCRIPTION:Um percurso de 8km\,  no Estádio Universitário de Lisboa\, &n
+ bsp;unidos num só objetivo… passar a meta em conjunto! Não importa o ri
+ tmo\,  o importante é compartilhar o prazer da atividade física\,  num am
+ biente de natureza e envolvidos por uma atmosfera de romantismo e cumplicid
+ ade. A classificação da vertente casais é feita[..]\nhttps://www.portuga
+ lrunning.com/eventos/corrida-dos-namorados-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-namorados-2023/
+END:VEVENT
+END:VCALENDAR

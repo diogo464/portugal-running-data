@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8c3c45
+DTSTAMP:20250720T222544Z
+DTSTART:20250523
+DTEND:20250524
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:Milha Noturna Oliveira de Azeméis 2025
+DESCRIPTION:Oliveira de Azeméis irá pela quarta ocasião receber a Milha 
+ noturna (1.609 metros). Venha percorrer esta distância clássica do atleti
+ smo de estrada.\nhttps://www.portugalrunning.com/eventos/milha-noturna-oliv
+ eira-de-azemeis-2025/
+URL:https://www.portugalrunning.com/eventos/milha-noturna-oliveira-de-azemeis-2025/
+END:VEVENT
+END:VCALENDAR

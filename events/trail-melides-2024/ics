@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d76dbdfb
+DTSTAMP:20250720T222806Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Melides\,  Setúbal Melides\,  Setúbal
+SUMMARY:Trail Melides 2024
+DESCRIPTION:No dia 28 de abril de 2024\,  irá realizar-se a 2ª edição d
+ o Trail de Melides onde se irão percorrer ostrilhos da região através de
+  um Trail Longo de 25km\,  Trail Curto de 15km e uma Caminhada nãocompetit
+ iva de 10km. Com partida e chegada na Rua Nova da Aldeia de[..]\nhttps://ww
+ w.portugalrunning.com/eventos/trail-melides-2024/
+URL:https://www.portugalrunning.com/eventos/trail-melides-2024/
+END:VEVENT
+END:VCALENDAR

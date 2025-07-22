@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccdc3d7
+DTSTAMP:20250720T222516Z
+DTSTART:20230205
+DTEND:20230206
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Montepio Meia Maratona de Cascais 2023
+DESCRIPTION:A Montepio Meia Maratona de Cascais\, &nbsp;powered by&nbsp;Ass
+ ociação Mutualista Montepio\,  organizada pela HMS Sports\,  em parceria 
+ com a Câmara Municipal de Cascais e o CCD Cascais\,  celebra a 7ª ediçã
+ o e contará com a Corrida das Crianças\,  no dia 4 de fevereiro\,  a Meia
+  Maratona (21\, 0975km) e os 5 Km\,  no[..]\nhttps://www.portugalrunning.co
+ m/eventos/meia-maratona-de-cascais-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-cascais-2023/
+END:VEVENT
+END:VCALENDAR

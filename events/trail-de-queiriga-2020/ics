@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54c3b58
+DTSTAMP:20250720T222732Z
+DTSTART:20200322
+DTEND:20200323
+LOCATION:Queiriga Queiriga\,  Viseu
+SUMMARY:Trail de Queiriga 2020
+DESCRIPTION:Estamos de volta! Trazemos na bagagem a IV edição do Trail da
+  Queiriga. No dia 22 de Março de 2020 terás à tua disposição o mesmo r
+ igor na organização\,  a mesma beleza na paisagem\,  a mesma diversão do
+ s anos anteriores. A grande novidade passa pela nossa maior motivação em 
+ proporcionar-te[..]\nhttps://www.portugalrunning.com/eventos/trail-de-queir
+ iga-2020/
+URL:https://www.portugalrunning.com/eventos/trail-de-queiriga-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca748f59
+DTSTAMP:20250720T222439Z
+DTSTART:20240323
+DTEND:20240324
+LOCATION:Fornos de Algodres\,  Guarda Fornos de Algodres\,  Guarda
+SUMMARY:II Eco Trail TransFornos 2024
+DESCRIPTION:O ”II Eco Trail TransFornos” é uma corrida de montanha\,  
+ organizada pela “AVCAT-Associação Vila Chã Aldeia Trail de Portugal”
+ \,  a realizar no dia 23 de março de 2024\,  em Fornos de Algodres. Este t
+ rail faz parte da 3ª edição do Circuito Municipal de Corrida de Montanha
+ -Trilhos D`O Bom Sabor da[..]\nhttps://www.portugalrunning.com/eventos/ii-e
+ co-trail-transfornos-2024/
+URL:https://www.portugalrunning.com/eventos/ii-eco-trail-transfornos-2024/
+END:VEVENT
+END:VCALENDAR

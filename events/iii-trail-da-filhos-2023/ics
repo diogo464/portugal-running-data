@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca800587
+DTSTAMP:20250720T222440Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Cabrela\,  Évora Cabrela\,  Évora
+SUMMARY:III Trail da Filhós 2023
+DESCRIPTION:O “III Trail da Filhós” realiza-se no dia 28 de maio de 20
+ 23\,  a partida terá lugar às 09h00\,  no Largoda Dr. Pascoal Coelho\,  e
+ m Cabrela. Será composto por 3 percursos:O 1.º com aproximadamente 17 Km\
+ ,  de dificuldade média\,  marcado com placas e fitas sinalizadoras;O 2.º
+  com aproximadamente 10 Km\, [..]\nhttps://www.portugalrunning.com/eventos/
+ iii-trail-da-filhos-2023/
+URL:https://www.portugalrunning.com/eventos/iii-trail-da-filhos-2023/
+END:VEVENT
+END:VCALENDAR

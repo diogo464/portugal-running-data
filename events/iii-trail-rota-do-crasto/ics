@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca8dc5bd
+DTSTAMP:20250720T222440Z
+DTSTART:20200119
+DTEND:20200120
+LOCATION:Viseu Viseu
+SUMMARY:Trail Rota do Crasto 2020
+DESCRIPTION:À semelhança das edições anteriores\,  o III Trail Rota do 
+ Crasto é um evento organizado pela ASDREQ. Com início e fim nas instalaç
+ ões do Parque Desportivo da Associação\,  os atletas serão levados a pe
+ rcorrer os belos trilhos da Serra do Crasto\,  um dos pulmões da cidade de
+  Viseu. Será um[..]\nhttps://www.portugalrunning.com/eventos/iii-trail-rot
+ a-do-crasto/
+URL:https://www.portugalrunning.com/eventos/iii-trail-rota-do-crasto/
+END:VEVENT
+END:VCALENDAR

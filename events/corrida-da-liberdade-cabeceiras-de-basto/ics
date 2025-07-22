@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f00bc8
+DTSTAMP:20250720T222255Z
+DTSTART:20230425
+DTEND:20230426
+LOCATION:Cabeceiras de Basto\,  Braga Cabeceiras de Basto\,  Braga
+SUMMARY:Corrida da Liberdade 2025
+DESCRIPTION:A “Corrida da Liberdade”: é uma prova de atletismo organiz
+ ada pela Associação Dinamizadorados Interesses de Basto\,  há 34 anos no
+  Município de Cabeceiras de Basto\,  com a colaboração daCâmara Municip
+ al de Cabeceiras de Basto e terá lugar no dia 25/04/2023 a partir das 10h0
+ 0 horas\, com partida e chegada na Zona[..]\nhttps://www.portugalrunning.co
+ m/eventos/corrida-da-liberdade-cabeceiras-de-basto/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-cabeceiras-de-basto/
+END:VEVENT
+END:VCALENDAR

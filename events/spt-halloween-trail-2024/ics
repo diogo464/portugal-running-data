@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d30002a0
+DTSTAMP:20250720T222656Z
+DTSTART:20241101T162700Z
+DTEND:20241101T162700Z
+LOCATION:Vila Chã\,  Alenquer Vila Chã\,  Alenquer
+SUMMARY:Spt Halloween Trail 2024
+DESCRIPTION:O evento “SPT Halloween Trail” irá decorrer no dia&nbsp;1 
+ de novembro de 2024\,  este inclui uma prova de trail com aproximadamente 1
+ 3km de distância e uma caminhada de aproximadamente 6km. Serão colocados 
+ em vários pontos do percurso figurantes mascarados e elementos decorativos
+  alusivos à temática do evento\,  os quais não[..]\nhttps://www.portugal
+ running.com/eventos/spt-halloween-trail-2024/
+URL:https://www.portugalrunning.com/eventos/spt-halloween-trail-2024/
+END:VEVENT
+END:VCALENDAR

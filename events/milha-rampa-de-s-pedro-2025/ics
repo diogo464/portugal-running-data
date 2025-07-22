@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dd27e
+DTSTAMP:20250720T222544Z
+DTSTART:20250511T182100Z
+DTEND:20250511T235900Z
+LOCATION:Barreira\,  Leiria Barreira\,  Leiria
+SUMMARY:Milha - Rampa de “S.Pedro” 2025
+DESCRIPTION:O Clube de Atletismo da Barreira organiza no dia 11 de Maio d
+ e 2025 a 3ª Milha - Rampa de “S.Pedro”.\nhttps://www.portugalrunning.c
+ om/eventos/milha-rampa-de-s-pedro-2025/
+URL:https://www.portugalrunning.com/eventos/milha-rampa-de-s-pedro-2025/
+END:VEVENT
+END:VCALENDAR

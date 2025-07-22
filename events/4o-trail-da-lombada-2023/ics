@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c084a2aa
+DTSTAMP:20250720T222200Z
+DTSTART:20230129
+DTEND:20230130
+LOCATION:São Julião de Palácios e Deilão\,  Bragança São Julião de Palácios e Deilão\,  Bragança
+SUMMARY:4º Trail da Lombada 2023
+DESCRIPTION:O Trail da Lombada é um evento desportivo inserido na Feira Ru
+ ral da Terra e da Gente da Lombada que percorre diversos caminhos rurais da
+ s aldeias inseridas União das Freguesias de São Julião de Palácios e De
+ ilão. O evento é organizado pelo Grupo Desportivo de Bragança e conta co
+ m o[..]\nhttps://www.portugalrunning.com/eventos/4o-trail-da-lombada-2023/
+URL:https://www.portugalrunning.com/eventos/4o-trail-da-lombada-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c331a6d0
+DTSTAMP:20250720T222243Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+SUMMARY:Corrida 4 Estações Outono - Condeixa 2024
+DESCRIPTION:Numa organização da Associação Desportiva 4 Estações com 
+ o apoio da Câmara Municipal de Condeixa\,  vai realizar no dia 20 de Outub
+ ro de 2024 pelas 10.30h na vila de Condeixa uma corrida de atletismo de est
+ rada com a distância de 10k. Esta prova faz parte do Circuito de Corrida 4
+ [..]\nhttps://www.portugalrunning.com/eventos/corrida-4-estacoes-outono-con
+ deixa-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-outono-condeixa-2024/
+END:VEVENT
+END:VCALENDAR

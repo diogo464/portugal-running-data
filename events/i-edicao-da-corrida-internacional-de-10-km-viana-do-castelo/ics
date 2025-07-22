@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca73208b
+DTSTAMP:20250720T222439Z
+DTSTART:20230702
+DTEND:20230703
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:I Edição Da Corrida Internacional De 10 Km Viana Do Castelo
+DESCRIPTION:A Associação Desportiva "Cyclones Sanitop" e o Município de 
+ Viana do Castelo vão organizar a 1ª edição da Corrida Internacional de 
+ 10 km "Viana do Castelo Cidade Europeia do Desporto". A prova será no Domi
+ ngo\,  02 de Julho de 2023\,  pela 10h com partida e chegada em frente ao C
+ entro[..]\nhttps://www.portugalrunning.com/eventos/i-edicao-da-corrida-inte
+ rnacional-de-10-km-viana-do-castelo/
+URL:https://www.portugalrunning.com/eventos/i-edicao-da-corrida-internacional-de-10-km-viana-do-castelo/
+END:VEVENT
+END:VCALENDAR

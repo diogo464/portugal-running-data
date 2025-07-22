@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0500e93
+DTSTAMP:20250720T222613Z
+DTSTART:20240908
+DTEND:20240909
+LOCATION:Quinhendros\,  Montemor-o-Velho Quinhendros\,  Montemor-o-Velho
+SUMMARY:Quinhendros Trail 2024
+DESCRIPTION:O QUINHENDROS TRAIL 2024 é uma organização da ACDRS QUINHEND
+ ROS que pretende afirmar-se como uma prova desportiva de referência no CIR
+ CUITO DISTRITAL DE TRAIL RUNNING DE COIMBRA. A zona de partida e de chegada
+  será efetuada junto ao pavilhão da ACDRS QUINHENDROS\,  na localidade de
+  Quinhendros\,  Concelho de Montemor-o-Velho\,  distrito[..]\nhttps://www.p
+ ortugalrunning.com/eventos/quinhendros-trail-2024/
+URL:https://www.portugalrunning.com/eventos/quinhendros-trail-2024/
+END:VEVENT
+END:VCALENDAR

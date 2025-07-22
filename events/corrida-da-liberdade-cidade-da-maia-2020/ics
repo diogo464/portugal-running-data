@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3e7a464
+DTSTAMP:20250720T222254Z
+DTSTART:20200418
+DTEND:20200419
+LOCATION:Maia\,  Porto Maia\,  Porto
+SUMMARY:Corrida da Liberdade Cidade da Maia 2020
+DESCRIPTION:Vem participar na corrida da marginal. Contamos contigo.\nhttps
+ ://www.portugalrunning.com/eventos/corrida-da-liberdade-cidade-da-maia-2020
+ /
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-cidade-da-maia-2020/
+END:VEVENT
+END:VCALENDAR

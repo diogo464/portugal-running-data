@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1d62550
+DTSTAMP:20250720T222637Z
+DTSTART:20241214
+DTEND:20241215
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:São Silvestre Gondomar 2024
+DESCRIPTION:No dia 14 de Dezembro de 2024\,  pelas 21h00\,  o Município de
+  Gondomar recebe a 8ª edição São Silvestre Gondomar. Com mais de 90 ano
+ s de história\,  esta temática foi inspirada numa corrida noturna onde os
+  atletas corriam pela cidade com tochas acesas nas mãos\,  é considerada 
+ uma das mais[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-gon
+ domar-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-gondomar-2024/
+END:VEVENT
+END:VCALENDAR

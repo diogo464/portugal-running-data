@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d37dcc89
+DTSTAMP:20250720T222703Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Águeda Águeda
+SUMMARY:Trail ACTIB 2023
+DESCRIPTION:A contar para o Troféu Trail Terras de Águeda\,  no ACTIB-TRA
+ IL\,  além de poderes desfrutar da natureza que o concelho oferece\,  tamb
+ ém poderás percorrer a mítica pista do Casarão\,  uma verdadeira montan
+ ha russa de emoções que recebe provas mundiais de outras modalidades e qu
+ e irá certamente proporcionar uma experiência única.[..]\nhttps://www.po
+ rtugalrunning.com/eventos/trail-actib-2023/
+URL:https://www.portugalrunning.com/eventos/trail-actib-2023/
+END:VEVENT
+END:VCALENDAR

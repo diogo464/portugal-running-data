@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c44192d2
+DTSTAMP:20250720T222300Z
+DTSTART:20220501
+DTEND:20220502
+LOCATION:Boavista\,  Porto Boavista\,  Porto
+SUMMARY:Corrida da Pantera - Boavista 2022
+DESCRIPTION:Vem participar na Corrida da Pantera - Boavista 2022.\nhttps://
+ www.portugalrunning.com/eventos/corrida-da-pantera-boavista-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-pantera-boavista-2022/
+END:VEVENT
+END:VCALENDAR

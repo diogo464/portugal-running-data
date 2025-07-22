@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb4abeb8
+DTSTAMP:20250720T222452Z
+DTSTART:20250518T085400Z
+DTEND:20250518T235900Z
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:Légua Associação GDAK 2025
+DESCRIPTION:A Câmara Municipal do Barreiro e organização técnica da Xis
+ tarca\,  organiza no dia 18 de maio de 2025\,  a 8ª Légua Associação G
+ DAK.\nhttps://www.portugalrunning.com/eventos/legua-associacao-gdak-2025/
+URL:https://www.portugalrunning.com/eventos/legua-associacao-gdak-2025/
+END:VEVENT
+END:VCALENDAR

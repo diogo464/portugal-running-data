@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5262a3b
+DTSTAMP:20250720T222314Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Corrida do Bombeiro 2024
+DESCRIPTION:No dia 20 de outubro de 2024\,  a Eventsport organiza às 09h00
+  a sexta edição da Generali Tranquilidade Corrida do Bombeiro\,  em parce
+ ria com os Bombeiros Voluntários de Valadares. Este evento é composto por
+  uma Corrida 10 km e uma Caminhada 5 km que contará com muitas surpresas e
+  uma[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-bombeiro-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-bombeiro-2024/
+END:VEVENT
+END:VCALENDAR

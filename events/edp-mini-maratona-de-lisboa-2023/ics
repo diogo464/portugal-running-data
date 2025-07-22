@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c871a66a
+DTSTAMP:20250720T222407Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Lisboa Lisboa
+SUMMARY:Mini Maratona de Lisboa 2023
+DESCRIPTION:A EDP 8K (antiga mini maratona) é umas das mais populares prov
+ as nacionais\,  com a partida localizada na Ponte Vasco da Gama e a meta 
+ no Parque das Nações. Com partida em simultâneo com a Luso Meia Maraton
+ a\,  esta prova oferece aos seus participantes um dia diferente e percorrer
+  a pé parte da[..]\nhttps://www.portugalrunning.com/eventos/edp-mini-marat
+ ona-de-lisboa-2023/
+URL:https://www.portugalrunning.com/eventos/edp-mini-maratona-de-lisboa-2023/
+END:VEVENT
+END:VCALENDAR

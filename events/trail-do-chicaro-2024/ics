@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5919a9a
+DTSTAMP:20250720T222737Z
+DTSTART:20241006T190800Z
+DTEND:20241006T235900Z
+LOCATION:Alvaiázere\,  Leiria Alvaiázere\,  Leiria
+SUMMARY:Trail do Chicaro 2024
+DESCRIPTION:O Trail do Chícharo – Alvaiázere 2024\,  sob organização 
+ da Câmara Municipal de Alvaiázere pretende afirmar-se como uma prova de d
+ esporto e lazer\,  com carácter competitivo\,  na vertente de corrida [Tra
+ il Running]\,  a realizar por percursos e trilhos envolventes ao Município
+  de Alvaiázere. A sexta edição realiza-se no dia 6 de Outubro[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-do-chicaro-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-chicaro-2024/
+END:VEVENT
+END:VCALENDAR

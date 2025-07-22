@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1100a46
+DTSTAMP:20250720T222209Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+SUMMARY:7º Trail São Macário 2023
+DESCRIPTION:O GTT.SPS - Grupo Todo Terreno de São Pedro do Sul\,  vai real
+ izar o 7º TRAIL SÃO MACÁRIO\,  no próximo dia 12 de Novembro de 2023\, 
+  em Sul. O evento incluiu 4 provas: o ULTRA TRAIL com cerca 49km\,  o TRAIL
+  LONGO com cerca de 29Km\,  TRAIL CURTO com cerca[..]\nhttps://www.portugal
+ running.com/eventos/7o-trail-sao-macario-2023/
+URL:https://www.portugalrunning.com/eventos/7o-trail-sao-macario-2023/
+END:VEVENT
+END:VCALENDAR

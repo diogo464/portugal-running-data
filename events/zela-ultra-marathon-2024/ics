@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcb4f502
+DTSTAMP:20250720T222931Z
+DTSTART:20240413
+DTEND:20240414
+LOCATION:Vouzela\,  Viseu Vouzela\,  Viseu
+SUMMARY:Zela Ultra Marathon 2024
+DESCRIPTION:The Zela Ultra Marathon | Masters World Skyrunning Championship
+ s\,  event is organized bySpotcriavo Eventos in collaboration with the muni
+ cipality of Vouzela and other local entities.The Event will take place on t
+ he 13th and 14th of April 2024\,  starting and finishing in Vilade Vouzela\
+ ,  and will consist of 2 Skyrunning routes\, [..]\nhttps://www.portugalrunn
+ ing.com/eventos/zela-ultra-marathon-2024/
+URL:https://www.portugalrunning.com/eventos/zela-ultra-marathon-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edcb32
+DTSTAMP:20250720T222622Z
+DTSTART:20241214
+DTEND:20241215
+LOCATION:Alcochete\,  Setúbal Alcochete\,  Setúbal
+SUMMARY:São Silvestre Alcochete 2024
+DESCRIPTION:A 4ª Corrida e Caminhada São Silvestre de Alcochete será com
+ posta por um percurso de 10 km para Corrida e por um de 5 km para Caminhada
+ . A São Silvestre Kids\,  terá um percurso de 400m\,  outro de 700m e ain
+ da um de 1000m.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-alco
+ chete-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-alcochete-2024/
+END:VEVENT
+END:VCALENDAR

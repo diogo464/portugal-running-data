@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6a797c2
+DTSTAMP:20250720T222754Z
+DTSTART:20220723
+DTEND:20220724
+LOCATION:Coruche Coruche\,  Santarém
+SUMMARY:Trail e Caminhada Da Coruja 2022
+DESCRIPTION:Trail e Caminhada Da Coruja 2022\nhttps://www.portugalrunning.c
+ om/eventos/trail-e-caminhada-da-coruja-2022/
+URL:https://www.portugalrunning.com/eventos/trail-e-caminhada-da-coruja-2022/
+END:VEVENT
+END:VCALENDAR

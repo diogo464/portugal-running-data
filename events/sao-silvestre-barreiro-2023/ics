@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edd094
+DTSTAMP:20250720T222622Z
+DTSTART:20231209
+DTEND:20231210
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:São Silvestre Barreiro 2023
+DESCRIPTION:A 3ª Edição da São Silvestre Barreiro será organizada pela
+  Associação Corridacessivel no dia 9 de Dezembro. ⎯ Caminhada Solidári
+ a 7 km⎯ Corrida São Silvestre 10 km\nhttps://www.portugalrunning.com/eve
+ ntos/sao-silvestre-barreiro-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-barreiro-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdbc3f19
+DTSTAMP:20250720T222531Z
+DTSTART:20230402
+DTEND:20230403
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:Meia Maratona Juventude Ilha Verde 2023
+DESCRIPTION:O Clube Desportivo e Cultural Juventude Ilha Verde com o apoio 
+ de diversas entidades\,  vai organizar no próximo dia 2 de abril\,  pelas 
+ 10:00 horas\,  a 9ª Meia Maratona Ilha Verde. A Prova vai decorrer dia 02 
+ de Abril e tem as seguintes vertentes: Mini Campeões - prova com 1.300[..]
+ \nhttps://www.portugalrunning.com/eventos/meia-maratona-juventude-ilha-verd
+ e-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-juventude-ilha-verde-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b7a587
+DTSTAMP:20250720T222427Z
+DTSTART:20211208
+DTEND:20211209
+LOCATION:Maceira\,  Leiria Maceira\,  Leiria
+SUMMARY:Grande Prémio de Atletismo A-do-Barbas 2021
+DESCRIPTION:O Centro Popular e Recreativo de A-do-Barbas\,  em coorganizaç
+ ão com a Associação de Atletismo de Leiria – ADAL\,  com o apoio da C�
+ �mara Municipal de Leiria e Junta de Freguesia de Maceira\,  organiza no di
+ a 08 de dezembro de 2021\,  pelas 9:30h a 30ª edição de uma prova de est
+ rada[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-de-atletism
+ o-a-do-barbas-2021/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-a-do-barbas-2021/
+END:VEVENT
+END:VCALENDAR

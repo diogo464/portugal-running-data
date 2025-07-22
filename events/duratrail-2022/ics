@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c827afd9
+DTSTAMP:20250720T222402Z
+DTSTART:20221022
+DTEND:20221023
+LOCATION:Setúbal Setúbal
+SUMMARY:X DuraTrail 2022
+DESCRIPTION:O DURATRAIL é uma prova de corrida na natureza organizada pelo
+  Outdoor Clube de Setúbal e que tem como foco principal a promoção da at
+ ividade física na cidade de Setúbal\,  a sua afirmação e consolidação
+  enquanto destino turístico desportivo nacional e internacional.\nhttps://
+ www.portugalrunning.com/eventos/duratrail-2022/
+URL:https://www.portugalrunning.com/eventos/duratrail-2022/
+END:VEVENT
+END:VCALENDAR

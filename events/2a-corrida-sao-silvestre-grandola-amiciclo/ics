@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfec47e0
+DTSTAMP:20250720T222150Z
+DTSTART:20221201
+DTEND:20221202
+LOCATION:Grândola\,  Setúbal Grândola\,  Setúbal
+SUMMARY:2ª Corrida São Silvestre Grândola - AMICICLO
+DESCRIPTION:A 2ª Corrida São Silvestre de Grândola é um evento de natur
+ eza desportiva\,  que visa promover o desporto e hábitos de vida saudávei
+ s.O evento é da organização do clube Amiciclo Grândola e da Junta de Fr
+ eguesia de Grândola e Santa Margarida da Serra.\nhttps://www.portugalrunni
+ ng.com/eventos/2a-corrida-sao-silvestre-grandola-amiciclo/
+URL:https://www.portugalrunning.com/eventos/2a-corrida-sao-silvestre-grandola-amiciclo/
+END:VEVENT
+END:VCALENDAR

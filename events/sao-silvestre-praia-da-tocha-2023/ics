@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d21637e8
+DTSTAMP:20250720T222641Z
+DTSTART:20231208
+DTEND:20231209
+LOCATION:Praia da Tocha\,  Coimbra Praia da Tocha\,  Coimbra
+SUMMARY:São Silvestre Praia da Tocha 2023
+DESCRIPTION:São Silvestre Praia da Tocha 2023\nhttps://www.portugalrunning
+ .com/eventos/sao-silvestre-praia-da-tocha-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-praia-da-tocha-2023/
+END:VEVENT
+END:VCALENDAR

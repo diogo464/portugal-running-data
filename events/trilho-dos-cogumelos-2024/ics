@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9eabdf3
+DTSTAMP:20250720T222846Z
+DTSTART:20240324
+DTEND:20240325
+LOCATION:Vidigueira\,  Beja Vidigueira\,  Beja
+SUMMARY:Trilho Dos Cogumelos 2024
+DESCRIPTION:A Câmara Municipal de Vidigueira com o apoio da Junta de Fregu
+ esia de Selmes e da Associação de Atletismo de Beja vai organizar\,  no p
+ róximo dia 24 DE MARÇO DE 2024\,  pelas 10h00 o Trilho dos Cogumelos em A
+ lcaria da Serra\,  divididos em dois percursos Mini Trail e Trail Sprint.\n
+ https://www.portugalrunning.com/eventos/trilho-dos-cogumelos-2024/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-cogumelos-2024/
+END:VEVENT
+END:VCALENDAR

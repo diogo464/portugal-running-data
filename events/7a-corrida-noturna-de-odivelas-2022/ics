@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0d31921
+DTSTAMP:20250720T222205Z
+DTSTART:20220930
+DTEND:20221001
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:7ª Corrida Noturna De Odivelas 2022
+DESCRIPTION:A prova é gratuita&nbsp;e apoiada pela Câmara Municipal de Od
+ ivelas\,  tendo como parceiro&nbsp;o Centro Comercial Strada Shopping § Fa
+ shion Outlet. A Corrida Noturna compreende uma prova de atletismo com exten
+ são de 7.000 metros\,  que contempla no seu percurso um troço de estrada\
+ ,  nomeadamente as ruas da Freguesia/ Concelho de Odivelas\, [..]\nhttps://
+ www.portugalrunning.com/eventos/7a-corrida-noturna-de-odivelas-2022/
+URL:https://www.portugalrunning.com/eventos/7a-corrida-noturna-de-odivelas-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8749848
+DTSTAMP:20250720T222823Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Almargem do Bispo\,  Sintra Almargem do Bispo\,  Sintra
+SUMMARY:Trail Running D. Maria 2022
+DESCRIPTION:O I Trail Running D. Maria é composto por duas provas competit
+ ivas de aproximadamente 25Km (Trail longo) e 12Km (Trail curto) e uma prova
+  recreativa\,  uma caminhada de 10Km. A prova é organizada pela Associaç�
+ �o Free Runners com a colaboração do Centro de Recreio Popular e Cultural
+  Musical (CRPCM) Dona[..]\nhttps://www.portugalrunning.com/eventos/trail-ru
+ nning-d-maria-2022/
+URL:https://www.portugalrunning.com/eventos/trail-running-d-maria-2022/
+END:VEVENT
+END:VCALENDAR

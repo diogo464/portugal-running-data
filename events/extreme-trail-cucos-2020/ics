@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b3178e
+DTSTAMP:20250720T222411Z
+DTSTART:20200610
+DTEND:20200611
+LOCATION:Cucos\,  Torres Vedras Cucos\,  Torres Vedras\,  Lisboa
+SUMMARY:Extreme Trail Cucos 2020
+DESCRIPTION:O   TURRES TRAIL  CLUBE \,  com o apoio da Câmara Municipal 
+ de Torres Vedras e junta de freguesia de São Pedro Santiago e Santa Maria�
+ � \,   vai realizar no próximo dia 10 de Junho de 2020\,  pelas 8:00 hora
+ s\,  um evento denominado "   7º EXTREME TRAIL CUCOS". Este evento\,  t
+ erá[..]\nhttps://www.portugalrunning.com/eventos/extreme-trail-cucos-2020/
+URL:https://www.portugalrunning.com/eventos/extreme-trail-cucos-2020/
+END:VEVENT
+END:VCALENDAR

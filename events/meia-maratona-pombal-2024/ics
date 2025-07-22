@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce2491f3
+DTSTAMP:20250720T222538Z
+DTSTART:20241124T074800Z
+DTEND:20241124T074800Z
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Meia Maratona Pombal 2024
+DESCRIPTION:A Meia Maratona Cidade de Pombal Full Protein está de regresso
+  para a sua 28ª edição. Além da distância aferida de meia-maratona\,  
+ o evento conta ainda com uma Corrida e com uma Caminhada\nhttps://www.portu
+ galrunning.com/eventos/meia-maratona-pombal-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-pombal-2024/
+END:VEVENT
+END:VCALENDAR

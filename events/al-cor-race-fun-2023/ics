@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1530c8a
+DTSTAMP:20250720T222213Z
+DTSTART:20230729
+DTEND:20230730
+LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+SUMMARY:Al Cor Race & Fun 2023
+DESCRIPTION:Evento A noite + colorida e Animada\,  Zumba\,  DJ\,  percurso 
+ com vários obstáculos\,  muito pó colorido e muita animação com vária
+ s surpresas.\nhttps://www.portugalrunning.com/eventos/al-cor-race-fun-2023/
+URL:https://www.portugalrunning.com/eventos/al-cor-race-fun-2023/
+END:VEVENT
+END:VCALENDAR

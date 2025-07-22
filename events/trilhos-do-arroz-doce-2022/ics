@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da5dc088
+DTSTAMP:20250720T222853Z
+DTSTART:20220612
+DTEND:20220613
+LOCATION:Montemor-o-Velho\,  Coimbra Montemor-o-Velho\,  Coimbra
+SUMMARY:Trilhos do Arroz Doce 2022
+DESCRIPTION:Os Trilhos do Arroz Doce 2022 é um evento desportivo organiz
+ ado pela Formobike BTT & Trail Running (Secção do CRP de Formoselha-ACDS)
+ \,  com os apoios do Centro de Recreio Popular de Formoselha\,  Câmara Mun
+ icipal de Montemor-o-Velho\,  Junta de Freguesia de Santo Varão\,  os noss
+ os habituais patrocinadores e colaboradores.\nhttps://www.portugalrunning.c
+ om/eventos/trilhos-do-arroz-doce-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-arroz-doce-2022/
+END:VEVENT
+END:VCALENDAR

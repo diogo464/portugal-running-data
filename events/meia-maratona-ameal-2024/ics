@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc849065
+DTSTAMP:20250720T222512Z
+DTSTART:20240929T170600Z
+DTEND:20240929T235900Z
+LOCATION:Ameal\,  Coimbra Ameal\,  Coimbra
+SUMMARY:Meia Maratona Ameal 2024
+DESCRIPTION:A organização\,  contextualiza-se na vontade de dar a possibi
+ lidade a todos os atletas de poder usufruir das paisagens da nossa União d
+ e Freguesias\,  num percurso desenhado em 2024. Desta forma a Meia Maratona
+  do Ameal foi desenhada para o atleta bater o seu record pessoal\,  atenden
+ do ao ganho de elevação[..]\nhttps://www.portugalrunning.com/eventos/meia
+ -maratona-ameal-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-ameal-2024/
+END:VEVENT
+END:VCALENDAR

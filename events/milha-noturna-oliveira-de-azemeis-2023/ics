@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dc335
+DTSTAMP:20250720T222544Z
+DTSTART:20230526
+DTEND:20230527
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:Milha Noturna Oliveira de Azeméis 2023
+DESCRIPTION:Oliveira de Azeméis irá novamente acolher a Milha noturna (1.
+ 609 metros)\,  pela segunda ocasião. Venha percorrer esta distância clás
+ sica do atletismo de estrada.\nhttps://www.portugalrunning.com/eventos/milh
+ a-noturna-oliveira-de-azemeis-2023/
+URL:https://www.portugalrunning.com/eventos/milha-noturna-oliveira-de-azemeis-2023/
+END:VEVENT
+END:VCALENDAR

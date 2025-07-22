@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09db1e6
+DTSTAMP:20250720T222617Z
+DTSTART:20240803
+DTEND:20240804
+LOCATION:Lisboa Lisboa
+SUMMARY:Running Tour Lisbon
+DESCRIPTION:Discover Lisbon’s essence on our city running tour\,  explori
+ ng landmarks and hidden gems with expert guidance and scenic routes.\nhttps
+ ://www.portugalrunning.com/eventos/running-tour-lisbon/
+URL:https://www.portugalrunning.com/eventos/running-tour-lisbon/
+END:VEVENT
+END:VCALENDAR

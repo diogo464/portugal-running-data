@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edb3b8
+DTSTAMP:20250720T222622Z
+DTSTART:20251221
+DTEND:20251222
+LOCATION:Braga Braga
+SUMMARY:São Silvestre Braga 2025
+DESCRIPTION:São Silvestre Braga 2025\nhttps://www.portugalrunning.com/even
+ tos/sao-silvestre-braga-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-braga-2025/
+END:VEVENT
+END:VCALENDAR

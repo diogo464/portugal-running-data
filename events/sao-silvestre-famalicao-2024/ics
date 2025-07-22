@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c4aa79
+DTSTAMP:20250720T222636Z
+DTSTART:20241223
+DTEND:20241224
+LOCATION:Vila Nova de Famalicão\,  Braga Vila Nova de Famalicão\,  Braga
+SUMMARY:São Silvestre Famalicão 2024
+DESCRIPTION:Já bem perto do Natal realiza-se uma vez mais uma das maiores 
+ provas de São Silvestre do país\,  onde além da prova de 10 kms se reali
+ zará uma Mini/Caminhada com a distância de 4 kms.\nhttps://www.portugalru
+ nning.com/eventos/sao-silvestre-famalicao-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-famalicao-2024/
+END:VEVENT
+END:VCALENDAR

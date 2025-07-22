@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd779fb0
+DTSTAMP:20250720T222527Z
+DTSTART:20231203
+DTEND:20231204
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona Descobrimentos 2023
+DESCRIPTION:Resultados Resultados 10k Com partida na Praça do Império e c
+ hegada na praça do Museu da Marinha\,  a&nbsp;10ª edição da Tranquilida
+ de Meia Maratona Descobrimentos\,  prova&nbsp;5&nbsp;estrelas&nbsp;da Assoc
+ iação Europeia de Atletismo\,  será realizada a&nbsp;3 de Dezembro 2023\
+ ,  na fantástica cidade de&nbsp;Lisboa. Correr lado a lado com os monument
+ os históricos dos Descobrimentos\,  num[..]\nhttps://www.portugalrunning.c
+ om/eventos/meia-maratona-dos-descobrimentos-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-dos-descobrimentos-2023/
+END:VEVENT
+END:VCALENDAR

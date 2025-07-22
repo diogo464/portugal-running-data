@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b62503
+DTSTAMP:20250720T222251Z
+DTSTART:20240225
+DTEND:20240226
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Corrida da Árvore 2024
+DESCRIPTION:Lançada em 1993\,  a “Corrida da Árvore” é uma prova his
+ tórica\,  no coração verde de Lisboa\,  amiga do ambiente e por onde já
+  passaram mais de 30 000 participantes. O desafio está lançado para 2024!
+  Kids Corrida 10km Caminhada 5km\nhttps://www.portugalrunning.com/eventos/c
+ orrida-da-arvore-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-arvore-2024/
+END:VEVENT
+END:VCALENDAR

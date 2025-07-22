@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc3077
+DTSTAMP:20250720T222651Z
+DTSTART:20220507
+DTEND:20220508
+LOCATION:Setúbal Setúbal
+SUMMARY:Setúbal Open Water Race 2022
+DESCRIPTION:O Setúbal Open Water Race&nbsp;é um desafio de águas abertas
+  que se realiza a&nbsp;7 de maio 2022\,  na&nbsp;Praia do Creiro\,  em Set�
+ �bal\,  com&nbsp;três distâncias: → 750 metros→ 1.900 metros→ 3.800
+  metros Defina o seu objetivo e venha cumpri-lo nas águas do Oceano Atlân
+ tico.&nbsp;Individualmente&nbsp;ou em&nbsp;equipa\,  participe na iniciativ
+ a promovida pela&nbsp;HMS Sports&nbsp;e&nbsp;Câmara[..]\nhttps://www.portu
+ galrunning.com/eventos/setubal-open-water-race-2022/
+URL:https://www.portugalrunning.com/eventos/setubal-open-water-race-2022/
+END:VEVENT
+END:VCALENDAR

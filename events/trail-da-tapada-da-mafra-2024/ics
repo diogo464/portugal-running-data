@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50db9b5
+DTSTAMP:20250720T222728Z
+DTSTART:20240519T162700Z
+DTEND:20240519T235000Z
+LOCATION:Tapada Nacional de Mafra\,  Mafra Tapada Nacional de Mafra\,  Mafra
+SUMMARY:Trail da Tapada da Mafra 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-da-tapada-da-ma
+ fra-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-tapada-da-mafra-2024/
+END:VEVENT
+END:VCALENDAR

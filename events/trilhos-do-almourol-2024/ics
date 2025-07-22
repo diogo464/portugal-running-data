@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da601053
+DTSTAMP:20250720T222854Z
+DTSTART:20240303
+DTEND:20240304
+LOCATION:Vila Nova da Barquinha\,  Santarém Vila Nova da Barquinha\,  Santarém
+SUMMARY:Trail Running Almourol à Vista 2024
+DESCRIPTION:O percurso Trail Longo terá a distância aproximada de 31 km c
+ om D+1000\,  passando pelo Trilho Panorâmico do Tejo e junto ao Castelo de
+  Almourol\,  deslocando-se ao longo do Rio Zêzere e do Rio Tejo. É uma pr
+ ova dirigida a atletas experientes. Esta distância integra o Campeonato Na
+ cional de Trail\, [..]\nhttps://www.portugalrunning.com/eventos/trilhos-do-
+ almourol-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-almourol-2024/
+END:VEVENT
+END:VCALENDAR

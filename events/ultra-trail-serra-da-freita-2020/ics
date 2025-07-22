@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db718b7e
+DTSTAMP:20250720T222911Z
+DTSTART:20200627
+DTEND:20200628
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Ultra Trail Serra da Freita 2020
+DESCRIPTION:O evento realiza-se a 27-06-2020 06:00:00 no distrito de Aveiro
+ . Conta com 4 percursos: Elite Trail Serra da Freita 100k - 150 Ultra Trail
+  Serra da Freita 65k - 100 Trail Serra da Freita - 100 Mini-Trail Serra da 
+ Freita - 150\nhttps://www.portugalrunning.com/eventos/ultra-trail-serra-da-
+ freita-2020/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-serra-da-freita-2020/
+END:VEVENT
+END:VCALENDAR

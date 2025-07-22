@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0cdbfea
+DTSTAMP:20250720T222204Z
+DTSTART:20221204
+DTEND:20221205
+LOCATION:Cheleiros\,  Mafra Cheleiros\,  Mafra
+SUMMARY:6 Cascatas Trail Running 2022
+DESCRIPTION:O 6 Cascatas Trail Running é um evento organizado dia 04 de De
+ zembro de 2022 pela empresa Trilho Perdido em parceria com o Trail4U\,  com
+  duas distâncias de Trail Running e uma de caminhada em ambiente natural. 
+ O evento vai-se realizar independentemente das condições climatéricas do
+  dia\,  desde que a[..]\nhttps://www.portugalrunning.com/eventos/6-cascatas
+ -trail-running-2022/
+URL:https://www.portugalrunning.com/eventos/6-cascatas-trail-running-2022/
+END:VEVENT
+END:VCALENDAR

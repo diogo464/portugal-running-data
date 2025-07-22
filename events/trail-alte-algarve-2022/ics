@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3b193e8
+DTSTAMP:20250720T222707Z
+DTSTART:20220425
+DTEND:20220426
+LOCATION:Alte\,  Loulé Alte\,  Loulé
+SUMMARY:Trail Alte Algarve 2022
+DESCRIPTION:Trail Alte Algarve 2022\nhttps://www.portugalrunning.com/evento
+ s/trail-alte-algarve-2022/
+URL:https://www.portugalrunning.com/eventos/trail-alte-algarve-2022/
+END:VEVENT
+END:VCALENDAR

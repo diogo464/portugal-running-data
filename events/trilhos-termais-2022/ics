@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daec7e9a
+DTSTAMP:20250720T222902Z
+DTSTART:20220402
+DTEND:20220403
+LOCATION:Caldas de São Jorge\,  Santa Maria da Feira Caldas de São Jorge\,  Santa Maria da Feira
+SUMMARY:Trilhos Termais 2022
+DESCRIPTION:Os Trilhos Termais 2022 é um evento desportivo com três verte
+ ntes\,  um Trail Curto e um Trail Longo com cariz competitivo e uma Caminha
+ da com cariz recreativo que permitira aos participantes partir da vila term
+ al de Caldas de São Jorge e percorrer trilhos de beleza extrema do concelh
+ o de Santa[..]\nhttps://www.portugalrunning.com/eventos/trilhos-termais-202
+ 2/
+URL:https://www.portugalrunning.com/eventos/trilhos-termais-2022/
+END:VEVENT
+END:VCALENDAR

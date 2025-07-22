@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2162ef1
+DTSTAMP:20250720T222641Z
+DTSTART:20231230
+DTEND:20231231
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:São Silvestre Mirandela 2023
+DESCRIPTION:O grupo Mirandela a Correr irá realizar a 5a São Silvestre de
+  Mirandela\,  no dia 30 de dezembro2023\,  pelas 19h:00h. A "5a São Silves
+ tre de Mirandela”\,  é um evento desportivo que tem como objetivo incent
+ ivar e consciencializar a população para a importância da prática de ex
+ ercício físico.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-mi
+ randela-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mirandela-2023/
+END:VEVENT
+END:VCALENDAR

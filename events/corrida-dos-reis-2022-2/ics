@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b61f3e
+DTSTAMP:20250720T222323Z
+DTSTART:20220226
+DTEND:20220227
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Corrida dos Reis 2022
+DESCRIPTION:Entre no novo ano com o pé direito e visite a cidade de Parede
+ s na já habitual Corrida dos Reis 2022. A Corrida dos Reis em Paredes é j
+ á uma das provas de referência do género em Portugal.\nhttps://www.portu
+ galrunning.com/eventos/corrida-dos-reis-2022-2/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-2022-2/
+END:VEVENT
+END:VCALENDAR

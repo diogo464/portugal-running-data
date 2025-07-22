@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ceddca74
+DTSTAMP:20250720T222549Z
+DTSTART:20240721
+DTEND:20240722
+LOCATION:Trofa do Vouga\,  Águeda Trofa do Vouga\,  Águeda
+SUMMARY:NET24 - Nature Epic Trail 2024
+DESCRIPTION:Evento desportivo\,  em 1ª Edição\,  nas vertentes de Trail 
+ e Caminhada\,  a realizar no dia 21 de Julho de 2024\,  com partida às 08:
+ 30h no Instituto Duarte de Lemos\,  situado em Trofa do Vouga. É organizad
+ o pela empresa PORTA.ABERTA.EVENTS e pela associação VOUGAVIDA com o apoi
+ o do Instituto Duarte de[..]\nhttps://www.portugalrunning.com/eventos/net24
+ -nature-epic-trail-2024/
+URL:https://www.portugalrunning.com/eventos/net24-nature-epic-trail-2024/
+END:VEVENT
+END:VCALENDAR

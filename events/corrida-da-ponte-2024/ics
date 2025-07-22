@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4448aa2
+DTSTAMP:20250720T222300Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Corrida da Ponte 2024
+DESCRIPTION:Prova designada Corrida da Ponte (CP) sendo no ano 2024 a sua 2
+ .a Edição\,  na versão de 10 km\,  ondeacolherá o Campeonato Regional d
+ e Estrada.\nhttps://www.portugalrunning.com/eventos/corrida-da-ponte-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-ponte-2024/
+END:VEVENT
+END:VCALENDAR

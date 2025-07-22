@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5248cf6
+DTSTAMP:20250720T222314Z
+DTSTART:20240420
+DTEND:20240421
+LOCATION:Vilamoura\,  Faro Vilamoura\,  Faro
+SUMMARY:Corrida do Coração 2024
+DESCRIPTION:Numa organização conjunta entre a Sociedade Portuguesa de Ca
+ rdiologia\,  a Câmara Municipal de Loulé e Associação de Atletismo 
+ do Algarve\,  com o apoio do Centro Desportivo de Quarteira\,  realiza-se n
+ o dia 20 de Abril de 2024\,  a 7ª Corrida do Coração\,  com início age
+ ndado para as 18.30 horas\,  no Passeio das Dunas com partida e chegada[..]
+ \nhttps://www.portugalrunning.com/eventos/corrida-do-coracao-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-coracao-2024/
+END:VEVENT
+END:VCALENDAR

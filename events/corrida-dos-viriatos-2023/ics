@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5bab2a0
+DTSTAMP:20250720T222323Z
+DTSTART:20230325
+DTEND:20230326
+LOCATION:Viseu Viseu
+SUMMARY:Corrida Dos Viriatos 2023
+DESCRIPTION:Integrada no programa desportivo do Dia da Unidade do Regimento
+  de Infantaria 14\,  faz o Comando da referida Unidade disputar\,  no dia 2
+ 5 de março de 2023\,  sábado\,  a prova Corrida Dos Viriatos.A corrida se
+ rá realizada num circuito urbano em linha pelas ruas da cidade de Viseu nu
+ ma distância de[..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-v
+ iriatos-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-viriatos-2023/
+END:VEVENT
+END:VCALENDAR

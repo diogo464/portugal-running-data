@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dab308e1
+DTSTAMP:20250720T222859Z
+DTSTART:20230603
+DTEND:20230604
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Trilhos dos Fogaceiros 2023
+DESCRIPTION:Os Trilhos dos Fogaceiros pretendem promover a prática desport
+ iva em geral e o gosto pelo desporto na Natureza. O evento é organizado pe
+ la secção de trail do Clube Desportivo Feirense em parceria com o Municí
+ pio de Santa Maria da Feira e será realizado nos próximos dias 03 e 04 de
+ [..]\nhttps://www.portugalrunning.com/eventos/trilhos-dos-fogaceiros-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-fogaceiros-2023/
+END:VEVENT
+END:VCALENDAR

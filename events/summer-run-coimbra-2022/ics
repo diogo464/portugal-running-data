@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d303301d
+DTSTAMP:20250720T222656Z
+DTSTART:20220612
+DTEND:20220613
+LOCATION:Coimbra Coimbra
+SUMMARY:Summer Run Coimbra 2022
+DESCRIPTION:A Summer Run Coimbra 2022 insere-se no Evento Multisport Weeken
+ d Coimbra 2022 que decorre em Coimbra entre os dias 10 e 12 de junho de 202
+ 2. Será constituída por três distâncias\,  uma prova de 10km\,  a meia 
+ maratona\,  com 21\, 098km\,  e a maratona com 42\, 195km\,  a decorrer no 
+ domingo dia[..]\nhttps://www.portugalrunning.com/eventos/summer-run-coimbra
+ -2022/
+URL:https://www.portugalrunning.com/eventos/summer-run-coimbra-2022/
+END:VEVENT
+END:VCALENDAR

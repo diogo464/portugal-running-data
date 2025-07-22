@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da3303dd
+DTSTAMP:20250720T222851Z
+DTSTART:20200613
+DTEND:20200614
+LOCATION:Vouzela\,  Viseu Vouzela\,  Viseu
+SUMMARY:Trilhos de São Barbabé 2020
+DESCRIPTION:Os Trilhos de São Barbabé é um evento composto por dois perc
+ ursos\,  um com 45 km e pontuável para o campeonato nacional Atrp\,  sendo
+  uma etapa em linha com partida na praia fluvial de campia e chegada a Vouz
+ ela\,  eo  segundo percurso de 18 km é circular com partida e[..]\nhttps:
+ //www.portugalrunning.com/eventos/trilhos-de-sao-barbabe-2020/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-sao-barbabe-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc27a316
+DTSTAMP:20250720T222922Z
+DTSTART:20200901
+DTEND:20200902
+LOCATION:São João da Pesqueira São João da Pesqueira
+SUMMARY:Vindouro Eco Trail 2020
+DESCRIPTION:O evento Vindouro Eco-Trail realiza-se no concelho de S. João 
+ da Pesqueira\,  utilizando muitos percursos que já fazem parte das pequena
+ s rotas já existentes. Os atletas irão percorrer zonas da Região do Dour
+ o – património da humanidade.\nhttps://www.portugalrunning.com/eventos/v
+ indouro-eco-trail-2020/
+URL:https://www.portugalrunning.com/eventos/vindouro-eco-trail-2020/
+END:VEVENT
+END:VCALENDAR

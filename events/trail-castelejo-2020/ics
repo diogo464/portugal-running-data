@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d40c2e3f
+DTSTAMP:20250720T222712Z
+DTSTART:20200216
+DTEND:20200217
+LOCATION:Alvados\,  Porto de Mós Alvados\,  Porto de Mós\,  Lisboa
+SUMMARY:Trail Castelejo 2020
+DESCRIPTION:A prova é organizada pela Trilho do Castelejo Associação de
+  Aventura de Alvados. A prova realiza se no dia 16 de Fevereiro de 2020 \
+ ,  com início pelas 09H00 e término pelas 15H00. O Trail Castelejo 202
+ 0 \,  Promover as corridas de montanha/trail\,  desporto com um impacto am
+ biental nulo como forma de chamar a atenção da população[..]\nhttps://w
+ ww.portugalrunning.com/eventos/trail-castelejo-2020/
+URL:https://www.portugalrunning.com/eventos/trail-castelejo-2020/
+END:VEVENT
+END:VCALENDAR

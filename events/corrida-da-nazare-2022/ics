@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c40c569c
+DTSTAMP:20250720T222256Z
+DTSTART:20220611
+DTEND:20220612
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Corrida da Nazaré 2022
+DESCRIPTION:No dia 11 de Junho de 2022 pelas 20 horas a mais típica praia 
+ portuguesa abre as portas a todos os atletas para cumprirem 10km num dos pe
+ rcursos mais rápidos e bonitos do calendário de estrada português. Com d
+ uas passagens pela marginal sul\,  uma pela marginal norte e Praça Sousa[.
+ .]\nhttps://www.portugalrunning.com/eventos/corrida-da-nazare-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-nazare-2022/
+END:VEVENT
+END:VCALENDAR

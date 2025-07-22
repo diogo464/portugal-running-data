@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6eac1ea
+DTSTAMP:20250720T222758Z
+DTSTART:20230319
+DTEND:20230320
+LOCATION:Vila Flor\,  Bragança Vila Flor\,  Bragança
+SUMMARY:Trail F´Liz Em Vila Flor 2023
+DESCRIPTION:Um pedaço de terra\,  quente e fria\,  agreste e aveludada. Um
+  recanto batizado pela beleza natural. Bem-vindos a Vila Flor e à segunda 
+ edição do Trail F´Liz\,  com trail longo (22 km)\,  trail curto (13\, 5 
+ km) e Caminhada (8 km).\nhttps://www.portugalrunning.com/eventos/trail-fliz
+ -em-vila-flor-2023/
+URL:https://www.portugalrunning.com/eventos/trail-fliz-em-vila-flor-2023/
+END:VEVENT
+END:VCALENDAR

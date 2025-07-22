@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7f61c47
+DTSTAMP:20250720T222815Z
+DTSTART:20260411
+DTEND:20260412
+LOCATION:Piódão\,  Coimbra Piódão\,  Coimbra
+SUMMARY:Trail Piodão 2026
+DESCRIPTION:Trail Piodão 2026\nhttps://www.portugalrunning.com/eventos/tra
+ il-piodao-2026/
+URL:https://www.portugalrunning.com/eventos/trail-piodao-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8db643
+DTSTAMP:20250720T222544Z
+DTSTART:20230603
+DTEND:20230604
+LOCATION:Pinheiro da Bemposta\,  Oliveira de Azeméis Pinheiro da Bemposta\,  Oliveira de Azeméis
+SUMMARY:Milha Grupo Juvenil Pinheiro da Bemposta 2023
+DESCRIPTION:O Grupo Juvenil de Pinheiro da Bemposta irá inaugurar este ano
+  a primeira edição de uma prova de estrada com distância de Milha\,  que
+  animará o fim de tarde do primeiro sábado de junho.\nhttps://www.portuga
+ lrunning.com/eventos/milha-grupo-juvenil-pinheiro-da-bemposta-2023/
+URL:https://www.portugalrunning.com/eventos/milha-grupo-juvenil-pinheiro-da-bemposta-2023/
+END:VEVENT
+END:VCALENDAR

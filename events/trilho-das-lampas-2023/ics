@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9b183c2
+DTSTAMP:20250720T222843Z
+DTSTART:20230513
+DTEND:20230514
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:Trilho das Lampas 2023
+DESCRIPTION:O IX Trilho das Lampas realiza-se no dia 13 de Maio de 2023\,  
+ em S. João das Lampas e será constituído por uma prova competitiva de 20
+ Km\,  a contar para o Circuito de Trail da Associação de Atletismo de Lis
+ boa\,  e uma Caminhada de caracter não competitivo\,  com cerca de[..]\nht
+ tps://www.portugalrunning.com/eventos/trilho-das-lampas-2023/
+URL:https://www.portugalrunning.com/eventos/trilho-das-lampas-2023/
+END:VEVENT
+END:VCALENDAR

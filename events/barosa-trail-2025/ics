@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2192a71
+DTSTAMP:20250720T222225Z
+DTSTART:20250601T074300Z
+DTEND:20250601T074300Z
+LOCATION:Barosa\,  Leiria Barosa\,  Leiria
+SUMMARY:Barosa Trail 2025
+DESCRIPTION:A&nbsp;Tribo de Escoteiros do Grupo 251 Barosa\,  dos Escoteiro
+ s de Portugal\,  com o apoio de alguns encarregados de educação\,  organi
+ za no dia&nbsp;1 de junho de 2025&nbsp;o evento&nbsp;“Barosa Trail – 1s
+ t Edition 2025”\,  que consiste numa prova de trail running e numa caminh
+ ada\,  a realizar-se na Barosa\,  com partida e chegada[..]\nhttps://www.po
+ rtugalrunning.com/eventos/barosa-trail-2025/
+URL:https://www.portugalrunning.com/eventos/barosa-trail-2025/
+END:VEVENT
+END:VCALENDAR

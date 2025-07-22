@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd730796
+DTSTAMP:20250720T222527Z
+DTSTART:20220327
+DTEND:20220328
+LOCATION:Baião\,  Porto Baião\,  Porto
+SUMMARY:Meia Maratona Douro Verde 2022
+DESCRIPTION:O Clube Náutico Ribadouro\,  em conjunto com a EVENTSPORT e a 
+ PORTOCARGO Runners\,  organizam a Meia Maratona Douro Verde 2022 que tem a 
+ finalidade de estimular a prática desportiva como elemento da promoção d
+ a saúde e da qualidade de vida.&nbsp;Realiza-se no dia&nbsp;27 de Março&n
+ bsp;de 2022\,  com início às&nbsp;10h00\,  uma&nbsp;Meia-Maratona de[..]\
+ nhttps://www.portugalrunning.com/eventos/meia-maratona-douro-verde-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-douro-verde-2022/
+END:VEVENT
+END:VCALENDAR

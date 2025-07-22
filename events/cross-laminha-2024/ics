@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c79183d2
+DTSTAMP:20250720T222353Z
+DTSTART:20240114
+DTEND:20240115
+LOCATION:Cumeira\,  Leiria Cumeira\,  Leiria
+SUMMARY:Cross Laminha 2024
+DESCRIPTION:A Fábrica da Igreja não Paroquial da Boieira organiza no dia 
+ 14 janeiro de 2024\,  pelas 10h00\,  a 20ª edição do CROSS LAMINHA\,  co
+ m percurso de cerca de 13 kms.\nhttps://www.portugalrunning.com/eventos/cro
+ ss-laminha-2024/
+URL:https://www.portugalrunning.com/eventos/cross-laminha-2024/
+END:VEVENT
+END:VCALENDAR

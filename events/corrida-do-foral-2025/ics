@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5749d05
+DTSTAMP:20250720T222319Z
+DTSTART:20250517
+DTEND:20250518
+LOCATION:Vinhais\,  Bragança Vinhais\,  Bragança
+SUMMARY:Corrida do Foral 2025
+DESCRIPTION:Terá lugar no dia 17 de maio de 2025\,  a 5ª edição da Corr
+ ida do Foral de Vinhais promovida pela Autarquia de Vinhais\,  conta o apoi
+ o técnico da Associação de Atletismo de Bragança.\nhttps://www.portugal
+ running.com/eventos/corrida-do-foral-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-do-foral-2025/
+END:VEVENT
+END:VCALENDAR

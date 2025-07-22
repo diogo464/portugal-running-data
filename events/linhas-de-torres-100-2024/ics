@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb9c2dfc
+DTSTAMP:20250720T222457Z
+DTSTART:20240126
+DTEND:20240127
+LOCATION:Sobral de Monte Agra√ßo\,  Lisboa Sobral de Monte Agra√ßo\,  Lisboa
+SUMMARY:Linhas de Torres 100 2024
+DESCRIPTION:O Linhas de Torres 100 integra 7 variantes de corrida/progress√
+ £o a p√© em plena natureza\,  em regime de semiautonomia num tempo limitado
+  e dois passeios\,  um pedestre e outro equestre\,  conforme segue: LT100 ‚
+ Äì K100: prova realizada a solo num percurso com cerca de 100km com partida
+  e chegada em[..]\nhttps://www.portugalrunning.com/eventos/linhas-de-torres
+ -100-2024/
+URL:https://www.portugalrunning.com/eventos/linhas-de-torres-100-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c47dc999
+DTSTAMP:20250720T222303Z
+DTSTART:20220515
+DTEND:20220516
+LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+SUMMARY:Corrida de Belém 2022
+DESCRIPTION:Depois de uma paragem forçada por dois anos consecutivos\,  a�
+ �Corrida de Belém 2022 está de regresso\,  com partida e chegada no míti
+ co Estádio do Restelo\,  no próximo dia 15 de Maio! Um encontro com a h
+ istória e uma corrida compassagem pelos mais belos monumentos históricos 
+ da cidade de Lisboa. Belém\,  batizado com[..]\nhttps://www.portugalrunnin
+ g.com/eventos/corrida-de-belem-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-de-belem-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5418aaa
+DTSTAMP:20250720T222732Z
+DTSTART:20231105
+DTEND:20231106
+LOCATION:Vila Verde de Ficalho\,  Serpa Vila Verde de Ficalho\,  Serpa
+SUMMARY:III edição do Trail de Ficalho 2023
+DESCRIPTION:O Trail de Ficalho faz parte do Circuito de Trail do Baixo Alen
+ tejo. Situado na raia alentejana o Trail de Ficalho brinda-nos com uma dive
+ rsidade de paisagens que não é fácil de encontrar pelas redondezas. Quem
+  participou na edição de 2022\,  teve o privilégio de experimentar uma m
+ istura de percursos\, [..]\nhttps://www.portugalrunning.com/eventos/trail-d
+ e-ficalho-2023/
+URL:https://www.portugalrunning.com/eventos/trail-de-ficalho-2023/
+END:VEVENT
+END:VCALENDAR

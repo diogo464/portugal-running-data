@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c74199e8
+DTSTAMP:20250720T222348Z
+DTSTART:20220730
+DTEND:20220731
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Virtual Correr e Caminhar Para Ajudar 2022
+DESCRIPTION:Corrida Virtual Correr e Caminhar Para Ajudar 2022\,  com duas 
+ provas\,  uma de 5 km e outra de 10 km\nhttps://www.portugalrunning.com/eve
+ ntos/corrida-virtual-correr-e-caminhar-para-ajudar-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-virtual-correr-e-caminhar-para-ajudar-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c08f3947
+DTSTAMP:20250720T222200Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Santa Cruz\,  Torres Vedras Santa Cruz\,  Torres Vedras
+SUMMARY:5ª Corrida Sealand Santa Cruz 2023
+DESCRIPTION:A Corrida Sealand é uma prova organizada pela Associação Sea
+ land Santa Cruz\,  no dia 10&nbsp;de Setembro\,  Domingo. Contará com uma 
+ Corrida de 10km e uma Caminhada de 6km.\nhttps://www.portugalrunning.com/ev
+ entos/5a-corrida-sealand-santa-cruz-2023/
+URL:https://www.portugalrunning.com/eventos/5a-corrida-sealand-santa-cruz-2023/
+END:VEVENT
+END:VCALENDAR

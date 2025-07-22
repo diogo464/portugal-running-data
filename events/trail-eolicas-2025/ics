@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6eaa680
+DTSTAMP:20250720T222758Z
+DTSTART:20250622T141300Z
+DTEND:20250622T235900Z
+LOCATION:Álvora\,  Arcos de Valdevez Álvora\,  Arcos de Valdevez
+SUMMARY:Trail Eolicas 2025
+DESCRIPTION:O evento sera composto por um percurso de Trail Longo com aprox
+ imadamente 21kms de distancia\,  um Mini Trail de 11 kms\,  Caminhada de 11
+  kms e caminhada com 5 kms de extensão.\nhttps://www.portugalrunning.com/e
+ ventos/trail-eolicas-2025/
+URL:https://www.portugalrunning.com/eventos/trail-eolicas-2025/
+END:VEVENT
+END:VCALENDAR

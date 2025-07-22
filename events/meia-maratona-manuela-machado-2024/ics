@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdd49072
+DTSTAMP:20250720T222533Z
+DTSTART:20240121
+DTEND:20240122
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Meia Maratona Manuela Machado 2024
+DESCRIPTION:A Meia Maratona Manuela Machado 2023 realiza-se n&nbsp;dia 21 d
+ e Janeiro de 2024\,  com partida às 10:30 horas. A prova será aberta a to
+ dos os atletas federados e não federados. Preços As inscrições estarão
+  disponíveis para um máximo de 4000 participantes. As inscrições serão
+  feitas exclusivamente pela internet\,  através dos[..]\nhttps://www.portu
+ galrunning.com/eventos/meia-maratona-manuela-machado-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-manuela-machado-2024/
+END:VEVENT
+END:VCALENDAR

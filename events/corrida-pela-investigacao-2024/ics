@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64db780
+DTSTAMP:20250720T222332Z
+DTSTART:20240519T080300Z
+DTEND:20240519T080300Z
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Corrida pela Investigação 2024
+DESCRIPTION:O evento solidário “Corrida/Caminhada Pela Investigação LP
+ CC-NRS” irá decorrer no dia 19 de maio de 2024\,  domingo\,  com partida
+  e chegada no Campus universitário de Gambelas\,  Faro.O evento consistir�
+ � numa corrida e caminhada de 6 e 10 km\,  a decidir pelo participante de f
+ orma autónoma e independente. Não haverá cronometragem\, [..]\nhttps://w
+ ww.portugalrunning.com/eventos/corrida-pela-investigacao-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-pela-investigacao-2024/
+END:VEVENT
+END:VCALENDAR

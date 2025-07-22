@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bff004bc
+DTSTAMP:20250720T222151Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Bárrio\,  Alcobaça Bárrio\,  Alcobaça
+SUMMARY:2ª Edição Trail Trilhos Romanos 2023
+DESCRIPTION:A Associação Trilhos Romanos em colaboração com a Junta de 
+ Freguesia do Bárrio\,  concelho de Alcobaça\,  no próximo dia 04 de Junh
+ o de 2023\,  dia do aniversário da freguesia\,  levará a cabo a organiza�
+ �ão da 2ª edição do Trail Trilhos Romanos. O evento contará com duas p
+ rovas competitivas\,  um Trail[..]\nhttps://www.portugalrunning.com/eventos
+ /2a-edicao-trail-trilhos-romanos-2023/
+URL:https://www.portugalrunning.com/eventos/2a-edicao-trail-trilhos-romanos-2023/
+END:VEVENT
+END:VCALENDAR

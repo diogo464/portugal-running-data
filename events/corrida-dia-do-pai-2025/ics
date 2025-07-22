@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d6170b
+DTSTAMP:20250720T222309Z
+DTSTART:20250316
+DTEND:20250317
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Corrida Dia do Pai 2025
+DESCRIPTION:A comemorar um dia muito especial\,  a 21ª edição da Corrida
+  Mimosa Dia do Pai pretende juntar a 16 de março\,  pelas 9h00\,  pais e f
+ ilhos de todas as idades. Com duas distâncias disponíveis\,  uma corrida 
+ com 10 km cronometrada e uma caminhada com 5 km sem fins competitivos\,  es
+ pera-se[..]\nhttps://www.portugalrunning.com/eventos/corrida-dia-do-pai-202
+ 5/
+URL:https://www.portugalrunning.com/eventos/corrida-dia-do-pai-2025/
+END:VEVENT
+END:VCALENDAR

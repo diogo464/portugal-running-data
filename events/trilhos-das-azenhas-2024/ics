@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da2c3eaf
+DTSTAMP:20250720T222850Z
+DTSTART:20240324
+DTEND:20240325
+LOCATION:Coimbra Coimbra
+SUMMARY:Trilhos das Azenhas 2024
+DESCRIPTION:Realiza-se a 24 de Março em Coimbra. É uma organização do n
+ osso Associado RODA DIANTEIRA\nhttps://www.portugalrunning.com/eventos/tril
+ hos-das-azenhas-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-das-azenhas-2024/
+END:VEVENT
+END:VCALENDAR

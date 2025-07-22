@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c984a13a
+DTSTAMP:20250720T222424Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Grande Premio Caldas de São Jorge 2024
+DESCRIPTION:O Caldas de São Jorge Sport Clube volta a organizar um dos eve
+ ntos de referência de Santa Maria da Feira. Este é um Grande Prémio para
+  todas as idades e géneros\,  inclusivo e cheio de festa de atletismo.\nht
+ tps://www.portugalrunning.com/eventos/grande-premio-caldas-de-sao-jorge-202
+ 4/
+URL:https://www.portugalrunning.com/eventos/grande-premio-caldas-de-sao-jorge-2024/
+END:VEVENT
+END:VCALENDAR

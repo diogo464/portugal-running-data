@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da9c3881
+DTSTAMP:20250720T222857Z
+DTSTART:20230422
+DTEND:20230423
+LOCATION:Batalha\,  Leiria Batalha\,  Leiria
+SUMMARY:Trilhos Do Pastor Kids Run 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-do-pastor-kid
+ s-run-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-pastor-kids-run-2023/
+END:VEVENT
+END:VCALENDAR

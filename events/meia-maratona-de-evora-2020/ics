@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd0aa69e
+DTSTAMP:20250720T222520Z
+DTSTART:20201122
+DTEND:20201123
+LOCATION:Évora Évora
+SUMMARY:Meia Maratona de Évora 2020
+DESCRIPTION:Meia Maratona de Évora 2020\nhttps://www.portugalrunning.com/e
+ ventos/meia-maratona-de-evora-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-evora-2020/
+END:VEVENT
+END:VCALENDAR

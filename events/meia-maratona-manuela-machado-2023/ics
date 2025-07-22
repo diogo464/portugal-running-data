@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cddf3a23
+DTSTAMP:20250720T222533Z
+DTSTART:20230122
+DTEND:20230123
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Meia Maratona Manuela Machado 2023
+DESCRIPTION:A prova realiza-se no dia 22 de Janeiro de 2023\,  pelas 10:30 
+ horas e terá uma distância de 21.095 metros (distância oficial – FPA).
+  A prova será aberta a todos os atletas federados e não federados. A Mini
+  - Maratona e Caminhada serão abertas a atletas de ambos os sexos[..]\nhtt
+ ps://www.portugalrunning.com/eventos/meia-maratona-manuela-machado-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-manuela-machado-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbedb897
+DTSTAMP:20250720T222502Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Passeio das Dunas\,  Vilamoura Passeio das Dunas\,  Vilamoura
+SUMMARY:MamaMaratona 2024
+DESCRIPTION:Do plano de ação da Associação Oncológica do Algarve para 
+ este ano\,  faz parte a organização da&nbsp;MamaMaratona&nbsp;(MM)\,  um 
+ evento de importante dimensão\,  essencialmente pela causa solidária que 
+ representa.  A 24ª edição da Mamamaratona irá decorrer\,  no dia 2
+ 0 outubro.\nhttps://www.portugalrunning.com/eventos/mamamaratona-2024/
+URL:https://www.portugalrunning.com/eventos/mamamaratona-2024/
+END:VEVENT
+END:VCALENDAR

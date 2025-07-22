@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dab30536
+DTSTAMP:20250720T222859Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Macinhata do Vouga\,  Águeda Macinhata do Vouga\,  Águeda
+SUMMARY:Trilhos do Vouga 2023
+DESCRIPTION:A contar para o Troféu Trail Terras de Águeda\,  o Trilhos do
+  Vouga 2022 será uma prova com duas distâncias competitivas e uma caminha
+ da. Atravesse alguns dos locais mais interessantes de Macinhata do Vouga e 
+ usufrua dos incríveis espaços naturais.\nhttps://www.portugalrunning.com/
+ eventos/trilhos-do-vouga-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-vouga-2023/
+END:VEVENT
+END:VCALENDAR

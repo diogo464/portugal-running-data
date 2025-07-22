@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c747a753
+DTSTAMP:20250720T222348Z
+DTSTART:20240406
+DTEND:20240407
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corrida UGT 2024
+DESCRIPTION:Para celebrar o&nbsp;Dia Mundial da&nbsp;Atividade Física\,  a
+  UGT realizará no dia 6 de Abril\, &nbsp;a&nbsp;7ª edição da Corrida UG
+ T! Inscreve-te gratuitamente\, &nbsp;recebe o teu kit participante e corre 
+ para a tua medalha finisher!\nhttps://www.portugalrunning.com/eventos/corri
+ da-ugt-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-ugt-2024/
+END:VEVENT
+END:VCALENDAR

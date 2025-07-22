@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c29f4073
+DTSTAMP:20250720T222233Z
+DTSTART:20210904
+DTEND:20210905
+LOCATION:Felgueiras Felgueiras
+SUMMARY:Campeonato Nacional de Estrada 2021
+DESCRIPTION:RESULTADOS Felgueiras será palco\,  pela primeira vez na sua h
+ istória\,  de um Campeonato Nacional de Estrada – Atletismo\,  no próxi
+ mo dia 4 de setembro\,  organizado pela Associação de Atletismo do Porto 
+ e Federação Portuguesa de Atletismo\,  com apoio do Município de Felguei
+ ras\,  onde os melhores atletas nacionais vão percorrer 10km[..]\nhttps://
+ www.portugalrunning.com/eventos/campeonato-nacional-de-estrada-2021/
+URL:https://www.portugalrunning.com/eventos/campeonato-nacional-de-estrada-2021/
+END:VEVENT
+END:VCALENDAR

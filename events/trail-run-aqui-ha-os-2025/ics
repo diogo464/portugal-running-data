@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d879376b
+DTSTAMP:20250720T222823Z
+DTSTART:20250504
+DTEND:20250505
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:Trail Run Aqui HÁ-OS 2025
+DESCRIPTION:A associação Talentos Objetivos – Clube de Enduro e Recreio
+  irá promover\,  com o apoio da junta de freguesia de Quiaios e da Câmara
+  Municipal da Figueira da Foz\,  a quinta edição de Trail Running intitul
+ ada "5º TRAIL RUN AQUI HÁ-OS". Será realizada no dia 4 de maio de 2025\,
+  [..]\nhttps://www.portugalrunning.com/eventos/trail-run-aqui-ha-os-2025/
+URL:https://www.portugalrunning.com/eventos/trail-run-aqui-ha-os-2025/
+END:VEVENT
+END:VCALENDAR

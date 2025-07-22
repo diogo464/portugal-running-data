@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc330619
+DTSTAMP:20250720T222923Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Nisa\,  Portalegre Nisa\,  Portalegre
+SUMMARY:VI Trail Running Vila de Nisa 2022
+DESCRIPTION:O VI Trail Running Vila de Nisa será realizado no dia 20 de no
+ vembro de 2022 e é um evento organizado pela Inijovem\,  Câmara Municipal
+  de Nisa\,  União de Freguesias do Espírito Santo\,  Nossa Srª da Graça
+  e São Simão e Freguesia de Montalvão. Terá parcerias com entidades gov
+ ernamentais bem[..]\nhttps://www.portugalrunning.com/eventos/vi-trail-runni
+ ng-vila-de-nisa-2022/
+URL:https://www.portugalrunning.com/eventos/vi-trail-running-vila-de-nisa-2022/
+END:VEVENT
+END:VCALENDAR

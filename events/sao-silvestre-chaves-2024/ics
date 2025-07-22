@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edc226
+DTSTAMP:20250720T222622Z
+DTSTART:20241228
+DTEND:20241229
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:São Silvestre Chaves 2024
+DESCRIPTION:A “Corrida de São Silvestre Chaves – 2024” é uma corrid
+ a organizada pelo Município de Chaves com a colaboração da Associação 
+ de Atletismo de Vila Real. A prova irá realizar-se no dia&nbsp;28 de dezem
+ bro 2024 com início às 18h00&nbsp;com partida e chegada na Praça General
+  Silveira\,  em Chaves. As inscrições[..]\nhttps://www.portugalrunning.co
+ m/eventos/sao-silvestre-chaves-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-chaves-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daac31ea
+DTSTAMP:20250720T222858Z
+DTSTART:20220313
+DTEND:20220314
+LOCATION:Celorico de Basto Celorico de Basto
+SUMMARY:Trilhos do Viso 2022
+DESCRIPTION:Trilhos do Viso 2022 é uma prova que percorre trilhos e caminh
+ os na Serra do Viso\,  em Celorico de Basto\,  com partida e chegada na Cap
+ ela de Nossa Senhora do Viso\,  ponto mais alto do concelho\,  com 856m de 
+ altitude. Inscreve-te e vem desfrutar do que de melhor tem esta[..]\nhttps:
+ //www.portugalrunning.com/eventos/trilhos-do-viso-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-viso-2022/
+END:VEVENT
+END:VCALENDAR

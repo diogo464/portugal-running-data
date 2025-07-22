@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b79fbe
+DTSTAMP:20250720T222323Z
+DTSTART:20240113
+DTEND:20240114
+LOCATION:Anadia\,  Aveiro Anadia\,  Aveiro
+SUMMARY:Corrida dos Reis Anadia 2024
+DESCRIPTION:A 1ª Corrida De Reis de Anadia\,  é uma prova organizada por 
+ duas alunas da Escola Básica e Secundária deAnadia\,  Inês Ferreira e Ga
+ briela Batista no sentido de realizar a PAP (Prova de Aptidão Profissional
+ ) paraconcluir o 12º ano do curso Técnico de Desporto\,  com o apoio da C
+ âmara Municipal[..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-r
+ eis-anadia-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-anadia-2024/
+END:VEVENT
+END:VCALENDAR

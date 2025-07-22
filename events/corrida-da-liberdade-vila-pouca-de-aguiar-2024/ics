@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f49b1d
+DTSTAMP:20250720T222255Z
+DTSTART:20240427T151200Z
+DTEND:20240427T235900Z
+LOCATION:Vila Pouca de Aguiar\,  Vila Real Vila Pouca de Aguiar\,  Vila Real
+SUMMARY:Corrida da Liberdade Vila Pouca de Aguiar 2024
+DESCRIPTION:A prova irá realizar-se no dia 27 de abril 2024 com início à
+ s 10h00 com partida e chegada naPraça João Paulo II PROVASCorrida Kids - 
+ 600mtCorrida Juvenil – 1500mtCorrida da Liberdade – 10km\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-da-liberdade-vila-pouca-de-aguiar-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-vila-pouca-de-aguiar-2024/
+END:VEVENT
+END:VCALENDAR

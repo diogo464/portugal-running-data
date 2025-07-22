@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7917dc7
+DTSTAMP:20250720T222353Z
+DTSTART:20251004
+DTEND:20251005
+LOCATION:Palmela\,  Setúbal Palmela\,  Setúbal
+SUMMARY:Corrida Volkswagen 2025
+DESCRIPTION:A 4 de outubro junta-te à linha de partida da maior fábrica d
+ e automóveis do país.\nhttps://www.portugalrunning.com/eventos/corrida-vo
+ lkswagen-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-volkswagen-2025/
+END:VEVENT
+END:VCALENDAR

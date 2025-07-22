@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb64a0a5
+DTSTAMP:20250720T222454Z
+DTSTART:20221125
+DTEND:20221126
+LOCATION:Leiria Leiria
+SUMMARY:Leiria Trail Running Series 2022
+DESCRIPTION:O Leiria Trail Running Series 2022 é uma corrida por etapas\,
+   percorre trilhos e caminhos secundários na região Norte de Leira\,  pa
+ ssando por diversas zonas com elevado interesse histórico\,  cultural e na
+ tural\,  nomeadamente: BajoucaCoimbrãoUnião de Freguesias de Monte Redond
+ o e CarreiraUnião de Freguesias de Monte Real e Carvide\nhttps://www.portu
+ galrunning.com/eventos/leiria-trail-running-series-2022/
+URL:https://www.portugalrunning.com/eventos/leiria-trail-running-series-2022/
+END:VEVENT
+END:VCALENDAR

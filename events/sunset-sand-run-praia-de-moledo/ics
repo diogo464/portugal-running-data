@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d33f3f2d
+DTSTAMP:20250720T222659Z
+DTSTART:20230729
+DTEND:20230730
+LOCATION:Moledo\,  Caminha Moledo\,  Caminha
+SUMMARY:Sunset Sand Run - Praia de Moledo
+DESCRIPTION:A Sunset Sand Run – Moledo do Minho é uma prova de atletismo
+  que percorre a praia de Moledo e Foz do Minho \,  fazendo também parte do
+  percurso em área protegida da Mata do Camarido.\nhttps://www.portugalrunn
+ ing.com/eventos/sunset-sand-run-praia-de-moledo/
+URL:https://www.portugalrunning.com/eventos/sunset-sand-run-praia-de-moledo/
+END:VEVENT
+END:VCALENDAR

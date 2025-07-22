@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c43db850
+DTSTAMP:20250720T222259Z
+DTSTART:20251019
+DTEND:20251020
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Corrida da Ponte 2025
+DESCRIPTION:A Corrida da Ponte é organizada pelo CAOV- Clube de Atletismo 
+ Olimpico Vianense\,  e conta com o apoio imprescindível da Camara Municipa
+ l de Viana do Castelo\,  decorrerá no dia 19 de outubro de 2025\,  em Vian
+ a do Castelo.\nhttps://www.portugalrunning.com/eventos/corrida-da-ponte-202
+ 5/
+URL:https://www.portugalrunning.com/eventos/corrida-da-ponte-2025/
+END:VEVENT
+END:VCALENDAR

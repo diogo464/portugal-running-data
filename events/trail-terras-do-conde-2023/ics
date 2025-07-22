@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9301d95
+DTSTAMP:20250720T222835Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Castelo de Paiva\,  Aveiro Castelo de Paiva\,  Aveiro
+SUMMARY:Trail Terras Do Conde 2023
+DESCRIPTION:Ao longo da prova os atletas poderão desfrutar de uma paisagem
+  magnífica\,  tendo como principal ponto de referência a passagem pelo Mo
+ nte de São Domingos. Deste santuário edificado na união de Freguesias de
+  Raiva\,  Pedorido e Paraíso é possível apreciar o Rio Douro desde o Con
+ celho de Gondomar\,  a foz[..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-terras-do-conde-2023/
+URL:https://www.portugalrunning.com/eventos/trail-terras-do-conde-2023/
+END:VEVENT
+END:VCALENDAR

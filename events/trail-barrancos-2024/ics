@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3cab7df
+DTSTAMP:20250720T222708Z
+DTSTART:20240203
+DTEND:20240204
+LOCATION:Barrancos\,  Beja Barrancos\,  Beja
+SUMMARY:Trail Barrancos 2024
+DESCRIPTION:O Barrancos Futebol Clube é uma Associação sem fins lucrativ
+ os\,  com sede em Barrancos\,  e que promovea prova de Trail Barrancos: “
+ VI Trail Iberlince de Barrancos” nos dias 3 e 4 de fevereiro de 2024.\nht
+ tps://www.portugalrunning.com/eventos/trail-barrancos-2024/
+URL:https://www.portugalrunning.com/eventos/trail-barrancos-2024/
+END:VEVENT
+END:VCALENDAR

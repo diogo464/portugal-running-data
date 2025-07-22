@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cacc44b5
+DTSTAMP:20250720T222444Z
+DTSTART:20231118
+DTEND:20231119
+LOCATION:Cumeira\,  Leiria Cumeira\,  Leiria
+SUMMARY:Resistência Trail Arcumeirense 2023
+DESCRIPTION:A I Resistência Trail ARCumeirense\,  será a primeira ediçã
+ o realizada. Durante a corrida os atletas terão a oportunidade de usufruir
+  de trilhos\,  estradão de terra batida\,  e com passagem interior no pavi
+ lhão da associação. A partida e a chegada da prova serão efetuadas no p
+ avilhão da Associação Recreativa Cumeirense. A[..]\nhttps://www.portugal
+ running.com/eventos/i-resistencia-trail-arcumeirense-2023/
+URL:https://www.portugalrunning.com/eventos/i-resistencia-trail-arcumeirense-2023/
+END:VEVENT
+END:VCALENDAR

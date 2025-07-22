@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb9334e
+DTSTAMP:20250720T222915Z
+DTSTART:20230624
+DTEND:20230625
+LOCATION:Sines\,  Setúbal Sines\,  Setúbal
+SUMMARY:V Corrida Do Porto De Sines 2023
+DESCRIPTION:O Grupo Desportivo e Cultural da Administração dos Portos de 
+ Sines e do Algarve\,  S.A.\, promoverá a realização da “Corrida do Por
+ to de Sines”\,  no próximo dia 24 de junho de 2023\, pelas 19h00m\,  enq
+ uadrada nas comemorações do Dia do Porto de Sines. O evento contará coma
+  vertente de corrida\,  caminhada e[..]\nhttps://www.portugalrunning.com/ev
+ entos/v-corrida-do-porto-de-sines-2023/
+URL:https://www.portugalrunning.com/eventos/v-corrida-do-porto-de-sines-2023/
+END:VEVENT
+END:VCALENDAR

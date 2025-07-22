@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92f3f0c
+DTSTAMP:20250720T222834Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Sardoal\,  Santarém Sardoal\,  Santarém
+SUMMARY:VIII Trail Terras Do Sardão 2023
+DESCRIPTION:O VIII Trail “Terras do Sardão” será realizado no dia 28 
+ de maio de 2023\,  em Sardoal\,  independentemente das condições climaté
+ ricas do dia\,  desde que a organização entenda que não ofereçam risco 
+ aos participantes. O evento será constituído por três percursos:- Trail 
+ Longo “Terras do Sardão” - 30km – Prova[..]\nhttps://www.portugalrun
+ ning.com/eventos/trail-terras-do-sardao-2023/
+URL:https://www.portugalrunning.com/eventos/trail-terras-do-sardao-2023/
+END:VEVENT
+END:VCALENDAR

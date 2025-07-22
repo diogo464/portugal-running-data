@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d33183c3
+DTSTAMP:20250720T222659Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Ferreira do Alentejo\,  Beja Ferreira do Alentejo\,  Beja
+SUMMARY:Sunrise Trail Running Ferreira Do Alentejo 2023
+DESCRIPTION:O SUNRISE TRAIL RUNNING Ferreira do Alentejo é um evento despo
+ rtivo de caráter lúdico competitivo\,  organizado pela associação SINGA
+ RUNNERS\,  em estreita parceira com a Câmara Municipal de Ferreira do Alen
+ tejo\,  a União das Freguesias de Ferreira do Alentejo e Canhestros\,  Ass
+ ociação dos Bombeiros Voluntários de Ferreira do Alentejo\,  Agrupamento
+  1071[..]\nhttps://www.portugalrunning.com/eventos/sunrise-trail-running-fe
+ rreira-do-alentejo-2023/
+URL:https://www.portugalrunning.com/eventos/sunrise-trail-running-ferreira-do-alentejo-2023/
+END:VEVENT
+END:VCALENDAR

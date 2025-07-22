@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6600a33
+DTSTAMP:20250720T222750Z
+DTSTART:20240128
+DTEND:20240129
+LOCATION:Milagres\,  Leiria Milagres\,  Leiria
+SUMMARY:Trail dos Trilhos da Mata 2024
+DESCRIPTION:A Associação Desportiva e Recreativa da Mata realizará no di
+ a&nbsp;28 de janeiro de 2024&nbsp;a sexta edição do&nbsp;Trail dos Trilho
+ s da Mata. Uma prova de Trail Running (aproximadamente 19 km) que percorrer
+ á percursos e trilhos na freguesia dos Milagres\,  concelho e distrito de 
+ Leiria. Para além\,  da prova de Trail running\, [..]\nhttps://www.portuga
+ lrunning.com/eventos/trail-dos-trilhos-da-mata-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dos-trilhos-da-mata-2024/
+END:VEVENT
+END:VCALENDAR

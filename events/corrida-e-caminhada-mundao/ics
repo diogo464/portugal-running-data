@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6079b02
+DTSTAMP:20250720T222328Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Mundão\,  Viseu Mundão\,  Viseu
+SUMMARY:Corrida e Caminhada - Mundão
+DESCRIPTION:O GDRM organiza a 24 de setembro\,  pelas 08:30\,  um evento co
+ m Corrida e Caminhada na Junta de Freguesia de Mundão.\nhttps://www.portug
+ alrunning.com/eventos/corrida-e-caminhada-mundao/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-mundao/
+END:VEVENT
+END:VCALENDAR

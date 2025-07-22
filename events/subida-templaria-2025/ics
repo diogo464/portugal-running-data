@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3049be8
+DTSTAMP:20250720T222656Z
+DTSTART:20250503T165500Z
+DTEND:20250503T165500Z
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:Subida Templária 2025
+DESCRIPTION:A subida Templária é uma Prova de resistência que terá iní
+ cio na Rua Serpa Pinto conhecida como corredoura e terá o seu término jun
+ to ao emblemático Castelo e Convento de Cristo. O objetivo é percorrer o 
+ percurso de sensivelmente 500 metros\,  com um desnível positivo de aproxi
+ madamente 65 metros D+.[..]\nhttps://www.portugalrunning.com/eventos/subida
+ -templaria-2025/
+URL:https://www.portugalrunning.com/eventos/subida-templaria-2025/
+END:VEVENT
+END:VCALENDAR

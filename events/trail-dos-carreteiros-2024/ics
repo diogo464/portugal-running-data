@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61c495b
+DTSTAMP:20250720T222745Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:Trail dos Carreteiros 2024
+DESCRIPTION:O evento terá início às 9:00h no parque de Lazer da Vila de 
+ Roriz e percorrerá um trajeto por estradas locais\,  trilhos e caminhos ru
+ rais na Vila de Roriz e em freguesias vizinhas\,  sendo o percurso de 12 km
+  e 20 km aproximadamente de dificuldade média\,  haverá também uma camin
+ hada.\nhttps://www.portugalrunning.com/eventos/trail-dos-carreteiros-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dos-carreteiros-2024/
+END:VEVENT
+END:VCALENDAR

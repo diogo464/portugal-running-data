@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c943194d
+DTSTAMP:20250720T222420Z
+DTSTART:20221005
+DTEND:20221006
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:GP Vale Grande 2022
+DESCRIPTION:A Associação Vale Grande e a Câmara Municipal de Odivelas\, 
+  com a colaboração do Centro de Marcha e Corrida de Odivelas\,  da PSP de
+  Odivelas\,  dos Bombeiros Voluntários de Odivelas e da WeRun promovem\,  
+ no próximo dia 5 de Outubro de 2022\,  pelas 10h00m\,  uma prova de atleti
+ smo de estrada\, [..]\nhttps://www.portugalrunning.com/eventos/gp-vale-gran
+ de-2022/
+URL:https://www.portugalrunning.com/eventos/gp-vale-grande-2022/
+END:VEVENT
+END:VCALENDAR

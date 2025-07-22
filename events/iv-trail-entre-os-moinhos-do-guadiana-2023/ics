@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb0614e3
+DTSTAMP:20250720T222448Z
+DTSTART:20231015
+DTEND:20231016
+LOCATION:Quinto\,  Beja Quinto\,  Beja
+SUMMARY:IV Trail Entre os Moinhos do Guadiana 2023
+DESCRIPTION:O evento desportivo\,  4º Trail Entre os moinhos do Guadiana �
+ � promovido e organizado pela Secção de Btt da Casa do Povo da Salvada\, 
+  com o apoio da Camara Municipal de Beja e União de Freguesias de Salvada 
+ e Quintos.\nhttps://www.portugalrunning.com/eventos/iv-trail-entre-os-moinh
+ os-do-guadiana-2023/
+URL:https://www.portugalrunning.com/eventos/iv-trail-entre-os-moinhos-do-guadiana-2023/
+END:VEVENT
+END:VCALENDAR

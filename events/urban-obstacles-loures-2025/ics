@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db793c1e
+DTSTAMP:20250720T222911Z
+DTSTART:20251019T141800Z
+DTEND:20251019T235900Z
+LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+SUMMARY:Urban Obstacles Loures 2025
+DESCRIPTION:A Urban Obstacles é uma prova organizada pela Universal Events
+  – Associação\,  com o apoio da Câmara Municipal de Loures e a União 
+ das Freguesias de Santa Iria de Azoia\,  São João da Talha e Bobadela.\nh
+ ttps://www.portugalrunning.com/eventos/urban-obstacles-loures-2025/
+URL:https://www.portugalrunning.com/eventos/urban-obstacles-loures-2025/
+END:VEVENT
+END:VCALENDAR

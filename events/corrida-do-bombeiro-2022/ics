@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4f617cc
+DTSTAMP:20250720T222311Z
+DTSTART:20221023
+DTEND:20221024
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Tranquilidade Corrida do Bombeiro 2022
+DESCRIPTION:No dia 23 de outubro de 2022\,  a Eventsport organiza a quarta 
+ edição da Tranquilidade Corrida do Bombeiro 2022\,  em parceria com os Bo
+ mbeiros Voluntários de Valadares. Este evento é composto por uma Corrida
+  10 km e uma Caminhada 5 km que contará com muitas surpresas e uma grande 
+ onda de[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-bombeiro-20
+ 22/
+URL:https://www.portugalrunning.com/eventos/corrida-do-bombeiro-2022/
+END:VEVENT
+END:VCALENDAR

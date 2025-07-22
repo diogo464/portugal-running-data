@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d137b9b3
+DTSTAMP:20250720T222627Z
+DTSTART:20241214
+DTEND:20241215
+LOCATION:Constância\,  Santarém Constância\,  Santarém
+SUMMARY:São Silvestre Constância 2024
+DESCRIPTION:A Brigada Mecanizada (BrigMec) e a Câmara Municipal de Constâ
+ ncia (CMC) organizam\,  a 9ª Corrida São Silvestre Solidária Constância
+  – BrigMec\,  em Atletismo\,  no dia 14 de dezembro de 2024\,  a partir d
+ as 08h30. Em simultâneo\,  realiza-se a 9ª Caminhada e Mini Caminhada Sol
+ idária Constância – BrigMec. As provas decorrem[..]\nhttps://www.portug
+ alrunning.com/eventos/sao-silvestre-constancia-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-constancia-2024/
+END:VEVENT
+END:VCALENDAR

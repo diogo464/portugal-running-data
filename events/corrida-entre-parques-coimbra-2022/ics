@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6062e89
+DTSTAMP:20250720T222328Z
+DTSTART:20221201
+DTEND:20221202
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida Entre Parques Coimbra 2022
+DESCRIPTION:Corrida Entre Parques Coimbra é uma corrida de atletismo pelos
+  principais jardins da cidade de Coimbra. Numa coorganização da Câmara M
+ unicipal de Coimbra\,  União das Freguesias de Coimbra e da ADR4 Estaçõe
+ s. Um percurso cheio de história e magia em cada recanto por onde passas. 
+ Jardim da Sereia Penedo da[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-entre-parques-coimbra-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-entre-parques-coimbra-2022/
+END:VEVENT
+END:VCALENDAR

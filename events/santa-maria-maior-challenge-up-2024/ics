@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c44d9
+DTSTAMP:20250720T222617Z
+DTSTART:20240504
+DTEND:20240505
+LOCATION:Largo do Chafariz\,  Alfama Largo do Chafariz\,  Alfama
+SUMMARY:Challenge Up Portas Do Sol – Alfama 2024
+DESCRIPTION:Chegou um novo desafio em inclinação! É sempre a subir desde
+  a beira do Rio Tejo\,  à colina das Portas do Sol e o objetivo é seres 
+ apurado para a fase final seguinte\,  dentro da tua liga.\nhttps://www.port
+ ugalrunning.com/eventos/santa-maria-maior-challenge-up-2024/
+URL:https://www.portugalrunning.com/eventos/santa-maria-maior-challenge-up-2024/
+END:VEVENT
+END:VCALENDAR

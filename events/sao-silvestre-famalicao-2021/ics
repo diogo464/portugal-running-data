@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c4a4e2
+DTSTAMP:20250720T222636Z
+DTSTART:20211223
+DTEND:20211224
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:São Silvestre Famalicão 2021
+DESCRIPTION:Com a época natalícia como pano de fundo\,  a magia do evento
+  São Silvestre Famalicão 2021 constrói-se ao longo de todo o circuito co
+ m a iluminação de Natal.\nhttps://www.portugalrunning.com/eventos/sao-sil
+ vestre-famalicao-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-famalicao-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc58a9
+DTSTAMP:20250720T222651Z
+DTSTART:20240225
+DTEND:20240226
+LOCATION:Silgueiros\,  Viseu Silgueiros\,  Viseu
+SUMMARY:Silgueiros Trail 2024
+DESCRIPTION:Silgueiros Runners com a coorganização da Junta de Freguesia 
+ de Silgueiros. O evento terá dois percursos: O Trail é de 16 Km A Caminha
+ da é de 8 Km\nhttps://www.portugalrunning.com/eventos/silgueiros-trail-202
+ 4/
+URL:https://www.portugalrunning.com/eventos/silgueiros-trail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdd4a4fa
+DTSTAMP:20250720T222533Z
+DTSTART:20220306
+DTEND:20220307
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Meia Maratona Manuela Machado 2022
+DESCRIPTION:Resultados Está de volta o Meia Maratona Manuela Machado 2022 
+ que é o maior evento desportivo do Alto Minho!\nhttps://www.portugalrunnin
+ g.com/eventos/meia-maratona-manuela-machado-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-manuela-machado-2022/
+END:VEVENT
+END:VCALENDAR

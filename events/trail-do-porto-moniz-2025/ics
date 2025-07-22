@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5dadd84
+DTSTAMP:20250720T222741Z
+DTSTART:20250209
+DTEND:20250210
+LOCATION:Porto Moniz\,  Ilha da Madeira Porto Moniz\,  Ilha da Madeira
+SUMMARY:Trail do Porto Moniz 2025
+DESCRIPTION: O Clube de Montanha do Funchal é a associação organizadora
+  do evento denominado Trail do Porto Moniz\,  que decorrerá no dia 9 de fe
+ vereiro de 2025 no Concelho do Porto Moniz na Ilha da Madeira. Trail Ultra 
+ (43km) – 200Trail Longo (26km) – 300Trail Curto (13km) – 350 A prova[
+ ..]\nhttps://www.portugalrunning.com/eventos/trail-do-porto-moniz-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-porto-moniz-2025/
+END:VEVENT
+END:VCALENDAR

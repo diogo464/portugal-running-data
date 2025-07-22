@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d347a40b
+DTSTAMP:20250720T222700Z
+DTSTART:20241110T061100Z
+DTEND:20241110T235900Z
+LOCATION:Beato\,  Lisboa Beato\,  Lisboa
+SUMMARY:Tech Run 2024
+DESCRIPTION:Vem aí a primeira edição da Tech Run\,  a corrida que faz pa
+ rte da programação da Portugal Tech Week 2024. No mês mais Tech de Portu
+ gal\,  organizamos o maior evento desportivo voltado para os entusiastas de
+  tecnologia! Três categorias: 5 km&nbsp;PcD&nbsp;– Pessoa com Deficiênc
+ ia (cinco quilómetros) 5 km (cinco quilómetros)[..]\nhttps://www.portugal
+ running.com/eventos/tech-run-2024/
+URL:https://www.portugalrunning.com/eventos/tech-run-2024/
+END:VEVENT
+END:VCALENDAR

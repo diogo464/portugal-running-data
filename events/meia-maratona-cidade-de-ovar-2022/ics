@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccc7b1c7
+DTSTAMP:20250720T222516Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+SUMMARY:Meia Maratona de Ovar 2022
+DESCRIPTION:Meia Maratona Cidade de Ovar 2022 "Caros atletas\,  treinadores
+ \,  entidades oficiais locais\,  patrocinadores\,  colaboradores\,  volunt√
+ °rios\,  amigos...Informamos que o AFIS/Ovar\,  ap√≥s uma cuidada avalia√ß√
+ £o e pondera√ß√£o\,  tomou a dif√≠cil decis√£o de adiar a 32¬™ Meia Maraton
+ a Cidade de Ovar 2022 e todas as provas com ela relacionadas\,  para dia 9 
+ de[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-cidade-de-ova
+ r-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-cidade-de-ovar-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bdd53f
+DTSTAMP:20250720T222651Z
+DTSTART:20220326
+DTEND:20220327
+LOCATION:Reguengos de Monsaraz Reguengos de Monsaraz
+SUMMARY:Sharish Monsaraz Natur Trail 2022
+DESCRIPTION:No dia 26 março esta aventura épica continua entre o céu e a
+  terra. Sharish Monsaraz Natur Trail 2022 leva-te a conquistar trilhos outr
+ ora percorridos por cavaleiros templários.\nhttps://www.portugalrunning.co
+ m/eventos/sharish-monsaraz-natur-trail-2022/
+URL:https://www.portugalrunning.com/eventos/sharish-monsaraz-natur-trail-2022/
+END:VEVENT
+END:VCALENDAR

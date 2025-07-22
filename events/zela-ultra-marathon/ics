@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcb4cbac
+DTSTAMP:20250720T222931Z
+DTSTART:20200704
+DTEND:20200705
+LOCATION:Vouzela\,  Viseu Vouzela\,  Viseu
+SUMMARY:Zela Ultra Marathon 2020
+DESCRIPTION:A 3ª edição do Zela Ultra Marathon vai desenrolar-se em 2 di
+ as\,  4 e 5 de Abril de 2020\,  uma edição rica em novidades e desafios!\
+ nhttps://www.portugalrunning.com/eventos/zela-ultra-marathon/
+URL:https://www.portugalrunning.com/eventos/zela-ultra-marathon/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d347a65e
+DTSTAMP:20250720T222700Z
+DTSTART:20200315
+DTEND:20200316
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Terras do Ancião Ultra Trail 2020
+DESCRIPTION:No dia 15 de Março\,  vem disputar mais um Trilho fantástico\
+ ,  pelas Terras de Ansião!\nhttps://www.portugalrunning.com/eventos/terras
+ -do-anciao-ultra-trail-2020/
+URL:https://www.portugalrunning.com/eventos/terras-do-anciao-ultra-trail-2020/
+END:VEVENT
+END:VCALENDAR

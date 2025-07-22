@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7b61184
+DTSTAMP:20250720T222811Z
+DTSTART:20231208
+DTEND:20231209
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Noturno de Valongo 2023
+DESCRIPTION:A 10a edição do TNV- TRAIL NOTURNO DE VALONGO vai-se realizar
+  a 8 de Dezembro é uma prova que percorre trilhos e caminhos na serra de Q
+ uinta Rei\,  no concelho de Valongo\,  com partida e chegada no Largo do Ce
+ ntenário em Valongo. O Trail Longo 21km e o Trail Curto[..]\nhttps://www.p
+ ortugalrunning.com/eventos/trail-noturno-de-valongo-2023/
+URL:https://www.portugalrunning.com/eventos/trail-noturno-de-valongo-2023/
+END:VEVENT
+END:VCALENDAR

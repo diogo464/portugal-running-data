@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcb19d39
+DTSTAMP:20250720T222931Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Ponte de Sor\,  Portalegre Ponte de Sor\,  Portalegre
+SUMMARY:X Trail Do Sor 2023
+DESCRIPTION:A Associação “Clube de Atletismo Trail Runners da Ponte” 
+ (CATRP) vai realizar no dia 10 de setembro de 2023 o “X TRAIL DO SOR”\,
+   na Cidade de Ponte de Sor\,  Distrito de Portalegre\,  Alto Alentejo\,  c
+ om o Apoio do Município de Ponte de Sor\,  da União de Freguesias de Pont
+ e[..]\nhttps://www.portugalrunning.com/eventos/x-trail-do-sor-2023/
+URL:https://www.portugalrunning.com/eventos/x-trail-do-sor-2023/
+END:VEVENT
+END:VCALENDAR

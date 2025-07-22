@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf61bda
+DTSTAMP:20250720T222919Z
+DTSTART:20230408
+DTEND:20230409
+LOCATION:Vilamoura\,  Faro Vilamoura\,  Faro
+SUMMARY:Vilamoura Nature Run 2023
+DESCRIPTION:Numa coorganização da Free Challenge\,  Vilamoura World e com
+  o apoio da Junta de Freguesia de Quarteira\,  Câmara Municipal de Loulé 
+ e Inframoura\,  realiza-se no dia 08 de Abril de 2023\,  a VILAMOURA NATURE
+  RUN\,  com início agendado para as 10h30 em Vilamoura\,  com partida e ch
+ egada na Marina de[..]\nhttps://www.portugalrunning.com/eventos/vilamoura-n
+ ature-run-2023/
+URL:https://www.portugalrunning.com/eventos/vilamoura-nature-run-2023/
+END:VEVENT
+END:VCALENDAR

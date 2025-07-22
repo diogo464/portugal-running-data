@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd60069d
+DTSTAMP:20250720T222526Z
+DTSTART:20251026
+DTEND:20251027
+LOCATION:Valência\,  Espanha Valência\,  Espanha
+SUMMARY:Meia Maratona de Valência 2025
+DESCRIPTION:A Meia Maratona de Valência (Valencia Half Marathon) é uma me
+ ia maratona realizada na cidade de Valência\,  em Espanha. É uma das meia
+ s maratonas mais renomeadas da Europa e atrai corredores de todo o mundo. O
+  percurso da Meia Maratona de Valência é conhecido por ser rápido e plan
+ o\,  o[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-valenc
+ ia-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-valencia-2025/
+END:VEVENT
+END:VCALENDAR

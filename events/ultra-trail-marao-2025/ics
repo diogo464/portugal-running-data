@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db6f3884
+DTSTAMP:20250720T222910Z
+DTSTART:20250328
+DTEND:20250329
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Ultra Trail Marão 2025
+DESCRIPTION:O Ultra Trail do Marão\,  é um evento desportivo de trail run
+ ning em estado genuíno daresponsabilidade co-organizativa da Associação 
+ Desportiva Marão Trail e da SavageNatur Events®\,  eque se realizará nos
+  dias 27\,  28\,  29 e 30 de Março de 2025.\nhttps://www.portugalrunning.c
+ om/eventos/ultra-trail-marao-2025/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-marao-2025/
+END:VEVENT
+END:VCALENDAR

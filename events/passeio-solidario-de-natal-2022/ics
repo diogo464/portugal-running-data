@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf74943c
+DTSTAMP:20250720T222559Z
+DTSTART:20221218
+DTEND:20221219
+LOCATION:Gatões\,  Montemor-o-Velho Gatões\,  Montemor-o-Velho
+SUMMARY:Passeio Solidário de Natal 2022
+DESCRIPTION:O GATÕES BTT irá organizar mais um passeio de Natal no dia 18
+  de Dezembro de 2022. Será um passeio de cariz familiar e de convívio pel
+ os nossos belos trilhos.Como é hábito\,  será também um passeio solidá
+ rio\,  para isso pedimos a todos os participantes um bem alimentar para ser
+  doado[..]\nhttps://www.portugalrunning.com/eventos/passeio-solidario-de-na
+ tal-2022/
+URL:https://www.portugalrunning.com/eventos/passeio-solidario-de-natal-2022/
+END:VEVENT
+END:VCALENDAR

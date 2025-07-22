@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3c17f57
+DTSTAMP:20250720T222708Z
+DTSTART:20240330
+DTEND:20240331
+LOCATION:Sendim\,  Miranda do Douro Sendim\,  Miranda do Douro
+SUMMARY:Trail Arribas do Douro 2024
+DESCRIPTION:No dia 30 de março\,  todos os caminhos vão dar às margens d
+ o Rio Douro\,  para a 5.ª edição do Trail Arribas do Douro. São 2 percu
+ rsos disponíveis:Trail - 16kmCaminhada - 12km\nhttps://www.portugalrunning
+ .com/eventos/trail-arribas-do-douro-2024/
+URL:https://www.portugalrunning.com/eventos/trail-arribas-do-douro-2024/
+END:VEVENT
+END:VCALENDAR

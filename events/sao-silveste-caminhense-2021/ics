@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09db436
+DTSTAMP:20250720T222617Z
+DTSTART:20211204
+DTEND:20211205
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:São Silveste Caminhense 2021
+DESCRIPTION:São Silveste Caminhense 2021\,  a 7 de dezembro\,  pela segund
+ a vez\,  Caminha acolhe um evento deste género\,  um evento que obteve mui
+ to sucesso na edição anterior\,  fazendo referência ao mês de dezembro.
+ \nhttps://www.portugalrunning.com/eventos/sao-silveste-caminhense-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silveste-caminhense-2021/
+END:VEVENT
+END:VCALENDAR

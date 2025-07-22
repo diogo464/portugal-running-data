@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8719098
+DTSTAMP:20250720T222407Z
+DTSTART:20220327
+DTEND:20220328
+LOCATION:Esposende Esposende
+SUMMARY:Esposende Run 2022
+DESCRIPTION:Esposende Run 2022\nhttps://www.portugalrunning.com/eventos/esp
+ osende-run-2022/
+URL:https://www.portugalrunning.com/eventos/esposende-run-2022/
+END:VEVENT
+END:VCALENDAR

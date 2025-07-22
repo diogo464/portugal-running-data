@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2e92773
+DTSTAMP:20250720T222238Z
+DTSTART:20211003
+DTEND:20211004
+LOCATION:Coimbra Coimbra
+SUMMARY:Coimbra Trail 2021
+DESCRIPTION:RESULTADOS O Coimbra Trail é um evento de Trail Running\,  num
+ a organização conjunta do Clube de Praticantes Coimbra Trail Running\,  C
+ âmara Municipal de Coimbra e Junta de Freguesia de Santo António dos Oliv
+ ais\,  que ocorre em Coimbra no dia 26 de Setembro de 2021\,  integrando tr
+ ês provas competitivas e caminhada:[..]\nhttps://www.portugalrunning.com/e
+ ventos/coimbra-trail-2021/
+URL:https://www.portugalrunning.com/eventos/coimbra-trail-2021/
+END:VEVENT
+END:VCALENDAR

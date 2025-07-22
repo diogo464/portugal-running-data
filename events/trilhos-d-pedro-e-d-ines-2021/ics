@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dab4994b
+DTSTAMP:20250720T222859Z
+DTSTART:20211107
+DTEND:20211108
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:Trilhos D. Pedro e D. Inês 2021
+DESCRIPTION:Terceira edição dos Trilhos D. Pedro e D. Inês\,  versão Pe
+ ste Negra.\nhttps://www.portugalrunning.com/eventos/trilhos-d-pedro-e-d-ine
+ s-2021/
+URL:https://www.portugalrunning.com/eventos/trilhos-d-pedro-e-d-ines-2021/
+END:VEVENT
+END:VCALENDAR

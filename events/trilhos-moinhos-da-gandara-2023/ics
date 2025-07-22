@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dad9293c
+DTSTAMP:20250720T222901Z
+DTSTART:20230610
+DTEND:20230611
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:Trilhos Moinhos Da Gândara 2023
+DESCRIPTION:A 9.ª edição dos “TRILHOS MOINHOS DA GÂNDARA”\,  realiz
+ ar-se-á no dia 10 de junho de 2023\,  pelas 17h00\,  organizada pela Junta
+  de Freguesia de Moinhos da Gândara\,  com o apoio das várias associaçõ
+ es locais e de diversas entidades e empresas\,  sendo os seus percursos tra
+ çados maioritariamente na área geográfica da[..]\nhttps://www.portugalru
+ nning.com/eventos/trilhos-moinhos-da-gandara-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-moinhos-da-gandara-2023/
+END:VEVENT
+END:VCALENDAR

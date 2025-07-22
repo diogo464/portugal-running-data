@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9f49e62
+DTSTAMP:20250720T222431Z
+DTSTART:20250621
+DTEND:20250622
+LOCATION:Évora Évora
+SUMMARY:Grande Prémio de São João 2025
+DESCRIPTION:O XLIII Grande Prémio de São João de Atletismo é uma organi
+ zação da Câmara Municipal de Évora\,  como apoio técnico da Associaç�
+ �o de Atletismo de Évora.\nhttps://www.portugalrunning.com/eventos/grande-
+ premio-de-sao-joao-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-sao-joao-2025/
+END:VEVENT
+END:VCALENDAR

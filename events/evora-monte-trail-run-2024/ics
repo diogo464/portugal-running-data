@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8af400d
+DTSTAMP:20250720T222410Z
+DTSTART:20240519
+DTEND:20240520
+LOCATION:Évora Monte\,  Estremoz Évora Monte\,  Estremoz
+SUMMARY:Évora Monte Trail Run 2024
+DESCRIPTION:A Associação BTTMOZ-SDT em parceria com a Junta de Freguesia 
+ de Évora Monte é a entidade organizadora do evento Évora Monte Trail Run
+ \,  que decorrerá no dia 19 de Maio de 2024 na Vila deÉvora Monte\,  conc
+ elho de Estremoz\,  independentemente das condições climatéricas do dia\
+ ,  desde quea organização entenda que[..]\nhttps://www.portugalrunning.co
+ m/eventos/evora-monte-trail-run-2024/
+URL:https://www.portugalrunning.com/eventos/evora-monte-trail-run-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c73c48b1
+DTSTAMP:20250720T222347Z
+DTSTART:20240121
+DTEND:20240122
+LOCATION:Soure\,  Coimbra Soure\,  Coimbra
+SUMMARY:Corrida Soure 2024
+DESCRIPTION:A CORRIDA SOURE 1111 é um evento desportivo organizado pelo So
+ ure Mov\,  clube de atletismo da APPACDM de Soure (secção autónoma)\,  e
+ m parceria com a Câmara Municipal de Soure e incluído no calendário comp
+ etitivo da Associação Distrital de Atletismo de Coimbra (ADAC). A CORRIDA
+  SOURE 1111 tem um percurso de[..]\nhttps://www.portugalrunning.com/eventos
+ /corrida-soure-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-soure-2024/
+END:VEVENT
+END:VCALENDAR

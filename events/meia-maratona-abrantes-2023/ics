@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc862687
+DTSTAMP:20250720T222512Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+SUMMARY:Meia Maratona Abrantes 2024
+DESCRIPTION:O Município de Abrantes em parceria com Casa do Benfica em Abr
+ antes\,  leva a efeito a Mini e Meia Maratona de Abrantes\,  a realizar no 
+ dia 10 de novembro no TagusValley – Parque de Ciência e Tecnologia.\nhtt
+ ps://www.portugalrunning.com/eventos/meia-maratona-abrantes-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-abrantes-2024/
+END:VEVENT
+END:VCALENDAR

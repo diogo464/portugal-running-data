@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d77310e0
+DTSTAMP:20250720T222807Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Alcobaça Alcobaça
+SUMMARY:Trail Monges de Cister 2024
+DESCRIPTION:Bombeiros Voluntários de Alcobaça organizam pela 4ª vez cons
+ ecutiva o Trail Monges de Cister. O intuito desta prova é angariar fundos 
+ para os BVA\,  e ao mesmo tempo que promover hábitos de vida saudável. As
+  provas que constituem o evento (Trail + Caminhada + Monges Kids) irão oco
+ rrer na cidade[..]\nhttps://www.portugalrunning.com/eventos/trail-monges-de
+ -cister-2024/
+URL:https://www.portugalrunning.com/eventos/trail-monges-de-cister-2024/
+END:VEVENT
+END:VCALENDAR

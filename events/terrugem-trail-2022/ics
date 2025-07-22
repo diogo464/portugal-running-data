@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d346146f
+DTSTAMP:20250720T222700Z
+DTSTART:20220313
+DTEND:20220314
+LOCATION:Terrugem\,  Sintra Terrugem\,  Sintra
+SUMMARY:Terrugem Trail 2022
+DESCRIPTION:O Terrugem Trail 2022 é um evento a realizar no dia 13 de Ma
+ rço de 2022\,  organizado pela ABIT – Associação de Bicicletas da Ter
+ rugem. A ABIT conta com o apoio da&nbsp;Câmara Municipal de Sintra\,  da&n
+ bsp;União de Freguesias de Terrugem e São João das Lampas\,  bem como de
+  outras entidades com sede social[..]\nhttps://www.portugalrunning.com/even
+ tos/terrugem-trail-2022/
+URL:https://www.portugalrunning.com/eventos/terrugem-trail-2022/
+END:VEVENT
+END:VCALENDAR

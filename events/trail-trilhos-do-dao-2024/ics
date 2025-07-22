@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9301320
+DTSTAMP:20250720T222835Z
+DTSTART:20240609
+DTEND:20240610
+LOCATION:S. João de Lourosa\,  Viseu S. João de Lourosa\,  Viseu
+SUMMARY:Trail Trilhos do Dão 2024
+DESCRIPTION:Promover a atividade física e o turismo na nossa freguesia é 
+ um dos nossos objetivos\,  dando a conhecer todo o património histórico\,
+   cultural e ambiental da nossa região. O evento será composto por dois p
+ ercursos:Trail – 13 quilómetros;Caminhada – 8 quilómetros.\nhttps://w
+ ww.portugalrunning.com/eventos/trail-trilhos-do-dao-2024/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-do-dao-2024/
+END:VEVENT
+END:VCALENDAR

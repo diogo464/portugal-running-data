@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c65000e0
+DTSTAMP:20250720T222333Z
+DTSTART:20221022
+DTEND:20221023
+LOCATION:Praça do Império (Belém)\,  Lisboa Praça do Império (Belém)\,  Lisboa
+SUMMARY:Corrida Nacional dos Professores 2022
+DESCRIPTION:A Federação Nacional dos Professores (FENPROF)\,  em parceria
+  com a Câmara Municipal de Lisboa e com a Associação de Atletismo de Lis
+ boa\,  leva a efeito a organização da 4.ª Corrida Nacional dos Professor
+ es\,  no dia 22 de outubro de 2022. Este evento conta com um programa abran
+ gente constituído por: uma[..]\nhttps://www.portugalrunning.com/eventos/co
+ rrida-nacional-dos-professores-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-nacional-dos-professores-2022/
+END:VEVENT
+END:VCALENDAR

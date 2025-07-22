@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf3db556
+DTSTAMP:20250720T222139Z
+DTSTART:20200329
+DTEND:20200330
+LOCATION:Coimbra Coimbra
+SUMMARY:Trail das Azenhas 2020
+DESCRIPTION:A Roda Dianteira BTT\,  vai realizar a 29 de março\,  o Trail 
+ das Azenhas 2020\,  um evento desportivo\,  de contacto direto com a biodiv
+ ersidade da nossa região e com uma forte vertente social. Por cada inscri�
+ �ão válida é doado 1€ à delegação de Coimbra da Sociedade Portugues
+ a de Esclerose Múltipla[..]\nhttps://www.portugalrunning.com/eventos/1601/
+URL:https://www.portugalrunning.com/eventos/1601/
+END:VEVENT
+END:VCALENDAR

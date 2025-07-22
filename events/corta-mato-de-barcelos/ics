@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7918733
+DTSTAMP:20250720T222353Z
+DTSTART:20200118
+DTEND:20200119
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Corta Mato de Barcelos
+DESCRIPTION:O Corta Mato de Barcelos regressa a 18 de janeiro com a quarta 
+ edição desta prova que tem trazido à competição grandes nomes do atlet
+ ismo português. Mas esta prova\,  que apresenta várias corridas de difere
+ ntes distâncias\,  é um desafio principalmente para os escalões de forma
+ ção e uma excelente oportunidade para[..]\nhttps://www.portugalrunning.co
+ m/eventos/corta-mato-de-barcelos/
+URL:https://www.portugalrunning.com/eventos/corta-mato-de-barcelos/
+END:VEVENT
+END:VCALENDAR

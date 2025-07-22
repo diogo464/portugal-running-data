@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c48496ff
+DTSTAMP:20250720T222304Z
+DTSTART:20230923
+DTEND:20230924
+LOCATION:Cartaxo\,  Santarém Cartaxo\,  Santarém
+SUMMARY:Corrida das Vindimas 2023
+DESCRIPTION:1A VI CORRIDA DAS VINDIMAS – CARTAXO é organizada pelo Munic
+ ípio do Cartaxo com o apoio da Escola de Atletismo Correr + do Cartaxo. Se
+ rá no dia Dia 23 de setembro de 2023 pelas 21h00A corrida de 10 km é real
+ izada em estrada e em circuito fechado\,  em 2 voltas\, [..]\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-das-vindimas-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-das-vindimas-2023/
+END:VEVENT
+END:VCALENDAR

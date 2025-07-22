@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6e933e3
+DTSTAMP:20250720T222758Z
+DTSTART:20240825
+DTEND:20240826
+LOCATION:Gondidelos\,  Vila Nova de Famalicão Gondidelos\,  Vila Nova de Famalicão
+SUMMARY:Trail Feira das Cebolas 2024
+DESCRIPTION:O trail Feira das Cebolas é uma prova desportiva integrada na 
+ Feira das Cebolas e Mostra comunitária de Gondifelos que pretende promover
+  a prática desportiva junto da comunidade. O Trail Feira das Cebolas conta
+  com duas distâncias competitivas: •mini trail com a distância de 12 km
+ ; •trail com a distância[..]\nhttps://www.portugalrunning.com/eventos/tr
+ ail-feira-das-cebolas-2024/
+URL:https://www.portugalrunning.com/eventos/trail-feira-das-cebolas-2024/
+END:VEVENT
+END:VCALENDAR

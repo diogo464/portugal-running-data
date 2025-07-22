@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5caa749
+DTSTAMP:20250720T222324Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Castêlo da Maia\,  Porto Castêlo da Maia\,  Porto
+SUMMARY:Corrida e Caminhada da Campa do Preto 2024
+DESCRIPTION:Associada à Festa da Campa do Preto (festa das cerejas)\,  rea
+ liza-se no município da Maia este evento\,  composta por uma corrida de 10
+  quilómetros e uma caminhada. Venha à festa e prepare-se para mais um des
+ afio.\nhttps://www.portugalrunning.com/eventos/corrida-e-caminhada-da-campa
+ -do-preto-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-da-campa-do-preto-2024/
+END:VEVENT
+END:VCALENDAR

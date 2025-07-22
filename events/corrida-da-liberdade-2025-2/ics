@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3ec34d3
+DTSTAMP:20250720T222254Z
+DTSTART:20240425T094300Z
+DTEND:20240425T235900Z
+LOCATION:Custóias\,  Matosinhos Custóias\,  Matosinhos
+SUMMARY:Corrida da Liberdade 2025
+DESCRIPTION:A União de Freguesias de Custóias\,  Leça do Balio e Guifõe
+ s\,  no próximo dia 25de abril\,  organiza a 46ª Edição da Corrida da L
+ iberdade integrada nas comemorações do 51º Aniversário da Revolução d
+ os Cravos\,  com partida e chegada no Largo do Souto – Custóias.\nhttps:
+ //www.portugalrunning.com/eventos/corrida-da-liberdade-2025-2/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-2025-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8292ecb
+DTSTAMP:20250720T222402Z
+DTSTART:20250503T143100Z
+DTEND:20250503T235900Z
+LOCATION:Portugal Portugal
+SUMMARY:Dia da Marinha Viana do Castelo 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/dia-da-marinha-viana-
+ do-castelo-2025/
+URL:https://www.portugalrunning.com/eventos/dia-da-marinha-viana-do-castelo-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3bc2b10
+DTSTAMP:20250720T222251Z
+DTSTART:20250706
+DTEND:20250707
+LOCATION:Castro Marim\,  Faro Castro Marim\,  Faro
+SUMMARY:Corrida da Freguesia de Castro Marim 2025
+DESCRIPTION:A 5ª Corrida da Freguesia de Castro Marim\,  prova de atletism
+ o “ FLOR do SAL” é uma organização do Clube Leões do Sul Futebol Cl
+ ube em parceria com o Município de Castro Marim e Junta de Freguesia de Ca
+ stro Marim. A 4ª corrida é constituída por uma prova de atletismo[..]\nh
+ ttps://www.portugalrunning.com/eventos/corrida-da-freguesia-de-castro-marim
+ -2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-freguesia-de-castro-marim-2025/
+END:VEVENT
+END:VCALENDAR

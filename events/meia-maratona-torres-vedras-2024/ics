@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce249c4d
+DTSTAMP:20250720T222538Z
+DTSTART:20240114
+DTEND:20240115
+LOCATION:Torres Vedras\,  Lisboa Torres Vedras\,  Lisboa
+SUMMARY:Meia Maratona Torres Vedras 2024
+DESCRIPTION:Em 2021 chegou um novo desafio que juntou mais de um milhar de
+  atletas\,  na Meia Maratona Torres Vedras. Em 2024\,  o mote está dado e 
+ promete juntar os apaixonados da distância dos 21km\,  juntamente com os 
+ atletas de 10km e a família na caminhada de 5km. Torres Vedras\,  uma z
+ ona cheia de atrativos para[..]\nhttps://www.portugalrunning.com/eventos/me
+ ia-maratona-torres-vedras-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-torres-vedras-2024/
+END:VEVENT
+END:VCALENDAR

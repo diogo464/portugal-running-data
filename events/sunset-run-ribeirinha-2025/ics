@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3417f37
+DTSTAMP:20250720T222700Z
+DTSTART:20250712T213200Z
+DTEND:20250712T235900Z
+LOCATION:Baixa da Banheira\,  Setúbal Baixa da Banheira\,  Setúbal
+SUMMARY:Sunset Run Ribeirinha 2025
+DESCRIPTION:A 7ª SUNSET RUN RIBEIRINHA é composta por uma prova (corrida 
+ 9Km) e uma caminhada (5Km).\nhttps://www.portugalrunning.com/eventos/sunset
+ -run-ribeirinha-2025/
+URL:https://www.portugalrunning.com/eventos/sunset-run-ribeirinha-2025/
+END:VEVENT
+END:VCALENDAR

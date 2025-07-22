@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c36c3dd0
+DTSTAMP:20250720T222246Z
+DTSTART:20240907
+DTEND:20240908
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corrida Auchan 2024
+DESCRIPTION:A Corrida Auchan celebra a 11ª edição a 7 de setembro de 2
+ 024 com a Corrida de 10 Km\,  Caminhada de 5 Km.\nhttps://www.portugalrunni
+ ng.com/eventos/corrida-auchan-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-auchan-2024/
+END:VEVENT
+END:VCALENDAR

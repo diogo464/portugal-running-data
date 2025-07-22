@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f7b1d2
+DTSTAMP:20250720T222343Z
+DTSTART:20250503T143100Z
+DTEND:20250503T235900Z
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Solidária Virtual Cris 2025
+DESCRIPTION:O Cris tem apenas 5 anos e luta todos os dias contra uma do
+ ença rara chamada Pelizaeus-Merzbacher\,  que afeta seu sistema nervoso c
+ entral e compromete a sua mobilidade. Desde os 10 meses de idade que ele te
+ m enfrentado tratamentos de fisioterapia no Sistema Nacional de Saúde\,  m
+ as a recuperação tem sido lenta\,  e o progresso\, [..]\nhttps://www.port
+ ugalrunning.com/eventos/corrida-solidaria-virtual-cris-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-virtual-cris-2025/
+END:VEVENT
+END:VCALENDAR

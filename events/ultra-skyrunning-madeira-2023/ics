@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db2dcab3
+DTSTAMP:20250720T222906Z
+DTSTART:20230616
+DTEND:20230617
+LOCATION:Santana\,  Madeira Santana\,  Madeira
+SUMMARY:Ultra Skyrunning Madeira 2023
+DESCRIPTION:Ultra Skyrunning Madeira – USM 2023 é uma coorganização da
+  Câmara Municipal de Santana\,  Associação de Triatlo da Madeira e com a
+  Federação de Campismo e Montanhismo de Portugal (FCMP). Este regulamento
+  aplica-se às 5 provas incluídas no evento: Madeira SkyRace(MSR)\, Santan
+ a KM Vertical®\,  (SVK)\,  Santana (SSR)\,  Furão SkyRace (FSR) e[..]\nht
+ tps://www.portugalrunning.com/eventos/ultra-skyrunning-madeira-2023/
+URL:https://www.portugalrunning.com/eventos/ultra-skyrunning-madeira-2023/
+END:VEVENT
+END:VCALENDAR

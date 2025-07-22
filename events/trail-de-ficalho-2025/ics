@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54aaca2
+DTSTAMP:20250720T222732Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:Vila Verde de Ficalho\,  Serpa Vila Verde de Ficalho\,  Serpa
+SUMMARY:Trail de Ficalho 2025
+DESCRIPTION:A IV edição do Trail de Ficalho integra as seguintes distânc
+ ias:a) - Trail Ultra - 50 Kmb) - Trail - 35 Kmc) – Trail Sprint – 17 Km
+ c) - Caminhada/Minitrail 10 km\,  sem vertente competitiva\nhttps://www.por
+ tugalrunning.com/eventos/trail-de-ficalho-2025/
+URL:https://www.portugalrunning.com/eventos/trail-de-ficalho-2025/
+END:VEVENT
+END:VCALENDAR

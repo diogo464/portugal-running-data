@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7900c28
+DTSTAMP:20250720T222353Z
+DTSTART:20221008
+DTEND:20221009
+LOCATION:Aguçadoura\,  Póvoa de Varzim Aguçadoura\,  Póvoa de Varzim
+SUMMARY:Cross das Masseiras 2022
+DESCRIPTION:O Cross das Masseiras é um evento organizado pelo Grupo Cultur
+ al e Recreativo Aguçadourense\,  em parceria com a União de Freguesias Ag
+ uçadoura e Navais e a Câmara Municipal da Póvoa de Varzim que decorrerá
+  no dia 8 de outubro de 2022.Este evento conta com duas atividades distinta
+ s\,  uma caminhada de[..]\nhttps://www.portugalrunning.com/eventos/cross-da
+ s-masseiras-2022/
+URL:https://www.portugalrunning.com/eventos/cross-das-masseiras-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daedc84b
+DTSTAMP:20250720T222902Z
+DTSTART:20250913T193400Z
+DTEND:20250913T235900Z
+LOCATION:Santarém Santarém
+SUMMARY:Troféu CTR / Viver Santarém 2025
+DESCRIPTION:O Troféu CTR / Viver Santarém é uma Co-organização entre a
+  Associação Circuito Trail do Ribatejo\,  Associação de Atletismo de Sa
+ ntarém\,  Câmara Municipal de Santarém e Viver Santarém\,  com o apoio 
+ de diversas entidades de prestígio do Distrito de Santarém.Será constitu
+ ído por duas provas de carácter competitivo:» Trail Sprint –[..]\nhttp
+ s://www.portugalrunning.com/eventos/trofeu-ctr-viver-santarem-2025/
+URL:https://www.portugalrunning.com/eventos/trofeu-ctr-viver-santarem-2025/
+END:VEVENT
+END:VCALENDAR

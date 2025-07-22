@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007ba51
+DTSTAMP:20250720T222608Z
+DTSTART:20260315
+DTEND:20260316
+LOCATION:Povoação\,  Açores Povoação\, Açores
+SUMMARY:Povoação Trail 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/povoacao-trail-2026/
+URL:https://www.portugalrunning.com/eventos/povoacao-trail-2026/
+END:VEVENT
+END:VCALENDAR

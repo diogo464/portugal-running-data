@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2bdce5d
+DTSTAMP:20250720T222235Z
+DTSTART:20240421
+DTEND:20240422
+LOCATION:Cesar\,  Oliveira de Azeméis Cesar\,  Oliveira de Azeméis
+SUMMARY:Cesar Trail 2024
+DESCRIPTION:O Cesar Trail é constituído por\,  uma prova de carácter com
+ petitivo\,  pontuável para o Circuito Concelhio de Trail Running de Olivei
+ ra de Azeméis e uma Caminhada com extensão aproximada de 10 Km\,  sem car
+ áter competitivo. A corrida e a caminhada terão partida e chegada na casa
+  Gastronomia\,  em Cesar\,  percorrendo[..]\nhttps://www.portugalrunning.co
+ m/eventos/cesar-trail-2024/
+URL:https://www.portugalrunning.com/eventos/cesar-trail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfd18972
+DTSTAMP:20250720T222149Z
+DTSTART:20211011
+DTEND:20211012
+LOCATION:Portugal Portugal
+SUMMARY:2ª corrida MegaFitness 2021
+DESCRIPTION:2ª corrida MegaFitness 2021\nhttps://www.portugalrunning.com/e
+ ventos/2a-corrida-megafitness-2021/
+URL:https://www.portugalrunning.com/eventos/2a-corrida-megafitness-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cac17db2
+DTSTAMP:20250720T222444Z
+DTSTART:20230408
+DTEND:20230409
+LOCATION:Santo Amador - Moura\,  Beja Santo Amador - Moura\,  Beja
+SUMMARY:II Trail Entre o Rio e a Aldeia 2023
+DESCRIPTION:O 2º Trail Entre o Rio e a Aldeia será realizado nos dias 8 d
+ e abril de 2023 e é um evento organizado pela Associação em Honra de San
+ to Amador\,  com o apoio de vários parceiros institucionais e privados. Tr
+ ail Longo (21 Km). Trail curto (15 Km). Caminhada (9 Km).\nhttps://www.port
+ ugalrunning.com/eventos/ii-trail-entre-o-rio-e-a-aldeia-2023/
+URL:https://www.portugalrunning.com/eventos/ii-trail-entre-o-rio-e-a-aldeia-2023/
+END:VEVENT
+END:VCALENDAR

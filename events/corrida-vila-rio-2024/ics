@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7431cd2
+DTSTAMP:20250720T222348Z
+DTSTART:20240602T134500Z
+DTEND:20240602T235900Z
+LOCATION:Póvoa de Santa Iria \,  Vila Franca de Xira Póvoa de Santa Iria\,  Vila Franca de Xira
+SUMMARY:Corrida Vila Rio 2024
+DESCRIPTION:Entre o rio e a terra\,  abraçado pela brisa do rio Tejo encon
+ tra-se o bairro Vila Rio\,  na Póvoa de Santa Íria\,  um lugar mágico qu
+ e transforma 17 hectares num lugar dinâmico e sustentável. Um processo qu
+ e consubstancia uma nova oportunidade de viver a exclusividade da frente ri
+ beirinha com o[..]\nhttps://www.portugalrunning.com/eventos/corrida-vila-ri
+ o-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-vila-rio-2024/
+END:VEVENT
+END:VCALENDAR

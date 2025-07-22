@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9630d79
+DTSTAMP:20250720T222838Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Bárrio\,  Alcobaça Bárrio\,  Alcobaça
+SUMMARY:Trail Trilhos Romanos 2024
+DESCRIPTION:A&nbsp;Associação Trilhos Romanos&nbsp;em colaboração com a
+ &nbsp;Junta de Freguesia do Bárrio e a Câmara Municipal de Alcobaça\, &n
+ bsp;no próximo dia&nbsp;02 de Junho de 2024\,  levará a cabo a organizaç
+ ão da&nbsp;3ª edição do Trail Trilhos Romanos\,  inserida nas festivida
+ des do aniversário da freguesia. O evento contará com duas provas competi
+ tivas\,  Trail de 18[..]\nhttps://www.portugalrunning.com/eventos/trail-tri
+ lhos-romanos-2024/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-romanos-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7348cbe
+DTSTAMP:20250720T222803Z
+DTSTART:20220515
+DTEND:20220516
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Trail Manuelino 2022
+DESCRIPTION:O 1º Trail Manuelino 2022 realizar-se-á no dia 15 de maio\,  
+ em Abiul\,  Concelho de Pombal\,  Distrito de Leiria. É constituído por 2
+  provas competitivas e uma caminhada. O evento é organizado pela Associaç
+ ão SicóTrilhos e conta com a colaboração do Município de Pombal\,  da 
+ Junta de Freguesia de Abiul[..]\nhttps://www.portugalrunning.com/eventos/tr
+ ail-manuelino-2022/
+URL:https://www.portugalrunning.com/eventos/trail-manuelino-2022/
+END:VEVENT
+END:VCALENDAR

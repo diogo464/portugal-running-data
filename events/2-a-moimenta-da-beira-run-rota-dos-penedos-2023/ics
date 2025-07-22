@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bffc2d2b
+DTSTAMP:20250720T222151Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Moimenta da Beira\,  Viseu Moimenta da Beira\,  Viseu
+SUMMARY:2.ª Moimenta Da Beira Run - Rota Dos Penedos 2023
+DESCRIPTION:O Clube Desportivo de Leomil\,  com a colaboração do Municíp
+ io de Moimenta da Beira\,  Junta de Freguesia de Leomil\,  Associação de 
+ Atletismo de Viseu e Federação Portuguesa de Atletismo\,  vai realizar no
+  próximo dia 16 de abril de 2023\,  a 2.ª MOIMENTA DA BEIRA RUN\,  ROTA D
+ OS PENEDOS\,  sendo em[..]\nhttps://www.portugalrunning.com/eventos/2-a-moi
+ menta-da-beira-run-rota-dos-penedos-2023/
+URL:https://www.portugalrunning.com/eventos/2-a-moimenta-da-beira-run-rota-dos-penedos-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d96dd738
+DTSTAMP:20250720T222838Z
+DTSTART:20250413
+DTEND:20250414
+LOCATION:Valezim\,  Guarda Valezim\,  Guarda
+SUMMARY:Trail Valezim Aldeia Desporto 2025
+DESCRIPTION:O 4º Trail Valezim Aldeia Desporto\,  é um evento competitivo
+ \,  amador\,  da modalidade de Trail Running\,  realizado numa das encostas
+  da Serra da Estrela e é organizado pela Associação Vallecinus Cultura e
+  Desporto – AVACD.O 4º Trail Valezim Aldeia Desporto será realizado no 
+ dia 13 de Abril de 2025 e[..]\nhttps://www.portugalrunning.com/eventos/trai
+ l-valezim-aldeia-desporto-2025/
+URL:https://www.portugalrunning.com/eventos/trail-valezim-aldeia-desporto-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb932b9b
+DTSTAMP:20250720T222457Z
+DTSTART:20240727
+DTEND:20240728
+LOCATION:Porto de Mós\,  Leiria Porto de Mós\,  Leiria
+SUMMARY:Limestone Ultra Trail 2024
+DESCRIPTION:Será realizado no dia&nbsp;27 de Julho 2024 (LUT - LIMESTONE U
+ LTRA TRAIL)\,  independentemente das condições climatéricas\,  desde que
+  o organizador entenda que não existe risco acrescido aos participantes. D
+ ada a exigência deste tipo de eventos a organização pode alterar os perc
+ ursos se entender que não estão reunidas condições de segurança.[..]\n
+ https://www.portugalrunning.com/eventos/limestone-ultra-trail-2024/
+URL:https://www.portugalrunning.com/eventos/limestone-ultra-trail-2024/
+END:VEVENT
+END:VCALENDAR

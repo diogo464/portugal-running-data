@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf749b1c
+DTSTAMP:20250720T222559Z
+DTSTART:20230826
+DTEND:20230827
+LOCATION:Oliveira do Bairro Oliveira do Bairro
+SUMMARY:Oliveira do Bairro Trilhos na Natureza 2023
+DESCRIPTION:O Município de Oliveira do Bairro\,  em parceria com a Associa
+ ção Jovem Oianense\,  vai organizar a segunda edição da corrida-caminha
+ da “Oliveira do Bairro - Trilhos na Natureza”\,  agendada para 26 de ag
+ osto\,  no âmbito das Comemorações do 20.º Aniversário da Elevação d
+ e Oliveira do Bairro a Cidade. A iniciativa vai[..]\nhttps://www.portugalru
+ nning.com/eventos/oliveira-do-bairro-trilhos-na-natureza-2023/
+URL:https://www.portugalrunning.com/eventos/oliveira-do-bairro-trilhos-na-natureza-2023/
+END:VEVENT
+END:VCALENDAR

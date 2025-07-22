@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d7a287
+DTSTAMP:20250720T222741Z
+DTSTART:20231119
+DTEND:20231120
+LOCATION:Aguiar da Beira\,  Guarda Aguiar da Beira\,  Guarda
+SUMMARY:Trail do Míscaro 2023
+DESCRIPTION:O 9º Trail do Míscaro\,  prova de corrida/trail running e cam
+ inhada na natureza\,  realiza-se em Aguiar da Beira\,  no dia 19 de novembr
+ o de 2023. O Trail do Míscaro 2023\,  9ª edição\,  apresentará duas pr
+ ovas competitivas – Trail Longo (+/- 25 km) e Trail Curto (+/- 15 km) –
+  e[..]\nhttps://www.portugalrunning.com/eventos/trail-do-miscaro-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-miscaro-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4c61886
+DTSTAMP:20250720T222724Z
+DTSTART:20220925
+DTEND:20220926
+LOCATION:Penina\,  Faro Penina\,  Faro
+SUMMARY:Caminhada/Trail da Salamandra 2022
+DESCRIPTION:Caminhada/Trail da Salamandra 2022\nhttps://www.portugalrunning
+ .com/eventos/trail-da-salamandra-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-salamandra-2022/
+END:VEVENT
+END:VCALENDAR

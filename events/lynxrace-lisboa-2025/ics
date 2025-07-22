@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbedb215
+DTSTAMP:20250720T222502Z
+DTSTART:20250503
+DTEND:20250504
+LOCATION:Lisboa Lisboa
+SUMMARY:Lynxrace Lisboa 2025
+DESCRIPTION:A LYNX LISBOA 2025 é uma Corrida de Obstáculos patrocinada pe
+ la Câmara Municipal de Lisboa erealiza-se a 04 de Maio\,  no Parque da Qui
+ nta de Santo António\,  no Restelo\,  ao lado do Externato SãoJosé.\nhtt
+ ps://www.portugalrunning.com/eventos/lynxrace-lisboa-2025/
+URL:https://www.portugalrunning.com/eventos/lynxrace-lisboa-2025/
+END:VEVENT
+END:VCALENDAR

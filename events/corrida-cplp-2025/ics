@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b617fe
+DTSTAMP:20250720T222251Z
+DTSTART:20250531T155800Z
+DTEND:20250531T155800Z
+LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+SUMMARY:Corrida CPLP 2025
+DESCRIPTION:O evento\,  organizado pela In Totum Lda.\,  decorrerá no dia 
+ 31 de maio e contempla um programainclusivo\,  dirigido a cidadãos de toda
+ s as nacionalidades\,  idades e géneros\,  incluindo crianças apartir dos
+  5 anos\,  desde que acompanhadas pelos pais. A iniciativa terá como ativi
+ dadesprincipais: uma corrida para crianças entre os 5[..]\nhttps://www.por
+ tugalrunning.com/eventos/corrida-cplp-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-cplp-2025/
+END:VEVENT
+END:VCALENDAR

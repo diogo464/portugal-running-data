@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d83798c4
+DTSTAMP:20250720T222819Z
+DTSTART:20221016
+DTEND:20221017
+LOCATION:Armamar\,  Viseu Armamar\,  Viseu
+SUMMARY:Trail/Caminhada Rota da Maça de Montanha 2022
+DESCRIPTION:A Organização do Trail Rota da Maça de Montanha\,  encontra-
+ se integrada na edição de 2022 da Feira da Maçã\,  sendo da responsabil
+ idade da Câmara Municipal de Armamar.\nhttps://www.portugalrunning.com/eve
+ ntos/trail-rota-da-maca-de-montanha-2022/
+URL:https://www.portugalrunning.com/eventos/trail-rota-da-maca-de-montanha-2022/
+END:VEVENT
+END:VCALENDAR

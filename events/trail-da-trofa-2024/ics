@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50c4b02
+DTSTAMP:20250720T222728Z
+DTSTART:20240908
+DTEND:20240909
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:Trail da Trofa 2024
+DESCRIPTION:Nesta VII Edição do Trail da Trofa serão enquadradas as segu
+ intes provas: Tipo DistânciaFYKE ULTRA TRAIL +- 49kmERA TROFA Trail Longo 
+ +- 31kmCONTROLAR Trail Curto +- 17kmFARMÁCIA TROFENSE Caminhada +- 10km\nh
+ ttps://www.portugalrunning.com/eventos/trail-da-trofa-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-trofa-2024/
+END:VEVENT
+END:VCALENDAR

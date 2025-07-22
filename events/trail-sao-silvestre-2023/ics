@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8baba9f
+DTSTAMP:20250720T222827Z
+DTSTART:20231210
+DTEND:20231211
+LOCATION:Cardielos\,  Viana do Castelo Cardielos\,  Viana do Castelo
+SUMMARY:Trail São Silvestre 2023
+DESCRIPTION:O Trail de S. Silvestre é organizado pela Xevents\,  Lda. junt
+ amente com a Câmara Municipal de Viana do Castelo e conta também com o 
+ apoio do Grupo de BTT os Queimados e também com a colaboração da União 
+ de Freguesias de Cardielos e Serreleis. Provas Trail LongoTrail SprintCamin
+ hada\nhttps://www.portugalrunning.com/eventos/trail-sao-silvestre-2023/
+URL:https://www.portugalrunning.com/eventos/trail-sao-silvestre-2023/
+END:VEVENT
+END:VCALENDAR

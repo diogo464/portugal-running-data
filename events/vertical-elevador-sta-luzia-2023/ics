@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbc004b6
+DTSTAMP:20250720T222916Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Vertical Elevador Sta Luzia 2023
+DESCRIPTION:O II Vertical Elevador de Sta. Luzia é uma competição de Sky
+ Running disputada em percurso ascendente que acompanha os carris do elevado
+ r. Apresenta um desnível positivo de 160 metros e uma distância aproximad
+ a de 650 metros entre a partida e a chegada. Terá início na estação do 
+ elevador de Sta[..]\nhttps://www.portugalrunning.com/eventos/vertical-eleva
+ dor-sta-luzia-2023/
+URL:https://www.portugalrunning.com/eventos/vertical-elevador-sta-luzia-2023/
+END:VEVENT
+END:VCALENDAR

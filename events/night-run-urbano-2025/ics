@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cee0124e
+DTSTAMP:20250720T222550Z
+DTSTART:20251004T191400Z
+DTEND:20251004T235900Z
+LOCATION:Figueiró dos Vinhos\,  Leiria Figueiró dos Vinhos\,  Leiria
+SUMMARY:Night Run Urbano 2025
+DESCRIPTION:O NIGHT RUN 2025 Urbano realizar-se-á no dia 4 de outubro de 2
+ 025\,  sábado\,  durante o período noturno Ambos os percursos terão como
+  ponto de partida e chegada o quartel dos Bombeiros Voluntários de Figueir
+ ó dos Vinhos. A Caminhada terá uma distância de 6 km\,  podendo ser cump
+ rida em passo[..]\nhttps://www.portugalrunning.com/eventos/night-run-urbano
+ -2025/
+URL:https://www.portugalrunning.com/eventos/night-run-urbano-2025/
+END:VEVENT
+END:VCALENDAR

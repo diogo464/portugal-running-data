@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce902420
+DTSTAMP:20250720T222545Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Torres Do Mondego\,  Coimbra Torres Do Mondego\,  Coimbra
+SUMMARY:Mondego Ultra Trail 2023
+DESCRIPTION:O Mondego SkyRace® é um evento em trilhos com o objectivo de 
+ percorrer determinada distância ultrapassando os obstáculos naturais do t
+ erreno e enfrentar as suas adversidades no menor tempo possível\,  não é
+  uma caminhada. Desenvolve-se essencialmente na Freguesia de Torres do Mond
+ ego\,  e apresenta características que o levam a enquadrar-se[..]\nhttps:/
+ /www.portugalrunning.com/eventos/mondego-ultra-trail-2023/
+URL:https://www.portugalrunning.com/eventos/mondego-ultra-trail-2023/
+END:VEVENT
+END:VCALENDAR

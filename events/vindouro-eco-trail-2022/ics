@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc27ae70
+DTSTAMP:20250720T222922Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:São João da Pesqueira\,  Viseu São João da Pesqueira
+SUMMARY:Vindouro Eco Trail 2022
+DESCRIPTION:O evento Vindouro Eco Trail ocorre a 9 de Outubro de 2022 em S�
+ �o João da Pesqueira\,  região do Douro – Património da Humanidade. Pr
+ ovas TrailLongo(TL): prova de corrida em montanha de 28km. TrailCurto(TC): 
+ prova de corrida em montanha de 18km. MiniTrail(MT): prova de corrida em mo
+ ntanha de 10km. Caminhada:[..]\nhttps://www.portugalrunning.com/eventos/vin
+ douro-eco-trail-2022/
+URL:https://www.portugalrunning.com/eventos/vindouro-eco-trail-2022/
+END:VEVENT
+END:VCALENDAR

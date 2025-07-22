@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7901c51
+DTSTAMP:20250720T222353Z
+DTSTART:20250628
+DTEND:20250629
+LOCATION:Caniço\,  Madeira Caniço\,  Madeira
+SUMMARY:Cristo Rei Trail 2025
+DESCRIPTION:O Cristo Rei Trail faz parte do Circuito de Trail da Madeira e 
+ integra duas provas competitivas. Com chegadas na promenade dos Reis Magos\
+ ,  venha conhecer alguns dos melhores trilhos da Ilha da Madeira.\nhttps://
+ www.portugalrunning.com/eventos/cristo-rei-trail-2025/
+URL:https://www.portugalrunning.com/eventos/cristo-rei-trail-2025/
+END:VEVENT
+END:VCALENDAR

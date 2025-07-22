@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d33ab7ea
+DTSTAMP:20250720T222659Z
+DTSTART:20240706T213200Z
+DTEND:20240706T213200Z
+LOCATION:Baixa da Banheira\,  Setúbal Baixa da Banheira\,  Setúbal
+SUMMARY:Sunset Run Ribeirinha 2024
+DESCRIPTION:A 6ª SUNSET RUN RIBEIRINHA é composta por uma prova (corrida 
+ 9Km) e uma caminhada (6Km).\nhttps://www.portugalrunning.com/eventos/sunset
+ -run-ribeirinha-2024/
+URL:https://www.portugalrunning.com/eventos/sunset-run-ribeirinha-2024/
+END:VEVENT
+END:VCALENDAR

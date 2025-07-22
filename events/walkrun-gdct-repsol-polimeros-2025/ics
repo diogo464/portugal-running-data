@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc992582
+DTSTAMP:20250720T222929Z
+DTSTART:20250118T224300Z
+DTEND:20250118T224300Z
+LOCATION:Vila Nova de Santo André\,  Santiago do Cacém Vila Nova de Santo André\,  Santiago do Cacém
+SUMMARY:WalkRun GDCT Repsol Polímeros 2025
+DESCRIPTION:O segundo evento WalkRun é um evento com carácter de lazer\, 
+  comunitário e solidário\,  desportivo não competitivo. Promovido e orga
+ nizado pelo Grupo Desportivo e Cultural dos Trabalhadores da Repsol Políme
+ ros. Conta com o apoio da Junta Freguesia de Santo André e da Câmara Muni
+ cipal de Santiago do Cacém. Terá lugar[..]\nhttps://www.portugalrunning.c
+ om/eventos/walkrun-gdct-repsol-polimeros-2025/
+URL:https://www.portugalrunning.com/eventos/walkrun-gdct-repsol-polimeros-2025/
+END:VEVENT
+END:VCALENDAR

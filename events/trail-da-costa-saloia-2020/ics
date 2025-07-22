@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4861391
+DTSTAMP:20250720T222720Z
+DTSTART:20201018
+DTEND:20201019
+LOCATION:Mucifal - Sintra Mucifal - Sintra
+SUMMARY:Trail da Costa Saloia 2020
+DESCRIPTION:Pela 1ª vez como etapa integrante do Circuito Lisboa Trail\,  
+ esta é já a 6ª edição do Trail da Costa Saloia! Com partida e chegada 
+ no Complexo Desportivo da União Mucifalense poderás contar com uma prova 
+ de trail longo\,  trail curto e uma caminhada formados por caminhos\,  tril
+ hos e carreiros[..]\nhttps://www.portugalrunning.com/eventos/trail-da-costa
+ -saloia-2020/
+URL:https://www.portugalrunning.com/eventos/trail-da-costa-saloia-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d31121
+DTSTAMP:20250720T222741Z
+DTSTART:20250406
+DTEND:20250407
+LOCATION:Machico\,  Madeira Machico\,  Madeira
+SUMMARY:Trail do Ludens - Santo da Serra 2025
+DESCRIPTION:O "XI Trail do Ludens - Santo da Serra” integra duas provas: 
+ o Trail Rota dos Lamaceiros– 21\, 200km/1200D+ e o Trail Rota da Sidra co
+ m cerca de 11 km/550D+.\nhttps://www.portugalrunning.com/eventos/trail-do-l
+ udens-santo-da-serra-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-ludens-santo-da-serra-2025/
+END:VEVENT
+END:VCALENDAR

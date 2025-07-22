@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8701fb3
+DTSTAMP:20250720T222407Z
+DTSTART:20230312
+DTEND:20230313
+LOCATION:Lisboa Lisboa
+SUMMARY:EDP Meia Maratona de Lisboa 2023
+DESCRIPTION:Queria referir-se à Meia Maratona de Lisboa de Outubro? RESULT
+ ADOS AQUI A EDP Meia Maratona de Lisboa 2023 é a meia maratona mais rápid
+ a do mundo e todos os anos junta mais de 30.000 participantes\,  incluindo 
+ milhares de atletas estrangeiros. Venha bater o seu recorde pessoal connosc
+ o e junte-se aos[..]\nhttps://www.portugalrunning.com/eventos/edp-meia-mara
+ tona-de-lisboa-2023/
+URL:https://www.portugalrunning.com/eventos/edp-meia-maratona-de-lisboa-2023/
+END:VEVENT
+END:VCALENDAR

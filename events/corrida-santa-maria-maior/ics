@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69f417c
+DTSTAMP:20250720T222337Z
+DTSTART:20191222
+DTEND:20191223
+LOCATION:Largo das Portas do Sol\,  Lisboa Largo das Portas do Sol\,  Lisboa
+SUMMARY:Corrida Santa Maria Maior
+DESCRIPTION:Está a chegar a 4ª CORRIDA SANTA MARIA MAIOR! No dia 22 de de
+ zembro (domingo)\,  partimos do Castelo para 10km de corrida no coração d
+ a cidade. Do Largo das Portas do Sol ao Terreiro do Paço\,  percorrendo ar
+ térias de diferentes zonas da freguesia\,  a Corrida de Santa Maria Maior\
+ ,  promovida[..]\nhttps://www.portugalrunning.com/eventos/corrida-santa-mar
+ ia-maior/
+URL:https://www.portugalrunning.com/eventos/corrida-santa-maria-maior/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdddc76b
+DTSTAMP:20250720T222533Z
+DTSTART:20201115
+DTEND:20201116
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Meia Maratona Internacional da Nazaré
+DESCRIPTION:Meia Maratona Internacional da Nazaré\nhttps://www.portugalrun
+ ning.com/eventos/meia-maratona-internacional-da-nazare/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-internacional-da-nazare/
+END:VEVENT
+END:VCALENDAR

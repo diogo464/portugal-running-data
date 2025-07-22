@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5230e31
+DTSTAMP:20250720T222314Z
+DTSTART:20250518T151700Z
+DTEND:20250518T151700Z
+LOCATION:São Paio de Oleiros\,  Santa Maria da Feira São Paio de Oleiros\,  Santa Maria da Feira
+SUMMARY:Corrida do CDCD de S. Paio de Oleiros 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-do-cdcd-de-s-
+ paio-de-oleiros-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-do-cdcd-de-s-paio-de-oleiros-2025/
+END:VEVENT
+END:VCALENDAR

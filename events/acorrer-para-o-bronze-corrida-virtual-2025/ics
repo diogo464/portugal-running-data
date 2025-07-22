@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1293617
+DTSTAMP:20250720T222210Z
+DTSTART:20250715
+DTEND:20250716
+LOCATION:Portugal Portugal
+SUMMARY:Acorrer para o Bronze - Corrida Virtual 2025
+DESCRIPTION:Acorrer para o Bronze - Corrida Virtual 2025\nhttps://www.portu
+ galrunning.com/eventos/acorrer-para-o-bronze-corrida-virtual-2025/
+URL:https://www.portugalrunning.com/eventos/acorrer-para-o-bronze-corrida-virtual-2025/
+END:VEVENT
+END:VCALENDAR

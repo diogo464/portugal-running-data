@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca830de1
+DTSTAMP:20250720T222440Z
+DTSTART:20200301
+DTEND:20200302
+LOCATION:Alcochete\,  Setúbal Alcochete\,  Setúbal
+SUMMARY:III Trail do Municipio 2020
+DESCRIPTION:O III Trail do Município de Alcochete é um evento no âmbito 
+ do desporto amador e do turismo de natureza; Esta iniciativa é organizada 
+ por uma Comissão Organizadora\,  constituída pelo Município de Alcochete
+  e o Campo de Tiro; O III Trail do Município de Alcochete será composto p
+ or um percurso[..]\nhttps://www.portugalrunning.com/eventos/iii-trail-do-mu
+ nicipio-2020/
+URL:https://www.portugalrunning.com/eventos/iii-trail-do-municipio-2020/
+END:VEVENT
+END:VCALENDAR

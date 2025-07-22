@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c33183ae
+DTSTAMP:20250720T222243Z
+DTSTART:20230923
+DTEND:20230924
+LOCATION:Vila Nova de Santo André\,  Santiago do Cacém Vila Nova de Santo André\,  Santiago do Cacém
+SUMMARY:Correr pela Europa 2023
+DESCRIPTION:A 6ª edição da prova de atletismo “CORRER PELA EUROPA” v
+ isa a promoção do exercício físico e de hábitosde vida saudáveis junt
+ o da população\,  através de uma corrida de 10 Km e de uma caminhada de 
+ 5 km paraadultos e uma prova destinada a crianças e jovens até aos 17[..]
+ \nhttps://www.portugalrunning.com/eventos/correr-pela-europa-2023/
+URL:https://www.portugalrunning.com/eventos/correr-pela-europa-2023/
+END:VEVENT
+END:VCALENDAR

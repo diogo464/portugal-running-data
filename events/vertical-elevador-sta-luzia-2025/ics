@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbc17e9e
+DTSTAMP:20250720T222916Z
+DTSTART:20250601
+DTEND:20250602
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Vertical Elevador Sta Luzia 2025
+DESCRIPTION:O IV Vertical Elevador de Sta. Luzia é uma prova nacional e re
+ gional\,  organizada pela Associação Trilhos de Viana\,  em estreita cola
+ boração com a Federação de Campismo e Montanhismo de Portugal. Conta ai
+ nda com o apoio da Câmara Municipal de Viana do Castelo.\nhttps://www.port
+ ugalrunning.com/eventos/vertical-elevador-sta-luzia-2025/
+URL:https://www.portugalrunning.com/eventos/vertical-elevador-sta-luzia-2025/
+END:VEVENT
+END:VCALENDAR

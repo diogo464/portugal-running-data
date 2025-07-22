@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0092a10
+DTSTAMP:20250720T222608Z
+DTSTART:20220521
+DTEND:20220522
+LOCATION:Porto Santo\,  Madeira Porto Santo\,  Madeira
+SUMMARY:Porto Santo Nature Trail 2022
+DESCRIPTION:O Porto Santo Nature Trail 2022 é um evento de trail running\,
+   que decorre integralmente na ilha do Porto Santo e que integra o Circuito
+  Trail Madeira da época 2021-22. A prova é organizada pela AARAM em parce
+ ria com a Câmara Municipal do Porto Santo e decorrerá em absoluto respeit
+ o[..]\nhttps://www.portugalrunning.com/eventos/porto-santo-nature-trail-202
+ 2/
+URL:https://www.portugalrunning.com/eventos/porto-santo-nature-trail-2022/
+END:VEVENT
+END:VCALENDAR

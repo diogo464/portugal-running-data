@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d301830a
+DTSTAMP:20250720T222656Z
+DTSTART:20240414
+DTEND:20240415
+LOCATION:Alenquer\,  Lisboa Alenquer\,  Lisboa
+SUMMARY:Spt Trail Serra Galega 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/spt-trail-serra-galeg
+ a-2024/
+URL:https://www.portugalrunning.com/eventos/spt-trail-serra-galega-2024/
+END:VEVENT
+END:VCALENDAR

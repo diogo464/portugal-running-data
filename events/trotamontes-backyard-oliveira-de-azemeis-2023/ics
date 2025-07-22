@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daff3a08
+DTSTAMP:20250720T222903Z
+DTSTART:20230325
+DTEND:20230326
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:Trotamontes Backyard Oliveira De Azeméis 2023
+DESCRIPTION:riado por Lazarus Lake\,  o organizador das lendárias Maratona
+ s Barkley no Parque Natural Frozen Head do Tennessee\,  o princípio desta 
+ nova forma de tortura é muito simples: O percurso consta de uma Volta (
+ loop) de 6.706 km; Há uma partida a cada hora; O atleta tem que comp
+ letar uma volta[..]\nhttps://www.portugalrunning.com/eventos/trotamontes-ba
+ ckyard-oliveira-de-azemeis-2023/
+URL:https://www.portugalrunning.com/eventos/trotamontes-backyard-oliveira-de-azemeis-2023/
+END:VEVENT
+END:VCALENDAR

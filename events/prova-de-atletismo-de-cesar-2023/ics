@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0092821
+DTSTAMP:20250720T222608Z
+DTSTART:20230219
+DTEND:20230220
+LOCATION:Cesar\,  Oliveira de Azeméis Cesar\,  Oliveira de Azeméis
+SUMMARY:Prova de Atletismo de Cesar 2023
+DESCRIPTION:A Associação Villa Cesari\,  através da sua seção de Atlet
+ ismo\,  organiza de novo a Prova de Atletismo de Cesar\,  que reunirá nest
+ a vila do concelho de Oliveira de Azeméis provas para todos os escalões e
+ tários e um leque dos melhores atletas nacionais.\nhttps://www.portugalrun
+ ning.com/eventos/prova-de-atletismo-de-cesar-2023/
+URL:https://www.portugalrunning.com/eventos/prova-de-atletismo-de-cesar-2023/
+END:VEVENT
+END:VCALENDAR

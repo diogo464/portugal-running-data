@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b620f4
+DTSTAMP:20250720T222323Z
+DTSTART:20200913
+DTEND:20200914
+LOCATION:Mafra Mafra\,  Lisboa
+SUMMARY:Corrida dos Sinos 2020
+DESCRIPTION:Os Amigos do Atletismo de Mafra\,  com a colaboração da Câma
+ ra Municipal de Mafra e Junta de Freguesia de Mafra\,  realizam no dia 05 d
+ e Abril de 2020\,  pelas 10h30\,  a 38.ª Corrida dos Sinos - uma das “cl
+ ássicas” do atletismo português. Este evento contempla duas provas: a p
+ rova principal[..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-sin
+ os-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-sinos-2020/
+END:VEVENT
+END:VCALENDAR

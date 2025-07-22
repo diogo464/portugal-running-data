@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbc61201
+DTSTAMP:20250720T222916Z
+DTSTART:20240622
+DTEND:20240623
+LOCATION:Vieira do Minho\,  Braga Vieira do Minho\,  Braga
+SUMMARY:VieiraFit Race 2024
+DESCRIPTION:A VieiraFit Race é uma prova que combina corrida com obstácul
+ os urbanos e é também uma prova de carácter social\,  ajudando assim uma
+  instituição de Vieira do Minho com 10% do valor das inscrições\nhttps:
+ //www.portugalrunning.com/eventos/vieirafit-obstacle-race-2024/
+URL:https://www.portugalrunning.com/eventos/vieirafit-obstacle-race-2024/
+END:VEVENT
+END:VCALENDAR

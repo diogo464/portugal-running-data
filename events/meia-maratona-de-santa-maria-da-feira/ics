@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd149de5
+DTSTAMP:20250720T222521Z
+DTSTART:20200321
+DTEND:20200322
+LOCATION:
+SUMMARY:Meia Maratona de Santa Maria da Feira 2020
+DESCRIPTION:Realiza-se no dia 21 de março de 2020 pelas 17h00\,  na Cidade
+  de Santa Maria da Feira com partida e chegada no Europarque a 2ª Meia Mar
+ atona de Santa Maria da Feira 21km e o Troféu Europarque Running 8km\,  na
+  qual se integrará uma caminhada com de 6 km\,  sem[..]\nhttps://www.portu
+ galrunning.com/eventos/meia-maratona-de-santa-maria-da-feira/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-santa-maria-da-feira/
+END:VEVENT
+END:VCALENDAR

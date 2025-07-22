@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3f38e7
+DTSTAMP:20250720T222507Z
+DTSTART:20211017
+DTEND:20211018
+LOCATION:Lisboa Lisboa
+SUMMARY:Maratona de Lisboa 2021
+DESCRIPTION:Resultados Percurso A EDP Maratona de Lisboa 2021 é já consid
+ erada como uma das mais belas maratonas do mundo por entidades internaciona
+ is como a&nbsp;Forbes\,  o&nbsp;Huffington Post&nbsp;e&nbsp;American Expres
+ s\,  que elegeram a Maratona de Lisboa como uma prova a não perder. Com in
+ ício&nbsp;Cascais&nbsp;e meta instalada na simbólica&nbsp;Praça do Comé
+ rcio\,  a Maratona de[..]\nhttps://www.portugalrunning.com/eventos/maratona
+ -de-lisboa-2021/
+URL:https://www.portugalrunning.com/eventos/maratona-de-lisboa-2021/
+END:VEVENT
+END:VCALENDAR

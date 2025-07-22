@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d96dc205
+DTSTAMP:20250720T222838Z
+DTSTART:20231119
+DTEND:20231120
+LOCATION:Santa Barbara de Nexe\,  Faro Santa Barbara de Nexe\,  Faro
+SUMMARY:Trail Veredas de Nexe 2023
+DESCRIPTION:O “II Trail Veredas de Nexe” será realizado nos dias 23 e 
+ 24 setembro 2023 (adiado para 11 de novembro) \,  em Santa Bárbara de Nexe
+  Faro. A Terra de Nexe em pleno Barrocal\,  entre a Serra e o Mar\,  com a 
+ sua Igreja Matriz e com vistas sobre o[..]\nhttps://www.portugalrunning.com
+ /eventos/trail-veredas-de-nexe-2023/
+URL:https://www.portugalrunning.com/eventos/trail-veredas-de-nexe-2023/
+END:VEVENT
+END:VCALENDAR

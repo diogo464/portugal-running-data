@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9392331
+DTSTAMP:20250720T222419Z
+DTSTART:20221022
+DTEND:20221023
+LOCATION:São João da Madeira\,  Porto São João da Madeira\,  Porto
+SUMMARY:GP Internacional de Atletismo Alberto Batista 2022
+DESCRIPTION:É em homenagem ao ex-atleta e treinador dos Serviços Sociais 
+ de Trabalhadores do Município de São João da Madeira \,  Alberto Batista
+ \,  que o Grande Prémio Internacional de Atletismo se realiza. Um dos even
+ tos de referência de São João da Madeira aberto à participação de tod
+ os.\nhttps://www.portugalrunning.com/eventos/gp-internacional-de-atletismo-
+ alberto-batista-2022/
+URL:https://www.portugalrunning.com/eventos/gp-internacional-de-atletismo-alberto-batista-2022/
+END:VEVENT
+END:VCALENDAR

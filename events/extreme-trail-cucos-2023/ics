@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8c00f2c
+DTSTAMP:20250720T222412Z
+DTSTART:20230610
+DTEND:20230611
+LOCATION:Cucos\,  Torres Vedras Cucos\,  Torres Vedras\,  Lisboa
+SUMMARY:Extreme Trail Cucos 2023
+DESCRIPTION:O   TURRES TRAIL  CLUBE \,  com o apoio da Câmara Municip
+ al de Torres Vedras e junta de freguesia de São Pedro Santiago e Santa Mar
+ ia  \,   vai realizar no próximo dia 10 de Junho de 2023\,  um evento 
+ denominado "   9º EXTREME TRAIL CUCOS". Este evento\,  terá um Trail 
+ Longo  MD de Grau 3\,  um Trail Curto  MD[..]\nhttps://www.portugalrunn
+ ing.com/eventos/extreme-trail-cucos-2023/
+URL:https://www.portugalrunning.com/eventos/extreme-trail-cucos-2023/
+END:VEVENT
+END:VCALENDAR

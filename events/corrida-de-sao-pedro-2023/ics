@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d6289c
+DTSTAMP:20250720T222309Z
+DTSTART:20230702
+DTEND:20230703
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida de São Pedro 2023
+DESCRIPTION:A clássica dos Santos populares espera por tiA 2 de julho vem 
+ celebrar o S. Pedro a correr. Vem participar na grande festa que é a Corri
+ da de São Pedro\,  o emblemático evento desportivo das festas da Póvoa d
+ e Varzim. A partida é às 10 horas\,  só tens de optar[..]\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-de-sao-pedro-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-pedro-2023/
+END:VEVENT
+END:VCALENDAR

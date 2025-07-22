@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d03db5b2
+DTSTAMP:20250720T222611Z
+DTSTART:20240717
+DTEND:20240718
+LOCATION:Proença a Nova  Proença-a-Nova
+SUMMARY:Pt281 Ultramarathon 2024
+DESCRIPTION:A PT281® Ultramarathon é uma corrida a pé em ambiente natura
+ l\,  percorrendo trilhos florestais\,  caminhos rurais\,  estradas de terra
+  e de asfalto\,  O percurso atravessa uma paisagem histórica e natural da 
+ Beira Baixa – Portugal e tem como partida a o Castelo da Vila de Belmonte
+  e chegada em Proença-a-Nova.[..]\nhttps://www.portugalrunning.com/eventos
+ /pt281-ultramarathon-2024/
+URL:https://www.portugalrunning.com/eventos/pt281-ultramarathon-2024/
+END:VEVENT
+END:VCALENDAR

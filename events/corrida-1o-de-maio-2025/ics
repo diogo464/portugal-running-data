@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3318d93
+DTSTAMP:20250720T222243Z
+DTSTART:20250501
+DTEND:20250502
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida 1º de Maio 2025
+DESCRIPTION:As avenidas de Lisboa voltam a ser no dia 1 de Maio 2025\,  o p
+ alco para a tradicional Corrida Internacional 1º de Maio\, promovida pela 
+ União dos Sindicatos de Lisboa / CGTP\,  prova que anualmente\,  reúne ma
+ is de um milhar de atletas e amantes do desporto.\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-1o-de-maio-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-1o-de-maio-2025/
+END:VEVENT
+END:VCALENDAR

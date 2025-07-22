@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c73dba35
+DTSTAMP:20250720T222347Z
+DTSTART:20240908
+DTEND:20240909
+LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+SUMMARY:Corrida Solidariedade APAV 2024
+DESCRIPTION:Está de volta a Corrida de Solidariedade APAV\,  prova que vai
+  para a sua 18ª edição. Junta-te à causa e corre ou caminha\,  no cora�
+ �ão verde de Lisboa\,  numa manhã de animação e desporto! A Associaçã
+ o Portuguesa de Apoio à Vítima (APAV) é uma instituição particular de 
+ solidariedade social\,  que[..]\nhttps://www.portugalrunning.com/eventos/co
+ rrida-solidariedade-apav-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-solidariedade-apav-2024/
+END:VEVENT
+END:VCALENDAR

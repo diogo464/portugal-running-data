@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5bc31a8
+DTSTAMP:20250720T222323Z
+DTSTART:20250104
+DTEND:20250105
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida dos Reis 2025
+DESCRIPTION:No dia 4 de janeiro\,  a Póvoa de Varzim será palco da VII Gr
+ upo CCR | Corrida dos Reis 2025. O evento tem o selo de qualidade das organ
+ izações Bikeservice e será muito mais do que uma mera corrida. Com parti
+ da marcada para as 18 horas\,  esta VII Grupo CCR[..]\nhttps://www.portugal
+ running.com/eventos/corrida-dos-reis-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-2025/
+END:VEVENT
+END:VCALENDAR

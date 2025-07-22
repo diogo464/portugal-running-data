@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca27add4
+DTSTAMP:20250720T222434Z
+DTSTART:20230708
+DTEND:20230709
+LOCATION:Santa Maria de Lamas\,  Santa Maria da Feira Santa Maria de Lamas\,  Santa Maria da Feira
+SUMMARY:Grande Premio Santa Maria Lamas 2023
+DESCRIPTION:O CAL – Clube Atletismo de Lamas\,  em parceria com a Câmara
+  Municipal de Stª Mª da Feira e a Junta deFreguesia de Stª Mª de Lamas\
+ ,  leva a efeito no próximo dia 08 de julho de 2023\,  pelas 17.00 horas\,
+   uma prova de Atletismo\,  na distância de 8.700 metros.[..]\nhttps://www
+ .portugalrunning.com/eventos/grande-premio-santa-maria-lamas-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-santa-maria-lamas-2023/
+END:VEVENT
+END:VCALENDAR

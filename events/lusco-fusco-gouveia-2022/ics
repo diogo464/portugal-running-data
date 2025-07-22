@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbb4bcf2
+DTSTAMP:20250720T222459Z
+DTSTART:20221029
+DTEND:20221030
+LOCATION:Gouveia\,  Guarda Gouveia\,  Guarda
+SUMMARY:Lusco Fusco Gouveia 2022
+DESCRIPTION:A 1a edição do Trail Noturno Lusco Fusco\,  um evento organiz
+ ado pelos Bombeiros de Gouveia\,  tem como objetivo a angariação de fundo
+ s para a aquisição de um veículo cisterna de água\,  VTTU (Veículo Tan
+ que Tático Urbano)\,  essencial para a Corporação e para Cidade de Gouve
+ ia. Decorrerá no próximo dia 29[..]\nhttps://www.portugalrunning.com/even
+ tos/lusco-fusco-gouveia-2022/
+URL:https://www.portugalrunning.com/eventos/lusco-fusco-gouveia-2022/
+END:VEVENT
+END:VCALENDAR

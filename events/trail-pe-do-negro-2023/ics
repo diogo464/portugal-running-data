@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7e18ff5
+DTSTAMP:20250720T222814Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Trail Pé Do Negro 2023
+DESCRIPTION:O evento Trail Pé do Negro Ponte de Lima é organizado e promo
+ vido pela Escola Desportiva Limiana. Realizar-se-á no dia 29 de Outubro de
+  2023 pelas diversas zonas circundantes na Freguesia do Bárrio\,  Ponte de
+  Lima\,  e Freguesias contíguas. Mais info BREVEMENTE\nhttps://www.portuga
+ lrunning.com/eventos/trail-pe-do-negro-2023/
+URL:https://www.portugalrunning.com/eventos/trail-pe-do-negro-2023/
+END:VEVENT
+END:VCALENDAR

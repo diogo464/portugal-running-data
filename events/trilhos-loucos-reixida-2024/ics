@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dacdb411
+DTSTAMP:20250720T222900Z
+DTSTART:20240707
+DTEND:20240708
+LOCATION:Reixida\,  Leiria Reixida\,  Leiria
+SUMMARY:Trilhos Loucos Reixida 2024
+DESCRIPTION:Os&nbsp;Trilhos Loucos da Reixida (TLR)&nbsp;são um evento de 
+ corrida na natureza\,  vertente de trail running\,  organizados pela&nbsp;A
+ ssociação Cultural\,  Recreativa e Desportiva de Reixida. O evento é com
+ posto por duas provas e uma caminhada: Trail Sprint 22km Mini-Trail 13km Ca
+ minhada 9km\nhttps://www.portugalrunning.com/eventos/trilhos-loucos-reixida
+ -2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-loucos-reixida-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5993142
+DTSTAMP:20250720T222737Z
+DTSTART:20230212
+DTEND:20230213
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Trail do Covão 2023
+DESCRIPTION:A segunda edição do Trail do Covão é uma prova que percorre
+  trilhos e caminhos nas Freguesias de Cête\,  Parada de Todeia e Baltar\, 
+  com início e fim no Parque Urbano de Cête. A prova de caracter competiti
+ vo tem três distâncias (10 km; 17km e 25km).\nhttps://www.portugalrunning
+ .com/eventos/trail-do-covao-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-covao-2023/
+END:VEVENT
+END:VCALENDAR

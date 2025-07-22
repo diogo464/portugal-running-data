@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c78f3fe5
+DTSTAMP:20250720T222352Z
+DTSTART:20230610
+DTEND:20230611
+LOCATION:Tábua\,  Coimbra Tábua\,  Coimbra
+SUMMARY:Cross João Brandão - Segmento 2023
+DESCRIPTION:O Cross João Brandão é organizado pelo Município de Tábua.
+  Conta ainda com a colaboração da ADXTUR\,  ADI e Evolução Vertical Lda
+ .O Cross João Brandão é um evento de corrida na natureza em homenagem de
+  João Brandão que leva-o pelas margens dos rios Cavalos e dá-lhe a conhe
+ cer património único[..]\nhttps://www.portugalrunning.com/eventos/cross-j
+ oao-brandao-segmento-2023/
+URL:https://www.portugalrunning.com/eventos/cross-joao-brandao-segmento-2023/
+END:VEVENT
+END:VCALENDAR

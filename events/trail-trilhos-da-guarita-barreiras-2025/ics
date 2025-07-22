@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9318be8
+DTSTAMP:20250720T222835Z
+DTSTART:20250622T113500Z
+DTEND:20250622T235900Z
+LOCATION:Vila Cova\,  Barcelos Vila Cova\,  Barcelos
+SUMMARY:Trail Trilhos da Guarita Barreiras 2025
+DESCRIPTION:Esta prova de trail-running atravessa os desafiantes trilhos e 
+ caminhos das montanhas de São Mamede (Guarita) e Cotulo\,  no concelho de 
+ Barcelos. As corridas têm um caráter competitivo\,  enquanto a caminhada 
+ é de participação livre e não competitiva\,  sendo permitida a particip
+ ação de menores a partir dos 10 anos\,  desde[..]\nhttps://www.portugalru
+ nning.com/eventos/trail-trilhos-da-guarita-barreiras-2025/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-da-guarita-barreiras-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7e4a382
+DTSTAMP:20250720T222814Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Penela\,  Coimbra Penela\,  Coimbra
+SUMMARY:Trail Pedra da Ferida 2022
+DESCRIPTION:A 1ª Edição do Trail Pedra da Ferida ocorre a 20 de Novembro
+  de 2022\,  na Freguesia do Espinhal\,  concelho de Penela. Os percursos e 
+ o território que caracterizam a Freguesia do Espinhal vai permitir aos atl
+ etas\,  caminheiros\,  participantes e visitantes vislumbrar o que existe d
+ e melhor. A Natureza composta[..]\nhttps://www.portugalrunning.com/eventos/
+ trail-pedra-da-ferida-2022/
+URL:https://www.portugalrunning.com/eventos/trail-pedra-da-ferida-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5e4a5c0
+DTSTAMP:20250720T222742Z
+DTSTART:20200209
+DTEND:20200210
+LOCATION:Porto Moniz Porto Moniz\,  Funchal\,  Madeira
+SUMMARY:Trail do Porto Moniz 2020
+DESCRIPTION:O Clube de Montanha do Funchal organiza no dia 09 de fevereiro 
+ de 2020\,  o Trail do Porto do Moniz. Uma prova de trail-running integrada 
+ no Circuito Nacional de Trail-Running 2019/2020 da ATRP â€“ AssociaÃ§Ã£o de
+  Trail-Running de Portugal e no Circuito Trail Madeira 2019/2020 da AARAM â
+ €“ AssociaÃ§Ã£o de[..]\nhttps://www.portugalrunning.com/eventos/trail-do-po
+ rto-moniz-2020/
+URL:https://www.portugalrunning.com/eventos/trail-do-porto-moniz-2020/
+END:VEVENT
+END:VCALENDAR

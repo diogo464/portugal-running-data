@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb649a7c
+DTSTAMP:20250720T222454Z
+DTSTART:20220507
+DTEND:20220508
+LOCATION:Leiria Leiria
+SUMMARY:Leiria Run 2022
+DESCRIPTION:E aqui está o Leiria Run 2022 a corrida mais espectacular de L
+ EIRIA que te vai levar a correr aos locais mais inesperados da cidade do Li
+ s. A passagem pelo rio é uma certeza\,  mas prepara-te....! Experimenta Le
+ iria a correr!\nhttps://www.portugalrunning.com/eventos/leiria-run-2022/
+URL:https://www.portugalrunning.com/eventos/leiria-run-2022/
+END:VEVENT
+END:VCALENDAR

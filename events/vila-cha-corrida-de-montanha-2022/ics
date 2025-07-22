@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf4ae23
+DTSTAMP:20250720T222919Z
+DTSTART:20220807
+DTEND:20220808
+LOCATION:Vila Chã-Fornos de Algodres\,  Guarda Vila Chã-Fornos de Algodres\,  Guarda
+SUMMARY:Vila Chã Corrida de Montanha 2022
+DESCRIPTION:Vila Chã Corrida de Montanha 2022\nhttps://www.portugalrunning
+ .com/eventos/vila-cha-corrida-de-montanha-2022/
+URL:https://www.portugalrunning.com/eventos/vila-cha-corrida-de-montanha-2022/
+END:VEVENT
+END:VCALENDAR

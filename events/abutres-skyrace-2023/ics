@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c11dbc31
+DTSTAMP:20250720T222209Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Miranda do Corvo\,  Coimbra Miranda do Corvo\,  Coimbra
+SUMMARY:Abutres SkyRace® 2023
+DESCRIPTION:Abutres SkyRace® 2023\nhttps://www.portugalrunning.com/eventos
+ /abutres-skyrace-2023/
+URL:https://www.portugalrunning.com/eventos/abutres-skyrace-2023/
+END:VEVENT
+END:VCALENDAR

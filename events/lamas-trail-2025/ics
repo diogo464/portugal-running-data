@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb3c2ccf
+DTSTAMP:20250720T222451Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Lamas\,  Viseu Lamas\,  Viseu
+SUMMARY:Lamas Trail 2025
+DESCRIPTION:O evento é composto por três percursos:Trail de 22 km (aprox.
+ );Mini Trail 13 km (aprox.); Caminhada 13Km (aprox.).\nhttps://www.portugal
+ running.com/eventos/lamas-trail-2025/
+URL:https://www.portugalrunning.com/eventos/lamas-trail-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7900412
+DTSTAMP:20250720T222353Z
+DTSTART:20250209T145000Z
+DTEND:20250209T145000Z
+LOCATION:Pinhal da Murteira\,  Ílhavo Pinhal da Murteira\,  Ílhavo
+SUMMARY:Cross São Salvador 2025
+DESCRIPTION:A Junta de Freguesia de São Salvador (Ílhavo) e a Associaçã
+ o Cultural e Desportiva Os Ílhavos\,  organizam em conjunto e levam a efei
+ to no dia 9 de Fevereiro de 2025\,  o 3º Cross S.Salvador - Os Ílhavos\, 
+  pelas 9h30\,  no Parque de Merendas da Vista Alegre.\nhttps://www.portugal
+ running.com/eventos/cross-sao-salvador-2025/
+URL:https://www.portugalrunning.com/eventos/cross-sao-salvador-2025/
+END:VEVENT
+END:VCALENDAR

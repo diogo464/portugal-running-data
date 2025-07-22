@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6e94690
+DTSTAMP:20250720T222758Z
+DTSTART:20230423
+DTEND:20230424
+LOCATION:Mondim de Basto\,  Vila Real Mondim de Bastos Vila Real
+SUMMARY:Trail Fisgas De Ermelo 2023
+DESCRIPTION:O Trail Fisgas de Ermelo é promovido e organizado pela AMA –
+  Associação Mondim Atletismo\, com data de realização a 23 de abril 202
+ 3 pelas 9h30. Trail Longo 30Km e Trail Curto 20km: idade mínima de 18 anos
+ ;Caminhada 10 Km: aconselhável a partir dos 12 anos;\nhttps://www.portugal
+ running.com/eventos/trail-fisgas-de-ermelo-2023/
+URL:https://www.portugalrunning.com/eventos/trail-fisgas-de-ermelo-2023/
+END:VEVENT
+END:VCALENDAR

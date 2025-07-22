@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64f3a1d
+DTSTAMP:20250720T222332Z
+DTSTART:20220501
+DTEND:20220502
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Internacional 1º De Maio 2022
+DESCRIPTION:As avenidas de Lisboa voltam a ser no dia 1 de Maio 2022\,  o p
+ alco para a tradicional Corrida Internacional 1º de Maio\,  promovida pela
+  União dos Sindicatos de Lisboa / CGTP\,  prova que anualmente\,  reúne m
+ ais de um milhar de atletas e amantes do desporto.\nhttps://www.portugalrun
+ ning.com/eventos/corrida-internacional-1o-de-maio-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-internacional-1o-de-maio-2022/
+END:VEVENT
+END:VCALENDAR

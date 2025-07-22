@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d186111e
+DTSTAMP:20250720T222632Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:São Silvestre de Ponta Delgada 2022
+DESCRIPTION:A Associação de Atletismo de S. Miguel vai realizar a 58ª Co
+ rrida de São Silvestre de Ponta Delgada\,  uma das mais míticas provas de
+  fim de ano realizadas em Portugal. Inscreva-se já.\nhttps://www.portugalr
+ unning.com/eventos/sao-silvestre-de-ponta-delgada-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-ponta-delgada-2022/
+END:VEVENT
+END:VCALENDAR

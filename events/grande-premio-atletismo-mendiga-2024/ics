@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9793927
+DTSTAMP:20250720T222423Z
+DTSTART:20241124
+DTEND:20241125
+LOCATION:Mendiga\,  Porto de Mós Mendiga\,  Porto de Mós
+SUMMARY:Grande Prémio Atletismo Mendiga 2024
+DESCRIPTION:A Associação Recreativa Cultural e Desportiva de Mendiga\,  
+ organiza no dia 24 de novembro de 2024 pelas 11.00 horas\,  o “36º Gran
+ de Prémio de Atletismo de Mendiga”\,  com a distância de 15km.\nhttps:/
+ /www.portugalrunning.com/eventos/grande-premio-atletismo-mendiga-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-mendiga-2024/
+END:VEVENT
+END:VCALENDAR

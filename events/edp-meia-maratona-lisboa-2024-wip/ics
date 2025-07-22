@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8732366
+DTSTAMP:20250720T222407Z
+DTSTART:20240317
+DTEND:20240318
+LOCATION:Lisboa Lisboa
+SUMMARY:EDP Meia Maratona Lisboa 2024 - WIP
+DESCRIPTION:A EDP Meia Maratona Lisboa 2024 realiza-se a 17 de Março\,  fa
+ ce as eleições terem sido marcadas para dia 10 de Março. É uma das meia
+ s maratonas mais rápidas do mundo e todos os anos junta mais de 30.000 par
+ ticipantes\,  incluindo milhares de atletas estrangeiros. Ainda podes ganha
+ r dorsais duplos[..]\nhttps://www.portugalrunning.com/eventos/edp-meia-mara
+ tona-lisboa-2024-wip/
+URL:https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa-2024-wip/
+END:VEVENT
+END:VCALENDAR

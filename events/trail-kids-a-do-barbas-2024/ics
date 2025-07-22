@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7292dc9
+DTSTAMP:20250720T222802Z
+DTSTART:20241005
+DTEND:20241006
+LOCATION:Maceira\,  Leiria Maceira\,  Leiria
+SUMMARY:Trail Kids A-do-Barbas 2024
+DESCRIPTION:O Centro Popular e Recreativo de A-do-Barbas em co-organizaçã
+ o da ADAL\,  com o apoio da Câmara Municipal de Leiria\,  Junta de Fregues
+ ia de Maceira\,  organiza no dia 5 de outubro de 2024 a 2ª Edição do 
+ Trail Kids A-do-Barbas\,  que consiste numa prova de Trail\,  na localidade
+  de A-do-Barbas com partida e chegada[..]\nhttps://www.portugalrunning.com/
+ eventos/trail-kids-a-do-barbas-2024/
+URL:https://www.portugalrunning.com/eventos/trail-kids-a-do-barbas-2024/
+END:VEVENT
+END:VCALENDAR

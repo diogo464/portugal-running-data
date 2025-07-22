@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c96f39aa
+DTSTAMP:20250720T222422Z
+DTSTART:20240324
+DTEND:20240325
+LOCATION:Charneca De Caparica\,  Setubal Charneca De Caparica\,  Setubal
+SUMMARY:Grande Prémio Atletismo Charneca da Caparica 2024
+DESCRIPTION:A 24 Março 2024 vai realizar-se o 29º Grande Prémio Atlet
+ ismo Charneca da Caparica\,  prova inserida no Troféu de Almada Atletismo
+  ‘Mário Pinto Claro’ 2023/2024.\nhttps://www.portugalrunning.com/event
+ os/grande-premio-atletismo-charneca-da-caparica-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-charneca-da-caparica-2024/
+END:VEVENT
+END:VCALENDAR

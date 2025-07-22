@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d25dc64b
+DTSTAMP:20250720T222645Z
+DTSTART:20240114
+DTEND:20240115
+LOCATION:Marateca Marateca\,  Setúbal
+SUMMARY:São Silvestre Trilhos da Marateca 2024
+DESCRIPTION:A competição “São Silvestre Trilhos de Marateca 2024” co
+ nsiste numa prova de Corrida 10km e numa Caminhada 5km (sem classificaçã
+ o) em que os participantes são desafiados a percorrerem trajetos nas aldei
+ as de Águas de Moura e Bairro Margaça e nos terrenos rurais nas suas imed
+ iações.É organizada pela Câmara Municipal de Palmela[..]\nhttps://www.p
+ ortugalrunning.com/eventos/sao-silvestre-trilhos-da-marateca-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-trilhos-da-marateca-2024/
+END:VEVENT
+END:VCALENDAR

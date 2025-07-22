@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c00aa778
+DTSTAMP:20250720T222152Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Mendiga\,  Porto de Mós Mendiga\,  Porto de Mós
+SUMMARY:2º Trilhos Da Lapa 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/2o-trilhos-da-lapa-20
+ 23/
+URL:https://www.portugalrunning.com/eventos/2o-trilhos-da-lapa-2023/
+END:VEVENT
+END:VCALENDAR

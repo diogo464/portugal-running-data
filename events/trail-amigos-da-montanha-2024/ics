@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3bc2bcd
+DTSTAMP:20250720T222707Z
+DTSTART:20241117
+DTEND:20241118
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Trail Amigos da Montanha 2024
+DESCRIPTION:A 14.ª edição do Trail AM tem data marcada para 17 de novemb
+ ro. A proposta deste desafio\,  a "festa do trail"\,  é descobrir os trilh
+ os do concelho em várias provas\,  com diferentes distâncias.Preservar e 
+ respeitar o meio envolvente\,  procurar os percursos mais desafiantes e apo
+ star na sinalização e nos abastecimentos[..]\nhttps://www.portugalrunning
+ .com/eventos/trail-amigos-da-montanha-2024/
+URL:https://www.portugalrunning.com/eventos/trail-amigos-da-montanha-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccdb6b3
+DTSTAMP:20250720T222516Z
+DTSTART:20250216
+DTEND:20250217
+LOCATION:Barcelona\,  Espanha Barcelona\,  Espanha
+SUMMARY:Meia Maratona de Barcelona 2026
+DESCRIPTION:De acordo com os corredores\,  o percurso da eDreams Mitja Mara
+ tó Barcelona é um dos mais completos no panorama internacional. Um circui
+ to totalmente urbano\,  que percorre o coração e a costa de uma cidade co
+ smopolita\,  aberta\,  mediterrânea e activa. O legado cultural e gastron�
+ �mico que caracteriza a cidade\,  juntamente com[..]\nhttps://www.portugalr
+ unning.com/eventos/meia-maratona-de-barcelona-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-barcelona-2026/
+END:VEVENT
+END:VCALENDAR

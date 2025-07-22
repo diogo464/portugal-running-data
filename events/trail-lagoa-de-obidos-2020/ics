@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72c3862
+DTSTAMP:20250720T222802Z
+DTSTART:20200725
+DTEND:20200726
+LOCATION:Lagoa de Óbidos Lagoa de Óbidos
+SUMMARY:Trail Lagoa de Óbidos 2020
+DESCRIPTION:Com o apoio da Câmara Municipal de Óbidos e da Junta de Fregu
+ esia do Vau\,  realiza-se no dia 25 de Julho de 2020\,  o Trail Lagoa de Ó
+ bidos que será percorrido por caminhos e trilhos na zona da Lagoa de Óbid
+ os. Será composto por um Trail Longo na distância de[..]\nhttps://www.por
+ tugalrunning.com/eventos/trail-lagoa-de-obidos-2020/
+URL:https://www.portugalrunning.com/eventos/trail-lagoa-de-obidos-2020/
+END:VEVENT
+END:VCALENDAR

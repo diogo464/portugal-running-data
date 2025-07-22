@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c44190d0
+DTSTAMP:20250720T222300Z
+DTSTART:20250601T135000Z
+DTEND:20250601T135000Z
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Corrida da Perafita 2025
+DESCRIPTION:O Grupo Desportivo e Recreativo Juventude das Ribeiras com o ap
+ oio da Câmara Municipal de Matosinhos e a União de Freguesias de Perafita
+ \,  Lavra e Sta. Cruz do Bispo\,  organizam a GISLOTICA CORRIDA DE PERAFITA
+  no próximo dia 1 de Junho de 2025\,  pelas 09.00 horas\,  na distância d
+ e 10[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-perafita-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-perafita-2025/
+END:VEVENT
+END:VCALENDAR

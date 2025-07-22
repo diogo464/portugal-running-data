@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccd01476
+DTSTAMP:20250720T222517Z
+DTSTART:20240323
+DTEND:20240324
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Meia Maratona da Primavera 2024
+DESCRIPTION:A 3ª edição da Meia Maratona da Primavera (21km) terá parti
+ da e chegada no EUROPARQUE\,  em Santa Maria da Feira. O evento contará ai
+ nda com o Troféu EUROPARQUE Running (10km)\,  uma Caminhada de (6km) e o T
+ roféu Kids.\nhttps://www.portugalrunning.com/eventos/meia-maratona-da-prim
+ avera-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-da-primavera-2024/
+END:VEVENT
+END:VCALENDAR

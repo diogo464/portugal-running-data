@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edcc62
+DTSTAMP:20250720T222622Z
+DTSTART:20241214
+DTEND:20241215
+LOCATION:Almada Almada
+SUMMARY:São Silvestre Almada 2024
+DESCRIPTION:O Clube de Atletismo Amigos do Parque da Paz\,  e a Associaçã
+ o Desportiva O Mundo da Corrida\,  com o apoio da Câmara Municipal de Alma
+ da\,  vai realizar no próximo dia 14 de Dezembro de 2024\,  pelas 17:30 H
+ \,  uma corrida de 10 km\,  denominada "SÃO SILVESTRE DE ALMADA". Logo a 
+ seguir partirá[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-
+ almada-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-almada-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d62934
+DTSTAMP:20250720T222309Z
+DTSTART:20250706
+DTEND:20250707
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida de São Pedro 2025
+DESCRIPTION:A 6 de julho vem celebrar o S. Pedro a correr. Vem participar n
+ a grande festa que é a Corrida de São Pedro\,  o emblemático evento desp
+ ortivo das festas da Póvoa de Varzim. A partida é às 10 horas\,  só ten
+ s de optar pela corrida de 10 km ou pelos[..]\nhttps://www.portugalrunning.
+ com/eventos/corrida-de-sao-pedro-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-pedro-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb618567
+DTSTAMP:20250720T222454Z
+DTSTART:20240504
+DTEND:20240505
+LOCATION:Leiria Leiria
+SUMMARY:Leiria Run 2024
+DESCRIPTION:E aqui está a 9ª edição do Leiria Run a corrida mais espect
+ acular de LEIRIA que te vai levar a correr aos locais mais inesperados da c
+ idade do Lis. A passagem pelo rio é uma certeza\,  mas prepara-te....! Exp
+ erimenta Leiria a correr!\nhttps://www.portugalrunning.com/eventos/leiria-r
+ un-2024/
+URL:https://www.portugalrunning.com/eventos/leiria-run-2024/
+END:VEVENT
+END:VCALENDAR

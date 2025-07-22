@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d30634b4
+DTSTAMP:20250720T222656Z
+DTSTART:20241103T143400Z
+DTEND:20241103T143400Z
+LOCATION:Felgueiras\,  Porto Felgueiras\,  Porto
+SUMMARY:Sousões Trail 2024
+DESCRIPTION:O Município de Felgueiras\,  em parceria com a ProEvents\,  
+ são as entidades organizadoras da 3.ª Edição do Sousões Trail\,  que d
+ ecorrerá no dia 3 de Novembro de 2024\,  em Felgueiras\,  independentement
+ e das condições climatéricas do dia\,  desde que a organização entenda
+  que estas não ofereçam riscos aos participantes. O Sousões Trail é um
+ [..]\nhttps://www.portugalrunning.com/eventos/sousoes-trail-2024/
+URL:https://www.portugalrunning.com/eventos/sousoes-trail-2024/
+END:VEVENT
+END:VCALENDAR

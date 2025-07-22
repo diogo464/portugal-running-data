@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da4dcd76
+DTSTAMP:20250720T222852Z
+DTSTART:20211114
+DTEND:20211115
+LOCATION:Brasfemes\,  Coimbra Brasfemes\,  Coimbra
+SUMMARY:Trilhos do 0615 2021
+DESCRIPTION:Trilhos do 0615 um desafio para os mais audazes. Sobe e desce\,
+   single-tracks e trilhos técnicos como o povo gosta!\nhttps://www.portuga
+ lrunning.com/eventos/trilhos-do-0615-2021/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-0615-2021/
+END:VEVENT
+END:VCALENDAR

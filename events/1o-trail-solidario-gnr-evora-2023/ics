@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf84aca1
+DTSTAMP:20250720T222144Z
+DTSTART:20230909
+DTEND:20230910
+LOCATION:Reguengos de Monsaraz\,  Évora Reguengos de Monsaraz\,  Évora
+SUMMARY:1º Trail Solidário - GNR Évora 2023
+DESCRIPTION:O I Trail Solidário GNR Évora\,  será realizado no dia 9 de 
+ setembro de 2023. É um evento organizado pelo Comando Territorial da GNR d
+ e Évora\,  em parceria da Câmara Municipal de Reguengos de Monsaraz e out
+ ros parceiros institucionais e privados. O I Trail Solidário GNR Évora é
+  uma prova[..]\nhttps://www.portugalrunning.com/eventos/1o-trail-solidario-
+ gnr-evora-2023/
+URL:https://www.portugalrunning.com/eventos/1o-trail-solidario-gnr-evora-2023/
+END:VEVENT
+END:VCALENDAR

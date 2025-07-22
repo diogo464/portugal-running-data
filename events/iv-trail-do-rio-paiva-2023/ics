@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cafdb970
+DTSTAMP:20250720T222447Z
+DTSTART:20230115
+DTEND:20230116
+LOCATION:Cinfães\,  Viseu Cinfães\,  Viseu
+SUMMARY:IV Trail Do Rio Paiva 2023
+DESCRIPTION:O IV Trail do Rio Paiva é uma prova competitiva de corrida de 
+ montanha\,  organizada pela Duelo D'Ocasião - Associação. A prova tem lu
+ gar no concelho de Cinfães\,  tendo como local de partida e chegada a Esco
+ la Do 2º E 3º Ciclos Do Ensino Básico De Souselo\,  localizada na fregue
+ sia[..]\nhttps://www.portugalrunning.com/eventos/iv-trail-do-rio-paiva-2023
+ /
+URL:https://www.portugalrunning.com/eventos/iv-trail-do-rio-paiva-2023/
+END:VEVENT
+END:VCALENDAR

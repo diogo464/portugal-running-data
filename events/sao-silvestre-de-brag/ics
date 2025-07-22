@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d137b9c0
+DTSTAMP:20250720T222627Z
+DTSTART:20191222
+DTEND:20191223
+LOCATION:Braga Braga
+SUMMARY:São Silvestre de Braga
+DESCRIPTION:A 42ª edição da S. Silvestre de Braga este ano realiza-se no
+  dia 22 de Dezembro! A prova mítica da cidade de Braga tem a partida marca
+ da para as 19h00 e conta com uma prova cronometrada de 10 km e uma caminhad
+ a de 5.7 km.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-brag
+ /
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-brag/
+END:VEVENT
+END:VCALENDAR

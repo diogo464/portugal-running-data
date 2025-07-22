@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5cf40d7
+DTSTAMP:20250720T222740Z
+DTSTART:20241019
+DTEND:20241020
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Trail Dolorosa de Moldes 2024
+DESCRIPTION:O Trail Dolorosa de Moldes\,  com a distância de cerca de 16km
+  a realizar a 19 de outubro\,  este evento temcomo local de partida e chega
+ da a Vila de Moldes\nhttps://www.portugalrunning.com/eventos/trail-dolorosa
+ -de-moldes-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dolorosa-de-moldes-2024/
+END:VEVENT
+END:VCALENDAR

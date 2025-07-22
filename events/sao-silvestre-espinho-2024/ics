@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c322b4
+DTSTAMP:20250720T222636Z
+DTSTART:20240107
+DTEND:20240108
+LOCATION:Espinho\,  Aveiro Espinho\,  Aveiro
+SUMMARY:São Silvestre Espinho 2024
+DESCRIPTION:A 9ª São Silvestre Espinho\,  a realizar no dia 7 de janeiro 
+ de 2024\,  é composta por 3 provas:uma corrida de 10km\,  uma caminhada de
+  5km\,  e uma prova para crianças com aproximadamente 300metros. Para segu
+ rança de todos os participantes\,  não será permitida a participação d
+ e atletas embicicletas\,  patins\,  skate[..]\nhttps://www.portugalrunning.
+ com/eventos/sao-silvestre-espinho-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-espinho-2024/
+END:VEVENT
+END:VCALENDAR

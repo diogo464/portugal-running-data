@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8af4055
+DTSTAMP:20250720T222826Z
+DTSTART:20250628
+DTEND:20250629
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Trail Santa Luzia 2025
+DESCRIPTION:Prova designada Ultra Trail Santa Luzia (UTSL)\,  sendo no ano 
+ 2025 a sua 11.ª Edição\,  nas versões: Ultra Trail 46km Trail Longo 31 
+ km Trail Sprint 17 km Caminhada 10km. Meia Légua\nhttps://www.portugalrunn
+ ing.com/eventos/trail-santa-luzia-2025/
+URL:https://www.portugalrunning.com/eventos/trail-santa-luzia-2025/
+END:VEVENT
+END:VCALENDAR

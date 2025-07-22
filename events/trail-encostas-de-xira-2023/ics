@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6a79ed6
+DTSTAMP:20250720T222754Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Vila Franca de Xira\,  Lisboa Vila Franca de Xira\,  Lisboa
+SUMMARY:Trail Encostas De Xira 2023
+DESCRIPTION:O&nbsp;Trail “Encostas de Xira”&nbsp;é um conjunto de prov
+ as de trail running – corrida de montanha e trilhos\,  com carácter comp
+ etitivo e lúdico que decorrerá no dia&nbsp;10 de Setembro de 2023&nbsp;co
+ m início e fim na&nbsp;Quinta Municipal da SubSerra\, &nbsp;concelho de Vi
+ la Franca de Xira. O evento é planeado\,  organizado e produzido pelos&nbs
+ p;Alverca[..]\nhttps://www.portugalrunning.com/eventos/trail-encostas-de-xi
+ ra-2023/
+URL:https://www.portugalrunning.com/eventos/trail-encostas-de-xira-2023/
+END:VEVENT
+END:VCALENDAR

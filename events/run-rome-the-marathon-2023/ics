@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c3ce9
+DTSTAMP:20250720T222617Z
+DTSTART:20230319
+DTEND:20230320
+LOCATION:Roma\,  Itália Roma\,  Itália
+SUMMARY:Run Rome the Marathon 2023
+DESCRIPTION:19 de março de 2023\,  edição 28. Marque um encontro com a h
+ istória e com a sua história. Roma está à sua espera para correr consig
+ o 42.195km\,  te apoiar e te abraçar. Sonha\,  corra\,  divirta-se\,  emoc
+ ione-se. Torne-se num(a) maratonista na Cidade Eterna com a Run Rome the Ma
+ rathon.\nhttps://www.portugalrunning.com/eventos/run-rome-the-marathon-2023
+ /
+URL:https://www.portugalrunning.com/eventos/run-rome-the-marathon-2023/
+END:VEVENT
+END:VCALENDAR

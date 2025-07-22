@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c51c39a9
+DTSTAMP:20250720T222313Z
+DTSTART:20220227
+DTEND:20220228
+LOCATION:Rio Tinto\,  Gondomar Rio Tinto\,  Gondomar
+SUMMARY:Corrida do Carnaval Cidade de Rio Tinto 2022
+DESCRIPTION:A Corrida do Carnaval Cidade de Rio Tinto 2022 realiza-se no di
+ a 27 de Fevereiro de 2022 pelas 10h45\,  a prova começa e acaba em frente 
+ ao Estádio do Sport Clube Rio Tinto. Entrar na Avenida Doutor Almeida Sant
+ os e por ai se segue até a Avenida Doutor Aníbal Cavaco[..]\nhttps://www.
+ portugalrunning.com/eventos/corrida-do-carnaval-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-carnaval-2022/
+END:VEVENT
+END:VCALENDAR

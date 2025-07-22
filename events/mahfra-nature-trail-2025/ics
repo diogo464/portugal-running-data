@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbef3feb
+DTSTAMP:20250720T222502Z
+DTSTART:20250309
+DTEND:20250310
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:Mahfra Nature Trail 2025
+DESCRIPTION:A Trail4U irá organizar a 09 de Março de 2025 pelas 09h00 hor
+ as o Mahfra Nature Trail\,  em Mafra\,  concelho de Mafra. O Mahfra Nature 
+ Trail é uma prova de Trail Running\,  corrida pedestre em Natureza\,  com 
+ três provas\,  Trail Longo (TL) K24\,  Trail Curto (TC) 13 e Caminhada Com
+ [..]\nhttps://www.portugalrunning.com/eventos/mahfra-nature-trail-2025/
+URL:https://www.portugalrunning.com/eventos/mahfra-nature-trail-2025/
+END:VEVENT
+END:VCALENDAR

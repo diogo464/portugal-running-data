@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54ab21d
+DTSTAMP:20250720T222732Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:Trail Demónios do Lizandro 2025
+DESCRIPTION:O IV Trail dos Demónios será constituído por 4 provas de car
+ acter competitivo e uma caminhada de lazer. Caminhada ( 12Km / 400D+ ) Ultr
+ a Trail ( 50K / 2000D+ ) – Campeonato Regional de Ultra Trail - Prova ins
+ erida no Circuito TrailAAL e Circuito Nacional de Trail ARTP Trail[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-demonios-do-lizandro-2025/
+URL:https://www.portugalrunning.com/eventos/trail-demonios-do-lizandro-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b799c0
+DTSTAMP:20250720T222251Z
+DTSTART:20250517
+DTEND:20250518
+LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+SUMMARY:Corrida da Cidade das Vendas Novas 2025
+DESCRIPTION:Realiza-se no dia 17&nbsp;de Maio de 2025\,  a 30ª edição da
+  Corrida da Cidade de Vendas Novas. O evento será constituído pela corrid
+ a 10km\,  Corrida 5km\, &nbsp;&nbsp;Caminhada&nbsp; (prova de 4km sem class
+ ificação) e pela Corrida Jovem .\nhttps://www.portugalrunning.com/eventos
+ /corrida-da-cidade-das-vendas-novas-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-cidade-das-vendas-novas-2025/
+END:VEVENT
+END:VCALENDAR

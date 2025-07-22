@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9c939fb
+DTSTAMP:20250720T222428Z
+DTSTART:20230812
+DTEND:20230813
+LOCATION:Rossas\,  Arouca Rossas\,  Arouca
+SUMMARY:Grande Prémio de Atletismo de Rossas 2023
+DESCRIPTION:O 44º Grande Prémio de Atletismo de Rossas é uma corrida pop
+ ular de verão que ocorre todos os anos em Arouca\,  Portugal. A edição d
+ e 2023 está agendada para o dia 12 de agosto. Este evento é organizado pe
+ la Associação Social\,  Cultural e Desportiva "Unidos de Rossas".\nhttps:
+ //www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-rossas-2023
+ /
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-rossas-2023/
+END:VEVENT
+END:VCALENDAR

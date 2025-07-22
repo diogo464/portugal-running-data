@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0561ed7
+DTSTAMP:20250720T222613Z
+DTSTART:20241019T152900Z
+DTEND:20241019T235900Z
+LOCATION:São João de Ver\,  Santa Maria da Feira São João de Ver\,  Santa Maria da Feira
+SUMMARY:RunForFest 2024
+DESCRIPTION:O evento junta uma corrida de 10k\,  caminhada de 5k e um Festi
+ val. Aliando o Desporto ao ar livre com uma forte componente Social e Festi
+ valeira. O Percurso permtirá aos participantes passar pelas ruas e avenida
+ s da Vila de São João de Ver.\nhttps://www.portugalrunning.com/eventos/ru
+ nforfest-2024/
+URL:https://www.portugalrunning.com/eventos/runforfest-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cedddaf5
+DTSTAMP:20250720T222549Z
+DTSTART:20250921
+DTEND:20250922
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:NAC Trail 2025
+DESCRIPTION:O Núcleo de Atletismo de Cucujães é o Organizador de uma pro
+ va com partida e chegada no Parque Urbano de Cavaleiros\,  Santiago de Riba
+ -Ul\,  percorrendo trilhos do município de Oliveira de Azeméis.\nhttps://
+ www.portugalrunning.com/eventos/nac-trail-2025/
+URL:https://www.portugalrunning.com/eventos/nac-trail-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db2ab67c
+DTSTAMP:20250720T222906Z
+DTSTART:20211002
+DTEND:20211003
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Ultra Madeira 2021
+DESCRIPTION:A 5ª edição do“ULTRA MADEIRA” decorrerá nos dias 2 e 3 
+ de outubro de 2021. Este evento será a penúltima prova do CIRCUITO TRAIL 
+ MADEIRA\,  época 2020-21. O evento integra 4 provas: &nbsp;ULTRA MADEIRA �
+ �� 85 km e 3800 m D+&nbsp;TRAIL 30K –30 km e 1360 m D+&nbsp;TRAIL 17K –
+ [..]\nhttps://www.portugalrunning.com/eventos/ultra-madeira-2021/
+URL:https://www.portugalrunning.com/eventos/ultra-madeira-2021/
+END:VEVENT
+END:VCALENDAR

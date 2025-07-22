@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4e61476
+DTSTAMP:20250720T222310Z
+DTSTART:20240908
+DTEND:20240909
+LOCATION:Seixal\,  Setúbal Seixal\,  Setúbal
+SUMMARY:Corrida do Avante 2024
+DESCRIPTION:A 35ª Corrida da Festa do “Avante!” realiza-se no dia 8 de
+  Setembro de 2024 às 9h30m\,  na distância de 10.000 metros&nbsp;(Distân
+ cia Homologada). Esta corrida é uma prova aberta\,  destinada a representa
+ ntes de clubes federados ou não\,  associações\,  ou atletas individuais
+ . A 35ª Corrida da Festa do Avante! é organizada[..]\nhttps://www.portuga
+ lrunning.com/eventos/corrida-do-avante-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-avante-2024/
+END:VEVENT
+END:VCALENDAR

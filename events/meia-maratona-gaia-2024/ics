@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cde015a7
+DTSTAMP:20250720T222534Z
+DTSTART:20241027T085200Z
+DTEND:20241027T235900Z
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Meia Maratona Gaia 2024
+DESCRIPTION:A Meia Maratona de Gaia foi adiada para 23 de Março de 2025. C
+ omunicado do Organizador Teria lugar em Vila Nova de Gaia no dia 27 de outu
+ bro de 2024\,  pelas 09:00 horas com organização da GlobalSport – GSX P
+ ortugal Unip. Lda. Distâncias: - Meia Maratona - Caminhada Solidária de[.
+ .]\nhttps://www.portugalrunning.com/eventos/meia-maratona-gaia-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-gaia-2024/
+END:VEVENT
+END:VCALENDAR

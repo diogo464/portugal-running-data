@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c747aab1
+DTSTAMP:20250720T222348Z
+DTSTART:20200119
+DTEND:20200120
+LOCATION:Alvito\,  Beja Alvito\,  Beja
+SUMMARY:Corrida Viana-a-par-de-Alvito
+DESCRIPTION:A Câmara Municipal de Alvito e a Câmara Municipal de Viana do
+  Alentejo com o apoio das Associações de Atletismo de Beja e de Évora\, 
+  com o apoio dos Bombeiros Voluntários e G.N.R. de Alvito e Viana\,  vão 
+ levar a efeito no dia 19.01.2020 na estrada entre Viana e Alvito[..]\nhttps
+ ://www.portugalrunning.com/eventos/corrida-viana-a-par-de-alvito/
+URL:https://www.portugalrunning.com/eventos/corrida-viana-a-par-de-alvito/
+END:VEVENT
+END:VCALENDAR

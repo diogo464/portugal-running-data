@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1362346
+DTSTAMP:20250720T222627Z
+DTSTART:20250111
+DTEND:20250112
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:São Silvestre da Trofa 2025
+DESCRIPTION:A São Silvestre da Trofa é organizada pela Associação Recre
+ ativa de Paradela\,  com sede na Travessa Arnaldo Gama\,  Paradela\,  Trofa
+  e como entidade promotora a Câmara Municipal da Trofa. Corrida São Silve
+ stre 10km\,  que irá decorrer no sábado\,  dia 11 de janeiro de 2025\,  �
+ �s 18:30\,  com partida e chegada[..]\nhttps://www.portugalrunning.com/even
+ tos/sao-silvestre-da-trofa-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-trofa-2025/
+END:VEVENT
+END:VCALENDAR

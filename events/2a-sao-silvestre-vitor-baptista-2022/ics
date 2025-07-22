@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bff92d97
+DTSTAMP:20250720T222151Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:2ª São Silvestre Vítor Baptista 2022
+DESCRIPTION:A 2ª São Silvestre Vitor Baptista é realizado com o apoio da
+  Câmara Municipal da Lourinhã\,  Junta da União de Freguesias de Lourinh
+ ã e Atalaia\,  da Associação de Atletismo de Lisboa em conjunto com o Sp
+ orting Clube Lourinhanense.\nhttps://www.portugalrunning.com/eventos/2a-sao
+ -silvestre-vitor-baptista-2022/
+URL:https://www.portugalrunning.com/eventos/2a-sao-silvestre-vitor-baptista-2022/
+END:VEVENT
+END:VCALENDAR

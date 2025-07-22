@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d43aa595
+DTSTAMP:20250720T222715Z
+DTSTART:20240211
+DTEND:20240212
+LOCATION:Alvados\,  Porto de Mós Alvados\,  Porto de Mós\,  Lisboa
+SUMMARY:Trail Castelejo 2024
+DESCRIPTION:A prova é organizada pela Trilho do Castelejo - Associaçã
+ o de Aventura de Alvados e realiza-se no dia 11 de Fevereiro de 2024. O 
+ Trail Castelejo 2024 é constituído por 3 provas K10\, K20 e K30.\nhttps:/
+ /www.portugalrunning.com/eventos/trail-castelejo-2024/
+URL:https://www.portugalrunning.com/eventos/trail-castelejo-2024/
+END:VEVENT
+END:VCALENDAR

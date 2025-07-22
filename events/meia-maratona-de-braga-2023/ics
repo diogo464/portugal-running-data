@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccaa8f9
+DTSTAMP:20250720T222516Z
+DTSTART:20230402
+DTEND:20230403
+LOCATION:Braga Braga
+SUMMARY:Meia Maratona de Braga 2023
+DESCRIPTION:A 7ª edição da Caravela Seguros Meia Maratona de Braga está
+  marcada para o dia 2 de abril de 2023\,  pelas 9h30 na Avenida João Paulo
+  II. Braga é um polo significativo da modalidade de atletismo e este event
+ o conta com duas distâncias\,  a clássica corrida de 21\, 097 km cronomet
+ rada[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-braga-20
+ 23/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-braga-2023/
+END:VEVENT
+END:VCALENDAR

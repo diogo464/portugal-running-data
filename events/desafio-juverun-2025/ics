@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e48f94
+DTSTAMP:20250720T222358Z
+DTSTART:20251005T112100Z
+DTEND:20251005T235900Z
+LOCATION:Vagos\,  Aveiro Vagos\,  Aveiro
+SUMMARY:Desafio JuveRun 2025
+DESCRIPTION:A JuveRunTeam (secção de corrida da Juveforce - Associação 
+ Desportiva e Cultural de Ponte de Vagos)\,  com o apoio da Câmara Municipa
+ l de Vagos e da União das Freguesias de Ponte de Vagos e Santa Catarina\, 
+  organiza a 2ª edição do Desafio JuveRun\,  a decorrer a 05 de outubro d
+ e[..]\nhttps://www.portugalrunning.com/eventos/desafio-juverun-2025/
+URL:https://www.portugalrunning.com/eventos/desafio-juverun-2025/
+END:VEVENT
+END:VCALENDAR

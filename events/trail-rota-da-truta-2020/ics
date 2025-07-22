@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d83ab7a8
+DTSTAMP:20250720T222819Z
+DTSTART:20200531
+DTEND:20200601
+LOCATION:Vila Nova de Paiva\,  Viseu Vila Nova de Paiva\,  Viseu
+SUMMARY:Trail Rota Da Truta 2020
+DESCRIPTION:Caros amigos: Estamos de volta para mais uma edição do UTRT �
+ �� Ultra Trail Rota da Truta. O UTRT – UltraTrail Rota da Truta\,  está 
+ de regresso dia 31 de Maio de 2020! Desde a sua 1ª edição\,  em 2016\,  
+ temos dado a conhecer o extraordinário potencial que o concelho[..]\nhttps
+ ://www.portugalrunning.com/eventos/trail-rota-da-truta-2020/
+URL:https://www.portugalrunning.com/eventos/trail-rota-da-truta-2020/
+END:VEVENT
+END:VCALENDAR

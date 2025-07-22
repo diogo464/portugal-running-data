@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4baa987
+DTSTAMP:20250720T222307Z
+DTSTART:20240505
+DTEND:20240506
+LOCATION:Granja\,  Castro Daire Granja\,  Castro Daire
+SUMMARY:Corrida de São Brás 2024
+DESCRIPTION:A Câmara Municipal de Castro Daire e o GDR Granja organizam\, 
+  no dia 5 de maio de 2024\,  na povoação da Granja – Freguesia de Mões
+ \,  em colaboração com a Junta de Freguesia de Mões\,  Federação Portu
+ guesa de Atletismo e a Associação de Atletismo de Viseu a&nbsp;17ª CORRI
+ DA DE SÃO[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-sao-bras
+ -2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-bras-2024/
+END:VEVENT
+END:VCALENDAR

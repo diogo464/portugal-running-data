@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c521803a
+DTSTAMP:20250720T222314Z
+DTSTART:20221112
+DTEND:20221113
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Corrida do Calaias 2022
+DESCRIPTION:A 6ª edição da prova "CORRIDA DO CALAIAS" é uma Organizaç�
+ �o dos AnsiBikers\,  Bombeiros Voluntários de Ansião e o Município de An
+ sião e realiza-se no dia 12 de Novembro de 2022. Este evento é caracteriz
+ ado como uma “Corrida Aventura”\,  composta por três provas e umacamin
+ hada\,  em que os participantes terão[..]\nhttps://www.portugalrunning.com
+ /eventos/corrida-do-calaias-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-calaias-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf7615e8
+DTSTAMP:20250720T222559Z
+DTSTART:20251102T154400Z
+DTEND:20251102T235900Z
+LOCATION:Parada de Ester\,  Castro Daire Parada de Ester\,  Castro Daire
+SUMMARY:Paiva Montemuro Trail 2025
+DESCRIPTION:O Paiva Montemuro Trail é um evento desportivo de trail runnin
+ g da responsabilidade organizativa do Grupo Desportivo de Parada e da Casa 
+ do Povo de Parada de Ester\,  com sede no Município de Castro Daire\, que 
+ se realizará no dia 2 de novembro de 2025.\nhttps://www.portugalrunning.co
+ m/eventos/paiva-montemuro-trail-2025/
+URL:https://www.portugalrunning.com/eventos/paiva-montemuro-trail-2025/
+END:VEVENT
+END:VCALENDAR

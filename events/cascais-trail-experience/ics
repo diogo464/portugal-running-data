@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2a1817b
+DTSTAMP:20250720T222234Z
+DTSTART:20200503
+DTEND:20200504
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Cascais Trail Experience 2020
+DESCRIPTION:A Werun com o apoio da Câmara Municipal de Cascais irá realiz
+ ar no próximo dia 03/05/2020 o 4º Cascais Trail Experience. Corrida ped
+ estre em Natureza\,  com três provas - Trail Longo (TL) K30+\,  Trail Cur
+ to (TC) K10+ e Caminhada. &nbsp; Programa / Horário 09h15 - "Controlo Zero
+ " K30+ 09h30 - Partida K30+ 10h00 -[..]\nhttps://www.portugalrunning.com/e
+ ventos/cascais-trail-experience/
+URL:https://www.portugalrunning.com/eventos/cascais-trail-experience/
+END:VEVENT
+END:VCALENDAR

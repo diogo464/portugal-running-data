@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7e934aa
+DTSTAMP:20250720T222814Z
+DTSTART:20240512
+DTEND:20240513
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Trail Passadiços do Paiva 2024
+DESCRIPTION:O Passadiços do Paiva Ageas Seguros Skyrunning (PPASS) é uma 
+ prova de skyrunning que decorre por trilhos inseridos na área envolvente a
+ os passadiços do Paiva. Todos os participantes terão a oportunidade de de
+ sfrutar de paisagens únicas com características ímpares\,  alternando fr
+ equentemente entre ambientes fluviais\,  florestais\,  agrícolas e aldeias
+  características desta[..]\nhttps://www.portugalrunning.com/eventos/trail-
+ passadicos-do-paiva-2024/
+URL:https://www.portugalrunning.com/eventos/trail-passadicos-do-paiva-2024/
+END:VEVENT
+END:VCALENDAR

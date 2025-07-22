@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1392a57
+DTSTAMP:20250720T222627Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Constância\,  Santarém Constância\,  Santarém
+SUMMARY:São Silvestre Constância 2023
+DESCRIPTION:A Brigada Mecanizada (BrigMec) e a Câmara Municipal de Constâ
+ ncia (CMC) organizam\,  a 8ª Corrida São Silvestre Solidária Constância
+  – BrigMec\,  em Atletismo\,  no dia 16 de dezembro de 2023\,  a partir d
+ as 08h30. Em simultâneo\,  realiza-se a 8ª Caminhada Solidária Constânc
+ ia (Mini-Caminhada) – BrigMec.\nhttps://www.portugalrunning.com/eventos/s
+ ao-silvestre-constancia-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-constancia-2023/
+END:VEVENT
+END:VCALENDAR

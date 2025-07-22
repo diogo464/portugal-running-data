@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c129430d
+DTSTAMP:20250720T222210Z
+DTSTART:20250615T204700Z
+DTEND:20250615T235900Z
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:A Corrida Mais Bonita de Portugal 2025
+DESCRIPTION:A Corrida Mais Bonita de Portugal (Corrida e Caminhada) tem um 
+ percurso de aproximadamente 10 quilómetros e realiza-se rodeada numa paisa
+ gem magnífica\,  lado a lado com o Oceano Atlântico.\nhttps://www.portuga
+ lrunning.com/eventos/a-corrida-mais-bonita-de-portugal-2025/
+URL:https://www.portugalrunning.com/eventos/a-corrida-mais-bonita-de-portugal-2025/
+END:VEVENT
+END:VCALENDAR

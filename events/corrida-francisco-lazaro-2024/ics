@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6100ade
+DTSTAMP:20250720T222329Z
+DTSTART:20240420
+DTEND:20240421
+LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
+SUMMARY:Corrida Francisco Lázaro 2024
+DESCRIPTION:A mítica corrida organizada pela Junta de Freguesia de Benfica
+  e pelo Clube Futebol Benfica está de volta. Correr por ruas emblemáticas
+  e poder também respirar o ar puro de Monsanto\,  são alguns dos atrativo
+ s desta corrida que este ano contará\,  também\,  com uma festa no pós-p
+ rova! Para quem não[..]\nhttps://www.portugalrunning.com/eventos/corrida-f
+ rancisco-lazaro-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-francisco-lazaro-2024/
+END:VEVENT
+END:VCALENDAR

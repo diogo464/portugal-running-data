@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c4fba
+DTSTAMP:20250720T222617Z
+DTSTART:20241101T092400Z
+DTEND:20241101T235900Z
+LOCATION:Cabeceiras de Basto\,  Braga Cabeceiras de Basto\,  Braga
+SUMMARY:Running Retreat Portugal - Autumn
+DESCRIPTION:Runners of all abilities are welcome to join\,  we offer traini
+ ng and a variety of well-being and fitness activities through your stay. It
+ ’s not just about running… It’s also about slowing down\,  finding ba
+ lance\,  and creating lasting memories. We complement activity with plenty 
+ of space to eat\,  recharge\,  and connect[..]\nhttps://www.portugalrunning
+ .com/eventos/run-retreat-portugal-autumn/
+URL:https://www.portugalrunning.com/eventos/run-retreat-portugal-autumn/
+END:VEVENT
+END:VCALENDAR

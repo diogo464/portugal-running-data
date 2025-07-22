@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b1a305
+DTSTAMP:20250720T222251Z
+DTSTART:20251019
+DTEND:20251020
+LOCATION:Alhandra\, Vila Franca de Xira Alhandra\, Vila Franca de Xira
+SUMMARY:Corrida Cimpor 2025
+DESCRIPTION:À semelhança das edições anteriores\,  toda a receita das i
+ nscrições será entregue aos Bombeiros Voluntários de Alhandra.\nhttps:/
+ /www.portugalrunning.com/eventos/corrida-cimpor-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-cimpor-2025/
+END:VEVENT
+END:VCALENDAR

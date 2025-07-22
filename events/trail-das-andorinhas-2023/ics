@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4cc4d7a
+DTSTAMP:20250720T222724Z
+DTSTART:20231210
+DTEND:20231211
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:Trail das Andorinhas 2023
+DESCRIPTION:OTRAIL DAS ANDORINHAS (6ª edição) acontece a 10 de dezembro 
+ de 2023\,  sendo uma prova de Trail Running inserida no Circuito Regional d
+ e Trail da ASSOCIAÇÃO ATLETISMO DE BRAGA. Distâncias: Trail Longo – 26
+ KmsTrail Curto 18kmsCaminhada – 5KmsTrail Kids\nhttps://www.portugalrunni
+ ng.com/eventos/trail-das-andorinhas-2023/
+URL:https://www.portugalrunning.com/eventos/trail-das-andorinhas-2023/
+END:VEVENT
+END:VCALENDAR

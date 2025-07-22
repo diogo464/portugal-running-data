@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92dd405
+DTSTAMP:20250720T222834Z
+DTSTART:20220415
+DTEND:20220416
+LOCATION:Maia\,  Porto Maia\,  Porto
+SUMMARY:Trail Terras do Lidador by Night 2022
+DESCRIPTION:As provas que constituem o Trail Terras do Lidador by Night 202
+ 2 terão partida e chegada no Parque Urbano de Avioso\,  percorrendo caminh
+ os e trilhos do concelho da Maia\,  nas distâncias de 13 e 20 quilómetros
+ . Organizador Confraria Trotamontes\nhttps://www.portugalrunning.com/evento
+ s/trail-terras-do-lidador-by-night-2022/
+URL:https://www.portugalrunning.com/eventos/trail-terras-do-lidador-by-night-2022/
+END:VEVENT
+END:VCALENDAR

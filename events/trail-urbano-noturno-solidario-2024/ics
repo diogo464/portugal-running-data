@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9692fbb
+DTSTAMP:20250720T222838Z
+DTSTART:20241214
+DTEND:20241215
+LOCATION:Bragança Bragança
+SUMMARY:Trail Urbano Noturno Solidário 2024
+DESCRIPTION:Integrado no programa ‘Bragança\,  Terra Natal e de Sonhos�
+ �\,  promovido pelo Município de Bragança\,  o Ginásio Clube de Braganç
+ a organiza a sexta edição do Trail Urbano Noturno Solidário. O evento de
+ corre no dia 14 de dezembro e convida a comunidade a juntar-se numa experi�
+ �ncia que alia desporto e solidariedade\,  com[..]\nhttps://www.portugalrun
+ ning.com/eventos/trail-urbano-noturno-solidario-2024/
+URL:https://www.portugalrunning.com/eventos/trail-urbano-noturno-solidario-2024/
+END:VEVENT
+END:VCALENDAR

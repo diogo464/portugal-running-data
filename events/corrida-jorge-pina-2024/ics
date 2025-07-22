@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6501b88
+DTSTAMP:20250720T222333Z
+DTSTART:20241012
+DTEND:20241013
+LOCATION:Parque Ribeirinho do Oriente\,  Lisboa Parque Ribeirinho do Oriente\,  Lisboa
+SUMMARY:Corrida Jorge Pina 2024
+DESCRIPTION:A Corrida Associação Jorge Pina  é uma corrida de cariz so
+ lidário que pretende angariar verbas para o desenvolvimento dos projectos 
+ da AJP\,  e consiste num conjunto de provas desportivas na modalidade do at
+ letismo\,  a realizar-se no dia 12 de Outubro de 2024 no Parque Ribeirinho 
+ do Oriente.\nhttps://www.portugalrunning.com/eventos/corrida-jorge-pina-202
+ 4/
+URL:https://www.portugalrunning.com/eventos/corrida-jorge-pina-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c15000f5
+DTSTAMP:20250720T222213Z
+DTSTART:20231022
+DTEND:20231023
+LOCATION:Afife\,  Viana do Castelo Afife\,  Viana do Castelo
+SUMMARY:Afifense Running Trail 2023
+DESCRIPTION:O VI ART (Afife Running Trail) será constituído por quatro pr
+ ovas competitivas\,  umacaminhada de montanha e 3 distâncias infantis:- AR
+ Trail Ultra +/- 45 km- ARTrail Longo +/- 26 km- ARTrail Curto-Sprint +/- 15
+  km- Caminhada – jovem +/- 10 km- Trail Kids 500m/1000m/1500m/2000m\nhttp
+ s://www.portugalrunning.com/eventos/afifense-running-trail-2023/
+URL:https://www.portugalrunning.com/eventos/afifense-running-trail-2023/
+END:VEVENT
+END:VCALENDAR

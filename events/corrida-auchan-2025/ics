@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3763237
+DTSTAMP:20250720T222247Z
+DTSTART:20250906
+DTEND:20250907
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corrida Auchan 2025
+DESCRIPTION:A Corrida Auchan celebra a 12ª edição a 6 de setembro de 2
+ 025 com a Corrida de 10 Km\,  Caminhada de 5 Km\,  Corrida Rik&Rok\,  Stree
+ t Basket\,  Pet Friendly e muitas modalidades desportivas para experimentar
+ em.\nhttps://www.portugalrunning.com/eventos/corrida-auchan-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-auchan-2025/
+END:VEVENT
+END:VCALENDAR

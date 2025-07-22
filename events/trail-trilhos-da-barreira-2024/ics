@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92f3b30
+DTSTAMP:20250720T222834Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Montemor-o-Velho\,  Coimbra Montemor-o-Velho\,  Coimbra
+SUMMARY:Trail Trilhos da Barreira 2024
+DESCRIPTION:O IV Trail Trilhos da Barreira será realizado no dia 02 de jun
+ ho de 2024\,  na Aldeia de Gordos É uma prova de Trail Running organizada 
+ pela Associação Gordos em Movimento (AGM) associação esta sem fins lucr
+ ativos e de cariz social\,  desportivo\,  cultural e recreativo\,  que inte
+ gra o Circuito Distrital[..]\nhttps://www.portugalrunning.com/eventos/trail
+ -trilhos-da-barreira-2024/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-da-barreira-2024/
+END:VEVENT
+END:VCALENDAR

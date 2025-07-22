@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72db2a6
+DTSTAMP:20250720T222802Z
+DTSTART:20240421T222900Z
+DTEND:20240421T222900Z
+LOCATION:Vila Nova de Milfontes\,  Beja Vila Nova de Milfontes\,  Beja
+SUMMARY:Trail Guerreiros do Mira 2024
+DESCRIPTION:O “I Trail Guerreiros do Mira – CDP de Milfontes” é comp
+ osto pelo trail e caminhada.\nhttps://www.portugalrunning.com/eventos/trail
+ -guerreiros-do-mira-2024/
+URL:https://www.portugalrunning.com/eventos/trail-guerreiros-do-mira-2024/
+END:VEVENT
+END:VCALENDAR

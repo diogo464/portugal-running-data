@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6979773
+DTSTAMP:20250720T222753Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Vale Venteiro\,  Tomar Vale Venteiro\,  Tomar
+SUMMARY:Trail do Vale 2023
+DESCRIPTION:Na sua segunda edição\,  o Trail do Vale 2023 realiza-se na U
+ nião de freguesias de além da Ribeira e Pedreira no Concelho de Tomar. Va
+ i realizar-se dia 21 de maio de 2023.\nhttps://www.portugalrunning.com/even
+ tos/trail-do-vale-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-vale-2023/
+END:VEVENT
+END:VCALENDAR

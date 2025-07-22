@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9730add
+DTSTAMP:20250720T222839Z
+DTSTART:20230625
+DTEND:20230626
+LOCATION:Covilhã\,  Castelo Branco Covilhã\,  Castelo Branco
+SUMMARY:Trail Vila de Mouros 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-vila-de-mouros-
+ 2023/
+URL:https://www.portugalrunning.com/eventos/trail-vila-de-mouros-2023/
+END:VEVENT
+END:VCALENDAR

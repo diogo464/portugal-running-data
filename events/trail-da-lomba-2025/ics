@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4c3120c
+DTSTAMP:20250720T222724Z
+DTSTART:20250713
+DTEND:20250714
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail da Lomba 2025
+DESCRIPTION:O Trail da Lomba 2025 realiza-se em Gondomar\,  Portugal\,  no 
+ dia 13 de julho de 2025. O evento inclui várias distâncias\,  com destaqu
+ e para o Trail Longo de 25 km e o Trail Curto de 11 km.\nhttps://www.portug
+ alrunning.com/eventos/trail-da-lomba-2025/
+URL:https://www.portugalrunning.com/eventos/trail-da-lomba-2025/
+END:VEVENT
+END:VCALENDAR

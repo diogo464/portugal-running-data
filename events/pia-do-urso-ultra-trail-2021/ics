@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc18a53
+DTSTAMP:20250720T222604Z
+DTSTART:20211003
+DTEND:20211004
+LOCATION:Batalha\,  Leiria Batalha\,  Leiria
+SUMMARY:Pia do Urso Ultra Trail 2021
+DESCRIPTION:Pia do Urso Ultra Trail 2021\nhttps://www.portugalrunning.com/e
+ ventos/pia-do-urso-ultra-trail-2021/
+URL:https://www.portugalrunning.com/eventos/pia-do-urso-ultra-trail-2021/
+END:VEVENT
+END:VCALENDAR

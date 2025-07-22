@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfbdcdca
+DTSTAMP:20250720T222603Z
+DTSTART:20220916
+DTEND:20220917
+LOCATION:Bajouca\,  Leiria Bajouca\,  Leiria
+SUMMARY:7ª Edição Pirilampos Night Run Bajouca 2022
+DESCRIPTION:O Departamento de Atletismo do Grupo Alegre e Unido – Bajouca
+ \,  vai realizar no dia&nbsp;16 de Setembro de 2022 a Pirilampos Night Run 
+ Bajouca 2022\,  com partida e meta no&nbsp;CAMPO DAS PEDRAS - Bajouca. Uma 
+ prova com uma distância&nbsp;aproximada de 5km&nbsp;com caráter aventurei
+ ro\,  ultrapassando diversos obstáculos e barreiras&nbsp;(SURPRESA ABSOLUT
+ A)\,  tem[..]\nhttps://www.portugalrunning.com/eventos/pirilampos-night-run
+ -bajouca-2022/
+URL:https://www.portugalrunning.com/eventos/pirilampos-night-run-bajouca-2022/
+END:VEVENT
+END:VCALENDAR

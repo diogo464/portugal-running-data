@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c51dbc80
+DTSTAMP:20250720T222313Z
+DTSTART:20231028
+DTEND:20231029
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Corrida Do Exército 2023
+DESCRIPTION:Realiza-se no dia 28 de outubro de 2023\,  pelas 10h00\,  com p
+ artida e chegada na Praia do Norte\,  a Corrida do Exército 2023\,  na qua
+ l se integrará uma corrida/caminhada com a distância de 10 km e um conjun
+ to de obstáculos designados por atividades “SUPERA” a realizar de form
+ a voluntária no[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-ex
+ ercito-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-do-exercito-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4892538
+DTSTAMP:20250720T222720Z
+DTSTART:20250406
+DTEND:20250407
+LOCATION:Leiria Leiria
+SUMMARY:Trail da Curvachia 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-da-curvachia-20
+ 25/
+URL:https://www.portugalrunning.com/eventos/trail-da-curvachia-2025/
+END:VEVENT
+END:VCALENDAR

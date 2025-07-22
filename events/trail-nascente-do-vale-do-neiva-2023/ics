@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d76aba7d
+DTSTAMP:20250720T222806Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Vila Verde\,  Braga Vila Verde\,  Braga
+SUMMARY:Trail Nascente do Vale do Neiva 2023
+DESCRIPTION:O Grupo Desportivo e Recreativo da Ribeira do Neiva tem a honra
+  de anunciar a organização o III Trail Nascente e Vale do Neiva 2023. O I
+ II Trail Nascente e Vale do Neiva pretende promover o desporto\,  a saúde 
+ e o bem-estar das populações\,  e terá lugar no dia 14[..]\nhttps://www.
+ portugalrunning.com/eventos/trail-nascente-do-vale-do-neiva-2023/
+URL:https://www.portugalrunning.com/eventos/trail-nascente-do-vale-do-neiva-2023/
+END:VEVENT
+END:VCALENDAR

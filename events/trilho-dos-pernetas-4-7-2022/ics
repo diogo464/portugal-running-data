@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9edd33c
+DTSTAMP:20250720T222846Z
+DTSTART:20220501
+DTEND:20220502
+LOCATION:Canedo\,  Santa Maria da Feira Canedo\,  Santa Maria da Feira\,  Aveiro
+SUMMARY:Trilho dos Pernetas 4.7 2022
+DESCRIPTION:Venha correr e divertir-se na quarta edição dos Trilho dos Pe
+ rnetas 4.7 2022 \,  nas serras de Canedo\,  em pleno concelho de Santa Mari
+ a da Feira.\nhttps://www.portugalrunning.com/eventos/trilho-dos-pernetas-4-
+ 7-2022/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-pernetas-4-7-2022/
+END:VEVENT
+END:VCALENDAR

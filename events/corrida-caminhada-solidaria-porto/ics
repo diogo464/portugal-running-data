@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3761c78
+DTSTAMP:20250720T222247Z
+DTSTART:20240406T072500Z
+DTEND:20240406T072500Z
+LOCATION:Forte de S. Francisco Xavier\,  Porto Forte de S. Francisco Xavier\,  Porto
+SUMMARY:Corrida & Caminhada Solidária Porto
+DESCRIPTION:No próximo sábado (6 de abril) às 9h30 vai haver uma corrida
+ /caminhada solidária com um custo de 5€ Todo o dinheiro vai ser revertid
+ o para a associação "O grão".\nhttps://www.portugalrunning.com/eventos/c
+ orrida-caminhada-solidaria-porto/
+URL:https://www.portugalrunning.com/eventos/corrida-caminhada-solidaria-porto/
+END:VEVENT
+END:VCALENDAR

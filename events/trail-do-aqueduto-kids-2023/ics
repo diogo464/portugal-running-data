@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5500b05
+DTSTAMP:20250720T222733Z
+DTSTART:20230527
+DTEND:20230528
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Trail do Aqueduto Kids 2023
+DESCRIPTION:O tempo dispensado em frente às tecnologias por parte dos noss
+ os filhos\,  exige do Trail do Aqueduto uma posição dinâmica e ativa par
+ a despertar o interesse dos nossos jovens pelo ar livre e pela atividade f�
+ �sica. Assim\,  o Trail do Aqueduto\,  tem o prazer de dar a conhecer o Aqu
+ eduto[..]\nhttps://www.portugalrunning.com/eventos/trail-do-aqueduto-kids-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/trail-do-aqueduto-kids-2023/
+END:VEVENT
+END:VCALENDAR

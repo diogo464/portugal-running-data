@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2ff3c0e
+DTSTAMP:20250720T222655Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:Skyrunning Serra dos Passos 2024
+DESCRIPTION:O evento Skyrunning Serra dos Passos\,  realizar-se-á no dia 2
+ 8 de Abril de 2024 na localidade dosPassos\,  Mirandela. Utiliza o percurso
+  criado pelo grupo Mirandela a Correr. É constituído por umaprova competi
+ tiva de 10 e 23 quilómetros.O evento é coorganizado pelo Grupo Mirandela 
+ a Correr sendo articulado com a FCMP[..]\nhttps://www.portugalrunning.com/e
+ ventos/skyrunning-serra-dos-passos-2024/
+URL:https://www.portugalrunning.com/eventos/skyrunning-serra-dos-passos-2024/
+END:VEVENT
+END:VCALENDAR

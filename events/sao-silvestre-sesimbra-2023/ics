@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d257b547
+DTSTAMP:20250720T222645Z
+DTSTART:20231223
+DTEND:20231224
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:São Silvestre Sesimbra 2023
+DESCRIPTION:A São Silvestre Sesimbra está de volta no dia 23 de Dezembro.
+  Devido ao enorme sucesso da edição anterior \,  continuamos com as nossa
+ s parcerias habituais\,  e\,  &nbsp;em conjunto com a Camara municipal de S
+ esimbra estamos a organizar a prova São Silvestre Sesimbra 2023. O evento 
+ desportivo tem um limite[..]\nhttps://www.portugalrunning.com/eventos/sao-s
+ ilvestre-sesimbra-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-sesimbra-2023/
+END:VEVENT
+END:VCALENDAR

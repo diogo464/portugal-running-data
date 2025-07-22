@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c18aa914
+DTSTAMP:20250720T222216Z
+DTSTART:20231217
+DTEND:20231218
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Amarante Christmas Trail 2023
+DESCRIPTION:O “XII Amarante Christmas Trail” é organizado pela Associa
+ ção Desportiva de Amarante\,  através da sua secção de Trail Running. 
+ O “XII Amarante Christmas Trail” será realizado no dia 17 de dezembro 
+ de 2023. O “XII Amarante Christmas Trail” será constituído por 4 even
+ tos: Trail Longo com a distância aproximada de[..]\nhttps://www.portugalru
+ nning.com/eventos/amarante-christmas-trail-2023/
+URL:https://www.portugalrunning.com/eventos/amarante-christmas-trail-2023/
+END:VEVENT
+END:VCALENDAR

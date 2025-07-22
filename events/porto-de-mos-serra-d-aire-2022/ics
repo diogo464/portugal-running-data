@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc008b4
+DTSTAMP:20250720T222604Z
+DTSTART:20220522
+DTEND:20220523
+LOCATION:Leiria Leiria
+SUMMARY:Porto de Mós - Serra D Aire 2022
+DESCRIPTION:A Associação Porto de Mós a Correr em conjunto com a Câm
+ ara Municipal de Porto de Mós organiza no dia 22 de Maio de 2022\,  pela
+ s 10 horas\,  uma prova de estrada com características de Montanha\,  deno
+ minada “Porto de Mós - Serra D Aire 2022” a qual se regerá pelo prese
+ nte Regulamento. Nesta edição irá[..]\nhttps://www.portugalrunning.com/e
+ ventos/porto-de-mos-serra-d-aire-2022/
+URL:https://www.portugalrunning.com/eventos/porto-de-mos-serra-d-aire-2022/
+END:VEVENT
+END:VCALENDAR

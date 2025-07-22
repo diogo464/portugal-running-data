@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd749402
+DTSTAMP:20250720T222527Z
+DTSTART:20200607
+DTEND:20200608
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Meia-Maratona D´Ouro Run Gondomar Generali
+DESCRIPTION:Gondomar recebe no dia 7 de junho de 2020 a 7ª edição da Mei
+ a-Maratona D´Ouro Run Gondomar Generali que se vai realizar na estrada m
+ arginal do Município\,  entre Valbom e Foz do Sousa - Esposade\,  uma org
+ anização da EventSport e do Município de Gondomar. Depois do sucesso alc
+ ançado nas seis edições que confirmou[..]\nhttps://www.portugalrunning.c
+ om/eventos/meia-maratona-douro-run-gondomar-generali/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-douro-run-gondomar-generali/
+END:VEVENT
+END:VCALENDAR

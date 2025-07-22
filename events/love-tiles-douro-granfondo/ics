@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbb4973c
+DTSTAMP:20250720T222459Z
+DTSTART:20200503
+DTEND:20200504
+LOCATION:Peso da Régua\,  Vila Real Peso da Régua\,  Vila Real
+SUMMARY:Love Tiles Douro Granfondo
+DESCRIPTION:Inscreva-se na Caminhada até 15 de abril e garanta o teu lugar
+  e a tua T-shirt. No Love Tiles Douro Granfondo 2020\,  há atividades para
+  toda a família. Como não queremos que ninguém fique de fora da maior fe
+ sta do ciclismo para todos em Portugal\,  propomos-lhe participar na Caminh
+ ada\,  que[..]\nhttps://www.portugalrunning.com/eventos/love-tiles-douro-gr
+ anfondo/
+URL:https://www.portugalrunning.com/eventos/love-tiles-douro-granfondo/
+END:VEVENT
+END:VCALENDAR

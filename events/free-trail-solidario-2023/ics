@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f619b2
+DTSTAMP:20250720T222415Z
+DTSTART:20231217
+DTEND:20231218
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Free Trail Solidário 2023
+DESCRIPTION:O percurso estará completamente sinalizado com fitas e setas\,
+   com equipas de resgate e salvamentos com enfermeiros\,  escuteiros e elem
+ entos da organização durante todo o percurso. Este é um evento solidári
+ o onde\,  para além do teu contributo com o valor da inscrição\,  poder�
+ �s trazer bens de primeira necessidade (artigos de[..]\nhttps://www.portuga
+ lrunning.com/eventos/free-trail-solidario-2023/
+URL:https://www.portugalrunning.com/eventos/free-trail-solidario-2023/
+END:VEVENT
+END:VCALENDAR

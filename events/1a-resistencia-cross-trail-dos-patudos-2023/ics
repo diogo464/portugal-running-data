@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf800de5
+DTSTAMP:20250720T222144Z
+DTSTART:20230603
+DTEND:20230604
+LOCATION:Alpiarça\,  Santarém Alpiarça\,  Santarém
+SUMMARY:1ª Resistência Cross-Trail Dos Patudos 2023
+DESCRIPTION:Esta prova\,  com um trajecto designado de Prova de 1ª Resist�
+ �ncia Cross-Trail dos Patudos com uma duração de 3horas\,  organizada pel
+ a secção de trail/running do Clube Desportivo “Os Águias” de Alpiar�
+ �a em parceria com A C.M. Alpiarça e J.F. Alpiarça. A prova irá desenrol
+ ar-se na Reserva Natural do Cavalo do[..]\nhttps://www.portugalrunning.com/
+ eventos/1a-resistencia-cross-trail-dos-patudos-2023/
+URL:https://www.portugalrunning.com/eventos/1a-resistencia-cross-trail-dos-patudos-2023/
+END:VEVENT
+END:VCALENDAR

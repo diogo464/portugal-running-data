@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4bf4120
+DTSTAMP:20250720T222723Z
+DTSTART:20230709
+DTEND:20230710
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail Da Lomba 2023
+DESCRIPTION:Esta prova consiste em percorrer a pé trilhos e caminhos na �
+ �ilha” da Lomba\,  um ex-libris do concelho de Gondomar. A qualidade do p
+ ercurso e do evento têm sido bandeiras desta prova que volta a realizar-se
+  com a chancela de Luís Pereira. Este evento será realizado no concelho d
+ e Gondomar\, [..]\nhttps://www.portugalrunning.com/eventos/trail-da-lomba-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/trail-da-lomba-2023/
+END:VEVENT
+END:VCALENDAR

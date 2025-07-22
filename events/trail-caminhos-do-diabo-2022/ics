@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4062d64
+DTSTAMP:20250720T222712Z
+DTSTART:20221106
+DTEND:20221107
+LOCATION:Soure\,  Coimbra Soure\,  Coimbra
+SUMMARY:Trail Caminhos do Diabo 2022
+DESCRIPTION:O Trail Caminhos do Diabo é uma prova que percorre trilhos e c
+ aminhos locais rurais e florestais na Freguesia de Samuel\,  Concelho de So
+ ure.O Trail Caminhos do Diabo está dividido em três provas: Trail Longo d
+ e 27 km\,  Trail Curto de 16 km e Caminhada 12 km.\nhttps://www.portugalrun
+ ning.com/eventos/trail-caminhos-do-diabo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-caminhos-do-diabo-2022/
+END:VEVENT
+END:VCALENDAR

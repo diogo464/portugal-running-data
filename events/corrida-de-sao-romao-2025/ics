@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d62c89
+DTSTAMP:20250720T222309Z
+DTSTART:20250809
+DTEND:20250810
+LOCATION:Carvalhal\,  Grândola Carvalhal\,  Grândola
+SUMMARY:Corrida de São Romão 2025
+DESCRIPTION:A corrida de São Romão e a caminhada são organizadas pela Ju
+ ventude Desportiva do Carvalhal\,  Junta de Freguesia do Carvalhal e volunt
+ ários. Esta corrida é caracterizada por um percurso de dificuldade modera
+ da\,  com uma distância de 11km\,  realizada na aldeia do Carvalhal e arre
+ dores. É uma prova que pode ser[..]\nhttps://www.portugalrunning.com/event
+ os/corrida-de-sao-romao-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-romao-2025/
+END:VEVENT
+END:VCALENDAR

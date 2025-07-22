@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da692dd7
+DTSTAMP:20250720T222854Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:Alandroal\,  Évora Alandroal\,  Évora
+SUMMARY:Trilhos do Endovélico 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-do-endovelico
+ -2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-endovelico-2024/
+END:VEVENT
+END:VCALENDAR

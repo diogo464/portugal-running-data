@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d49e83
+DTSTAMP:20250720T222741Z
+DTSTART:20230916
+DTEND:20230917
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Trail Dolorosa de Moldes 2023
+DESCRIPTION:O Circuito Terras do Mundo é constituído por 3 provas\,  cada
+  uma com uma só distância. As provas que constituem este circuito são:1a
+  Trail Dolorosa de Moldes\,  com a distância de cerca de 16km a realizar a
+  16 de Setembro\,  este evento tem como local de partida e chegada a[..]\nh
+ ttps://www.portugalrunning.com/eventos/trail-dolorosa-de-moldes-2023/
+URL:https://www.portugalrunning.com/eventos/trail-dolorosa-de-moldes-2023/
+END:VEVENT
+END:VCALENDAR

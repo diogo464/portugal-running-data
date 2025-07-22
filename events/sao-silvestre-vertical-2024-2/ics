@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2649d6d
+DTSTAMP:20250720T222646Z
+DTSTART:20241229
+DTEND:20241230
+LOCATION:Louriçal do Campo\,  Castelo Branco Louriçal do Campo\,  Castelo Branco
+SUMMARY:São Silvestre Vertical 2024
+DESCRIPTION:São Silvestre Vertical é um evento de Trail Running (km verti
+ cal)\,  que decorrerá em Louriçal do Campo / Serra da Gardunha\,  tendo u
+ m percurso de 5.5km com 1000m de desnível acumulado positivo.\nhttps://www
+ .portugalrunning.com/eventos/sao-silvestre-vertical-2024-2/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vertical-2024-2/
+END:VEVENT
+END:VCALENDAR

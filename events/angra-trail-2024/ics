@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c196269f
+DTSTAMP:20250720T222217Z
+DTSTART:20240803
+DTEND:20240804
+LOCATION:Angra do Heroísmo\,  Ilha Terceira\,  Açores Angra do Heroísmo\,  Ilha Terceira\,  Açores
+SUMMARY:Angra Trail 2024
+DESCRIPTION:O II Angra Trail realizar-se-á no dia 03 de agosto de 2024\,  
+ sábado\,  e será constituído por duas distâncias competitivas (TRAIL SP
+ RINT 22K e MINI TRAIL 12K) e CAMINHADA (6K).\nhttps://www.portugalrunning.c
+ om/eventos/angra-trail-2024/
+URL:https://www.portugalrunning.com/eventos/angra-trail-2024/
+END:VEVENT
+END:VCALENDAR

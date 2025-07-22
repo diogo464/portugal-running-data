@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc000ba
+DTSTAMP:20250720T222604Z
+DTSTART:20210919
+DTEND:20210920
+LOCATION:São Pedro do Sul São Pedro do Sul\,  Viseu
+SUMMARY:Pisão Extreme 2021
+DESCRIPTION:Pisão Extreme 2021\,  3ª edição da prova mais dura e bonita
+  do continente Europeu!Adiado para 2021 realiza-se nos dias 19\,  20 e 21 d
+ e Novembro com partida e chegada no Bioparque de Carvalhais\,  onde as lend
+ as\,  mitos e tradições da serra da Arada aguardam por ti!\nhttps://www.p
+ ortugalrunning.com/eventos/pisao-extreme-2021/
+URL:https://www.portugalrunning.com/eventos/pisao-extreme-2021/
+END:VEVENT
+END:VCALENDAR

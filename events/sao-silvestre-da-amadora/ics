@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1279b78
+DTSTAMP:20250720T222626Z
+DTSTART:20191231
+DTEND:20200101
+LOCATION:Amadora\,  Lisboa Amadora\,  Lisboa
+SUMMARY:São Silvestre da Amadora
+DESCRIPTION:A São Silvestre da Amadora mantém a tradição de se realizar
+  no último dia do ano. Com organização da Câmara Municipal da Amadora�
+ �e do Desportivo Operário Rangel\,  é a prova ideal para quem se quer de
+ spedir de 2019 a correr!\nhttps://www.portugalrunning.com/eventos/sao-silve
+ stre-da-amadora/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-amadora/
+END:VEVENT
+END:VCALENDAR

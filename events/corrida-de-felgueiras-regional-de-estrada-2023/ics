@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4862a95
+DTSTAMP:20250720T222304Z
+DTSTART:20230715
+DTEND:20230716
+LOCATION:Felgueiras\,  Porto Felgueiras\,  Porto
+SUMMARY:Corrida De Felgueiras / Regional De Estrada 2023
+DESCRIPTION:O Município de Felgueiras leva a efeito\,  no dia 16 de julho 
+ de 2023\,  provas de atletismo(Corridas Jovens - Corrida 10 Km e Prova em C
+ adeira de Rodas) - no centro da Cidade de Felgueiras(Anexo II\,  Anexo III 
+ - Imagem satélite do percurso)\,  denominada “Corrida de Felgueiras 2023
+  -Campeonato Regional[..]\nhttps://www.portugalrunning.com/eventos/corrida-
+ de-felgueiras-regional-de-estrada-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-felgueiras-regional-de-estrada-2023/
+END:VEVENT
+END:VCALENDAR

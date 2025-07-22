@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c4b260
+DTSTAMP:20250720T222636Z
+DTSTART:20231203
+DTEND:20231204
+LOCATION:Ermesinde\,  Porto Ermesinde\,  Porto
+SUMMARY:São Silvestre Ermesinde 2023
+DESCRIPTION:A São Silvestre Cidade de Ermesinde será realizada no dia 03 
+ de Dezembro de 2023 e contará com uma Corrida e Caminhada pela cidade de E
+ rmesinde\,  sendo uma coorganização da Junta da Freguesia de Ermesinde e 
+ Câmara Municipal de Valongo. A Corrida decorrerá numa distância de 10Km 
+ com trajeto de[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-e
+ rmesinde-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-ermesinde-2023/
+END:VEVENT
+END:VCALENDAR

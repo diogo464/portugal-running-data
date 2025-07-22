@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c444bd69
+DTSTAMP:20250720T222300Z
+DTSTART:20221002
+DTEND:20221003
+LOCATION:Parque Eduardo VII\,  Lisboa Parque Eduardo VII\,  Lisboa
+SUMMARY:Corrida Das Avenidas Novas 2022
+DESCRIPTION:A Junta de Freguesia de&nbsp;Avenidas Novas irá realizar a “
+ Corrida das Avenidas Novas”\,  no dia 02 de outubro de 2022\,  na Fregues
+ ia de&nbsp;Avenidas Novas\,  a partir das&nbsp;09:30h\,  com a organizaçã
+ o Técnica da Werun. A “Corrida das Avenidas Novas” é um evento de nat
+ ureza desportiva e solidária que tem como objetivo[..]\nhttps://www.portug
+ alrunning.com/eventos/corrida-das-avenidas-novas-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-das-avenidas-novas-2022/
+END:VEVENT
+END:VCALENDAR

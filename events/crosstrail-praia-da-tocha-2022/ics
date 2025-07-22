@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e49dcc
+DTSTAMP:20250720T222358Z
+DTSTART:20220807
+DTEND:20220808
+LOCATION:Tocha\,  Coimbra Tocha\,  Coimbra
+SUMMARY:Crosstrail Praia da Tocha 2022
+DESCRIPTION:O&nbsp;Crosstrail Praia da Tocha 2022 – Trilho da Arte-Xáveg
+ a\,  é uma Organização do Atletismo Clube da Tocha\,  com o apoio da Jun
+ ta de Freguesia da Tocha e do Município de Cantanhede. O 3º Crosstrail Pr
+ aia da Tocha - Trilho da Arte-Xávega é um evento desportivo\,  realizado 
+ nos dias&nbsp;06 e 07[..]\nhttps://www.portugalrunning.com/eventos/crosstra
+ il-praia-da-tocha-2022/
+URL:https://www.portugalrunning.com/eventos/crosstrail-praia-da-tocha-2022/
+END:VEVENT
+END:VCALENDAR

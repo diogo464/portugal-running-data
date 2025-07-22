@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6a626cf
+DTSTAMP:20250720T222754Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:Ferreira do Zêzere\,  Santarém Ferreira do Zêzere\,  Santarém
+SUMMARY:Trail do Zêzere 2024
+DESCRIPTION:O Trail do Zêzere realiza-se em Ferreira do Zêzere\,  numa da
+ s regiões mais bonitas de Portugal. Com percursos de difícil progressão\
+ ,  mas de uma beleza extraordinária\,  esta é uma das mais destacadas pro
+ vas de Trail Running do nosso país.\nhttps://www.portugalrunning.com/event
+ os/trail-do-zezere-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-zezere-2024/
+END:VEVENT
+END:VCALENDAR

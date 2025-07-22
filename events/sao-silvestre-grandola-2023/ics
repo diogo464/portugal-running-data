@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1d62ce3
+DTSTAMP:20250720T222637Z
+DTSTART:20231208
+DTEND:20231209
+LOCATION:Grândola\,  Setúbal Grândola\,  Setúbal
+SUMMARY:São Silvestre Grândola 2023
+DESCRIPTION:A 3ª Corrida de São Silvestre Grândola - AMICICLO\,  é um e
+ vento de natureza desportiva\,  que visa promover o desporto e hábitos de 
+ vida saudável. É uma organização do Clube Amiciclo de Grândola e da Ju
+ nta deFreguesia de Grândola e Santa Margarida Serra. O evento é constitu�
+ �do pelas seguintes provas:[..]\nhttps://www.portugalrunning.com/eventos/sa
+ o-silvestre-grandola-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-grandola-2023/
+END:VEVENT
+END:VCALENDAR

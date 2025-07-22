@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d51006cd
+DTSTAMP:20250720T222729Z
+DTSTART:20240707
+DTEND:20240708
+LOCATION:Mação\,  Santarém Mação\,  Santarém
+SUMMARY:Trail das Zagaias 2024
+DESCRIPTION:O Trail das Zagaias é uma organização da Associação BTZ Ma
+ ção\,  ACR Chão de Codes e Associação Rotas de Mação e com o apoio e
+  colaboração da Câmara Municipal de Mação. Realiza-se no dia 7 de Julh
+ o de 2024 em Mação e será constituído por um Trail com cerca de[..]\nht
+ tps://www.portugalrunning.com/eventos/trail-das-zagaias-2024/
+URL:https://www.portugalrunning.com/eventos/trail-das-zagaias-2024/
+END:VEVENT
+END:VCALENDAR

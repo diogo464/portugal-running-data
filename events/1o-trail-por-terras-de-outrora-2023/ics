@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf7f3943
+DTSTAMP:20250720T222143Z
+DTSTART:20230218
+DTEND:20230219
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:1º Trail Por Terras De Outrora 2023
+DESCRIPTION:O Trail por Terras de Outrora é um evento de trail-running que
+  percorre algum do território da Freguesia de Brotas no concelho de Mora e
+  tem o objetivo de levar os participantes a locais que em tempos foram habi
+ tados pelos nossos pais e avós. A prova de terá vários percursos[..]\nht
+ tps://www.portugalrunning.com/eventos/1o-trail-por-terras-de-outrora-2023/
+URL:https://www.portugalrunning.com/eventos/1o-trail-por-terras-de-outrora-2023/
+END:VEVENT
+END:VCALENDAR

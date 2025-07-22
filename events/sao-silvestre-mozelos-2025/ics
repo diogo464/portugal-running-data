@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2179deb
+DTSTAMP:20250720T222641Z
+DTSTART:20251201
+DTEND:20251202
+LOCATION:Mozelos\,  Aveiro Mozelos\,  Aveiro
+SUMMARY:São Silvestre Mozelos 2025
+DESCRIPTION:A 7ª São Silvestre de Mozelos contará com a organização da
+  Juventude Atlética Mozelense\,  com o apoio da Junta de Freguesia de Moze
+ los\,  em parceria com a Câmara Municipal de Santa Maria da Feira.\nhttps:
+ //www.portugalrunning.com/eventos/sao-silvestre-mozelos-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mozelos-2025/
+END:VEVENT
+END:VCALENDAR

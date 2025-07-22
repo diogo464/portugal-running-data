@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8479d49
+DTSTAMP:20250720T222820Z
+DTSTART:20220529
+DTEND:20220530
+LOCATION:
+SUMMARY:Trail Rota do Castro 2022
+DESCRIPTION:O I Trail Rota do Castro 2022 pretende promover a prática desp
+ ortiva\,  em geral\,  o desporto pela Natureza. Esta prova é organizada pe
+ la Junta de Freguesia de Romariz em parceria com o Município de Santa Mari
+ a da Feira.\nhttps://www.portugalrunning.com/eventos/trail-rota-do-castro-2
+ 022/
+URL:https://www.portugalrunning.com/eventos/trail-rota-do-castro-2022/
+END:VEVENT
+END:VCALENDAR

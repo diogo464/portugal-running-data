@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c297a7ce
+DTSTAMP:20250720T222233Z
+DTSTART:20220703
+DTEND:20220704
+LOCATION:Tábua\,  Coimbra Tábua\,  Coimbra
+SUMMARY:Caminhada de Verão 2022
+DESCRIPTION:Caminhada de Verão 2022\nhttps://www.portugalrunning.com/event
+ os/caminhada-de-verao-2022/
+URL:https://www.portugalrunning.com/eventos/caminhada-de-verao-2022/
+END:VEVENT
+END:VCALENDAR

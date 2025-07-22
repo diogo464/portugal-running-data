@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e4b4d9
+DTSTAMP:20250720T222358Z
+DTSTART:20241102
+DTEND:20241103
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Desafio Cumes do Marão 2024
+DESCRIPTION:O Desafio Cumes do Marão\,  é um evento desportivo de trail r
+ unning em estado genuíno daresponsabilidade co-organizativa da Associaçã
+ o Desportiva Marão Trail e da SavageNatur Events®\,  eque se realizará n
+ o dia 21 de Setembro de 2024.\nhttps://www.portugalrunning.com/eventos/desa
+ fio-cumes-do-marao-2024/
+URL:https://www.portugalrunning.com/eventos/desafio-cumes-do-marao-2024/
+END:VEVENT
+END:VCALENDAR

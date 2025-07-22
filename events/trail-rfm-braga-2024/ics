@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d82f4096
+DTSTAMP:20250720T222818Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Santuário de Nossa Senhora do Sameiro\,  Braga Santuário de Nossa Senhora do Sameiro\,  Braga
+SUMMARY:Trail RFM Braga 2024
+DESCRIPTION:A RFM e a Ganhardestak\,  organizam no próximo dia 26 de maio\
+ ,  a 1ª edição do Trail RFM Braga percorrido por caminhos e trilhos no S
+ ameiro. Composto por um Trail Longo 17K+\,  um Trail Curto 10K+\,  uma Cami
+ nhada 10K+ e uma Cãominhada 6K\,  com partida e chegada no Santuário de 
+ Nossa[..]\nhttps://www.portugalrunning.com/eventos/trail-rfm-braga-2024/
+URL:https://www.portugalrunning.com/eventos/trail-rfm-braga-2024/
+END:VEVENT
+END:VCALENDAR

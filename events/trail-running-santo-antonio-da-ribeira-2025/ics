@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8892b54
+DTSTAMP:20250720T222824Z
+DTSTART:20250615T105900Z
+DTEND:20250615T105900Z
+LOCATION:Casal Vasco\,  Santo António da Ribeira Casal Vasco\,  Santo António da Ribeira
+SUMMARY:Trail Running “Santo António da Ribeira" 2025
+DESCRIPTION:A PAP Santo António da Ribeira em parceria com a Associação 
+ Cultural Desportiva Recreativa do Santo António da Ribeira\,  apoio da jun
+ ta de Freguesia de Casal Vasco\,  da Junta de Freguesia de Infias\,  da Jun
+ ta de freguesia de Fornos de Algodres\,  da Junta de freguesia de Algodres\
+ ,  da Junta de[..]\nhttps://www.portugalrunning.com/eventos/trail-running-s
+ anto-antonio-da-ribeira-2025/
+URL:https://www.portugalrunning.com/eventos/trail-running-santo-antonio-da-ribeira-2025/
+END:VEVENT
+END:VCALENDAR

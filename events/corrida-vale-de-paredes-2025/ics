@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7430686
+DTSTAMP:20250720T222348Z
+DTSTART:20250503T211500Z
+DTEND:20250503T211500Z
+LOCATION:Praia das Paredes\,  Pataias Praia das Paredes\,  Pataias
+SUMMARY:Corrida Vale de Paredes 2025
+DESCRIPTION:A&nbsp;AMA Paredes da Vitória - Associação de Moradores e Am
+ igos&nbsp;vai realizar no próximo dia&nbsp;3 de maio de 2025&nbsp;um event
+ o denominado "Corrida Vale das Paredes 2025" com o apoio da Câmara Municip
+ al de Alcobaça e Junta de Freguesia de Pataias e Martingança e a Coorgani
+ zação da RecordePessoal. A&nbsp;Corrida Vale das Paredes[..]\nhttps://www
+ .portugalrunning.com/eventos/corrida-vale-de-paredes-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-vale-de-paredes-2025/
+END:VEVENT
+END:VCALENDAR

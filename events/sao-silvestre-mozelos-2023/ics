@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2161c2a
+DTSTAMP:20250720T222641Z
+DTSTART:20231209
+DTEND:20231210
+LOCATION:Mozelos\,  Aveiro Mozelos\,  Aveiro
+SUMMARY:São Silvestre Mozelos 2023
+DESCRIPTION:A 5ª São Silvestre Mozelos é realizada a 9 de Dezembro e con
+ tará com a organização da Juventude Atlética Mozelense\,  com o apoio d
+ a Junta de Freguesia de Mozelos\,  em parceria com a Câmara Municipal de S
+ anta Maria da Feira.\nhttps://www.portugalrunning.com/eventos/sao-silvestre
+ -mozelos-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mozelos-2023/
+END:VEVENT
+END:VCALENDAR

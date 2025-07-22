@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5500ca0
+DTSTAMP:20250720T222733Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Trail do Aqueduto 2024
+DESCRIPTION:O Trail\,  o Mini-Trail e a Caminhada\,  terão partida e chega
+ da no Campo de Golfe do Aqueduto\,  freguesia de Paredes\,  percorrendo tri
+ lhos e caminhos do concelho de Paredes.\nhttps://www.portugalrunning.com/ev
+ entos/trail-do-aqueduto-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-aqueduto-2024/
+END:VEVENT
+END:VCALENDAR

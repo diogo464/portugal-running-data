@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0062058
+DTSTAMP:20250720T222608Z
+DTSTART:20220925
+DTEND:20220926
+LOCATION:Chafé\,  Viana do Castelo Chafé\,  Viana do Castelo
+SUMMARY:Prova do Triângulo 2022
+DESCRIPTION:Dia 25 de setembro\,  às 9 horas\,  Chafé será o ponto de pa
+ rtida para a 29ª edição da Prova do Triângulo.Os atletas terminarão o 
+ percurso na nossa freguesia após passarem por Castelo do Neiva e Vila Nova
+  de Anha.A prova terá como padrinho o atleta Hélio Gomes do Sporting Club
+ e[..]\nhttps://www.portugalrunning.com/eventos/prova-do-triangulo-2022/
+URL:https://www.portugalrunning.com/eventos/prova-do-triangulo-2022/
+END:VEVENT
+END:VCALENDAR

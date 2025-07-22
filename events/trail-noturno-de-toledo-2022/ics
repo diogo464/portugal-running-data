@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7a93340
+DTSTAMP:20250720T222810Z
+DTSTART:20220723
+DTEND:20220724
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:Trail Noturno de Toledo 2022
+DESCRIPTION:Trail Noturno de Toledo 2022\nhttps://www.portugalrunning.com/e
+ ventos/trail-noturno-de-toledo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-noturno-de-toledo-2022/
+END:VEVENT
+END:VCALENDAR

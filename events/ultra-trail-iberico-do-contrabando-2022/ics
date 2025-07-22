@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db717d48
+DTSTAMP:20250720T222911Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Ultra Trail Ibérico do Contrabando 2022
+DESCRIPTION:A prova Ultra Trail Ibérico do Contrabando (UTIC) foi criada p
+ ara dar a conhecer as belas paisagens da fronteira entre Portugal e Espanha
+  conhecida como epíteto de “A Raia”\,  a fronteira mais antiga da Euro
+ pa. No entanto\,  devido aos grandes incêndios que assolaram o concelho de
+  Chaves no mês de[..]\nhttps://www.portugalrunning.com/eventos/ultra-trail
+ -iberico-do-contrabando-2022/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-iberico-do-contrabando-2022/
+END:VEVENT
+END:VCALENDAR

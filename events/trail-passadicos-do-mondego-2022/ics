@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7bab782
+DTSTAMP:20250720T222811Z
+DTSTART:20221218
+DTEND:20221219
+LOCATION:Guarda Guarda
+SUMMARY:Trail Passadiços Do Mondego 2022
+DESCRIPTION:A prova Trail Passadiços do Mondego será realizada no dia 18 
+ de dezembro de 2022\,  na áreapatrimonial natural do Município da Guarda 
+ e do Parque Natural da Serra da Estrela\,  fazendo usode caminhos e trilhos
+  existentes e partes dos Passadiços do Mondego. Será ainda realizado o Tr
+ ailFamília\,  evento que decorrerá[..]\nhttps://www.portugalrunning.com/e
+ ventos/trail-passadicos-do-mondego-2022/
+URL:https://www.portugalrunning.com/eventos/trail-passadicos-do-mondego-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c373053f
+DTSTAMP:20250720T222247Z
+DTSTART:20240707
+DTEND:20240708
+LOCATION:Melides - Tróia Melides - Tróia
+SUMMARY:Corrida Atlântica Comporta Tróia - 2024
+DESCRIPTION:A CORRIDA ATLÂNTICA COMPORTA - TRÓIA (15km) é uma organizaç
+ ão da Câmara Municipal de Grândola e vai decorrer a 10ª edição no dia
+  7 de julho 2024\,  nas praias de Concelho de Grândola\,  em simultâneo c
+ om a Ultra Maratona Atlântica Melides - Tróia.\nhttps://www.portugalrunni
+ ng.com/eventos/corrida-atlantica-comporta-troia-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-atlantica-comporta-troia-2024/
+END:VEVENT
+END:VCALENDAR

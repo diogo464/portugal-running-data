@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1149ae6
+DTSTAMP:20250720T222209Z
+DTSTART:20200509
+DTEND:20200510
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:8º Trilho das Lampas 2020
+DESCRIPTION:Num belo dia\,  num treino pela tardinha\,  passámos pelas arr
+ ibas entre as Praias da Samarra e de S. Julião enquanto o Sol se ia prepar
+ ando para mergulhar no oceano. Este cenário poderia muito bem ser o de uma
+  Prova realizada num horário tal que permitisse partilhar com a maioria do
+ s[..]\nhttps://www.portugalrunning.com/eventos/8o-trilho-das-lampas-2020/
+URL:https://www.portugalrunning.com/eventos/8o-trilho-das-lampas-2020/
+END:VEVENT
+END:VCALENDAR

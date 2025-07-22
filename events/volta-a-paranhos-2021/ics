@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc617ea0
+DTSTAMP:20250720T222926Z
+DTSTART:20211208
+DTEND:20211209
+LOCATION:Paranhos\,  Porto Paranhos\,  Porto
+SUMMARY:Volta a Paranhos 2021
+DESCRIPTION:Vem correr ou caminhar com alma no dia 8 de Dezembro pelas 10H4
+ 5 na Volta a Paranhos 2021\nhttps://www.portugalrunning.com/eventos/volta-a
+ -paranhos-2021/
+URL:https://www.portugalrunning.com/eventos/volta-a-paranhos-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce933042
+DTSTAMP:20250720T222545Z
+DTSTART:20240425
+DTEND:20240426
+LOCATION:Porto Moniz\,  Ilha da Madeira Porto Moniz\,  Ilha da Madeira
+SUMMARY:MIUT 2024 - Madeira Island Ultra-Trail
+DESCRIPTION:O MIUT 2024 - Madeira Island Ultra-Trail® é um evento de tra
+ il-running\,  que irá decorrer de 25 de abril a 28 de Abril\,  organizado 
+ pelo Clube de Montanha do Funchal que decorre na ilha da Madeira. Provas 
+ MIUT 115\,  MIUT 85\,  MIUT 60\,  MIUT 42 e MIUT 16\,  todas elas de format
+ o linear\, [..]\nhttps://www.portugalrunning.com/eventos/miut-2024/
+URL:https://www.portugalrunning.com/eventos/miut-2024/
+END:VEVENT
+END:VCALENDAR

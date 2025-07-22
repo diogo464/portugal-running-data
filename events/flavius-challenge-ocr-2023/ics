@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f19197
+DTSTAMP:20250720T222415Z
+DTSTART:20230903
+DTEND:20230904
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Flavius Challenge OCR 2023
+DESCRIPTION:A “FLAVIUS CHALLENGE OCR” é uma corrida de obstáculos urb
+ ana\,  organizada em Chaves pela Associação Wildfun – Desporto\,  Avent
+ ura & Turismo com a colaboração do Município de Chaves\,  da Federação
+  Portuguesa de Corridas de Obstáculos (FPOCR) e do Instituto Português do
+  Desporto e da Juventude (IPDJ).A prova integra a Liga[..]\nhttps://www.por
+ tugalrunning.com/eventos/flavius-challenge-ocr-2023/
+URL:https://www.portugalrunning.com/eventos/flavius-challenge-ocr-2023/
+END:VEVENT
+END:VCALENDAR

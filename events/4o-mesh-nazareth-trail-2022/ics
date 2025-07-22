@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0879e37
+DTSTAMP:20250720T222200Z
+DTSTART:20220501
+DTEND:20220502
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:4º Mesh Nazareth Trail 2022
+DESCRIPTION:4º Mesh Nazareth Trail 2022 organizado pela Mesh Nazareth-As
+ sociação de Solidariedade Social.com 4º Mesh Nazareth Trail 2022 consis
+ te numa corrida e caminhada de montanha a realizar no dia 01 de Maio de 20
+ 22.\nhttps://www.portugalrunning.com/eventos/4o-mesh-nazareth-trail-2022/
+URL:https://www.portugalrunning.com/eventos/4o-mesh-nazareth-trail-2022/
+END:VEVENT
+END:VCALENDAR

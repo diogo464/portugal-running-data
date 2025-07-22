@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69625bb
+DTSTAMP:20250720T222337Z
+DTSTART:20230507
+DTEND:20230508
+LOCATION:Amareleja\,  Beja Amareleja\,  Beja
+SUMMARY:Corrida "Por Terras do Sol" 2023
+DESCRIPTION:A Corrida “Por Terras do Sol” é um evento lúdico e despor
+ tivo organizado pela Junta de Freguesia deAmareleja\,  e apoio técnico da 
+ Associação de Atletismo de Beja. O evento realiza-se no dia 07 de Maio de
+  2023 (domingo)\,  com início às 10:00 horas\,  com partida echegada junt
+ o à sede da[..]\nhttps://www.portugalrunning.com/eventos/corrida-por-terra
+ s-do-sol-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-por-terras-do-sol-2023/
+END:VEVENT
+END:VCALENDAR

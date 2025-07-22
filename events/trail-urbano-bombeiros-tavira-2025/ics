@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9692145
+DTSTAMP:20250720T222838Z
+DTSTART:20250315T115200Z
+DTEND:20250315T235900Z
+LOCATION:Tavira\,  Faro Tavira\,  Faro
+SUMMARY:Trail Urbano Bombeiros Tavira 2025
+DESCRIPTION:A Associação dos Serviços Sociais Dos Bombeiros de Tavira or
+ ganiza\,  no dia 15 de Março de 2025 a II “Trail” Urbano Bombeiros Tav
+ ira e uma caminhada\,  prova totalmente corrida em meio urbano na cidade de
+  Tavira e destinada aos escalões etários abaixo indicados.\nhttps://www.p
+ ortugalrunning.com/eventos/trail-urbano-bombeiros-tavira-2025/
+URL:https://www.portugalrunning.com/eventos/trail-urbano-bombeiros-tavira-2025/
+END:VEVENT
+END:VCALENDAR

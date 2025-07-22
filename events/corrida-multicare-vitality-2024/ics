@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6518469
+DTSTAMP:20250720T222333Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corrida Multicare Vitality 2024
+DESCRIPTION:Dia 20 de Outubro\,  pelas 10h00 no Parque do Jamor\,  venha co
+ rrer na prova de 5 ou 10 km\,  ou caminhe na prova de 5 km. Pelas 9h00\,  r
+ ealiza-se a Corrida das Crianças.\nhttps://www.portugalrunning.com/eventos
+ /corrida-multicare-vitality-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-multicare-vitality-2024/
+END:VEVENT
+END:VCALENDAR

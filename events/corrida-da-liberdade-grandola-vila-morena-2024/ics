@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f4bc55
+DTSTAMP:20250720T222255Z
+DTSTART:20240424T163700Z
+DTEND:20240424T163700Z
+LOCATION:Grândola\,  Setúbal Grândola\,  Setúbal
+SUMMARY:Corrida da Liberdade - Grândola\,  Vila Morena 2024
+DESCRIPTION:A Corrida da Liberdade é uma organização do Município de Gr
+ ândola com o apoio da Junta de Freguesia de Grândola e Santa Margarida da
+  Serra\,  Guarda Nacional Republicana\,  Bombeiros Mistos Grândola e Movim
+ ento Associativo do Concelho. O percurso tem uma extensão de 3000 metros p
+ elas ruas do centro da Vila[..]\nhttps://www.portugalrunning.com/eventos/co
+ rrida-da-liberdade-grandola-vila-morena-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-grandola-vila-morena-2024/
+END:VEVENT
+END:VCALENDAR

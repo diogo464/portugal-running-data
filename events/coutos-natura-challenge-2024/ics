@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7917d0e
+DTSTAMP:20250720T222353Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Coutos de Viseu\,  Viseu Coutos de Viseu\,  Viseu
+SUMMARY:Coutos Natura Challenge 2024
+DESCRIPTION:O&nbsp;Coutos Natura Challenge (CNC)&nbsp;é um evento de Trail
+  Running que concilia a prática desportiva de corrida em ambiente natural\
+ ,  com a beleza da zona Florestal na região de Dade\,  Coutos de Viseu\,  
+ e da regiao&nbsp;da freguesia de Bodiosa-Viseu\,  Portugal. Organização d
+ a Associação Cultural\,  Recreativa e Desportiva Datus com coorganizaçã
+ o da[..]\nhttps://www.portugalrunning.com/eventos/coutos-natura-challenge-2
+ 024/
+URL:https://www.portugalrunning.com/eventos/coutos-natura-challenge-2024/
+END:VEVENT
+END:VCALENDAR

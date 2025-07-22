@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007b118
+DTSTAMP:20250720T222608Z
+DTSTART:20200208
+DTEND:20200209
+LOCATION:Proença a Nova  Proença-a-Nova
+SUMMARY:Proença Cross Trail 2020
+DESCRIPTION:Proença Cross Trail – 8/Fev´20 Trail Longo20 / Trail Ultra5
+ 0 2 distâncias que percorrem caminhos e trilhos com um grau de dificuldad
+ e 2 de acordo com as indicações da ATRP.\nhttps://www.portugalrunning.c
+ om/eventos/proenca-cross-trail-2020/
+URL:https://www.portugalrunning.com/eventos/proenca-cross-trail-2020/
+END:VEVENT
+END:VCALENDAR

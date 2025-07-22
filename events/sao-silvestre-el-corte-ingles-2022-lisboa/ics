@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1b7a31d
+DTSTAMP:20250720T222635Z
+DTSTART:20221231
+DTEND:20230101
+LOCATION:Lisboa Lisboa
+SUMMARY:São Silvestre El Corte Inglés 2022
+DESCRIPTION:O evento São Silvestre&nbsp;El Corte Inglés 2022 é organizad
+ o pela Fundação Carlos Lopes em parceria com o Grupo Cofina Media S.A.\, 
+  com o apoio institucional da Câmara Municipal de Lisboa o patrocínio do 
+ El Corte Inglés e a organização técnica da Xistarca\,  Promoções e Pu
+ blicações Desportivas\,  Lda. A prova realiza-se[..]\nhttps://www.portuga
+ lrunning.com/eventos/sao-silvestre-el-corte-ingles-2022-lisboa/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles-2022-lisboa/
+END:VEVENT
+END:VCALENDAR

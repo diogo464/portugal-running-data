@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c443229f
+DTSTAMP:20250720T222300Z
+DTSTART:20231022
+DTEND:20231023
+LOCATION:Parque Eduardo VII\,  Lisboa Parque Eduardo VII\,  Lisboa
+SUMMARY:Corrida das Avenidas Novas 2023
+DESCRIPTION:A Junta de Freguesia de&nbsp;Avenidas Novas irá realizar a “
+ Corrida das Avenidas Novas”\,  no dia 22 de outubro de 2023\,  na Fregues
+ ia de&nbsp;Avenidas Novas\,  a partir das&nbsp;09:30h\,  com a organizaçã
+ o Técnica da Werun. A “Corrida das Avenidas Novas” é um evento de nat
+ ureza desportiva e solidária que tem como objetivo[..]\nhttps://www.portug
+ alrunning.com/eventos/corrida-das-avenidas-novas-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-das-avenidas-novas-2023/
+END:VEVENT
+END:VCALENDAR

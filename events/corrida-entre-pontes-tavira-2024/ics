@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c607ba1e
+DTSTAMP:20250720T222328Z
+DTSTART:20240922T223000Z
+DTEND:20240922T235900Z
+LOCATION:Tavira\,  Faro Tavira\,  Faro
+SUMMARY:Corrida Entre Pontes Tavira 2024
+DESCRIPTION:A “Corrida Entre Pontes - Tavira” foi concebida pela Tugas 
+ On Tour Associação Desportiva\,  tendo sidorealizadas 2 edições\,  a pr
+ imeira em 2018 e a segunda e última em 2019.\nhttps://www.portugalrunning.
+ com/eventos/corrida-entre-pontes-tavira-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-entre-pontes-tavira-2024/
+END:VEVENT
+END:VCALENDAR

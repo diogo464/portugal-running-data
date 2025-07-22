@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4d02266
+DTSTAMP:20250720T222725Z
+DTSTART:20250302
+DTEND:20250303
+LOCATION:São João da Pesqueira\,  Viseu São João da Pesqueira
+SUMMARY:Trail das Amendoeiras 2025
+DESCRIPTION:O evento foi pensado para que os participantes pudessem desfrut
+ ar das paisagens de uma das mais belas e emblemáticas regiões de Portugal
+  – o Douro Vinhateiro. Mas é também objetivo da organização dar a con
+ hecer um pouco da história\,  da cultura e da gastronomia da região. Os p
+ articipantes poderão desafiar-se[..]\nhttps://www.portugalrunning.com/even
+ tos/trail-das-amendoeiras-2025/
+URL:https://www.portugalrunning.com/eventos/trail-das-amendoeiras-2025/
+END:VEVENT
+END:VCALENDAR

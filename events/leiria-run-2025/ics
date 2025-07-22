@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb63200a
+DTSTAMP:20250720T222454Z
+DTSTART:20250503
+DTEND:20250504
+LOCATION:Leiria Leiria
+SUMMARY:Leiria Run 2025
+DESCRIPTION:E aqui está a 10ª edição do Leiria Run a corrida mais espec
+ tacular de LEIRIA que te vai levar a correr aos locais mais inesperados da 
+ cidade do Lis. A passagem pelo rio é uma certeza\,  mas prepara-te....! Ex
+ perimenta Leiria a correr!\nhttps://www.portugalrunning.com/eventos/leiria-
+ run-2025/
+URL:https://www.portugalrunning.com/eventos/leiria-run-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c26313c6
+DTSTAMP:20250720T222230Z
+DTSTART:20231111
+DTEND:20231112
+LOCATION:Parque de Gerizes\,  Braga Parque de Gerizes\,  Braga
+SUMMARY:Bracarvs Backyard Ultra 2023
+DESCRIPTION:Criado por Lazarus Lake\,  o organizador das lendárias Maraton
+ as Barkley no Parque Natural Frozen Head do Tennessee\,  tem um princípio 
+ muito simples\,  realizar uma volta (loop) com cerca de 6\, 706km em menos 
+ de 60minutos. O Objetivo é realizar o maior numero de voltas possivel \,  
+ cumprindo sempre os 60min por[..]\nhttps://www.portugalrunning.com/eventos/
+ bracarvs-backyard-ultra-2023/
+URL:https://www.portugalrunning.com/eventos/bracarvs-backyard-ultra-2023/
+END:VEVENT
+END:VCALENDAR

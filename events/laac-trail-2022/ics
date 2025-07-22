@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb20004e
+DTSTAMP:20250720T222450Z
+DTSTART:20220327
+DTEND:20220328
+LOCATION:Vila de Aguada de Cima\,  Águeda Vila de Aguada de Cima\,  Águeda
+SUMMARY:LAAC Trail 2022
+DESCRIPTION:O LAAC Trail 2022 conta para o Troféu Trail Terras de Águeda\
+ ,  o LAAC Trail será realizado na localidade de Aguada de Cima. Venha até
+  aos trilhos e descubra a natureza do sul do concelho de Águeda.\nhttps://
+ www.portugalrunning.com/eventos/laac-trail-2022/
+URL:https://www.portugalrunning.com/eventos/laac-trail-2022/
+END:VEVENT
+END:VCALENDAR

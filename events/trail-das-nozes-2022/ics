@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50dcdf6
+DTSTAMP:20250720T222728Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail das Nozes 2022
+DESCRIPTION:O 7º Trail das Nozes 2022 é organizado pela Associação Desp
+ ortiva U.T.Radical com a co-organização da Câmara Municipal de Gondomar 
+ e da Junta de Freguesia de Gondomar. Este evento será realizado no concelh
+ o de Gondomar\,  na freguesia de S.Cosme no dia 30 de Outubro de 2022\,  co
+ m partidas/chegadas no Largo[..]\nhttps://www.portugalrunning.com/eventos/t
+ rail-das-nozes-2022/
+URL:https://www.portugalrunning.com/eventos/trail-das-nozes-2022/
+END:VEVENT
+END:VCALENDAR

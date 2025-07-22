@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db7007c2
+DTSTAMP:20250720T222911Z
+DTSTART:20210731
+DTEND:20210801
+LOCATION:Santa Cruz Santa Cruz
+SUMMARY:Ultra Trail Run Santa Cruz 2021
+DESCRIPTION:O  TURRES TRAIL CLUBE  \,  com o apoio da CAP - Penafirme \
+ ,  Câmara Municipal de Torres Vedras \,  Juntas de freguesias da Silveira 
+ \,  A dos Cunhados e São Pedro da Cadeira  \,  vai realizar no  dia 31
+  de Julho  de 2021 \,   evento denominado "  UTRSC- Ultra Trail Run
+  Santa Cruz 2021  ". Este evento\,  terá um Ultra[..]\nhttps://www.portu
+ galrunning.com/eventos/ultra-trail-run-santa-cruz-2021/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-run-santa-cruz-2021/
+END:VEVENT
+END:VCALENDAR

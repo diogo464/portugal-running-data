@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da2dbf8f
+DTSTAMP:20250720T222850Z
+DTSTART:20200301
+DTEND:20200302
+LOCATION:Mértola\,  Beja Mértola\,  Beja
+SUMMARY:Trilhos de Mértola 2020
+DESCRIPTION:Trilhos de Mértola - Trail Run ONDE? Mértola\,  Beja QUANDO? 
+ Domingo\,  01 de Março de 2020 às 08:00 Pagamentos até: Sexta\,  31 de 
+ Janeiro de 2020 às 23:59 QUANTO? Ultra Trail 45km € 16 Trail Longo 28km
+  € 14 Trail Curto 15km € 12 Caminhada 9km € 9 &nbsp; ALMOçO € 
+ 5.00 ACOMPANHANTES € 8.00 CONTACTOS DA[..]\nhttps://www.portugalrunning.
+ com/eventos/trilhos-de-mertola-2020/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-mertola-2020/
+END:VEVENT
+END:VCALENDAR

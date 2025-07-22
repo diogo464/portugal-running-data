@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c484939a
+DTSTAMP:20250720T222304Z
+DTSTART:20220529
+DTEND:20220530
+LOCATION:Coruche Coruche\,  Santarém
+SUMMARY:Corrida das Pontes 2022
+DESCRIPTION:O Serviço Desporto do Município de Coruche\,  com a colabora�
+ �ão técnica do Trilho Perdido\,  levam a efeito no próximo dia 29 de mai
+ o\,  a 16.ª Corrida das Pontes 2022\,  com uma&nbsp;extensão de 10 km\,  
+ e a&nbsp;16.ª Corrida da Família/Caminhada&nbsp;com uma&nbsp;distância d
+ e 3 km.\nhttps://www.portugalrunning.com/eventos/corrida-das-pontes-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-das-pontes-2022/
+END:VEVENT
+END:VCALENDAR

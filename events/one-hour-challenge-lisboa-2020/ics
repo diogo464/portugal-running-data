@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf748d3a
+DTSTAMP:20250720T222559Z
+DTSTART:20200621
+DTEND:20200622
+LOCATION:Campo Grande\,  Lisboa Campo Grande\,  Lisboa
+SUMMARY:One Hour Challenge Lisboa 2020
+DESCRIPTION:A mais recente inovação no mundo da corrida chega a Portugal!
+  O desafio? Correr o mais que puderes numa hora de prova\,  num circuito f
+ echado de 1\, 5km. Nesta prova\,  não competes para correr no menor tempo 
+ possível… competes para correr a maior distância possível! És só tu 
+ contra o relógio. Quão[..]\nhttps://www.portugalrunning.com/eventos/one-h
+ our-challenge-lisboa-2020/
+URL:https://www.portugalrunning.com/eventos/one-hour-challenge-lisboa-2020/
+END:VEVENT
+END:VCALENDAR

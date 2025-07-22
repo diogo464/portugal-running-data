@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d217ae75
+DTSTAMP:20250720T222641Z
+DTSTART:20240107
+DTEND:20240108
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:São Silvestre Póvoa de Lanhoso 2024
+DESCRIPTION:O evento “São Silvestre Póvoa de Lanhoso 2023” é organiz
+ ado pela Associação Teclas do Tempo\,  com o apoio institucional da Câma
+ ra Municipal da Póvoa de Lanhoso\,  e com patrocinadores oficiais Pneus Cr
+ uzeiro e Equipa Remax André Fernandes & Pedro Xavier Vieira. A prova reali
+ za-se no dia 7 de Janeiro de[..]\nhttps://www.portugalrunning.com/eventos/s
+ ao-silvestre-povoa-do-lanhoso-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-povoa-do-lanhoso-2023/
+END:VEVENT
+END:VCALENDAR

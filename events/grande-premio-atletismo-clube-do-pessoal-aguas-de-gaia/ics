@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9749e34
+DTSTAMP:20250720T222423Z
+DTSTART:20200419
+DTEND:20200420
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Grande Prémio Atletismo Clube Do Pessoal Águas de Gaia
+DESCRIPTION:Mais uma edição da Corrida das Águas de Gaia\,  promovida pe
+ lo Clube do Pessoal\,  vai para a estrada. Venham correr ou caminhar nas bo
+ nitas ruas de Gaia! Contamos com vocês! Participem!\nhttps://www.portugalr
+ unning.com/eventos/grande-premio-atletismo-clube-do-pessoal-aguas-de-gaia/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-clube-do-pessoal-aguas-de-gaia/
+END:VEVENT
+END:VCALENDAR

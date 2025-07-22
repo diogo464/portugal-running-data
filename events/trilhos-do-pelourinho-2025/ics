@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da9db762
+DTSTAMP:20250720T222857Z
+DTSTART:20250330T172000Z
+DTEND:20250330T235900Z
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:Trilhos do Pelourinho 2025
+DESCRIPTION:O evento é composto por dois percursos de caracter competitivo
+  a decorrer em simultâneo\,  trilho curto com aproximadamente 14 km e tril
+ ho longo com 24 km. A caminhada de 10 km tem carácter de lazer.\nhttps://w
+ ww.portugalrunning.com/eventos/trilhos-do-pelourinho-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-pelourinho-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca3dc7df
+DTSTAMP:20250720T222435Z
+DTSTART:20211001
+DTEND:20211002
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:Grande Trail Serra D'Arga 2021
+DESCRIPTION:Grande Trail Serra D'Arga 2021\nhttps://www.portugalrunning.com
+ /eventos/grande-trail-serra-darga-2021/
+URL:https://www.portugalrunning.com/eventos/grande-trail-serra-darga-2021/
+END:VEVENT
+END:VCALENDAR

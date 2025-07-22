@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8048ee4
+DTSTAMP:20250720T222816Z
+DTSTART:20230122
+DTEND:20230123
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Trail Póvoa de Varzim 2023
+DESCRIPTION:O TPV - TRAIL PÓVOA DE VARZIM HELOISE CRUZ IMOBILIÁRIA é um 
+ evento organizado pelo Centro Desportivo e Cultural de Navais e conta com o
+  apoio da Junta da União das Freguesias de Aguçadoura e Navais e da Câma
+ ra Municipal da Póvoa de Varzim. Este evento decorrerá no dia 22[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-povoa-de-varzim-2023/
+URL:https://www.portugalrunning.com/eventos/trail-povoa-de-varzim-2023/
+END:VEVENT
+END:VCALENDAR

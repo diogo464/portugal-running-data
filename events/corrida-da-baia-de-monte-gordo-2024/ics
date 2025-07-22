@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b79713
+DTSTAMP:20250720T222251Z
+DTSTART:20240804
+DTEND:20240805
+LOCATION:Monte Gordo\,  Vila Real de Santo António Monte Gordo\,  Vila Real de Santo António
+SUMMARY:Corrida da Baía de Monte Gordo 2024
+DESCRIPTION:O Grupo Desportivo Pic-Nic\,  em coorganização com a Câmara 
+ Municipal de Vila Real de Santo António e da Câmara Municipal de Castro M
+ arim e a colaboração da Associação de Atletismo do Algarve e da Autorid
+ ade Marítima Nacional\,  irá levar a efeito no próximo dia 4 de agosto d
+ e 2024\,  pelas[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-bai
+ a-de-monte-gordo-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-baia-de-monte-gordo-2024/
+END:VEVENT
+END:VCALENDAR

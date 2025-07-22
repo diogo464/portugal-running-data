@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c744b18d
+DTSTAMP:20250720T222348Z
+DTSTART:20240516T154200Z
+DTEND:20240516T235900Z
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Virtual - Dia da Marinha Aveiro 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-virtual-dia-d
+ a-marinha-aveiro-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-virtual-dia-da-marinha-aveiro-2024/
+END:VEVENT
+END:VCALENDAR

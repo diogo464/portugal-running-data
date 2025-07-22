@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5532528
+DTSTAMP:20250720T222733Z
+DTSTART:20240519T090600Z
+DTEND:20240519T090600Z
+LOCATION:São Pedro de Peneferrin\,  Sintra São Pedro de Peneferrin\,  Sintra
+SUMMARY:Trail do Bom Despacho 2024
+DESCRIPTION:A associação Cultural e Recreativa ATEPS\,  irá organizar\, 
+  a 19 de maio de 2024\,  o Trail do Bom despacho 2024 em São Pedro de Pene
+ ferrin\,  concelho de Sintra. O Trail do Bom Despacho 2024 é uma prova de 
+ TrailRunning\,  corrida pedestre em natureza\,  com três provas\,  Trail L
+ ongo (TL) K25+\, [..]\nhttps://www.portugalrunning.com/eventos/trail-do-bom
+ -despacho-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-bom-despacho-2024/
+END:VEVENT
+END:VCALENDAR

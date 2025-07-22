@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd118995
+DTSTAMP:20250720T222521Z
+DTSTART:20230401
+DTEND:20230402
+LOCATION:Praga\,  República Checa Praga\,  República Checa
+SUMMARY:Meia Maratona de Praga 2023
+DESCRIPTION:The Sportisimo Prague Half Marathon is an unforgettable race fo
+ r more reasons than one. Stunning scenery awaits you at every twist and tur
+ n of the course\,  including the Charles Bridge\,  Prague Castle\,  the Nat
+ ional Theatre\,  Vyšehrad Castle and the Rudolfinum Concert Hall.&nbsp; Th
+ e event’s motto is ‘ALL RUNNERS ARE BEAUTIFUL’[..]\nhttps://www.portu
+ galrunning.com/eventos/meia-maratona-de-praga-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-praga-2023/
+END:VEVENT
+END:VCALENDAR

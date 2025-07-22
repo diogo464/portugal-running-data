@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a30e60
+DTSTAMP:20250720T222842Z
+DTSTART:20231119
+DTEND:20231120
+LOCATION:Ermidas Sado\,  Setúbal Ermidas Sado\,  Setúbal
+SUMMARY:Trail Vitoriano 2023
+DESCRIPTION:O evento realiza-se no dia 19 de novembro de 2023 (domingo)\,  
+ com início às 9:30 horas\,  com partida e chegada em frente à sede do Vi
+ tória Futebol Clube Ermidense. O evento é composto por dois percursos a d
+ ecorrer em simultâneo\,  Trail curto de 19km e Mini Trail de 12km de[..]\n
+ https://www.portugalrunning.com/eventos/trail-vitoriano-2023/
+URL:https://www.portugalrunning.com/eventos/trail-vitoriano-2023/
+END:VEVENT
+END:VCALENDAR

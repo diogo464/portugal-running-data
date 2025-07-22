@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d876200c
+DTSTAMP:20250720T222823Z
+DTSTART:20230312
+DTEND:20230313
+LOCATION:Vila Nova da Barquinha\,  Santarém Vila Nova da Barquinha\,  Santarém
+SUMMARY:Trail Running Almourol à Vista 2023
+DESCRIPTION:O percurso Trail Longo terá a distância aproximada de 30 km c
+ om D+1000\,  passando pelotrilho panorâmico do tejo e junto ao castelo de 
+ Almourol deslocando-se ao longo do Rio Zêzeree do Rio Tejo. É uma prova\,
+   dirigida a atletas experimentados. Esta distância integra oCampeonato Na
+ cional de Trail\,  Campeonato Regional da[..]\nhttps://www.portugalrunning.
+ com/eventos/trail-running-almourol-a-vista-2023/
+URL:https://www.portugalrunning.com/eventos/trail-running-almourol-a-vista-2023/
+END:VEVENT
+END:VCALENDAR

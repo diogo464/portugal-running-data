@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbc18089
+DTSTAMP:20250720T222500Z
+DTSTART:20200524
+DTEND:20200525
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Lx Trail Monsanto 2020
+DESCRIPTION:A  Werun com o apoio da Junta de Freguesia da Ajuda\,  irão o
+ rganizar a 24 de Maio de 2020 pelas 09:30 horas o IV LX Trail Monsanto
+  2020\,  em Monsanto. O IV LX Trail Monsanto é uma prova de Trail Running
+ \,  corrida pedestre em Natureza\,  com três provas\,  Trail Longo (TL) K2
+ 0+ \,   Trail Curto (TC)[..]\nhttps://www.portugalrunning.com/eventos/lx-t
+ rail-monsanto/
+URL:https://www.portugalrunning.com/eventos/lx-trail-monsanto/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dae9bc12
+DTSTAMP:20250720T222902Z
+DTSTART:20230408
+DTEND:20230409
+LOCATION:Caldas de São Jorge\,  Santa Maria da Feira Caldas de São Jorge\,  Santa Maria da Feira
+SUMMARY:Trilhos Termais 2023
+DESCRIPTION:Os TRILHOS TERMAIS® é um evento a realizar no dia 8 de abril 
+ de 2023\,  organizado pela AssociaçãoObra do Frei Gil em parceria com a C
+ âmara Municipal de Santa Maria da Feira e com o apoio daRun4Feira. Os TRIL
+ HOS TERMAIS® é um evento desportivo com três vertentes\,  um Trail Curto
+ [..]\nhttps://www.portugalrunning.com/eventos/trilhos-termais-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-termais-2023/
+END:VEVENT
+END:VCALENDAR

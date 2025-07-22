@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d134956e
+DTSTAMP:20250720T222627Z
+DTSTART:20191214
+DTEND:20191215
+LOCATION:Setúbal Setúbal
+SUMMARY:São Silvestre de Almada
+DESCRIPTION:O Clube de Atletismo Amigos do Parque da Paz\,  e a Associaçã
+ o Desportiva O Mundo da Corrida\,  com o apoio da Câmara Municipal de Alm
+ ada\,  vai realizar no próximo dia 14 de Dezembro de 2019\,  pelas 18:30 h
+ oras\,  uma corrida de 10 km\,  denominada "SÃO SILVESTRE DE ALMADA". Nest
+ a edição haverá[..]\nhttps://www.portugalrunning.com/eventos/sao-silvest
+ re-de-almada/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-almada/
+END:VEVENT
+END:VCALENDAR

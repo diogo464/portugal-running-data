@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d58dca62
+DTSTAMP:20250720T222736Z
+DTSTART:20240127
+DTEND:20240128
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Trail do Capitão 2024
+DESCRIPTION:A V edição do Trail do Capitão é uma prova que percorre tri
+ lhos e caminhos das freguesias deRebordosa\,  Vandoma e Baltar do concelho 
+ de Paredes. As duas provas de caractercompetitivo: Trail de 20km e Mini-Tra
+ il de 10 km (a correr ou a andar) estão abertas a maioresde idade (18 anos
+ ).\nhttps://www.portugalrunning.com/eventos/trail-do-capitao-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-capitao-2024/
+END:VEVENT
+END:VCALENDAR

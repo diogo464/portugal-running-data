@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d190b2
+DTSTAMP:20250720T222741Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Celorico de Basto\,  Braga Celorico de Basto\,  Braga
+SUMMARY:Trail do Ladário 2025
+DESCRIPTION:O Trail do Ladario / Rota do Vinho Verde é um event
+ o de trail running que promete ser uma excelente oportunidade para
+  os amantes do desporto e da natureza. Com data marcada para o 
+ dia 25 de maio de 2025\,  a prova ocorrera em Canedo de Basto\,
+   uma região conhecida pela sua beleza natural e pelo cultivo de�
+ �vinhos verdes. Além das provas de trail\,  haverá também uma c
+ aminhada que partilhara parte dos percursos\,  tornando o evento i
+ nclusivo e acessivel para todos\,  independentemente da experiência
+ .\nhttps://www.portugalrunning.com/eventos/trail-do-ladario-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-ladario-2025/
+END:VEVENT
+END:VCALENDAR

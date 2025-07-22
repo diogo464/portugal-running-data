@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdcf3d8c
+DTSTAMP:20250720T222532Z
+DTSTART:20250323T085200Z
+DTEND:20250323T235900Z
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Meia Maratona Gaia 2025
+DESCRIPTION:A Meia Maratona de Gaia será dia 23 de Março de 2025. Distân
+ cias: - Meia Maratona - Caminhada Solidária de 5 km\nhttps://www.portugalr
+ unning.com/eventos/meia-maratona-gaia-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-gaia-2025/
+END:VEVENT
+END:VCALENDAR

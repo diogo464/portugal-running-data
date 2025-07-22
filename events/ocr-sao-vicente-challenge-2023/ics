@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf349591
+DTSTAMP:20250720T222555Z
+DTSTART:20230708
+DTEND:20230709
+LOCATION:São Vicente\,  Madeira São Vicente\,  Madeira
+SUMMARY:OCR São Vicente Challenge 2023
+DESCRIPTION:Prova de OCR é uma prova de superação\,  esforço\,  entreaj
+ uda\,  espirito de equipa\,  cooperação\,  empenho\,  dedicação e motiv
+ ação. Vai juntar várias forças de segurança a grupos de equipas como: 
+ militares\,  psp\,  gnr\,  bombeiros\,  médicos\,  proteção civil\,  gin
+ ásios\,  clubes\,  escolas\,  empresas… Vamos ver quem são os mais fort
+ es e os mais[..]\nhttps://www.portugalrunning.com/eventos/ocr-sao-vicente-c
+ hallenge-2023/
+URL:https://www.portugalrunning.com/eventos/ocr-sao-vicente-challenge-2023/
+END:VEVENT
+END:VCALENDAR

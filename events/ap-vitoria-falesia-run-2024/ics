@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c19abf6b
+DTSTAMP:20250720T222217Z
+DTSTART:20240421
+DTEND:20240422
+LOCATION:Albufeira\,  Faro Albufeira\,  Faro
+SUMMARY:Ap Vitoria Falésia Run 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ap-vitoria-falesia-ru
+ n-2024/
+URL:https://www.portugalrunning.com/eventos/ap-vitoria-falesia-run-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2992cd9
+DTSTAMP:20250720T222233Z
+DTSTART:20250524T151900Z
+DTEND:20250525T151900Z
+LOCATION:Sobral de Monte Agraço\,  Lisboa Sobral de Monte Agraço\,  Lisboa
+SUMMARY:Campeonato Nacional OCR 2025
+DESCRIPTION:O “Campeonato Nacional OCR 2025\,  “Uma Prova para Todos”
+  é um evento organizado pelo promotor Urban Obstacles e o Município do So
+ bral de Monte Agraço\,  com o apoio da Federação Portuguesa de Corridas 
+ de Obstáculos (FPOCR).O evento abrange 3 disciplinas\,  OCR100\,  OCR3KM e
+  OCR12KM\,  nas vagas Campeonato Nacional de OCR\, [..]\nhttps://www.portug
+ alrunning.com/eventos/campeonato-nacional-ocr-2025/
+URL:https://www.portugalrunning.com/eventos/campeonato-nacional-ocr-2025/
+END:VEVENT
+END:VCALENDAR

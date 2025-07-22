@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d05653ed
+DTSTAMP:20250720T222613Z
+DTSTART:20250920T152900Z
+DTEND:20250920T235900Z
+LOCATION:São João de Ver\,  Santa Maria da Feira São João de Ver\,  Santa Maria da Feira
+SUMMARY:RunForFest 2025
+DESCRIPTION:A RUNFORFEST® não é só mais uma corrida!O evento junta uma 
+ corrida de 10k\,  caminhada de 5k e um Festival.Aliando o Desporto ao ar li
+ vre com uma forte componente Social e Festivaleira\,  o evento é aberto ao
+ s participantes federados e não federados\,  promovendo assim a inclusão 
+ social bem como a[..]\nhttps://www.portugalrunning.com/eventos/runforfest-2
+ 025/
+URL:https://www.portugalrunning.com/eventos/runforfest-2025/
+END:VEVENT
+END:VCALENDAR

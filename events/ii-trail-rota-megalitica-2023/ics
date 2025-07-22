@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cad1804b
+DTSTAMP:20250720T222445Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Évora Évora
+SUMMARY:Ii Trail Rota Megalitica 2023
+DESCRIPTION:É uma organização conjunta entre o Grupo Desportivo e Recrea
+ tivo de Guadalupe e a União deFreguesias de Nossa Senhora da Tourega e Nos
+ sa Senhora de Guadalupe. Iniciação ao trail – 12Kmo Trail – 21kmo Cam
+ inhada – 10km\nhttps://www.portugalrunning.com/eventos/ii-trail-rota-mega
+ litica-2023/
+URL:https://www.portugalrunning.com/eventos/ii-trail-rota-megalitica-2023/
+END:VEVENT
+END:VCALENDAR

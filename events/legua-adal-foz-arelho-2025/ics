@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb4928a1
+DTSTAMP:20250720T222452Z
+DTSTART:20250817T200900Z
+DTEND:20250817T235900Z
+LOCATION:Foz do Arelho\,  Caldas da Rainha Foz do Arelho\,  Caldas da Rainha
+SUMMARY:Légua Adal – Foz Arelho 2025
+DESCRIPTION:A&nbsp;ADAL com o apoio da Associação “A Ordem do Trevo”\
+ ,  Junta de&nbsp;Freguesia do Foz do Arelho&nbsp;e do&nbsp;Município de Ca
+ ldas da Rainha&nbsp;irá promover no próximo dia 17 de agosto de 2025 a&nb
+ sp;1ª Légua da ADAL – Foz do Arelho e caminhada da família. A Légua\,
+   será percorrida sempre no areal.\nhttps://www.portugalrunning.com/evento
+ s/legua-adal-foz-arelho-2025/
+URL:https://www.portugalrunning.com/eventos/legua-adal-foz-arelho-2025/
+END:VEVENT
+END:VCALENDAR

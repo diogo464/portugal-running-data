@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce24944b
+DTSTAMP:20250720T222538Z
+DTSTART:20240427
+DTEND:20240428
+LOCATION:Setúbal Setúbal
+SUMMARY:Meia Maratona Setúbal 2024
+DESCRIPTION:A 27 e 28 de abril 2024\,  a Alegro Meia Maratona de Setúbal p
+ ropõe um fim-de-semana muito desportivo com a Meia Maratona 21\, 1 km\,  a
+  Corrida de 10 km\,  a Corrida das Famílias 5 km e a Corrida Miúdos Alegr
+ o.\nhttps://www.portugalrunning.com/eventos/meia-maratona-setubal-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-setubal-2024/
+END:VEVENT
+END:VCALENDAR

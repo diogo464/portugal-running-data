@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db293b57
+DTSTAMP:20250720T222906Z
+DTSTART:20250426
+DTEND:20250427
+LOCATION:Madeira Madeira
+SUMMARY:Ultra Madeira 2025
+DESCRIPTION:Ultra Madeira 2025\nhttps://www.portugalrunning.com/eventos/ult
+ ra-madeira-2025/
+URL:https://www.portugalrunning.com/eventos/ultra-madeira-2025/
+END:VEVENT
+END:VCALENDAR

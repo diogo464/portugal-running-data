@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da2c2f14
+DTSTAMP:20250720T222850Z
+DTSTART:20200613
+DTEND:20200614
+LOCATION:Espinho\,  Aveiro Espinho\,  Aveiro
+SUMMARY:Trilhos de Espinho 2020
+DESCRIPTION:Os Trilhos de Espinho é um evento desportivo de corrida/trail 
+ com as distancias de 21 e 14km e uma caminhada de 8km onde convidamos as fa
+ mílias a participar pelos Trilhos do Concelho de Espinho e arredores. Vem 
+ conhecer o outro lado de Espinho\,  vem divertir-te connosco o lunch é gar
+ antido!...[..]\nhttps://www.portugalrunning.com/eventos/trilhos-de-espinho-
+ 2020/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-espinho-2020/
+END:VEVENT
+END:VCALENDAR

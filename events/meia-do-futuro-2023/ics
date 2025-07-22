@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc86307e
+DTSTAMP:20250720T222512Z
+DTSTART:20231111
+DTEND:20231112
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Meia Do Futuro 2023
+DESCRIPTION:A&nbsp;18ª Meia do Futuro DOCAPESCA&nbsp;é organizada numa pa
+ rceria conjunta entre a&nbsp;Meia Maratona Internacional da Nazaré&nbsp;e 
+ o&nbsp;Clube de Atletismo da Nazaré. Será realizada no dia 11 de Novembr
+ o de 2023 a partir das 15h30 com partida na Praça Manuel de Arriaga - 
+ Nazaré.\nhttps://www.portugalrunning.com/eventos/meia-do-futuro-2023/
+URL:https://www.portugalrunning.com/eventos/meia-do-futuro-2023/
+END:VEVENT
+END:VCALENDAR

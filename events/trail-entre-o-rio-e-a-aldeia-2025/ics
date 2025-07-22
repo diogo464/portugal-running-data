@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6e7ab3b
+DTSTAMP:20250720T222758Z
+DTSTART:20250419
+DTEND:20250420
+LOCATION:Santo Amador\,  Moura Santo Amador\,  Moura
+SUMMARY:Trail entre o Rio e a Aldeia 2025
+DESCRIPTION:O 4º Trail Entre o Rio e a Aldeia será realizado nos dias 19 
+ de abril de 2025 e é um evento organizado pela Associação em Honra de Sa
+ nto Amador\,  com o apoio de vários parceiros institucionais e privados. T
+ rail Longo (25 Km). Trail curto (16 Km). Caminhada (7 Km).\nhttps://www.por
+ tugalrunning.com/eventos/trail-entre-o-rio-e-a-aldeia-2025/
+URL:https://www.portugalrunning.com/eventos/trail-entre-o-rio-e-a-aldeia-2025/
+END:VEVENT
+END:VCALENDAR

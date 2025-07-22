@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc3f1f
+DTSTAMP:20250720T222651Z
+DTSTART:20250628
+DTEND:20250629
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Sesimbra Night Trail 2025
+DESCRIPTION:A Associação Desportiva O Mundo da Corrida é a entidade orga
+ nizadora do Sesimbra Night Trail\,  que decorrerá no dia 28 de Junho de 2
+ 025. - 20 km [ Trail Sprint ] - 10 km [ Trail Jovem ] - 10 km [ Caminhada ]
+ \nhttps://www.portugalrunning.com/eventos/sesimbra-night-trail-2025/
+URL:https://www.portugalrunning.com/eventos/sesimbra-night-trail-2025/
+END:VEVENT
+END:VCALENDAR

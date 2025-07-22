@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d36ac2f0
+DTSTAMP:20250720T222702Z
+DTSTART:20200308
+DTEND:20200309
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:TMC – Trail Misto De Caminha 2020
+DESCRIPTION:O Trail Misto de Caminha é uma prova de Trail Running\,  reali
+ zada em troços urbanos\,  havendo também parte de montanha. Esta 2ª edi�
+ �ão tem novo nome\,  a 1ª edição foi o UTC Urban Trail de Caminha. Este
+  conceito de Trail misto visa percorrer caminhos sinalizados\,  escadarias\
+ ,  piso acidentado\,  trilhos\,  estradões[..]\nhttps://www.portugalrunnin
+ g.com/eventos/tmc-trail-misto-de-caminha/
+URL:https://www.portugalrunning.com/eventos/tmc-trail-misto-de-caminha/
+END:VEVENT
+END:VCALENDAR

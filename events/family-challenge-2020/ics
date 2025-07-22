@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8c18540
+DTSTAMP:20250720T222412Z
+DTSTART:20200315
+DTEND:20200316
+LOCATION:Jamor Jamor\,  Lisboa
+SUMMARY:Family Challenge 2020
+DESCRIPTION:O #FamilyChallenge2020 é uma corrida idealizada para toda a f
+ amília\,  num circuito fechado com o perímetro de 3\, 5 km\,  com partid
+ a e chegada no Parque Urbano do Jamor. A Kids Race\,  para menores de 14 a
+ nos\,  terá um percurso de 800m. Cada Família deverá inscrever-se com um
+  nome de equipa. A Classificação será[..]\nhttps://www.portugalrunning.c
+ om/eventos/family-challenge-2020/
+URL:https://www.portugalrunning.com/eventos/family-challenge-2020/
+END:VEVENT
+END:VCALENDAR

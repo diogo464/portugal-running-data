@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a48cad
+DTSTAMP:20250720T222842Z
+DTSTART:20230428
+DTEND:20230429
+LOCATION:Montalegre\,  Vila Real Montalegre\,  Vila Real
+SUMMARY:Transpeneda Gerês 2023
+DESCRIPTION:O TransPeneda-Gerês (TPG) é um evento da responsabilidade org
+ anizativa da Carlos Sá Nature Events®\,  com a colaboração dos 5 Munic�
+ �pios que integram o Parque Nacional Peneda-Gerês: Municípios de Montaleg
+ re\,  Melgaço\,  Terras de Bouro\,  Ponte da Barca e Arcos de Valdevez.\nh
+ ttps://www.portugalrunning.com/eventos/transpeneda-geres-2023/
+URL:https://www.portugalrunning.com/eventos/transpeneda-geres-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b797c9
+DTSTAMP:20250720T222251Z
+DTSTART:20220220
+DTEND:20220221
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Corrida da Árvore 2022
+DESCRIPTION:RESULTADOS Uma corrida histórica\,  no coração verde de Lisb
+ oa e amiga do ambiente. Com mais de 20 000 atletas que já cruzaram a meta\
+ ,  a Corrida da Árvore 2022 está à sua espera. Este ano a prova voltará
+  a ter uma corrida dedicada aos mais pequenos\,  com um percurso de[..]\nht
+ tps://www.portugalrunning.com/eventos/corrida-da-arvore-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-arvore-2022/
+END:VEVENT
+END:VCALENDAR

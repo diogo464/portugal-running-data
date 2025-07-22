@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0c62823
+DTSTAMP:20250720T222204Z
+DTSTART:20200712
+DTEND:20200713
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:6ª Corrida Portucale Generali 2020
+DESCRIPTION:6ª Corrida Portucale Generali 2020\nhttps://www.portugalrunnin
+ g.com/eventos/6a-corrida-portucale-generali-2020/
+URL:https://www.portugalrunning.com/eventos/6a-corrida-portucale-generali-2020/
+END:VEVENT
+END:VCALENDAR

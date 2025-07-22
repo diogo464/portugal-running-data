@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc7ab603
+DTSTAMP:20250720T222927Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Cachopo\,  Faro Cachopo\,  Faro
+SUMMARY:V Trail Cachopo Solidário
+DESCRIPTION:Informação anterior: Este evento surgiu da vontade dos milita
+ res do Grupo de Intervenção Proteção e Socorro da GNR (UEPS GIPS/GNR )\
+ ,  de organizar um evento desportivo com uma componente solidaria\,  para t
+ al uniram-se á Junta de Freguesia de Cachopo – Tavira\,  e dessa alianç
+ a surgiu 1a edição\,  em 2016\,  tendo[..]\nhttps://www.portugalrunning.c
+ om/eventos/v-trail-cachopo-solidario/
+URL:https://www.portugalrunning.com/eventos/v-trail-cachopo-solidario/
+END:VEVENT
+END:VCALENDAR

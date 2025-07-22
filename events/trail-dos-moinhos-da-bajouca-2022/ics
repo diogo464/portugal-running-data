@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d66193e1
+DTSTAMP:20250720T222750Z
+DTSTART:20220319
+DTEND:20220320
+LOCATION:Leiria Leiria
+SUMMARY:Trail dos Moinhos da Bajouca 2022
+DESCRIPTION:O Trail dos Moinhos da Bajouca 2022 organizado pelo Grupo Aleg
+ re e Unido da Bajouca conjuntamente com a Associação Bajouquense para 
+ o Desenvolvimento. Conta com o apoio técnico da Recorde Pessoal e Associa
+ ção Distrital de Atletismo de Leiria. Os eventos serão realizados no dia
+ &nbsp;19 de Março 2022\,  independentemente das condições climatéricas 
+ desse dia\,  desde que[..]\nhttps://www.portugalrunning.com/eventos/trail-d
+ os-moinhos-da-bajouca-2022/
+URL:https://www.portugalrunning.com/eventos/trail-dos-moinhos-da-bajouca-2022/
+END:VEVENT
+END:VCALENDAR

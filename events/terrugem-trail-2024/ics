@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d34c2e8a
+DTSTAMP:20250720T222700Z
+DTSTART:20240623
+DTEND:20240624
+LOCATION:Terrugem\,  Sintra Terrugem\,  Sintra
+SUMMARY:Terrugem Trail 2024
+DESCRIPTION:O VII Terrugem Trail é um evento organizado pela ABIT - Associ
+ ação de Bicicletas da Terrugem. Este evento pretende dinamizar a prática
+  desportiva na região nomeadamente o atletismo e a prática específica do
+  Trail Running\,  trazendo ao concelho de Sintra\,  atletas de vários loca
+ is do país para que se possa[..]\nhttps://www.portugalrunning.com/eventos/
+ terrugem-trail-2024/
+URL:https://www.portugalrunning.com/eventos/terrugem-trail-2024/
+END:VEVENT
+END:VCALENDAR

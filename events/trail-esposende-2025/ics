@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6ec36e4
+DTSTAMP:20250720T222758Z
+DTSTART:20250323
+DTEND:20250324
+LOCATION:Esposende\,  Braga Esposende\,  Braga
+SUMMARY:Trail Esposende 2025
+DESCRIPTION:A Câmara Municipal de Esposende vai realizar\,  no dia 23 de m
+ arço de 2025\,  o IX Trail de Esposende. O programa integra três provas: 
+ Trail: 32 Km\,  Trail Sprint: 20 Km e Trail Jovem: 14km. Em paralelo\,  dec
+ orrerá uma caminhada de 14km. O Castro de São Lourenço\,  em Vila Chã\,
+  [..]\nhttps://www.portugalrunning.com/eventos/trail-esposende-2025/
+URL:https://www.portugalrunning.com/eventos/trail-esposende-2025/
+END:VEVENT
+END:VCALENDAR

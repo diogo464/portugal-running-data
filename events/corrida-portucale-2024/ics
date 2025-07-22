@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69ab888
+DTSTAMP:20250720T222337Z
+DTSTART:20240714
+DTEND:20240715
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Corrida Portucale 2024
+DESCRIPTION:O Porto recebe\,  a 14 de Julho de 2024\,  a SHAMIR CORRIDA POR
+ TUCALE \,  nas artérias ribeirinhas da cidade\,  organização do Centro d
+ e Atletismo do Porto (CAP). O evento integra uma corrida de 10 Km\,  uma ca
+ minhada/mini corrida de 5 Km realizadas ao longo das margens do Rio Douro\,
+   e[..]\nhttps://www.portugalrunning.com/eventos/corrida-portucale-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-portucale-2024/
+END:VEVENT
+END:VCALENDAR

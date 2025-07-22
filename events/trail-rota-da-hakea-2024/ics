@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d833104d
+DTSTAMP:20250720T222819Z
+DTSTART:20240706T213000Z
+DTEND:20240706T213000Z
+LOCATION:Campo Militar de Santa Margarida\,  Abrantes Campo Militar de Santa Margarida\,  Abrantes
+SUMMARY:Trail Rota da Hakea 2024
+DESCRIPTION:O “TRAIL ROTA DA HAKEA” é um evento de Trail Running que p
+ ercorre trilhos e caminhos nos concelhos de Abrantes\,  Constância e Chamu
+ sca\,  enquadrado nas vertentes de Trail Longo (25km)\,  Trail Curto (16km)
+ \,  Trail Curto+10Kg (16km)\,  Caminhada (8 km).\nhttps://www.portugalrunni
+ ng.com/eventos/trail-rota-da-hakea-2024/
+URL:https://www.portugalrunning.com/eventos/trail-rota-da-hakea-2024/
+END:VEVENT
+END:VCALENDAR

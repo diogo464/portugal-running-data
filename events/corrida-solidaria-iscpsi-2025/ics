@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f93253
+DTSTAMP:20250720T222343Z
+DTSTART:20250501T203700Z
+DTEND:20250501T235900Z
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Solidária ISCPSI 2025
+DESCRIPTION:O ISCPSI desenvolve várias ações de cariz solidário\,  deco
+ rrentes de causas sociais e da angariação de fundos para instituições d
+ e solidariedade social\,  com o apoio dos seus parceiros. O principal objet
+ ivo da 1.ª Corrida Solidária ISCPSI é angariar receitas que revertem par
+ a a Associação Acreditar - Associação de Pais e[..]\nhttps://www.portug
+ alrunning.com/eventos/corrida-solidaria-iscpsi-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-iscpsi-2025/
+END:VEVENT
+END:VCALENDAR

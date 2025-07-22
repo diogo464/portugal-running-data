@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0f023ae
+DTSTAMP:20250720T222623Z
+DTSTART:20241231
+DTEND:20250101
+LOCATION:Amadora\,  Lisboa Amadora\,  Lisboa
+SUMMARY:São Silvestre Amadora 2024
+DESCRIPTION:São os 10 km mais tradicionais do ano na São Silvestre Amador
+ a! Na última noite do ano\,  dizemos adeus a 2024 e aceleramos em direçã
+ o a 2025. Inclui Corrida das Crianças.\nhttps://www.portugalrunning.com/ev
+ entos/sao-silvestre-amadora-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-amadora-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0f003e5
+DTSTAMP:20250720T222623Z
+DTSTART:20251206
+DTEND:20251207
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:São Silvestre Barreiro 2025
+DESCRIPTION:A 5ª Edição da Barreiro São Silvestre será organizada pela
+  Associação Corridacessível\,  contará com uma corrida de 10km e uma ca
+ minhada de 6km.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-barr
+ eiro-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-barreiro-2025/
+END:VEVENT
+END:VCALENDAR

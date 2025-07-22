@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1d79d8c
+DTSTAMP:20250720T222637Z
+DTSTART:20231209
+DTEND:20231210
+LOCATION:Idanha-a-Nova\,  Castelo Branco Idanha-a-Nova\,  Castelo Branco
+SUMMARY:São Silvestre Idanha-a-Nova 2023
+DESCRIPTION:A 8.a Corrida São Silvestre de Idanha-a-Nova é um evento da o
+ rganização do Club União Idanhense\,  com o apoio da União de Freguesia
+ s de Idanha-a-Nova e Alcafozes\,  da Câmara Municipal de Idanha-a-Nova\,  
+ apoio técnico a cargo da Associação de Atletismo de Castelo Branco e cro
+ nometragem com chip a cargo da[..]\nhttps://www.portugalrunning.com/eventos
+ /sao-silvestre-idanha-a-nova-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-idanha-a-nova-2023/
+END:VEVENT
+END:VCALENDAR

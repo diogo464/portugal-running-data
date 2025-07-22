@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c07f4187
+DTSTAMP:20250720T222159Z
+DTSTART:20240101
+DTEND:20240102
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Pro Runners Magazine 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/4a-corrida-pro-runner
+ s-magazine-2024-virtual/
+URL:https://www.portugalrunning.com/eventos/4a-corrida-pro-runners-magazine-2024-virtual/
+END:VEVENT
+END:VCALENDAR

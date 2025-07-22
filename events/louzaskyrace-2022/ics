@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbb309c8
+DTSTAMP:20250720T222459Z
+DTSTART:20220903
+DTEND:20220904
+LOCATION:Lousã\,  Coimbra Lousã\,  Coimbra
+SUMMARY:LouzaSkyrace 2022
+DESCRIPTION:LouzaSkyrace 2022\nhttps://www.portugalrunning.com/eventos/louz
+ askyrace-2022/
+URL:https://www.portugalrunning.com/eventos/louzaskyrace-2022/
+END:VEVENT
+END:VCALENDAR

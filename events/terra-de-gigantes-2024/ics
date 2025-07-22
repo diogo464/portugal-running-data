@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3449940
+DTSTAMP:20250720T222700Z
+DTSTART:20240117
+DTEND:20240118
+LOCATION:Seia\,  Guarda Seia\,  Guarda
+SUMMARY:Terra de Gigantes 2024
+DESCRIPTION:O Terra de Gigantes é uma ultramaratona com tempo máximo de c
+ onclusão de 74 horas. Os 303km e os 11&nbsp;220 de D+ do percurso deverão
+  ser percorridos em autossuficiência entre as bases de vida estipuladas pe
+ la organização e guiados unicamente por GPS. Percurso linear com saída d
+ o ponto mais alto[..]\nhttps://www.portugalrunning.com/eventos/terra-de-gig
+ antes-2024/
+URL:https://www.portugalrunning.com/eventos/terra-de-gigantes-2024/
+END:VEVENT
+END:VCALENDAR

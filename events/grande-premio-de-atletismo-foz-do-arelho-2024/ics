@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9e79881
+DTSTAMP:20250720T222430Z
+DTSTART:20240511
+DTEND:20240512
+LOCATION:Foz do Arelho\,  Caldas da Rainha Foz do Arelho\,  Caldas da Rainha
+SUMMARY:Grande Prémio Atletismo Foz do Arelho 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-de-atle
+ tismo-foz-do-arelho-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-foz-do-arelho-2024/
+END:VEVENT
+END:VCALENDAR

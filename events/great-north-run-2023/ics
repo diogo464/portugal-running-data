@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca3dc5c3
+DTSTAMP:20250720T222435Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Newcastle\,  Reino Unido Newcastle\,  Reino Unido
+SUMMARY:Great North Run 2023
+DESCRIPTION:Famosa pela sua atmosfera inclusiva\,  entretenimento imbatíve
+ l no percurso e boas-vindas calorosas de Geordie\,  sem mencionar os milhõ
+ es arrecadados todos os anos para causas dignas\,  a mágica do Great North
+  Run pode ser difícil de entender - até que você a experimente por si me
+ smo . Não importa se estás[..]\nhttps://www.portugalrunning.com/eventos/g
+ reat-north-run-2023/
+URL:https://www.portugalrunning.com/eventos/great-north-run-2023/
+END:VEVENT
+END:VCALENDAR

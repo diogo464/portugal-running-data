@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc6dca72
+DTSTAMP:20250720T222926Z
+DTSTART:20230107
+DTEND:20230108
+LOCATION:Sever do Vouga\,  Aveiro Sever do Vouga\,  Aveiro
+SUMMARY:Vouga Trail 2023
+DESCRIPTION:Serão nos dias 07 e 08 de janeiro de 2023\,  que a Associaçã
+ o AZtrail\,  em parceria com o Município de Sever de Vouga\,  organizará 
+ a quarta edição do Vouga Trail\,  dividida nos eventos Vouga Trail Ultra\
+ ,  Vouga Trail Longo\,  Vouga Trail\,  Vouga Mini Trail\,  Caminhada Vouga 
+ e Vouga Kids.Com início[..]\nhttps://www.portugalrunning.com/eventos/vouga
+ -trail-2023/
+URL:https://www.portugalrunning.com/eventos/vouga-trail-2023/
+END:VEVENT
+END:VCALENDAR

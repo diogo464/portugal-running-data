@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2162058
+DTSTAMP:20250720T222641Z
+DTSTART:20241214
+DTEND:20241215
+LOCATION:Oliveira de Frades\,  Viseu Oliveira de Frades\,  Viseu
+SUMMARY:São Silvestre Oliveira de Frades 2024
+DESCRIPTION:A 1ª São Silvestre de Oliveira de Frades é uma prova organiz
+ ada pela Associação Académica de Santa Cruz em parceria com a Câmara Mu
+ nicipal de Oliveira de Frades. A 1ª São Silvestre de Oliveira de Frades s
+ erá composta por um percurso de corrida e outro de caminhada\,  cada um co
+ m[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-oliveira-de-fr
+ ades-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-oliveira-de-frades-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5862dae
+DTSTAMP:20250720T222320Z
+DTSTART:20231118
+DTEND:20231119
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Corrida dos Homens 2023
+DESCRIPTION:Esta é uma corrida aberta a toda a população sem restriçõe
+ s de idade\,  podendo ser feita a correr ou a caminhar. Este evento não te
+ m carácter competitivo e é de cariz solidário\,  com o objetivo de apoia
+ r a Liga Portuguesa Contra o Cancro\,  a favor da causa do cancro da[..]\nh
+ ttps://www.portugalrunning.com/eventos/corrida-dos-homens-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-homens-2023/
+END:VEVENT
+END:VCALENDAR

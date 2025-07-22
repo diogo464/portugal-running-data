@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c60627a7
+DTSTAMP:20250720T222328Z
+DTSTART:20240922
+DTEND:20240923
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida entre Parques Coimbra 2024
+DESCRIPTION:Corrida Entre Parques Coimbra é uma corrida de atletismo pelos
+  principais jardins da cidade de Coimbra. Numa coorganização da União da
+ s Freguesias de Coimbra e da ADR4 Estações.Um percurso cheio de história
+  e magia em cada recanto por onde passas. Jardim da Sereia Penedo da Saudad
+ e\,  Jardim Botânico\,  Universidade de[..]\nhttps://www.portugalrunning.c
+ om/eventos/corrida-entre-parques-coimbra-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-entre-parques-coimbra-2024/
+END:VEVENT
+END:VCALENDAR

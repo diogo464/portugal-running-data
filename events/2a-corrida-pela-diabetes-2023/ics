@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfcabda6
+DTSTAMP:20250720T222148Z
+DTSTART:20230318
+DTEND:20230319
+LOCATION:Vilamoura\,  Faro Vilamoura\,  Faro
+SUMMARY:2ª Corrida pela Diabetes 2023
+DESCRIPTION:A SPD – Sociedade Portuguesa de Diabetologia\,  em colaboraç
+ ão com a Associação Eu Mexo-me\,  leva aefeito a organização da 2ª Co
+ rrida pela Diabetes\,  em Vilamoura\,  com início da prova para as 8:30h d
+ amanhã do dia 18 de março de 2023\,  junto ao Hotel Tivoli (Marina de Vil
+ amoura)\,  integrada no 19ºCongresso[..]\nhttps://www.portugalrunning.com/
+ eventos/2a-corrida-pela-diabetes-2023/
+URL:https://www.portugalrunning.com/eventos/2a-corrida-pela-diabetes-2023/
+END:VEVENT
+END:VCALENDAR

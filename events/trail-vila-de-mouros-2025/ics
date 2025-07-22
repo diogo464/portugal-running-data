@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d97623ae
+DTSTAMP:20250720T222839Z
+DTSTART:20250622
+DTEND:20250623
+LOCATION:Covilhã\,  Castelo Branco Covilhã\,  Castelo Branco
+SUMMARY:Trail Vila de Mouros 2025
+DESCRIPTION:Após o sucesso dos eventos anteriores\,  vem o Trail Team Vila
+  de Mouros\,  dar continuidade à 4ª edição do Trail Vila de Mouros 2025
+  e Mouros 1000 2025 que se vai realizar nos dias 21 e 22 de junho\,  sendo 
+ os padrinhos da prova Maria Marques e Mário Zarro. No dia 21[..]\nhttps:
+ //www.portugalrunning.com/eventos/trail-vila-de-mouros-2025/
+URL:https://www.portugalrunning.com/eventos/trail-vila-de-mouros-2025/
+END:VEVENT
+END:VCALENDAR

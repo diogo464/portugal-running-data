@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d96aa594
+DTSTAMP:20250720T222838Z
+DTSTART:20240211
+DTEND:20240212
+LOCATION:Valezim\,  Guarda Valezim\,  Guarda
+SUMMARY:Trail Valezim 2024
+DESCRIPTION:O 3º Trail Valezim Aldeia Desporto\,  é um evento competitivo
+ \,  amador\,  da modalidade de Trail Running\,  realizado numa das encostas
+  da Serra da Estrela e é organizado pela Associação Vallecinus Cultura e
+  Desporto – AVACD. O 3º Trail Valezim Aldeia Desporto será realizado no
+  dia 11 de Fevereiro de 2024[..]\nhttps://www.portugalrunning.com/eventos/t
+ rail-valezim-2024/
+URL:https://www.portugalrunning.com/eventos/trail-valezim-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc192b2
+DTSTAMP:20250720T222148Z
+DTSTART:20230909
+DTEND:20230910
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:24H de P 2023
+DESCRIPTION:A 1ª edição das 24 horas de P é uma corrida de resistência
+  e de longa duração\,  que se realizará em Santa Maria da Feira em 9 e 1
+ 0 de Setembro de 2023. Inseridas neste evento decorrerão as seguintes prov
+ as: 24 horas a correr individualmente\,  24 horas a correr por[..]\nhttps:/
+ /www.portugalrunning.com/eventos/24h-de-p-2023/
+URL:https://www.portugalrunning.com/eventos/24h-de-p-2023/
+END:VEVENT
+END:VCALENDAR

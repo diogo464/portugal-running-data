@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3faba8f
+DTSTAMP:20250720T222711Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Sebolido\,  Penafiel Sebolido\,  Penafiel
+SUMMARY:Trail Boneca Douro 2024
+DESCRIPTION:O Trail Boneca Douro é um evento da responsabilidade organizat
+ iva da Associação para o Desenvolvimento de Sebolido (ADSebolido)\,  que 
+ organizará esta sétima edição no dia 13 deoutubro de 2024\,  dividida n
+ os eventos Ultra Trail Serra da Boneca\,  Trail Longo Boneca Douro\, Trail 
+ Curto Boneca Douro e a Caminhada da Boneca. A[..]\nhttps://www.portugalrunn
+ ing.com/eventos/trail-boneca-douro-2024/
+URL:https://www.portugalrunning.com/eventos/trail-boneca-douro-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cee008d4
+DTSTAMP:20250720T222550Z
+DTSTART:20230310
+DTEND:20230311
+LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+SUMMARY:Night Run Seaside - Vendas Novas 2023
+DESCRIPTION:A&nbsp; Night Run Seaside - Vendas Novas 2023\, &nbsp;é um eve
+ nto desportivo organizado pelo Município de Vendas Novas\,  patrocinado pe
+ la empresa Seaside. Esta corrida/caminhada noturna de âmbito popular é ab
+ erta a participantes de ritmos moderados ou principiantes\,  bem como a par
+ ticipantes que procuram uma corrida rápida para conseguir uma boa marca[..
+ ]\nhttps://www.portugalrunning.com/eventos/night-run-seaside-vendas-novas-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/night-run-seaside-vendas-novas-2023/
+END:VEVENT
+END:VCALENDAR

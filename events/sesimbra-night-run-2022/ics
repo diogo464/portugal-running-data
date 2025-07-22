@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc4a5b
+DTSTAMP:20250720T222651Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Sesimbra Night Run 2022
+DESCRIPTION:27ª edição da Corrida de Sesimbra\,  desde 2019 corrida notu
+ rna. Marque a sua presença na bonita vila de Sesimbra e inscreva-se na "Se
+ simbra Night Run 2022"\nhttps://www.portugalrunning.com/eventos/sesimbra-ni
+ ght-run-2022/
+URL:https://www.portugalrunning.com/eventos/sesimbra-night-run-2022/
+END:VEVENT
+END:VCALENDAR

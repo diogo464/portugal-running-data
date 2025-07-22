@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfac417b
+DTSTAMP:20250720T222146Z
+DTSTART:20220903
+DTEND:20220904
+LOCATION:São Brás de Alportel\,  Faro São Brás de Alportel\,  Faro
+SUMMARY:1º Treino Convívio dos Duros 2022
+DESCRIPTION:O grupo informal “Os Duros” vai organizar a “1º Treino C
+ onvívio dos Duros”\,  que terá lugar em São Brás de Alportel mais esp
+ ecificamente no Parque da Fonte Férrea no dia 3  de Setembro de 2022\,  c
+ om partida pelas 10:00h.  O treino convívio dos Duros\,  mais que uma cor
+ rida de trail[..]\nhttps://www.portugalrunning.com/eventos/1o-treino-conviv
+ io-dos-duros-2022/
+URL:https://www.portugalrunning.com/eventos/1o-treino-convivio-dos-duros-2022/
+END:VEVENT
+END:VCALENDAR

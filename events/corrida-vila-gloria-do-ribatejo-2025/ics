@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c74322b4
+DTSTAMP:20250720T222348Z
+DTSTART:20250501
+DTEND:20250502
+LOCATION:Salvaterra de Magos\,  Santarém Salvaterra de Magos\,  Santarém
+SUMMARY:Corrida Vila Glória do Ribatejo 2025
+DESCRIPTION:Corrida Vila Glória do Ribatejo 2025\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-vila-gloria-do-ribatejo-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-vila-gloria-do-ribatejo-2025/
+END:VEVENT
+END:VCALENDAR

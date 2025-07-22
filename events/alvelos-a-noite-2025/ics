@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c18c33a1
+DTSTAMP:20250720T222216Z
+DTSTART:20250802T125300Z
+DTEND:20250802T235900Z
+LOCATION:Alvelos\,  Braga Alvelos\,  Braga
+SUMMARY:Alvelos à Noite 2025
+DESCRIPTION:O evento “ALVELOS À NOITE” é organizado pela Secção de 
+ Atletismo e Trail Running da AssociaçãoRecreativa e Cultural Águias de A
+ lvelos\,  com sede na Rua Sra. Das Dores\,  742 – 4755-018 Alvelos - Barc
+ elos\, no dia 2 de agosto de 2025 sendo constituído por uma prova não cro
+ nometrada dividida em uma[..]\nhttps://www.portugalrunning.com/eventos/alve
+ los-a-noite-2025/
+URL:https://www.portugalrunning.com/eventos/alvelos-a-noite-2025/
+END:VEVENT
+END:VCALENDAR

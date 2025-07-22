@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1179ab4
+DTSTAMP:20250720T222209Z
+DTSTART:20211204
+DTEND:20211205
+LOCATION:Leiria Leiria
+SUMMARY:9º X-Mas Night Trail 2021
+DESCRIPTION:Os Liz Runners Associação Desporto\,  Cultura e Recreio com
+  o apoio da Câmara Municipal de Leiria\,  organiza no dia 04 de Dezembro
+  de 2021 o 9º Leiria X-Mas Night Trail 2021 \,  que consiste em duas prov
+ as de Trail\,  K19 com partida no Soutocito no recinto da Tosel e K9 c
+ om partida no Zambujo e a chegada de ambas junto ao[..]\nhttps://www.portu
+ galrunning.com/eventos/9o-x-mas-night-trail-2021/
+URL:https://www.portugalrunning.com/eventos/9o-x-mas-night-trail-2021/
+END:VEVENT
+END:VCALENDAR

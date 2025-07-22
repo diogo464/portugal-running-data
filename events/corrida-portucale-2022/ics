@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69c58e2
+DTSTAMP:20250720T222337Z
+DTSTART:20220717
+DTEND:20220718
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Corrida Portucale 2022
+DESCRIPTION:O Porto recebe\,  a 17 de Julho de 2022\,  a CORRIDA PORTUCALE 
+ 2022\,  nas artérias ribeirinhas da cidade\,  organização do Centro de A
+ tletismo do Porto (CAP). O evento integra uma corrida de 10 Km\,  uma camin
+ hada/mini corrida de 5 Km realizadas ao longo das margens do Rio Douro\,  e
+  uma[..]\nhttps://www.portugalrunning.com/eventos/corrida-portucale-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-portucale-2022/
+END:VEVENT
+END:VCALENDAR

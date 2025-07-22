@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4892c52
+DTSTAMP:20250720T222304Z
+DTSTART:20241207
+DTEND:20241208
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Corrida de Natal Cascais 2024
+DESCRIPTION:Venha correr ou caminhar 5 km num evento que promove inclusão.
+ \nhttps://www.portugalrunning.com/eventos/corrida-de-natal-cascais-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-natal-cascais-2024/
+END:VEVENT
+END:VCALENDAR

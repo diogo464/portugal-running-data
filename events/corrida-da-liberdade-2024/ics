@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3edb1d6
+DTSTAMP:20250720T222254Z
+DTSTART:20240425T094300Z
+DTEND:20240425T235900Z
+LOCATION:Custóias\,  Matosinhos Custóias\,  Matosinhos
+SUMMARY:Corrida da Liberdade 2024
+DESCRIPTION:A União de Freguesias de Custóias\,  Leça do Balio e Guifõe
+ s\,  no próximo dia 25 de abril\,  organiza a 45ª Edição da Corrida da 
+ Liberdade integrada nas comemorações do 50º Aniversário da Revolução 
+ dos Cravos\,  com partida e chegada no Largo do Souto.\nhttps://www.portuga
+ lrunning.com/eventos/corrida-da-liberdade-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-2024/
+END:VEVENT
+END:VCALENDAR

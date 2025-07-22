@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8c7aba3
+DTSTAMP:20250720T222828Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail Serra das Flores 2024
+DESCRIPTION:O TSF-TRAIL SERRA DAS FLORES\,  é um evento de trail-running q
+ ue decorre na Serra das Flores e montes adjacentes e que integra 4 provas\,
+   todas elas de formato circular\,  non-stop: TRAIL LONGO SERRA DAS FLORES 
+ 32 km - (TLSF 32)TRAIL CURTO SERRA DAS FLORES 21km - (TCSF 21)MINI TRAIL SE
+ RRA[..]\nhttps://www.portugalrunning.com/eventos/trail-serra-das-flores-202
+ 4/
+URL:https://www.portugalrunning.com/eventos/trail-serra-das-flores-2024/
+END:VEVENT
+END:VCALENDAR

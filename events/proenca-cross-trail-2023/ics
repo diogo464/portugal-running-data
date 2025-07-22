@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007b423
+DTSTAMP:20250720T222608Z
+DTSTART:20231208
+DTEND:20231209
+LOCATION:Proença a Nova\,  Castelo Branco Proença a Nova\,  Castelo Branco
+SUMMARY:Proença Cross Trail 2023
+DESCRIPTION:Proença Cross Trail 2023\nhttps://www.portugalrunning.com/even
+ tos/proenca-cross-trail-2023/
+URL:https://www.portugalrunning.com/eventos/proenca-cross-trail-2023/
+END:VEVENT
+END:VCALENDAR

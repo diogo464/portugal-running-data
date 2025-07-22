@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da69315e
+DTSTAMP:20250720T222854Z
+DTSTART:20221211
+DTEND:20221212
+LOCATION:Setúbal Setúbal
+SUMMARY:Trilhos Do Javali Solidário 2022
+DESCRIPTION:Trilhos do Javali Solidário inscrição 5€ + alimentos essen
+ ciais:O evento de Trail Running Trilhos do Javali Solidário 2022 tem um ca
+ ráter totalmente solidário e dessa orma visa a angariação de alimentos 
+ essenciais para as pessoas carenciadas da cidade Setúbal. Terá um percurs
+ o de cerca de 10Km e percorrerá trilhos e[..]\nhttps://www.portugalrunning
+ .com/eventos/trilhos-do-javali-solidario-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-javali-solidario-2022/
+END:VEVENT
+END:VCALENDAR

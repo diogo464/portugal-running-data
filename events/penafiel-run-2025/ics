@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf749915
+DTSTAMP:20250720T222559Z
+DTSTART:20250921T130900Z
+DTEND:20250921T235900Z
+LOCATION:Penafiel\,  Porto Penafiel\,  Porto
+SUMMARY:Penafiel Run 2025
+DESCRIPTION:Corrida 10km Mini Corrida/ Caminhada 5km Atividade com cariz so
+ lidário\,  ajuda monetária às três Corporações de Bombeiros do Concel
+ ho de Penafiel.\nhttps://www.portugalrunning.com/eventos/penafiel-run-2025/
+URL:https://www.portugalrunning.com/eventos/penafiel-run-2025/
+END:VEVENT
+END:VCALENDAR

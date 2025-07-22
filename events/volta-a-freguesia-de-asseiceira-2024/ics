@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc4ab8d6
+DTSTAMP:20250720T222924Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Asseiceira\,  Rio Maior Asseiceira\,  Rio Maior
+SUMMARY:Volta à Freguesia de Asseiceira 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/volta-a-freguesia-de-
+ asseiceira-2024/
+URL:https://www.portugalrunning.com/eventos/volta-a-freguesia-de-asseiceira-2024/
+END:VEVENT
+END:VCALENDAR

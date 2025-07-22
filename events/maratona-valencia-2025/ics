@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc8633cf
+DTSTAMP:20250720T222512Z
+DTSTART:20251207
+DTEND:20251208
+LOCATION:Valência\,  Espanha Valência\,  Espanha
+SUMMARY:Maratona Valência 2025
+DESCRIPTION:A Maratona de Valência ocorre a 7 de Dezembro de 2025 e tem se
+  revelado ser uma das maratonas mais rápidas a nivel mundial.\nhttps://www
+ .portugalrunning.com/eventos/maratona-valencia-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-valencia-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d636d2
+DTSTAMP:20250720T222309Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:Cabeceiras de Basto\,  Braga Cabeceiras de Basto\,  Braga
+SUMMARY:Corrida de São Martinho - Adriano Valente 2024
+DESCRIPTION:A 9ª Corrida de São Martinho – Adriano Valente é organiza�
+ �ão do grupo de corrida Arco4Run e da Associação Festeiros do Arco\,  co
+ m o apoio da União de Freguesias de Arco de Baúlhe e Vila Nune e Camara M
+ unicipal de Cabeceiras de Basto. A prova realiza-se no dia 10 de[..]\nhttps
+ ://www.portugalrunning.com/eventos/corrida-de-sao-martinho-adriano-valente-
+ 2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-martinho-adriano-valente-2024/
+END:VEVENT
+END:VCALENDAR

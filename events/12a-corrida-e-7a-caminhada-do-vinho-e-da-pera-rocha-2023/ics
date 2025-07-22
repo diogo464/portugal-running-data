@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf3c2d93
+DTSTAMP:20250720T222139Z
+DTSTART:20230603
+DTEND:20230604
+LOCATION:Bombarral\,  Leiria Bombarral\,  Leiria
+SUMMARY:12ª Corrida E 7ª Caminhada Do Vinho E Da Pera Rocha 2023
+DESCRIPTION:A 12.ª CORRIDA E 7.ª CAMINHADA DO VINHO E DA PERA ROCHA é um
+ a organização do CDBBR Clube Desportivo do Bombarral com o apoio da Uniã
+ o das Freguesias de Bombarral e Vale Covo\,  do Município do Bombarral e d
+ a Associação Distrital de Atletismo de Leiria (ADAL). O evento realiza-se
+  no[..]\nhttps://www.portugalrunning.com/eventos/12a-corrida-e-7a-caminhada
+ -do-vinho-e-da-pera-rocha-2023/
+URL:https://www.portugalrunning.com/eventos/12a-corrida-e-7a-caminhada-do-vinho-e-da-pera-rocha-2023/
+END:VEVENT
+END:VCALENDAR

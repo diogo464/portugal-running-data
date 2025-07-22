@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2a30b51
+DTSTAMP:20250720T222234Z
+DTSTART:20250412T231300Z
+DTEND:20250412T231300Z
+LOCATION:Parque Keil do Amaral\,  Monsanto Parque Keil do Amaral\,  Monsanto
+SUMMARY:CardioRun 2025
+DESCRIPTION:CARDIORUN\,  é uma corrida desportiva organizada pelos alunos 
+ finalistas da Licenciatura em Cardiopneumologia enquadrada no evento Inova�
+ �ões em Cardiopneumologia que tem como principal objetivo a promoção de 
+ atividade física na prevenção das doenças cerebrocardiovasculares. Esta
+  atividade irá ocorrer em Monsanto \nhttps://www.portugalrunning.com/even
+ tos/cardiorun-2025/
+URL:https://www.portugalrunning.com/eventos/cardiorun-2025/
+END:VEVENT
+END:VCALENDAR

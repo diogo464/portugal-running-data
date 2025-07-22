@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbc61fce
+DTSTAMP:20250720T222500Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona de Lisboa 2023
+DESCRIPTION:A Luso Meia Maratona é uma das mais populares provas de Portug
+ al e em 2023 realizar-se a 8 de Outubro. O seu percurso de 21 Km tem iníci
+ o na&nbsp;Ponte Vasco da Gama&nbsp;terminando na&nbsp;Praça do Comércio\,
+   um marco histórico da cidade de Lisboa\,  em frente ao rio Tejo. A Luso 
+ Meia[..]\nhttps://www.portugalrunning.com/eventos/luso-meia-maratona-de-lis
+ boa-2023/
+URL:https://www.portugalrunning.com/eventos/luso-meia-maratona-de-lisboa-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3c49dc0
+DTSTAMP:20250720T222708Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+SUMMARY:Trail Barracas de Pedra 2025
+DESCRIPTION:O evento será realizado no dia&nbsp;25 de maio de 2025\,  na&n
+ bsp;Aldeia da Póvoa da Lomba – Cantanhede\,  "casa" da equipa de Trail/A
+ tletismo&nbsp;S. C. Povoense – Caracóis de Corrida. Este evento de Trail
+  em estado puro contará com: Caminhada Trail: 10 km Trail Curto: 19 km (
+ parte do Circuito Distrital de Trail Curto[..]\nhttps://www.portugalrunning
+ .com/eventos/trail-barracas-de-pedra-2025/
+URL:https://www.portugalrunning.com/eventos/trail-barracas-de-pedra-2025/
+END:VEVENT
+END:VCALENDAR

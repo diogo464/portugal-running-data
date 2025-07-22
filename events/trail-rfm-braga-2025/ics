@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d83003a9
+DTSTAMP:20250720T222819Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Santuário de Nossa Senhora do Sameiro\,  Braga Santuário de Nossa Senhora do Sameiro\,  Braga
+SUMMARY:Trail RFM Braga 2025
+DESCRIPTION:A RFM e a GanharDestak\,  com o apoio do Município de Braga\, 
+  organizam no próximo dia 25 de maio\,  a 2ª edição do Trail RFM Braga 
+ percorrido por caminhos e trilhos no Sameiro. Composto por um Trail Longo 1
+ 7K+\,  um Trail Curto 11K+\,  uma Caminhada 11K+ e uma Cãominhada 6K\, [..
+ ]\nhttps://www.portugalrunning.com/eventos/trail-rfm-braga-2025/
+URL:https://www.portugalrunning.com/eventos/trail-rfm-braga-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c53303b1
+DTSTAMP:20250720T222315Z
+DTSTART:20200126
+DTEND:20200127
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Corrida do Fim da Europa
+DESCRIPTION:RESULTADOS FOTOS &nbsp; Uma das mais antigas e tradicionais pro
+ vas nacionais\,  a Corrida Fim da Europa decorre numa das paisagens mais en
+ cantadoras de Portugal\,  a Vila de Sintra – Património Mundial da Unesc
+ o. Esta beleza é comprovada pelo o facto de estar entre as 10 primeiras no
+  livro World’s Ultimate[..]\nhttps://www.portugalrunning.com/eventos/corr
+ ida-do-fim-da-europa/
+URL:https://www.portugalrunning.com/eventos/corrida-do-fim-da-europa/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3318bfe
+DTSTAMP:20250720T222243Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Praia da Saúde\,  Costa da Caparica Praia da Saúde\,  Costa da Caparica
+SUMMARY:Corre Praia 2024
+DESCRIPTION:A Área de Gestão Desportiva do Clube de Campismo do Concelho 
+ de Almada\,  irá realizar no próximo dia 28&nbsp;de Abril&nbsp;de 2024\, 
+  pelas 9h30 o CORREPRAIA\,  num percurso compreendido entre a Praia da Saú
+ de\,  Fonte da Telha\,  Praia da Saúde num total de 15km. O Mini CORREPRAI
+ A\,  percurso compreendido entre a[..]\nhttps://www.portugalrunning.com/eve
+ ntos/corre-praia-2024/
+URL:https://www.portugalrunning.com/eventos/corre-praia-2024/
+END:VEVENT
+END:VCALENDAR

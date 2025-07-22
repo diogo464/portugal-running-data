@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65c4228
+DTSTAMP:20250720T222749Z
+DTSTART:20230325
+DTEND:20230326
+LOCATION:Bajouca\,  Leiria Bajouca\,  Leiria
+SUMMARY:Trail dos Moinhos da Bajouca 2023
+DESCRIPTION:O Trail dos Moinhos da Bajouca\,  percorre trilhos e caminhos d
+ asfreguesias Monte Redondo e Bajouca. Trail dos Moinhos:&nbsp;20 km – Nov
+ o Percurso – Partida no Cabeço de Monte Redondo – Prova Circuito Trail
+  Curto - ADAL Mini Trail: 10 km Moinhos Kids 800m a 1200m Caminhada: 10 km 
+ Esta prova[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-moinhos-d
+ a-bajouca-2023/
+URL:https://www.portugalrunning.com/eventos/trail-dos-moinhos-da-bajouca-2023/
+END:VEVENT
+END:VCALENDAR

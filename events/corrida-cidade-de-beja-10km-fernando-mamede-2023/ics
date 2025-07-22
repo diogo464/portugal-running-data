@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3862129
+DTSTAMP:20250720T222248Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Beja Beja
+SUMMARY:Corrida Cidade de Beja - 10km Fernando Mamede 2023
+DESCRIPTION:É um evento organizado pela Câmara Municipal de Beja em parce
+ ria com Base Área 11 e o Regimento de Infantaria 1\,  com a colaboração\
+ ,  supervisão técnica e de arbitragem da Associação de Atletismo de Bej
+ a.Esta iniciativa tem também um cariz solidário\,  sendo que parte das re
+ ceitas das inscrições reverterána presente[..]\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-cidade-de-beja-10km-fernando-mamede-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-beja-10km-fernando-mamede-2023/
+END:VEVENT
+END:VCALENDAR

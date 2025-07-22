@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d6196a
+DTSTAMP:20250720T222309Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:Corrida de São Martinho GDR Verderena 2023
+DESCRIPTION:O Grupo Desportivo e Recreativo da Verderena\,  juntamente com 
+ o apoio da Câmara Municipal do Barreiro e organização técnica da Xistar
+ ca\,  organiza no dia 12 de Novembro de 2023\,  a Corrida de São Martinho
+  GDR Verderena.\nhttps://www.portugalrunning.com/eventos/corrida-de-sao-mar
+ tinho-gdr-verderena-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-martinho-gdr-verderena-2023/
+END:VEVENT
+END:VCALENDAR

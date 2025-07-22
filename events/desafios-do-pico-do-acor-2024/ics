@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7fdc06d
+DTSTAMP:20250720T222359Z
+DTSTART:20241215
+DTEND:20241216
+LOCATION:Arganil\,  Coimbra Arganil\,  Coimbra
+SUMMARY:Desafios do Pico do Açor 2024
+DESCRIPTION:O Desafio Picos do Açor é organizado pela Evolução Vertical
+ . Conta ainda com acolaboração da Câmara Municipal de Arganil e das Junt
+ as de Freguesia de Arganil e Folques.A Evolução Vertical é uma entidade\
+ ,  que tem como principal objetivo promover edesenvolver atividades desport
+ ivas de aventura associadas à natureza. O âmbito da[..]\nhttps://www.port
+ ugalrunning.com/eventos/desafios-do-pico-do-acor-2024/
+URL:https://www.portugalrunning.com/eventos/desafios-do-pico-do-acor-2024/
+END:VEVENT
+END:VCALENDAR

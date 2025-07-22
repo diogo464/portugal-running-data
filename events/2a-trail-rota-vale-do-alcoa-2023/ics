@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0000a15
+DTSTAMP:20250720T222152Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Aljubarrota\,  Alcobaça Aljubarrota\,  Alcobaça
+SUMMARY:2ª Trail Rota Vale Do Alcoa 2023
+DESCRIPTION:O local de início e fim é na Junta de Freguesia de Aljubarrot
+ a.O percurso será feito por trilhos existentes na área envolvente na Freg
+ uesia de Aljubarrota. Grau de dificuldade média. O percurso poderá estar 
+ escorregadio nas subidas\,  o que implica ao atleta o máximo de cuidado. O
+  Trail consistirá em[..]\nhttps://www.portugalrunning.com/eventos/2a-trail
+ -rota-vale-do-alcoa-2023/
+URL:https://www.portugalrunning.com/eventos/2a-trail-rota-vale-do-alcoa-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce4ac031
+DTSTAMP:20250720T222540Z
+DTSTART:20250712
+DTEND:20250713
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:Mikkeller World Run 2025
+DESCRIPTION:8TH Mikkeller World Beer Run 2025; realizar-se-á no próximo d
+ ia 12 de Julho de 2025 pelas 16:00h\,  com partida e chegada na zona histó
+ rica de Caminha (Centro de Caminha). A prova é organizada pelo Atlético C
+ lube de Caminha\,  com o apoio do Município de Caminha e é parte integran
+ te do[..]\nhttps://www.portugalrunning.com/eventos/mikkeller-world-run-2025
+ /
+URL:https://www.portugalrunning.com/eventos/mikkeller-world-run-2025/
+END:VEVENT
+END:VCALENDAR

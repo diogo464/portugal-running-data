@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce249278
+DTSTAMP:20250720T222538Z
+DTSTART:20250615T195300Z
+DTEND:20250615T235900Z
+LOCATION:Caldas da Rainha\,  Leiria Caldas da Rainha\,  Leiria
+SUMMARY:Meia Maratona Rainha Dona Leonor 2025
+DESCRIPTION:A Câmara Municipal das Caldas da Rainha promove a Meia Maraton
+ a Rainha Dona Leonor\,  a 14 e 15 de junho de 2025. O evento é aberto a pe
+ ssoas de todas as idades: Dia 15: Meia Maratona\,  10 Km e 5 Km Dia 14: Cor
+ rida das Crianças\nhttps://www.portugalrunning.com/eventos/meia-maratona-r
+ ainha-dona-leonor-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-rainha-dona-leonor-2025/
+END:VEVENT
+END:VCALENDAR

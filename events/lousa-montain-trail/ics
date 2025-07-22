@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbaacb6a
+DTSTAMP:20250720T222458Z
+DTSTART:20230122
+DTEND:20230123
+LOCATION:Lousa\,  Lisboa Lousa\,  Lisboa
+SUMMARY:Lousa Montain Trail
+DESCRIPTION:Lousa Montain Trail a 22 de Janeiro de 2023 Lousa (Concelho deÂ
+  Loures) Local da partida:Sede do Grupo Desportivo de LousaRua HerÃ³is Ultr
+ amar\,  2670-759 Lousa\nhttps://www.portugalrunning.com/eventos/lousa-monta
+ in-trail/
+URL:https://www.portugalrunning.com/eventos/lousa-montain-trail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c087aaf8
+DTSTAMP:20250720T222200Z
+DTSTART:20230715
+DTEND:20230716
+LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+SUMMARY:5ª Corrida Festas De Loures 2023
+DESCRIPTION:A&nbsp;Câmara Municipal de Loures\,  com a colaboração da Po
+ lícia Municipal de Loures\,  PSP\,  Bombeiros Voluntários de Loures\,  Mo
+ vimento Associativo do Concelho de Loures e com o apoio técnico da Xistarc
+ a\,  promove no dia&nbsp;15&nbsp;de Julho de 2023\,  com início às&nbsp;2
+ 0h30\,  uma prova de atletismo em estrada\,  destinada a atletas federados 
+ ou[..]\nhttps://www.portugalrunning.com/eventos/5a-corrida-festas-de-loures
+ -2023/
+URL:https://www.portugalrunning.com/eventos/5a-corrida-festas-de-loures-2023/
+END:VEVENT
+END:VCALENDAR

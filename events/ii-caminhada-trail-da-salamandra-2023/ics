@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca700a2d
+DTSTAMP:20250720T222439Z
+DTSTART:20230917
+DTEND:20230918
+LOCATION:Penina\,  Faro Penina\,  Faro
+SUMMARY:II Caminhada Trail da Salamandra 2023
+DESCRIPTION:Este Evento é uma prova de Caminhada ou Trail\,  constituído 
+ por um Trail Longo\,  um Trail Curto e uma caminhada\,  realizados predomin
+ antemente em trilhos da Paisagem Protegida Local da Rocha da Pena\,  patrim
+ ónio ambiental da nossa terra\,  caminhos rurais\,  vias de terra batida\,
+   circundantes a Aldeia da Penina e Quinta[..]\nhttps://www.portugalrunning
+ .com/eventos/ii-caminhada-trail-da-salamandra-2023/
+URL:https://www.portugalrunning.com/eventos/ii-caminhada-trail-da-salamandra-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf749f14
+DTSTAMP:20250720T222559Z
+DTSTART:20240522T151400Z
+DTEND:20240522T235900Z
+LOCATION:Bragança Bragança
+SUMMARY:IPB4ALL Corrida da Liberdade 2024
+DESCRIPTION:No âmbito das celebrações dos 50 anos do 25 de abril pelo In
+ stituto Politécnico de Bragança\,  realizar-se-á IPB4ALL Corrida da Libe
+ rdade. Este será um momento de convívio e celebração\,  proporcionando 
+ aos participantes uma oportunidade para promover a saúde e o bem-estar\,  
+ enquanto recordam e celebram os valores de liberdade e[..]\nhttps://www.por
+ tugalrunning.com/eventos/pb4all-corrida-da-liberdade-2024/
+URL:https://www.portugalrunning.com/eventos/pb4all-corrida-da-liberdade-2024/
+END:VEVENT
+END:VCALENDAR

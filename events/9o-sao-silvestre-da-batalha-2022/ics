@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1193967
+DTSTAMP:20250720T222209Z
+DTSTART:20221217
+DTEND:20221218
+LOCATION:Batalha\,  Leiria Batalha\,  Leiria
+SUMMARY:9ª São Silvestre da Batalha 2022
+DESCRIPTION:No próximo dia 17 de Dezembro de 2022\,  realiza-se a 9ª S�
+ �O SILVESTRE DA BATALHA\,  organizada pelo Atlético Clube Batalha\,  em 
+ parceria com a Câmara Municipal da Batalha e com o apoio da Associaçã
+ o Distrital de Atletismo de Leiria.\nhttps://www.portugalrunning.com/evento
+ s/9o-sao-silvestre-da-batalha-2022/
+URL:https://www.portugalrunning.com/eventos/9o-sao-silvestre-da-batalha-2022/
+END:VEVENT
+END:VCALENDAR

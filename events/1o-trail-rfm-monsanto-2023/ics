@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf8321bd
+DTSTAMP:20250720T222144Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:1º Trail RFM Monsanto 2023
+DESCRIPTION:Com o apoio da RFM e da Ganhardestak\,  realiza-se no próximo 
+ dia 30 de abril\,  a 1ª edição do Trail RFM Monsanto percorrido por cami
+ nhos e trilhos dentro do Parque Florestal do Monsanto. Composto por um Trai
+ l Longo de 17Km\,  um Trail Curto de 10Km e uma Cãominhada de 6Km\, [..]\n
+ https://www.portugalrunning.com/eventos/1o-trail-rfm-monsanto-2023/
+URL:https://www.portugalrunning.com/eventos/1o-trail-rfm-monsanto-2023/
+END:VEVENT
+END:VCALENDAR

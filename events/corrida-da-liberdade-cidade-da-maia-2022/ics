@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f306db
+DTSTAMP:20250720T222255Z
+DTSTART:20220424
+DTEND:20220425
+LOCATION:Maia\,  Porto Maia\,  Porto
+SUMMARY:Corrida da Liberdade Cidade da Maia 2022
+DESCRIPTION:Vem participar na Corrida da Liberdade Cidade da Maia 2022. Con
+ tamos contigo.\nhttps://www.portugalrunning.com/eventos/corrida-da-liberdad
+ e-cidade-da-maia-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-cidade-da-maia-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc381d
+DTSTAMP:20250720T222651Z
+DTSTART:20230701
+DTEND:20230702
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Sesimbra Night Trail 2023
+DESCRIPTION:Depois de uma paragem forçada ao fim de dez edições do Ultra
+  Trail de Sesimbra\,  voltamos a Sesimbra numa vertente diferente do habitu
+ al e que tanto agrada aos atletas. Sesimbra é uma vila lindíssima\,  à n
+ oite ainda é mais linda.\nhttps://www.portugalrunning.com/eventos/sesimbra
+ -night-trail-2023/
+URL:https://www.portugalrunning.com/eventos/sesimbra-night-trail-2023/
+END:VEVENT
+END:VCALENDAR

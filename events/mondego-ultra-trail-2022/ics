@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce9017ff
+DTSTAMP:20250720T222545Z
+DTSTART:20220910
+DTEND:20220911
+LOCATION:Torres Do Mondego\,  Coimbra Torres Do Mondego\,  Coimbra
+SUMMARY:Mondego Ultra Trail 2022
+DESCRIPTION:O Mondego Ultra Trail® é um evento em trilhos com o objectivo
+  de percorrer determinada distância ultrapassando os obstáculos naturais 
+ do terreno e enfrentar as suas adversidades no menor tempo possível\,  nã
+ o é uma caminhada.Desenvolve-se a partir da Freguesia de Torres do Mondego
+ \,  e apresenta características que o levam a[..]\nhttps://www.portugalrun
+ ning.com/eventos/mondego-ultra-trail-2022/
+URL:https://www.portugalrunning.com/eventos/mondego-ultra-trail-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc3b9e
+DTSTAMP:20250720T222651Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Ponte da Barca\,  Viana do Castelo Ponte da Barca\,  Viana do Castelo
+SUMMARY:Serra Amarela Skymarathon 2023
+DESCRIPTION:Será nos dias 3 e 4 de Junho de 2023\,  que a Carlos Sá Natur
+ e Events organizará a quinta edição doevento Serra Amarela SkyMarathon\,
+   em parceria com o Município de Ponte da Barca. A aposta na Serra Amarela
+  surge do reconhecimento das potencialidades fantásticas desta região\,  
+ comtoda a sua beleza[..]\nhttps://www.portugalrunning.com/eventos/serra-ama
+ rela-2023/
+URL:https://www.portugalrunning.com/eventos/serra-amarela-2023/
+END:VEVENT
+END:VCALENDAR

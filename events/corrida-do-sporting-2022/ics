@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5849a9c
+DTSTAMP:20250720T222320Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Do Sporting 2022
+DESCRIPTION:Dia 20 de novembro de 2022\,  com partida na Praça Promenade (
+ junto ao edifício da Cuf) e chegada no Estádio José Alvalade\,  nos segu
+ intes horários: Corrida Jubas Dia 20 de novembro de 2022 às 09h00\,  com 
+ partida na Praça Promenade (junto ao edifício da Cuf) e chegada no Estád
+ io José[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-sporting-2
+ 022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-sporting-2022/
+END:VEVENT
+END:VCALENDAR

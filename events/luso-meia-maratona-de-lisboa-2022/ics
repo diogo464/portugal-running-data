@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbbdc474
+DTSTAMP:20250720T222459Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Lisboa Lisboa
+SUMMARY:Luso Meia Maratona de Lisboa 2022
+DESCRIPTION:RESULTADOS VIDEO DA PROVA https://www.youtube.com/watch?v=XNISN
+ hO6LJI Prepara a tua próxima meia maratona com o acompanhamento personaliz
+ ado do Portugal Running. Como chegar à partida O acesso à partida é excl
+ usivo aos autocarros da organização. Os autocarros partem do centro comer
+ cial Vasco da Gama das 7h30 às 9h30. Para se deslocarem ao centro[..]\nhtt
+ ps://www.portugalrunning.com/eventos/luso-meia-maratona-de-lisboa-2022/
+URL:https://www.portugalrunning.com/eventos/luso-meia-maratona-de-lisboa-2022/
+END:VEVENT
+END:VCALENDAR

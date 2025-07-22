@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7e7abec
+DTSTAMP:20250720T222814Z
+DTSTART:20231119
+DTEND:20231120
+LOCATION:Penela\,  Coimbra Penela\,  Coimbra
+SUMMARY:Trail Pedra da Ferida 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-pedra-da-ferida
+ -2023/
+URL:https://www.portugalrunning.com/eventos/trail-pedra-da-ferida-2023/
+END:VEVENT
+END:VCALENDAR

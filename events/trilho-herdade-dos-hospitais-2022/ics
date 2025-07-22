@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9f79dba
+DTSTAMP:20250720T222847Z
+DTSTART:20220220
+DTEND:20220221
+LOCATION:Montemor-o-Novo\,  Évora Montemor-o-Novo\,  Évora
+SUMMARY:Trilho Herdade Dos Hospitais 2022
+DESCRIPTION:A organização\,  vai realizar o 1º Trilho Herdade Dos Hospit
+ ais 2022\,  o qual vai decorrer emMontemor-o-Novo\,  na Herdade dos Hospita
+ is\,  no local onde no dia anterior se realizouum Raid Equestre Internacion
+ al.Esta prova contará com dois percursos\,  dentro da Herdade dos Hospitai
+ s : 10km – corrida06km – caminhada (não competitiva)\nhttps://www.port
+ ugalrunning.com/eventos/trilho-herdade-dos-hospitais-2022/
+URL:https://www.portugalrunning.com/eventos/trilho-herdade-dos-hospitais-2022/
+END:VEVENT
+END:VCALENDAR

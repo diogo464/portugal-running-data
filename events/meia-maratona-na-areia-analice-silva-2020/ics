@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce2315cd
+DTSTAMP:20250720T222538Z
+DTSTART:20200524
+DTEND:20200525
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:Meia Maratona na Areia Analice Silva 2020
+DESCRIPTION:A ASSOCIAÇÃO DESPORTIVA OMUNDODACORRIDA.COM\,  organiza com o
+  apoio da Câmara Municipal de Almada no dia 24 de Maio de 2020\,  uma comp
+ etição denominada "XII MEIA MARATONA NA AREIA ANALICE SILVA"\,  a efectua
+ r na Costa da Caparica - Nova Praia. Existirá também uma prova de 10 km a
+  correr ou andar[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona
+ -na-areia-analice-silva-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-na-areia-analice-silva-2020/
+END:VEVENT
+END:VCALENDAR

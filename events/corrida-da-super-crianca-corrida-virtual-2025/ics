@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c48306de
+DTSTAMP:20250720T222304Z
+DTSTART:20250601
+DTEND:20250602
+LOCATION:Portugal Portugal
+SUMMARY:Corrida da Super Criança - Corrida Virtual 2025
+DESCRIPTION:Corrida da Super Criança - Corrida Virtual 2025\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-da-super-crianca-corrida-virtual-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-super-crianca-corrida-virtual-2025/
+END:VEVENT
+END:VCALENDAR

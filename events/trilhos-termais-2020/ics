@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daec6912
+DTSTAMP:20250720T222902Z
+DTSTART:20200404
+DTEND:20200405
+LOCATION:
+SUMMARY:Trilhos Termais 2020
+DESCRIPTION:Evento desportivo sunset e noturno com três percursos: - Trail
+  Curto: 13 Km - Trail Longo: 20 Km - Caminhada: 6 Km O facto de se tratar d
+ e um evento diurno e noturno\,  para além de permitir aos participantes de
+ sfrutar de uma perspetiva diferente de todos os fantásticos trilhos que[..
+ ]\nhttps://www.portugalrunning.com/eventos/trilhos-termais-2020/
+URL:https://www.portugalrunning.com/eventos/trilhos-termais-2020/
+END:VEVENT
+END:VCALENDAR

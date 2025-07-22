@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d624e5
+DTSTAMP:20250720T222309Z
+DTSTART:20240615
+DTEND:20240616
+LOCATION:São Martinho do Porto\,  Leiria São Martinho do Porto\,  Leiria
+SUMMARY:Corrida de Sto António 2024
+DESCRIPTION:A&nbsp;Corrida de Sto. António&nbsp;é organizada pelo&nbsp;GD
+ CA\,  com o apoio de&nbsp;Junta de Freguesia de Martinho do Porto e Bombeir
+ os voluntários de S Martinho do Porto. Prova inserida nas Festas de Sto An
+ tónio. A prova terá cerca de 10k em estrada\nhttps://www.portugalrunning.
+ com/eventos/corrida-de-sto-antonio-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sto-antonio-2024/
+END:VEVENT
+END:VCALENDAR

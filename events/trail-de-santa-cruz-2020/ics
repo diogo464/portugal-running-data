@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54aa42f
+DTSTAMP:20250720T222732Z
+DTSTART:20200801
+DTEND:20200802
+LOCATION:Santa Cruz Santa Cruz
+SUMMARY:Trail de Santa Cruz 2020
+DESCRIPTION:O  TURRES TRAIL CLUBE  \,  com o apoio da CAP - Penafirme \, 
+  Câmara Municipal de Torres Vedras \,  Juntas de freguesias da Silveira \,
+   A dos Cunhados e São Pedro da Cadeira  \,  vai realizar no  dia 1 de A
+ gosto  de 2020\,  um evento denominado "  UTRSC- Ultra Trail[..]\nhttps:/
+ /www.portugalrunning.com/eventos/trail-de-santa-cruz-2020/
+URL:https://www.portugalrunning.com/eventos/trail-de-santa-cruz-2020/
+END:VEVENT
+END:VCALENDAR

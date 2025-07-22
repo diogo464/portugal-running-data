@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c16307b1
+DTSTAMP:20250720T222214Z
+DTSTART:20250413
+DTEND:20250414
+LOCATION:Praia Fluvial de Alfusqueiro\,  √Ågueda Praia Fluvial de Alfusqueiro
+SUMMARY:Trilhos do Alfusqueiro 2025
+DESCRIPTION:O Mexe Mexe em Excelente Companhia organiza o evento desportivo
+  Trilhos do Alfusqueiro 2025\,  nas vertentes de Trail Running e Caminhada.
+  Este evento ocorrer√° no dia 13 de abril de 2025\,  sendo composto por tr√
+ ™s percursos com car√°cter competitivo (provas de Trail Running 22K\,  15K 
+ e 10K)\,  e com um[..]\nhttps://www.portugalrunning.com/eventos/alfusqueiro
+ -trail-2025/
+URL:https://www.portugalrunning.com/eventos/alfusqueiro-trail-2025/
+END:VEVENT
+END:VCALENDAR

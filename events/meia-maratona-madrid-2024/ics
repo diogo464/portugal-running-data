@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdc62836
+DTSTAMP:20250720T222532Z
+DTSTART:20240407
+DTEND:20240408
+LOCATION:Madrid\,  Espanha Madrid\,  Espanha
+SUMMARY:Meia Maratona Madrid 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/meia-maratona-madrid-
+ 2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-madrid-2024/
+END:VEVENT
+END:VCALENDAR

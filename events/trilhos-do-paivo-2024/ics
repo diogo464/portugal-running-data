@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da718642
+DTSTAMP:20250720T222855Z
+DTSTART:20241013T061900Z
+DTEND:20241013T061900Z
+LOCATION:Farejinhas\,  Castro Daire Farejinhas\,  Castro Daire
+SUMMARY:Trilhos do Paivô 2024
+DESCRIPTION:A organização deste evento é realizada pela Comissão de Fes
+ tas de Farejinhas 2025\,  com o apoio da Comunidade Local dos Baldios de Fa
+ rejinhas. O evento é composto por uma caminhada de cerca de 8km (aproximad
+ amente).\nhttps://www.portugalrunning.com/eventos/trilhos-do-paivo-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-paivo-2024/
+END:VEVENT
+END:VCALENDAR

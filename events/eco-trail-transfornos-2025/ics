@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c871a818
+DTSTAMP:20250720T222407Z
+DTSTART:20250323
+DTEND:20250324
+LOCATION:Fornos de Algodres\,  Guarda Fornos de Algodres\,  Guarda
+SUMMARY:Eco Trail TransFornos 2025
+DESCRIPTION:O ”III ECO TRAIL TRANSFORNOS” é um trail\,  organizado pel
+ a “AVCATAssociação Vila Chã Aldeia Trail de Portugal” a realizar no 
+ dia 23 de março de 2025\,  em Fornos de Algodres. Este trail faz parte da 
+ 4ª edição do Circuito Municipal de Trail - Trilhos D`O Bom Sabor da Serr
+ a-VI(r)VER Fornos[..]\nhttps://www.portugalrunning.com/eventos/eco-trail-tr
+ ansfornos-2025/
+URL:https://www.portugalrunning.com/eventos/eco-trail-transfornos-2025/
+END:VEVENT
+END:VCALENDAR

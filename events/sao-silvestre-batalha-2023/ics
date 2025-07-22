@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edc717
+DTSTAMP:20250720T222622Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Batalha\,  Leiria Batalha\,  Leiria
+SUMMARY:São Silvestre Batalha 2023
+DESCRIPTION:No próximo dia 16 de Dezembro de 2023\,  realiza-se a 10ª S
+ ÃO SILVESTRE BATALHA\,  organizada pelo Atlético Clube Batalha\,  em par
+ ceria com a Câmara Municipal da Batalha e com o apoio da Associação D
+ istrital de Atletismo de Leiria.\nhttps://www.portugalrunning.com/eventos/s
+ ao-silvestre-batalha-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-batalha-2023/
+END:VEVENT
+END:VCALENDAR

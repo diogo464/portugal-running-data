@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdd492f6
+DTSTAMP:20250720T222533Z
+DTSTART:20240407
+DTEND:20240408
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:Meia Maratona Juventude Ilha Verde 2024
+DESCRIPTION:No próximo dia 07 de abril de 2024\,  pelas 10:00 horas\,  com
+  partida das Portas da Cidade de Ponta Delgada\,  realizar-se-á a X Meia M
+ aratona Juventude Ilha Verde. É uma prova do calendário desta Associaçã
+ o e aberto a todos que nela quiserem participar. Nesta competição disputa
+ r-se-á o Campeonato da AASM[..]\nhttps://www.portugalrunning.com/eventos/m
+ eia-maratona-juventude-ilha-verde-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-juventude-ilha-verde-2024/
+END:VEVENT
+END:VCALENDAR

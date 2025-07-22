@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3eaa7a3
+DTSTAMP:20250720T222254Z
+DTSTART:20250425T143300Z
+DTEND:20250425T143300Z
+LOCATION:Vila Nova da Barquinha\,  Santarém Vila Nova da Barquinha\,  Santarém
+SUMMARY:Corrida da Liberdade 2025
+DESCRIPTION:A organização do evento é da responsabilidade do Município 
+ de Vila Nova da Barquinha\,  tendocomo principal objetivo a comemoração d
+ o dia 25 de Abril através de atividades desportivas erecreativas.\nhttps:/
+ /www.portugalrunning.com/eventos/corrida-da-liberdade-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-2025/
+END:VEVENT
+END:VCALENDAR

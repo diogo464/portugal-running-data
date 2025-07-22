@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5bab51b
+DTSTAMP:20250720T222323Z
+DTSTART:20240106
+DTEND:20240107
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida dos Reis 2024
+DESCRIPTION:No dia 6 de janeiro\,  a Póvoa de Varzim será palco da VI Gru
+ po CCR | Corrida dos Reis 2024. O evento tem o selo de qualidade das organi
+ zações Bikeservice e será muito mais do que uma mera corrida. Com partid
+ a marcada para as 18 horas\,  esta VI Grupo CCR[..]\nhttps://www.portugalru
+ nning.com/eventos/corrida-dos-reis-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-2024/
+END:VEVENT
+END:VCALENDAR

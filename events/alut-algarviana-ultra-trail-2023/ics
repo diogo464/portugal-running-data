@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c16ac565
+DTSTAMP:20250720T222214Z
+DTSTART:20231130
+DTEND:20231201
+LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+SUMMARY:ALUT - Algarviana Ultra Trail 2023
+DESCRIPTION:ALUT - Algarviana Ultra Trail 2023\nhttps://www.portugalrunning
+ .com/eventos/alut-algarviana-ultra-trail-2023/
+URL:https://www.portugalrunning.com/eventos/alut-algarviana-ultra-trail-2023/
+END:VEVENT
+END:VCALENDAR

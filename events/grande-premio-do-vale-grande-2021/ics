@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9f63948
+DTSTAMP:20250720T222431Z
+DTSTART:20211005
+DTEND:20211006
+LOCATION:Lisboa Lisboa
+SUMMARY:Grande Prémio do Vale Grande 2021
+DESCRIPTION:GPVG vai ser uma prova de 10 km presencial.Prova com um percurs
+ o não muito fácil mas muito desafiante. Inscreve-te.\nhttps://www.portuga
+ lrunning.com/eventos/grande-premio-do-vale-grande-2021/
+URL:https://www.portugalrunning.com/eventos/grande-premio-do-vale-grande-2021/
+END:VEVENT
+END:VCALENDAR

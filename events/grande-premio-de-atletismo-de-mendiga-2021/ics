@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b93995
+DTSTAMP:20250720T222427Z
+DTSTART:20211128
+DTEND:20211129
+LOCATION:Mendiga\,  Porto de Mós Mendiga\,  Porto de Mós
+SUMMARY:Grande Prémio de Atletismo de Mendiga 2021
+DESCRIPTION:33º Grande Prémio de Atletismo de Mendiga 2021\,  a mais anti
+ ga e mítica prova de Atletismo de Estrada do Concelho de Porto de Mós\,  
+ está de volta!  Prémios\,  sorteios e um excelente almoço não irão fa
+ ltar! \nhttps://www.portugalrunning.com/eventos/grande-premio-de-atletismo
+ -de-mendiga-2021/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-mendiga-2021/
+END:VEVENT
+END:VCALENDAR

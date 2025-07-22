@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c00492cf
+DTSTAMP:20250720T222152Z
+DTSTART:20220610
+DTEND:20220611
+LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+SUMMARY:2º Night Trail Festival Da Paz Filstone 2022
+DESCRIPTION:2º Night Trail Festival Da Paz Filstone 2022\nhttps://www.port
+ ugalrunning.com/eventos/2o-night-trail-festival-da-paz-filstone-2022/
+URL:https://www.portugalrunning.com/eventos/2o-night-trail-festival-da-paz-filstone-2022/
+END:VEVENT
+END:VCALENDAR

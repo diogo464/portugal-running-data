@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccdb6e5
+DTSTAMP:20250720T222516Z
+DTSTART:20200209
+DTEND:20200210
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Meia Maratona de Cascais
+DESCRIPTION:RESULTADOS &nbsp; &nbsp; A Montepio Meia Maratona de Cascais\, 
+  powered by Associação Mutualista Montepio\,  é um evento organizado p
+ ela HMS Sports que se realiza a 8 e 9 de fevereiro de 2020. Engloba a Meia 
+ Maratona (21\, 0975 km)\,  os 5 Km de Cascais e a Corrida das Crianças. Te
+ m a Baía de[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-
+ cascais/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-cascais/
+END:VEVENT
+END:VCALENDAR

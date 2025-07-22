@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1b30710
+DTSTAMP:20250720T222635Z
+DTSTART:20211211
+DTEND:20211212
+LOCATION:Barreiro Barreiro
+SUMMARY:São Silvestre do Barreiro 2021
+DESCRIPTION:A São Silvestre do Barreiro 2021 terá uma corrida de 10 km e 
+ uma caminhada de 5km.\nhttps://www.portugalrunning.com/eventos/sao-silvestr
+ e-do-barreiro-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-do-barreiro-2021/
+END:VEVENT
+END:VCALENDAR

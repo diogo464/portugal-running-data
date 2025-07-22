@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccc7ae96
+DTSTAMP:20250720T222516Z
+DTSTART:20200510
+DTEND:20200511
+LOCATION:Praia De Cortegaça\,  Aveiro Praia De Cortegaça\,  Aveiro
+SUMMARY:Meia Maratona Cortegaça 2020
+DESCRIPTION:Já se encontram abertas as inscrições para a 36ª Meia Marat
+ ona de Cortegaça\,  a realizar no dia 10 de Maio de 2020 pelas 9:30 horas!
+  Tal como na última edição\,  podes escolher entre a Meia maratona\,  a 
+ Caminhada e ainda uma Prova de 10 km como novidade. Contamos contigo?!\nhtt
+ ps://www.portugalrunning.com/eventos/meia-maratona-cortegaca-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-cortegaca-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61acd4e
+DTSTAMP:20250720T222745Z
+DTSTART:20230319
+DTEND:20230320
+LOCATION:Fanhões\,  Loures Fanhões\,  Loures
+SUMMARY:Trail Dos Calceteiros 2023
+DESCRIPTION:Inserido na&nbsp;Taça de Portugal de Trail\,  a 3ª edição d
+ o “Trail dos Calceteiros“\,  evento desportivo de caráter lúdico e co
+ mpetitivo\,  tem por objetivo divulgar e&nbsp;promover a prática desportiv
+ a\,  na modalidade de trail running\,  mas também as localidades onde deco
+ rre o evento. É um evento organizado pelos&nbsp;Trilhos do Costume e&nbsp;
+ Xistarca\,  com&nbsp;o[..]\nhttps://www.portugalrunning.com/eventos/trail-d
+ os-calceteiros-2023/
+URL:https://www.portugalrunning.com/eventos/trail-dos-calceteiros-2023/
+END:VEVENT
+END:VCALENDAR

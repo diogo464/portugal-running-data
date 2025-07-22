@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4248cb2
+DTSTAMP:20250720T222258Z
+DTSTART:20230610
+DTEND:20230611
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:7ª Edição Corrida da Nazaré 2023
+DESCRIPTION:A Corrida da Nazaré é organizada pelo Clube de Atletismo da N
+ azaré com o apoio da Câmara Municipal da Nazaré\,  Junta de Freguesia da
+  Nazaré e Bombeiros Voluntários da Nazaré.Será realizada no dia 10 de j
+ unho de 2023 às 20h00 com partida no Centro Cultural da Nazaré.\nhttps://
+ www.portugalrunning.com/eventos/corrida-da-nazare-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-nazare-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54dd1a1
+DTSTAMP:20250720T222732Z
+DTSTART:20200426
+DTEND:20200427
+LOCATION:Mafra Mafra\,  Lisboa
+SUMMARY:Trail de Mafra 2020
+DESCRIPTION:Trail de Mafra 2020\nhttps://www.portugalrunning.com/eventos/tr
+ ail-de-mafra-2020/
+URL:https://www.portugalrunning.com/eventos/trail-de-mafra-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8b0106d
+DTSTAMP:20250720T222827Z
+DTSTART:20240728
+DTEND:20240729
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Santa Justa 2024
+DESCRIPTION:A XII edição do Trail Santa Justa é uma prova que percorre t
+ rilhos e caminhos na serra de SantaJusta e de Pias no concelho de Valongo\,
+   com início e fim Junto à Igreja de Santa Justa. Três provas de caracte
+ r competitivo (30km\,  15 km\,  10km) .\nhttps://www.portugalrunning.com/ev
+ entos/trail-santa-justa-2024/
+URL:https://www.portugalrunning.com/eventos/trail-santa-justa-2024/
+END:VEVENT
+END:VCALENDAR

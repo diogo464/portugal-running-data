@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db319d3c
+DTSTAMP:20250720T222907Z
+DTSTART:20230505
+DTEND:20230506
+LOCATION:Ilha do Faial\,  Açores Ilha do Faial\,  Açores
+SUMMARY:Ultra Blue Island 2023
+DESCRIPTION:O ULTRA BLUE ISLAND é um magnífico evento no meio do Atlânti
+ co Norte\,  nos Açores (Portugal)\,  na Ilha do Faial. Este desafiante env
+ ento de trail running leva-te para o melhor da natureza. A visão do oceano
+ \,  as majestosas crateras dos vulcões que formaram a ilha do Faial e os c
+ aminhos[..]\nhttps://www.portugalrunning.com/eventos/ultra-blue-island-2023
+ /
+URL:https://www.portugalrunning.com/eventos/ultra-blue-island-2023/
+END:VEVENT
+END:VCALENDAR

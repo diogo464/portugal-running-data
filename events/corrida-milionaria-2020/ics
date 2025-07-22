@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64dd7fa
+DTSTAMP:20250720T222332Z
+DTSTART:20200725
+DTEND:20200726
+LOCATION:Espinho\,  Aveiro Espinho\,  Aveiro
+SUMMARY:Corrida Milionária 2020
+DESCRIPTION:A CORRIDA MILIONÁRIA 2020 oferece mais de 50.000€ em PRÉMIO
+ S distribuídos por todos os participantes. Além de receberes um cupão de
+  desconto da Prozis\,  ao participares na corrida ficas habilitado a muitos
+  prémios\,  tais como cabazes de produtos Shoyce\,  um ano grátis de águ
+ a Vitalis\,  produtos da marca desportiva Joma\, [..]\nhttps://www.portugal
+ running.com/eventos/corrida-milionaria-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-milionaria-2020/
+END:VEVENT
+END:VCALENDAR

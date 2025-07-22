@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c573205b
+DTSTAMP:20250720T222319Z
+DTSTART:20210319
+DTEND:20210320
+LOCATION:Portugal Portugal
+SUMMARY:Corrida do Pai 2021
+DESCRIPTION:A TRADIÇÃO AINDA É O QUE ERA E A CORRIDA DIA DO PAI VAI MESM
+ O AVANÇAR\,  ESTE ANO TAMBÉM DE FORMA VIRTUAL. A Corrida Dia do Pai Virtu
+ al será realizada entre os dias 19 e 21 de março e os principais objetivo
+ s são motivar e inspirar a comunidade global de[..]\nhttps://www.portugalr
+ unning.com/eventos/corrida-do-pai-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-do-pai-2021/
+END:VEVENT
+END:VCALENDAR

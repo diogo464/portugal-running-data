@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1f62ef4
+DTSTAMP:20250720T222223Z
+DTSTART:20221021
+DTEND:20221022
+LOCATION:Açores Açores
+SUMMARY:Triangle Adventure By Azores Trail Run® 2022
+DESCRIPTION:O Azores Triangle Adventure&nbsp;é uma incrível corrida de tr
+ ail running que percorre 3 etapas em 3 dias\,  através das paisagens mais 
+ emblemáticas das três ilhas do Triângulo Açoriano: Ilha de São Jorge\,
+   Ilha do Pico e Ilha do Faial\,  num total de mais de 80 quilómetros.\nht
+ tps://www.portugalrunning.com/eventos/azores-triangle-adventure-2022/
+URL:https://www.portugalrunning.com/eventos/azores-triangle-adventure-2022/
+END:VEVENT
+END:VCALENDAR

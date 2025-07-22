@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb34a166
+DTSTAMP:20250720T222451Z
+DTSTART:20240609
+DTEND:20240610
+LOCATION:Lamas\,  Viseu Lamas\,  Viseu
+SUMMARY:Lamas Trail 2024
+DESCRIPTION:O evento é composto por três percursos: Trail de 22 km (aprox
+ .);Mini Trail 13 km (aprox.);Caminhada 13Km (aprox.).\nhttps://www.portugal
+ running.com/eventos/lamas-trail-2024/
+URL:https://www.portugalrunning.com/eventos/lamas-trail-2024/
+END:VEVENT
+END:VCALENDAR

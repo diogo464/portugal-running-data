@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca4dc094
+DTSTAMP:20250720T222436Z
+DTSTART:20220619
+DTEND:20220620
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Hard Trail Monte Da Padela 2022
+DESCRIPTION:Hard Trail Monte Da Padela 2022\nhttps://www.portugalrunning.co
+ m/eventos/hard-trail-monte-da-padela-2022/
+URL:https://www.portugalrunning.com/eventos/hard-trail-monte-da-padela-2022/
+END:VEVENT
+END:VCALENDAR

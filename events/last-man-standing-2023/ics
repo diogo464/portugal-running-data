@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb461358
+DTSTAMP:20250720T222452Z
+DTSTART:20230129
+DTEND:20230130
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Last Man Standing 2023
+DESCRIPTION:“Last Man Standing (Último Vence) - Trail” é uma corrida 
+ onde todos chegam ao fim\,  mas apenas um pode vencer! No início de cada v
+ olta\,  todos estão novamente em 1o lugar. Um evento que junta\,  trail\, 
+  superação e convívio num desafio que cada um coloca a si mesmo.\nhttps:
+ //www.portugalrunning.com/eventos/last-man-standing-2023/
+URL:https://www.portugalrunning.com/eventos/last-man-standing-2023/
+END:VEVENT
+END:VCALENDAR

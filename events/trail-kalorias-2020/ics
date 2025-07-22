@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72c3b04
+DTSTAMP:20250720T222802Z
+DTSTART:20200524
+DTEND:20200525
+LOCATION:Torres Vedras Torres Vedras
+SUMMARY:Trail Kalorias 2020
+DESCRIPTION:O Ginásio Kalorias   com o apoio do Turres Trail Clube\,  vai
+  levar a efeito a 2º edição  do Trail  Kalorias - Auchan Retail  no 
+ dia 24 de Maio  de 2020. O percurso é circular  com 10 km e 15 km  o lo
+ cal de partida\,  chegada\,  secretariado no Kalorias  Torres Vedras.\nhtt
+ ps://www.portugalrunning.com/eventos/trail-kalorias-2020/
+URL:https://www.portugalrunning.com/eventos/trail-kalorias-2020/
+END:VEVENT
+END:VCALENDAR

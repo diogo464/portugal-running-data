@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf3286f
+DTSTAMP:20250720T222919Z
+DTSTART:20220508
+DTEND:20220509
+LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+SUMMARY:VII Trail Erdal - Urgezes Solidário 2022
+DESCRIPTION:VII Trail Erdal - Urgezes Solidário 2022\nhttps://www.portugal
+ running.com/eventos/vii-trail-erdal-urgezes-solidario-2022/
+URL:https://www.portugalrunning.com/eventos/vii-trail-erdal-urgezes-solidario-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92dde6a
+DTSTAMP:20250720T222834Z
+DTSTART:20231203
+DTEND:20231204
+LOCATION:Ouça\,  Vagos Ouça\,  Vagos
+SUMMARY:Trail Trilhos de São Martinho 2023
+DESCRIPTION:O Trail de São Martinho acontece a 3 de Dezembro e será compo
+ sto por duas provas de trail\,  uma na distância de 19 Km e outra na dist�
+ �ncia de 12 Km e\,  ainda\,  uma caminhada na distância de 8 Km. A organiz
+ ação acompanha\,  em permanência\,  a evolução das condições meteoro
+ lógicas[..]\nhttps://www.portugalrunning.com/eventos/trail-trilhos-de-sao-
+ martinho-2023/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-de-sao-martinho-2023/
+END:VEVENT
+END:VCALENDAR

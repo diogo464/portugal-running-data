@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1a79a5b
+DTSTAMP:20250720T222218Z
+DTSTART:20230415
+DTEND:20230416
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:Aqua Race Kids 2023
+DESCRIPTION:A AQUA-RACE KIDS é uma prova de Trail Running para crianças d
+ os 6 aos 12 anos com alguns percursos aquáticos de caracter lúdico tais c
+ omo: corrida ao longo de canais de rega e travessias pedestres de ribeiras.
+  Trata-se de um evento cujo objectivo é iniciar as crianças no Trail Runn
+ ing[..]\nhttps://www.portugalrunning.com/eventos/aqua-race-kids-2023/
+URL:https://www.portugalrunning.com/eventos/aqua-race-kids-2023/
+END:VEVENT
+END:VCALENDAR

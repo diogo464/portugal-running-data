@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dae9a9ac
+DTSTAMP:20250720T222902Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Trilhos Princesa Do Ave 2022
+DESCRIPTION:A prova de Trail Running Trilhos Princesa Do Ave visa dar a con
+ hecer os mais belos e desconhecidos trilhos junto ao Rio Ave no concelho de
+  Vilado Conde. Associado também na sua caminhada de forma solidária com a
+  Cruz Vermelha Portuguesa e para o qual iremos contribuir com 100% da[..]\n
+ https://www.portugalrunning.com/eventos/trilhos-princesa-do-ave-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-princesa-do-ave-2022/
+END:VEVENT
+END:VCALENDAR

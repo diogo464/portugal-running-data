@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5517de7
+DTSTAMP:20250720T222733Z
+DTSTART:20240519
+DTEND:20240520
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:Trail do Almonda 2024
+DESCRIPTION:Trail do Almonda organização do Município de Torres Novas (M
+ TN). Distâncias:Trail +-25kmMini Trail +- 15kmCaminhada +-10km\nhttps://ww
+ w.portugalrunning.com/eventos/trail-do-almonda-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-almonda-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd117d0a
+DTSTAMP:20250720T222521Z
+DTSTART:20200405
+DTEND:20200406
+LOCATION:Ílhavo\,  Aveiro Ílhavo\,  Aveiro
+SUMMARY:Meia Maratona de Ílhavo 2020
+DESCRIPTION:A organização da Meia Maratona de Ílhavo\,  a cargo do Atlet
+ as.net e da Câmara Municipal de Ílhavo têm já definido o calendário do
+ s treinos oficiais de preparação: 19 de janeiro\,  16 de fevereiro e 15 
+ de março\,  (domingos)\,  sempre às 10 horas\,  frente às Piscinas Munic
+ ipais de Ílhavo\,  com os participantes[..]\nhttps://www.portugalrunning.c
+ om/eventos/meia-maratona-de-ilhavo/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-ilhavo/
+END:VEVENT
+END:VCALENDAR

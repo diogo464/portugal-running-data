@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8b61f36
+DTSTAMP:20250720T222827Z
+DTSTART:20200216
+DTEND:20200217
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:Santo Thyrso Ultra Trilhos 2020
+DESCRIPTION:A 6ª Edição do STUT-Santo Thyrso Ultra Trilhos é uma prova 
+ de corrida de montanha\,  organizada pelo NAST – Núcleo Associativo de S
+ anto Tirso e Câmara Municipal de Santo Tirso\,  que se desenvolve pelas Mo
+ ntanhas dos concelhos de Santo Tirso e Paços de Ferreira. Em simultâneo c
+ om as provas\,  realiza-se[..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-santo-thyrso-2020/
+URL:https://www.portugalrunning.com/eventos/trail-santo-thyrso-2020/
+END:VEVENT
+END:VCALENDAR

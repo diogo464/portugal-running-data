@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0ec4e40
+DTSTAMP:20250720T222622Z
+DTSTART:20231209
+DTEND:20231210
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:São Silvestre Barcelos 2023
+DESCRIPTION:A São Silvestre de Barcelos é organizada pela OneLine Marketi
+ ng com o apoio do Município de Barcelos e realiza-se no dia 9 de dezembro 
+ de 2023\,  pelas 19:00 horas. A São Silvestre de Barcelos inclui as seguin
+ tes provas: Corrida\,  com cerca de 10km\,  para participantes nascidos em 
+ 2007 e anos[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-barc
+ elos-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-barcelos-2023/
+END:VEVENT
+END:VCALENDAR

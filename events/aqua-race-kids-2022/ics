@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1a7a12a
+DTSTAMP:20250720T222218Z
+DTSTART:20220430
+DTEND:20220501
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:Aqua Race Kids 2022
+DESCRIPTION:A Aqua Race Kids 2022 é uma prova de Trail Running para crian�
+ �as dos 6 aos 12 anos com alguns percursos aquáticos de caracter lúdico t
+ ais como: corrida ao longo de canais de rega e travessias pedestres de ribe
+ iras. Trata-se de um evento cujo objectivo é iniciar as crianças no[..]\n
+ https://www.portugalrunning.com/eventos/aqua-race-kids-2022/
+URL:https://www.portugalrunning.com/eventos/aqua-race-kids-2022/
+END:VEVENT
+END:VCALENDAR

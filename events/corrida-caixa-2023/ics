@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3749571
+DTSTAMP:20250720T222247Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Caixa 2023
+DESCRIPTION:Chegou a primeira edição da “Corrida Caixa”\,  um evento 
+ que promete juntar os aficionados da corrida de 10km\,  as famílias na cam
+ inhada de 5km e as crianças numa distância mais pequena.\nhttps://www.por
+ tugalrunning.com/eventos/corrida-caixa-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-caixa-2023/
+END:VEVENT
+END:VCALENDAR

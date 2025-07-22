@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d82798cc
+DTSTAMP:20250720T222818Z
+DTSTART:20231126
+DTEND:20231127
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Quinta das Arcas 2023
+DESCRIPTION:O Trail Quinta das Arcas é organizado pela Candibyke – Assoc
+ iação de Ciclismo e será realizado no dia 26 de Novembro de 2023\,  na Q
+ uinta das Arcas em Sobrado- Valongo independentemente das condições clima
+ téricas do dia\,  desde que a organização entenda que não ofereçam ris
+ co aos participantes. A organização acompanha\, [..]\nhttps://www.portuga
+ lrunning.com/eventos/trail-quinta-das-arcas-2023/
+URL:https://www.portugalrunning.com/eventos/trail-quinta-das-arcas-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d301a375
+DTSTAMP:20250720T222656Z
+DTSTART:20230415
+DTEND:20230416
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:CN Skyrunning Serra dos Passos 2023
+DESCRIPTION:O evento Skyrunning Serra dos Passos\,  realizar-se-á no dia 1
+ 5 de Abril de 2023 na localidade dosPassos\,  Mirandela. Utiliza o percurso
+  criado pelo grupo Mirandela a Correr. É constituído por uma provacompeti
+ tiva de 10 e 23 quilómetros.O evento é coorganizado pelo Grupo Mirandela 
+ a Correr sendo articulado com a FCMP[..]\nhttps://www.portugalrunning.com/e
+ ventos/skyrunning-serra-dos-passos-2023/
+URL:https://www.portugalrunning.com/eventos/skyrunning-serra-dos-passos-2023/
+END:VEVENT
+END:VCALENDAR

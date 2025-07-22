@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d921a7
+DTSTAMP:20250720T222741Z
+DTSTART:20200705
+DTEND:20200706
+LOCATION:Caranguejeira\,  Leiria Caranguejeira\,  Leiria
+SUMMARY:Trail do Pinheiro Manso 2020
+DESCRIPTION:O Mais Bonito Trail do Distrito de Leiria está de regresso em 
+ 2020 e contará este ano para o Campeonato Distrital de Trail. Decorrerá n
+ o dia 5 julho\,  na Caranguejeira: >> Trail 19 km - Prova do Circuito de Tr
+ ail da Adal >> Trail 13 km >> Caminhada - 10[..]\nhttps://www.portugalrunni
+ ng.com/eventos/trail-do-pinheiro-manso-2020/
+URL:https://www.portugalrunning.com/eventos/trail-do-pinheiro-manso-2020/
+END:VEVENT
+END:VCALENDAR

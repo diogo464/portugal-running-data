@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf009a0
+DTSTAMP:20250720T222919Z
+DTSTART:20210423
+DTEND:20210424
+LOCATION:Portugal Portugal
+SUMMARY:VIII Corrida Saúde + Solidária 2021
+DESCRIPTION:A Corrida Saúde+Solidária\,  uma atividade&nbsp;100% solidár
+ ia&nbsp;e organizada pela Associação de Estudantes da Faculdade de Medici
+ na de Lisboa\,  tem como dois pilares fundamentais a promoção da&nbsp;ati
+ vidade desportiva&nbsp;e a&nbsp;solidariedade. Com esta meta em mente\,  a 
+ Corrida Saúde+Solidária encontra-se atualmente em preparação para a sua
+  VIII edição\,  a decorrer em&nbsp;maio de 2021\, &nbsp;que\,  face[..]\n
+ https://www.portugalrunning.com/eventos/viii-corrida-saude-solidaria-2021/
+URL:https://www.portugalrunning.com/eventos/viii-corrida-saude-solidaria-2021/
+END:VEVENT
+END:VCALENDAR

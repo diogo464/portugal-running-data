@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5cabeec
+DTSTAMP:20250720T222324Z
+DTSTART:20250914
+DTEND:20250915
+LOCATION:Algés\,  Oeiras Algés\,  Oeiras
+SUMMARY:Corrida do Tejo 2025
+DESCRIPTION:A Corrida do Tejo é uma das corridas mais emblemáticas do pan
+ orama nacional. Desde 1981 que tem como propósito incentivar a prática de
+ sportiva\,  através da corrida\,  e promover estilos de vida ativos e saud
+ áveis. Data: 14 de setembro de 2025\,  domingo.Hora: 9h00 (partidas por va
+ gas)Distância: Percurso de 10 Km ao[..]\nhttps://www.portugalrunning.com/e
+ ventos/corrida-do-tejo-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-do-tejo-2025/
+END:VEVENT
+END:VCALENDAR

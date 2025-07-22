@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1392ad1
+DTSTAMP:20250720T222627Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Almada Almada
+SUMMARY:São Silvestre de Almada 2022
+DESCRIPTION:No coração de Almada será realizada a VI edição da São Si
+ lvestre de Almada. Para os mais pequeninos\,  a famosa corrida da pequenada
+ !!! Não faltes a mais esta festa da corrida em Almada.\nhttps://www.portug
+ alrunning.com/eventos/sao-silvestre-de-almada-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-almada-2022/
+END:VEVENT
+END:VCALENDAR

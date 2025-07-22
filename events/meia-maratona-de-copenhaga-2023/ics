@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccd01bf1
+DTSTAMP:20250720T222517Z
+DTSTART:20230917
+DTEND:20230918
+LOCATION:Copenhaga\,  Dinamarca Copenhaga\,  Dinamarca
+SUMMARY:Meia Maratona de Copenhaga 2023
+DESCRIPTION:The Copenhagen Half Marathon is a race that’s known around th
+ e world for its world record course and high quality elite field. Although 
+ only established in 2015\,  it has quickly become one of Europe’s must-ru
+ n races. This is not just a race for elites though. Runners will enjoy the 
+ race[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-copenhag
+ a-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-copenhaga-2023/
+END:VEVENT
+END:VCALENDAR

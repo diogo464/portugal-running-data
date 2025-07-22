@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da1dc433
+DTSTAMP:20250720T222849Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Mendiga\,  Porto de Mós Mendiga\,  Porto de Mós
+SUMMARY:Trilhos da Lapa 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-da-lapa-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-lapa-2024/
+END:VEVENT
+END:VCALENDAR

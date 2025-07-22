@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3318140
+DTSTAMP:20250720T222243Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:Santiado do Cacém Santiado do Cacém\,  Setúbal
+SUMMARY:Correr pela Europa 2022 - 5ª edição
+DESCRIPTION:A 5ª edição da prova "Correr pela Europa" regressa a 24 de s
+ etembro de 2022 para sensibilizar os cidadãos europeus a escolherem opçõ
+ es de mobilidade mais sustentáveis. A atividade configura uma prova de cor
+ rida e/ou caminhada\,  tendo por objetivo motivar e inspirar a comunidade l
+ ocal e regional\,  a adotar um[..]\nhttps://www.portugalrunning.com/eventos
+ /correr-pela-europa-2022/
+URL:https://www.portugalrunning.com/eventos/correr-pela-europa-2022/
+END:VEVENT
+END:VCALENDAR

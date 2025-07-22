@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c79199b1
+DTSTAMP:20250720T222353Z
+DTSTART:20210101
+DTEND:20210102
+LOCATION:Cumeira\,  Leiria Cumeira\,  Leiria
+SUMMARY:Cross Laminha Virtual 2021
+DESCRIPTION:Uma organização e trabalho fantástico da Equipa TIMIM.O perc
+ urso do Cross Laminha está aberto e a participação é gratuita. Qualquer
+  um de vós o poderá fazer a correr ou a caminhar seguindo a sinalização
+  instalada .Podem fazê-lo durante o dia\,  a qualquer dia e a qualquer hor
+ a\,  até ao dia[..]\nhttps://www.portugalrunning.com/eventos/cross-laminha
+ -virtual-2021/
+URL:https://www.portugalrunning.com/eventos/cross-laminha-virtual-2021/
+END:VEVENT
+END:VCALENDAR

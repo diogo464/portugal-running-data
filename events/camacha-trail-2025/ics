@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c29489e4
+DTSTAMP:20250720T222233Z
+DTSTART:20250803
+DTEND:20250804
+LOCATION:Camacha\,  Madeira Camacha\,  Madeira
+SUMMARY:Camacha Trail 2025
+DESCRIPTION:O “Camacha Trail”\,  designado abreviadamente por CT\,  é 
+ um evento de Trail Running\,  uma Coorganização entre a Casa do Povo da C
+ amacha e a Junta de Freguesia da Camacha\,  que ocorre no dia 03 de Agosto 
+ de 2025\,  na Freguesia da Camacha\,  Santa Cruz\,  Madeira.O evento em ref
+ erência integra 3[..]\nhttps://www.portugalrunning.com/eventos/camacha-tra
+ il-2025/
+URL:https://www.portugalrunning.com/eventos/camacha-trail-2025/
+END:VEVENT
+END:VCALENDAR

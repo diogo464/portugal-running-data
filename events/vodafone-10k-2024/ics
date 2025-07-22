@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc418c19
+DTSTAMP:20250720T222924Z
+DTSTART:20240317
+DTEND:20240318
+LOCATION:Lisboa Lisboa
+SUMMARY:Vodafone 10k 2024
+DESCRIPTION:A Vodafone 10k 2024 realiza-se a 17 de Março\,  face as eleiç
+ ões terem sido marcadas para dia 10 de Março. É uma prova integrada na E
+ DP Meia Maratona de Lisboa partilhando com a mesma a partida na Ponte 25 de
+  Abril.\nhttps://www.portugalrunning.com/eventos/vodafone-10k-2024/
+URL:https://www.portugalrunning.com/eventos/vodafone-10k-2024/
+END:VEVENT
+END:VCALENDAR

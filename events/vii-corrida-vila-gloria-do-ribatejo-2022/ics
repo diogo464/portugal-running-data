@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf31797
+DTSTAMP:20250720T222919Z
+DTSTART:20220515
+DTEND:20220516
+LOCATION:Salvaterra de Magos\,  Santarém Salvaterra de Magos\,  Santarém
+SUMMARY:VII Corrida Vila Glória do Ribatejo 2022
+DESCRIPTION:VII Corrida Vila Glória do Ribatejo 2022\nhttps://www.portugal
+ running.com/eventos/vii-corrida-vila-gloria-do-ribatejo-2022/
+URL:https://www.portugalrunning.com/eventos/vii-corrida-vila-gloria-do-ribatejo-2022/
+END:VEVENT
+END:VCALENDAR

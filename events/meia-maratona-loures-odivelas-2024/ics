@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdbf3d30
+DTSTAMP:20250720T222531Z
+DTSTART:20240922
+DTEND:20240923
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:Meia Maratona Loures Odivelas 2024
+DESCRIPTION:Os Municípios de Loures e Odivelas organizam pela segunda vez 
+ a Meia Maratona – Loures-Odivelas-Loures\,  no dia 22 de setembro. Sob o 
+ slogan Juntos pelo Desporto\,  as duas autarquias unem-se uma vez mais para
+  reviver uma prova de atletismo que se realizava nos anos 80 e 90 e que lig
+ ava[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-loures-odive
+ las-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-loures-odivelas-2024/
+END:VEVENT
+END:VCALENDAR

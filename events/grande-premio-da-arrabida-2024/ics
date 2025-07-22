@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9a00325
+DTSTAMP:20250720T222426Z
+DTSTART:20240303
+DTEND:20240304
+LOCATION:Parque de Vanicelos\,  Setúbal Parque de Vanicelos\,  Setúbal
+SUMMARY:Grande Prémio da Arrábida 2024
+DESCRIPTION:O GRANDE PRÉMIO DA ARRÁBIDA&nbsp;é uma organização da Asso
+ ciação de Atletismo Lebres do Sado. Trata-se uma prova de carácter compe
+ titivo com a distância de&nbsp;12 500 m&nbsp;e com partida às&nbsp;10h00 
+ de Domingo\,  03&nbsp;de Março&nbsp;de 2024&nbsp;e destina-se a todos os a
+ tletas federados ou não\,  no âmbito da corrida para todos.\nhttps://www.
+ portugalrunning.com/eventos/grande-premio-da-arrabida-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-da-arrabida-2024/
+END:VEVENT
+END:VCALENDAR

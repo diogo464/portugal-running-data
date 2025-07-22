@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d40ab335
+DTSTAMP:20250720T222712Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Ferreira\,  Paços de Ferreira Ferreira\,  Paços de Ferreira
+SUMMARY:Trail e Caminhada Euronics 2022
+DESCRIPTION:O Trail e Caminhada Clube Trilheiros & Amigos está de regresso
+ . Ferreira\,  em Paços de Ferreira\,  acolhe assim mais uma grande manifes
+ tação do trail em Portugal\,  Trail & Caminhada Euronics 2022.\nhttps://w
+ ww.portugalrunning.com/eventos/trail-caminhada-euronics-2022/
+URL:https://www.portugalrunning.com/eventos/trail-caminhada-euronics-2022/
+END:VEVENT
+END:VCALENDAR

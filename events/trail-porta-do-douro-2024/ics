@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7f48a42
+DTSTAMP:20250720T222815Z
+DTSTART:20240616T172400Z
+DTEND:20240616T235900Z
+LOCATION:Mesão Frio\,  Vila Real Mesão Frio\,  Vila Real
+SUMMARY:Trail Porta do Douro 2024
+DESCRIPTION:O evento Trail Porta do Douro é um evento de Trail Running que
+  decorre no concelho de Mesão Frio e percorre várias Freguesias do Concel
+ lho e a Serra do Marão. O evento é constituído por três provas\,  sendo
+  consideradas duas competitivas e uma lúdica/ lazer.\nhttps://www.portugal
+ running.com/eventos/trail-porta-do-douro-2024/
+URL:https://www.portugalrunning.com/eventos/trail-porta-do-douro-2024/
+END:VEVENT
+END:VCALENDAR

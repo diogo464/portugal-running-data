@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cedf3e56
+DTSTAMP:20250720T222549Z
+DTSTART:20211030
+DTEND:20211031
+LOCATION:Torres Vedras Torres Vedras
+SUMMARY:Night Run Urban Trail 2021
+DESCRIPTION:A Câmara Municipal de Torres Vedras\,  em parceria com as asso
+ ciações&nbsp;Académico de Torres Vedras\,  Associação Cultural Recreat
+ iva Desportiva do Furadouro\,  Clube Académico de Penafirme\,  e Turres Tr
+ ail Clube\,  organiza o&nbsp;NIGHT RUN URBAN TRAIL&nbsp;no dia&nbsp;30 de o
+ utubro de 2021.&nbsp;Com partidas e chegadas na&nbsp;Praça Machado Santos\
+ ,  os percursos decorrem em contexto noturno[..]\nhttps://www.portugalrunni
+ ng.com/eventos/night-run-urban-trail-2021/
+URL:https://www.portugalrunning.com/eventos/night-run-urban-trail-2021/
+END:VEVENT
+END:VCALENDAR

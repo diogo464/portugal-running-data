@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da31967c
+DTSTAMP:20250720T222851Z
+DTSTART:20210919
+DTEND:20210920
+LOCATION:Santarém Santarém
+SUMMARY:Trilhos das Dores 2021
+DESCRIPTION:A VII Edição do Trilho das Dores é uma Co-organização entr
+ e a Equipa Trilho Perdido Eventos / Imporlux\,  Câmara Municipal de Santar
+ ém\,  Centro de Convívio Cultura e Desporto de Abitureiras e a empresa de
+  Cronomentragens e Organização de Eventos Desportivos “Trilho Perdido�
+ �\,  com o apoio da Junta de Freguesia de[..]\nhttps://www.portugalrunning.
+ com/eventos/trilhos-das-dores-2021/
+URL:https://www.portugalrunning.com/eventos/trilhos-das-dores-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcb4d222
+DTSTAMP:20250720T222931Z
+DTSTART:20230429
+DTEND:20230430
+LOCATION:Vouzela\,  Viseu Vouzela\,  Viseu
+SUMMARY:Zela Ultra Marathon 2023
+DESCRIPTION:O Zela Ultra Marathon é um evento competitivo de corrida de mo
+ ntanha organizado pela Spotcriativo Eventos com o apoio do Município de Vo
+ uzela\,  e diversas entidades locais\,  a realizar no dia 29 e 30 de Abril 
+ de 2023.\nhttps://www.portugalrunning.com/eventos/zela-ultra-marathon-2023/
+URL:https://www.portugalrunning.com/eventos/zela-ultra-marathon-2023/
+END:VEVENT
+END:VCALENDAR

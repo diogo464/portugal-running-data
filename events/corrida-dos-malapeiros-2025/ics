@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c58189f3
+DTSTAMP:20250720T222320Z
+DTSTART:20250510T151500Z
+DTEND:20250510T235900Z
+LOCATION:São João de Ver\,  Santa Maria da Feira São João de Ver\,  Santa Maria da Feira
+SUMMARY:Corrida Malapeira 2025
+DESCRIPTION:O 1 º Grande Prémio de Atletismo "CORRIDA MALAPEIRA"\,  a rea
+ lizar na Vila de São João de Ver\,  no dia 10 de Maio 2025 é composto po
+ r duas provas\,  uma corrida 10 km e uma caminhada de 5km.\nhttps://www.por
+ tugalrunning.com/eventos/corrida-dos-malapeiros-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-malapeiros-2025/
+END:VEVENT
+END:VCALENDAR

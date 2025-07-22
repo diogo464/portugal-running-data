@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb70070f
+DTSTAMP:20250720T222455Z
+DTSTART:20251227
+DTEND:20251228
+LOCATION:Lisboa Lisboa
+SUMMARY:Lidl São Silvestre Lisboa 2025
+DESCRIPTION:A 27 de dezembro de 2025\,  corremos ao ritmo da Capital. A Li
+ dl São Silvestre de Lisboa volta a dar um brilho ainda mais especial às r
+ uas de Lisboa.\nhttps://www.portugalrunning.com/eventos/lidl-sao-silvestre-
+ lisboa-2025/
+URL:https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa-2025/
+END:VEVENT
+END:VCALENDAR

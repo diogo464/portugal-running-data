@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf400904
+DTSTAMP:20250720T222140Z
+DTSTART:20220403
+DTEND:20220404
+LOCATION:Manteigas Manteigas\,  Guarda
+SUMMARY:12 Km Manteigas - Penhas Douradas 2022
+DESCRIPTION:12 Km Manteigas - Penhas Douradas 2022\nhttps://www.portugalrun
+ ning.com/eventos/12-km-manteigas-penhas-douradas-2022/
+URL:https://www.portugalrunning.com/eventos/12-km-manteigas-penhas-douradas-2022/
+END:VEVENT
+END:VCALENDAR

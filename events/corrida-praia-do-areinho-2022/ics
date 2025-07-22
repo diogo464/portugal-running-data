@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6a00166
+DTSTAMP:20250720T222338Z
+DTSTART:20221002
+DTEND:20221003
+LOCATION:Oliveira do Douro\,  Vila Nova de Gaia Oliveira do Douro\,  Vila Nova de Gaia
+SUMMARY:Corrida Praia do Areinho 2022
+DESCRIPTION:Realiza-se no dia 2 de outubro de 2022 pelas 10h00\,  a Corrida
+  Praia do Areinho 2022 começa e acaba junto à Praia do Areinho\,  o tempo
+  máximo de duração desta prova é de 2 horas.\nhttps://www.portugalrunni
+ ng.com/eventos/corrida-praia-do-areinho-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-praia-do-areinho-2022/
+END:VEVENT
+END:VCALENDAR

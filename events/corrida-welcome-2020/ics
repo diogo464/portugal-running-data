@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7918cdc
+DTSTAMP:20250720T222353Z
+DTSTART:20200126
+DTEND:20200127
+LOCATION:Vila Praia de Âncora Vila Praia de Âncora\,  Viana do Castelo
+SUMMARY:Corrida WELCOME 2020
+DESCRIPTION:A Corrida " Welcome 2020"\,  é uma prova de atletismo para atl
+ etas federados e não federados nascidos em 2001 e anteriores. Um percurso 
+ magnifico que vai percorrer as artérias e marginal de Vila Praia de Âncor
+ a com uma distancia aproximada de 10 km e uma caminhada sem fins competitiv
+ os à[..]\nhttps://www.portugalrunning.com/eventos/corrida-welcome-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-welcome-2020/
+END:VEVENT
+END:VCALENDAR

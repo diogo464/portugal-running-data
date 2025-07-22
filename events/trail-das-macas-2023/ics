@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50c59ff
+DTSTAMP:20250720T222728Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Alvaiázere\,  Leiria Alvaiázere\,  Leiria
+SUMMARY:Trail das Maçãs 2023
+DESCRIPTION:O Trail da Maçã – Maçãs de D. Maria 2023\,  sob organiz
+ ação da Junta de Freguesia de Maçãs de Dona Maria pretende afirmar-se c
+ omo uma prova de desporto e lazer\,  com carácter competitivo\,  na verten
+ te de corrida [Trail Running]\,  a realizar por percursos e trilhos envolve
+ ntes à junta de Freguesia de Maçãs[..]\nhttps://www.portugalrunning.com/
+ eventos/trail-das-macas-2023/
+URL:https://www.portugalrunning.com/eventos/trail-das-macas-2023/
+END:VEVENT
+END:VCALENDAR

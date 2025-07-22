@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc0186ef
+DTSTAMP:20250720T222920Z
+DTSTART:20241012
+DTEND:20241013
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Vila Urbana Trail 2024
+DESCRIPTION:O VILA URBANA TRAIL é organizado pela Associação Minho e Lim
+ a Trail com o apoio e colaboração da Câmara Municipal de Ponte de Lima\,
+   da Junta de Freguesia de Arca e Ponte de Lima\,  e com o apoio de várias
+  empresas locais. A 7.ª edição do VILA URBANA TRAIL irá[..]\nhttps://ww
+ w.portugalrunning.com/eventos/vila-urbana-trail-2024/
+URL:https://www.portugalrunning.com/eventos/vila-urbana-trail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d55615e6
+DTSTAMP:20250720T222733Z
+DTSTART:20251012T090600Z
+DTEND:20251012T235900Z
+LOCATION:São Pedro de Peneferrim\,  Sintra São Pedro de Peneferrin\,  Sintra
+SUMMARY:Trail do Bom Despacho 2025
+DESCRIPTION:A Associação Cultural e Recreativa - ATEPS\,  irá organizar\
+ ,  a 12 de outubro de 2025\,  a 2ªedição Trail do Bom Despacho - 2025 em
+  São Pedro de Peneferrin\,  concelho de Sintra. O Trail doBom Despacho 202
+ 5 é uma prova de TrailRunning\,  corrida pedestre em natureza\,  com três
+  provas\, Trail Longo (TL)[..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-do-bom-despacho-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-bom-despacho-2025/
+END:VEVENT
+END:VCALENDAR

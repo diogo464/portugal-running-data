@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dca48cfe
+DTSTAMP:20250720T222930Z
+DTSTART:20240526T114100Z
+DTEND:20240526T114100Z
+LOCATION:Fonte Filipe\,  Faro Fonte Filipe\,  Faro
+SUMMARY:X Caminhada Trail Transalgibre 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/x-caminhada-trail-tra
+ nsalgibre-2024/
+URL:https://www.portugalrunning.com/eventos/x-caminhada-trail-transalgibre-2024/
+END:VEVENT
+END:VCALENDAR

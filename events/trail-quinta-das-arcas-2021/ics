@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d81c2e89
+DTSTAMP:20250720T222817Z
+DTSTART:20211128
+DTEND:20211129
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Quinta das Arcas 2021
+DESCRIPTION:O Trail Quinta das Arcas 2021 este evento será realizado no co
+ ncelho de valongo\,  na freguesia de sobrado no dia 28 novembro 2021.\nhttp
+ s://www.portugalrunning.com/eventos/trail-quinta-das-arcas-2021/
+URL:https://www.portugalrunning.com/eventos/trail-quinta-das-arcas-2021/
+END:VEVENT
+END:VCALENDAR

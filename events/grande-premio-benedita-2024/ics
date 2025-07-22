@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9861e63
+DTSTAMP:20250720T222424Z
+DTSTART:20240525
+DTEND:20240526
+LOCATION:Benedita\,  Alcobaça Benedita\,  Alcobaça
+SUMMARY:Grande Prémio Benedita 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-benedit
+ a-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-benedita-2024/
+END:VEVENT
+END:VCALENDAR

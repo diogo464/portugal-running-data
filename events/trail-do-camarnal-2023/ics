@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d58db2d7
+DTSTAMP:20250720T222736Z
+DTSTART:20231217
+DTEND:20231218
+LOCATION:Camarnal\,  Alenquer Camarnal\,  Alenquer
+SUMMARY:Trail do Camarnal 2023
+DESCRIPTION:A Sociedade Recreativa do Camarnal é a associação organizado
+ ra do evento denominado Traildo Camarnal\,  que decorrerá no dia 17 de dez
+ embro de 2023 na aldeia do Camarnal e áreascircundantes\,  dentro do conce
+ lho de Alenquer.O Trail do Camarnal é um evento de Trail Running\,  que in
+ tegra 2 provas em formato circular\, com[..]\nhttps://www.portugalrunning.c
+ om/eventos/trail-do-camarnal-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-camarnal-2023/
+END:VEVENT
+END:VCALENDAR

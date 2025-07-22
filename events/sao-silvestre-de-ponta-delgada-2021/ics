@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17abe38
+DTSTAMP:20250720T222631Z
+DTSTART:20211218
+DTEND:20211219
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:São Silvestre de Ponta Delgada 2021
+DESCRIPTION:A Associação de Atletismo de S. Miguel vai realizar a São Si
+ lvestre de Ponta Delgada 2021 \,  uma das mais míticas provas de fim de an
+ o realizadas em Portugal. Inscreva-se e caso não seja dos Açores aceda a 
+ um dos pacotes de viagens entre o Continente e a ilha.\nhttps://www.portuga
+ lrunning.com/eventos/sao-silvestre-de-ponta-delgada-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-ponta-delgada-2021/
+END:VEVENT
+END:VCALENDAR

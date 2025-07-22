@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d93003fa
+DTSTAMP:20250720T222835Z
+DTSTART:20220911
+DTEND:20220912
+LOCATION:Aveiro Aveiro
+SUMMARY:Trail Terras Do Conde 2022
+DESCRIPTION:Trail Terras Do Conde 2022\nhttps://www.portugalrunning.com/eve
+ ntos/trail-terras-do-conde-2022/
+URL:https://www.portugalrunning.com/eventos/trail-terras-do-conde-2022/
+END:VEVENT
+END:VCALENDAR

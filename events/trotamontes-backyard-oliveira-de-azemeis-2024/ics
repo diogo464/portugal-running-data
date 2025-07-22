@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daff3dd4
+DTSTAMP:20250720T222903Z
+DTSTART:20240330
+DTEND:20240331
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:Trotamontes Backyard Oliveira de Azeméis 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trotamontes-backyard-
+ oliveira-de-azemeis-2024/
+URL:https://www.portugalrunning.com/eventos/trotamontes-backyard-oliveira-de-azemeis-2024/
+END:VEVENT
+END:VCALENDAR

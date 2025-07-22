@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c44187d5
+DTSTAMP:20250720T222300Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Corrida da Ponte 2023
+DESCRIPTION:Prova designada Corrida da Ponte (CP) sendo no ano 2023 a sua 1
+ .a Edição\,  na versão de 10 km\,  ondeacolherá o Campeonato Nacional d
+ e Estrada\nhttps://www.portugalrunning.com/eventos/corrida-da-ponte-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-ponte-2023/
+END:VEVENT
+END:VCALENDAR

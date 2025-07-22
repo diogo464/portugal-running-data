@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1379bf7
+DTSTAMP:20250720T222627Z
+DTSTART:20211219
+DTEND:20211220
+LOCATION:Braga Braga
+SUMMARY:São Silvestre de Braga 2021
+DESCRIPTION:A São Silvestre de Braga 2021 este ano realiza-se no dia 19 de
+  Dezembro!\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-braga-
+ 2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-braga-2021/
+END:VEVENT
+END:VCALENDAR

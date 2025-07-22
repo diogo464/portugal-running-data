@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb1db2af
+DTSTAMP:20250720T222449Z
+DTSTART:20200315
+DTEND:20200316
+LOCATION:Vila de Aguada de Cima\,  Águeda Vila de Aguada de Cima\,  Águeda
+SUMMARY:LAAC Trail 2020
+DESCRIPTION:O LAAC Trail será realizado na localidade de Aguada de Cima e 
+ será a segunda etapa do Troféu Trail Terras de Águeda. Venha até aos tr
+ ilhos e descubra a natureza do sul do concelho de Águeda.\nhttps://www.por
+ tugalrunning.com/eventos/laac-trail-2020/
+URL:https://www.portugalrunning.com/eventos/laac-trail-2020/
+END:VEVENT
+END:VCALENDAR

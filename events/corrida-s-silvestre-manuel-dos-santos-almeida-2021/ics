@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c73db391
+DTSTAMP:20250720T222347Z
+DTSTART:20211226
+DTEND:20211227
+LOCATION:São Pedro do Sul São Pedro do Sul\,  Viseu
+SUMMARY:Corrida S. Silvestre Manuel dos Santos Almeida 2021
+DESCRIPTION:A Câmara Municipal\,  em coorganização com a Termalistur e a
+  União de Freguesias de S. Pedro do Sul\,  Várzea e Baiões\,  vai levar 
+ a cabo a 8.ª edição da Corrida S. Silvestre Manuel dos Santos Almeida 20
+ 21. A prova decorrerá no domingo\,  dia 26 de dezembro\,  com início às 
+ 19:00[..]\nhttps://www.portugalrunning.com/eventos/corrida-s-silvestre-manu
+ el-dos-santos-almeida-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-s-silvestre-manuel-dos-santos-almeida-2021/
+END:VEVENT
+END:VCALENDAR

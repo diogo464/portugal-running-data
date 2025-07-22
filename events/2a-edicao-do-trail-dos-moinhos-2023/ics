@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfec3ff5
+DTSTAMP:20250720T222150Z
+DTSTART:20230225
+DTEND:20230226
+LOCATION:Alcáçovas\,  Évora Alcáçovas\,  Évora
+SUMMARY:2ª Edição Do Trail Dos Moinhos 2023
+DESCRIPTION:A 2ª edição do Trail dos moinhos é organizado por Marlène 
+ Hubert\,  Raquel Eustáquio e Vera Silva com o apoio do Sport Clube Alcaço
+ vense (SCA).Realiza-se no dia 25 de Fevereiro de 2023\,  em Alcáçovas e s
+ erá constituído por duas atividades: Trail longo 20kmTrail curto 10KmCami
+ nhada 10km\nhttps://www.portugalrunning.com/eventos/2a-edicao-do-trail-dos-
+ moinhos-2023/
+URL:https://www.portugalrunning.com/eventos/2a-edicao-do-trail-dos-moinhos-2023/
+END:VEVENT
+END:VCALENDAR

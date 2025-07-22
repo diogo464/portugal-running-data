@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8292c6f
+DTSTAMP:20250720T222402Z
+DTSTART:20200209
+DTEND:20200210
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Douro River Trail
+DESCRIPTION:Depois do sucesso da primeira edição do DOURO River Trail\,  
+ que esgotou com 1000 participantes\,  vamos para a segunda edição do even
+ to que vai percorrer percursos de beleza ímpar que convidam à contemplaç
+ ão\,  ao desafio\,  à aventura e à plena comunhão com a natureza\,  em 
+ que um dos planos de[..]\nhttps://www.portugalrunning.com/eventos/douro-riv
+ er-trail/
+URL:https://www.portugalrunning.com/eventos/douro-river-trail/
+END:VEVENT
+END:VCALENDAR

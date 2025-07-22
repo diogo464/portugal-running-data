@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6caaf3b6a
+DTSTAMP:20250720T222442Z
+DTSTART:20230212
+DTEND:20230213
+LOCATION:Alvaiázere\,  Leiria Alvaiázere\,  Leiria
+SUMMARY:II Rota do Olho do tordo 2023
+DESCRIPTION:O II Rota do Olho do tordo\,  sob organização da Câmara Muni
+ cipal de Alvaiázere\,  pretende afirmar-se como uma prova de desporto e la
+ zer\,  com carácter competitivo\,  na vertente de corrida [Trail Running]\
+ ,  a realizar por percursos e trilhos envolventes à nascente do Olho do To
+ rdo. A segunda edição realiza-se no[..]\nhttps://www.portugalrunning.com/
+ eventos/ii-rota-do-olho-do-tordo-2023/
+URL:https://www.portugalrunning.com/eventos/ii-rota-do-olho-do-tordo-2023/
+END:VEVENT
+END:VCALENDAR

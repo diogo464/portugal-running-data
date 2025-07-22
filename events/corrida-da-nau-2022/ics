@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c409320e
+DTSTAMP:20250720T222256Z
+DTSTART:20220925
+DTEND:20220926
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Corrida da Nau 2022
+DESCRIPTION:Associação desportiva os Rompe Solas e a EventSport organizam
+  a 27ª Edição Corrida da Nau que tem a finalidade de estimular a prátic
+ a desportiva como elemento da promoção da saúde e da qualidade de vida. 
+ Realiza-se no dia 25 de Setembro de 2022\,  com início às 10h00\,  a Corr
+ ida 10[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-nau-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-nau-2022/
+END:VEVENT
+END:VCALENDAR

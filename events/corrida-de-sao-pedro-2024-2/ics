@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d61284
+DTSTAMP:20250720T222309Z
+DTSTART:20240622
+DTEND:20240623
+LOCATION:Macedo de Cavaleiros\,  Bragança Macedo de Cavaleiros\,  Bragança
+SUMMARY:Corrida de São Pedro 2024
+DESCRIPTION:A “CORRIDA DE SÃO PEDRO” é uma prova de atletismo organiz
+ ada pelo Município de Macedo de Cavaleiros e pelo Clube Atlético de Maced
+ o de Cavaleiros em conjunto com a Associação de Atletismo de Bragança qu
+ e terá lugar no dia 22/06/2024 com início às 18:00 horas\,  com partida 
+ e chegada no[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-sao-pe
+ dro-2024-2/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-pedro-2024-2/
+END:VEVENT
+END:VCALENDAR

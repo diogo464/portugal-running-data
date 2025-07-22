@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dac19dbd
+DTSTAMP:20250720T222900Z
+DTSTART:20220508
+DTEND:20220509
+LOCATION:Luso\,  Aveiro Luso\,  Aveiro
+SUMMARY:Trilhos Luso Bussaco 2022
+DESCRIPTION:Os Trilhos Luso Bussaco 2022\,  este ano terá mais a distânci
+ a ULTRA de cerca de 45kms.\nhttps://www.portugalrunning.com/eventos/trilhos
+ -luso-bussaco-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-luso-bussaco-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9c193b2
+DTSTAMP:20250720T222428Z
+DTSTART:20220410
+DTEND:20220411
+LOCATION:Albergaria-a-Velha\,  Aveiro Albergaria-a-Velha\,  Aveiro
+SUMMARY:Grande Prémio de Atletismo de Albergaria 2022
+DESCRIPTION:Depois do cancelamento em 2020 e a não realização em 2021\, 
+  o Clube Desportivo de Campinho irá colocar de pé a sua 38ª edição do 
+ Grande Prémio de Atletismo\,  uma das mais clássicas e respeitadas provas
+  de estrada aveirense\,  o Grande Prémio de Atletismo de Albergaria 2022.\
+ nhttps://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-albe
+ rgaria-2022/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-albergaria-2022/
+END:VEVENT
+END:VCALENDAR

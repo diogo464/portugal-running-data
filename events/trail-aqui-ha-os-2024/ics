@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3c308a3
+DTSTAMP:20250720T222708Z
+DTSTART:20240511
+DTEND:20240512
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:Trail Aqui Há Os 2024
+DESCRIPTION:A associação Talentos Objetivos — Clube de Enduro e Recreio
+  irá promover\,  com o apoio da junta de freguesia de Quiaios e da Câmara
+  Municipal da Figueira da Foz\,  a quarta edição de Trail Running intitul
+ ada 4° TRAIL RUN AQUI HÁ-OS.Será realizada nos dias 11 e 12 de maio de[.
+ .]\nhttps://www.portugalrunning.com/eventos/trail-aqui-ha-os-2024/
+URL:https://www.portugalrunning.com/eventos/trail-aqui-ha-os-2024/
+END:VEVENT
+END:VCALENDAR

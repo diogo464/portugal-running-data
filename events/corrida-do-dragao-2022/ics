@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c524ab8c
+DTSTAMP:20250720T222314Z
+DTSTART:20220925
+DTEND:20220926
+LOCATION:Porto Porto
+SUMMARY:Corrida do Dragão 2022
+DESCRIPTION:Resultados Vem aí a terceira edição da Corrida do Dragão! D
+ epois de dois anos de ausência devido à pandemia\,  serão muitos os milh
+ ares os adeptos do nosso FC Porto que irão celebrar o verdadeiro espírito
+  azul e branco. Com Partida e Chegada no Estádio do Dragão\,  junta-te a 
+ esta festa[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-dragao-2
+ 022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-dragao-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c54f3aee
+DTSTAMP:20250720T222316Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Vinhais\,  Bragança Vinhais\,  Bragança
+SUMMARY:Corrida do Foral 2024
+DESCRIPTION:Terá lugar no dia 26 de maio de 2024\,  a 4ª edição da Corr
+ ida do Foral de Vinhais promovida pela Autarquia de Vinhais\,  conta o apoi
+ o técnico da Associação de Atletismo de Bragança.\nhttps://www.portugal
+ running.com/eventos/corrida-do-foral-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-foral-2024/
+END:VEVENT
+END:VCALENDAR

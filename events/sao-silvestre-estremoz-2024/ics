@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c61e5d
+DTSTAMP:20250720T222636Z
+DTSTART:20241221
+DTEND:20241222
+LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+SUMMARY:São Silvestre Estremoz 2024
+DESCRIPTION:No dia 21 de dezembro de 2024\,  irá realizar-se a São Silves
+ tre ESTREMOZ\,  percurso\,  pela cidade de Estremoz. A Corrida contará com
+  10km\,  corridos pelos pontos principais da cidade de Estremoz\,  e caminh
+ ada terá cerca de 5km.\nhttps://www.portugalrunning.com/eventos/sao-silves
+ tre-estremoz-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-estremoz-2024/
+END:VEVENT
+END:VCALENDAR

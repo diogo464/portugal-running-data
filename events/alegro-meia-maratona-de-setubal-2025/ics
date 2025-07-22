@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c15328ef
+DTSTAMP:20250720T222213Z
+DTSTART:20250426
+DTEND:20250427
+LOCATION:Setúbal Setúbal
+SUMMARY:Alegro Meia Maratona de Setúbal 2025
+DESCRIPTION:A 26 e 27 de abril de 2025\,  a Alegro Meia Maratona de Setúba
+ l propõe um fim-de-semana muito desportivo com a Meia Maratona 21\, 1 Km\,
+   a Corrida de 10 Km\,  a Corrida das Famílias 5 Km\,  a Corrida Miúdos A
+ legro e uma prova para os patudos\,  a Cãominhada.\nhttps://www.portugalru
+ nning.com/eventos/alegro-meia-maratona-de-setubal-2025/
+URL:https://www.portugalrunning.com/eventos/alegro-meia-maratona-de-setubal-2025/
+END:VEVENT
+END:VCALENDAR

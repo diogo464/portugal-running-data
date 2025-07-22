@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64dcdb2
+DTSTAMP:20250720T222332Z
+DTSTART:20241026
+DTEND:20241027
+LOCATION:Praça do Império (Belém)\,  Lisboa Praça do Império (Belém)\,  Lisboa
+SUMMARY:Corrida Nacional do Professor e da Eduçação 2024
+DESCRIPTION:A Federação Nacional dos Professores (FENPROF)\,  em parceria
+  com a Câmara Municipal de Lisboa e com a Associação de Atletismo de Lis
+ boa\,  leva a efeito a organização da 6.ª Corrida Nacional do Professor 
+ e da Educação\,  no dia 26 de Outubro de 2024. Este evento conta com um p
+ rograma abrangente[..]\nhttps://www.portugalrunning.com/eventos/corrida-nac
+ ional-do-professor-e-da-educacao-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-nacional-do-professor-e-da-educacao-2024/
+END:VEVENT
+END:VCALENDAR

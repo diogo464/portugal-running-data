@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1530dbe
+DTSTAMP:20250720T222213Z
+DTSTART:20220320
+DTEND:20220321
+LOCATION:Alcanena\,  Santarém Alcanena\,  Santarém
+SUMMARY:Alcanena Trail 2022
+DESCRIPTION:O Alcanena Trail 2022 – Serras de Aire e Candeeiros é organi
+ zada pela CâmaraMunicipal de Alcanena em parceria com a Casa do Povo de Al
+ canena\,  com o apoio das Juntasde Freguesia de Minde\,  da Serra de Santo 
+ António e de Moitas Venda\,  assim como de diversascoletividades do Concel
+ ho.\nhttps://www.portugalrunning.com/eventos/alcanena-trail-2022/
+URL:https://www.portugalrunning.com/eventos/alcanena-trail-2022/
+END:VEVENT
+END:VCALENDAR

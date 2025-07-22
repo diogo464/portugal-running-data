@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cba00046
+DTSTAMP:20250720T222458Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Praça do Comércio\,  Lisboa Praça do Comércio\,  Lisboa
+SUMMARY:Lisboa Trilhada Sunset 2022
+DESCRIPTION:Lisboa Trilhada regressa para um Sunset único a correr! Evento
+  gratuito. Opção 15 km's - para quem faz 10km's planos abaixo de 50 min. 
+ Opção 8 km's - restantes e para quem já faz 10km's em plano Ponto de enc
+ ontro : Praça do Comércio (centro da praça) Lisboa Trilhada Sunset[..]\n
+ https://www.portugalrunning.com/eventos/lisboa-trilhada-sunset-2022/
+URL:https://www.portugalrunning.com/eventos/lisboa-trilhada-sunset-2022/
+END:VEVENT
+END:VCALENDAR

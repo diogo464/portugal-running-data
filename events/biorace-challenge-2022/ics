@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c25311ea
+DTSTAMP:20250720T222229Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:Estarreja\,  Aveiro Estarreja\,  Aveiro
+SUMMARY:Biorace Challenge 2022
+DESCRIPTION:A Biorace Challenge 2022 é um desafio para todos em pleno cont
+ acto com a natureza nos trilhos do BioRia num cenário paradisíaco que con
+ vida à prática de exercício físico. Corrida com uma mistura de obstácu
+ los naturais e outros criados para animar e dificultar a aventura.\nhttps:/
+ /www.portugalrunning.com/eventos/biorace-challenge-2022/
+URL:https://www.portugalrunning.com/eventos/biorace-challenge-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0018b23
+DTSTAMP:20250720T222152Z
+DTSTART:20241020T081600Z
+DTEND:20241020T081600Z
+LOCATION:Valença\,  Viana do Castelo Valença\,  Viana do Castelo
+SUMMARY:2 Léguas da Contrasta 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/2-leguas-da-contrasta
+ -2024/
+URL:https://www.portugalrunning.com/eventos/2-leguas-da-contrasta-2024/
+END:VEVENT
+END:VCALENDAR

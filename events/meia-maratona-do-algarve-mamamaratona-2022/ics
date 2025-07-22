@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd6188b5
+DTSTAMP:20250720T222526Z
+DTSTART:20221016
+DTEND:20221017
+LOCATION:Passeio das Dunas\,  Vilamoura Passeio das Dunas\,  Vilamoura
+SUMMARY:Meia Maratona Do Algarve | Mamamaratona 2022
+DESCRIPTION:A Meia Maratona do Algarve/ Mamamaratona é uma organização d
+ a Câmara Municipal de Loulé e da Associação de Atletismo do Algarve\,  
+ em parceria com a Associação Oncológica do Algarve\,  Junta de Freguesia
+  do Quarteira\,  Vilamoura World e Inframoura\,  que ocorrerá no dia 16 de
+  Outubro de 2022. Horários:10.00hMeia Maratona do[..]\nhttps://www.portuga
+ lrunning.com/eventos/meia-maratona-do-algarve-mamamaratona-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-algarve-mamamaratona-2022/
+END:VEVENT
+END:VCALENDAR

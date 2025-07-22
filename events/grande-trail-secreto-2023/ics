@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca36338c
+DTSTAMP:20250720T222435Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Porto de Mós\,  Leiria Porto de Mós\,  Leiria
+SUMMARY:3º Grande Trail Secreto 2023
+DESCRIPTION:A equipa de Trail do Grupo Recreativo da Corredoura organiza no
+  dia 24 de Setembro de 2023\,  a 3ª edição do Grande Trail Secreto (G.T.
+ S.)\,  composto por 2 provas e 1 caminhada: G.T.S. CAMINHADA – caminhada 
+ com a distância de aproximadamente 12km;G.T.S. CURTO – prova com a dist�
+ �ncia de aproximadamente[..]\nhttps://www.portugalrunning.com/eventos/grand
+ e-trail-secreto-2023/
+URL:https://www.portugalrunning.com/eventos/grande-trail-secreto-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6e942f4
+DTSTAMP:20250720T222758Z
+DTSTART:20241201
+DTEND:20241202
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Trail Este Romanico 2024
+DESCRIPTION:A Câmara Municipal de Vila do Conde em parceria com a Junta da
+  União das Freguesias de Rio Mau e Arcos – Vila do Conde\,  são é as e
+ ntidades organizadoras do evento denominadoVIII Trail “Este Românico”\
+ ,  Arcos - Vila do Conde\,  que decorrerá no dia 01 de Dezembro de 2024[..
+ ]\nhttps://www.portugalrunning.com/eventos/trail-este-romanico-2024/
+URL:https://www.portugalrunning.com/eventos/trail-este-romanico-2024/
+END:VEVENT
+END:VCALENDAR

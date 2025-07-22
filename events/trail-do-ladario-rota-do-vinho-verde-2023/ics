@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d62a3b
+DTSTAMP:20250720T222741Z
+DTSTART:20230611
+DTEND:20230612
+LOCATION:Celorico de Basto\,  Braga Celorico de Basto\,  Braga
+SUMMARY:Trail do ladário / rota do vinho verde 2023
+DESCRIPTION:Trail do ladário / rota do vinho verde 2023\nhttps://www.portu
+ galrunning.com/eventos/trail-do-ladario-rota-do-vinho-verde-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-ladario-rota-do-vinho-verde-2023/
+END:VEVENT
+END:VCALENDAR

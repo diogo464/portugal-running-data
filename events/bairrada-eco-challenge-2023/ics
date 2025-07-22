@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c214a262
+DTSTAMP:20250720T222225Z
+DTSTART:20230909
+DTEND:20230910
+LOCATION:Oliveira do Bairro\,  Aveiro Oliveira do Bairro\,  Aveiro
+SUMMARY:Bairrada Eco Challenge 2023
+DESCRIPTION:O Bairrada Eco Challenge é um evento desportivo e de lazer que
+  irá percorrer as freguesias de Oliveira do Bairro\,  Oiã e Fermentelos. 
+ Consiste numa prova de trail composta com obstáculos alguns deles naturais
+ \,  aolongo de um trilho especificamente pensado para percorrer não só as
+  3 freguesias\,  mas também mostrar[..]\nhttps://www.portugalrunning.com/e
+ ventos/bairrada-eco-challenge-2023/
+URL:https://www.portugalrunning.com/eventos/bairrada-eco-challenge-2023/
+END:VEVENT
+END:VCALENDAR

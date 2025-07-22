@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9732d6f
+DTSTAMP:20250720T222423Z
+DTSTART:20250518
+DTEND:20250519
+LOCATION:Bajouca\,  Leiria Bajouca\,  Leiria
+SUMMARY:Grande Prémio Atletismo Bajouca 2025
+DESCRIPTION:Grande Prémio Atletismo Bajouca 2025\nhttps://www.portugalrunn
+ ing.com/eventos/grande-premio-atletismo-bajouca-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-bajouca-2025/
+END:VEVENT
+END:VCALENDAR

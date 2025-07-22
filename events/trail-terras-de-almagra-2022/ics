@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92db2b5
+DTSTAMP:20250720T222834Z
+DTSTART:20220605
+DTEND:20220606
+LOCATION:Almagreira\,  Pombal Almagreira\,  Pombal
+SUMMARY:Trail Terras de Almagra 2022
+DESCRIPTION:O Trail Terras de Almagra 2022 é um evento de Trail Running 
+ organizado pela Horizonte – Associação Juvenil\,  com o apoio do Munic�
+ �pio de Pombal\,  Junta de Freguesia de Almagreira e outras entidades\,  qu
+ e ocorre em Almagreira – concelho de Pombal\,  no dia 5 de Junho de 2022
+ \,  integrando duas provas competitivas e[..]\nhttps://www.portugalrunning.
+ com/eventos/trail-terras-de-almagra-2022/
+URL:https://www.portugalrunning.com/eventos/trail-terras-de-almagra-2022/
+END:VEVENT
+END:VCALENDAR

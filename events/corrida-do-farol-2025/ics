@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5331407
+DTSTAMP:20250720T222315Z
+DTSTART:20251019
+DTEND:20251020
+LOCATION:Praia da Barra\,  Ílhavo Praia da Barra\,  Ílhavo
+SUMMARY:Corrida do Farol 2025
+DESCRIPTION:A Corrida do Farol é uma uma co-organização do Município de
+  Ílhavo e a empresa NT Wellness Sports Solutions\,  prova mista onde a are
+ ia e alcatrão se unem.\nhttps://www.portugalrunning.com/eventos/corrida-do
+ -farol-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-do-farol-2025/
+END:VEVENT
+END:VCALENDAR

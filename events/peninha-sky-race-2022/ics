@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf76685a
+DTSTAMP:20250720T222559Z
+DTSTART:20220213
+DTEND:20220214
+LOCATION:Malveira da Serra Malveira da Serra\,  Cascais\,  Lisboa
+SUMMARY:Peninha Sky Race 2022
+DESCRIPTION:Em breve mais informações sobre a Peninha Sky Race 2022\,  re
+ serva a data .\nhttps://www.portugalrunning.com/eventos/peninha-sky-race-20
+ 22/
+URL:https://www.portugalrunning.com/eventos/peninha-sky-race-2022/
+END:VEVENT
+END:VCALENDAR

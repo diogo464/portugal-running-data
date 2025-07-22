@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17f3e89
+DTSTAMP:20250720T222631Z
+DTSTART:20221203
+DTEND:20221204
+LOCATION:Melides\,  Setúbal Melides\,  Setúbal
+SUMMARY:São Silvestre de Melides 2022
+DESCRIPTION:A Juventude Desportiva Melidense com o apoio da Junta de Fregue
+ sia de Melides\,  Câmara Municipal de Grândola e seus patrocinadores\,  i
+ rá organizar uma prova desportiva denominada por “SÃO SILVESTRE DE MELI
+ DES 2022”. Este convívio desportivo terá como principal objetivo incent
+ ivar a população à prática desportiva de forma saudável e regular.[..]
+ \nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-melides-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-melides-2022/
+END:VEVENT
+END:VCALENDAR

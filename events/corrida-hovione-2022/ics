@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c613248a
+DTSTAMP:20250720T222329Z
+DTSTART:20221002
+DTEND:20221003
+LOCATION:Loures Loures
+SUMMARY:Corrida Hovione 2022
+DESCRIPTION:A Hovione\,  com o apoio da Câmara Municipal de Loures vai o
+ rganizar a 5ª Edição da Corrida Hovione. A corrida vai decorrer em Loure
+ s\,  no próximo dia 2 de Outubro de 2022\,  com o objetivo de promover a p
+ rática de atividades desportivas e uma vida saudável\,  assim como\,  dar
+  a conhecer a[..]\nhttps://www.portugalrunning.com/eventos/corrida-hovione-
+ 2022/
+URL:https://www.portugalrunning.com/eventos/corrida-hovione-2022/
+END:VEVENT
+END:VCALENDAR

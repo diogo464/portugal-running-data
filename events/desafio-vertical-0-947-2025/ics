@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8291dc1
+DTSTAMP:20250720T222402Z
+DTSTART:20250412
+DTEND:20250413
+LOCATION:Ilha de São Miguel\,  Açores Ilha de São Miguel\,  Açores
+SUMMARY:Desafio Vertical 0/947 2025
+DESCRIPTION:O Desafio Vertical 0/947 é constituído por duas provas de car
+ ácter competitivo\,  nomeadamente\,  o DV Trail e o DV Trail Sprint\,  e u
+ ma prova de caráter não competitivo\,  o DV Caminhada. O evento funciona 
+ em formato de contra-relógio\,  dado que os atletas partem todos em separa
+ do\,  existindo um intervalo de[..]\nhttps://www.portugalrunning.com/evento
+ s/desafio-vertical-0-947-2025/
+URL:https://www.portugalrunning.com/eventos/desafio-vertical-0-947-2025/
+END:VEVENT
+END:VCALENDAR

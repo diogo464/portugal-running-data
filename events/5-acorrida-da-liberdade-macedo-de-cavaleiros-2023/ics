@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c08abb2f
+DTSTAMP:20250720T222200Z
+DTSTART:20230425
+DTEND:20230426
+LOCATION:Macedo de Cavaleiros\,  Bragança Macedo de Cavaleiros\,  Bragança
+SUMMARY:5.ªCorrida Da Liberdade - Macedo De Cavaleiros 2023
+DESCRIPTION:Terá lugar no dia 25 de Abril de 2023\,  a 45 edição da Corr
+ ida da Liberdade  promovida pela Autarquia de Macedo de Cavaleiros.\nhttps
+ ://www.portugalrunning.com/eventos/5-acorrida-da-liberdade-macedo-de-cavale
+ iros-2023/
+URL:https://www.portugalrunning.com/eventos/5-acorrida-da-liberdade-macedo-de-cavaleiros-2023/
+END:VEVENT
+END:VCALENDAR

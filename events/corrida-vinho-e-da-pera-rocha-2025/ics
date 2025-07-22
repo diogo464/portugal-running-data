@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7448ab9
+DTSTAMP:20250720T222348Z
+DTSTART:20250607
+DTEND:20250608
+LOCATION:Bombarral\,  Leiria Bombarral\,  Leiria
+SUMMARY:Corrida Vinho e da Pera Rocha 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-vinho-e-da-pe
+ ra-rocha-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-vinho-e-da-pera-rocha-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3c30769
+DTSTAMP:20250720T222708Z
+DTSTART:20221002
+DTEND:20221003
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Trail Barcelos Fire 2022
+DESCRIPTION:O 1.º TRAIL BVB - Trail Barcelos Fire é uma prova de corrida 
+ de montanha que percorre trilhos e caminhos ao longo das margens do Rio Cá
+ vado. Evento solidário que pretende fomentar a prática desportiva com um 
+ prova de corrida de montanha que percorre trilhos e caminhos ao longo das[.
+ .]\nhttps://www.portugalrunning.com/eventos/trail-barcelos-fire-2022/
+URL:https://www.portugalrunning.com/eventos/trail-barcelos-fire-2022/
+END:VEVENT
+END:VCALENDAR

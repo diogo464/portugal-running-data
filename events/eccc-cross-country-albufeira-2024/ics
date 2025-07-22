@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8292b3b
+DTSTAMP:20250720T222402Z
+DTSTART:20240225
+DTEND:20240226
+LOCATION:Albufeira\,  Faro Albufeira\,  Faro
+SUMMARY:ECCC Cross Country Albufeira 2024
+DESCRIPTION:A Taça dos Clubes Campeões Europeus de Corta-Mato volta a Por
+ tugal\,  este ano a Albufeira. Este é um dos eventos do atletismo internac
+ ional\,  integrado no calendário da Associação Europeia de Atletismo e o
+ nde Portugal domina as estatísticas das vitórias por equipas.\nhttps://ww
+ w.portugalrunning.com/eventos/eccc-cross-country-albufeira-2024/
+URL:https://www.portugalrunning.com/eventos/eccc-cross-country-albufeira-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c574a55a
+DTSTAMP:20250720T222319Z
+DTSTART:20231007
+DTEND:20231008
+LOCATION:Porto Porto
+SUMMARY:Corrida do Parque à Noite 2023
+DESCRIPTION:Corrida do Parque à Noite 2023\nhttps://www.portugalrunning.co
+ m/eventos/corrida-do-parque-a-noite-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-do-parque-a-noite-2023/
+END:VEVENT
+END:VCALENDAR

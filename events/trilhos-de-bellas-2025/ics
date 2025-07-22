@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da2c52e0
+DTSTAMP:20250720T222850Z
+DTSTART:20250330
+DTEND:20250331
+LOCATION:Belas\,  Sintra\,  Lisboa Belas\,  Sintra\,  Lisboa
+SUMMARY:Trilhos de Bellas 2025
+DESCRIPTION:Esta prova é organizada pela Associação Desportiva GoRunners
+  contando com apoio institucionalda União de Freguesias Queluz-Belas e da 
+ Trail4U.Será composta pelos seguintes percursos: - Trail Longo K20+; - Tra
+ il Curto K10+; - Caminhada.A prova VII Trilhos de Bellas faz parte da Merre
+ ll Trail Running Series\nhttps://www.portugalrunning.com/eventos/trilhos-de
+ -bellas-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-bellas-2025/
+END:VEVENT
+END:VCALENDAR

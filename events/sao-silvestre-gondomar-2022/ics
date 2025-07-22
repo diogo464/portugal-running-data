@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c7b579
+DTSTAMP:20250720T222636Z
+DTSTART:20221203
+DTEND:20221204
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:São Silvestre Gondomar 2022
+DESCRIPTION:No dia 17 de Dezembro de 2022\,  pelas 21h00\,  o Município de
+  Gondomar recebe a 6ª edição São Silvestre Gondomar. Com mais de 90 ano
+ s de história\,  esta temática foi inspirada numa corrida noturna onde os
+  atletas corriam pela cidade com tochas acesas nas mãos\,  é considerada 
+ uma das mais[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-gon
+ domar-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-gondomar-2022/
+END:VEVENT
+END:VCALENDAR

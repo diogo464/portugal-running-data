@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92db571
+DTSTAMP:20250720T222834Z
+DTSTART:20240901
+DTEND:20240902
+LOCATION:Castelo de Paiva\,  Aveiro Castelo de Paiva\,  Aveiro
+SUMMARY:Trail Terras do Conde 2024
+DESCRIPTION:O Trail Terras do Conde 2024 é organizado pelo Município de C
+ astelo de Paiva e pelo Centro SolNascente\,  e está integrado no calendár
+ io dos “Jogos Desportivos de Castelo de Paiva”. O evento terá as segui
+ ntes provas: Trail Longo (+- 28Km) Trail Curto (+- 18Km) Mini Trail (+- 10 
+ Km) Caminhada[..]\nhttps://www.portugalrunning.com/eventos/trail-terras-do-
+ conde-2024/
+URL:https://www.portugalrunning.com/eventos/trail-terras-do-conde-2024/
+END:VEVENT
+END:VCALENDAR

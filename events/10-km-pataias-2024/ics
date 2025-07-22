@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf448aa9
+DTSTAMP:20250720T222140Z
+DTSTART:20240519T182200Z
+DTEND:20240519T235900Z
+LOCATION:Pataias\,  Alcobaça Pataias\,  Alcobaça
+SUMMARY:10 km Pataias 2024
+DESCRIPTION:A União de Freguesias Pataias e Martingança\,  com o apoio da
+  Organização 10Km Pataias realiza no próximo dia 19 de Maio de 2024 pela
+ s 10:00 uma corrida de estrada denominada 10Km de Pataias.\nhttps://www.por
+ tugalrunning.com/eventos/10-km-pataias-2024/
+URL:https://www.portugalrunning.com/eventos/10-km-pataias-2024/
+END:VEVENT
+END:VCALENDAR

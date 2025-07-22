@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dadaa8ff
+DTSTAMP:20250720T222901Z
+DTSTART:20240601
+DTEND:20240602
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:Trilhos Moinhos da Gândara 2024
+DESCRIPTION:Realizar-se-á no dia 01 de junho de 2024\,  pelas 17h00\,  org
+ anizada pela Junta de Freguesia de Moinhos da Gândara\,  com o apoio das v
+ árias associações locais e de diversas entidades e empresas\,  sendo os 
+ seus percursos traçados maioritariamente na área geográfica da referida 
+ freguesia. Os Trilhos Moinhos da Gândara -[..]\nhttps://www.portugalrunnin
+ g.com/eventos/trilhos-moinhos-da-gandara-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-moinhos-da-gandara-2024/
+END:VEVENT
+END:VCALENDAR

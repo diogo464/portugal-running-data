@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d96dbe1a
+DTSTAMP:20250720T222838Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+SUMMARY:Trail Vila de S. Torcato 2022
+DESCRIPTION:3ª Edição do Trail Vila de S. Torcato. Uma prova que percorr
+ e alguns dos mais belos trilhos do município de Guimarães.\nhttps://www.p
+ ortugalrunning.com/eventos/trail-vila-de-s-torcato-2022/
+URL:https://www.portugalrunning.com/eventos/trail-vila-de-s-torcato-2022/
+END:VEVENT
+END:VCALENDAR

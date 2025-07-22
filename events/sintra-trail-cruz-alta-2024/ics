@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc3f4d
+DTSTAMP:20250720T222651Z
+DTSTART:20240407
+DTEND:20240408
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Sintra Trail - Cruz Alta 2024
+DESCRIPTION:A Câmara Municipal de Sintra organiza no dia 7 de Abril de 202
+ 4\,  pelas 08h00\,  o SINTRA TRAIL Cruz Alta. O SINTRA TRAIL - Cruz Alta é
+  composta por uma prova de corrida e uma caminhada: Trail de 20 km\,  com c
+ aracter competitivo; Trail de 10 Km\,  com caracter competitivo;[..]\nhttps
+ ://www.portugalrunning.com/eventos/sintra-trail-cruz-alta-2024/
+URL:https://www.portugalrunning.com/eventos/sintra-trail-cruz-alta-2024/
+END:VEVENT
+END:VCALENDAR

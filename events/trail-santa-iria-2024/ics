@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8aaa9e5
+DTSTAMP:20250720T222826Z
+DTSTART:20240204
+DTEND:20240205
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail Santa Iria 2024
+DESCRIPTION:A Associação Branzelo Ativo organiza a 11a edição do Trail 
+ Santa Iria\,  na aldeia de Branzelo\, independentemente das condições cli
+ matéricas do dia\,  desde que a organização e as autoridadesentendam que
+  estas não ofereçam riscos aos participantes. Prova Distância Desnível 
+ positivo TRAIL LONGO 23 Km 1100 TRAIL CURTO 13 km 600 CAMINHADA[..]\nhttps:
+ //www.portugalrunning.com/eventos/trail-santa-iria-2024/
+URL:https://www.portugalrunning.com/eventos/trail-santa-iria-2024/
+END:VEVENT
+END:VCALENDAR

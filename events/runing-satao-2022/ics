@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d054a3fb
+DTSTAMP:20250720T222613Z
+DTSTART:20220821
+DTEND:20220822
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:Running Satão 2022
+DESCRIPTION:O V Running Satão 2022 das Festas de São Bernardo é uma corr
+ ida e umacaminhada de estrada\,  organizado pela Câmara Municipal de Sát�
+ �o\,  que secaracteriza por um percurso de dificuldade moderada\,  realizad
+ o na Vila deSátão e arredores\,  atraindo atletas regulares\,  que procur
+ am a sua superação ecorredores moderados e iniciantes\,  mas[..]\nhttps:/
+ /www.portugalrunning.com/eventos/runing-satao-2022/
+URL:https://www.portugalrunning.com/eventos/runing-satao-2022/
+END:VEVENT
+END:VCALENDAR

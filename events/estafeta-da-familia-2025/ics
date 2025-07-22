@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8700b6b
+DTSTAMP:20250720T222407Z
+DTSTART:20250223T235300Z
+DTEND:20250223T235900Z
+LOCATION:Parque Verde do Bonito\,  Entroncamento Parque Verde do Bonito\,  Entroncamento
+SUMMARY:Estafeta da Família 2025
+DESCRIPTION:A prova “Estafeta da Família” é organizada pelo CLAC e tr
+ ata-se de um evento desportivo de caráter não competitivo\,  que visa inc
+ entivar a prática de atividade física e promover a união familiar atrav�
+ �s do desporto. A prova realiza-se no Parque do Bonito e consiste numa volt
+ a completa ao parque —[..]\nhttps://www.portugalrunning.com/eventos/estaf
+ eta-da-familia-2025/
+URL:https://www.portugalrunning.com/eventos/estafeta-da-familia-2025/
+END:VEVENT
+END:VCALENDAR

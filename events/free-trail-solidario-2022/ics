@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f492a1
+DTSTAMP:20250720T222415Z
+DTSTART:20221218
+DTEND:20221219
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Free Trail Solidário 2022
+DESCRIPTION:A organização informa que o Free Trail Solidário 2022\,  a r
+ ealizar no dia 18 de dezembro de 2022\,  trata-se de um trail\,  kids trail
+  e caminhada SEM cariz competitivo. O mesmo realizar-se-á na Póvoa de Var
+ zim\,  com partida e chegada na freguesia de Laúndos. O percurso estará c
+ ompletamente sinalizado com[..]\nhttps://www.portugalrunning.com/eventos/fr
+ ee-trail-solidario-2022/
+URL:https://www.portugalrunning.com/eventos/free-trail-solidario-2022/
+END:VEVENT
+END:VCALENDAR

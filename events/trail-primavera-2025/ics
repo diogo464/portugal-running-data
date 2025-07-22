@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d81f3906
+DTSTAMP:20250720T222817Z
+DTSTART:20250323
+DTEND:20250324
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:Trail Primavera 2025
+DESCRIPTION:O 6º TRAIL DA PRIMAVERA é um evento de natureza desportiva\, 
+  onde o valor das refeições reverterá para a Associação de Bem Estar d
+ as Ademas. Este evento terá três distâncias Trail Curto\,  Trail Longo e
+  Caminhada e a prova fará parte dos circuitos ATRP.\nhttps://www.portugalr
+ unning.com/eventos/trail-primavera-2025/
+URL:https://www.portugalrunning.com/eventos/trail-primavera-2025/
+END:VEVENT
+END:VCALENDAR

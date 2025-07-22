@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d61ce2
+DTSTAMP:20250720T222309Z
+DTSTART:20250629
+DTEND:20250630
+LOCATION:Rio Meão\,  Santa Maria da Feira Rio Meão\,  Santa Maria da Feira
+SUMMARY:Corrida de São Tiago 2025
+DESCRIPTION:A Junta de Freguesia de Rio Meão\,  realizará mais uma ediç�
+ �o da Corrida de São Tiago\,  corrida destinada a atletas federados e não
+  federados aberta a todas as idades\,  sendo uma competição regida pelas 
+ diretrizes da FPA e da World Athletics.\nhttps://www.portugalrunning.com/ev
+ entos/corrida-de-sao-tiago-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-tiago-2025/
+END:VEVENT
+END:VCALENDAR

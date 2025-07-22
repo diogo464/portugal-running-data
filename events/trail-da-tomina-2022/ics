@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50c2ffe
+DTSTAMP:20250720T222728Z
+DTSTART:20220605
+DTEND:20220606
+LOCATION:Moura\,  Beja Moura\,  Beja
+SUMMARY:Trail da Tomina 2022
+DESCRIPTION:Trail da Tomina 2022\nhttps://www.portugalrunning.com/eventos/t
+ rail-da-tomina-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-tomina-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d59304b0
+DTSTAMP:20250720T222737Z
+DTSTART:20240707T081100Z
+DTEND:20240707T081100Z
+LOCATION:Rapoula do Côa\,  Sabugal Rapoula do Côa\,  Sabugal
+SUMMARY:Trail do Côa 2024
+DESCRIPTION:A Junta de Freguesia de Rapoula do Côa\,  com o apoio a Associ
+ ação Arcôa e Município do Sabugal\,  vai realizar no dia 07 de julho de
+  2024\,  a primeira edição de um evento desportivo "Trail do Côa". O Tra
+ il do Côa é uma prova de trail running que vai decorrer[..]\nhttps://www.
+ portugalrunning.com/eventos/trail-do-coa-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-coa-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfb317a5
+DTSTAMP:20250720T222147Z
+DTSTART:20241027
+DTEND:20241028
+LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+SUMMARY:20 Kms de Almeirim 2024
+DESCRIPTION:Venha participar na 37ª edição 20 Kms de Almeirim\,  uma das
+  clássicas provas de estrada em Portugal\,  que começa e termina na terra
+  da Sopa da Pedra e faz a passagem do Rio Tejo pela ponte D. Luís.\nhttps:
+ //www.portugalrunning.com/eventos/20-kms-de-almeirim-2024/
+URL:https://www.portugalrunning.com/eventos/20-kms-de-almeirim-2024/
+END:VEVENT
+END:VCALENDAR

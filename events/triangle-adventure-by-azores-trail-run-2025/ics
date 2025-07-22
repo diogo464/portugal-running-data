@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9aaadff
+DTSTAMP:20250720T222842Z
+DTSTART:20251024
+DTEND:20251025
+LOCATION:Açores Açores
+SUMMARY:Triangle Adventure by Azores Trail Run 2025
+DESCRIPTION:O Azores Triangle Adventure é uma prova de Trail Running\,  co
+ mposta por 3 etapas quedecorrem na ilha do Faial\,  no arquipélago dos Aç
+ ores.Azores Triangle Adventure 3 stages (Etapas): From Vineyards to The Mou
+ ntain (Ilha do Pico) Fajãs Trail (Ilha de São Jorge ) Volcanoes Trail (Il
+ ha do Faial)\nhttps://www.portugalrunning.com/eventos/triangle-adventure-by
+ -azores-trail-run-2025/
+URL:https://www.portugalrunning.com/eventos/triangle-adventure-by-azores-trail-run-2025/
+END:VEVENT
+END:VCALENDAR

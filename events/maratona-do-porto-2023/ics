@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc402b57
+DTSTAMP:20250720T222508Z
+DTSTART:20231105
+DTEND:20231106
+LOCATION:Porto Porto
+SUMMARY:Maratona do Porto 2023
+DESCRIPTION:A EDP Maratona do Porto com os seus 18 anos de vida\,  inicia a
+  sua campanha de divulgação\,  com vista à 19ª. Edição\,  em 2023 a 5
+  de novembro\,  com início às 8h00\,  e tal como no passado\,  pretendemo
+ s fazer desta EDP Maratona do Porto\,  um evento de referência nacional[..
+ ]\nhttps://www.portugalrunning.com/eventos/maratona-do-porto-2023/
+URL:https://www.portugalrunning.com/eventos/maratona-do-porto-2023/
+END:VEVENT
+END:VCALENDAR

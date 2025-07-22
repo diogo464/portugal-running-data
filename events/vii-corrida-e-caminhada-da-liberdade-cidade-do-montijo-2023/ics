@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbe6287b
+DTSTAMP:20250720T222918Z
+DTSTART:20230424
+DTEND:20230425
+LOCATION:Montijo Montijo
+SUMMARY:Vii Corrida E Caminhada Da Liberdade Cidade Do Montijo 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/vii-corrida-e-caminha
+ da-da-liberdade-cidade-do-montijo-2023/
+URL:https://www.portugalrunning.com/eventos/vii-corrida-e-caminhada-da-liberdade-cidade-do-montijo-2023/
+END:VEVENT
+END:VCALENDAR

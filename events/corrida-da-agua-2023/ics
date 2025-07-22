@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b4998f
+DTSTAMP:20250720T222251Z
+DTSTART:20231126
+DTEND:20231127
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Corrida da Água 2023
+DESCRIPTION:A Xistarca e a EPAL unem esforços para trazer&nbsp;até ti a&n
+ bsp;11ª Corrida da Água\,  no dia 26 de novembro de 2023\,  às 9h30.&nbs
+ p; Este evento imperdível inclui uma experiência única de corrida e cami
+ nhada pelo majestoso Aqueduto das Águas Livres\,  um Monumento Nacional de
+ sde 1910 e um feito notável da[..]\nhttps://www.portugalrunning.com/evento
+ s/corrida-da-agua-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-agua-2023/
+END:VEVENT
+END:VCALENDAR

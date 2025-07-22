@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d40633fc
+DTSTAMP:20250720T222712Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Soure\,  Coimbra Soure\,  Coimbra
+SUMMARY:Trail Caminhos do Diabo 2024
+DESCRIPTION:O Trail Caminhos do Diabo é uma prova que percorre trilhos e c
+ aminhos locais rurais e florestais na Freguesia de Samuel\,  Concelho de So
+ ure. O Trail Caminhos do Diabo está dividido em três provas competitivas:
+ Trail Longo de aproximadamente 25 kmTrail Curto de aproximadamente 17 kmMin
+ i-Trail de aproximadamente 12Km É composto[..]\nhttps://www.portugalrunnin
+ g.com/eventos/trail-caminhos-do-diabo-2024/
+URL:https://www.portugalrunning.com/eventos/trail-caminhos-do-diabo-2024/
+END:VEVENT
+END:VCALENDAR

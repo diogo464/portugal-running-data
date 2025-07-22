@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9f4a9d6
+DTSTAMP:20250720T222431Z
+DTSTART:20250330
+DTEND:20250331
+LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+SUMMARY:Grande Prémio do C.S. Armada 2025
+DESCRIPTION:A&nbsp;30 de março de 2025&nbsp;vai realizar-se o&nbsp;7º Gra
+ nde Prémio de Atletismo do C.S. Armada\,  prova inserida no&nbsp;Troféu d
+ e Almada Atletismo ‘Mário Pinto Claro’ 2024/2025. A organização é d
+ a responsabilidade da da&nbsp;Clube do Sargento da Armada&nbsp;com o apoio 
+ da&nbsp;Câmara Municipal de Almada.\nhttps://www.portugalrunning.com/event
+ os/grande-premio-do-c-s-armada-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-do-c-s-armada-2025/
+END:VEVENT
+END:VCALENDAR

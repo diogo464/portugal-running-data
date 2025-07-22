@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3748bf5
+DTSTAMP:20250720T222703Z
+DTSTART:20221218
+DTEND:20221219
+LOCATION:Vila Nova de Paiva\,  Viseu Vila Nova de Paiva\,  Viseu
+SUMMARY:Todos por Todos 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/todos-por-todos-2023/
+URL:https://www.portugalrunning.com/eventos/todos-por-todos-2023/
+END:VEVENT
+END:VCALENDAR

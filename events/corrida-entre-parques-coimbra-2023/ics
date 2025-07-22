@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c604a3e8
+DTSTAMP:20250720T222328Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida Entre Parques Coimbra 2023
+DESCRIPTION:Entre Parques Coimbra é uma corrida de atletismo pelos princip
+ ais jardins da cidade de Coimbra. Numa co-organização da Câmara Municipa
+ l de Coimbra\,  União das Freguesias de Coimbra e da ADR4 Estações. Um p
+ ercurso cheio de história e magia em cada recanto por onde passas. Jardim 
+ da Sereia Penedo da Saudade\, [..]\nhttps://www.portugalrunning.com/eventos
+ /corrida-entre-parques-coimbra-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-entre-parques-coimbra-2023/
+END:VEVENT
+END:VCALENDAR

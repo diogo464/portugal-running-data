@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcaaa7e3
+DTSTAMP:20250720T222930Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Xiii Grande Prémio De Atletismo Clube Do Pessoal Das Águas De Gaia 2023
+DESCRIPTION:O XIII Grande Prémio de Atletismo realiza-se no dia 16 de abri
+ l de 2023\,  pelas 10H00\,  com partida e chegada na sede de Águas de Gaia
+ \,  sita na Rua 14 de Outubro\,  343 em Vila Nova de Gaia\,  e é organizad
+ a pelo Clube do Pessoal Águas de Gaia\nhttps://www.portugalrunning.com/eve
+ ntos/xiii-grande-premio-de-atletismo-clube-do-pessoal-das-aguas-de-gaia-202
+ 3/
+URL:https://www.portugalrunning.com/eventos/xiii-grande-premio-de-atletismo-clube-do-pessoal-das-aguas-de-gaia-2023/
+END:VEVENT
+END:VCALENDAR

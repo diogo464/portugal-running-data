@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca8ab255
+DTSTAMP:20250720T222440Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+SUMMARY:III Trail na Rota da Perdiz 2022
+DESCRIPTION:O “III Trail na Rota da Perdiz” é uma prova de TrailRunnin
+ g organizada pela Associação Inter-Vivos em colaboração com a Câmara M
+ unicipal de Alcoutim\,  que será realizada no dia 13 de novembro de 2022\,
+   com início as 09:30 horas com o complemento da opção da caminhada. Os 
+ percursos têm as[..]\nhttps://www.portugalrunning.com/eventos/iii-trail-na
+ -rota-da-perdiz-2022/
+URL:https://www.portugalrunning.com/eventos/iii-trail-na-rota-da-perdiz-2022/
+END:VEVENT
+END:VCALENDAR

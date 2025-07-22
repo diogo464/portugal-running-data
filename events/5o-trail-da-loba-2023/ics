@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0b7aba5
+DTSTAMP:20250720T222203Z
+DTSTART:20230115
+DTEND:20230116
+LOCATION:Rio de Loba\,  Viseu Rio de Loba\,  Viseu
+SUMMARY:5º Trail da Loba 2023
+DESCRIPTION:O 5º Trail da Loba 2022 será realizado no dia 15/01/2023 em R
+ io de Loba – Viseu. Este evento é organizado pela Junta de Freguesia de 
+ Rio de Loba\,  em parceria com o Centro Social Cultural Desportivo e Recrea
+ tivo Leões da Beira e tem como objetivo promover a prática da[..]\nhttps:
+ //www.portugalrunning.com/eventos/5o-trail-da-loba-2023/
+URL:https://www.portugalrunning.com/eventos/5o-trail-da-loba-2023/
+END:VEVENT
+END:VCALENDAR

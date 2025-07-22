@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8ef409d
+DTSTAMP:20250720T222414Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Figueiró dos Vinhos\,  Leiria Figueiró dos Vinhos\,  Leiria
+SUMMARY:Figueiró Trail 2022
+DESCRIPTION:Figueiró Trail a 30 de Outubro.\nhttps://www.portugalrunning.c
+ om/eventos/figueiro-trail-2022/
+URL:https://www.portugalrunning.com/eventos/figueiro-trail-2022/
+END:VEVENT
+END:VCALENDAR

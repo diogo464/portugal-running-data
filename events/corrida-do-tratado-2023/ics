@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5cacf2c
+DTSTAMP:20250720T222324Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Alcáçovas\,  Évora Alcáçovas\,  Évora
+SUMMARY:Corrida do Tratado 2023
+DESCRIPTION:ONDE?Alcáçovas\,  Évora QUANDO?Domingo\,  10 de Setembro de 
+ 2023 às 09:00 QUANTO?12km€ 10.00 18km€ 12.00\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-do-tratado-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-do-tratado-2023/
+END:VEVENT
+END:VCALENDAR

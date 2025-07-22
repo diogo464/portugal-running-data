@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc37b808
+DTSTAMP:20250720T222923Z
+DTSTART:20230326
+DTEND:20230327
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:VI Trail Do Pote Gondar E Orbacém 2023
+DESCRIPTION:O VI Trail do Pote de Gondar e Orbacém é um evento de Trail R
+ unning que decorre nas Serras de Gondar e Orbacém\,  e na Serra D´Arga\, 
+  percorrendo caminhos e trilhos nas freguesias do concelho de Caminha.\nhtt
+ ps://www.portugalrunning.com/eventos/vi-trail-do-pote-gondar-e-orbacem-2023
+ /
+URL:https://www.portugalrunning.com/eventos/vi-trail-do-pote-gondar-e-orbacem-2023/
+END:VEVENT
+END:VCALENDAR

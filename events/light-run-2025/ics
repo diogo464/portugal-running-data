@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb6dbf13
+DTSTAMP:20250720T222454Z
+DTSTART:20250517T153900Z
+DTEND:20250517T235900Z
+LOCATION:Reguengos de Monsaraz\,  Évora Reguengos de Monsaraz\,  Évora
+SUMMARY:Light Run 2025
+DESCRIPTION:O evento “Light Run” é uma caminhada/corrida\,  organizada
+  pela Comissão de Proteção de Crianças e Jovens de Reguengos de Monsara
+ z e pelo Município de Reguengos de Monsaraz. Este evento visa assinalar e 
+ comemorar o Dia Internacional da Família.\nhttps://www.portugalrunning.com
+ /eventos/light-run-2025/
+URL:https://www.portugalrunning.com/eventos/light-run-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50dd80b
+DTSTAMP:20250720T222728Z
+DTSTART:20250914
+DTEND:20250915
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:Trail da Trofa 2025
+DESCRIPTION:Trail Longo +-37kmTrail Curto +-17kmMini-Trail/Caminhada +-10km
+ Trail Kids 500/1000/1500/5000M\nhttps://www.portugalrunning.com/eventos/tra
+ il-da-trofa-2025/
+URL:https://www.portugalrunning.com/eventos/trail-da-trofa-2025/
+END:VEVENT
+END:VCALENDAR

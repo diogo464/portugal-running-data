@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dc15a
+DTSTAMP:20250720T222544Z
+DTSTART:20250705T222300Z
+DTEND:20250705T222300Z
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:Milha da Cerveja 2025
+DESCRIPTION:A Associação Moinho de Vermoim vai realizar no dia 5 de julho
+  a V Milha da Cerveja. São 1609 metros\,  dando 4 voltas ao Parque dos Lou
+ reiros\,  com o prazer de beber uma cerveja no início de cada volta. A pro
+ va pode ser realizada em modo individual ou em estafeta[..]\nhttps://www.po
+ rtugalrunning.com/eventos/milha-da-cerveja-2025/
+URL:https://www.portugalrunning.com/eventos/milha-da-cerveja-2025/
+END:VEVENT
+END:VCALENDAR

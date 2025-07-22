@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2ff39b6
+DTSTAMP:20250720T222655Z
+DTSTART:20230917
+DTEND:20230918
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Ste - Sintra Trail X´Treme 2023
+DESCRIPTION:O evento STE - SINTRA TRAIL X’TREME\,  contextualiza-se na vo
+ ntade de dar a possibilidade a todosos atletas de poder usufruir dos trilho
+ s fantásticos da Serra de Sintra. Foi aperfeiçoado e adaptado para efeito
+ s deste evento e inclui passagens por propriedades privadas de inegável be
+ leza\,  que de outra forma não seriam[..]\nhttps://www.portugalrunning.com
+ /eventos/ste-montepio-sintra-trail-xtreme-2023/
+URL:https://www.portugalrunning.com/eventos/ste-montepio-sintra-trail-xtreme-2023/
+END:VEVENT
+END:VCALENDAR

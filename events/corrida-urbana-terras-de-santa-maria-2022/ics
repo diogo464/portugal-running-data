@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7432ab3
+DTSTAMP:20250720T222348Z
+DTSTART:20220709
+DTEND:20220710
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Corrida Urbana Terras de Santa Maria 2022
+DESCRIPTION:ACorrida Urbana Terras de Santa Maria 2022 é um Trail noturno 
+ e citadino que alia o desporto ao ar livre com uma forte componente cultura
+ l. O Percurso permitirá aos participantes passar pelas ruas e avenidas da 
+ cidade\,  locais de beleza extrema como o Castelo de Santa Maria da Feira\,
+   Convento[..]\nhttps://www.portugalrunning.com/eventos/corrida-urbana-terr
+ as-de-santa-maria-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-urbana-terras-de-santa-maria-2022/
+END:VEVENT
+END:VCALENDAR

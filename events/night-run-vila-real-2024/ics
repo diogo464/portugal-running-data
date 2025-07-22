@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf1ab03e
+DTSTAMP:20250720T222553Z
+DTSTART:20240615
+DTEND:20240616
+LOCATION:Vila Real Vila Real
+SUMMARY:Night Run Vila Real 2024
+DESCRIPTION:Realiza-se no dia 15 de Junho de 2024\,  pelas 22h00\,  com Par
+ tida e Chegada na Avª Carvalho Araújo a 9ª Night Run Cidadede Vila Real\
+ ,  com a distância de 10 km's.\nhttps://www.portugalrunning.com/eventos/ni
+ ght-run-vila-real-2024/
+URL:https://www.portugalrunning.com/eventos/night-run-vila-real-2024/
+END:VEVENT
+END:VCALENDAR

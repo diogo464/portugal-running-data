@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c527a4f2
+DTSTAMP:20250720T222314Z
+DTSTART:20220326
+DTEND:20220327
+LOCATION:Óbidos Óbidos
+SUMMARY:Corrida Do Chocolate 2022
+DESCRIPTION:A Câmara Municipal de Óbidos (CMO) organiza em parceria com a
+  Empresa Municipal “Óbidos Criativa” (OC)\,  o Clube de Atletismo de �
+ �bidos (CAOB) e a Ganhardestak\,  no dia 26 de março de 2022\,  uma compet
+ ição denominada "III Corrida Do Chocolate 2022"\,  integrando ainda a “
+ II CAMINHADA DO CHOCOLATE”\,  ambas com[..]\nhttps://www.portugalrunning.
+ com/eventos/corrida-do-chocolate-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-chocolate-2022/
+END:VEVENT
+END:VCALENDAR

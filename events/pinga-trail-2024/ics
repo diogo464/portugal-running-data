@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc0057e
+DTSTAMP:20250720T222604Z
+DTSTART:20241208
+DTEND:20241209
+LOCATION:Arruda dos Vinhos\,  Lisboa Arruda dos Vinhos\,  Lisboa
+SUMMARY:Pinga Trail 2024
+DESCRIPTION:A Associação K4ninos Runners com o apoio da Câmara Municipal
+  de Arruda dos Vinhos\,  vai realizar no dia 8 de Dezembro a 7ª Edição d
+ o Pinga A 7ª edição do Pinga Trail\,  va incluir três percursos: Caminh
+ ada (não competitivo) - Aproximadamente 11 km que poderás fazer a correr 
+ ou a[..]\nhttps://www.portugalrunning.com/eventos/pinga-trail-2024/
+URL:https://www.portugalrunning.com/eventos/pinga-trail-2024/
+END:VEVENT
+END:VCALENDAR

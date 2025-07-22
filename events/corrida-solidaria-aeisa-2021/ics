@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f92688
+DTSTAMP:20250720T222343Z
+DTSTART:20211002
+DTEND:20211003
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Corrida Solidária AEISA 2021
+DESCRIPTION:A&nbsp;Associação dos Estudantes do Instituto Superior de Agr
+ onomia&nbsp;apresenta a “I Corrida Solidária AEISA”\,  a realizar-se n
+ o&nbsp;dia 2 de outubro de 2021\,  com o apoio do ISA\,  CM-Lisboa\,  Junta
+  de Freguesia da Ajuda\,  Junta de Freguesia de Alcântara\,  ADESL\,  FAL\
+ ,  ULisboa\,  Mais Superior e a cronometragem da Xistarca. O evento consist
+ e[..]\nhttps://www.portugalrunning.com/eventos/corrida-solidaria-aeisa-2021
+ /
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-aeisa-2021/
+END:VEVENT
+END:VCALENDAR

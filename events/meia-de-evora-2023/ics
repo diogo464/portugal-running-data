@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc87bea9
+DTSTAMP:20250720T222512Z
+DTSTART:20231125
+DTEND:20231126
+LOCATION:Évora Évora
+SUMMARY:Meia Maratona Évora 2023
+DESCRIPTION:Nos dias 25 e 26 de novembro de 2023\,  a Praça do Giraldo vol
+ ta a receber a MEIA DE ÉVORA. 21\, 1 Km | 10 Km | 5 Km | Évora Kids Preç
+ os As inscrições decorrem até 24 de novembro de 2023\,  salvo se esgotar
+ em antes do período definido. 1ª Fase:[..]\nhttps://www.portugalrunning.c
+ om/eventos/meia-de-evora-2023/
+URL:https://www.portugalrunning.com/eventos/meia-de-evora-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c14c3555
+DTSTAMP:20250720T222212Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Ponta do Sol\,  Madeira Ponta do Sol\,  Madeira
+SUMMARY:Adn Ponta do Sol 2024
+DESCRIPTION:A ADN Race Ponta do Sol é organizada pela ADN Ponta do Sol\,  
+ em parceria com a Associação de Atletismo da Região Autónoma da Madeira
+ \,  integrando o Campeonato Regional de Trail.\nhttps://www.portugalrunning
+ .com/eventos/adn-ponta-do-sol-2024/
+URL:https://www.portugalrunning.com/eventos/adn-ponta-do-sol-2024/
+END:VEVENT
+END:VCALENDAR

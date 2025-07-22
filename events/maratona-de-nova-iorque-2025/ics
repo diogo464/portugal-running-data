@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3c48d0
+DTSTAMP:20250720T222507Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:Nova Iorque. Estados Unidos da América Nova Iorque. Estados Unidos da América
+SUMMARY:Maratona de Nova Iorque 2025
+DESCRIPTION:A maratona de Nova Iorque acontece a 2 de Novembro e destaca-se
+  pelo seu ambiente festivo\,  ruas repletas de animação\,  bandas música
+ is\,  milhares de corredores\,  espectadores e máxima emoção. Uma jornad
+ a de 42\, 195 quilómetros que já completou 50 anos e que passa por 5 bair
+ ros da cidade de Nova York:[..]\nhttps://www.portugalrunning.com/eventos/ma
+ ratona-de-nova-iorque-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-de-nova-iorque-2025/
+END:VEVENT
+END:VCALENDAR

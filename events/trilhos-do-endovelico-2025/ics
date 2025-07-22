@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da6abd27
+DTSTAMP:20250720T222854Z
+DTSTART:20251109
+DTEND:20251110
+LOCATION:Alandroal\,  Évora Alandroal\,  Évora
+SUMMARY:Trilhos do Endovélico 2025
+DESCRIPTION:Os "Trilhos do Endovélico\,  III Capítulo"\,  são uma prova 
+ certificada pela ATRP e integrada no Circuito Nacional de Trail Running\,  
+ que acontecerá em 9 de Novembro de 2025 na histórica Vila de Terena\,  co
+ ncelho de Alandroal\,  distrito de Évora. Contaremos com as seguintes dist
+ âncias:•Caminhada 10km•Trail Mini/ Trail Jovem 12km•Trail Sprint[..]
+ \nhttps://www.portugalrunning.com/eventos/trilhos-do-endovelico-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-endovelico-2025/
+END:VEVENT
+END:VCALENDAR

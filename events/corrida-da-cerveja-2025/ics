@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b30b97
+DTSTAMP:20250720T222251Z
+DTSTART:20250705T153900Z
+DTEND:20250705T153900Z
+LOCATION:Lobão\,  Santa Maria da Feira Lobão\,  Santa Maria da Feira
+SUMMARY:Corrida da Cerveja 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-da-cerveja-20
+ 25/
+URL:https://www.portugalrunning.com/eventos/corrida-da-cerveja-2025/
+END:VEVENT
+END:VCALENDAR

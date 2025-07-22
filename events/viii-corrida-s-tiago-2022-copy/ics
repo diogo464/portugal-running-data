@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf1967d
+DTSTAMP:20250720T222919Z
+DTSTART:20230723
+DTEND:20230724
+LOCATION:Mondim de Basto\,  Vila Real Mondim de Bastos Vila Real
+SUMMARY:VIII Corrida S.Tiago 2023
+DESCRIPTION:A AMA – Associação Mondim Atletismo\,  com o apoio dos Muni
+ cípios de Mondim de Basto e Celorico de Basto\,  organizam a 8ª edição 
+ da “Corrida S. Tiago “. Corrida - 12kmsCaminhada - 8km\nhttps://www.por
+ tugalrunning.com/eventos/viii-corrida-s-tiago-2022-copy/
+URL:https://www.portugalrunning.com/eventos/viii-corrida-s-tiago-2022-copy/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c49188f6
+DTSTAMP:20250720T222305Z
+DTSTART:20240519
+DTEND:20240520
+LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+SUMMARY:Corrida de Belém 2024
+DESCRIPTION:Vem correr e desfruta de um dos mais bonitos e acolhedores loca
+ is da cidade de Lisboa.\nhttps://www.portugalrunning.com/eventos/corrida-de
+ -belem-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-belem-2024/
+END:VEVENT
+END:VCALENDAR

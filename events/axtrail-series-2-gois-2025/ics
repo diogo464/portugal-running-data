@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1eaae65
+DTSTAMP:20250720T222222Z
+DTSTART:20250427T061900Z
+DTEND:20250427T061900Z
+LOCATION:Góis\,  Coimbra Góis\,  Coimbra
+SUMMARY:AXtrail Series #2 GÓIS 2025
+DESCRIPTION:AXtrail Series #2 GÓIS 23 km | 1510 d+ Partida/Chegada > Ponte
+  do Sótão\nhttps://www.portugalrunning.com/eventos/axtrail-series-2-gois-
+ 2025/
+URL:https://www.portugalrunning.com/eventos/axtrail-series-2-gois-2025/
+END:VEVENT
+END:VCALENDAR

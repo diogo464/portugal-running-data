@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1dc2e32
+DTSTAMP:20250720T222221Z
+DTSTART:20250418
+DTEND:20250419
+LOCATION:Cortes\,  Leiria Cortes\,  Leiria
+SUMMARY:Assiste a Mexer 2025
+DESCRIPTION:O trail e caminhada&nbsp;ASSISTE A MEXER\,  é organizado pelos
+ &nbsp;Trilhos Loucos da Reixida\,  com o apoio da&nbsp;União de Freguesias
+  Leiria\,  Pousos\,  Barreira e Cortes&nbsp;realizando-se no dia&nbsp;18 de
+  abril&nbsp;de 2025 na serra da Senhora do Monte. Este evento é composto p
+ or 2 provas competitiva e por 2 caminhadas não competitivas. Trail +/-[..]
+ \nhttps://www.portugalrunning.com/eventos/assiste-a-mexer-2025/
+URL:https://www.portugalrunning.com/eventos/assiste-a-mexer-2025/
+END:VEVENT
+END:VCALENDAR

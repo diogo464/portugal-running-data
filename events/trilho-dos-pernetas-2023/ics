@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9f93257
+DTSTAMP:20250720T222847Z
+DTSTART:20230501
+DTEND:20230502
+LOCATION:Canedo\,  Santa Maria da Feira Canedo\,  Santa Maria da Feira\,  Aveiro
+SUMMARY:Trilho dos Pernetas 2023
+DESCRIPTION:Os Trilhos dos Pernetas 5.8 – edição ”C.U.” são uma or
+ ganização do CAL - Clube Atletismo de Lamas\,  com o apoio da Câmara Mun
+ icipal de Santa Maria da Feira e a União de Juntas de Freguesia de Canedo\
+ ,  Vale e Vila Maior e tem como director da prova Carlos Cardoso.[..]\nhttp
+ s://www.portugalrunning.com/eventos/trilho-dos-pernetas-2023/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-pernetas-2023/
+END:VEVENT
+END:VCALENDAR

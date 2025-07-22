@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8e63843
+DTSTAMP:20250720T222830Z
+DTSTART:20220320
+DTEND:20220321
+LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+SUMMARY:Caminhada Solidária da PLASCE 2022
+DESCRIPTION:A Póvoa da Lomba Associação Social Cultural e Ecológica (PL
+ ASCE)\,  fundada a 27 de junho de 1986\,  tem como missão prestar resposta
+ s sociais que potenciam a promoção do desenvolvimento\,  global e integra
+ l da comunidade\,  nomeadamente idosos através de um acompanhamento person
+ alizado e contínuo\,  tendo como pilar o espírito da solidariedade[..]\nh
+ ttps://www.portugalrunning.com/eventos/trail-solidario-da-plasce-2022/
+URL:https://www.portugalrunning.com/eventos/trail-solidario-da-plasce-2022/
+END:VEVENT
+END:VCALENDAR

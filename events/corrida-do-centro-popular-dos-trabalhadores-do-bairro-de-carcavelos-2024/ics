@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5249535
+DTSTAMP:20250720T222314Z
+DTSTART:20240901T150000Z
+DTEND:20240901T235900Z
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Corrida do Centro Popular dos Trabalhadores do Bairro de Carcavelos 2024
+DESCRIPTION:A primeira edição da Corrida do Centro Popular dos Trabalhado
+ res do Bairro de Carcavelos\,  em Matosinhos\,  abre o mês de Setembro das
+  provas de corrida. Vem ser atleta fundador desta prova.\nhttps://www.portu
+ galrunning.com/eventos/corrida-do-centro-popular-dos-trabalhadores-do-bairr
+ o-de-carcavelos-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-centro-popular-dos-trabalhadores-do-bairro-de-carcavelos-2024/
+END:VEVENT
+END:VCALENDAR

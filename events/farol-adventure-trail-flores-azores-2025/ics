@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b62293
+DTSTAMP:20250720T222411Z
+DTSTART:20250531T172800Z
+DTEND:20250531T235900Z
+LOCATION:Lajes das Flores\,  Açores Lajes das Flores\,  Açores
+SUMMARY:Farol Adventure Trail - Flores Azores 2025
+DESCRIPTION:A segunda edição do FAT\,  decorrerá no dia 31 de maio de 20
+ 25 contando com três provas de trail run\,  de 36km\,  18km\,  09km respec
+ tivamente e uma caminhada de 09km.\nhttps://www.portugalrunning.com/eventos
+ /farol-adventure-trail-flores-azores-2025/
+URL:https://www.portugalrunning.com/eventos/farol-adventure-trail-flores-azores-2025/
+END:VEVENT
+END:VCALENDAR

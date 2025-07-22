@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54dc92c
+DTSTAMP:20250720T222732Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:Trail do Almonda 2023
+DESCRIPTION:Trail do Almonda organização do Município de Torres Novas (M
+ TN).Distâncias:Trail 25kmMini Trail 15kmCaminhada 10km\nhttps://www.portug
+ alrunning.com/eventos/trail-do-almonda-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-almonda-2023/
+END:VEVENT
+END:VCALENDAR

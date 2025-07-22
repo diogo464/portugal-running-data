@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5cf39a7
+DTSTAMP:20250720T222324Z
+DTSTART:20230819
+DTEND:20230820
+LOCATION:Praia da Vieira\,  Marinha Grande Praia da Vieira\,  Marinha Grande
+SUMMARY:Corrida E Caminhada Da Praia Da Vieira 2023
+DESCRIPTION:O&nbsp;Industrial Desportivo Vieirense&nbsp;leva a efeito no pr
+ óximo dia&nbsp;19 de Agosto de 2023\,  a&nbsp;Corrida e Caminhada da Praia
+  da Vieira\,  competição englobada no&nbsp;Circuito de Meio-Fundo&nbsp;da
+ &nbsp;Associação Distrital de Atletismo de Leiria (ADAL).\nhttps://www.po
+ rtugalrunning.com/eventos/corrida-e-caminhada-da-praia-da-vieira-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-da-praia-da-vieira-2023/
+END:VEVENT
+END:VCALENDAR

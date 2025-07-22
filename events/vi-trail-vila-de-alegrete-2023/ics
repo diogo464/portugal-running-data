@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc3c2f28
+DTSTAMP:20250720T222923Z
+DTSTART:20230423
+DTEND:20230424
+LOCATION:Alegrete\,  Portalegre Alegrete\,  Portalegre
+SUMMARY:VI Trail Vila de Alegrete 2023
+DESCRIPTION:O VI Trail Vila de Alegrete é organizado pelo Grupo Desportivo
+  de Alegrete e tem o apoio da Junta de Freguesia de Alegrete e Câmara Muni
+ cipal de Portalegre. O VI Trail Vila de Alegrete insere-se no Circuito Dist
+ rital de Trail da AADP.\nhttps://www.portugalrunning.com/eventos/vi-trail-v
+ ila-de-alegrete-2023/
+URL:https://www.portugalrunning.com/eventos/vi-trail-vila-de-alegrete-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64dbbde
+DTSTAMP:20250720T222332Z
+DTSTART:20240818T180800Z
+DTEND:20240818T180800Z
+LOCATION:Tavira\,  Faro Tavira\,  Faro
+SUMMARY:Corrida Mar Azul 2024
+DESCRIPTION:Encontram-se abertas\,  até 14 de agosto\,  as inscrições pa
+ ra a 33ª Corrida Mar Azul\,  a qual decorre\,  no dia 18 de agosto\,  a pa
+ rtir das 09h30\,  na Ilha de Tavira. Esta competição\,  destinada a escal
+ ões masculinos e femininos\,  é corrida na areia\,  sendo constituída po
+ r dois percursos. A minicorrida\,  num[..]\nhttps://www.portugalrunning.com
+ /eventos/corrida-mar-azul-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-mar-azul-2024/
+END:VEVENT
+END:VCALENDAR

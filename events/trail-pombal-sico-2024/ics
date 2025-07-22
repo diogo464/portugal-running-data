@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7f19026
+DTSTAMP:20250720T222815Z
+DTSTART:20240421
+DTEND:20240422
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Trail Pombal Sicó 2024
+DESCRIPTION:O Trail Pombal Sicó é uma prova inclusiva e que já faz parte
+  do calendário dos trail runners de todo o país. Organizado em torno da m
+ ítica Serra do Sicó esta é uma prova para todos. O dinheiro das inscriç
+ ões irá reverter a favor dos Bombeiros Voluntários de Pombal.\nhttps://w
+ ww.portugalrunning.com/eventos/trail-pombal-sico-2024/
+URL:https://www.portugalrunning.com/eventos/trail-pombal-sico-2024/
+END:VEVENT
+END:VCALENDAR

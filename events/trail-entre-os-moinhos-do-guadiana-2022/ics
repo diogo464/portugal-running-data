@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6e7a85f
+DTSTAMP:20250720T222758Z
+DTSTART:20221016
+DTEND:20221017
+LOCATION:Quinto\,  Beja Quinto\,  Beja
+SUMMARY:Trail Entre os Moinhos do Guadiana 2022
+DESCRIPTION:Trail Entre os Moinhos do Guadiana em Quintos\,  Beja\,  no dia
+  16 de Outubro de 2022\nhttps://www.portugalrunning.com/eventos/trail-entre
+ -os-moinhos-do-guadiana-2022/
+URL:https://www.portugalrunning.com/eventos/trail-entre-os-moinhos-do-guadiana-2022/
+END:VEVENT
+END:VCALENDAR

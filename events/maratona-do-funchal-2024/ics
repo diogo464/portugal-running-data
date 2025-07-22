@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3c4177
+DTSTAMP:20250720T222507Z
+DTSTART:20240121
+DTEND:20240122
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Maratona do Funchal 2024
+DESCRIPTION:A Maratona do Funchal é organizada pela Associação de Atleti
+ smo da Região Autónoma da Madeira com o apoio de instituições públicas
+  e privadas. A organização oferece 2 distâncias aos participantes\,  a M
+ aratona do Funchal com 42.195 metros e a Mini Maratona com aproximadamente 
+ 10 quilómetros. A Maratona do Funchal é[..]\nhttps://www.portugalrunning.
+ com/eventos/maratona-do-funchal-2024/
+URL:https://www.portugalrunning.com/eventos/maratona-do-funchal-2024/
+END:VEVENT
+END:VCALENDAR

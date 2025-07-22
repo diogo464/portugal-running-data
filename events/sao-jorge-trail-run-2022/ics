@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09dc118
+DTSTAMP:20250720T222617Z
+DTSTART:20220828
+DTEND:20220829
+LOCATION:Ilha de São Jorge Ilha de São Jorge\,  Açores
+SUMMARY:São Jorge Trail Run 2022
+DESCRIPTION:III São Jorge Trail Run é um evento organizado pelo DITC – 
+ Dragon Island Trail Club. Este evento de desporto amador e de natureza pret
+ ende dinamizar a prática desportiva na Ilha de São Jorge\,  nomeadamente 
+ o Trail Running. Nesta edição\,  quisemos aproveitar a grande quantidade 
+ de quilómetros em trilho existentes[..]\nhttps://www.portugalrunning.com/e
+ ventos/sao-jorge-trail-run-2022/
+URL:https://www.portugalrunning.com/eventos/sao-jorge-trail-run-2022/
+END:VEVENT
+END:VCALENDAR

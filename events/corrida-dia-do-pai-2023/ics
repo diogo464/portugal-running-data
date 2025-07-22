@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d4b36c
+DTSTAMP:20250720T222309Z
+DTSTART:20230319
+DTEND:20230320
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Corrida Dia do Pai 2023
+DESCRIPTION:No dia 19 de março regressa a ISAG Corrida Dia do Pai. Com par
+ tida e chegada na Marginal de Matosinhos\,  podes escolher entre a distânc
+ ia de 10km ou 5km e desafiar toda a familia a participar contigo. Vamos cel
+ ebrar o Dia do Pai juntos.\nhttps://www.portugalrunning.com/eventos/corrida
+ -dia-do-pai-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-dia-do-pai-2023/
+END:VEVENT
+END:VCALENDAR

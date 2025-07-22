@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc86193a
+DTSTAMP:20250720T222512Z
+DTSTART:20240114
+DTEND:20240115
+LOCATION:Seixal Seixal
+SUMMARY:Meia Maratona Baía do Seixal 2024
+DESCRIPTION:No dia 14&nbsp;de janeiro de 2024\,  pelas 10h15 horas\,  ao lo
+ ngo da baía das cidades do Seixal e Amora\,  vai ter lugar uma prova de at
+ letismo denominada MEIA MARATONA BAÍA DO SEIXAL. A iniciativa integra tamb
+ ém uma prova com 10km designada Mini Maratona da Baía\,  e uma Caminhada 
+ de 5Km\, [..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-baia-d
+ o-seixal-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-baia-do-seixal-2024/
+END:VEVENT
+END:VCALENDAR

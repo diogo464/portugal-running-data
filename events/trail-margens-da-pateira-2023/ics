@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d767aa2d
+DTSTAMP:20250720T222806Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Águeda\,  Aveiro Águeda\,  Aveiro
+SUMMARY:Trail Margens da Pateira 2023
+DESCRIPTION:A contar para o Troféu Trail Terras de Águeda\,  a quinta edi
+ ção do Trail Margens da Pateira atravessa alguns locais e lugares na vila
+  de Fermentelos e respetivos espaços naturais e estradas.\nhttps://www.por
+ tugalrunning.com/eventos/trail-margens-da-pateira-2023/
+URL:https://www.portugalrunning.com/eventos/trail-margens-da-pateira-2023/
+END:VEVENT
+END:VCALENDAR

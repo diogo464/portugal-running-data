@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf749dea
+DTSTAMP:20250720T222559Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Casal de Esporão\,  Viseu Casal de Esporão\,  Viseu
+SUMMARY:Pelos Trilhos De São Pedro De France 2023
+DESCRIPTION:O Trail & Caminhada “Pelos Trilhos São Pedro de France” se
+ rá realizado no dia 04 de junho de 2023\,  na freguesia de São Pedro de F
+ rance e é organizado pela Associação Casal de Esporão Ativo – Associa
+ ção Cultural\,  Desportiva e Recreativa. A concentração será no recint
+ o do campo de futebol[..]\nhttps://www.portugalrunning.com/eventos/pelos-tr
+ ilhos-de-sao-pedro-de-france-2023/
+URL:https://www.portugalrunning.com/eventos/pelos-trilhos-de-sao-pedro-de-france-2023/
+END:VEVENT
+END:VCALENDAR

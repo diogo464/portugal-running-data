@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0ef3c84
+DTSTAMP:20250720T222622Z
+DTSTART:20241207
+DTEND:20241208
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:São Silvestre Barcelos 2024
+DESCRIPTION:A São Silvestre de Barcelos é organizada pela OneLine Marketi
+ ng com o apoio do Município de Barcelos e realiza-se no dia 7 de dezembro 
+ de 2024\, .\nhttps://www.portugalrunning.com/eventos/sao-silvestre-barcelos
+ -2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-barcelos-2024/
+END:VEVENT
+END:VCALENDAR

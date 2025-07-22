@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce248a84
+DTSTAMP:20250720T222538Z
+DTSTART:20251005
+DTEND:20251006
+LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+SUMMARY:Meia Maratona Ovar 2025
+DESCRIPTION:O AFIS/OVAR- Atletas Fim de Semana organizará pela 35ª vez um
+ a das provas de Meia-Maratona mais míticas do calendário português. Venh
+ a correr ou caminhar e abrir uma época de grandes feitos desportivos\,  em
+  Ovar.\nhttps://www.portugalrunning.com/eventos/meia-maratona-ovar-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-ovar-2025/
+END:VEVENT
+END:VCALENDAR

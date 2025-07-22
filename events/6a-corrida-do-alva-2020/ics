@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0c3081c
+DTSTAMP:20250720T222204Z
+DTSTART:20200301
+DTEND:20200302
+LOCATION:Penalva de Alva\,  Coimbra Penalva de Alva\,  Coimbra
+SUMMARY:6ª Corrida do Alva 2020
+DESCRIPTION:A mítica Corrida do Alva regressa nesta 6.ª edição a Penalv
+ a de Alva - Oliveira do Hospital com 10km em estrada. Prova que conta para 
+ o calendário de corridas distritais de Coimbra e Guarda; 6.º Prémio Jove
+ m; Prova Aberta; Caminhada. INSCRIÇÕES E ALMOÇO GRATUITO\,  que mais pod
+ es querer? INSCRIÇÕES em[..]\nhttps://www.portugalrunning.com/eventos/6a-
+ corrida-do-alva-2020/
+URL:https://www.portugalrunning.com/eventos/6a-corrida-do-alva-2020/
+END:VEVENT
+END:VCALENDAR

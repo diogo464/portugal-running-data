@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3862299
+DTSTAMP:20250720T222248Z
+DTSTART:20251109
+DTEND:20251110
+LOCATION:Alverca Alverca\,  Lisboa
+SUMMARY:Corrida Cidade de Alverca 2025
+DESCRIPTION:A Associação Portugal Talentus\,  com o apoio da Câmara Muni
+ cipal de Vila Franca de Xira\,  da Junta de Freguesia de Alverca do Ribatej
+ o e Sobralinho e da Força Aérea Portuguesa e OGMA\,  promove a realizaç�
+ �o da 8ª Corrida Cidade de Alverca\,  no dia 09 de novembro de 2025.No co
+ ntexto do evento\, [..]\nhttps://www.portugalrunning.com/eventos/corrida-ci
+ dade-de-alverca-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-alverca-2025/
+END:VEVENT
+END:VCALENDAR

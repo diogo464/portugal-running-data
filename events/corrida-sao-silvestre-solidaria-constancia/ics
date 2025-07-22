@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f7bb83
+DTSTAMP:20250720T222343Z
+DTSTART:20191214
+DTEND:20191215
+LOCATION:Constância\,  Santarém Constância\,  Santarém
+SUMMARY:Corrida São Silvestre Solidária Constância
+DESCRIPTION:A Brigada Mecanizada e a Câmara Municipal de Constância organ
+ izam\,  a 4ª Corrida São Silvestre Solidária Constância – BrigMec. Es
+ ta prova tem como objetivo apoiar a Loja Social de Constância.\nhttps://ww
+ w.portugalrunning.com/eventos/corrida-sao-silvestre-solidaria-constancia/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-silvestre-solidaria-constancia/
+END:VEVENT
+END:VCALENDAR

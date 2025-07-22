@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c4b367
+DTSTAMP:20250720T222636Z
+DTSTART:20211211
+DTEND:20211212
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:São Silvestre Gondomar 2021
+DESCRIPTION:Resultados No dia 11 de Dezembro de 2021\,  pelas 21h00\,  o Mu
+ nicípio de Gondomar recebe a 5ª edição Tranquilidade São Silvestre Gon
+ domar 2021. Com mais de 90 anos de história\,  esta temática foi inspirad
+ a numa corrida noturna onde os atletas corriam pela cidade com tochas acesa
+ s nas mãos\,  é considerada[..]\nhttps://www.portugalrunning.com/eventos/
+ sao-silvestre-gondomar-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-gondomar-2021/
+END:VEVENT
+END:VCALENDAR

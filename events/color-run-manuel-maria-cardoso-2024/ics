@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2f61cb6
+DTSTAMP:20250720T222239Z
+DTSTART:20240504
+DTEND:20240505
+LOCATION:São Sebastião Da Giesteira\,  Évora São Sebastião da Giesteira\,  Évora
+SUMMARY:Color Run Manuel Maria Cardoso 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/color-run-manuel-mari
+ a-cardoso-2024/
+URL:https://www.portugalrunning.com/eventos/color-run-manuel-maria-cardoso-2024/
+END:VEVENT
+END:VCALENDAR

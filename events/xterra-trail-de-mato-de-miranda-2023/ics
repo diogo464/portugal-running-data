@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcadb552
+DTSTAMP:20250720T222930Z
+DTSTART:20231126
+DTEND:20231127
+LOCATION:Golegã\,  Santarém Golegã\,  Santarém
+SUMMARY:XTERRA Trail de Mato de Miranda 2023
+DESCRIPTION:O XTERRA Trail de Mato de Miranda\,  é um evento desportivo qu
+ e pretende promover a prática desportiva em geral e o Trail Run em particu
+ lar\,  dando a conhecer os trilhos e desafios presentes na nossa região. O
+  XTERRA Portugal organiza desde 2014 a mítica prova de Triatlo Cross na Go
+ legã\, [..]\nhttps://www.portugalrunning.com/eventos/xterra-trail-de-mato-
+ de-miranda-2023/
+URL:https://www.portugalrunning.com/eventos/xterra-trail-de-mato-de-miranda-2023/
+END:VEVENT
+END:VCALENDAR

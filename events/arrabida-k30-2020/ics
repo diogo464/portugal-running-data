@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1d18547
+DTSTAMP:20250720T222221Z
+DTSTART:20200426
+DTEND:20200427
+LOCATION:Setúbal Setúbal
+SUMMARY:Arrábida K30 2020
+DESCRIPTION:A Associação de Atletismo Lebres do Sado com a organização 
+ técnica da Werun irão realizar o Arrábida K30 em Setúbal. Esta é uma
+  prova de TrailRunning com três provas\,  Trail Longo (TL) K30\,  Trail C
+ urto (TC) K15 e Caminhada. As provas continuarão\,  contudo\,  a ser perc
+ orridas em estradões e trilhos de terra batida mais[..]\nhttps://www.portu
+ galrunning.com/eventos/arrabida-k30-2020/
+URL:https://www.portugalrunning.com/eventos/arrabida-k30-2020/
+END:VEVENT
+END:VCALENDAR

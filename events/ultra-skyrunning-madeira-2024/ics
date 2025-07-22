@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db2c4909
+DTSTAMP:20250720T222906Z
+DTSTART:20240614
+DTEND:20240615
+LOCATION:Santana\,  Madeira Santana\,  Madeira
+SUMMARY:Ultra Skyrunning Madeira 2024
+DESCRIPTION:Ultra Skyrunning Madeira – USM 2024 é um evento constituído
+  por 5 provas competitivas\,  a realizar em semi-autonomia. .\nhttps://www.
+ portugalrunning.com/eventos/ultra-skyrunning-madeira-2024/
+URL:https://www.portugalrunning.com/eventos/ultra-skyrunning-madeira-2024/
+END:VEVENT
+END:VCALENDAR

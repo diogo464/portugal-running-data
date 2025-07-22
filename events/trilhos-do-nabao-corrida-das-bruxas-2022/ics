@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da718ee9
+DTSTAMP:20250720T222855Z
+DTSTART:20221031
+DTEND:20221101
+LOCATION:Linhaceira\,  Tomar Linhaceira\,  Tomar
+SUMMARY:Trilhos Do Nabão - Corrida Das Bruxas 2022
+DESCRIPTION:“TRILHOS DO NABÃO - Corrida das Bruxas 2022” é uma prova 
+ de aventura percorrida em trilhos sinalizados\,  a pé\,  pequenos estradõ
+ es\,  ou estradas\,  em autonomia pedestre\,  visando percorrer todo o perc
+ urso no menor tempo possível. Disputa-se a 31 de OUTUBRO de 2021 visando a
+  promoção e prática de desporto em[..]\nhttps://www.portugalrunning.com/
+ eventos/trilhos-do-nabao-corrida-das-bruxas-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-nabao-corrida-das-bruxas-2022/
+END:VEVENT
+END:VCALENDAR

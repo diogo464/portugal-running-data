@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64db398
+DTSTAMP:20250720T222332Z
+DTSTART:20231119
+DTEND:20231120
+LOCATION:Caldas da Rainha\,  Leiria Caldas da Rainha\,  Leiria
+SUMMARY:Corrida pela Diabetes 2023
+DESCRIPTION:Este evento tem como entidades organizadoras;&nbsp;CHO - Centro
+  Hospitalar Oeste - Medicina Interna - Diabetes; ACES Oeste Norte com a col
+ aboração do Arneirense e Câmara Municipal A caminhada da "Corrida pela D
+ iabetes"\,  terá lugar no dia&nbsp;19 de Novembro 2023\,  com o início à
+ s&nbsp;10h&nbsp;na&nbsp;Praça 25 de Abril\,  frente à Câmara ?A[..]\nhtt
+ ps://www.portugalrunning.com/eventos/corrida-pela-diabetes-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-pela-diabetes-2023/
+END:VEVENT
+END:VCALENDAR

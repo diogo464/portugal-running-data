@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdf49545
+DTSTAMP:20250720T222535Z
+DTSTART:20200517
+DTEND:20200518
+LOCATION:Lagos\,  Faro Lagos\,  Faro
+SUMMARY:Meia Maratona Internacional de Lagos 2020
+DESCRIPTION:Data para 2020 desvendada!! Venha participar neste dia de alegr
+ ia\,  diversão e muita corrida. 17 de Maio 2020. Aguardem que vem aí novi
+ dades!\nhttps://www.portugalrunning.com/eventos/meia-maratona-internacional
+ -de-lagos-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-internacional-de-lagos-2020/
+END:VEVENT
+END:VCALENDAR

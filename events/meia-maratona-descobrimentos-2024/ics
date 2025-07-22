@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd1c2df6
+DTSTAMP:20250720T222521Z
+DTSTART:20241201
+DTEND:20241202
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona Descobrimentos 2024
+DESCRIPTION:Resultados Meia Maratona Resultados 10k Com partida na Praça d
+ o Império e chegada na praça do Museu da Marinha\,  a&nbsp;11ª edição 
+ da Tranquilidade Meia Maratona dos Descobrimentos\,  prova&nbsp;5&nbsp;estr
+ elas&nbsp;da Associação Europeia de Atletismo\,  será realizada a&nbsp;1
+  de Dezembro 2024\,  na fantástica cidade de&nbsp;Lisboa. Correr lado a la
+ do com os monumentos históricos[..]\nhttps://www.portugalrunning.com/event
+ os/meia-maratona-descobrimentos-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb19220e
+DTSTAMP:20250720T222449Z
+DTSTART:20230401
+DTEND:20230402
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:IX Trail Santa Luzia 2023
+DESCRIPTION:Prova designada Trail Santa Luzia (TSL) sendo no ano 2023 a sua
+  9.ª Edição\,  nas versões Ultra Trail\,  com 50 km\,  Trail Longo\,  c
+ om 30 km\,  Trail Curto com 18 km\,  Mini Trail/Jovem com 14 km e caminhada
+  com 10 km. O Trail de Santa Luzia é organizado pelo Clube[..]\nhttps://ww
+ w.portugalrunning.com/eventos/ix-trail-santa-luzia-2023/
+URL:https://www.portugalrunning.com/eventos/ix-trail-santa-luzia-2023/
+END:VEVENT
+END:VCALENDAR

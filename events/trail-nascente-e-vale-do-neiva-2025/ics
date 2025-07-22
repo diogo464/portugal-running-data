@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d76dbc21
+DTSTAMP:20250720T222806Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Vila Verde\,  Braga Vila Verde\,  Braga
+SUMMARY:Trail Nascente e Vale do Neiva 2025
+DESCRIPTION:O Trail Nascente e Vale do Neiva pretende promover o desporto\,
+   a saúde e o bem-estar das populações\,  e terá lugar no dia 27 de Abr
+ il de 2025. Percursos: Trail Longo - 31 km: Para os mais destemidos! Trail 
+ Curto - 18 km: Desafio intenso e gratificante! Mini Trail -[..]\nhttps://ww
+ w.portugalrunning.com/eventos/trail-nascente-e-vale-do-neiva-2025/
+URL:https://www.portugalrunning.com/eventos/trail-nascente-e-vale-do-neiva-2025/
+END:VEVENT
+END:VCALENDAR

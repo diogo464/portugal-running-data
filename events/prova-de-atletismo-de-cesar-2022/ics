@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007a6b8
+DTSTAMP:20250720T222608Z
+DTSTART:20220220
+DTEND:20220221
+LOCATION:Oliveira de Azeméis Oliveira de Azeméis\,  Aveiro
+SUMMARY:Prova de Atletismo de Cesar 2022
+DESCRIPTION:A Associação Villa Cesari\,  através da sua seção de Atlet
+ ismo\,  organiza de novo a Prova de Atletismo de Cesar 2022\,  que reunirá
+  nesta vila do concelho de Oliveira de Azeméis provas para todos os escal�
+ �es etários e um leque dos melhores atletas nacionais.\nhttps://www.portug
+ alrunning.com/eventos/prova-de-atletismo-de-cesar-2022/
+URL:https://www.portugalrunning.com/eventos/prova-de-atletismo-de-cesar-2022/
+END:VEVENT
+END:VCALENDAR

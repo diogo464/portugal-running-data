@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd07a174
+DTSTAMP:20250720T222520Z
+DTSTART:20250330T232600Z
+DTEND:20250330T232600Z
+LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+SUMMARY:Meia Maratona de Fátima 2025
+DESCRIPTION:A Renascença Meia Maratona de Fátima\,  organizada pela Renas
+ cença e pela Ganhardestak\,  ocorrerá no dia 30 de março de 2025. Esta s
+ erá a primeira edição do evento\,  com partida e chegada na cidade de F�
+ �tima\,  uma cidade conhecida pela sua importância religiosa e cultural. A
+  meia maratona terá uma distância[..]\nhttps://www.portugalrunning.com/ev
+ entos/meia-maratona-de-fatima-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-fatima-2025/
+END:VEVENT
+END:VCALENDAR

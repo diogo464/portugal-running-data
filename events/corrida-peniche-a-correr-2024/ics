@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6530aaf
+DTSTAMP:20250720T222333Z
+DTSTART:20240114
+DTEND:20240115
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:Grande Prémio Peniche 2024
+DESCRIPTION:No dia 14 de janeiro de 2024 terá lugar a 5ª edição da Corr
+ ida Peniche a Correr. Prova de corrida de aproximadamente 10 mil metros\,  
+ realizada no concelho Peniche\,  mais concretamente no interior da Cidade d
+ e Peniche. Esta iniciativa\,  é promovida pela Associação Peniche a Corr
+ er e pelos Bombeiros Voluntários[..]\nhttps://www.portugalrunning.com/even
+ tos/corrida-peniche-a-correr-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-peniche-a-correr-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd562b37
+DTSTAMP:20250720T222525Z
+DTSTART:20200503
+DTEND:20200504
+LOCATION:Ecopista do Dão\,  Tondela Ecopista do Dão\,  Tondela
+SUMMARY:Meia Maratona de Tondela 2020
+DESCRIPTION:Realiza-se no dia 3 de maio de 2020\,  pelas 10h00\,  a 4.ª Me
+ ia Maratona de Tondela - Ecopista do Dão. Esta 4.ª edição será compost
+ a por duas provas: uma Meia Maratona/Corrida (21 km) e uma Caminhada (9 km)
+  para atletas federados e não federados. A Meia Maratona de Tondela é[..]
+ \nhttps://www.portugalrunning.com/eventos/meia-maratona-de-tondela/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-tondela/
+END:VEVENT
+END:VCALENDAR

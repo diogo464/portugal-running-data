@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4630909
+DTSTAMP:20250720T222302Z
+DTSTART:20230305
+DTEND:20230306
+LOCATION:Vila Franca de Xira\,  Lisboa Vila Franca de Xira\,  Lisboa
+SUMMARY:28ª Corrida das Lezírias 2023
+DESCRIPTION:Vila Franca de Xira volta a ser\,  no dia&nbsp;05 de Março 202
+ 3\,  o palco para a tradicional&nbsp;Corrida das Lezírias&nbsp;que anualme
+ nte\,  reúne na cidade milhares de atletas e amantes do desporto\,  oriund
+ os de todo o país. A&nbsp;prova volta à estrada e ao seu percurso habitua
+ l com os&nbsp;15\, 5 km&nbsp;percorridos em asfalto\,  calçada[..]\nhttps:
+ //www.portugalrunning.com/eventos/corrida-das-lezirias-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-das-lezirias-2023/
+END:VEVENT
+END:VCALENDAR

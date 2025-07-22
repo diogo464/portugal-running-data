@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c60c2fa0
+DTSTAMP:20250720T222328Z
+DTSTART:20250126
+DTEND:20250127
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Corrida Fim da Europa 2025
+DESCRIPTION:A 34ª “Corrida Fim da Europa” é um evento de atletismo de
+  estrada&nbsp;com&nbsp;carácter competitivo. O percurso\,  que liga a Vila
+  de Sintra ao Cabo da Roca\,  atravessa a Serra de Sintra em toda a sua ext
+ ensão\,  pelo que se adverte para o facto de se tratar de um percurso sinu
+ oso\, [..]\nhttps://www.portugalrunning.com/eventos/corrida-fim-da-europa-2
+ 025/
+URL:https://www.portugalrunning.com/eventos/corrida-fim-da-europa-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f49d92
+DTSTAMP:20250720T222415Z
+DTSTART:20240525
+DTEND:20240526
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:Forum Barreiro Night Run 2024
+DESCRIPTION:O Forum Barreiro Night Run está de volta e promete bater um no
+ vo recorde de participação! A 9ª edição deste evento de referência\, 
+  está agendada para sábado\,  25 de Maio\,  com partida às 19h45. Não p
+ erca a oportunidade de correr ou caminhar à noite pelas ruas mais emblemá
+ ticas da cidade[..]\nhttps://www.portugalrunning.com/eventos/forum-barreiro
+ -night-run-2024/
+URL:https://www.portugalrunning.com/eventos/forum-barreiro-night-run-2024/
+END:VEVENT
+END:VCALENDAR

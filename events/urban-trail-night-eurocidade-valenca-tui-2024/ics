@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dba48d0c
+DTSTAMP:20250720T222914Z
+DTSTART:20241123
+DTEND:20241124
+LOCATION:Valença Valença
+SUMMARY:Urban Trail Night Eurocidade Valença-Tui 2024
+DESCRIPTION:Com partida em Valença (Portugal) e chegada em Tui (Espanha)\,
+   esta é a prova de que as fronteiras são invisíveis e que a zona transf
+ ronteiriça é um local de passagem de povos que são historicamente próxi
+ mos. Este ano com duas distancias (8 e 16 km)\,  vem correr numa das poucas
+ [..]\nhttps://www.portugalrunning.com/eventos/urban-trail-night-eurocidade-
+ valenca-tui-2024/
+URL:https://www.portugalrunning.com/eventos/urban-trail-night-eurocidade-valenca-tui-2024/
+END:VEVENT
+END:VCALENDAR

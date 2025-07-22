@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da5f3abb
+DTSTAMP:20250720T222853Z
+DTSTART:20230611
+DTEND:20230612
+LOCATION:Fornos de Algodres\,  Guarda Fornos de Algodres\,  Guarda
+SUMMARY:Trilhos do Castro de Santiago 2023
+DESCRIPTION:O ”TRILHOS DO CASTRO DE SANTIAGO” é uma corrida de montanh
+ a\,  organizada pela“AVCAT-Associação Vila Chã Aldeia Trail de Portuga
+ l”\,  a realizar no dia 11 de junho\,  em Figueiróda Granja-Fornos de Al
+ godres. Este trail faz parte do Circuito Municipal de Corrida de Montanha-T
+ rilhos D`O Bom Sabor daSerra-VI(r)VER Fornos de Algodres e[..]\nhttps://www
+ .portugalrunning.com/eventos/trilhos-do-castro-de-santiago-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-castro-de-santiago-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5731f40
+DTSTAMP:20250720T222319Z
+DTSTART:20230425
+DTEND:20230426
+LOCATION:Évora Évora
+SUMMARY:Corrida Do Lusitano 2023
+DESCRIPTION:É uma organização conjunta entre a Câmara Municipal de Évo
+ ra e o Lusitano Ginásio Clube.\nhttps://www.portugalrunning.com/eventos/co
+ rrida-do-lusitano-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-do-lusitano-2023/
+END:VEVENT
+END:VCALENDAR

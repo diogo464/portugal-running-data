@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd117d39
+DTSTAMP:20250720T222521Z
+DTSTART:20220925
+DTEND:20220926
+LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+SUMMARY:Meia Maratona de Guimarães 2022
+DESCRIPTION:A Meia Maratona de Guimarães - Cidade Berço é um evento que 
+ se vai realizar no dia de 25 de setembro em Guimarães. Inscreve-te nas dif
+ erentes provas ou participa com voluntário na organização. Um novo conce
+ ito com uma vertente solidária e sustentável.\nhttps://www.portugalrunnin
+ g.com/eventos/meia-maratona-de-guimaraes-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-guimaraes-2022/
+END:VEVENT
+END:VCALENDAR

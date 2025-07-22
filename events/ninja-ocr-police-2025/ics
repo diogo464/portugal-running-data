@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf219443
+DTSTAMP:20250720T222554Z
+DTSTART:20251011
+DTEND:20251012
+LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+SUMMARY:Ninja Ocr Police 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ninja-ocr-police-2025
+ /
+URL:https://www.portugalrunning.com/eventos/ninja-ocr-police-2025/
+END:VEVENT
+END:VCALENDAR

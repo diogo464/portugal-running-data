@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dd56a
+DTSTAMP:20250720T222544Z
+DTSTART:20220313
+DTEND:20220314
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Minho E Lima Trail 2022
+DESCRIPTION:O Minho E Lima Trail 2022 é uma prova que percorre trilhos\,  
+ caminhos rurais eestradões do concelho de Ponte de Lima e concelho de Vila
+  Verde\,  por isso\,  aprovas Minho e Lima Trail (Caminhada\,  Trail Curto 
+ e o Trail Longo) destina-se:o A atletas maiores de 18 anos;o A menores\,  c
+ om[..]\nhttps://www.portugalrunning.com/eventos/minho-e-lima-trail-2022/
+URL:https://www.portugalrunning.com/eventos/minho-e-lima-trail-2022/
+END:VEVENT
+END:VCALENDAR

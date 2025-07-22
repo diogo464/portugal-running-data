@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7918d60
+DTSTAMP:20250720T222353Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+SUMMARY:Corvus Trail 2023
+DESCRIPTION:A prova “Corvus Trail Branco Gaspar” tem como objetivo prop
+ orcionar aos atletas novas experiências e sensações em trilhos distintos
+ \,  valorização e divulgação do território e promoção da Grande Rota
+  das Ribeiras de Arçês e Rio Frio e do Rio Tejo (GR-55) que atravessa vá
+ rias aldeias e pontos de interesse cultural[..]\nhttps://www.portugalrunnin
+ g.com/eventos/corvus-trail-2023/
+URL:https://www.portugalrunning.com/eventos/corvus-trail-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c903192b
+DTSTAMP:20250720T222416Z
+DTSTART:20240713
+DTEND:20240714
+LOCATION:Vale de Cambra\,  Aveiro Vale de Cambra\,  Aveiro
+SUMMARY:Freita Skyrunning 2024
+DESCRIPTION:FREITA SKYRUNNING 2024 é uma organização da&nbsp;Associaçã
+ o Desportiva e Cultural de Felgueira\,  em parceria com a&nbsp;Câmara Muni
+ cipal de Vale de Cambra&nbsp;e em cooperação com várias instituições p
+ úblicas e privadas.\nhttps://www.portugalrunning.com/eventos/freita-skyrun
+ ning-2024/
+URL:https://www.portugalrunning.com/eventos/freita-skyrunning-2024/
+END:VEVENT
+END:VCALENDAR

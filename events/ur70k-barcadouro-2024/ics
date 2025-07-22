@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db71b1db
+DTSTAMP:20250720T222911Z
+DTSTART:20240630T164900Z
+DTEND:20240630T164900Z
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Ur70K Barcadouro 2024
+DESCRIPTION:A prova terá uma distância de 70km\,  com meta volante aos 35
+ km\,  com Time Cap neste ponto e na meta final\,  toda percorrida em regime
+  de autossuficiência\,  acompanhados por equipa de apoio (SAFETY CAR)\,  e
+ m estrada aberta\,  guiados exclusivamente por track GPX disponibilizado pe
+ la organização e monitorizados por dispositivo localizador[..]\nhttps://w
+ ww.portugalrunning.com/eventos/ur70k-barcadouro-2024/
+URL:https://www.portugalrunning.com/eventos/ur70k-barcadouro-2024/
+END:VEVENT
+END:VCALENDAR

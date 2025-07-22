@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cacc3c4e
+DTSTAMP:20250720T222444Z
+DTSTART:20220521
+DTEND:20220522
+LOCATION:Sertã\,  Castelo Branco Sertã\,  Castelo Branco
+SUMMARY:II Troviscal Trail 2022
+DESCRIPTION:A&nbsp; Associação Desportiva e Recreativa do Troviscal com o
+  apoio da Câmara Municipal da&nbsp;Sertã\, &nbsp;da Junta de Freguesia do
+  Troviscal e&nbsp;a organização técnica da Werun\,  irá realizar o II T
+ roviscal Trail. Esta é uma prova de TrailRunning\,  corrida pedestre em Na
+ tureza\,  com três provas\,  Trail Longo k29+ \,  Trail Curto k12+[..]\nht
+ tps://www.portugalrunning.com/eventos/ii-troviscal-trail-2022/
+URL:https://www.portugalrunning.com/eventos/ii-troviscal-trail-2022/
+END:VEVENT
+END:VCALENDAR

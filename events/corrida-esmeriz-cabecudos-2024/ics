@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c607a9ac
+DTSTAMP:20250720T222328Z
+DTSTART:20240914
+DTEND:20240915
+LOCATION:Esmeriz\,  Vila Nova de Famalicão Esmeriz\,  Vila Nova de Famalicão\,  Braga
+SUMMARY:Corrida Esmeriz / Cabeçudos 2024
+DESCRIPTION:Numa organização da Junta de Freguesia de Esmeriz e Cabeçudo
+ s com o apoio da CâmaraMunicipal de V. N. de Famalicão\,  com a colabora�
+ �ão da Associação de Atletismo de Braga e oApoio Técnico da Desportave 
+ – Eventos Desportivos\,  vai realizar-se no dia 14 de setembro\,  a 8ªCo
+ rrida Popular de Esmeriz e[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-esmeriz-cabecudos-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-esmeriz-cabecudos-2024/
+END:VEVENT
+END:VCALENDAR

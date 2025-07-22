@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6ead70b
+DTSTAMP:20250720T222758Z
+DTSTART:20241215
+DTEND:20241216
+LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+SUMMARY:Trail Falcão Real 2024
+DESCRIPTION:O Evento “V Trail do Falcão Real” é uma prova de TrailRun
+ ning organizada pela Secção de Trail do Grupo Desportivo de Alcoutim\,  e
+ m colaboração com a Câmara Municipal de Alcoutim e União das Freguesias
+  Alcoutim e Pereiro\,  que será realizada por trilhos e caminhos do concel
+ ho de Alcoutim\,  no dia[..]\nhttps://www.portugalrunning.com/eventos/trail
+ -falcao-real-2024/
+URL:https://www.portugalrunning.com/eventos/trail-falcao-real-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1279e34
+DTSTAMP:20250720T222210Z
+DTSTART:20220528
+DTEND:20220529
+LOCATION:Miranda do Corvo\,  Coimbra Miranda do Corvo\,  Coimbra
+SUMMARY:Abutres SkyRace® 2022
+DESCRIPTION:Abutres SkyRace® 2022\nhttps://www.portugalrunning.com/eventos
+ /abutres-skyrace-2022/
+URL:https://www.portugalrunning.com/eventos/abutres-skyrace-2022/
+END:VEVENT
+END:VCALENDAR

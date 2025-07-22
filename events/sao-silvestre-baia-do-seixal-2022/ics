@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0ef3aa8
+DTSTAMP:20250720T222622Z
+DTSTART:20221223
+DTEND:20221224
+LOCATION:Seixal Seixal
+SUMMARY:São Silvestre Baía do Seixal 2022
+DESCRIPTION:O Centro Cultural e Recreativo do Alto do Moinho com a parceria
+  da Câmara Municipal Seixal\,  da Junta de Freguesias do Seixal\,  Arrente
+ la e Paio Pires\,  Junta de Freguesia de Amora\, &nbsp;Junta de Freguesia d
+ e Corroios e da Junta de Freguesia de Fernão Ferro e com a organização T
+ écnica da Werun\, [..]\nhttps://www.portugalrunning.com/eventos/sao-silves
+ tre-baia-do-seixal-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-baia-do-seixal-2022/
+END:VEVENT
+END:VCALENDAR

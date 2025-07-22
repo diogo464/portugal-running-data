@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8db81e
+DTSTAMP:20250720T222544Z
+DTSTART:20240511
+DTEND:20240512
+LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+SUMMARY:Milha Urbana Cidade de Ovar 2024
+DESCRIPTION:A 20ª Milha Urbana Cidade de Ovar realiza-se a partir do iníc
+ io da tarde com partida e chegada na Alameda do Poder Local Cidade de Ovar\
+ ,  na extensão máxima da distância padrão de uma milha (1609 metros).\n
+ https://www.portugalrunning.com/eventos/milha-urbana-cidade-de-ovar-2024/
+URL:https://www.portugalrunning.com/eventos/milha-urbana-cidade-de-ovar-2024/
+END:VEVENT
+END:VCALENDAR

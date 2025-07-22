@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d216305b
+DTSTAMP:20250720T222641Z
+DTSTART:20231222
+DTEND:20231223
+LOCATION:Lousada\,  Porto Lousada\,  Porto
+SUMMARY:São Silvestre Lousada 2023
+DESCRIPTION:A São Silvestre é uma corrida tradicional de 10 km pelas ruas
+  de Lousada. A oitava edição decorre a 22 de dezembro\,  às 21h30. Esta 
+ prova é promovida pela associação Ladec Eventos\,  contando com o apoio 
+ fundamental do Município de Lousada.\nhttps://www.portugalrunning.com/even
+ tos/sao-silvestre-lousada-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-lousada-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcaaaeaa
+DTSTAMP:20250720T222930Z
+DTSTART:20221023
+DTEND:20221024
+LOCATION:Serpa Serpa
+SUMMARY:XII Escalada de S. Gens Campeonato Distrital de Montanha 2022
+DESCRIPTION:A Câmara Municipal de Serpa com o apoio técnico da Associaç�
+ �o de Atletismo de Beja\,  e apoio dos Bombeiros Voluntários de Serpa e G.
+ N.R. de Serpa\,  vai organizar no dia 23 de Outubro de 2022\,  em Serpa\,  
+ a XII Escalada de S. Gens – Serpa Terra Forte\,  o Campeonato Distrital[.
+ .]\nhttps://www.portugalrunning.com/eventos/xii-escalada-de-s-gens-2022/
+URL:https://www.portugalrunning.com/eventos/xii-escalada-de-s-gens-2022/
+END:VEVENT
+END:VCALENDAR

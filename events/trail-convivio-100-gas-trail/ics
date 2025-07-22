@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d444aea2
+DTSTAMP:20250720T222716Z
+DTSTART:20231210
+DTEND:20231211
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail Convívio 100 Gás Trail
+DESCRIPTION:A 6ª edição do "Convívio 100 Gás Trail Team" realiza-se no
+  dia 10 de Dezembro de 2023. Trata-se de um Convívio de amigos do trail\, 
+  PORQUE O TRAIL NÃO É SÓ COMPETIÇÃO. A inscrição tem um valor de 7\,
+  00€ que reverte na totalidade para os Bombeiros Voluntários de Ansião.
+  Haverá[..]\nhttps://www.portugalrunning.com/eventos/trail-convivio-100-ga
+ s-trail/
+URL:https://www.portugalrunning.com/eventos/trail-convivio-100-gas-trail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6502282
+DTSTAMP:20250720T222333Z
+DTSTART:20240323T120900Z
+DTEND:20240323T235900Z
+LOCATION:Murça\,  Vila Real Murça\,  Vila Real
+SUMMARY:Corrida Murça 2024
+DESCRIPTION:A Corrida dos 10kms terá abastecimento líquido aos 5kms e lí
+ quido e sólido no final. A Caminhada terá abastecimento líquido e sólid
+ o no final.\nhttps://www.portugalrunning.com/eventos/corrida-murca-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-murca-2024/
+END:VEVENT
+END:VCALENDAR

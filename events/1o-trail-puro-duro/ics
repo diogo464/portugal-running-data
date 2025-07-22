@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf8616f7
+DTSTAMP:20250720T222144Z
+DTSTART:20200119
+DTEND:20200120
+LOCATION:Sobreira\,  Paredes Sobreira\,  Paredes (Porto)
+SUMMARY:1º Trail Puro & Duro
+DESCRIPTION:A 19 de Janeiro de 2020 vamos todos explorar as Serras do Porto
+ \,  neste trail magnífico com zonas muito bonitas. &nbsp; Participação n
+ o 1º Trail Puro & Duro - Direito a participar no Trail; - T-shirt alusiva 
+ ao evento; - Seguro; - Banho; - Jersey; - Brindes da Prozis.\nhttps://www.p
+ ortugalrunning.com/eventos/1o-trail-puro-duro/
+URL:https://www.portugalrunning.com/eventos/1o-trail-puro-duro/
+END:VEVENT
+END:VCALENDAR

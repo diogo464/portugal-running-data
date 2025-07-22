@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f91f87
+DTSTAMP:20250720T222343Z
+DTSTART:20250531
+DTEND:20250601
+LOCATION:Instituto Superior Técnico Taguspark\,  Oeiras Instituto Superior Técnico Taguspark\,  Oeiras
+SUMMARY:Corrida Solidária AEIST 2025
+DESCRIPTION:A Corrida Solidária AEIST é um evento de caráter solidário 
+ com o objetivo de reverter 100% dos lucros para a Associação de Paralisia
+  Cerebral de Lisboa e apoiar os seus projetos em desenvolvimento. A prova c
+ onsiste em duas modalidades: 5 km de caminhada e 10 km de corrida\,  sendo 
+ ambas[..]\nhttps://www.portugalrunning.com/eventos/corrida-solidaria-aeist-
+ 2025/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-aeist-2025/
+END:VEVENT
+END:VCALENDAR

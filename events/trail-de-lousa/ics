@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5493432
+DTSTAMP:20250720T222732Z
+DTSTART:20200119
+DTEND:20200120
+LOCATION:Lousa\,  Lisboa Lousa\,  Lisboa
+SUMMARY:Trail de Lousa 2020
+DESCRIPTION:RESULTADOS Data: 19 de Janeiro de 2020 Localidade: Lousa (conce
+ lho de Loures) Local da partida: Sede do Grupo Desportivo de Lousa Rua Her√
+ ≥is Ultramar\,  2670-759 Lousa\nhttps://www.portugalrunning.com/eventos/tra
+ il-de-lousa/
+URL:https://www.portugalrunning.com/eventos/trail-de-lousa/
+END:VEVENT
+END:VCALENDAR

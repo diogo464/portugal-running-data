@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9fab444
+DTSTAMP:20250720T222431Z
+DTSTART:20250607
+DTEND:20250608
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:Grande Prémio de Santo António 2025
+DESCRIPTION:O 46º Grande Prémio de S. António em atletismo a realizar no
+  dia 07 de Junho de 2025 pelas 17h00m\,  tem como entidade organizadora\,  
+ a União Desportiva e Recreativa da Zona Alta.\nhttps://www.portugalrunning
+ .com/eventos/grande-premio-de-santo-antonio-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-santo-antonio-2025/
+END:VEVENT
+END:VCALENDAR

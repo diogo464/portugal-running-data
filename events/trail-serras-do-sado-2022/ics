@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8e49013
+DTSTAMP:20250720T222830Z
+DTSTART:20220430
+DTEND:20220501
+LOCATION:Alcacer do Sal\,  Setúbal Alcacer do Sal\,  Setúbal
+SUMMARY:Trail Serras do Sado 2022
+DESCRIPTION:Trail Serras do Sado 2022\nhttps://www.portugalrunning.com/even
+ tos/trail-serras-do-sado-2022/
+URL:https://www.portugalrunning.com/eventos/trail-serras-do-sado-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e49fea
+DTSTAMP:20250720T222358Z
+DTSTART:20231217
+DTEND:20231218
+LOCATION:Arganil\,  Coimbra Arganil\,  Coimbra
+SUMMARY:Desafio Picos do Açor 2023
+DESCRIPTION:O Desafio Picos do Açor é um evento de Trail Running realizad
+ o a 17 de Dezemnbro que percorre a Serra do Açor\,  passando por várias a
+ ldeias do Concelho de Arganil. O evento é constituído por 4 provas compet
+ itivas e 1 caminhada: Desafio Picos do Açor (32km 2000D+); Desafio Picos d
+ o[..]\nhttps://www.portugalrunning.com/eventos/desafios-do-pico-do-acor-202
+ 3/
+URL:https://www.portugalrunning.com/eventos/desafios-do-pico-do-acor-2023/
+END:VEVENT
+END:VCALENDAR

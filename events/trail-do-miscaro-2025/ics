@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d4a7ea
+DTSTAMP:20250720T222741Z
+DTSTART:20251116
+DTEND:20251117
+LOCATION:Aguiar da Beira\,  Guarda Aguiar da Beira\,  Guarda
+SUMMARY:Trail do Míscaro 2025
+DESCRIPTION:Caminhada/Mini Trail 11K | Trail Curto 15K | Trail Longo 25K\nh
+ ttps://www.portugalrunning.com/eventos/trail-do-miscaro-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-miscaro-2025/
+END:VEVENT
+END:VCALENDAR

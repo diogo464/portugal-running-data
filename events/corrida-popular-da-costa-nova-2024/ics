@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69933bc
+DTSTAMP:20250720T222337Z
+DTSTART:20240629
+DTEND:20240630
+LOCATION:Costa Nova\,  Ílhavo Costa Nova\,  Ílhavo\,  Aveiro
+SUMMARY:Corrida Popular da Costa Nova 2024
+DESCRIPTION:A Câmara Municipal de Ílhavo vai promover a Corrida Popular d
+ a Costa Nova do Prado com tiro de partida junto ao Mercado da Costa Nova. O
+  trajeto\,  de dez quilómetros em asfalto\,  entre a Costa Nova e a Vaguei
+ ra é completamente plano\,  sempre junto à Ria de Aveiro. Em simultâneo\
+ , [..]\nhttps://www.portugalrunning.com/eventos/corrida-popular-da-costa-no
+ va-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-popular-da-costa-nova-2024/
+END:VEVENT
+END:VCALENDAR

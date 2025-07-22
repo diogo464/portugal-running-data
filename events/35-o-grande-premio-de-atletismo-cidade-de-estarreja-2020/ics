@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0330ebd
+DTSTAMP:20250720T222155Z
+DTSTART:20200308
+DTEND:20200309
+LOCATION:Estarreja Estarreja
+SUMMARY:35.º Grande Prémio de Atletismo Cidade de Estarreja 2020
+DESCRIPTION:O Centro Recreativo de Estarreja\,  em colaboração com a Câm
+ ara Municipal de Estarreja\,  leva a efeito\,  no próximo dia 8 de março 
+ de 2020\,  o seu 35.º Grande Prémio de Atletismo "Cidade de Estarreja". E
+ starreja já se habituou a receber esta prova de estrada\,  referência reg
+ ional com provas que se[..]\nhttps://www.portugalrunning.com/eventos/35-o-g
+ rande-premio-de-atletismo-cidade-de-estarreja-2020/
+URL:https://www.portugalrunning.com/eventos/35-o-grande-premio-de-atletismo-cidade-de-estarreja-2020/
+END:VEVENT
+END:VCALENDAR

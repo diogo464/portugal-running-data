@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0c4a0dd
+DTSTAMP:20250720T222204Z
+DTSTART:20230318
+DTEND:20230319
+LOCATION:Castro Daire\,  Viseu Castro Daire\,  Viseu
+SUMMARY:5º Trilho Da Pombeira 2023
+DESCRIPTION:O evento inclui uma corrida em natureza\,  na distância de 10\
+ , 3km\,  uma caminhada e corridas para os mais jovens (benjamins a juvenis)
+  e está integrado no calendário do "Circuito Municipal de Corrida e Camin
+ hada em Natureza (PER)CORRER CASTRO DAIRE 2023 (2ª jornada)".As inscriçõ
+ es\,  gratuitas\,  já se encontram abertas e decorrem[..]\nhttps://www.por
+ tugalrunning.com/eventos/5o-trilho-da-pombeira-2023/
+URL:https://www.portugalrunning.com/eventos/5o-trilho-da-pombeira-2023/
+END:VEVENT
+END:VCALENDAR

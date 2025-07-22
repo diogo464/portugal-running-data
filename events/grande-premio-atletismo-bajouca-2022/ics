@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c96aab6e
+DTSTAMP:20250720T222422Z
+DTSTART:20220501
+DTEND:20220502
+LOCATION:Bajouca\,  Leiria Bajouca\,  Leiria
+SUMMARY:Grande Prémio Atletismo  Bajouca 2022
+DESCRIPTION:O Departamento de Atletismo do Grupo Alegre e Unido – Bajouca
+ \,  vai realizar no dia&nbsp;01 de Maio de 2022&nbsp;o Grande Prémio Atlet
+ ismo Bajouca 2022 - Medicis\,  com partida e meta no Largo da Feira dos 13 
+ - Bajouca. A prova principal tem a distância de&nbsp;10km\,  num traçado 
+ que percorre as[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-
+ atletismo-bajouca-2022/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-bajouca-2022/
+END:VEVENT
+END:VCALENDAR

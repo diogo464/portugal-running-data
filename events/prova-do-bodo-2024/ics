@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007b7c7
+DTSTAMP:20250720T222608Z
+DTSTART:20240727
+DTEND:20240728
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Prova do Bodo 2024
+DESCRIPTION:Integrada nas Festas do Bodo que anualmente se realizam na Cida
+ de de Pombal\,  vai decorrer a 40ª Edição da Prova do Bodo. A edição d
+ este ano será constituída pelos 10 km do Bodo\,  Corrida das Farturas (3 
+ km) e Caminhada do Bodo (3 km).\nhttps://www.portugalrunning.com/eventos/pr
+ ova-do-bodo-2024/
+URL:https://www.portugalrunning.com/eventos/prova-do-bodo-2024/
+END:VEVENT
+END:VCALENDAR

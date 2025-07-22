@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64db6d4
+DTSTAMP:20250720T222332Z
+DTSTART:20210911
+DTEND:20210912
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:Corrida Noturna Praia da Caparica 2021
+DESCRIPTION:Não fique em casa e corra pelas praias da Caparica! No próxim
+ o dia&nbsp;11 de Setembro\,  a&nbsp;5ª&nbsp;Corrida Noturna Praia da Capar
+ ica\,  lança o desafio de correr 10km ou correr/caminhar 5km. O primeiro k
+ m é feito em alcatrão e depois vem a areia! Contamos consigo? As criança
+ s também terão uma prova de[..]\nhttps://www.portugalrunning.com/eventos/
+ corrida-noturna-praia-da-caparica-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-noturna-praia-da-caparica-2021/
+END:VEVENT
+END:VCALENDAR

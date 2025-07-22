@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c98312f6
+DTSTAMP:20250720T222424Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Mozelos\,  Aveiro Mozelos\,  Aveiro
+SUMMARY:Grande Prémio Atletismo Vila de Mozelos 2024
+DESCRIPTION:A Juventude Atlética Mozelense e a Junta de Freguesia de Mozel
+ os voltam a organizar o Grande Prémio local\,  num tradicional momento de 
+ reunião dos muitos participantes de corrida da região de Aveiro e do conc
+ elho de Santa Maria da Feira. Regresse ou venha experimentar pela primeira 
+ vez.\nhttps://www.portugalrunning.com/eventos/grande-premio-atletismo-vila-
+ de-mozelos-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-vila-de-mozelos-2024/
+END:VEVENT
+END:VCALENDAR

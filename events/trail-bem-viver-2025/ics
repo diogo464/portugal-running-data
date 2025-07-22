@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3d31789
+DTSTAMP:20250720T222709Z
+DTSTART:20250511
+DTEND:20250512
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Trail Bem Viver 2025
+DESCRIPTION:O TRAIL BEM VIVER é organizado pelo Grupo Desportivo de Magrel
+ os\,  em parceria com a Junta de Freguesia de Bem Viver e a Câmara Municip
+ al do Marco de Canaveses. O evento será realizado no dia e 11 de maio de 2
+ 025\,  no Alto da Forca em Magrelos\,  na freguesia de[..]\nhttps://www.por
+ tugalrunning.com/eventos/trail-bem-viver-2025/
+URL:https://www.portugalrunning.com/eventos/trail-bem-viver-2025/
+END:VEVENT
+END:VCALENDAR

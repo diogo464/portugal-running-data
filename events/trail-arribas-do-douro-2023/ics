@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3c49f65
+DTSTAMP:20250720T222708Z
+DTSTART:20230408
+DTEND:20230409
+LOCATION:Sendim\,  Miranda do Douro Sendim\,  Miranda do Douro
+SUMMARY:Trail Arribas do Douro 2023
+DESCRIPTION:Já abriram as inscrições para o Trail e Caminhada Arribas do
+  Douro em Sendim!Inscrições em: https://forms.gle/wo6pauPvByu92Y4A6\nhttp
+ s://www.portugalrunning.com/eventos/trail-arribas-do-douro-2023/
+URL:https://www.portugalrunning.com/eventos/trail-arribas-do-douro-2023/
+END:VEVENT
+END:VCALENDAR

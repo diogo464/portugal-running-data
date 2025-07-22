@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca2007f8
+DTSTAMP:20250720T222434Z
+DTSTART:20230115
+DTEND:20230116
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:Grande Prémio Peniche a Correr 2023
+DESCRIPTION:No dia 15 de janeiro de 2023 terá lugar a 4ª edição do Gran
+ de Prémio Peniche a Correr. Prova de corrida de aproximadamente 10 mil met
+ ros\,  realizada no concelho Peniche\,  mais concretamente no interior da C
+ idade de Peniche. Esta iniciativa\,  é promovida pela Associação Peniche
+  a Correr e pelos Bombeiros[..]\nhttps://www.portugalrunning.com/eventos/gr
+ ande-premio-peniche-a-correr-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-peniche-a-correr-2023/
+END:VEVENT
+END:VCALENDAR

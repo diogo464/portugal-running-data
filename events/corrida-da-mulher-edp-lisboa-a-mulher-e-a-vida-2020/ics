@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4092d56
+DTSTAMP:20250720T222256Z
+DTSTART:20200517
+DTEND:20200518
+LOCATION:Santos\,  Lisboa Santos\,  Lisboa
+SUMMARY:Corrida da Mulher - EDP Lisboa\,  a Mulher e a Vida 2020
+DESCRIPTION:No dia 17 de Maio de 2020\,  pelas 10H30\,  venha participar e 
+ contribuir para a compra de aparelhos de rastreio do cancro da mama. No con
+ junto de todas as edições EDP Lisboa\,  a Mulher e a Vida foram angariado
+ s mais de 800.000 euros para a Liga Portuguesa Contra o Cancro.[..]\nhttps:
+ //www.portugalrunning.com/eventos/corrida-da-mulher-edp-lisboa-a-mulher-e-a
+ -vida-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-edp-lisboa-a-mulher-e-a-vida-2020/
+END:VEVENT
+END:VCALENDAR

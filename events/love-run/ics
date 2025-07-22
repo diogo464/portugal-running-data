@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbb30667
+DTSTAMP:20250720T222459Z
+DTSTART:20200215
+DTEND:20200216
+LOCATION:Estádio Universitário de Lisboa Estádio Universitário de Lisboa\,  Lisboa
+SUMMARY:Love Run
+DESCRIPTION:BEM-VINDOS A MAIS UMA EDIÇÃO DA LOVE RUN! Um percurso de 6km\
+ ,  no Estádio Universitário de Lisboa\,  unidos num só objetivo… ser 
+ o casal mais rápido! Não importa o ritmo\,  o importante é compartilhar 
+ o prazer da atividade física\,  num ambiente de natureza e envolvidos por 
+ uma atmosfera de romantismo e[..]\nhttps://www.portugalrunning.com/eventos/
+ love-run/
+URL:https://www.portugalrunning.com/eventos/love-run/
+END:VEVENT
+END:VCALENDAR

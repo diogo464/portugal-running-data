@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c82920b0
+DTSTAMP:20250720T222402Z
+DTSTART:20231015
+DTEND:20231016
+LOCATION:Coimbra Coimbra
+SUMMARY:Eco Meia Maratona de Coimbra 2023
+DESCRIPTION:Vai realizar-se a 6ª Eco Meia Maratona de Coimbra no dia 15 de
+  Outubro de 2023.Nos campos do Mondego em plena natureza fora dos circuitos
+  urbanos e do asfalto.Aceita o desafio para a meia maratona mais plana do m
+ undo em plena natureza.\nhttps://www.portugalrunning.com/eventos/eco-meia-m
+ aratona-de-coimbra-2023/
+URL:https://www.portugalrunning.com/eventos/eco-meia-maratona-de-coimbra-2023/
+END:VEVENT
+END:VCALENDAR

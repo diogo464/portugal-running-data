@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d13003cc
+DTSTAMP:20250720T222627Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Alcochete\,  Setúbal Alcochete\,  Setúbal
+SUMMARY:2ª Corrida de São Silvestre de Alcochete 2022
+DESCRIPTION:A 2ª Corrida e Caminhada São Silvestre de Alcochete é um eve
+ nto no âmbito do desporto amador. Esta iniciativa é organizada pela Câma
+ ra Municipal de Alcochete. A 2ª Corrida e Caminhada São Silvestre de Alco
+ chete será composta por um percurso de 10 kms para Corrida e por um de 5[.
+ .]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-alcochete-2022
+ /
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-alcochete-2022/
+END:VEVENT
+END:VCALENDAR

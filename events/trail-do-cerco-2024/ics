@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5930972
+DTSTAMP:20250720T222737Z
+DTSTART:20240915
+DTEND:20240916
+LOCATION:Celorico da Beira\,  Guarda Celorico da Beira\,  Guarda
+SUMMARY:Trail do Cerco 2024
+DESCRIPTION:O “TRAIL DO CERCO” é uma prova de corrida de montanha\,  o
+ rganizada pelo “Município de Celorico da Beira”\,  a realizar no dia 1
+ 5 de setembro\,  2024\,  em Celorico da Beira. Distâncias: Prova longa: +/
+ -22km (aprox. 800D+ Prova curta: +/-14km (aprox. 600D+) Caminhada: +/-9km (
+ aprox. 300D+)\nhttps://www.portugalrunning.com/eventos/trail-do-cerco-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-cerco-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5218037
+DTSTAMP:20250720T222314Z
+DTSTART:20200223
+DTEND:20200224
+LOCATION:Lousada Lousada\,  Porto
+SUMMARY:Corrida do Carnaval
+DESCRIPTION:A 7ª edição da Corrida do Carnaval de Lousada está marcada 
+ para o dia 23 de fevereiro de 2020! A Corrida de Carnaval de Lousada\,  que
+  todos os anos vai ganhando novos participantes\,  com muitos e animados fo
+ liões à mistura\,  tona-se assim uma das corridas simbólicas do entrudo\
+ ,  dando-lhe um[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-car
+ naval/
+URL:https://www.portugalrunning.com/eventos/corrida-do-carnaval/
+END:VEVENT
+END:VCALENDAR

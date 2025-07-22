@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8348e4c
+DTSTAMP:20250720T222819Z
+DTSTART:20220220
+DTEND:20220221
+LOCATION:Serpa Serpa
+SUMMARY:Trail Ribeira De Limas 2022
+DESCRIPTION:A associação Cultural e Recreativa de Santa Iria através da 
+ sua secção de B.T.T.\,  com o apoio daCâmara Municipal de Serpa e da Uni
+ ão de Juntas de Freguesia de Santa Maria e Salvador vairealizar no próxim
+ o dia 20 de Fevereiro de 2022\,  pelas 09:00 horas\,  um evento desportivod
+ enominado «Trail Ribeira[..]\nhttps://www.portugalrunning.com/eventos/trai
+ l-ribeira-de-limas-2022/
+URL:https://www.portugalrunning.com/eventos/trail-ribeira-de-limas-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9f492af
+DTSTAMP:20250720T222431Z
+DTSTART:20191214
+DTEND:20191215
+LOCATION:Serpa Serpa
+SUMMARY:Grande Prémio de Natal de Serpa
+DESCRIPTION:Grande Prémio de Natal de Serpa\nhttps://www.portugalrunning.c
+ om/eventos/grande-premio-de-natal-de-serpa/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-natal-de-serpa/
+END:VEVENT
+END:VCALENDAR

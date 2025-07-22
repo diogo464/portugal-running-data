@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c422d
+DTSTAMP:20250720T222617Z
+DTSTART:20230617
+DTEND:20230618
+LOCATION:Ilha de São Jorge Ilha de São Jorge\,  Açores
+SUMMARY:São Jorge Trail Run 2023
+DESCRIPTION:A prova mais central do arquipélago está de volta. Num percur
+ so que passa pela cordilheira central de São Jorge com uma vista pelas 5 i
+ lhas do grupo central. Começando e terminando no cais das Manadas\,  vai d
+ os 0 aos 1000 metros num desafio único. Vem descobrir o que preparámos pa
+ ra[..]\nhttps://www.portugalrunning.com/eventos/sao-jorge-trail-run-2023/
+URL:https://www.portugalrunning.com/eventos/sao-jorge-trail-run-2023/
+END:VEVENT
+END:VCALENDAR

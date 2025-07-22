@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61ab6e7
+DTSTAMP:20250720T222745Z
+DTSTART:20231015
+DTEND:20231016
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:Trail dos Carreteiros 2023
+DESCRIPTION:O VI Trail dos carreteiros\,  irá ocorrer no dia 15 de outubro
+  de 2023 em Roriz e não tem carátercompevo. No entanto\,  cada parcipante
+  possuirá um dorsal com um número único e será feitoum controlo de cheg
+ ada cronometrado de cada parcipante e tornado público. O evento terá iní
+ cio às 9:00h[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-carret
+ eiros-2023/
+URL:https://www.portugalrunning.com/eventos/trail-dos-carreteiros-2023/
+END:VEVENT
+END:VCALENDAR

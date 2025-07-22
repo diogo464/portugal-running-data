@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9fc3909
+DTSTAMP:20250720T222431Z
+DTSTART:20240622
+DTEND:20240623
+LOCATION:Évora Évora
+SUMMARY:Grande Prémio de São João 2024
+DESCRIPTION:O XLII Grande Prémio de São João de Atletismo é uma organiz
+ ação da Câmara Municipal de Évora\,  como apoio técnico da Associaçã
+ o de Atletismo de Évora. XLII Grande Prémio de São João de Atletismo �
+ � 10 Km | Dia 22 de junho de 2024\,  21h00\,  com partida echegada no Compl
+ exo[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-de-sao-joao-
+ 2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-sao-joao-2024/
+END:VEVENT
+END:VCALENDAR

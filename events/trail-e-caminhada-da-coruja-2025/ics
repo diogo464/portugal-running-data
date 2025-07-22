@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6a94bbc
+DTSTAMP:20250720T222754Z
+DTSTART:20250705
+DTEND:20250706
+LOCATION:Coruche\,  Santarém Coruche\,  Santarém
+SUMMARY:Trail e Caminhada da Coruja 2025
+DESCRIPTION:A prova possui 3 percursos diferentes (distâncias previstas): 
+ Trail Curto da Coruja (+/- 15km) | Trail Longo da Coruja (+/-25km) | Caminh
+ ada (+/-10km)\nhttps://www.portugalrunning.com/eventos/trail-e-caminhada-da
+ -coruja-2025/
+URL:https://www.portugalrunning.com/eventos/trail-e-caminhada-da-coruja-2025/
+END:VEVENT
+END:VCALENDAR

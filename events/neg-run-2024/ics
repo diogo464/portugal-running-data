@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cee01ac8
+DTSTAMP:20250720T222550Z
+DTSTART:20240317T223300Z
+DTEND:20240317T235900Z
+LOCATION:Coimbra Coimbra
+SUMMARY:NEG Run 2024
+DESCRIPTION:A organização da NEG Run está ao encargo do NEG/AAC - Núcle
+ o de Estudantes de Gestão da Associação de Coimbra. O NEG/AAC é uma ass
+ ociação estudantil sem fins lucrativos e integra 1 dos 4 núcleos da Facu
+ ldade de Economia da Universidade de Coimbra\,  tendo como principal objeti
+ vo\,  lutar pelos direitos[..]\nhttps://www.portugalrunning.com/eventos/neg
+ -run-2024/
+URL:https://www.portugalrunning.com/eventos/neg-run-2024/
+END:VEVENT
+END:VCALENDAR

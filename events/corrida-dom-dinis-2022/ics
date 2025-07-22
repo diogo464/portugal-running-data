@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5748d5f
+DTSTAMP:20250720T222319Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:Corrida Dom Dinis 2022
+DESCRIPTION:A Câmara Municipal de Odivelas\,  com a colaboração do Centr
+ o de Marcha e Corrida de Odivelas e dos Bombeiros Voluntários de Odivelas\
+ ,  promove no próximo dia 20 de novembro de 2022\,  pelas 09h30\,  uma pro
+ va de atletismo de estrada\,  designada por Corrida Dom Dinis\,  na distân
+ cia de 10 km\,  haverá[..]\nhttps://www.portugalrunning.com/eventos/corrid
+ a-dom-dinis-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-dom-dinis-2022/
+END:VEVENT
+END:VCALENDAR

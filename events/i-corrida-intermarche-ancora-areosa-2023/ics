@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca64a14b
+DTSTAMP:20250720T222438Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Âncora\,  Viana do Castelo Âncora\,  Viana do Castelo
+SUMMARY:I Corrida Intermarché Ancora Areosa 2023
+DESCRIPTION:A CORRIDA INTERMARCHÉ ANCORA AREOSA é um evento organizado pe
+ lo INTERMARCHÉ epela Associação Desportiva Afifense\,  percorrendo 13 km
+  entre Âncora e Areosa.A prova conta com a colaboração da Associação d
+ e Atletismo de Viana do Castelo\,  bem como o apoio dasCâmaras Municipais 
+ de Caminha e Viana do Castelo e Juntas de[..]\nhttps://www.portugalrunning.
+ com/eventos/i-corrida-intermarche-ancora-areosa-2023/
+URL:https://www.portugalrunning.com/eventos/i-corrida-intermarche-ancora-areosa-2023/
+END:VEVENT
+END:VCALENDAR

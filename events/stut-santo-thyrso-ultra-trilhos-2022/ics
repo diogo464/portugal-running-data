@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3061147
+DTSTAMP:20250720T222656Z
+DTSTART:20220612
+DTEND:20220613
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:STUT-Santo Thyrso Ultra Trilhos 2022
+DESCRIPTION:STUT-Santo Thyrso Ultra Trilhos 2022\nhttps://www.portugalrunni
+ ng.com/eventos/stut-santo-thyrso-ultra-trilhos-2022/
+URL:https://www.portugalrunning.com/eventos/stut-santo-thyrso-ultra-trilhos-2022/
+END:VEVENT
+END:VCALENDAR

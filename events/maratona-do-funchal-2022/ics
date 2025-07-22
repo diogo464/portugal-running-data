@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc4016a7
+DTSTAMP:20250720T222508Z
+DTSTART:20220123
+DTEND:20220124
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Maratona do Funchal 2022
+DESCRIPTION:A Maratona do Funchal é organizada pela Associação de Atleti
+ smo da Região Autónoma da Madeira com o apoio de instituições públicas
+  e privadas. A organização oferece 3 distâncias aos participantes\,  a M
+ aratona do Funchal com 42.195 metros\,  a Meia Maratona do Funchal com 21.0
+ 97\, 50 metros\,  e a Mini Maratona com[..]\nhttps://www.portugalrunning.co
+ m/eventos/maratona-do-funchal-2022/
+URL:https://www.portugalrunning.com/eventos/maratona-do-funchal-2022/
+END:VEVENT
+END:VCALENDAR

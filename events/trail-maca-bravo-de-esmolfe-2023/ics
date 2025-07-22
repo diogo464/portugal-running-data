@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72c4173
+DTSTAMP:20250720T222802Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Esmolfe\,  Viseu Esmolfe\,  Viseu
+SUMMARY:Trail Maça Bravo de Esmolfe 2023
+DESCRIPTION:O trail Maça Bravo de Esmolfe é organizado pelo Município de
+  Penalva do Castelo e Junta de Freguesia de Esmolfe e vai ocorrer no dia 8 
+ de outubro. O evento é composto por três percursos:- Trail Longo de 18 km
+  (aprox.); D+ 580 (aprox.)- Trail Curto 12 km (aprox.); D+[..]\nhttps://www
+ .portugalrunning.com/eventos/trail-maca-bravo-de-esmolfe-2023/
+URL:https://www.portugalrunning.com/eventos/trail-maca-bravo-de-esmolfe-2023/
+END:VEVENT
+END:VCALENDAR

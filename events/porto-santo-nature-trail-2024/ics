@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0093193
+DTSTAMP:20250720T222608Z
+DTSTART:20240316
+DTEND:20240317
+LOCATION:Porto Santo\,  Madeira Porto Santo\,  Madeira
+SUMMARY:Porto Santo Nature Trail 2024
+DESCRIPTION:O “Porto Santo Nature Trail®” é um evento de trail runnin
+ g\,  que decorre integralmente na ilha do Porto Santo e que integra três p
+ rovas pontuáveis para o ranking do CIRCUITO TRAIL MADEIRA\,  época 2023-2
+ 4: Porto Santo Nature Trail® (PSNT) – 46\, 20 km e 2170 metros de desní
+ vel positivo (formato circular)[..]\nhttps://www.portugalrunning.com/evento
+ s/porto-santo-nature-trail-2024/
+URL:https://www.portugalrunning.com/eventos/porto-santo-nature-trail-2024/
+END:VEVENT
+END:VCALENDAR

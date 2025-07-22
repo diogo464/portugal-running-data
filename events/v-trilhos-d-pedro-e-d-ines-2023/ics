@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc819255
+DTSTAMP:20250720T222928Z
+DTSTART:20231105
+DTEND:20231106
+LOCATION:Paço\,  Lourinhã Paço\,  Lourinhã
+SUMMARY:V Trilhos D. Pedro E D. Inês 2023
+DESCRIPTION:V Trilhos D. Pedro E D. Inês 2023\nhttps://www.portugalrunning
+ .com/eventos/v-trilhos-d-pedro-e-d-ines-2023/
+URL:https://www.portugalrunning.com/eventos/v-trilhos-d-pedro-e-d-ines-2023/
+END:VEVENT
+END:VCALENDAR

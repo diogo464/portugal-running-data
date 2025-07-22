@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1662fc8
+DTSTAMP:20250720T222214Z
+DTSTART:20241012T084300Z
+DTEND:20241012T235900Z
+LOCATION:Almodôvar\,  Beja Almodôvar\,  Beja
+SUMMARY:Almodôvar Night Run-Casa do Benfica-Geosig 2024
+DESCRIPTION:É um evento de corrida e caminhada organizado pela Associaçã
+ o Casa do Sport Lisboa e Benfica em Almodôvar com o intuito de promover a 
+ modalidade na região e poder proporcionar aos participantes um percurso di
+ ferente e de uma beleza única nos caminhos no interior da Vila de Almodôv
+ arA Caminhada não[..]\nhttps://www.portugalrunning.com/eventos/almodovar-n
+ ight-run-casa-do-benfica-geosig-2024/
+URL:https://www.portugalrunning.com/eventos/almodovar-night-run-casa-do-benfica-geosig-2024/
+END:VEVENT
+END:VCALENDAR

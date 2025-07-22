@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c590c
+DTSTAMP:20250720T222617Z
+DTSTART:20230610
+DTEND:20230611
+LOCATION:Ilha de Santa Maria\,  Açores Ilha de Santa Maria\,  Açores
+SUMMARY:Santa Maria Trail  - Smat 2023
+DESCRIPTION:O “Santa Maria Trail – SMAT” é um evento de Trail Runnin
+ g\,  certificado pela ATRP\,  organizado pela Secção de Trail Running da 
+ Casa do Povo de São Pedro\,  que percorre trilhos\,  caminhos agrícolas e
+  florestais e linhas de água do concelho de Vila do Porto\,  na Ilha de Sa
+ ntaMaria –[..]\nhttps://www.portugalrunning.com/eventos/santa-maria-trail
+ -2023/
+URL:https://www.portugalrunning.com/eventos/santa-maria-trail-2023/
+END:VEVENT
+END:VCALENDAR

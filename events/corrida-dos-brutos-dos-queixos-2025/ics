@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5818382
+DTSTAMP:20250720T222320Z
+DTSTART:20250610T185100Z
+DTEND:20250610T235900Z
+LOCATION:Turquel\,  Alcobaça Turquel\,  Alcobaça
+SUMMARY:Corrida Brutos dos Queixos 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-dos-brutos-do
+ s-queixos-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-brutos-dos-queixos-2025/
+END:VEVENT
+END:VCALENDAR

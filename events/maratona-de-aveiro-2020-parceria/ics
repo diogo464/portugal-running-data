@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbf3089d
+DTSTAMP:20250720T222503Z
+DTSTART:20200214
+DTEND:20200215
+LOCATION:Aveiro Aveiro
+SUMMARY:Parceria Portugal Running - Maratona de Aveiro a 26 Abril 2020
+DESCRIPTION:Parceria Portugal Runnnig - 10% sobre o preço abaixo à data (
+ para os nossos Utilizadores Registados nas seguintes provas) Maratona (42 K
+ m) Meia Maratona (21 Km) Mini Maratona (10 Km) DATAS  | MARATONA | MEIA MA
+ RATONA | MINI MARATONA - Até 26 Março: 54\, 90€ | 17\, 00€ | 15\, 00�
+ ��  - Até[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-aveiro
+ -2020-parceria/
+URL:https://www.portugalrunning.com/eventos/maratona-de-aveiro-2020-parceria/
+END:VEVENT
+END:VCALENDAR

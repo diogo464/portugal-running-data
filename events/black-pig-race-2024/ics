@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2579a40
+DTSTAMP:20250720T222229Z
+DTSTART:20240615
+DTEND:20240616
+LOCATION:Braga Braga
+SUMMARY:Black Pig Race 2024
+DESCRIPTION:A Associação de festas de São João de Braga em parceria com
+  a Associação Desporto Mais Vida\,  promove a 6a edição da tão conheci
+ da e esperada Corrida do Porco Preto - BLACK PIG RACE\,  que faz alusão a 
+ uma reminiscência de tradições das festas sanjoaninas de séculos passad
+ os. Assim\,  em[..]\nhttps://www.portugalrunning.com/eventos/black-pig-race
+ -2024/
+URL:https://www.portugalrunning.com/eventos/black-pig-race-2024/
+END:VEVENT
+END:VCALENDAR

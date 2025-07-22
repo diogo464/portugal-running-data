@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db7004cf
+DTSTAMP:20250720T222911Z
+DTSTART:20230331
+DTEND:20230401
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Ultra Trail do Marão 2023
+DESCRIPTION:O Ultra Trail do Marão (UTM)\,  é um evento desportivo de tra
+ il running em estado genuíno da responsabilidade co-organizativa da Savage
+ Natur Events® e Associação Desportiva Marão Trail\,  que se realizará 
+ nos dias 31 de Março e 1 e 2 de Abril de 2023. Corridas: O Ultra Trail do 
+ Marão Endurance[..]\nhttps://www.portugalrunning.com/eventos/ultra-trail-d
+ o-marao-2023/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-do-marao-2023/
+END:VEVENT
+END:VCALENDAR

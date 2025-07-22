@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc401a69
+DTSTAMP:20250720T222508Z
+DTSTART:20240406T175200Z
+DTEND:20240406T235900Z
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Maratona Filhos da Freita 2024
+DESCRIPTION:A Confraria Trotamontes em parceria com a Câmara de Arouca vai
+  realizar a 1aEdição da Maratona Filhos da Freita\,  que decorrerá a 6 d
+ e Abril\,  em Arouca. A Maratona Filhos da Freita será constituída por du
+ as provas e uma caminhada:●Provas de 42km e 21km● Caminhada 10km A Mara
+ tona Filhos da[..]\nhttps://www.portugalrunning.com/eventos/maratona-filhos
+ -da-freita-2024/
+URL:https://www.portugalrunning.com/eventos/maratona-filhos-da-freita-2024/
+END:VEVENT
+END:VCALENDAR

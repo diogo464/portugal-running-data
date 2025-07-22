@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c44313fa
+DTSTAMP:20250720T222300Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Parque Eduardo VII\,  Lisboa Parque Eduardo VII\,  Lisboa
+SUMMARY:Corrida das Avenidas Novas 2024
+DESCRIPTION:A Junta de Freguesia de&nbsp;Avenidas Novas irá realizar a “
+ Corrida das Avenidas Novas 2024 - Especial Aniversário”\,  no dia 29&nbs
+ p;de Setembro de 2024\,  na Freguesia de&nbsp;Avenidas Novas\,  a partir da
+ s&nbsp;09:00h\,  com a organização Técnica da Werun. A “Corrida das Av
+ enidas Novas” é um evento de natureza desportiva&nbsp;que tem como objet
+ ivo[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-avenidas-novas
+ -2024/
+URL:https://www.portugalrunning.com/eventos/corrida-das-avenidas-novas-2024/
+END:VEVENT
+END:VCALENDAR

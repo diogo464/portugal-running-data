@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6061cfc
+DTSTAMP:20250720T222328Z
+DTSTART:20230501
+DTEND:20230502
+LOCATION:Arada\,  Ovar Arada\,  Ovar
+SUMMARY:Corrida E Caminhada Pela Vida - Arada 2023
+DESCRIPTION:O Arada Atlético Clube\,  em parceria com a Liga Portuguesa Co
+ ntra o Cancro organiza a II edição - Corrida e Caminhada PELA VIDA. As Co
+ rridas e Caminhada realizam-se no dia 1 de maio de 2023\,  com início pela
+ s 9h30\,  com partida no Complexo Desportivo de Arada\nhttps://www.portugal
+ running.com/eventos/corrida-e-caminhada-pela-vida-arada-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-pela-vida-arada-2023/
+END:VEVENT
+END:VCALENDAR

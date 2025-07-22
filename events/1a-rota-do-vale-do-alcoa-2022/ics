@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf81831d
+DTSTAMP:20250720T222144Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Maiorga\,  Alcobaça Maiorga\,  Alcobaça
+SUMMARY:1º Trail Rota Vale do Alcoa - a Caminhar Pela Maiorga 2022
+DESCRIPTION:A 1ª Rota do Vale do Alcoa \,  a decorrer no dia 9 de outubro 
+ de 2022 é um evento da Associação de Freguesias Vale do Alcoa\,  sendo e
+ sta edição organizada pela Junta de Freguesia de Maiorga. Caminhada de 10
+  Km Prova de Trail de 15 Km\nhttps://www.portugalrunning.com/eventos/1a-rot
+ a-do-vale-do-alcoa-2022/
+URL:https://www.portugalrunning.com/eventos/1a-rota-do-vale-do-alcoa-2022/
+END:VEVENT
+END:VCALENDAR

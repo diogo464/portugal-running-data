@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3493b5e
+DTSTAMP:20250720T222700Z
+DTSTART:20250115
+DTEND:20250116
+LOCATION:Seia\,  Guarda Seia\,  Guarda
+SUMMARY:Terra de Gigantes 2025
+DESCRIPTION:A Terra de Gigantes é uma coorganização da Horizontes Turism
+ o Desportivo e Viagens e a Associação Interior Convida.\nhttps://www.port
+ ugalrunning.com/eventos/terra-de-gigantes-2025/
+URL:https://www.portugalrunning.com/eventos/terra-de-gigantes-2025/
+END:VEVENT
+END:VCALENDAR

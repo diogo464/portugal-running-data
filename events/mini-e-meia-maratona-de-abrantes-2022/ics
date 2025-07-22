@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8c4392
+DTSTAMP:20250720T222544Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+SUMMARY:Mini e Meia Maratona de Abrantes 2022
+DESCRIPTION:O Município de Abrantes leva a efeito a Mini e Meia Maratona d
+ e Abrantes\,  a realizar no dia 13 de novembro no TagusValley - Tecnopolo d
+ o Vale do Tejo. Podem participar todos os indivíduos de ambos os sexos na 
+ Mini Maratona (10000m) e Meia Maratona (21 097\, 50m)\,  nascidos antes 200
+ 3.A[..]\nhttps://www.portugalrunning.com/eventos/mini-e-meia-maratona-de-ab
+ rantes-2022/
+URL:https://www.portugalrunning.com/eventos/mini-e-meia-maratona-de-abrantes-2022/
+END:VEVENT
+END:VCALENDAR

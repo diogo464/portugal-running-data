@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b7aa8a
+DTSTAMP:20250720T222427Z
+DTSTART:20231208
+DTEND:20231209
+LOCATION:Maceira\,  Leiria Maceira\,  Leiria
+SUMMARY:Grande Prémio de Atletismo A do Barbas 2023
+DESCRIPTION:A prova denominada Grande Prémio de Atletismo de A do Barbas\,
+   32ª edição é organizada por o Centro Popular e Recreativo de A-do-Bar
+ bas\,  em coorganização da Associação Atletismo de Leiria\,  com o apoi
+ o da Câmara Municipal de Leiria e Junta de Freguesia de Maceira. Será rea
+ lizado no dia 8 de[..]\nhttps://www.portugalrunning.com/eventos/grande-prem
+ io-de-atletismo-a-do-barbas-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-a-do-barbas-2023/
+END:VEVENT
+END:VCALENDAR

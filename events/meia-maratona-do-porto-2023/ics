@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd6ac526
+DTSTAMP:20250720T222526Z
+DTSTART:20230917
+DTEND:20230918
+LOCATION:Porto Porto
+SUMMARY:Meia Maratona do Porto 2023
+DESCRIPTION:A 17 de setembro de 2023\,  a Meia Maratona do Porto regressa �
+ �s ruas da Invicta com a Organização da Runporto.com. Serão duas as corr
+ idas: uma Mini Maratona na distância de 5 km destinada a todas as classes 
+ etárias e sem fins competitivos; uma corrida com distância de 21\, 097 km
+ [..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-do-porto-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-porto-2023/
+END:VEVENT
+END:VCALENDAR

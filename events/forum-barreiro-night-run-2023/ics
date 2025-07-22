@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f009dd
+DTSTAMP:20250720T222415Z
+DTSTART:20230506
+DTEND:20230507
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:Forum Barreiro Night Run 2023
+DESCRIPTION:O Forum Barreiro Night Run está de volta! A 8ª edição des
+ te evento de referência está agendada para sábado\,  06 de Maio\,  com p
+ artida às 21h30.Não perca a oportunidade de correr ou caminhar à noite p
+ elas ruas do Barreiro! Corrida 10km&nbsp;| 21h30 |&nbsp;Forum Barreiro Mini
+ -Corrida/Caminhada&nbsp;5km&nbsp;| 21h45 |&nbsp;Forum Barreiro\nhttps://www
+ .portugalrunning.com/eventos/forum-barreiro-night-run-2023/
+URL:https://www.portugalrunning.com/eventos/forum-barreiro-night-run-2023/
+END:VEVENT
+END:VCALENDAR

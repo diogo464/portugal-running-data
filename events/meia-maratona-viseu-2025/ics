@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce26115d
+DTSTAMP:20250720T222538Z
+DTSTART:20250920
+DTEND:20250921
+LOCATION:Viseu Viseu
+SUMMARY:Meia Maratona Viseu 2025
+DESCRIPTION:Com partida na mais antiga Feira do país\,  a 42ª Meia Marato
+ na de Viseu vai encher a cidade de emoção\,  passo a passo. No dia 20 de 
+ setembro esperamos por ti. Meia Maratona (21 km).Mini Maratona (aprox. 10 K
+ m).Caminhada (aprox. 5Km).\nhttps://www.portugalrunning.com/eventos/meia-ma
+ ratona-viseu-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-viseu-2025/
+END:VEVENT
+END:VCALENDAR

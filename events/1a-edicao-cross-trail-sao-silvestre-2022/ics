@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf74afde
+DTSTAMP:20250720T222143Z
+DTSTART:20221218
+DTEND:20221219
+LOCATION:Colmeias\,  Leiria Colmeias\,  Leiria
+SUMMARY:1ª Edição Cross Trail São Silvestre 2022
+DESCRIPTION:O Cross Trail São Silvestre são um evento de corrida na natur
+ eza\,  vertente de trail running ligeiro\,  organizado pelos festeiros 73/9
+ 8 de Colmeias. O CTSS é compostos por uma prova (Cross Curto)\,  uma corri
+ da de crianças (Kid Race) e uma caminhada\,  que decorrem nos montes do Va
+ le Grande em Colmeias\, [..]\nhttps://www.portugalrunning.com/eventos/1a-ed
+ icao-cross-trail-sao-silvestre-2022/
+URL:https://www.portugalrunning.com/eventos/1a-edicao-cross-trail-sao-silvestre-2022/
+END:VEVENT
+END:VCALENDAR

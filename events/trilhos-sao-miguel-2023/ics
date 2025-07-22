@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dae9b2a5
+DTSTAMP:20250720T222902Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Liceia\,  Montemor-o-Velho Liceia\,  Montemor-o-Velho
+SUMMARY:Trilhos São Miguel 2023
+DESCRIPTION:Mais um ano e mais uma Edição do Trilhos São Miguel. Será a
+  7ª e pelo 5º ano consecutivo é uma Prova que faz parte do circuito Dist
+ rital da ADAC no Trail Curto de cerca de 17 Km´s. Haverá também a habitu
+ al caminhada de cerca de 10 Km´s.\nhttps://www.portugalrunning.com/eventos
+ /trilhos-sao-miguel-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-sao-miguel-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc763ace
+DTSTAMP:20250720T222927Z
+DTSTART:20200712
+DTEND:20200713
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:V Trail do Pote 2020
+DESCRIPTION:O Trail com início e fim em Gondar\,  percorre o leito do Rio 
+ Âncora e atravessa na totalidade no sentido Nascente/Poente a Serra de Arg
+ a. Vem participar no V Trail do Pote no dia 22 Março 2020.\nhttps://www.po
+ rtugalrunning.com/eventos/v-trail-do-pote-2020/
+URL:https://www.portugalrunning.com/eventos/v-trail-do-pote-2020/
+END:VEVENT
+END:VCALENDAR

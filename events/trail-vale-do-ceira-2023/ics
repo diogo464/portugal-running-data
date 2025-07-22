@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9700bad
+DTSTAMP:20250720T222839Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Coimbra Coimbra
+SUMMARY:Trail Vale do Ceira 2023
+DESCRIPTION:O Trail Vale do Ceira\,  adiante designado por TVC\,  é um eve
+ nto de corrida em trilhos com o objetivo depercorrer determinada distância
+  ultrapassando os obstáculos naturais do terreno e enfrentar as suasadvers
+ idades no menor tempo possível͘. Trail Longo Trail Curto Caminhada\nhttps
+ ://www.portugalrunning.com/eventos/trail-vale-do-ceira-2023/
+URL:https://www.portugalrunning.com/eventos/trail-vale-do-ceira-2023/
+END:VEVENT
+END:VCALENDAR

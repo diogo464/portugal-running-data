@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4461d4e
+DTSTAMP:20250720T222716Z
+DTSTART:20230211
+DTEND:20230212
+LOCATION:Ilha de São Miguel\,  Açores Ilha de São Miguel\,  Açores
+SUMMARY:Trail Costa Norte 2023
+DESCRIPTION:O Trail Costa Norte (TCN) by ADSP é um evento de trail running
+  realizado pelo Clube Atlético Desportivo de São Pedro\,  com o apoio da 
+ Câmara Municipal da Ribeira Grande\,  e que percorre os trilhos que envolv
+ em a cidade. O TCN é uma prova que integra o Circuito de Trail[..]\nhttps:
+ //www.portugalrunning.com/eventos/trail-costa-norte-2023/
+URL:https://www.portugalrunning.com/eventos/trail-costa-norte-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0931da2
+DTSTAMP:20250720T222201Z
+DTSTART:20231007
+DTEND:20231008
+LOCATION:Alpiarça\,  Santarém Alpiarça\,  Santarém
+SUMMARY:5º Grande Trail De Alpiarça 2023
+DESCRIPTION:5º Grande Trail De Alpiarça 2023\nhttps://www.portugalrunning
+ .com/eventos/5o-grande-trail-de-alpiarca-2023/
+URL:https://www.portugalrunning.com/eventos/5o-grande-trail-de-alpiarca-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cba9256b
+DTSTAMP:20250720T222458Z
+DTSTART:20200307
+DTEND:20200308
+LOCATION:Lousã\,  Coimbra Lousã\,  Coimbra
+SUMMARY:LouzanTrail 2020
+DESCRIPTION:Resultados Em 2020 todos os trilhos vão dar ao LouzanTrail. Um
+ a das mais grandiosas corridas de trail running\,  em Portugal\,  volta a d
+ esafiar a resistência dos combatentes do Trail Running no deslumbrante cam
+ po de batalha da Serra da Lousã. Será a segunda vez que esta prova portug
+ uesa vai integrar o[..]\nhttps://www.portugalrunning.com/eventos/louzan-tra
+ il/
+URL:https://www.portugalrunning.com/eventos/louzan-trail/
+END:VEVENT
+END:VCALENDAR

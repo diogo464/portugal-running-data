@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a6377f
+DTSTAMP:20250720T222842Z
+DTSTART:20251214T084500Z
+DTEND:20251214T235900Z
+LOCATION:Ericeira\,  Mafra Ericeira\,  Mafra
+SUMMARY:Trail Winter Challenge - Vila Galé 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-winter-challeng
+ e-vila-gale-2025/
+URL:https://www.portugalrunning.com/eventos/trail-winter-challenge-vila-gale-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d914ae42
+DTSTAMP:20250720T222833Z
+DTSTART:20230625
+DTEND:20230626
+LOCATION:Mira\,  Coimbra Mira\,  Coimbra
+SUMMARY:Trail Terras da Gândara 2023
+DESCRIPTION:O II Trail Terras da Gândara será realizado no dia 25 de Junh
+ o de 2023\,  no Concelho de Mira. Esta será a sequência de uma prova que 
+ teve a estreia em 2022 e contou com um sensacionalnúmero de 700 inscriçõ
+ es. É uma prova que vai percorrer trilhos e caminhos em[..]\nhttps://www.p
+ ortugalrunning.com/eventos/trail-terras-da-gandara-2023/
+URL:https://www.portugalrunning.com/eventos/trail-terras-da-gandara-2023/
+END:VEVENT
+END:VCALENDAR

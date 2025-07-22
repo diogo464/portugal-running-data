@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc49a7b
+DTSTAMP:20250720T222148Z
+DTSTART:20200119
+DTEND:20200120
+LOCATION:Elvas Elvas\,  Portalegre
+SUMMARY:28ª Corrida das Linhas de Elvas 2020
+DESCRIPTION:A 28ª Corrida das Linhas de Elvas está marcada para domingo\,
+   19 de janeiro\,  com partida do Padrão das Linhas de Elvas\,  numa organ
+ ização da Câmara Municipal de Elvas. O início da corrida está marcado 
+ para as 11 horas e conta com um percurso pela circular à cidade e meta no
+ [..]\nhttps://www.portugalrunning.com/eventos/28a-corrida-das-linhas-de-elv
+ as-2020/
+URL:https://www.portugalrunning.com/eventos/28a-corrida-das-linhas-de-elvas-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3318dcd
+DTSTAMP:20250720T222243Z
+DTSTART:20230205
+DTEND:20230206
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida 4 Estações Coimbra 2023
+DESCRIPTION:Numa co organização entre a Associação Desportiva 4 Estaç�
+ �es e a Câmara Municipal de Coimbra\,  vai realizar no dia 5 de Fevereiro 
+ de 2023 pelas 10.30h na Cidade de Coimbra uma corrida de atletismo de estra
+ da com a distância de 10km num percurso certificado e homologado pela Wor
+ ld Athletics\,  Federação Portuguesa[..]\nhttps://www.portugalrunning.com
+ /eventos/corrida-4-estacoes-coimbra-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-coimbra-2023/
+END:VEVENT
+END:VCALENDAR

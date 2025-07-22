@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc6dbf1f
+DTSTAMP:20250720T222926Z
+DTSTART:20220610
+DTEND:20220611
+LOCATION:Caramulo\,  Viseu Caramulo\,  Viseu
+SUMMARY:Vouzela Trail 2022
+DESCRIPTION:Vouzela Trail 2022 é organizado pela SpotCriavo Eventos em col
+ aboraçãocom o Município de Vouzela\,  contando com o apoio de diversas e
+ ndadeslocais.\nhttps://www.portugalrunning.com/eventos/vouzela-trail-2022/
+URL:https://www.portugalrunning.com/eventos/vouzela-trail-2022/
+END:VEVENT
+END:VCALENDAR

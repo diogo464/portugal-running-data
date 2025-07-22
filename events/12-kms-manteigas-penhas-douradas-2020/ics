@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf4015a3
+DTSTAMP:20250720T222140Z
+DTSTART:20200301
+DTEND:20200302
+LOCATION:Manteigas Manteigas\,  Guarda
+SUMMARY:12 kms Manteigas Penhas Douradas 2020
+DESCRIPTION:ONDE? Manteigas\,  Guarda QUANDO? Domingo\,  01 de Março de 20
+ 20 às 09:00 Pagamentos até: Terça\,  25 de Fevereiro de 2020 às 23:59\
+ nhttps://www.portugalrunning.com/eventos/12-kms-manteigas-penhas-douradas-2
+ 020/
+URL:https://www.portugalrunning.com/eventos/12-kms-manteigas-penhas-douradas-2020/
+END:VEVENT
+END:VCALENDAR

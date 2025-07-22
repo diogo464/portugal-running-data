@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4900179
+DTSTAMP:20250720T222721Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Ladeia 2023
+DESCRIPTION:O 8 º Trail da Ladeia - Frutorra realizar-se-á no dia a 07 e 
+ 08 de outubro de 2023 em Alvorge\,  Concelho de Ansião\,  Distrito de Leir
+ ia. A organização irá desenvolver um evento inclusivo\,  onde se pretend
+ e que seja um evento para todos quantos queiram participar\,  criando condi
+ ções para atletas[..]\nhttps://www.portugalrunning.com/eventos/trail-da-l
+ adeia-frutorra-2023/
+URL:https://www.portugalrunning.com/eventos/trail-da-ladeia-frutorra-2023/
+END:VEVENT
+END:VCALENDAR

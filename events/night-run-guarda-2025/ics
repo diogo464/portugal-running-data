@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cedf3a41
+DTSTAMP:20250720T222549Z
+DTSTART:20250719T082600Z
+DTEND:20250719T235900Z
+LOCATION:Guarda Guarda
+SUMMARY:Night Run Guarda 2025
+DESCRIPTION:A NIGHT RUN é uma atividade de atletismo e caminhada noturna d
+ e cariz popular\,  integrada nas ações de promoção da prática desporti
+ va informal e saudável promovidas pela Câmara Municipal da Guarda. Esta i
+ niciativa\,  com um percurso urbano aproximado de 5 km\,  é direcionada a 
+ participantes de todos os níveis -[..]\nhttps://www.portugalrunning.com/ev
+ entos/night-run-guarda-2025/
+URL:https://www.portugalrunning.com/eventos/night-run-guarda-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da27b89c
+DTSTAMP:20250720T222850Z
+DTSTART:20250330
+DTEND:20250331
+LOCATION:Coimbra Coimbra
+SUMMARY:Trilhos das Azenhas 2025
+DESCRIPTION:O TRILHOS DAS AZENHAS é organizado pela Roda Dianteira BTT.A R
+ oda Dianteira BTT é uma entidade\,  que tem como principal objetivo promov
+ er e desenvolver atividades desportivas de aventura associadas à natureza.
+  O âmbito da sua ação passa pela promoção de atividades de cariz ambie
+ ntal\,  social e cultural. O TRILHOS DAS[..]\nhttps://www.portugalrunning.c
+ om/eventos/trilhos-das-azenhas-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-das-azenhas-2025/
+END:VEVENT
+END:VCALENDAR

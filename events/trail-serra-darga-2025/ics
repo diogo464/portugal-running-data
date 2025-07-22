@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8bab9b0
+DTSTAMP:20250720T222827Z
+DTSTART:20250926
+DTEND:20250927
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Trail Serra D'Arga 2025
+DESCRIPTION:Trail Serra D'Arga 2025\nhttps://www.portugalrunning.com/evento
+ s/trail-serra-darga-2025/
+URL:https://www.portugalrunning.com/eventos/trail-serra-darga-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd661319
+DTSTAMP:20250720T222526Z
+DTSTART:20210912
+DTEND:20210913
+LOCATION:Vila Real Vila Real
+SUMMARY:Meia Maratona de Vila Real 201
+DESCRIPTION:A IV Meia Maratona de Vila Real está a cargo da Associação d
+ e Atletismo de Vila Real\,  em co-organização com a Câmara Municipal de 
+ Vila Real\,  sendo promovida pela EXCELLUS Lda.\nhttps://www.portugalrunnin
+ g.com/eventos/meia-maratona-de-vila-real-201/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-vila-real-201/
+END:VEVENT
+END:VCALENDAR

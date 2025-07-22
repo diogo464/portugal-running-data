@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5918773
+DTSTAMP:20250720T222737Z
+DTSTART:20191215
+DTEND:20191216
+LOCATION:Espichel\,  Sesimbra Espichel\,  Sesimbra
+SUMMARY:Trail do Cabo Espichel
+DESCRIPTION:O evento realiza-se no dia 15 de dezembro de 2019\,  com concen
+ tração junto ao Campo de Futebol do GDUA; As partidas realizam-se nos seg
+ uintes horários: - Trail Longo - 9h00 - Trail - 9h30 - Caminhada – 9h45\
+ nhttps://www.portugalrunning.com/eventos/trail-do-cabo-espichel/
+URL:https://www.portugalrunning.com/eventos/trail-do-cabo-espichel/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0400801
+DTSTAMP:20250720T222612Z
+DTSTART:20241123T065300Z
+DTEND:20241123T235900Z
+LOCATION:Ilha de São Jorge\,  Açores Ilha de São Jorge\,  Açores
+SUMMARY:Quebra Pernas 2024
+DESCRIPTION:O mais duro trail de Portugal. O único ITRA 3 na distância de
+  trail\nhttps://www.portugalrunning.com/eventos/quebra-pernas-2024/
+URL:https://www.portugalrunning.com/eventos/quebra-pernas-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5932449
+DTSTAMP:20250720T222737Z
+DTSTART:20220206
+DTEND:20220207
+LOCATION:Alter do Chão Alter do Chão\,  Portalegre
+SUMMARY:Trail do Cavalo 2022
+DESCRIPTION:O 4º Trail do Cavalo 2022 terá lugar a 6 de fevereiro de 2022
+  e integra os Circuitos de Trail Longo e Curto da Associação de Atletismo
+  do Distrito de Portalegre e Campeonato Distrital de Trail Longo. Venha con
+ hecer Alter do Chão percorrendo os trilhos que a R&W - Alter[..]\nhttps://
+ www.portugalrunning.com/eventos/trail-do-cavalo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-cavalo-2022/
+END:VEVENT
+END:VCALENDAR

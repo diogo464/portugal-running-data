@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c00798f4
+DTSTAMP:20250720T222152Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:2º Trail Demónios Do Lizandro 2023
+DESCRIPTION:O Trail será constituído por 3 provas de caracter competitivo
+ \,  e uma caminhada de lazer. Ultra Trail ( 50km ) Trail longo ( 25km ) –
+  Prova inserida no Circuito de Trail de Lisboa 2023 Trail curto ( 15km ) �
+ � Prova inserida no Circuito de Trail de Lisboa 2023[..]\nhttps://www.portu
+ galrunning.com/eventos/2o-trail-demonios-do-lizandro-2023/
+URL:https://www.portugalrunning.com/eventos/2o-trail-demonios-do-lizandro-2023/
+END:VEVENT
+END:VCALENDAR

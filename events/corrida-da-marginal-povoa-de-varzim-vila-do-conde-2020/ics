@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f4cd09
+DTSTAMP:20250720T222255Z
+DTSTART:20200307
+DTEND:20200308
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida da Marginal Póvoa de Varzim/Vila do Conde 2020
+DESCRIPTION:Vem participar na corrida da marginal. Contamos contigo. &nbsp;
+  Tabela de Preços Fase Prova Preço Data Limite de pagamento Fase única C
+ orrida 10 € Até 3 de março de 2020 Fase única Caminhada 5 € Até 3 d
+ e março de 2020\nhttps://www.portugalrunning.com/eventos/corrida-da-margin
+ al-povoa-de-varzim-vila-do-conde-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-da-marginal-povoa-de-varzim-vila-do-conde-2020/
+END:VEVENT
+END:VCALENDAR

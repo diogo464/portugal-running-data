@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8f014f3
+DTSTAMP:20250720T222831Z
+DTSTART:20241207
+DTEND:20241208
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Trail Solidário do 25 - 2024
+DESCRIPTION:A organização informa que este evento\,  a realizar no dia 7 
+ de Dezembro de 2024\,  trata-se de um evento de Trail Running\,  Kids trail
+  e caminhada SEM cariz competitivo. O mesmo irá decorrer em Pombal\,  com 
+ partida na localidade de Pousadas Vedras e chegada junto à Câmara Municip
+ al de Pombal.\nhttps://www.portugalrunning.com/eventos/trail-solidario-do-2
+ 5-2024/
+URL:https://www.portugalrunning.com/eventos/trail-solidario-do-25-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da57ac44
+DTSTAMP:20250720T222853Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Porto de Mós Porto de Mós
+SUMMARY:Trilhos do Alecrim 2023
+DESCRIPTION:Trilhos do Alecrim 2023\nhttps://www.portugalrunning.com/evento
+ s/trilhos-do-alecrim-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-alecrim-2023/
+END:VEVENT
+END:VCALENDAR

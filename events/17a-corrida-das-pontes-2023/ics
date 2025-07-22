@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf4314fb
+DTSTAMP:20250720T222140Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Coruche\,  Santarém Coruche\,  Santarém
+SUMMARY:17ª Corrida das Pontes 2023
+DESCRIPTION:O Serviço Desporto do Município de Coruche\,  com a colabora�
+ �ão técnica do Trilho Perdido\,  levam a efeito no próximo dia 28 de Mai
+ o a 17.ª Corrida das Pontes\,  com uma extensão de 10Km e a 17ª Corrida 
+ da Família com uma extensão de 3Km. Estes dois eventos estão integrados 
+ na[..]\nhttps://www.portugalrunning.com/eventos/17a-corrida-das-pontes-2023
+ /
+URL:https://www.portugalrunning.com/eventos/17a-corrida-das-pontes-2023/
+END:VEVENT
+END:VCALENDAR

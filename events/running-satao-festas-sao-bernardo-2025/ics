@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09dcfdc
+DTSTAMP:20250720T222617Z
+DTSTART:20250817
+DTEND:20250818
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:Running Satão Festas São Bernardo 2025
+DESCRIPTION:A prova realiza-se no dia 17 de agosto de 2025\,  pelas 09h00m\
+ ,  com partida e chegada em frente à Câmara Municipal de Sátão\,  onde 
+ se enquadra nas Festas de São Bernardo\,  com corrida na distância de 10 
+ kms e uma caminhada na distância de 7 kms .\nhttps://www.portugalrunning.c
+ om/eventos/running-satao-festas-sao-bernardo-2025/
+URL:https://www.portugalrunning.com/eventos/running-satao-festas-sao-bernardo-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c51ab896
+DTSTAMP:20250720T222313Z
+DTSTART:20220306
+DTEND:20220307
+LOCATION:Lousada Lousada\,  Porto
+SUMMARY:Corrida do Carnaval 2022
+DESCRIPTION:A Corrida do Carnaval 2022 em Lousada está de regresso em 2022
+  para a sua 8ª edição! Dia 6 de março poderá festejar o Carnaval na pr
+ ova principal de 10 km ou na caminhada de 6 km. Vista-se a rigor e faça pa
+ rte do nosso cortejo carnavalesco. As inscrição são[..]\nhttps://www.por
+ tugalrunning.com/eventos/corrida-do-carnaval-2022-2/
+URL:https://www.portugalrunning.com/eventos/corrida-do-carnaval-2022-2/
+END:VEVENT
+END:VCALENDAR

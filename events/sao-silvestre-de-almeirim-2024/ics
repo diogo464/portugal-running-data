@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d13922b0
+DTSTAMP:20250720T222627Z
+DTSTART:20241228
+DTEND:20241229
+LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+SUMMARY:São Silvestre de Almeirim 2024
+DESCRIPTION:A Associação 20 Kms de Almeirim organiza uma corrida pedestre
+  de estrada\,  designada São Silvestre de Almeirim\,  corrida pedestre de 
+ 10km e a mini/caminhada de 5km\,  não competitiva\,  em circuito urbano.\n
+ https://www.portugalrunning.com/eventos/sao-silvestre-de-almeirim-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-almeirim-2024/
+END:VEVENT
+END:VCALENDAR

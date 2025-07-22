@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdcc3490
+DTSTAMP:20250720T222532Z
+DTSTART:20241006
+DTEND:20241007
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona Lisboa 2024
+DESCRIPTION:A Luso Meia Maratona é uma das mais populares provas de Portug
+ al e em 2024 realizar-se a 6 de Outubro. O seu percurso de 21 Km tem iníci
+ o na&nbsp;Ponte Vasco da Gama&nbsp;terminando na&nbsp;Praça do Comércio\,
+   um marco histórico da cidade de Lisboa\,  em frente ao rio Tejo. Resulta
+ dos A Luso[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-lisbo
+ a-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-lisboa-2024/
+END:VEVENT
+END:VCALENDAR

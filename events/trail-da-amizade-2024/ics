@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d47db3f6
+DTSTAMP:20250720T222719Z
+DTSTART:20241130
+DTEND:20241201
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Amizade 2024
+DESCRIPTION:A prova Trail da Amizade (TdA) é percorrida\,  na sua maioria\
+ ,  em trilhos técnicos\,  estradões\,  carreiros e quelhas\,  na freguesi
+ a de Santiago da Guarda. Com início e fim no centro de Santiago da Guarda\
+ ,  na Av. Vasco da Gama\,  será uma prova circular. Este evento terá as d
+ istâncias previstas de[..]\nhttps://www.portugalrunning.com/eventos/trail-
+ da-amizade-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-amizade-2024/
+END:VEVENT
+END:VCALENDAR

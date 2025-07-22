@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da6936fe
+DTSTAMP:20250720T222854Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Alandroal\,  Évora Alandroal\,  Évora
+SUMMARY:Trilhos do Endovélico 2023
+DESCRIPTION:Os Trilhos do Endovélico são uma prova de Trail Running\,  co
+ rrida pedestre em Natureza\,  com duasdistâncias competitivas\,  Trail Lon
+ go (TL) 28km\,  Trail Curto (TC) 15km e uma caminhada sem caráctercompetit
+ ivo 8km. A prova terá início e fim na Vila de Terena percorrendo trilhos\
+ ,  estradões\,  caminhosflorestais\,  corta-fogos e singletracks\,  com pa
+ ssagem[..]\nhttps://www.portugalrunning.com/eventos/trilhos-do-endovelico-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-endovelico-2023/
+END:VEVENT
+END:VCALENDAR

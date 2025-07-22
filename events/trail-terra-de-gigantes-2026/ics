@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8f31136
+DTSTAMP:20250720T222831Z
+DTSTART:20260115
+DTEND:20260116
+LOCATION:Seia\,  Guarda Seia\,  Guarda
+SUMMARY:Terra de Gigantes 2026
+DESCRIPTION:A Terra de Gigantes é uma coorganização da Horizontes Turism
+ o Desportivo e Viagens e a Associação Interior Convida. Terra de Gigantes
+  realizar-se-á nos dias 15 a 18 de janeiro de 2026 com partida às 11horas
+  da Torre da Serra da Estrela.\nhttps://www.portugalrunning.com/eventos/tra
+ il-terra-de-gigantes-2026/
+URL:https://www.portugalrunning.com/eventos/trail-terra-de-gigantes-2026/
+END:VEVENT
+END:VCALENDAR

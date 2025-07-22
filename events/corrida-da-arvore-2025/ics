@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b79c00
+DTSTAMP:20250720T222251Z
+DTSTART:20250216
+DTEND:20250217
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Corrida da Árvore 2025
+DESCRIPTION:Lançada em 1993\,  a “Corrida da Árvore” é uma prova his
+ tórica\,  no coração verde de Lisboa\,  amiga do ambiente e que este ano
+  alcança um marco histórico\,  a 30ª edição.\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-da-arvore-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-arvore-2025/
+END:VEVENT
+END:VCALENDAR

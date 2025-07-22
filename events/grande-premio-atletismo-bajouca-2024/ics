@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9700ddb
+DTSTAMP:20250720T222423Z
+DTSTART:20240505
+DTEND:20240506
+LOCATION:Bajouca\,  Leiria Bajouca\,  Leiria
+SUMMARY:Grande Prémio Atletismo Bajouca 2024
+DESCRIPTION:O Departamento de Atletismo do Grupo Alegre e Unido – Bajouca
+ \, &nbsp;vai realizar no dia&nbsp;5 de Maio de 2024 o 32º Grande Prémio d
+ e Atletismo Bajouca - Medicis\,  com partida e meta no&nbsp;Largo da Feira 
+ dos 13 - Bajouca. A prova principal tem a distância de 10km\,  um traçado
+  que percorre[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-at
+ letismo-bajouca-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-bajouca-2024/
+END:VEVENT
+END:VCALENDAR

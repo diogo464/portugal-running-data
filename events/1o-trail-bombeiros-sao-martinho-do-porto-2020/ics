@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf800603
+DTSTAMP:20250720T222144Z
+DTSTART:20200329
+DTEND:20200330
+LOCATION:Quartel dos Bombeiros Voluntários de São Martinho do Porto Quartel dos Bombeiros Voluntários de São Martinho do Porto
+SUMMARY:1º Trail - Bombeiros São Martinho do Porto 2020
+DESCRIPTION:Pelo primeiro ano decorrerá o “1º Trail – Bombeiros Volun
+ tários de São Martinho do Porto”  em simultâneo com o tradicional Pas
+ seio de BTT e Passeio Pedestre\,  proporcionando desta forma várias activi
+ dades de carácter desportivo  para que todos possam desfrutar das belas p
+ aisagens urbanísticas e naturais da vila de São Martinho[..]\nhttps://www
+ .portugalrunning.com/eventos/1o-trail-bombeiros-sao-martinho-do-porto-2020/
+URL:https://www.portugalrunning.com/eventos/1o-trail-bombeiros-sao-martinho-do-porto-2020/
+END:VEVENT
+END:VCALENDAR

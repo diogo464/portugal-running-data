@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccd0220e
+DTSTAMP:20250720T222517Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Meia Maratona da Nazaré 2022
+DESCRIPTION:A "mãe das meias" vai voltar à estrada no dia 13 de novembro 
+ de 2022\,  numa organização conjunta da Meia Maratona da Nazaré - Associ
+ ação de Cultura e Desporto e do Clube de Atletismo da Nazaré.Contamos co
+ nvosco!\nhttps://www.portugalrunning.com/eventos/meia-maratona-da-nazare-20
+ 22/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-da-nazare-2022/
+END:VEVENT
+END:VCALENDAR

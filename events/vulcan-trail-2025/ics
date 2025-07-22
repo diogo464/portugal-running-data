@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc848be0
+DTSTAMP:20250720T222928Z
+DTSTART:20250105
+DTEND:20250106
+LOCATION:Igreja Nova\,  Mafra Igreja Nova\,  Mafra
+SUMMARY:Vulcan Trail 2025
+DESCRIPTION:O Grupo Desportivo de Igreja Nova irá organizar\,  a 5 de Jane
+ iro de 2025\,  pelas 09h00\,  a terceiraedição do Vulcan Trail na Igreja 
+ Nova\,  concelho de Mafra. O Vulcan Trail 2025 é uma prova deTrailRunning\
+ ,  corrida pedestre em natureza\,  com três provas\,  Trail Longo (TL) K20
+ +\,  Trail Curto(TC) K12+ e[..]\nhttps://www.portugalrunning.com/eventos/vu
+ lcan-trail-2025/
+URL:https://www.portugalrunning.com/eventos/vulcan-trail-2025/
+END:VEVENT
+END:VCALENDAR

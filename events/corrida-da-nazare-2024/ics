@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c42932f9
+DTSTAMP:20250720T222258Z
+DTSTART:20240608
+DTEND:20240609
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Corrida da Nazaré 2024
+DESCRIPTION:A&nbsp;Corrida da Nazaré&nbsp;é organizada pelo&nbsp;Clube de
+  Atletismo da Nazaré&nbsp;com o apoio da&nbsp;Câmara Municipal da Nazaré
+ \, &nbsp;Junta de Freguesia da Nazaré e Bombeiros Voluntários da Nazaré.
+  Será realizada no dia&nbsp;8 de junho de 2024&nbsp;às&nbsp;20h00&nbsp;co
+ m partida no&nbsp;Centro Cultural da Nazaré.\nhttps://www.portugalrunning.
+ com/eventos/corrida-da-nazare-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-nazare-2024/
+END:VEVENT
+END:VCALENDAR

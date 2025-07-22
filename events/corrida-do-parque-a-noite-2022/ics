@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5748af2
+DTSTAMP:20250720T222319Z
+DTSTART:20221001
+DTEND:20221002
+LOCATION:Porto Porto
+SUMMARY:Corrida do Parque à Noite 2022
+DESCRIPTION:Corrida do Parque à Noite 2022 A Corrida do Parque à Noite se
+ rá uma corrida com uma distância de 8 quilómetros\,  realizada no Parque
+  da Cidade do Porto\,  com partida e chegada marcadas para o recinto do Que
+ imódromo.\nhttps://www.portugalrunning.com/eventos/corrida-do-parque-a-noi
+ te-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-parque-a-noite-2022/
+END:VEVENT
+END:VCALENDAR

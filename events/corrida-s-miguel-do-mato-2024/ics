@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f927de
+DTSTAMP:20250720T222343Z
+DTSTART:20241027T090000Z
+DTEND:20241027T090000Z
+LOCATION:S. Miguel do Mato\,  Vouzela S. Miguel do Mato\,  Vouzela
+SUMMARY:Corrida S. Miguel do Mato 2024
+DESCRIPTION:A 2ª CORRIDA S.M. MATO é uma organização da S.M. M. ATLETIS
+ MO\,  com os patrocínios de PAULO NATURSTEINPFLASTER\,  da SADICOL AGROTRE
+ VO\,  da FARMACIA DE VOUZELA\,  do SUPERMERCADO REGALO MATINAL e CAFÉ REGA
+ LO MATINAL. Atua em parceria com o Município de Vouzela e Junta de Fregues
+ ia de S. Miguel do Mato.\nhttps://www.portugalrunning.com/eventos/corrida-s
+ -miguel-do-mato-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-s-miguel-do-mato-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbf613bf
+DTSTAMP:20250720T222503Z
+DTSTART:20200322
+DTEND:20200323
+LOCATION:Badajoz\,  Espanha Badajoz\,  Espanha
+SUMMARY:Maratona de Badajoz 2020
+DESCRIPTION:La FUNDACIÓN MUNICIPAL DE DEPORTES del AYUNTAMIENTO DE BADAJOZ
+  organizará el día 22 de Marzo de 2020 el 28º MARATÓN POPULAR "CIUDAD D
+ E BADAJOZ" Y 6º MEDIO MARATÓN POPULAR “CIUDAD DE BADAJOZ”\,  para má
+ s información dirigirse a la página web: www.aytobadajoz.es/deportes . Ad
+ emás la prueba de Maratón será valedera para[..]\nhttps://www.portugalru
+ nning.com/eventos/maratona-de-badajoz-2020/
+URL:https://www.portugalrunning.com/eventos/maratona-de-badajoz-2020/
+END:VEVENT
+END:VCALENDAR

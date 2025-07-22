@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce2322b4
+DTSTAMP:20250720T222538Z
+DTSTART:20240414
+DTEND:20240415
+LOCATION:Vigo\,  Espanha Vigo\,  Espanha
+SUMMARY:Meia Maratona Vigo Bayona 2024
+DESCRIPTION:O Club de Corredores Vig-Bay organiza a XXIII Meia Maratona Gra
+ n Bahía Vig-Bay no domingo dia&nbsp;14 de abril de 2024. A XXIII Meia Mara
+ tona Gran Bahía Vig-Bay é uma corrida com um percurso urbano e interurban
+ o de 21.097 metros\,  onde podem participar todas as pessoas que estejam in
+ teressadas\,  que façam[..]\nhttps://www.portugalrunning.com/eventos/meia-
+ maratona-vigo-bayona-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-vigo-bayona-2024/
+END:VEVENT
+END:VCALENDAR

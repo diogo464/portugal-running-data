@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edd910
+DTSTAMP:20250720T222622Z
+DTSTART:20241222
+DTEND:20241223
+LOCATION:Braga Braga
+SUMMARY:São Silvestre Braga 2024
+DESCRIPTION:Reserve o dia 22 de dezembro de 2024 para um dos eventos mais a
+ guardados do ano: a 46ª S. Silvestre de Braga! Com início marcado para as
+  19h00\,  a cidade ganhará vida com centenas de atletas e entusiastas do d
+ esporto\,  percorrendo as ruas históricas de Braga.&nbsp; A partida e cheg
+ ada[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-braga-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-braga-2024/
+END:VEVENT
+END:VCALENDAR

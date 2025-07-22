@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3730cd9
+DTSTAMP:20250720T222247Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Alverca Alverca\,  Lisboa
+SUMMARY:Corrida Cidade de Alverca 2024
+DESCRIPTION:A Associação Portugal Talentus\,  com o apoio da Câmara Muni
+ cipal de Vila Franca de Xira\,  da Junta de Freguesia de Alverca do Ribatej
+ o e Sobralinho e da Força Aérea Portuguesa e OGMA\,  promove a realizaç�
+ �o da 7ª Corrida Cidade de Alverca\,  no dia 03 de NOVEMBRO de 2024. No co
+ ntexto[..]\nhttps://www.portugalrunning.com/eventos/corrida-cidade-de-alver
+ ca-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-alverca-2024/
+END:VEVENT
+END:VCALENDAR

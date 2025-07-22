@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c60621c3
+DTSTAMP:20250720T222328Z
+DTSTART:20240505
+DTEND:20240506
+LOCATION:Arada\,  Ovar Arada\,  Ovar
+SUMMARY:Corrida e Caminhada pela Vida - Arada 2024
+DESCRIPTION:O Arada Atlético Clube\,  em parceria com a Liga Portuguesa Co
+ ntra o Cancro\,  com o apoio daVieira & Vieira Lda\,  promove e organiza a 
+ III edição - Corrida e Caminhada PELA VIDA.\nhttps://www.portugalrunning.
+ com/eventos/corrida-e-caminhada-pela-vida-arada-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-pela-vida-arada-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d30306da
+DTSTAMP:20250720T222656Z
+DTSTART:20240218
+DTEND:20240219
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:Stut Trail Santo Tirso 2024
+DESCRIPTION:A 9a Edição do STUT-Santo Thyrso Ultra Trilhos é uma prova d
+ e corrida de montanha\,  organizada pelo NAST – Núcleo Associativo de Sa
+ nto Tirso e Câmara Municipal de Santo Tirso\,  que se desenvolve pelas Mon
+ tanhas dos concelhos de Santo Tirso e Paços de Ferreira e em simultâneo c
+ om as provas\, [..]\nhttps://www.portugalrunning.com/eventos/stut-trail-san
+ to-tirso-2024/
+URL:https://www.portugalrunning.com/eventos/stut-trail-santo-tirso-2024/
+END:VEVENT
+END:VCALENDAR

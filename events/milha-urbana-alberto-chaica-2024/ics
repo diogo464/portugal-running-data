@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8c4ccc
+DTSTAMP:20250720T222544Z
+DTSTART:20240518
+DTEND:20240519
+LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+SUMMARY:Milha Urbana Alberto Chaíça 2024
+DESCRIPTION:A&nbsp;4 Maio 2024&nbsp;vai realizar-se o&nbsp;7ª Milha Urbana
+  Alberto Chaíça\,  prova inserida no&nbsp;Troféu de Almada Atletismo ‘
+ Mário Pinto Claro’ 2023/2024.\nhttps://www.portugalrunning.com/eventos/m
+ ilha-urbana-alberto-chaica-2024/
+URL:https://www.portugalrunning.com/eventos/milha-urbana-alberto-chaica-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0ef3984
+DTSTAMP:20250720T222622Z
+DTSTART:20231229
+DTEND:20231230
+LOCATION:Albufeira\,  Faro Albufeira\,  Faro
+SUMMARY:São Silvestre Algarve 2023
+DESCRIPTION:A São Silvestre Algarve vai realizar-se em Albufeira no dia 29
+  de Dezembro (sexta-feira) e terá um Corrida de 9 km e uma Caminhada de 5k
+ m. No dia 29 de dezembro\,  às 20h00\,  a cidade de Albufeira receberá o 
+ emocionante evento da S. Silvestre Algarve\,  uma iniciativa organizada pel
+ a Cabreira[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-algar
+ ve-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-algarve-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5bc4153
+DTSTAMP:20250720T222323Z
+DTSTART:20200308
+DTEND:20200309
+LOCATION:Praça do Império (Belém)\,  Lisboa Praça do Império (Belém)\,  Lisboa
+SUMMARY:Corrida dos Salesianos 2020
+DESCRIPTION:INSCRIÇÕES Corrida 10km » de 1 a 31 Dezembro | 8€ » de 
+ 1 a 31 Janeiro | 10€ » de 1 Fevereiro a 21 Fevereiro | 12€ » 22 Feve
+ reiro a 3 de Março | 15€ Kids Race(500m) / Mini-Corrida/Caminhada (4km)�
+ � » de 1 a 31 Dezembro | 6€ » de 1 a 31[..]\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-dos-salesianos/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-salesianos/
+END:VEVENT
+END:VCALENDAR

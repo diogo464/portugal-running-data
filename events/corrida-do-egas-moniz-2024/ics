@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c527ac67
+DTSTAMP:20250720T222314Z
+DTSTART:20240616T184500Z
+DTEND:20240616T184500Z
+LOCATION:Penafiel\,  Porto Penafiel\,  Porto
+SUMMARY:Corrida do Egas Moniz 2024
+DESCRIPTION:Partida e Chegada | Escola EB 2\, 3 Paço de Sousa- Corrida 10k
+ m - Caminhada 5km\nhttps://www.portugalrunning.com/eventos/corrida-do-egas-
+ moniz-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-egas-moniz-2024/
+END:VEVENT
+END:VCALENDAR

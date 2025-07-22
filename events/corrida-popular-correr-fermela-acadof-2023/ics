@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c65193cf
+DTSTAMP:20250720T222333Z
+DTSTART:20230715
+DTEND:20230716
+LOCATION:Fermelã\,  Estarreja Fermelã\,  Estarreja
+SUMMARY:Corrida Popular Correr Fermelã ACADOF 2023
+DESCRIPTION:Venha correr na primeira edição da Corrida Popular Correr Fer
+ melã\,  em Estarreja\,  uma iniciativa organizada pela Associação Cultur
+ al de Amizade e Desporto Olímpico de Fermelã em parceria com a União de 
+ Freguesias de Canelas e Fermelã e a Câmara Municipal de Estarreja.\nhttps
+ ://www.portugalrunning.com/eventos/corrida-popular-correr-fermela-acadof-20
+ 23/
+URL:https://www.portugalrunning.com/eventos/corrida-popular-correr-fermela-acadof-2023/
+END:VEVENT
+END:VCALENDAR

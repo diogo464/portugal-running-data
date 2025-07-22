@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d96dd266
+DTSTAMP:20250720T222838Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Coimbra Coimbra
+SUMMARY:Trail Vale do Ceira 2024
+DESCRIPTION:Tens 3 distâncias à escolha para te divertires. Ambas as dist
+ âncias com começo e fim no mesmo local na Praça junto à estátua dos Vi
+ veiristas em Ceira.\nhttps://www.portugalrunning.com/eventos/trail-vale-do-
+ ceira-2024/
+URL:https://www.portugalrunning.com/eventos/trail-vale-do-ceira-2024/
+END:VEVENT
+END:VCALENDAR

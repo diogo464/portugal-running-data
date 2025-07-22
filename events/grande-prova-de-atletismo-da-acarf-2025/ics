@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca379a3e
+DTSTAMP:20250720T222435Z
+DTSTART:20250425
+DTEND:20250426
+LOCATION:Forjães\,  Esposende Forjães\,  Esposende
+SUMMARY:Grande Prova de Atletismo da Acarf 2025
+DESCRIPTION:A XIX Grande Prova de Atletismo da ACARF\,  realiza-se no dia 2
+ 5 de abril de 2025. As provas terão início na Avenida Santa Marinha termi
+ nando no mesmo local\,  em plena freguesia de Forjães (Esposende).\nhttps:
+ //www.portugalrunning.com/eventos/grande-prova-de-atletismo-da-acarf-2025/
+URL:https://www.portugalrunning.com/eventos/grande-prova-de-atletismo-da-acarf-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8318a40
+DTSTAMP:20250720T222819Z
+DTSTART:20220925
+DTEND:20220926
+LOCATION:Oliveira de Frades Oliveira de Frades
+SUMMARY:Trail Rios e Levadas Teaga Aventura 2022
+DESCRIPTION:O desafio é percorrer um trilho repleto de Rios e Levadas ao s
+ om das inúmeras cascatas e densos bosques de carvalhos e sobreiros no Trai
+ l Rios e Levadas Teaga Aventura.\nhttps://www.portugalrunning.com/eventos/t
+ rail-rios-e-levadas-teaga-aventura-2022/
+URL:https://www.portugalrunning.com/eventos/trail-rios-e-levadas-teaga-aventura-2022/
+END:VEVENT
+END:VCALENDAR

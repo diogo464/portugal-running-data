@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da9dc52c
+DTSTAMP:20250720T222857Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Casainhos\,  Fanhões Casainhos\,  Fanhões
+SUMMARY:Trilhos dos Casainhos 2023
+DESCRIPTION:O&nbsp;Sporting Clube de Casaínhos&nbsp;organiza\,  no próxim
+ o dia&nbsp;12 de novembro de 2023\,  com o apoio da&nbsp;Câmara Municipal 
+ de Loures&nbsp;e da&nbsp;Junta de Freguesia de Fanhões\,  uma prova de Atl
+ etismo que constitui o evento denominado&nbsp;“XIII Trilhos de Casaínhos
+ ”\,  integrado nas comemorações do aniversário da Freguesia de Fanhõe
+ s. Os Trilhos de Casaínhos são compostos[..]\nhttps://www.portugalrunning
+ .com/eventos/trilhos-dos-casainhos-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-casainhos-2023/
+END:VEVENT
+END:VCALENDAR

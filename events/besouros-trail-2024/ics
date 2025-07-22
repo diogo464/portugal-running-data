@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c22ac028
+DTSTAMP:20250720T222226Z
+DTSTART:20240616T214800Z
+DTEND:20240616T214800Z
+LOCATION:Sepins\,  Cantanhede Sepins\,  Cantanhede
+SUMMARY:Besouros Trail 2024
+DESCRIPTION:O 4º Trail Rota dos Besouros vai realizar-se no próximo dia 1
+ 6 de junho de 2024 pelas 09h30\,  com partida e chegada no Campo de Futebol
+  em Sepins - Cantanhede.Organização compete à associação sem fins lucr
+ ativos ROTA DOS BESOUROS ASSOCIAÇÃO DESPORTIVA E CULTURAL.EventoComposto 
+ por 2 percursos cronometrados e 1 percurso[..]\nhttps://www.portugalrunning
+ .com/eventos/besouros-trail-2024/
+URL:https://www.portugalrunning.com/eventos/besouros-trail-2024/
+END:VEVENT
+END:VCALENDAR

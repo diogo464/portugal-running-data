@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd748b5f
+DTSTAMP:20250720T222527Z
+DTSTART:20220918
+DTEND:20220919
+LOCATION:Porto Porto
+SUMMARY:Meia Maratona do Porto 2022
+DESCRIPTION:Meia Maratona do Porto 2022 18 de Setembro de 2022 - Porto - 21
+ km/6km RESULTADOS Prepara-te para esta prova com o nosso acompanhamento atr
+ avés dum plano personalizado de corrida.\nhttps://www.portugalrunning.com/
+ eventos/meia-maratona-do-porto-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-porto-2022/
+END:VEVENT
+END:VCALENDAR

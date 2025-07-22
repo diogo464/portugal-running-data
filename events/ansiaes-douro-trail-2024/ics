@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c199232f
+DTSTAMP:20250720T222217Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Carrazeda de Ansiães\,  Bragança Carrazeda de Ansiães\,  Bragança
+SUMMARY:Ansiães Douro Trail 2024
+DESCRIPTION:O Organizador anuncia que este ano\,  em 2024\,  não haverá A
+ nsiães Douro Trail.\nhttps://www.portugalrunning.com/eventos/ansiaes-douro
+ -trail-2024/
+URL:https://www.portugalrunning.com/eventos/ansiaes-douro-trail-2024/
+END:VEVENT
+END:VCALENDAR

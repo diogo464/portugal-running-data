@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72dc0a7
+DTSTAMP:20250720T222802Z
+DTSTART:20241027T144100Z
+DTEND:20241027T144100Z
+LOCATION:Requeixo\,  Aveiro Requeixo\,  Aveiro
+SUMMARY:Trail Lagoa da Pateira 2024
+DESCRIPTION:Organizado pelos Agarrados ao BTT em parceria com a Junta de Fr
+ eguesia de Requeixo\,  Nossa Senhora de Fátima e Nariz.\nhttps://www.portu
+ galrunning.com/eventos/trail-lagoa-da-pateira-2024/
+URL:https://www.portugalrunning.com/eventos/trail-lagoa-da-pateira-2024/
+END:VEVENT
+END:VCALENDAR

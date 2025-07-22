@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcac3764
+DTSTAMP:20250720T222930Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Vila Real de Santo António\,  Faro Vila Real de Santo António\,  Faro
+SUMMARY:X Milhas do Guadiana 2023
+DESCRIPTION:A Comissão Mista Desportiva de Vila Real de Santo António\,  
+ Castro Marim e Ayamonte\,  constituídapela Câmara Municipal de Vila Real 
+ de Santo António e Castro Marim\,  Ayuntamiento de Ayamonte\,  GrupoDespor
+ tivo Pic-Nic\,  Patronato Municipal de Deportes de Ayamonte e Club Atletism
+ o Ayamonte\,  vaiorganizar no próximo dia 12 de novembro de 2023\, [..]\nh
+ ttps://www.portugalrunning.com/eventos/x-milhas-do-guadiana-2023/
+URL:https://www.portugalrunning.com/eventos/x-milhas-do-guadiana-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc87ad39
+DTSTAMP:20250720T222928Z
+DTSTART:20230813
+DTEND:20230814
+LOCATION:Louriçal\,  Pombal Louriçal\,  Pombal
+SUMMARY:V Trail Lama Solta 2023
+DESCRIPTION:O Trail Mais Divertido de Portugal e Arredores está de volta! 
+ O V Trail Lama Solta\,  na Vila do Louriçal\,  será no dia 13 de Agosto d
+ e 2023\,  domingo\,  inserido nas Festas do Louriçal 2023.\nhttps://www.po
+ rtugalrunning.com/eventos/v-trail-lama-solta-2023/
+URL:https://www.portugalrunning.com/eventos/v-trail-lama-solta-2023/
+END:VEVENT
+END:VCALENDAR

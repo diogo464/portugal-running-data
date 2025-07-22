@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1e48afa
+DTSTAMP:20250720T222222Z
+DTSTART:20211009
+DTEND:20211010
+LOCATION:Ilha Terceira\,  Açores Ilha Terceira\,  Açores
+SUMMARY:Azores Bravos Trail 2021
+DESCRIPTION:Este evento comporta três provas\,  sendo uma de 15 km\,  outr
+ a de 30 km e uma última de 58 km\,  que terão lugar na Ilha Terceira. A t
+ erra brava no seu melhor\,  da serra ao mar\,  com um piso técnico que des
+ afiará a sua resistência e vontade de superação\nhttps://www.portugalru
+ nning.com/eventos/azores-bravos-trail-2021/
+URL:https://www.portugalrunning.com/eventos/azores-bravos-trail-2021/
+END:VEVENT
+END:VCALENDAR

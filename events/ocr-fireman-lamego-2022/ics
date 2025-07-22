@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf2635d6
+DTSTAMP:20250720T222554Z
+DTSTART:20221022
+DTEND:20221023
+LOCATION:Lamego\,  Viseu Lamego\,  Viseu
+SUMMARY:OCR Fireman Lamego 2022
+DESCRIPTION:Durante estas provas de obstáculos Fireman Challenge Lamego\, 
+  terás de correr\,  escalar\,  saltar\,  rastejar\,  nadar\,  carregar pes
+ os\,  atravessar fogo\,  poças de lama e cursos de água\,  enfrentar os m
+ ais desafiantes obstáculos\,  o que fará destes eventos não apenas meras
+  corridas\,  como também uma aventura e um desafio pessoal onde terás[..]
+ \nhttps://www.portugalrunning.com/eventos/ocr-fireman-lamego-2022/
+URL:https://www.portugalrunning.com/eventos/ocr-fireman-lamego-2022/
+END:VEVENT
+END:VCALENDAR

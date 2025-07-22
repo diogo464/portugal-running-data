@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d137ab25
+DTSTAMP:20250720T222627Z
+DTSTART:20251214T135000Z
+DTEND:20251214T135000Z
+LOCATION:Arrifana\,  Santa Maria da Feira Arrifana\,  Santa Maria da Feira
+SUMMARY:São Silvestre de Arrifana
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-arri
+ fana/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-arrifana/
+END:VEVENT
+END:VCALENDAR

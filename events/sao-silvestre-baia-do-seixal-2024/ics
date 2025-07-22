@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edc7cc
+DTSTAMP:20250720T222622Z
+DTSTART:20241221
+DTEND:20241222
+LOCATION:Seixal Seixal
+SUMMARY:São Silvestre Baía do Seixal 2024
+DESCRIPTION:A WeRun em conjunto com o Centro Cultural e Recreativo do Alto 
+ do Moinho com a parceria da Câmara Municipal Seixal\,  da Junta de Fregues
+ ias do Seixal\,  Arrentela e Paio Pires\,  Junta de Freguesia de Amora\, &n
+ bsp;Junta de Freguesia de Corroios e da Junta de Freguesia de Fernão Ferro
+ \,  irá realizar[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestr
+ e-baia-do-seixal-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-baia-do-seixal-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c18dbac7
+DTSTAMP:20250720T222216Z
+DTSTART:20240719T153800Z
+DTEND:20240719T235900Z
+LOCATION:Santiago da Guarda\,  Ansião Santiago da Guarda\,  Ansião
+SUMMARY:Amizade Néo Run 2024
+DESCRIPTION:Bem-vindos à Amizade Néon Run\,  uma celebração única e vi
+ brante que fará parte da Festa da Amizade na freguesia de Santiago da Guar
+ da! Organizada pelo CAAS EVENTS\,  esta prova será realizada no dia 19 de 
+ julho de 2024 e promete proporcionar uma experiência inesquecível cheia d
+ e cores fotoluminescentes e luminescentes.[..]\nhttps://www.portugalrunning
+ .com/eventos/amizade-neo-run-2024/
+URL:https://www.portugalrunning.com/eventos/amizade-neo-run-2024/
+END:VEVENT
+END:VCALENDAR

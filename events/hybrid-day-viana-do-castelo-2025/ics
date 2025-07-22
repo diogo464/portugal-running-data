@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca619025
+DTSTAMP:20250720T222438Z
+DTSTART:20250524T153600Z
+DTEND:20250524T153600Z
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:HYBRID DAY Viana do Castelo 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/hybrid-day-viana-do-c
+ astelo-2025/
+URL:https://www.portugalrunning.com/eventos/hybrid-day-viana-do-castelo-2025/
+END:VEVENT
+END:VCALENDAR

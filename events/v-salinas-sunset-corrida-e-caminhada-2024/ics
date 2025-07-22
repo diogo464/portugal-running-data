@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc730bc1
+DTSTAMP:20250720T222927Z
+DTSTART:20240518
+DTEND:20240519
+LOCATION:Alcochete\,  Setúbal Alcochete\,  Setúbal
+SUMMARY:V Salinas Sunset - Corrida e Caminhada 2024
+DESCRIPTION:O “Salinas Sunset Run” é um evento no âmbito do desporto 
+ amador e do turismo de natureza;Esta iniciativa é organizada pelo sector d
+ o Desporto do Município de Alcochete; O “Salinas Sunset Run” será com
+ posto por um percurso de 6 km para a Caminhada e por um de 10km para Corrid
+ a;\nhttps://www.portugalrunning.com/eventos/v-salinas-sunset-corrida-e-cami
+ nhada-2024/
+URL:https://www.portugalrunning.com/eventos/v-salinas-sunset-corrida-e-caminhada-2024/
+END:VEVENT
+END:VCALENDAR

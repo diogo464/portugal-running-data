@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8718963
+DTSTAMP:20250720T222407Z
+DTSTART:20250815T155200Z
+DTEND:20250816T155200Z
+LOCATION:Porto Moniz\,  Ilha da Madeira Porto Moniz\,  Ilha da Madeira
+SUMMARY:Ecotur Skymarathon Porto Moniz 2025
+DESCRIPTION:O Ecotur Skymarathon Porto Moniz é uma organização do CDCPM 
+ – Clube Desportivo e Cultural do Porto Moniz\,  com o apoio do Município
+  do Porto Moniz e das freguesias das Achadas da Cruz e do Porto Moniz.\nhtt
+ ps://www.portugalrunning.com/eventos/ecotur-skymarathon-porto-moniz-2025/
+URL:https://www.portugalrunning.com/eventos/ecotur-skymarathon-porto-moniz-2025/
+END:VEVENT
+END:VCALENDAR

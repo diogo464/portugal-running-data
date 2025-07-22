@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4cdbf35
+DTSTAMP:20250720T222724Z
+DTSTART:20210731
+DTEND:20210801
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Trail da Raposa 2021
+DESCRIPTION:Trail da Raposa 2021 regressa em JULHO\,  um evento remodelado\
+ ,  adaptado á situação actual do país\,  e muitas novidades interessant
+ es! Trail Ultra 48 km - Circuito Nacional de Trail Ultra Trail 33 km - Circ
+ uito Nacional de Trail Mini-Trail 19 Km\nhttps://www.portugalrunning.com/ev
+ entos/trail-da-raposa-2021/
+URL:https://www.portugalrunning.com/eventos/trail-da-raposa-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c37305b0
+DTSTAMP:20250720T222247Z
+DTSTART:20240922
+DTEND:20240923
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:Corrida Aves em Movimento 2024
+DESCRIPTION:A Corrida Aves em Movimento Casa dos Reclamos 2024 é organizad
+ a pela AMCHR - Associação de Moradores do Complexo Habitacional de Ringe\
+ ,  pela Junta de Freguesia de Vila das Aves e com a Câmara Municipal de Sa
+ nto Tirso\, \nhttps://www.portugalrunning.com/eventos/corrida-aves-em-movim
+ ento-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-aves-em-movimento-2024/
+END:VEVENT
+END:VCALENDAR

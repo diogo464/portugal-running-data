@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72c594a
+DTSTAMP:20250720T222802Z
+DTSTART:20230916
+DTEND:20230917
+LOCATION:São Sebastião Da Giesteira\,  Évora São Sebastião da Giesteira\,  Évora
+SUMMARY:Trail Lobos do Monfurado 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-lobos-do-monfur
+ ado-2023/
+URL:https://www.portugalrunning.com/eventos/trail-lobos-do-monfurado-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0093d7e
+DTSTAMP:20250720T222608Z
+DTSTART:20210711
+DTEND:20210712
+LOCATION:Povoação\,  São Miguel\,  Acores Povoação\,  São Miguel\,  Acores
+SUMMARY:Povoação Trail 2021
+DESCRIPTION:A equipa HL Runners Club\,  em parceria com a Câmara Municipal
+  da Povoação\,  irá realizar\,  a 11/07/2021\,  o&nbsp;Povoação Trail\
+ ,  prova de trilhos nos Açores que será&nbsp;constituída&nbsp;por 3 dist
+ âncias\,  nomeadamente um trail longo com 35 kms&nbsp; e 2300 D+\,  um tra
+ il curto com 20 kms&nbsp; e 1300 D+ e uma caminhada[..]\nhttps://www.portug
+ alrunning.com/eventos/povoacao-trail-2021/
+URL:https://www.portugalrunning.com/eventos/povoacao-trail-2021/
+END:VEVENT
+END:VCALENDAR

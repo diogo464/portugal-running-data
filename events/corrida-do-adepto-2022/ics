@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4ec3bde
+DTSTAMP:20250720T222310Z
+DTSTART:20220129
+DTEND:20220130
+LOCATION:Leiria Leiria
+SUMMARY:Corrida Do Adepto 2022
+DESCRIPTION:A Corrida Do Adepto 2022 é um evento desportivo organizado pel
+ a Fundação do Futebol - Liga Portugal\,  com o apoio da Câmara Municipa
+ l de Leiria\,  do Instituto Português do Desporto e da Juventude e do Mini
+ stério de Educação. A organização técnica é da responsabilidade da e
+ mpresa HMS Sports.\nhttps://www.portugalrunning.com/eventos/corrida-do-adep
+ to-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-adepto-2022/
+END:VEVENT
+END:VCALENDAR

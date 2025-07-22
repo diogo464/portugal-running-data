@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50dcf8d
+DTSTAMP:20250720T222728Z
+DTSTART:20221022
+DTEND:20221023
+LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+SUMMARY:9º Trail de Fátima 2022
+DESCRIPTION:O&nbsp;9º Trail de Fátima&nbsp;é um evento de trail running\
+ ,  que percorre trilhos e caminhos da nossa Região\,  nomeadamente&nbsp;Fr
+ eguesia de Fátima&nbsp;e&nbsp;Concelho de Ourém&nbsp;enquadrado nas verte
+ ntes de&nbsp;Trail Ultra\, &nbsp;Trail Longo\, &nbsp;Trail Curto\, &nbsp;Mi
+ ni Trail\, &nbsp;Trail Kids&nbsp;“Pequenos e Graúdos” e&nbsp;Caminhada
+ . Este evento irá decorrer nos dias&nbsp;22 e 23 de Outubro de 2022\,  org
+ anizado pela secção de Trail\, &nbsp;Fátima[..]\nhttps://www.portugalrun
+ ning.com/eventos/trail-de-fatima-2022/
+URL:https://www.portugalrunning.com/eventos/trail-de-fatima-2022/
+END:VEVENT
+END:VCALENDAR

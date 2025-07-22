@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edcef2
+DTSTAMP:20250720T222622Z
+DTSTART:20241207
+DTEND:20241208
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:São Silvestre Barreiro 2024
+DESCRIPTION:A 4ª Edição da São Silvestre Barreiro será organizada pela
+  Associação Corridacessivel no dia 9 de Dezembro. ⎯ Caminhada 6 km⎯ C
+ orrida São Silvestre 10 km\nhttps://www.portugalrunning.com/eventos/sao-si
+ lvestre-barreiro-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-barreiro-2024/
+END:VEVENT
+END:VCALENDAR

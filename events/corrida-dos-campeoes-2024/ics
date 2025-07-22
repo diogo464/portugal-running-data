@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c57496ed
+DTSTAMP:20250720T222319Z
+DTSTART:20240928
+DTEND:20240929
+LOCATION:Barrancos\,  Beja Barrancos\,  Beja
+SUMMARY:Corrida dos Campeões 2024
+DESCRIPTION:A Câmara Municipal de Barrancos com o apoio logístico do Club
+ e Linces de Noudar promovea prova “V Corrida dos Campeões Paulo Guerra e
+  Manuel Damião” no dia 28 de setembro.de 2024.\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-dos-campeoes-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-campeoes-2024/
+END:VEVENT
+END:VCALENDAR

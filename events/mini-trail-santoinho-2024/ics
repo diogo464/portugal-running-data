@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8ddd3e
+DTSTAMP:20250720T222544Z
+DTSTART:20241109
+DTEND:20241110
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Mini-Trail Santoinho 2024
+DESCRIPTION:O Mini-Trail Qta Santoínho é uma organização da Associaçã
+ o Trilhos de Viana\,  com o apoio da Camara Municipal de Viana do Castelo. 
+ Realiza-se a 9 de Novembro de 2024\,  com partidas/chegadas na Quinta deSan
+ toínho. Terá a distancia de: uma prova de trail e uma caminhada:Mini-Trai
+ l – 8kmCaminhada – 8km\nhttps://www.portugalrunning.com/eventos/mini-tr
+ ail-santoinho-2024/
+URL:https://www.portugalrunning.com/eventos/mini-trail-santoinho-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf6ab206
+DTSTAMP:20250720T222142Z
+DTSTART:20250418
+DTEND:20250419
+LOCATION:Porto de Mós\,  Leiria Porto de Mós\,  Leiria
+SUMMARY:17 kms Porto de Mós 2025
+DESCRIPTION:17 kms Porto de Mós 2025\nhttps://www.portugalrunning.com/even
+ tos/17-kms-porto-de-mos-2025/
+URL:https://www.portugalrunning.com/eventos/17-kms-porto-de-mos-2025/
+END:VEVENT
+END:VCALENDAR

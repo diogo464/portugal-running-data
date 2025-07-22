@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d69ab3c7
+DTSTAMP:20250720T222753Z
+DTSTART:20241027
+DTEND:20241028
+LOCATION:Guisande\,  Santa Maria da Feira Guisande\,  Santa Maria da Feira
+SUMMARY:Trail do Viso 2024
+DESCRIPTION:O Trail do Viso é um evento desportivo com duas vertentes\,  u
+ m Trail com cariz competitivo e uma Caminhada com cariz recreativo que perm
+ itirá aos participantes partir da Capela do Viso de Guisande e percorrer t
+ rilhos de beleza extrema do concelho de Santa Maria da Feira.\nhttps://www.
+ portugalrunning.com/eventos/trail-do-viso-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-viso-2024/
+END:VEVENT
+END:VCALENDAR

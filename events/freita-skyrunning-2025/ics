@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c90196c8
+DTSTAMP:20250720T222416Z
+DTSTART:20250705
+DTEND:20250706
+LOCATION:Vale de Cambra\,  Aveiro Vale de Cambra\,  Aveiro
+SUMMARY:Freita Skyrunning 2025
+DESCRIPTION:FREITA SKYRUNNING 2025 é uma organização da Associação De
+ sportiva e Cultural de Felgueira\,  em parceria com a Câmara Municipal de
+  Vale de Cambra e em cooperação com várias instituições públicas e p
+ rivadas.\nhttps://www.portugalrunning.com/eventos/freita-skyrunning-2025/
+URL:https://www.portugalrunning.com/eventos/freita-skyrunning-2025/
+END:VEVENT
+END:VCALENDAR

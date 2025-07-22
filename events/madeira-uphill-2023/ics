@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbec4a54
+DTSTAMP:20250720T222502Z
+DTSTART:20230709
+DTEND:20230710
+LOCATION:Madeira Madeira
+SUMMARY:Madeira Uphill 2000 2023
+DESCRIPTION:O Madeira Uphill 2000 é organizado pela Associação de Atleti
+ smo da Região Autónoma da Madeira\,  com o apoio de instituições públi
+ cas e privadas\,  com partidas na Praça do Povo e Terreiro da Luta e térm
+ ino no Pico do Arieiro\,  o terceiro ponto mais alto da ilha da Madeira. A 
+ organização[..]\nhttps://www.portugalrunning.com/eventos/madeira-uphill-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/madeira-uphill-2023/
+END:VEVENT
+END:VCALENDAR

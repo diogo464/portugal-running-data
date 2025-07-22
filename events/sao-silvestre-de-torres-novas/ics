@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d187b336
+DTSTAMP:20250720T222632Z
+DTSTART:20191228
+DTEND:20191229
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:São Silvestre de Torres Novas
+DESCRIPTION:A Corrida de São Silvestre é uma prova com bastante tradiçã
+ o em Torres Novas. Realiza-se no último sábado do ano e traz à cidade v�
+ �rias centenas de participantes oriundos de todo o país. Esta prova é org
+ anizada pelo Município de Torres Novas com a colaboração técnica de 3 c
+ lubes do[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-torr
+ es-novas/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-torres-novas/
+END:VEVENT
+END:VCALENDAR

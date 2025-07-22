@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca0dc932
+DTSTAMP:20250720T222432Z
+DTSTART:20240929T125300Z
+DTEND:20240929T125300Z
+LOCATION:Entroncamento\,  Santarém Entroncamento\,  Santarém
+SUMMARY:Grande Prémio Museu Nacional Ferroviário 2024
+DESCRIPTION:O Município do Entroncamento\,  organiza com o apoio técnico 
+ do CLAC\,  no dia 29 de Setembro de 2024\,  pelas 10 horas\,  o XXVII GRAND
+ E PRÉMIO MUSEU NACIONAL FERROVIÁRIO e a Caminhada José Canelo.\nhttps://
+ www.portugalrunning.com/eventos/grande-premio-museu-nacional-ferroviario-20
+ 24/
+URL:https://www.portugalrunning.com/eventos/grande-premio-museu-nacional-ferroviario-2024/
+END:VEVENT
+END:VCALENDAR

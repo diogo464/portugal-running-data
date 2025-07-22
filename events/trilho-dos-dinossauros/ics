@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9e7a62e
+DTSTAMP:20250720T222846Z
+DTSTART:20200301
+DTEND:20200302
+LOCATION:Praia da Areia Branca\,  Lourinhã\,  Lisboa Praia da Areia Branca\,  Lourinhã\,  Lisboa
+SUMMARY:Trilho dos Dinossauros
+DESCRIPTION:Data: 01 de Março de 2020 Localidade: Praia da Areia Branca (c
+ oncelho da Lourinhã) Limite de inscritos: Trail Longo - 250 atletas Trail 
+ Curto - 500 atletas Mini Trail - 400 atletas Caminhada: 150 atletas Preços
+ : Entre 26 de Novembro e 30 de Novembro – Promocional !! Inclui Camisola 
+ Técnica[..]\nhttps://www.portugalrunning.com/eventos/trilho-dos-dinossauro
+ s/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-dinossauros/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b31f48
+DTSTAMP:20250720T222251Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Alhandra\, Vila Franca de Xira Alhandra\, Vila Franca de Xira
+SUMMARY:Corrida Cimpor 2024
+DESCRIPTION:Corrida 10km | 10h00 | CIMPOR Alhandra Caminhada 4km | 10h05 | 
+ CIMPOR Alhandra\nhttps://www.portugalrunning.com/eventos/corrida-cimpor-202
+ 4/
+URL:https://www.portugalrunning.com/eventos/corrida-cimpor-2024/
+END:VEVENT
+END:VCALENDAR

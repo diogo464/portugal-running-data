@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc41a961
+DTSTAMP:20250720T222508Z
+DTSTART:20251025
+DTEND:20251026
+LOCATION:Lisboa Lisboa
+SUMMARY:Maratona de Lisboa 2025
+DESCRIPTION:A Maratona Lisboa realiza-se a 25 de Outubro. Com uma nova part
+ ida em Carcavelos\,  em frente à Nova Business School of Economics\,  e me
+ ta instalada na simbólica&nbsp;Praça do Comércio\,  a Maratona de Lisboa
+  tem um percurso 100% à beira mar/rio\,  oferecendo aos seus atletas um ce
+ nário único no mundo.\nhttps://www.portugalrunning.com/eventos/maratona-d
+ e-lisboa-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-de-lisboa-2025/
+END:VEVENT
+END:VCALENDAR

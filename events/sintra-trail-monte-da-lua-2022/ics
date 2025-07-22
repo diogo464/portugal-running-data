@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc46b9
+DTSTAMP:20250720T222651Z
+DTSTART:20221022
+DTEND:20221023
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Sintra Trail Monte da Lua 2022
+DESCRIPTION:A Câmara Municipal de Sintra organiza no dia 22 de outubro de 
+ 2022\,  pelas 20h00\,  o SINTRA TRAIL Monte da Lua.A 2ª edição do SINTRA
+  TRAIL Monte da Lua é composta por uma prova de corrida e duas caminhadas\
+ ,  nomeadamente: Trail de 10 km\,  com caracter competitivo;Caminhada Longa
+  – 10[..]\nhttps://www.portugalrunning.com/eventos/sintra-trail-monte-da-
+ lua-2022/
+URL:https://www.portugalrunning.com/eventos/sintra-trail-monte-da-lua-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1518eaa
+DTSTAMP:20250720T222213Z
+DTSTART:20211017
+DTEND:20211018
+LOCATION:Afife\,  Viana do Castelo Afife\,  Viana do Castelo
+SUMMARY:Afife Running Trail 2021
+DESCRIPTION:O VI Afife Running Trail 2021 realizar-se-à dia 17 de outubro 
+ na freguesia de Afife. Compõe-se de um caminhada de monte de 10km\,  um tr
+ ail curto de 16km\,  um trail longo de 26km&nbsp;e um trail ultra de 46 km.
+ &nbsp;\nhttps://www.portugalrunning.com/eventos/afife-running-trail-2021/
+URL:https://www.portugalrunning.com/eventos/afife-running-trail-2021/
+END:VEVENT
+END:VCALENDAR

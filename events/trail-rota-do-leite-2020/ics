@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8619828
+DTSTAMP:20250720T222822Z
+DTSTART:20200223
+DTEND:20200224
+LOCATION:Macieira Rates - Barcelos Macieira Rates - Barcelos
+SUMMARY:Trail Rota Do Leite 2020
+DESCRIPTION:A “1º Edição TRAIL ROTA DO LEITE” realiza-se no dia 23 d
+ e fevereiro 2020 em Macieira Rates – Barcelos com início e fim no mesmo 
+ local. É um evento de cariz lúdico desportivo é uma prova de corrida de 
+ montanha que percorre trilhos e caminhos rurais\,  com o charme de[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-rota-do-leite-2020/
+URL:https://www.portugalrunning.com/eventos/trail-rota-do-leite-2020/
+END:VEVENT
+END:VCALENDAR

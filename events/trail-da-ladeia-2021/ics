@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d48dc70e
+DTSTAMP:20250720T222720Z
+DTSTART:20211009
+DTEND:20211010
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Ladeia 2021
+DESCRIPTION:O 6º Trail da Ladeia - Frutorra realizar-se-á no dia a 9 e 10
+  de outubro de 2021 em Alvorge\, Concelho de Ansião\,  Distrito de Leiria.
+  É constituído por 2 provas competitivas\,  uma caminhada e o Trail Kids.
+  O evento está integrado nas provas da Taça de Portugal da ATRP e[..]\nht
+ tps://www.portugalrunning.com/eventos/trail-da-ladeia-2021/
+URL:https://www.portugalrunning.com/eventos/trail-da-ladeia-2021/
+END:VEVENT
+END:VCALENDAR

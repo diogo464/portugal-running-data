@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9e18139
+DTSTAMP:20250720T222846Z
+DTSTART:20220410
+DTEND:20220411
+LOCATION:Penela\,  Portugal Penela\,  Portugal
+SUMMARY:Trilho Do Infante 2022
+DESCRIPTION:Trilho Do Infante 2022\nhttps://www.portugalrunning.com/eventos
+ /trilho-do-infante-2022/
+URL:https://www.portugalrunning.com/eventos/trilho-do-infante-2022/
+END:VEVENT
+END:VCALENDAR

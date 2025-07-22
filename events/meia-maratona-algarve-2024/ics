@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc8632e8
+DTSTAMP:20250720T222512Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Passeio das Dunas\,  Vilamoura Passeio das Dunas\,  Vilamoura
+SUMMARY:Meia Maratona Algarve 2024
+DESCRIPTION:A Meia Maratona do Algarve/ Mamamaratona é uma organização d
+ a Câmara Municipal de Loulé e da Associação de Atletismo do Algarve\,  
+ em parceria com a Associação Oncológica do Algarve\,  Junta de Freguesia
+  do Quarteira\,  Vilamoura World\,  Inframoura. 10.00h: Meia Maratona do Al
+ garve/ Mamamaratona na distância de 21\, 097km + Mini Maratona[..]\nhttps:
+ //www.portugalrunning.com/eventos/meia-maratona-algarve-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-algarve-2024/
+END:VEVENT
+END:VCALENDAR

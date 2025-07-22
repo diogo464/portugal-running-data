@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf449c57
+DTSTAMP:20250720T222140Z
+DTSTART:20230625
+DTEND:20230626
+LOCATION:Tramagal\,  Abrantes Tramagal\,  Abrantes
+SUMMARY:10Km De Tramagal 2023
+DESCRIPTION:A Freguesia de Tramagal realiza anualmente a prova de atletismo
+  “10 Km de Tramagal”\, que vai na sua 4.ª edição\,  como forma de in
+ centivar a prática desportiva\,  o convívio e avalorização do territór
+ io.A realização deste popular evento faz parte das Comemorações do 269�
+ � Aniversário daFreguesia de Tramagal.\nhttps://www.portugalrunning.com/ev
+ entos/10km-freguesia-de-tramagal-2023/
+URL:https://www.portugalrunning.com/eventos/10km-freguesia-de-tramagal-2023/
+END:VEVENT
+END:VCALENDAR

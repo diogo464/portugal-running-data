@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2f3051d
+DTSTAMP:20250720T222239Z
+DTSTART:20230203
+DTEND:20230204
+LOCATION:Ilha de Santa Maria\,  Açores Ilha de Santa Maria\,  Açores
+SUMMARY:Colombus Trail 2023
+DESCRIPTION:A Columbus Trail Run é uma prova anual na Ilha de Santa Maria\
+ ,  nos Açores\,  composta por 3 corridas: CUT 76k - Columbus Grand Trail; 
+ CTM 42K - Columbus Trail Marathon; CTHM - Meia Maratona da Trilha Columbus 
+ 24K.\nhttps://www.portugalrunning.com/eventos/colombus-trail-2023/
+URL:https://www.portugalrunning.com/eventos/colombus-trail-2023/
+END:VEVENT
+END:VCALENDAR

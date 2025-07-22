@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c934abdf
+DTSTAMP:20250720T222419Z
+DTSTART:20220320
+DTEND:20220321
+LOCATION:Leiria Leiria
+SUMMARY:G. D. Concha Azul 2022
+DESCRIPTION:O presente documento tem por objetivo definir e regular o progr
+ ama adotado pelo Grupo Desportivo Concha Azul para a monitorização de p
+ articipantes. Este regulamento só deverá ser aplicado na prova “1ºTra
+ il G. D. Concha Azul 2022”\,  organizada pela G.D.C.A de S. Martinho do 
+ Porto. O objetivo desta prova é fomentar a prática de atividade[..]\nhttp
+ s://www.portugalrunning.com/eventos/g-d-concha-azul-2022/
+URL:https://www.portugalrunning.com/eventos/g-d-concha-azul-2022/
+END:VEVENT
+END:VCALENDAR

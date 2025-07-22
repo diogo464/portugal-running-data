@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c21f3df6
+DTSTAMP:20250720T222225Z
+DTSTART:20220903
+DTEND:20220904
+LOCATION:Belas\,  Sintra\,  Lisboa Belas\,  Sintra\,  Lisboa
+SUMMARY:Belas Cross Trail 2022
+DESCRIPTION:Belas Cross Trail 2022\nhttps://www.portugalrunning.com/eventos
+ /belas-cross-trail-2022/
+URL:https://www.portugalrunning.com/eventos/belas-cross-trail-2022/
+END:VEVENT
+END:VCALENDAR

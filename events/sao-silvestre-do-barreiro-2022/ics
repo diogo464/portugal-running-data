@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1b315b3
+DTSTAMP:20250720T222635Z
+DTSTART:20221203
+DTEND:20221204
+LOCATION:Barreiro Barreiro
+SUMMARY:Barreiro São Silvestre 2022
+DESCRIPTION:A São Silvestre do Barreiro 2022 terá uma corrida de 10 km e 
+ uma caminhada de 5km e será realizada no dia 3 de Dezembro. ⎯ Caminhada 
+ Solidária 7 km⎯ Corrida Barreiro São Silvestre 10 km\nhttps://www.portu
+ galrunning.com/eventos/sao-silvestre-do-barreiro-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-do-barreiro-2022/
+END:VEVENT
+END:VCALENDAR

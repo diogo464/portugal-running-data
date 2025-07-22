@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7eddb02
+DTSTAMP:20250720T222814Z
+DTSTART:20230708
+DTEND:20230709
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:Trail Penedo Da Moura 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-penedo-da-moura
+ -2023/
+URL:https://www.portugalrunning.com/eventos/trail-penedo-da-moura-2023/
+END:VEVENT
+END:VCALENDAR

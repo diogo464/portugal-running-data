@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d61f0c
+DTSTAMP:20250720T222309Z
+DTSTART:20220320
+DTEND:20220321
+LOCATION:Avenida Norton de Matos\,  Matosinhos Avenida Norton de Matos\,  Matosinhos
+SUMMARY:Corrida Dia do Pai 2022
+DESCRIPTION:Corrida Dia do Pai 2022. 20 de Março de 2022 - Porto - 10km/5k
+ m\nhttps://www.portugalrunning.com/eventos/corrida-dia-do-pai-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-dia-do-pai-2022/
+END:VEVENT
+END:VCALENDAR

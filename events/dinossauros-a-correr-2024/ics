@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8292ae5
+DTSTAMP:20250720T222402Z
+DTSTART:20240714T083300Z
+DTEND:20240714T083300Z
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:Dinossauros a Correr 2024
+DESCRIPTION:Dia 14 de Julho\,  às 11h\,  os dinossauros vão andar à solt
+ a! Esta será a corrida mais pré-histórica e divertida do país\,  na cap
+ ital dos Dinossauros - Lourinhã\,  uma iniciativa da FEIJÃO integrada no 
+ programa do evento “Dinossauros saem à rua”\,  organizada pela União 
+ de Freguesias Lourinhã e Atalaia em[..]\nhttps://www.portugalrunning.com/e
+ ventos/dinossauros-a-correr-2024/
+URL:https://www.portugalrunning.com/eventos/dinossauros-a-correr-2024/
+END:VEVENT
+END:VCALENDAR

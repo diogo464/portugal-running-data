@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a9215d
+DTSTAMP:20250720T222842Z
+DTSTART:20240225T081800Z
+DTEND:20240225T081800Z
+LOCATION:Alandroal\,  Évora Alandroal\,  Évora
+SUMMARY:Trail Xperience 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-xperience-2024/
+URL:https://www.portugalrunning.com/eventos/trail-xperience-2024/
+END:VEVENT
+END:VCALENDAR

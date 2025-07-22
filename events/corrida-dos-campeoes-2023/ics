@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c581a191
+DTSTAMP:20250720T222320Z
+DTSTART:20231015
+DTEND:20231016
+LOCATION:Barrancos\,  Beja Barrancos\,  Beja
+SUMMARY:Corrida dos Campeões 2023
+DESCRIPTION:A Câmara Municipal de Barrancos com o apoio logístico do Barr
+ ancos FC promove a prova “IV Corrida dosCampeões Paulo Guerra e Manuel D
+ amião” no dia 15 de outubro de 2023.\nhttps://www.portugalrunning.com/ev
+ entos/corrida-dos-campeoes-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-campeoes-2023/
+END:VEVENT
+END:VCALENDAR

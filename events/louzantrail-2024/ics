@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbb3066a
+DTSTAMP:20250720T222459Z
+DTSTART:20240302
+DTEND:20240303
+LOCATION:Lousã\,  Coimbra Lousã\,  Coimbra
+SUMMARY:LouzanTrail 2024
+DESCRIPTION:Montanha Clube\,  Secção de Trail Running\,  é a entidade or
+ ganizadora do evento Louzantrail\,  que decorrerá nos dias 1\,  2 e 3 de m
+ arço de 2024 na Vila da Lousã\,  independentemente das condições climat
+ éricas do dia\,  desde que a organização entenda que estas não ofereça
+ m riscos aos participantes. Esta edição do[..]\nhttps://www.portugalrunni
+ ng.com/eventos/louzantrail-2024/
+URL:https://www.portugalrunning.com/eventos/louzantrail-2024/
+END:VEVENT
+END:VCALENDAR

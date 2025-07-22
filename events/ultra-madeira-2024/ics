@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db3196c1
+DTSTAMP:20250720T222907Z
+DTSTART:20241005
+DTEND:20241006
+LOCATION:Madeira Madeira
+SUMMARY:Ultra Madeira 2024
+DESCRIPTION:A "Ultra Madeira" é um evento de trail running\,  que decorre 
+ integralmente na ilha da Madeira e que integra 5 provas\,  com passagens pe
+ los pontos mais emblemáticos da ilha.\nhttps://www.portugalrunning.com/eve
+ ntos/ultra-madeira-2024/
+URL:https://www.portugalrunning.com/eventos/ultra-madeira-2024/
+END:VEVENT
+END:VCALENDAR

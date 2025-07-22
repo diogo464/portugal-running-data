@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dabaa773
+DTSTAMP:20250720T222859Z
+DTSTART:20250622
+DTEND:20250623
+LOCATION:Macinhata do Vouga\,  Águeda Macinhata do Vouga\,  Águeda
+SUMMARY:Trilhos do Vouga 2025
+DESCRIPTION:A contar para o Troféu Trail Terras de Águeda\,  o Trilhos do
+  Vouga será uma prova com trêss distâncias competitivas e uma caminhada.
+  Atravesse alguns dos locais mais interessantes de Macinhata do Vouga e usu
+ frua dos incríveis espaços naturais.\nhttps://www.portugalrunning.com/eve
+ ntos/trilhos-do-vouga-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-vouga-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5500a95
+DTSTAMP:20250720T222733Z
+DTSTART:20221002
+DTEND:20221003
+LOCATION:Cadaval\,  Lisboa Cadaval\,  Lisboa
+SUMMARY:1º Trail do Arnóia 2022
+DESCRIPTION:O trail do Arnóia 2022 é uma prova com 2 distâncias e caminh
+ ada com um espaço para as crianças que não querem ir caminhar.\nhttps://
+ www.portugalrunning.com/eventos/trail-do-arnoia-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-arnoia-2022/
+END:VEVENT
+END:VCALENDAR

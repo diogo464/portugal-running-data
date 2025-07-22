@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc307df
+DTSTAMP:20250720T222148Z
+DTSTART:20230708
+DTEND:20230709
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:26º Corrida Da Lagoa De Santo André
+DESCRIPTION:A Junta de Freguesia de Santo André\,  em co-organização com
+  a Ganhardestak realiza no próximo dia 8 de julho de 2023\,  a “26ª Cor
+ rida da Lagoa de Santo André” em Santo André\,  Santiago do Cacém. É 
+ uma prova desportiva que tem como objetivo de promover a prática de despor
+ tiva\,  o[..]\nhttps://www.portugalrunning.com/eventos/26o-corrida-da-lagoa
+ -de-santo-andre/
+URL:https://www.portugalrunning.com/eventos/26o-corrida-da-lagoa-de-santo-andre/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc462589
+DTSTAMP:20250720T222924Z
+DTSTART:20231228
+DTEND:20231229
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Volta à Cidade do Funchal 2023
+DESCRIPTION:A Volta à Cidade do Funchal acontece pela 64ª vez na ilha da 
+ Madeira e é uma das mais míticas corridas de estrada de fim de ano\,  abe
+ rta a todas as idades.\nhttps://www.portugalrunning.com/eventos/volta-a-cid
+ ade-do-funchal-2023/
+URL:https://www.portugalrunning.com/eventos/volta-a-cidade-do-funchal-2023/
+END:VEVENT
+END:VCALENDAR

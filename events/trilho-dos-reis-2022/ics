@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9edb4e7
+DTSTAMP:20250720T222846Z
+DTSTART:20220115
+DTEND:20220116
+LOCATION:Portalegre Portalegre
+SUMMARY:Trilho dos Reis 2022
+DESCRIPTION:Aí está... "O Regresso dos Reis"... Está assim agendado regr
+ esso à nossa cidade no fim de semana de 15 e 16 Janeiro de 2022.. Mais nov
+ idades para breve...\nhttps://www.portugalrunning.com/eventos/trilho-dos-re
+ is-2022/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-reis-2022/
+END:VEVENT
+END:VCALENDAR

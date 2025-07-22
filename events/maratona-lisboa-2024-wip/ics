@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3dc44d
+DTSTAMP:20250720T222507Z
+DTSTART:20241006
+DTEND:20241007
+LOCATION:Lisboa Lisboa
+SUMMARY:Maratona Lisboa 2024 WIP
+DESCRIPTION:A Maratona Lisboa realiza-se a 6 de Outubro\,  parte de&nbsp;Ca
+ scais&nbsp;e segue sempre pela&nbsp;Estrada Marginal\,  primeiro junto ao m
+ ar e depois ao longo do rio at√© √† meta em Lisboa no&nbsp;Parque das Na√ß√
+ µes. Ainda podes ganhar dorsais duplos para as melhores corridas! Saber Mai
+ s\nhttps://www.portugalrunning.com/eventos/maratona-lisboa-2024-wip/
+URL:https://www.portugalrunning.com/eventos/maratona-lisboa-2024-wip/
+END:VEVENT
+END:VCALENDAR

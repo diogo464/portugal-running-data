@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbb19514
+DTSTAMP:20250720T222459Z
+DTSTART:20220304
+DTEND:20220305
+LOCATION:Lousã\,  Coimbra Lousã\,  Coimbra
+SUMMARY:LouzanTrail 2022
+DESCRIPTION:Resultados Montanha Clube\,  Secção de Trail Running\,  é a 
+ entidade organizadora do evento Louzantrail 2022\,  que decorrerá nos dias
+  4\,  5 e 6 de março de 2022 na Vila da Lousã\,  independentemente das co
+ ndições climatéricas do dia\,  desde que a organização entenda que est
+ as não ofereçam riscos aos participantes. A[..]\nhttps://www.portugalrunn
+ ing.com/eventos/louzantrail-2022/
+URL:https://www.portugalrunning.com/eventos/louzantrail-2022/
+END:VEVENT
+END:VCALENDAR

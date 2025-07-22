@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daaaad5c
+DTSTAMP:20250720T222858Z
+DTSTART:20240218
+DTEND:20240219
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:Trilho dos Dinossauros 2024
+DESCRIPTION:A 6ª edição do Troféu dos Dinossauros contempla duas provas
+  em 2024: TRILHO DOS DINOSSAUROS – Dia 18 de Fevereiro 2024 – Praia da 
+ Areia Branca Carrossel das Cesaredas – Dia 24 de Novembro 2024 – Reguen
+ go Grande Os valores aproximados das distâcias e acumulado para as diferen
+ tes provas são[..]\nhttps://www.portugalrunning.com/eventos/trilhos-dos-di
+ nossauros-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-dinossauros-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8f33601
+DTSTAMP:20250720T222831Z
+DTSTART:20230618
+DTEND:20230619
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Terra Do Brinquedo 2023
+DESCRIPTION:TRAIL TERRA DO BRINQUEDO - ALFENA é uma prova que percorre tri
+ lhos e caminhos na serrade Alfena e de Quinta Rei\,  no Concelho de Valongo
+ \,  com partida e chegada no Parque Vale do Leça. O Trail Longo 21km e o T
+ rail Curto 13km estão abertos a maiores de idade (16[..]\nhttps://www.port
+ ugalrunning.com/eventos/trail-terra-do-brinquedo-2023/
+URL:https://www.portugalrunning.com/eventos/trail-terra-do-brinquedo-2023/
+END:VEVENT
+END:VCALENDAR

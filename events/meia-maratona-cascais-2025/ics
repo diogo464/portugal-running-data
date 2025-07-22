@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc87b4c8
+DTSTAMP:20250720T222512Z
+DTSTART:20250209
+DTEND:20250210
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Meia Maratona Cascais 2025
+DESCRIPTION:A 9ª edição da Montepio Meia Maratona de Cascais\, &nbsp;pow
+ ered by&nbsp;Montepio Associação Mutualista\,  organizada pela HMS Sports
+ \,  em parceria com a Câmara Municipal de Cascais e o CCD Cascais\,  regre
+ ssa à Baía de Cascais a 8 e 9 de fevereiro 2025. O evento contará com a 
+ Corrida das Crianças no dia[..]\nhttps://www.portugalrunning.com/eventos/m
+ eia-maratona-cascais-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-cascais-2025/
+END:VEVENT
+END:VCALENDAR

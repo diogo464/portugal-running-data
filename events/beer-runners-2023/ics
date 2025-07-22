@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c21dbbc2
+DTSTAMP:20250720T222225Z
+DTSTART:20230902
+DTEND:20230903
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Beer Runners 2023
+DESCRIPTION:A Corrida BEER RUNNERS é um evento promovido pela&nbsp;Associa
+ ção Cervejeiros de Portugal&nbsp;e organizado pela Camara Municipal de Vi
+ ana do Castelo em conjunto com a Xlife Events e o Crossfit de Viana do Cast
+ elo. No dia 2 de setembro de 2023 irá realizar-se a&nbsp;2ª Corrida BEER 
+ RUNNERS\,  que se caracteriza pelo[..]\nhttps://www.portugalrunning.com/eve
+ ntos/beer-runners-2023/
+URL:https://www.portugalrunning.com/eventos/beer-runners-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c95c2d80
+DTSTAMP:20250720T222421Z
+DTSTART:20230625
+DTEND:20230626
+LOCATION:Vale de Cambra\,  Aveiro Vale de Cambra\,  Aveiro
+SUMMARY:Grande Prémio Alberto Bastos 2023
+DESCRIPTION:A Associação Cívica Alberto Bastos (ACAB)\,  a ACR de Vale d
+ e Cambra e o Inter Caima Pinheiro Manso Futebol Clube\,  com o apoio da Câ
+ mara Municipal de Vale de Cambra e da Junta de Freguesia de São Pedro de C
+ astelões\,  levam a efeito a primeira edição do Grande Prémio de[..]\nh
+ ttps://www.portugalrunning.com/eventos/grande-premio-alberto-bastos-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-alberto-bastos-2023/
+END:VEVENT
+END:VCALENDAR

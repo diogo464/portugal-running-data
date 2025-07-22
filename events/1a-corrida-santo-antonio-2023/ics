@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf7aad2b
+DTSTAMP:20250720T222143Z
+DTSTART:20230715
+DTEND:20230716
+LOCATION:Nine\,  Vila Nova de Famalicão Nine\,  Vila Nova de Famalicão
+SUMMARY:1ª Corrida Santo António 2023
+DESCRIPTION:1º Corrida Santo António – 15 de julho de 2023 Prova de Est
+ rada\,  enquadrada em provas abertas Distâncias: &nbsp; &nbsp; &nbsp;Prova
+  competitiva 10kms&nbsp; &nbsp; &nbsp; &nbsp;Caminhada – 5Kms &nbsp; &nbs
+ p; &nbsp;Local: Largo STO António\,  Nine\,  Vila Nova de Famalicão\nhttp
+ s://www.portugalrunning.com/eventos/1a-corrida-santo-antonio-2023/
+URL:https://www.portugalrunning.com/eventos/1a-corrida-santo-antonio-2023/
+END:VEVENT
+END:VCALENDAR

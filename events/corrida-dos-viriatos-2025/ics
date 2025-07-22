@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5cc3614
+DTSTAMP:20250720T222324Z
+DTSTART:20250316
+DTEND:20250317
+LOCATION:Viseu Viseu
+SUMMARY:Corrida dos Viriatos 2025
+DESCRIPTION:A corrida será realizada num circuito urbano pelas ruas da cid
+ ade de Viseu numa distância de 11Km (masculinos / femininos)\,  com partid
+ a junto ao monumento “Cava de Viriato” e meta no RI14. A atividade cont
+ ará ainda com um percurso de caminhada\,  que terá os mesmos pontos de in
+ ício e de[..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-viriato
+ s-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-viriatos-2025/
+END:VEVENT
+END:VCALENDAR

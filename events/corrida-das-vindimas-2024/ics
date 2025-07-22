@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c48316d4
+DTSTAMP:20250720T222304Z
+DTSTART:20240921
+DTEND:20240922
+LOCATION:Cartaxo\,  Santarém Cartaxo\,  Santarém
+SUMMARY:Corrida das Vindimas 2024
+DESCRIPTION:A VII CORRIDA DAS VINDIMAS – CARTAXO é organizada pelo Munic
+ ípio do Cartaxo com o apoio da Escola de Atletismo Correr + do Cartaxo e d
+ o e o Trilho dos Cágados.\nhttps://www.portugalrunning.com/eventos/corrida
+ -das-vindimas-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-das-vindimas-2024/
+END:VEVENT
+END:VCALENDAR

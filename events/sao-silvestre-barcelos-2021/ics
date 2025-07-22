@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0f001ec
+DTSTAMP:20250720T222623Z
+DTSTART:20211230
+DTEND:20211231
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:São Silvestre Barcelos 2021
+DESCRIPTION:São Silvestre Barcelos 2021\nhttps://www.portugalrunning.com/e
+ ventos/sao-silvestre-barcelos-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-barcelos-2021/
+END:VEVENT
+END:VCALENDAR

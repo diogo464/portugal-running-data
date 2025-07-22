@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dab6137d
+DTSTAMP:20250720T222859Z
+DTSTART:20250619T062200Z
+DTEND:20250619T235900Z
+LOCATION:Vale de Amoreira\,  Manteigas Vale de Amoreira\,  Manteigas
+SUMMARY:Trilhos e Aventuras Facivale 2025
+DESCRIPTION:Trail 15 KM Caminhada 12 KM Passeio BTT 30 KM\nhttps://www.port
+ ugalrunning.com/eventos/trilhos-e-aventuras-facivale-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-e-aventuras-facivale-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8a18d49
+DTSTAMP:20250720T222826Z
+DTSTART:20240616
+DTEND:20240617
+LOCATION:Pinhel\,  Guarda Pinhel\,  Guarda
+SUMMARY:Trail Run Pinhel Cidade Falcão 2024
+DESCRIPTION:A madrinha da Prova é Vera Bernardo\,  uma Atleta Pinhelense\,
+   Vencedora da Taça de Portugal de Trail\,  Campeã Nacional Absoluta de T
+ rail Endurance e Campeã Mundial W40 em Corrida de Montanha. O evento está
+  agendado para dia 16 de junho (domingo)\,  com início às 8.30h em frente
+  à Câmara Municipal[..]\nhttps://www.portugalrunning.com/eventos/trail-ru
+ n-pinhel-cidade-falcao-2024/
+URL:https://www.portugalrunning.com/eventos/trail-run-pinhel-cidade-falcao-2024/
+END:VEVENT
+END:VCALENDAR

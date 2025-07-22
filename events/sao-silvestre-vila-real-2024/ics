@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2662c08
+DTSTAMP:20250720T222646Z
+DTSTART:20240106
+DTEND:20240107
+LOCATION:Vila Real Vila Real
+SUMMARY:São Silvestre Vila Real 2024
+DESCRIPTION:Realiza-se no dia 6 de Janeiro de 2024\,  pelas 18Horas\,  com 
+ partida no Regimento de Infantaria 13 e chegada na Avenida Carvalho Araújo
+  a XVII São Silvestre Vila Real de 10 kms\,  na qual se integrará uma Cam
+ inhada S. Silvestre Cidade de VilaReal com a distância de 5 kms\,  sem[..]
+ \nhttps://www.portugalrunning.com/eventos/sao-silvestre-vila-real-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vila-real-2024/
+END:VEVENT
+END:VCALENDAR

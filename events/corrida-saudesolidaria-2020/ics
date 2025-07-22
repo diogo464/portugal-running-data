@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f7a8aa
+DTSTAMP:20250720T222343Z
+DTSTART:20200510
+DTEND:20200511
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Saúde+Solidária 2020
+DESCRIPTION:A Corrida Saúde+Solidária é um projeto de empreendedorismo s
+ ocial na área do desporto\,  organizado pela Associação de Estudantes da
+  Faculdade de Medicina de Lisboa AEFML. Consiste numa prova 100% solidária
+  com dois objetivos primordiais bem definidos: a prática desportiva aliada
+  à solidariedade. A VII edição da Corrida Saúde+Solidária\,  terá lug
+ ar[..]\nhttps://www.portugalrunning.com/eventos/corrida-saudesolidaria-2020
+ /
+URL:https://www.portugalrunning.com/eventos/corrida-saudesolidaria-2020/
+END:VEVENT
+END:VCALENDAR

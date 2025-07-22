@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd0ab16c
+DTSTAMP:20250720T222520Z
+DTSTART:20220710
+DTEND:20220711
+LOCATION:Esposende Esposende
+SUMMARY:Meia Maratona de Esposende 2022
+DESCRIPTION:Meia Maratona de Esposende 2022 10 de Julho de 2022 - Esposende
+  - 21km/10km\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-espo
+ sende-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-esposende-2022/
+END:VEVENT
+END:VCALENDAR

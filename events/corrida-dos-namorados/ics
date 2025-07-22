@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c583202a
+DTSTAMP:20250720T222320Z
+DTSTART:20220213
+DTEND:20220214
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida dos Namorados 2022
+DESCRIPTION:Um percurso de 6km\,  no Estádio Universitário de Lisboa\,  
+ unidos num só objetivo… ser o casal mais rápido! da Corrida dos Namorad
+ os 2022. Não importa o ritmo\,  o importante é compartilhar o prazer da a
+ tividade física\,  num ambiente de natureza e envolvidos por uma atmosfera
+  de romantismo e cumplicidade.\nhttps://www.portugalrunning.com/eventos/cor
+ rida-dos-namorados/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-namorados/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d87007a7
+DTSTAMP:20250720T222823Z
+DTSTART:20200811
+DTEND:20200812
+LOCATION:Caparrosinha\,  Tondela Caparrosinha\,  Tondela
+SUMMARY:Trail Rota dos Espigueiros 2020
+DESCRIPTION:A 4.ª Edição do “Trail do Rota dos Espigueiros” é um ev
+ ento de Trail Running\,  organizado pela ARCAPA e com Co-organização da S
+ potCriativo.\nhttps://www.portugalrunning.com/eventos/trail-rota-dos-espigu
+ eiros-2020/
+URL:https://www.portugalrunning.com/eventos/trail-rota-dos-espigueiros-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c4a7b
+DTSTAMP:20250720T222617Z
+DTSTART:20231119
+DTEND:20231120
+LOCATION:Sabrosa\,  Vila Real Sabrosa\,  Vila Real
+SUMMARY:Sabrosa Trail 2023
+DESCRIPTION:Sabrosa Trail 2023\nhttps://www.portugalrunning.com/eventos/sab
+ rosa-trail-2023/
+URL:https://www.portugalrunning.com/eventos/sabrosa-trail-2023/
+END:VEVENT
+END:VCALENDAR

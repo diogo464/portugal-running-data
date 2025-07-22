@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3c001fe
+DTSTAMP:20250720T222252Z
+DTSTART:20250817T092500Z
+DTEND:20250817T092500Z
+LOCATION:Alcáçovas\,  Évora Alcáçovas\,  Évora
+SUMMARY:Corrida da Freguesia 2025
+DESCRIPTION:A corrida da Freguesia é um evento de corrida de piso misto\, 
+  em formato 3x3 com uma distância totalmáxima de 9 km. Cada elemento da e
+ quipa irá percorrer uma volta com cerca de 3 km. O percurso irápercorrer 
+ a vila das Alcáçovas\,  no concelho de Viana do Alentejo. A corrida[..]\n
+ https://www.portugalrunning.com/eventos/corrida-da-freguesia-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-freguesia-2025/
+END:VEVENT
+END:VCALENDAR

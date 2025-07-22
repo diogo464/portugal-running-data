@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d83aa629
+DTSTAMP:20250720T222819Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Águeda Águeda
+SUMMARY:Trail Rota das Fontes 2023
+DESCRIPTION:O trail Rota das Fontes é organizado pela Associação Humanit
+ ária Castanheirense no dia 8 de Outubro de 2023 decorrerão em simultâneo
+  duas provas competitivas: Trail Longo (25 km) e Trail Curto (15 km). Decor
+ rerá também uma prova recreativa: Caminhada (8 km). É um evento que perc
+ orre as veredas do monte\, [..]\nhttps://www.portugalrunning.com/eventos/tr
+ ail-rota-das-fontes-2023/
+URL:https://www.portugalrunning.com/eventos/trail-rota-das-fontes-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1aaa775
+DTSTAMP:20250720T222218Z
+DTSTART:20240421
+DTEND:20240422
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:Aqua Race 2024
+DESCRIPTION:A AQUA-RACE é uma prova de Trail Running com vários percursos
+  aquáticos de caracter técnico tais como: progressão dentro de linhas de
+  água / passagem pelo interior de pequenos açudes (sem recurso a nataçã
+ o) / corrida ao longo de canais de rega / travessia de ribeiras (sem recurs
+ o a natação).[..]\nhttps://www.portugalrunning.com/eventos/aqua-race-2024
+ /
+URL:https://www.portugalrunning.com/eventos/aqua-race-2024/
+END:VEVENT
+END:VCALENDAR

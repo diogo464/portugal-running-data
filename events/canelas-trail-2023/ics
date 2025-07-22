@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2a198fb
+DTSTAMP:20250720T222234Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Canelas Trail 2023
+DESCRIPTION:O Canelas Trail é um evento desportivo de Trail Running da res
+ ponsabilidade organizativa da Associação Desportiva e Cultural de Santa I
+ sabel\,  através da sua secção de Trail Running.É uma Associação sem 
+ fins lucrativos\,  com sede na Freguesia de&nbsp;Canelas\,  Município de&n
+ bsp;Vila Nova de Gaia\,  que se realizará no dia&nbsp;10 de setembro[..]\n
+ https://www.portugalrunning.com/eventos/canelas-trail-2023/
+URL:https://www.portugalrunning.com/eventos/canelas-trail-2023/
+END:VEVENT
+END:VCALENDAR

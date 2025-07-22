@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7b49c0f
+DTSTAMP:20250720T222811Z
+DTSTART:20230527
+DTEND:20230528
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Trail Ossónoba 2023
+DESCRIPTION:O Trail Ossónoba 2023 é um evento desportivo de caráter lúd
+ ico e competitivo que tem por objetivo divulgar e promover não só a prát
+ ica desportiva\,  em especial na modalidade de trail running\,  mas também
+  os territórios do concelho de Faro\,  onde decorre o evento. O Trail Oss�
+ �noba 2023 terá a[..]\nhttps://www.portugalrunning.com/eventos/trail-osson
+ oba-2023/
+URL:https://www.portugalrunning.com/eventos/trail-ossonoba-2023/
+END:VEVENT
+END:VCALENDAR

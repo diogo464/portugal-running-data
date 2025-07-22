@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3f39a6
+DTSTAMP:20250720T222507Z
+DTSTART:20260215
+DTEND:20260216
+LOCATION:Sevilha\,  Espanha Sevilha\,  Espanha
+SUMMARY:Maratona de Sevilha 2026
+DESCRIPTION:A Maratona de Sevilha realiza-se a 15 de fevereiro de 2026 e é
+  organizada pelo Instituto Municipal de Deportes del Ayuntamiento de Sevill
+ a.\nhttps://www.portugalrunning.com/eventos/maratona-de-sevilha-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-de-sevilha-2026/
+END:VEVENT
+END:VCALENDAR

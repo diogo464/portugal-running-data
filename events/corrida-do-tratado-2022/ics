@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5caa94d
+DTSTAMP:20250720T222324Z
+DTSTART:20220903
+DTEND:20220904
+LOCATION:Alcáçovas\,  Évora Alcáçovas\,  Évora
+SUMMARY:Corrida do Tratado 2022
+DESCRIPTION:A Corrida do Tratado é um evento de running de estrada que per
+ corre a vila das Alcáçovas\,  no concelho de Viana do Alentejo. A corrida
+  tem um carácter competitivo e carácter não competitivo para quem queira
+  apenas apreciar o percurso.\nhttps://www.portugalrunning.com/eventos/corri
+ da-do-tratado-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-tratado-2022/
+END:VEVENT
+END:VCALENDAR

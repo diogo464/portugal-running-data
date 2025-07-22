@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7b49fc4
+DTSTAMP:20250720T222811Z
+DTSTART:20220305
+DTEND:20220306
+LOCATION:Leiria Leiria
+SUMMARY:Trail Off Road 2022
+DESCRIPTION:O Clube de Atletismo da Barreira organiza no dia 5 de Março
+  de 2021\,  pelas 18h00\,  o  Trail Off Road 2022 da Barreira\,  composto
+  por um percurso de 16K. Se a organização entender que as condições cl
+ imatéricas são adversas à segurança dos atletas ou que existem outras r
+ azões de qualquer natureza que se incompatibilizem com[..]\nhttps://www.po
+ rtugalrunning.com/eventos/trail-off-road-2022/
+URL:https://www.portugalrunning.com/eventos/trail-off-road-2022/
+END:VEVENT
+END:VCALENDAR

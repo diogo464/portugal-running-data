@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b3193a
+DTSTAMP:20250720T222251Z
+DTSTART:20250406
+DTEND:20250407
+LOCATION:Póvoa de Santa Iria \,  Vila Franca de Xira Póvoa de Santa Iria\,  Vila Franca de Xira
+SUMMARY:Corrida CPCD – Póvoa Santa Iria 2025
+DESCRIPTION:A “II Corrida CPCD – Póvoa de Santa Iria”\,  é um event
+ o de natureza desportiva que irá realizar-se no dia 06 de abril de 2025 e
+  que se desenrolará na cidade da Póvoa de Santa Iria.Esta corrida tem com
+ o objetivo principal a promoção do desporto junto dos nossos atletas e da
+ [..]\nhttps://www.portugalrunning.com/eventos/corrida-cpcd-povoa-santa-iria
+ -2025/
+URL:https://www.portugalrunning.com/eventos/corrida-cpcd-povoa-santa-iria-2025/
+END:VEVENT
+END:VCALENDAR

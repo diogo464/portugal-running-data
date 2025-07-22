@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c19aa983
+DTSTAMP:20250720T222217Z
+DTSTART:20211010
+DTEND:20211011
+LOCATION:Carrazeda de Ansiães\,  Bragança Carrazeda de Ansiães\,  Bragança
+SUMMARY:Ansiães Douro Trail 2021
+DESCRIPTION:O Município Carrazeda de Ansiães e a Portugal NTN. organizam\
+ ,  no próximo dia 10 de outubro 2021 a IV Edição do Ansiães Douro Trail
+ .O Ansiães Douro Trail é uma prova de Trail running certificada pela ATRP
+  integrada na Taça de Portugal de Trail 2021 que percorre trilhos\,  camin
+ hos rurais e[..]\nhttps://www.portugalrunning.com/eventos/ansiaes-douro-tra
+ il-2021/
+URL:https://www.portugalrunning.com/eventos/ansiaes-douro-trail-2021/
+END:VEVENT
+END:VCALENDAR

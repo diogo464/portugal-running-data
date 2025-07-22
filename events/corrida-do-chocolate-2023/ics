@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c52305e9
+DTSTAMP:20250720T222314Z
+DTSTART:20230325
+DTEND:20230326
+LOCATION:Óbidos\,  Leiria Óbidos\,  Leiria
+SUMMARY:IV Corrida Do Chocolate 2023
+DESCRIPTION:A Câmara Municipal de Óbidos (CMO) organiza em parceria com a
+  Empresa Municipal “Óbidos Criativa” (OC)\,  o Clube de Atletismo de �
+ �bidos (CAOB) e a Ganhardestak\,  no 25 de março de 2023\,  uma competiç�
+ �o denominada "IV CORRIDA DO CHOCOLATE"\,  integrando ainda a “III CAMINH
+ ADA DO CHOCOLATE”\,  todas com partida e[..]\nhttps://www.portugalrunning
+ .com/eventos/corrida-do-chocolate-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-do-chocolate-2023/
+END:VEVENT
+END:VCALENDAR

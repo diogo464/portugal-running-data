@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc3611b2
+DTSTAMP:20250720T222923Z
+DTSTART:20230212
+DTEND:20230213
+LOCATION:Terrugem\,  Sintra Terrugem\,  Sintra
+SUMMARY:VI Terrugem Trail 2023
+DESCRIPTION:O VI Terrugem Trail é um evento organizado pela ABIT – Assoc
+ iação de Bicicletas da Terrugem. A ABIT conta com o apoio da Câmara Muni
+ cipal de Sintra\,  da União de Freguesias de Terrugem e São João das Lam
+ pas\,  bem como de outras entidades com sede social no Concelho. O VI[..]\n
+ https://www.portugalrunning.com/eventos/vi-terrugem-trail-2023/
+URL:https://www.portugalrunning.com/eventos/vi-terrugem-trail-2023/
+END:VEVENT
+END:VCALENDAR

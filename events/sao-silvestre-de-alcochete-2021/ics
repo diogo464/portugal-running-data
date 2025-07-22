@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1300679
+DTSTAMP:20250720T222627Z
+DTSTART:20211211
+DTEND:20211212
+LOCATION:Alcochete\,  Setúbal Alcochete\,  Setúbal
+SUMMARY:São Silvestre de Alcochete 2021
+DESCRIPTION:São Silvestre de Alcochete 2021 a 11 de Dezembro.\nhttps://www
+ .portugalrunning.com/eventos/sao-silvestre-de-alcochete-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-alcochete-2021/
+END:VEVENT
+END:VCALENDAR

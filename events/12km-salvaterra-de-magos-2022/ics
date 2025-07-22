@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf44b1f2
+DTSTAMP:20250720T222140Z
+DTSTART:20220327
+DTEND:20220328
+LOCATION:Salvaterra de Magos\,  Santarém Salvaterra de Magos\,  Santarém
+SUMMARY:12KM Salvaterra De Magos 2022
+DESCRIPTION:O “ACS – Amigos da Corrida de Salvaterra”\,  organiza no 
+ dia 27 de Março de 2022\,  pelas 10h30\,  a corrida “XX 12KM Salvaterra
+  De Magos 2022 Professor António Lopes”\,  a “II Mini-Corrida 5km Fern
+ ando José Andrade” e a “Caminhada Mexa-se por nós”. Aos atletas ins
+ critos na edição de 2020\,  informamos que[..]\nhttps://www.portugalrunni
+ ng.com/eventos/12km-salvaterra-de-magos-2022/
+URL:https://www.portugalrunning.com/eventos/12km-salvaterra-de-magos-2022/
+END:VEVENT
+END:VCALENDAR

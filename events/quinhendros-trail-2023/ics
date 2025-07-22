@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0518c81
+DTSTAMP:20250720T222613Z
+DTSTART:20230909
+DTEND:20230910
+LOCATION:Quinhendros\,  Montemor-o-Velho Quinhendros\,  Montemor-o-Velho
+SUMMARY:Quinhendros Trail 2023
+DESCRIPTION:O QUINHENDROS TRAIL 2023 realiza-se no dia 9 SETEMBRO DE 2023\,
+   na localidade de QUINHENDROS\,  concelho de MONTEMOR-O-VELHO\,  o QUINHEN
+ DROS TRAIL 2023 / III EDIÇÃO. É uma organização da ACDRS QUINHENDROS q
+ ue pretende afirmar-se como uma prova desportiva de referência no CIRCUITO
+  DISTRITAL DE TRAIL RUNNING DE COIMBRA na categoria[..]\nhttps://www.portug
+ alrunning.com/eventos/quinhendros-trail-2023/
+URL:https://www.portugalrunning.com/eventos/quinhendros-trail-2023/
+END:VEVENT
+END:VCALENDAR

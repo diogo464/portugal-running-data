@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db3193db
+DTSTAMP:20250720T222907Z
+DTSTART:20250427
+DTEND:20250428
+LOCATION:Terras de Bouro\,  Braga Terras de Bouro\,  Braga
+SUMMARY:Ultra Geira Romana 205
+DESCRIPTION:Ultra Geira Romana 205\nhttps://www.portugalrunning.com/eventos
+ /ultra-geira-romana-205/
+URL:https://www.portugalrunning.com/eventos/ultra-geira-romana-205/
+END:VEVENT
+END:VCALENDAR

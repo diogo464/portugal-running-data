@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1817d4c
+DTSTAMP:20250720T222632Z
+DTSTART:20231230
+DTEND:20231231
+LOCATION:Lisboa Lisboa
+SUMMARY:São Silvestre Lisboa 2023
+DESCRIPTION:A mais emblemática corrida lisboeta\,  a São Silvestre Lisboa
+ \,  regressa às ruas da capital para a sua&nbsp;16ª Edição\,  no dia&nb
+ sp;30 de Dezembro de 2023. Com início e final na Avenida da Liberdade\,  a
+  São Silvestre Lisboa percorre toda a zona ribeirinha da capital numa prov
+ a tradicionalmente marcada por luzes e[..]\nhttps://www.portugalrunning.com
+ /eventos/sao-silvestre-de-lisboa-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-lisboa-2023/
+END:VEVENT
+END:VCALENDAR

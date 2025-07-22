@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d216304c
+DTSTAMP:20250720T222641Z
+DTSTART:20230108
+DTEND:20230109
+LOCATION:Porto Porto
+SUMMARY:São Silvestre Cidade do Porto 2022
+DESCRIPTION:A São Silvestre está de regresso à Avenida dos Aliados na Ci
+ dade do Porto em 2023. O evento está marcado para dia 8 de Janeiro e conta
+  com uma prova de 10 quilómetros e uma prova de 5 quilómetros\,  percorre
+ ndo algumas das mais belas e importantes artérias da cidade do[..]\nhttps:
+ //www.portugalrunning.com/eventos/sao-silvestre-do-porto-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-do-porto-2022/
+END:VEVENT
+END:VCALENDAR

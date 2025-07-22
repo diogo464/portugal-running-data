@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3319709
+DTSTAMP:20250720T222243Z
+DTSTART:20250406
+DTEND:20250407
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:Coronado Trail 2025
+DESCRIPTION:O Coronado Trail é um evento desportivo organizado pela Associ
+ ação Coronado Runners e o Município da Trofa. As provas de&nbsp;trail 31
+ km e trail jovem14km&nbsp;que constituem o Coronado Trail decorrerão no di
+ a&nbsp;06 de Abril de 2025\,  com partida e chegada no Largo de Mendões ( 
+ coordenadas GPS Lat: 41.291695\,  Lon: -8.574357)\, [..]\nhttps://www.portu
+ galrunning.com/eventos/coronado-trail-2025/
+URL:https://www.portugalrunning.com/eventos/coronado-trail-2025/
+END:VEVENT
+END:VCALENDAR

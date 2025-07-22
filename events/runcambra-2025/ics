@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0549c1e
+DTSTAMP:20250720T222613Z
+DTSTART:20250518
+DTEND:20250519
+LOCATION:Vale de Cambra\,  Aveiro Vale de Cambra\,  Aveiro
+SUMMARY:Runcambra 2025
+DESCRIPTION:Organizada pela Câmara Municipal de Vale de Cambra a RUNCAMBRA
+  já se implementou nos calendários de corrida em estrada e volta novament
+ e às estradas. Estimular e promover hábitos desportivos que levam a uma v
+ ida saudável são alguns dos valores desta prova que se realiza no centro-
+ norte do país.\nhttps://www.portugalrunning.com/eventos/runcambra-2025/
+URL:https://www.portugalrunning.com/eventos/runcambra-2025/
+END:VEVENT
+END:VCALENDAR

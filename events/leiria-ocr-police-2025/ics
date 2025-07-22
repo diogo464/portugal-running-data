@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb630eb0
+DTSTAMP:20250720T222454Z
+DTSTART:20250713
+DTEND:20250714
+LOCATION:Leiria Leiria
+SUMMARY:Ocr Police Challenge 2025
+DESCRIPTION:A zona Polis de Leiria é já considerada uma referência no OC
+ R em Portugal\,  um desafio que permite a envolvência dos atletas\,  da ci
+ dade e de um público acolhedor\,  num evento cheio de emoções! Um fim de
+  semana que promete ser diversificado\,  com múltiplas atividades e festiv
+ idades numa cidade que[..]\nhttps://www.portugalrunning.com/eventos/leiria-
+ ocr-police-2025/
+URL:https://www.portugalrunning.com/eventos/leiria-ocr-police-2025/
+END:VEVENT
+END:VCALENDAR

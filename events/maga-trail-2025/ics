@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbedb42c
+DTSTAMP:20250720T222502Z
+DTSTART:20250316T182700Z
+DTEND:20250316T235900Z
+LOCATION:Moledo\,  Castro Daire Moledo\,  Castro Daire
+SUMMARY:Maga Trail 2025
+DESCRIPTION:A Câmara Municipal de Castro Daire e a Associação de Atletis
+ mo de Viseu organizam\,  no dia 16 de março de 2025\,  em colaboração co
+ m a Junta de Freguesia de Moledo e a Associação Desportiva e Social da Mo
+ ita\,  o 1º MAGA TRAIL. Este evento\,  a ter lugar nos terrenos anexos[..]
+ \nhttps://www.portugalrunning.com/eventos/maga-trail-2025/
+URL:https://www.portugalrunning.com/eventos/maga-trail-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d339392c
+DTSTAMP:20250720T222659Z
+DTSTART:20221029
+DTEND:20221030
+LOCATION:Lordelo\,  Paredes Lordelo\,  Paredes
+SUMMARY:Sunset Running 2022
+DESCRIPTION:Realiza-se no dia 29 de Outubro de 2022 pelas 17h\,  a prova S
+ unset Running 2022 começa e acaba Junto à JF de Lordelo\,  o tempo máxim
+ o de duração desta prova é de 2 horas.\nhttps://www.portugalrunning.com/
+ eventos/sunset-running-2022/
+URL:https://www.portugalrunning.com/eventos/sunset-running-2022/
+END:VEVENT
+END:VCALENDAR

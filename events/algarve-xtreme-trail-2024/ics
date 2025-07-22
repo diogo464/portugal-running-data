@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c167acdc
+DTSTAMP:20250720T222214Z
+DTSTART:20240128
+DTEND:20240129
+LOCATION:Querença\,  Loulé Querença\,  Loulé
+SUMMARY:Algarve Xtreme Trail 2024
+DESCRIPTION:O Algarve Xtreme Trail é um evento desportivo de caráter lúd
+ ico e competitivo que tem por objetivodivulgar e promover não só a práti
+ ca desportiva\,  em especial na modalidade de trail running\,  mastambém o
+ s territórios onde decorre o evento. O evento irá decorrer no dia 28 de J
+ aneiro de 2024. O[..]\nhttps://www.portugalrunning.com/eventos/algarve-xtre
+ me-trail-2024/
+URL:https://www.portugalrunning.com/eventos/algarve-xtreme-trail-2024/
+END:VEVENT
+END:VCALENDAR

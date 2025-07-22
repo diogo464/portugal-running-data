@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d76c52ef
+DTSTAMP:20250720T222806Z
+DTSTART:20200112
+DTEND:20200113
+LOCATION:Meda de Douros Meda de Mouros\,  Coimbra
+SUMMARY:Trail Meda de Douros
+DESCRIPTION:O Meda de Mouros Trail é uma prova que decorre ao longo da peq
+ uena aldeia que lhe dá o nome. Pertence ao concelho de Tábua. O percurso 
+ é desenrolado na aldeia e nas suas imediações\,  estendendo-se até às 
+ magníficas margens do rio Alva\,  cujas águas correm cristalinas\,  com a
+ bundância de[..]\nhttps://www.portugalrunning.com/eventos/trail-meda-de-do
+ uros/
+URL:https://www.portugalrunning.com/eventos/trail-meda-de-douros/
+END:VEVENT
+END:VCALENDAR

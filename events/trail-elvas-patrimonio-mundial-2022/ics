@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6a7a4c3
+DTSTAMP:20250720T222754Z
+DTSTART:20221204
+DTEND:20221205
+LOCATION:Elvas\,  Portalegre Elvas\,  Portalegre
+SUMMARY:Trail Elvas Património Mundial 2022
+DESCRIPTION:O “V Trail Elvas Património Mundial”\,  é uma prova pedes
+ tre de carácter competitivo\,  que se realiza por trilhos\,  azinhagas e c
+ aminhos rurais do concelho de Elvas\,  sendo a passagem pelo Forte da Graç
+ a\,  Aqueduto da Amoreira e muralhas seiscentistas as grandes referências 
+ de beleza turística desta região Património Mundial.\nhttps://www.portug
+ alrunning.com/eventos/trail-elvas-patrimonio-mundial-2022/
+URL:https://www.portugalrunning.com/eventos/trail-elvas-patrimonio-mundial-2022/
+END:VEVENT
+END:VCALENDAR

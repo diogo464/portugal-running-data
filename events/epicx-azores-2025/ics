@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c871889e
+DTSTAMP:20250720T222407Z
+DTSTART:20251205T182800Z
+DTEND:20251207T182800Z
+LOCATION:Vila Franca do Campo\,  Açores Vila Franca do Campo\,  Açores
+SUMMARY:EPICX Azores 2025
+DESCRIPTION:O EPICX Azores by Decathlon é um evento de Trail Running\,  qu
+ e decorre na ilha de São Miguel – Açores. O evento comemora a 10ª edi�
+ �ão e como tal integra o “X” na designação.Terá 6 corridas competit
+ ivas: EPICX100K\,  EPICX100M\,  EPICX60\,  EPICX30\,  EPICX15 e EPICX_kids\
+ ,  todas em formato linear\,  non-stop e[..]\nhttps://www.portugalrunning.c
+ om/eventos/epicx-azores-2025/
+URL:https://www.portugalrunning.com/eventos/epicx-azores-2025/
+END:VEVENT
+END:VCALENDAR

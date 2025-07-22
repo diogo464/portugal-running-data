@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61aafa9
+DTSTAMP:20250720T222745Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Paradela\, Águeda Paradela\, Águeda
+SUMMARY:Trail dos Arrozais 2023
+DESCRIPTION:A Secção de Trail do Sport Clube Paradela\,  em parceria com 
+ o Município de Águeda organizará a primeira edição TRAIL DOS ARROZAIS\
+ ,  que decorrerá no dia 24 de Setembro de 2023. O evento incluirá o Trail
+  Longo\,  Trail Curto e Caminhada dos Arrozais.Com início no Largo da Igre
+ ja de S.[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-arrozais-20
+ 23/
+URL:https://www.portugalrunning.com/eventos/trail-dos-arrozais-2023/
+END:VEVENT
+END:VCALENDAR

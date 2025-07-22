@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50aaf71
+DTSTAMP:20250720T222728Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Mourão\,  Évora Mourão\,  Évora
+SUMMARY:Trail das Migas 2024
+DESCRIPTION:O Trail das Migas 2ª edição é organizado pelo Município de
+  Mourão. Trail Longo +- 25 Km Trail Curto +- 16 Km Caminhada +- 8 Km\nhttp
+ s://www.portugalrunning.com/eventos/trail-das-migas-2024/
+URL:https://www.portugalrunning.com/eventos/trail-das-migas-2024/
+END:VEVENT
+END:VCALENDAR

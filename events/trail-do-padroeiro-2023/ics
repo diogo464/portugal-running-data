@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d947d1
+DTSTAMP:20250720T222741Z
+DTSTART:20230618
+DTEND:20230619
+LOCATION:Riachos\,  Torres novas Riachos\,  Torres Novas
+SUMMARY:Trail do Padroeiro 2023
+DESCRIPTION:O Trail do Padroeiro é um evento de carácter social\,  promov
+ ido pelos Rx Runners em regime de voluntariado em parceria com a Paróquia 
+ de Riachos.Com este grandioso evento na Vila de Riachos pretendemos aliar �
+ � prática desportiva (seja ela a correr ou andar) a promoção de hábitos
+  de vida saudável.[..]\nhttps://www.portugalrunning.com/eventos/trail-do-p
+ adroeiro-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-padroeiro-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2e9326b
+DTSTAMP:20250720T222238Z
+DTSTART:20220925
+DTEND:20220926
+LOCATION:Coimbra Coimbra
+SUMMARY:Coimbra Trail 2022
+DESCRIPTION:O Coimbra Trail é um evento de Trail Running\,  numa organiza�
+ �ão conjunta do Clube de Praticantes Coimbra Trail Running\,  Câmara Muni
+ cipal de Coimbra e Junta de Freguesia de Santo António dos Olivais\,  que 
+ irá ocorrer em Coimbra nos dias 24 e 25 de Setembro de 2022\,  integrando 
+ três provas competitivas\, [..]\nhttps://www.portugalrunning.com/eventos/c
+ oimbra-trail-2022/
+URL:https://www.portugalrunning.com/eventos/coimbra-trail-2022/
+END:VEVENT
+END:VCALENDAR

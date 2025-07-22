@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dca7b0e4
+DTSTAMP:20250720T222930Z
+DTSTART:20230930
+DTEND:20231001
+LOCATION:Serpa\,  Beja Serpa\,  Beja
+SUMMARY:XIII Escalada de S. Gens 2023
+DESCRIPTION:A Câmara Municipal de Serpa com o apoio técnico da Associaç�
+ �o de Atletismo de Beja\,  e apoio dos Bombeiros Voluntários de Serpa e G.
+ N.R. de Serpa\,  vai organizar no dia 30 de Setembro de 2023\,  em Serpa\, 
+  a XIII Escalada de S. Gens – Serpa Terra Forte\,  CAMINHADA\,  Provas Jo
+ vens[..]\nhttps://www.portugalrunning.com/eventos/xiii-escalada-de-s-gens-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/xiii-escalada-de-s-gens-2023/
+END:VEVENT
+END:VCALENDAR

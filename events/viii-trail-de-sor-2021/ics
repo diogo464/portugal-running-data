@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf4a0a8
+DTSTAMP:20250720T222919Z
+DTSTART:20210905
+DTEND:20210906
+LOCATION:Ponte de Sor Ponte de Sor\,  Portalegre
+SUMMARY:VIII Trail de Sor 2021 - Vitorino Coragem
+DESCRIPTION:A Associação “Clube de Atletismo Trail Runners da Ponte”(
+ CATRP) vai realizar no dia 05 de setembro de 2021 o “VIII TRAIL DO SOR”
+ \,  na Cidade de Ponte de Sor\,  Distrito de Portalegre\,  Alto Alentejo\, 
+  com o Apoio do Município de Ponte de Sor\,  da União de Freguesias de Po
+ nte de[..]\nhttps://www.portugalrunning.com/eventos/viii-trail-de-sor-2021/
+URL:https://www.portugalrunning.com/eventos/viii-trail-de-sor-2021/
+END:VEVENT
+END:VCALENDAR

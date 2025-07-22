@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d62eec
+DTSTAMP:20250720T222309Z
+DTSTART:20240707
+DTEND:20240708
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida de São Pedro 2024
+DESCRIPTION:A Corrida de S. Pedro 2024\,  é uma prova do Calendário Nacio
+ nal da F.P.A.\,  coorganizada pelo PELOURO DODESPORTO DA CÂMARA MUNICIPAL 
+ DA PÓVOA DE VARZIM\,  com a colaboração da BIKESERVICE\,  da Associaçã
+ o de Atletismo do Porto e do Conselho Regional de Arbitragem. A Corrida de 
+ S. Pedro 2024\,  realiza-se no[..]\nhttps://www.portugalrunning.com/eventos
+ /corrida-de-sao-pedro-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-pedro-2024/
+END:VEVENT
+END:VCALENDAR

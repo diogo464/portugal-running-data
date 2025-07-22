@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb0194ff
+DTSTAMP:20250720T222448Z
+DTSTART:20221211
+DTEND:20221212
+LOCATION:Cardielos\,  Viana do Castelo Cardielos\,  Viana do Castelo
+SUMMARY:IV Trail S. Silvestre 2022
+DESCRIPTION:O Trail S. Silvestre é organizado pela Xlife events juntamente
+  com a EDV Viana Trail e a Câmara Municipal de Viana do Castelo e conta ta
+ mbém com o apoio do Grupo de BTT os Queimados e também com a colaboraçã
+ o da União de Freguesias de Cardielos e Serreleis.\nhttps://www.portugalru
+ nning.com/eventos/iv-trail-s-silvestre-2022/
+URL:https://www.portugalrunning.com/eventos/iv-trail-s-silvestre-2022/
+END:VEVENT
+END:VCALENDAR

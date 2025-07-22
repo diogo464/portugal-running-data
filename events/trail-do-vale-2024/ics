@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6961500
+DTSTAMP:20250720T222753Z
+DTSTART:20240519
+DTEND:20240520
+LOCATION:Vale Venteiro\,  Tomar Vale Venteiro\,  Tomar
+SUMMARY:Trail do Vale 2024
+DESCRIPTION:Na sua terceira edição\,  o Trail do Vale irá realizar-se em
+  pleno município de Tomar com duas distâncias competitivas e uma prova de
+  Caminhada.\nhttps://www.portugalrunning.com/eventos/trail-do-vale-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-vale-2024/
+END:VEVENT
+END:VCALENDAR

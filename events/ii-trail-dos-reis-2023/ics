@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cab61ba7
+DTSTAMP:20250720T222443Z
+DTSTART:20230108
+DTEND:20230109
+LOCATION:Beja Beja
+SUMMARY:II Trail dos Reis 2023
+DESCRIPTION:O evento desportivo\,  II Trail dos Reis é promovido e organiz
+ ado pelo Despertar Sporting Clube\,  com o apoio da Camara Municipal de Bej
+ a e as uniões de freguesias de União de freguesias de Beja\,  Santiago Ma
+ ior e São João Batista e Salvador e Santa Maria da Feira\nhttps://www.por
+ tugalrunning.com/eventos/ii-trail-dos-reis-2023/
+URL:https://www.portugalrunning.com/eventos/ii-trail-dos-reis-2023/
+END:VEVENT
+END:VCALENDAR

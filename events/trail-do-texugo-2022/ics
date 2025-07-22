@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65dcb88
+DTSTAMP:20250720T222749Z
+DTSTART:20220410
+DTEND:20220411
+LOCATION:Redondo\,  Évora Redondo\,  Évora
+SUMMARY:Trail do Texugo 2022
+DESCRIPTION:O Trail do texugo irá ter início e final na Aldeia da Serra D
+ ’Ossa\,  local pitoresco onde até há poucas décadas se podiam ver as m
+ ulheres sentadas à porta de suas casas\,  conversando sobre a vida dura da
+  lavoura\,  a lida da casa\,  ou simplesmente acenado a quem subia e[..]\nh
+ ttps://www.portugalrunning.com/eventos/trail-do-texugo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-texugo-2022/
+END:VEVENT
+END:VCALENDAR

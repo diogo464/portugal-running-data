@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb0c2edd
+DTSTAMP:20250720T222448Z
+DTSTART:20221105
+DTEND:20221106
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:IV Viana Race 2022
+DESCRIPTION:A Viana Race - Corrida Urbana de Obstáculos está de regresso\
+ ,  a 05 de novembro\,  às 16h00 em Viana do Castelo.\nhttps://www.portugal
+ running.com/eventos/iv-viana-race-2022/
+URL:https://www.portugalrunning.com/eventos/iv-viana-race-2022/
+END:VEVENT
+END:VCALENDAR

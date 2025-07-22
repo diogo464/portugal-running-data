@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72c3dec
+DTSTAMP:20250720T222802Z
+DTSTART:20210904
+DTEND:20210905
+LOCATION:Lagoa de Óbidos Lagoa de Óbidos
+SUMMARY:Trail Lagoa de Óbidos 2021
+DESCRIPTION:Com o apoio da Câmara Municipal de Óbidos e da Junta de Fregu
+ esia do Vau\,  realiza-se no dia 4 de setembro de 2021\,  o Trail Lagoa de 
+ Óbidos que será percorrido por caminhos e trilhos na zona da Lagoa de Ób
+ idos. Será composto por um Trail Longo na distância de[..]\nhttps://www.p
+ ortugalrunning.com/eventos/trail-lagoa-de-obidos-2021/
+URL:https://www.portugalrunning.com/eventos/trail-lagoa-de-obidos-2021/
+END:VEVENT
+END:VCALENDAR

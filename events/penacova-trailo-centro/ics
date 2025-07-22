@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf7620ce
+DTSTAMP:20250720T222559Z
+DTSTART:20220903
+DTEND:20220904
+LOCATION:Penacova\,  Coimbra  Bombeiros Voluntários de Penacova
+SUMMARY:Penacova Trail do Centro 2022
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/penacova-trailo-centr
+ o/
+URL:https://www.portugalrunning.com/eventos/penacova-trailo-centro/
+END:VEVENT
+END:VCALENDAR

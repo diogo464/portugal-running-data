@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7f6327c
+DTSTAMP:20250720T222815Z
+DTSTART:20250615T172400Z
+DTEND:20250615T235900Z
+LOCATION:Mesão Frio\,  Vila Real Mesão Frio\,  Vila Real
+SUMMARY:Trail Porta do Douro 2025
+DESCRIPTION:O evento TRAIL PORTA DO DOURO é organizado pela ACD Vila Marim
+ \,  em colaboração com o Junta de Freguesia de Vila Marim\,  os Escuteiro
+ s de Vila Marim\,  o Agrupamento de Escolas Professor António da Natividad
+ e (Mesão Frio)\,  o Município de Mesão Frio\,  a Junta de Freguesia de B
+ arqueiros\,  a Junta[..]\nhttps://www.portugalrunning.com/eventos/trail-por
+ ta-do-douro-2025/
+URL:https://www.portugalrunning.com/eventos/trail-porta-do-douro-2025/
+END:VEVENT
+END:VCALENDAR

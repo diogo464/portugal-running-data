@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d48dc454
+DTSTAMP:20250720T222720Z
+DTSTART:20240413
+DTEND:20240414
+LOCATION:Louriçal do Campo\,  Castelo Branco Louriçal do Campo\,  Castelo Branco
+SUMMARY:Trail da Gardunha 2024
+DESCRIPTION:Trail da Gardunha 2024\nhttps://www.portugalrunning.com/eventos
+ /trail-da-gardunha-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-gardunha-2024/
+END:VEVENT
+END:VCALENDAR

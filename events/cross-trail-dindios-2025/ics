@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e4973e
+DTSTAMP:20250720T222358Z
+DTSTART:20251012
+DTEND:20251013
+LOCATION:Barcouço\,  Mealhada Barcouço\,  Mealhada
+SUMMARY:Cross/Trail d'Índios 2025
+DESCRIPTION:O evento é composto por uma corrida e caminhada. Corrida/Trail
+ : 17 km.Caminhada: 10 km.\nhttps://www.portugalrunning.com/eventos/cross-tr
+ ail-dindios-2025/
+URL:https://www.portugalrunning.com/eventos/cross-trail-dindios-2025/
+END:VEVENT
+END:VCALENDAR

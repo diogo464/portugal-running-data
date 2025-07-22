@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d86ab368
+DTSTAMP:20250720T222822Z
+DTSTART:20250803
+DTEND:20250804
+LOCATION:Caparrosinha\,  Tondela Caparrosinha\,  Tondela
+SUMMARY:Trail Rota dos Espigueiros 2025
+DESCRIPTION:A 9.ª Edição do “Trail do Rota dos Espigueiros” é um ev
+ ento de Trail Running\,  organizado pela ARCAPA. Decorre em Caparrosinha\, 
+  freguesia de Caparrosa – Silvares\,  no concelho de Tondela e integra tr
+ ês provas e uma caminhada: Trail Longo-31K (1100D+); Trail Curto-15K (550D
+ +); Kids Trail e Caminhada (8K).O Trail Longo[..]\nhttps://www.portugalrunn
+ ing.com/eventos/trail-rota-dos-espigueiros-2025/
+URL:https://www.portugalrunning.com/eventos/trail-rota-dos-espigueiros-2025/
+END:VEVENT
+END:VCALENDAR

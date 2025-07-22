@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d66011a5
+DTSTAMP:20250720T222750Z
+DTSTART:20240107
+DTEND:20240108
+LOCATION:Baltar\,  Paredes Baltar\,  Paredes
+SUMMARY:Trail dos Reis - Bv Baltar 2024
+DESCRIPTION:Este evento será realizado no concelho de Paredes\,  na fregue
+ sia de Baltar no dia 07 de janeirode 2024\,  com partidas/chegadas nas inst
+ alações dos Bombeiros Voluntários de Baltar.\nhttps://www.portugalrunnin
+ g.com/eventos/trail-dos-reis-bv-baltar-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dos-reis-bv-baltar-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3318fef
+DTSTAMP:20250720T222243Z
+DTSTART:20240218
+DTEND:20240219
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida 4 Estações Coimbra 2024
+DESCRIPTION:Corremos juntos dia 18 de Fevereiro 2024 em Coimbra\,  partida 
+ e Chegada Parque da Canção. Corrida 10 Km com percurso certificado e homo
+ logado pela Federação Portuguesa de Atletismo e World Athletics.\nhttps:/
+ /www.portugalrunning.com/eventos/corrida-4-estacoes-coimbra-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-coimbra-2024/
+END:VEVENT
+END:VCALENDAR

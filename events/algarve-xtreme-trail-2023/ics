@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c15ab80b
+DTSTAMP:20250720T222213Z
+DTSTART:20230129
+DTEND:20230130
+LOCATION:Querença\,  Loulé Querença\,  Loulé
+SUMMARY:Algarve Xtreme Trail 2023
+DESCRIPTION:O Algarve Xtreme Trail é um evento desportivo de caráter lúd
+ ico e competitivo que tem porobjetivo divulgar e promover não só a práti
+ ca desportiva\,  em especial na modalidade de trailrunning\,  mas também o
+ s territórios onde decorre o evento. O evento irá decorrer no dia 29 deJa
+ neiro de 2023.O Algarve Xtreme[..]\nhttps://www.portugalrunning.com/eventos
+ /algarve-xtreme-trail-2023/
+URL:https://www.portugalrunning.com/eventos/algarve-xtreme-trail-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d58f3a74
+DTSTAMP:20250720T222736Z
+DTSTART:20250608
+DTEND:20250609
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail do Brinquedo 2025
+DESCRIPTION:Trail do Brinquedo 2025\nhttps://www.portugalrunning.com/evento
+ s/trail-do-brinquedo-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-brinquedo-2025/
+END:VEVENT
+END:VCALENDAR

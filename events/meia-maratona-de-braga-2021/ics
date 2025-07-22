@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccc32cc
+DTSTAMP:20250720T222516Z
+DTSTART:20211017
+DTEND:20211018
+LOCATION:Braga Braga
+SUMMARY:Meia Maratona de Braga 2021
+DESCRIPTION:Resultados A Caravela Seguros Meia Maratona de Braga 2021 está
+  de volta.É com muito prazer que podemos confirmar a realização deste gr
+ ande evento na Cidade de Braga no dia 17 de Outubro de 2021. Com o Plano de
+  Segurança concluído a Meia Maratona de Braga volta às principais ruas d
+ a[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-braga-2021/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-braga-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3731c90
+DTSTAMP:20250720T222247Z
+DTSTART:20230716
+DTEND:20230717
+LOCATION:Melides - Tróia Melides - Tróia
+SUMMARY:Corrida Atlântica Comporta Tróia - 2023
+DESCRIPTION:Corrida de Atletismo que se realiza totalmente na areia das pr
+ aias do concelho de Grândola\,  respectivamente entre a Praia da Comporta 
+ e a Praia Bico das Lulas em Tróia\,  numa distância de 15km.\nhttps://ww
+ w.portugalrunning.com/eventos/corrida-atlantica-comporta-troia-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-atlantica-comporta-troia-2023/
+END:VEVENT
+END:VCALENDAR

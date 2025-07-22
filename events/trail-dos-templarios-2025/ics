@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d664a1c4
+DTSTAMP:20250720T222750Z
+DTSTART:20250928
+DTEND:20250929
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:Trail dos Templários 2025
+DESCRIPTION:XIV Edição dos Trilhos dos Templários\,  a realizar no dia 2
+ 8 de setembro de 2025\,  em Santa Cita\,  Tomar\, nas distâncias aproximad
+ as de 46K (Ultra Trail)\,  32K (Trail Longo)\,  20K (Trail Curto) e 14K (Mi
+ ni Trail) eCaminhada (10K).\nhttps://www.portugalrunning.com/eventos/trail-
+ dos-templarios-2025/
+URL:https://www.portugalrunning.com/eventos/trail-dos-templarios-2025/
+END:VEVENT
+END:VCALENDAR

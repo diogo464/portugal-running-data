@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c89aaf78
+DTSTAMP:20250720T222409Z
+DTSTART:20220116
+DTEND:20220117
+LOCATION:Estádio Universitário de Lisboa Estádio Universitário de Lisboa\,  Lisboa
+SUMMARY:Estafeta dos Reis 2022
+DESCRIPTION:A Estafeta dos Reis&nbsp;2022 é uma corrida por&nbsp;equipas d
+ e 3 elementos\,  num circuito fechado com o perímetro de 3&nbsp;km\,  com&
+ nbsp;partida e chegada na Pista do Estádio de Honra\,  do Estádio Univers
+ itário de Lisboa.&nbsp;As equipas poderão ser masculinas\,  femininas ou 
+ mistas (pelo menos um atleta de sexo diferente). Junte a sua[..]\nhttps://w
+ ww.portugalrunning.com/eventos/estafeta-dos-reis-2022/
+URL:https://www.portugalrunning.com/eventos/estafeta-dos-reis-2022/
+END:VEVENT
+END:VCALENDAR

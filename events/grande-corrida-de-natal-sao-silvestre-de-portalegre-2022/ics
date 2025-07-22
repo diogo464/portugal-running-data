@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9619d49
+DTSTAMP:20250720T222422Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Portalegre Portalegre
+SUMMARY:Grande Corrida De Natal São Silvestre De Portalegre 2022
+DESCRIPTION:A Grande Corrida de Natal Solidária - São Silvestre de Portal
+ egre\,  é uma prova de atletismo (estrada) e realiza-se no dia 10 de Dezem
+ bro de 2022 (Sábado)\,  entre as 14:30 e as 16:30. É organizada pela DAP 
+ -Associação de Desporto e Aventura de Portalegre com o apoio do Municípi
+ o de[..]\nhttps://www.portugalrunning.com/eventos/grande-corrida-de-natal-s
+ ao-silvestre-de-portalegre-2022/
+URL:https://www.portugalrunning.com/eventos/grande-corrida-de-natal-sao-silvestre-de-portalegre-2022/
+END:VEVENT
+END:VCALENDAR

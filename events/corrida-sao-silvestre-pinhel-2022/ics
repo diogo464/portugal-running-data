@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f9403f
+DTSTAMP:20250720T222343Z
+DTSTART:20221231
+DTEND:20230101
+LOCATION:Pinhel\,  Guarda Pinhel\,  Guarda
+SUMMARY:Corrida São Silvestre Pinhel 2022
+DESCRIPTION:A corrida São Silvestre Cidade Falcão/2022 irá disputar-se n
+ o dia 31 de dezembro de 2022nas Ruas do Centro Urbano da Cidade de Pinhel\,
+   com a Meta instalada junto ao Tribunal. Com início às 10h00\,  inclui p
+ rovas para todos os escalões etários/género e uma Caminhadapedestre.\nht
+ tps://www.portugalrunning.com/eventos/corrida-sao-silvestre-pinhel-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-silvestre-pinhel-2022/
+END:VEVENT
+END:VCALENDAR

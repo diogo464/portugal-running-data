@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4431664
+DTSTAMP:20250720T222300Z
+DTSTART:20220605
+DTEND:20220606
+LOCATION:Aveiro Aveiro
+SUMMARY:Corrida Das Areias 2022
+DESCRIPTION:A Corrida Das Areias 2022 é uma organização do Regimento d
+ e Infantaria Nº10 e irá decorrer no próximo dia 05 de junho de 2022\,  
+ nas praias do Concelho da Murtosa e de Aveiro a sua 10ª edição.\nhttps:/
+ /www.portugalrunning.com/eventos/corrida-das-areias-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-das-areias-2022/
+END:VEVENT
+END:VCALENDAR

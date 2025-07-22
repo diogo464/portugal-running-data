@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8748c2b
+DTSTAMP:20250720T222823Z
+DTSTART:20220501
+DTEND:20220502
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:Trail Run Aqui HÁ-OS 2022
+DESCRIPTION:A associação Talentos Objetivos – Clube de Enduro e Recreio
+  irá promover\,  com o apoio da junta de freguesia de Quiaios e da Camara 
+ Municipal da Figueira da Foz\,  a segunda edição de Trail Running intitul
+ ada 2º Trail Run Aqui HÁ-OS 2022 Será realizada no dia&nbsp;01 de maio 
+ de 2022&nbsp;independentemente das[..]\nhttps://www.portugalrunning.com/eve
+ ntos/trail-run-aqui-ha-os-2022/
+URL:https://www.portugalrunning.com/eventos/trail-run-aqui-ha-os-2022/
+END:VEVENT
+END:VCALENDAR

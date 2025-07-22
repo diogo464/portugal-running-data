@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9aabee9
+DTSTAMP:20250720T222426Z
+DTSTART:20220416
+DTEND:20220417
+LOCATION:Constância\,  Santarém Constância\,  Santarém
+SUMMARY:Grande Prémio da Páscoa de Constância 2022
+DESCRIPTION:O Grande Prémio da Páscoa de Constância 2022 é uma das prov
+ as mais antigas da região\,  realizada pelas margens do rio Zêzere. Venha
+  fazer parte desta festa da corrida e aproveite para passar por Constância
+  como ponto de passagem do fim-de-semana de Páscoa.\nhttps://www.portugalr
+ unning.com/eventos/grande-premio-da-pascoa-de-constancia-2022/
+URL:https://www.portugalrunning.com/eventos/grande-premio-da-pascoa-de-constancia-2022/
+END:VEVENT
+END:VCALENDAR

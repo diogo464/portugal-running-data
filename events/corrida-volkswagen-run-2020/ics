@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7917d0d
+DTSTAMP:20250720T222353Z
+DTSTART:20200425
+DTEND:20200426
+LOCATION:Palmela Palmela
+SUMMARY:Corrida Volkswagen Run 2020
+DESCRIPTION:A Corrida Volkswagen Run 2020 é organizada pela Volkswagen 
+ Autoeuropa\,  estando a organização técnica do evento a cargo da HMS Sp
+ orts Consulting Lda. Provas/Distâncias/Horários: . Corrida Volkswagen (1
+ 0 Km)\,  com partida às 10h00; . Caminhada Volkswagen (4 Km)\,  às 10h15
+ .\nhttps://www.portugalrunning.com/eventos/corrida-volkswagen-run-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-volkswagen-run-2020/
+END:VEVENT
+END:VCALENDAR

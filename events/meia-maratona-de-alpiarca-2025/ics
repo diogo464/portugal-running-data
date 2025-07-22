@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccc92d6a
+DTSTAMP:20250720T222516Z
+DTSTART:20250629T212500Z
+DTEND:20250629T235900Z
+LOCATION:Alpiarça\,  Santarém Alpiarça\,  Santarém
+SUMMARY:Meia Maratona de Alpiarça 2025
+DESCRIPTION:O Município de Alpiarça a Junta de Freguesia de Alpiarça est
+ ão empenhados na organização da 2.aMini e Meia-Maratona de Alpiarça –
+  Terra de Melão\,  na manhã de domingo\,  29 de junho de 2025. Este event
+ o realizar-se-á nos moldes da primeira edição\,  com alguns aspetos melh
+ orados\,  comportando 3 (três) modalidades de[..]\nhttps://www.portugalrun
+ ning.com/eventos/meia-maratona-de-alpiarca-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-alpiarca-2025/
+END:VEVENT
+END:VCALENDAR

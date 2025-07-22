@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0f020ba
+DTSTAMP:20250720T222623Z
+DTSTART:20231230
+DTEND:20231231
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:São Silvestre Chaves 2023
+DESCRIPTION:A Corrida São Silvestre Chaves é uma corrida organizada pelo 
+ Município de Chaves com a colaboração da Associação de Atletismo de Vi
+ la Real. A prova irá realizar-se no dia 30 de dezembro 2023 com início à
+ s 18h00 com partida e chegada na Praça General Silveira\,  em Chaves. As i
+ nscrições são[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre
+ -chaves-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-chaves-2023/
+END:VEVENT
+END:VCALENDAR

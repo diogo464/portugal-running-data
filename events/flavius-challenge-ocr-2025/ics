@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f49a6a
+DTSTAMP:20250720T222415Z
+DTSTART:20250906
+DTEND:20250907
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Flavius Challenge OCR 2025
+DESCRIPTION:A “FLAVIUS CHALLENGE OCR” é uma corrida de obstáculos urb
+ ana que integra a Liga OCR Portugal 2025 e Taça de Portugal de OCR 2025 da
+  Federação Portuguesa de Corridas de Obstáculos (FPOCR). A prova tem apu
+ ramentos para o OCR European Championships 2025 a realizar em Portugal.\nht
+ tps://www.portugalrunning.com/eventos/flavius-challenge-ocr-2025/
+URL:https://www.portugalrunning.com/eventos/flavius-challenge-ocr-2025/
+END:VEVENT
+END:VCALENDAR

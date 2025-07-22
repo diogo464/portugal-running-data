@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c00937d0
+DTSTAMP:20250720T222152Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Lisboa Lisboa
+SUMMARY:2º Trilho Urbano De São Vicente 2023
+DESCRIPTION:A 2.ª edição do Trilho Urbano de São Vicente (Urban Trail S
+ ão Vicente) irá realizar-se no dia 14 de maio de 2023 com uma distância 
+ competitiva de 10 km e uma caminhada. .Um percurso pelos três pontos princ
+ ipais da freguesia (São Vicente de Fora\,  Graça e Sta. Engrácia)\,  sen
+ do o[..]\nhttps://www.portugalrunning.com/eventos/2o-trilho-urbano-de-sao-v
+ icente-2023/
+URL:https://www.portugalrunning.com/eventos/2o-trilho-urbano-de-sao-vicente-2023/
+END:VEVENT
+END:VCALENDAR

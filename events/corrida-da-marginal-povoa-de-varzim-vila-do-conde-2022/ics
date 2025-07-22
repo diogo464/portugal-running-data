@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f4d65b
+DTSTAMP:20250720T222255Z
+DTSTART:20220327
+DTEND:20220328
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida da Marginal 2022
+DESCRIPTION:Corrida da Marginal 2022\nhttps://www.portugalrunning.com/event
+ os/corrida-da-marginal-povoa-de-varzim-vila-do-conde-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-marginal-povoa-de-varzim-vila-do-conde-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc37ae96
+DTSTAMP:20250720T222923Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Porto Porto
+SUMMARY:Vitalis Kids Challenge By Hyundai 2023
+DESCRIPTION:O Vitalis Kids Challenge by Hyundai está de volta em 2023! A p
+ rimeira etapa realiza-se no dia 16 de abril de 2023\,  no Inatel Parque de 
+ Jogos Ramalde\,  na pista de atletismo.\nhttps://www.portugalrunning.com/ev
+ entos/vitalis-kids-challenge-by-hyundai-2023/
+URL:https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai-2023/
+END:VEVENT
+END:VCALENDAR

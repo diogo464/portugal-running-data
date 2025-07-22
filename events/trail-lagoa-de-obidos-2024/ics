@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7301eea
+DTSTAMP:20250720T222803Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Óbidos\,  Leiria Óbidos\,  Leiria
+SUMMARY:Trail Lagoa de Óbidos 2024
+DESCRIPTION:Com o apoio da Câmara Municipal de Óbidos e da Junta de Fregu
+ esia do Vau\,  realiza-se no próximo dia 2 de junho de 2024\,  a 5ª ediç
+ ão do Trail Lagoa de Óbidos\,  percorrido por caminhos e trilhos na zona 
+ da Lagoa de Óbidos. Será composto por um Trail Longo na[..]\nhttps://www.
+ portugalrunning.com/eventos/trail-lagoa-de-obidos-2024/
+URL:https://www.portugalrunning.com/eventos/trail-lagoa-de-obidos-2024/
+END:VEVENT
+END:VCALENDAR

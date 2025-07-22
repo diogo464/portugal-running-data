@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbdc2cc3
+DTSTAMP:20250720T222917Z
+DTSTART:20230715
+DTEND:20230716
+LOCATION:Angra do Heroísmo\,  Ilha Terceira\,  Açores Angra do Heroísmo\,  Ilha Terceira\,  Açores
+SUMMARY:VII Angra By Night 2023
+DESCRIPTION:O “Angra By Night” encontra-se agendado para 15 de julho\, 
+  pelas 22:00 e será composto por duas provas: a oficial com aproximadament
+ e 10\, 5km e a “mini” com 6km. O “Angra By Night” consistirá num e
+ vento de corrida noturna\,  no Centro Histórico de Angra do Heroísmo\,  c
+ om um percurso que cruzará[..]\nhttps://www.portugalrunning.com/eventos/vi
+ i-angra-by-night-2023/
+URL:https://www.portugalrunning.com/eventos/vii-angra-by-night-2023/
+END:VEVENT
+END:VCALENDAR

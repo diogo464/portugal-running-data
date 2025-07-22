@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d63a6f
+DTSTAMP:20250720T222741Z
+DTSTART:20220515
+DTEND:20220516
+LOCATION:Rio Maior Rio Maior\,  Santarém
+SUMMARY:Trail do Mouro - Alcobertas 2022
+DESCRIPTION:O evento conta com a organização do Agrupamento de Escuteiros
+  1187 de Alcobertas em conjunto com a Junta de Freguesia de Alcobertas\,  i
+ nserido nas comemorações da elevação de Alcobertas a Vila. O Trail de 
+ Alcobertas é uma Prova de TrailRunning\,  realizada em troços rurais e fl
+ orestais\,  por trilhos sinalizados\,  em piso[..]\nhttps://www.portugalrun
+ ning.com/eventos/trail-do-mouro-alcobertas-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-mouro-alcobertas-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c73f3db9
+DTSTAMP:20250720T222347Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Sporting 2024
+DESCRIPTION:A Corrida Sporting regressa a&nbsp;12&nbsp;e&nbsp;13 de Outubro
+ &nbsp;para dois dias de desporto e promoção da saúde entre pessoas de to
+ das as idades! Este ano\,  com o intuito de conseguirmos chegar a todos os 
+ públicos\,  dividimos o evento em dois dias e horários diferentes. Preten
+ demos desta forma responder à elevada procura das[..]\nhttps://www.portuga
+ lrunning.com/eventos/corrida-sporting-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-sporting-2024/
+END:VEVENT
+END:VCALENDAR

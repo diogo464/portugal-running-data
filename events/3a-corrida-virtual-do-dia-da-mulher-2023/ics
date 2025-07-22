@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0417ffa
+DTSTAMP:20250720T222156Z
+DTSTART:20230304
+DTEND:20230305
+LOCATION:Portugal Portugal
+SUMMARY:3ª Corrida Virtual do Dia da Mulher 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/3a-corrida-virtual-do
+ -dia-da-mulher-2023/
+URL:https://www.portugalrunning.com/eventos/3a-corrida-virtual-do-dia-da-mulher-2023/
+END:VEVENT
+END:VCALENDAR

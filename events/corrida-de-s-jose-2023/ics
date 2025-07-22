@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d61117
+DTSTAMP:20250720T222309Z
+DTSTART:20230311
+DTEND:20230312
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:Corrida de S.José 2023
+DESCRIPTION:Prova de Estrada\,  licenciada pela ASSOCIAÇÃO ATLETISMO DE B
+ RAGA.Com prova competitiva 10kms e Caminhada 5Kms Com partida e chegada jun
+ to ás Piscinas Municipais Póvoa de Lanhoso (Rua 1º de Maio) Evento organ
+ izado pelo GRUPO DESPORTIVO DA GOMA\,  em parceria com o Município da Póv
+ oa de Lanhoso\,  e a Associação de[..]\nhttps://www.portugalrunning.com/e
+ ventos/corrida-de-s-jose-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-s-jose-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8f022cd
+DTSTAMP:20250720T222831Z
+DTSTART:20240706
+DTEND:20240707
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:Trail Sunset São Bento 2024
+DESCRIPTION:O Trail Sunset São Bento é organizado pela MOVE – Associaç
+ ão de Desporto e Cultura\,  com o apoio da Câmara Municipal de Santo Tirs
+ o. O evento será realizado no dia e 06 de Julho de 2024\,  no centro da ci
+ dade de Santo Tirso. Os percursos do Trail Sunset São Bento[..]\nhttps://w
+ ww.portugalrunning.com/eventos/trail-sunset-sao-bento-2024/
+URL:https://www.portugalrunning.com/eventos/trail-sunset-sao-bento-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ceddd5c9
+DTSTAMP:20250720T222549Z
+DTSTART:20240315
+DTEND:20240316
+LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+SUMMARY:Night Run Vendas Novas 2024
+DESCRIPTION:A 10ª edição da “Night Run – Vendas Novas”\,  é um ev
+ ento desportivo que está integrado no mês das Comemorações do Dia Inter
+ nacional da Mulher\,  sendo a sua organização da responsabilidade do Muni
+ cípio de Vendas Novas. A 10ª Night Run\,  vai ter o apoio/patrocínio ofi
+ cial da Seaside. Esta corrida/caminhada noturna[..]\nhttps://www.portugalru
+ nning.com/eventos/night-run-vendas-novas-2024/
+URL:https://www.portugalrunning.com/eventos/night-run-vendas-novas-2024/
+END:VEVENT
+END:VCALENDAR

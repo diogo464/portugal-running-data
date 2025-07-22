@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d26499b2
+DTSTAMP:20250720T222646Z
+DTSTART:20241207
+DTEND:20241208
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:São Silvestre Vitor Baptista 2024
+DESCRIPTION: A 4º São Silvestre Vitor Baptista realiza-se no dia 7 de De
+ zembro na Lourinhã.Prova aberta ao desporto adaptado. A prova realiza-se e
+ m sistema de circuito nas ruas da Vila da Lourinhã.\nhttps://www.portugalr
+ unning.com/eventos/sao-silvestre-vitor-baptista-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vitor-baptista-2024/
+END:VEVENT
+END:VCALENDAR

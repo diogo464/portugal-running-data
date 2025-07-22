@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc861110
+DTSTAMP:20250720T222512Z
+DTSTART:20250425T140500Z
+DTEND:20250425T140500Z
+LOCATION:Castelo Branco Castelo Branco
+SUMMARY:Meia Maratona Castelo Branco - Alcains 2025
+DESCRIPTION:No próximo dia 25 de Abril\,  numa organização conjunta das 
+ Freguesias de Castelo Branco\,  Junta de Freguesia de Alcains e Associaçã
+ o de Atletismo de Castelo Branco\,  vai para a estrada a XI Edição da Mei
+ a-Maratona\,  Mini-Maratona e a Corrida da Liberdade. Este evento está ins
+ erido nas comemorações do 51º Aniversário[..]\nhttps://www.portugalrunn
+ ing.com/eventos/meia-maratona-castelo-branco-alcains-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-castelo-branco-alcains-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc2bb4
+DTSTAMP:20250720T222651Z
+DTSTART:20240921
+DTEND:20240922
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Sesimbra Night Run 2024
+DESCRIPTION:A ASSOCIAÇÃO DESPORTIVA OMUNDODACORRIDA.COM\,  organiza com o
+  apoio da Câmara Municipal de Sesimbra\,  no dia 21 de Setembro de 2024\, 
+ \,  uma competição denominada SESIMBRA NIGHT RUN de 10km e uma caminhad
+ a da Califórnia que terá a distância aproximada de 5 km. A prova parte d
+ a Praça da Califórnia\,  entrando de seguida na[..]\nhttps://www.portugal
+ running.com/eventos/sesimbra-night-run-2024/
+URL:https://www.portugalrunning.com/eventos/sesimbra-night-run-2024/
+END:VEVENT
+END:VCALENDAR

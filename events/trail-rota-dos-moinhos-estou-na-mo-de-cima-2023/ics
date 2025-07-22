@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8717ee8
+DTSTAMP:20250720T222823Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Albergaria-a-Velha\,  Aveiro Albergaria-a-Velha\,  Aveiro
+SUMMARY:Trail Rota Dos Moinhos "Estou Na Mó De Cima" 2023
+DESCRIPTION:Sob o lema "Estou na Mó de Cima"\,  o Trail Rota dos Moinhos v
+ ai ser uma vez mais organizado pelo Município de Albergaria-a-Velha\,  pro
+ movendo a rota associada aos cereais e à produção centenária do Pão ne
+ sta região. Venha participar numa experiência única.\nhttps://www.portug
+ alrunning.com/eventos/trail-rota-dos-moinhos-estou-na-mo-de-cima-2023/
+URL:https://www.portugalrunning.com/eventos/trail-rota-dos-moinhos-estou-na-mo-de-cima-2023/
+END:VEVENT
+END:VCALENDAR

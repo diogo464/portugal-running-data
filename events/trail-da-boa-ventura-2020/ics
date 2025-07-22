@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d47c3d7b
+DTSTAMP:20250720T222719Z
+DTSTART:20200112
+DTEND:20200113
+LOCATION:Boa Ventura Boa Ventura\,  Madeira
+SUMMARY:Trail da Boa Ventura 2020
+DESCRIPTION:A 5ª edição do Trail da Boa Ventura decorrerá no dia 12 de 
+ janeiro. Esta próxima edição manterá o formato da edição anterior\,  
+ com a retirada de mais algum asfalto após o último abastecimento. Ambas a
+ s provas\,  certificadas com nível 4 pela ATRP\,  são pontuáveis para o 
+ Circuito Trail Madeira[..]\nhttps://www.portugalrunning.com/eventos/trail-d
+ a-boa-ventura-2020/
+URL:https://www.portugalrunning.com/eventos/trail-da-boa-ventura-2020/
+END:VEVENT
+END:VCALENDAR

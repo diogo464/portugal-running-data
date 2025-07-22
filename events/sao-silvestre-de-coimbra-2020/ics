@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d16db195
+DTSTAMP:20250720T222630Z
+DTSTART:20201219
+DTEND:20201220
+LOCATION:Coimbra Coimbra
+SUMMARY:São Silvestre de Coimbra 2020
+DESCRIPTION:A 43ª São Silvestre de Coimbra\,  uma das mais antigas corrid
+ as de São Silvestre de Portugal\,  realiza-se no dia 19 de Dezembro de 202
+ 0\,  pelas 18h30. O evento conta com uma prova de cerca de 10 km e com uma 
+ caminhada de 5 km\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de
+ -coimbra-2020/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-coimbra-2020/
+END:VEVENT
+END:VCALENDAR

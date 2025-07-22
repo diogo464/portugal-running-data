@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc2f3fa7
+DTSTAMP:20250720T222922Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Viseu Viseu
+SUMMARY:Viseu Trail Running 2024
+DESCRIPTION:A prova realizar-se-á no concelho de Viseu\,  com partida e ch
+ egada da Freguesia de Côta e passagem\,  nas distâncias mais longas\,  pe
+ la freguesia de Calde. O percurso far-se-á essencialmente em zona floresta
+ l e de mato\,  intercetada pontualmente com piso de estradão e pequenas po
+ voações rurais;Todos os percursos são marcados de[..]\nhttps://www.portu
+ galrunning.com/eventos/viseu-trail-running-2024/
+URL:https://www.portugalrunning.com/eventos/viseu-trail-running-2024/
+END:VEVENT
+END:VCALENDAR

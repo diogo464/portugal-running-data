@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61c5533
+DTSTAMP:20250720T222745Z
+DTSTART:20250914
+DTEND:20250915
+LOCATION:Paradela\,  Águeda Paradela \, Águeda
+SUMMARY:Trail dos Arrozais 2025
+DESCRIPTION:O evento incluirá o Trail Longo\,  Trail Curto\,  Caminhada e 
+ Trail Kids e trata-se de uma prova certificada pela ATRP. Com início no La
+ rgo da Igreja de S. Pedro\,  no centro de Paradela. Esta será uma prova ci
+ rcular (início e término no mesmo local).\nhttps://www.portugalrunning.co
+ m/eventos/trail-dos-arrozais-2025/
+URL:https://www.portugalrunning.com/eventos/trail-dos-arrozais-2025/
+END:VEVENT
+END:VCALENDAR

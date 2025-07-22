@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4879c5b
+DTSTAMP:20250720T222304Z
+DTSTART:20230114
+DTEND:20230115
+LOCATION:Esposende Esposende
+SUMMARY:Corrida de Ano Novo 2023
+DESCRIPTION:A V Corrida de Ano Novo é uma organização da Câmara Municip
+ al de Esposende\,  com o apoio técnico da ADE Trail Run\,  Spin & Run e o 
+ Centro Social da Juventude de Mar. A V Corrida de Ano Novo realiza-se no di
+ a 14 de janeiro 2023. O programa é constituído[..]\nhttps://www.portugalr
+ unning.com/eventos/corrida-de-ano-novo-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-ano-novo-2023/
+END:VEVENT
+END:VCALENDAR

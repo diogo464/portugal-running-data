@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65ac063
+DTSTAMP:20250720T222749Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:São Miguel\,  Açores São Miguel\,  Açores
+SUMMARY:Trail dos Morcegos 2022
+DESCRIPTION:O Trail dos Morcegos (TdM) é um evento de trail running que su
+ rgiu através da ideia do fundador da equipa\,  Ricardo Almeida\,  que deci
+ diu avançar\,  praticamente sozinho\,  para a organização de uma prova q
+ ue visava promover a atividade física e divulgar alguns dos espaços natur
+ ais do concelho de Ponta Delgada.[..]\nhttps://www.portugalrunning.com/even
+ tos/trail-dos-morcegos-2022/
+URL:https://www.portugalrunning.com/eventos/trail-dos-morcegos-2022/
+END:VEVENT
+END:VCALENDAR

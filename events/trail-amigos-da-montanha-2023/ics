@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3b7bd84
+DTSTAMP:20250720T222707Z
+DTSTART:20231119
+DTEND:20231120
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Trail Amigos da Montanha 2023
+DESCRIPTION:A 13.ª edição do Trail AM tem data marcada para 19 de novemb
+ ro. A proposta deste desafio\,  a "festa do trail"\,  é descobrir os trilh
+ os do concelho em várias provas\,  com diferentes distâncias.Preservar e 
+ respeitar o meio envolvente\,  procurar os percursos mais desafiantes e apo
+ star na sinalização e nos abastecimentos[..]\nhttps://www.portugalrunning
+ .com/eventos/trail-amigos-da-montanha-2023/
+URL:https://www.portugalrunning.com/eventos/trail-amigos-da-montanha-2023/
+END:VEVENT
+END:VCALENDAR

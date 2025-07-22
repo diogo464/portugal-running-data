@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4831b4f
+DTSTAMP:20250720T222720Z
+DTSTART:20231105
+DTEND:20231106
+LOCATION:Arraiolos\,  Évora Arraiolos\,  Évora
+SUMMARY:Trail da Empada 2023
+DESCRIPTION:O Trail da Empada é uma prova de Trail Running no dia 5 de Nov
+ embro\,  corrida pedestre em Natureza\,  com duas distâncias\,  Trail Long
+ o (TL) K25\,  Sprint Trail (ST) K16 e Iniciação ao Trail/Caminhada 10Km. 
+ A prova terá início e fim no Arraiolos Multiusos\,  percorrendo trilhos\,
+   estradões\,  caminhos florestais\,  singletracks\, [..]\nhttps://www.por
+ tugalrunning.com/eventos/trail-da-empada-2023/
+URL:https://www.portugalrunning.com/eventos/trail-da-empada-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7701ddb
+DTSTAMP:20250720T222807Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Vila Verde\,  Braga Vila Verde\,  Braga
+SUMMARY:Trail Nascente e Vale do Neiva 2024
+DESCRIPTION:O IV Trail Nascente e Vale do Neiva pretende promover o desport
+ o\,  a saúde e o bem-estar das populações\,  e terá lugar no dia 28 de 
+ Abril de 2024\,  incluindo uma Caminhada com 10km\,  um Trail Curto com 17k
+ m e um Trail Longo com 27 km.\nhttps://www.portugalrunning.com/eventos/trai
+ l-nascente-do-vale-do-neiva-2024/
+URL:https://www.portugalrunning.com/eventos/trail-nascente-do-vale-do-neiva-2024/
+END:VEVENT
+END:VCALENDAR

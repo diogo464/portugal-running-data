@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4091fe4
+DTSTAMP:20250720T222256Z
+DTSTART:20220522
+DTEND:20220523
+LOCATION:Porto Porto
+SUMMARY:Corrida da Mulher - Porto - 2022
+DESCRIPTION:Corrida da Mulher - Porto - 2022 22 de Maio de 2022 - Porto - 5
+ km\nhttps://www.portugalrunning.com/eventos/corrida-da-mulher-porto-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-porto-2022/
+END:VEVENT
+END:VCALENDAR

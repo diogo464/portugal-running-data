@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8317d6c
+DTSTAMP:20250720T222819Z
+DTSTART:20220410
+DTEND:20220411
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Trail Rota das Capelas 2022
+DESCRIPTION:O Trail Rota das Capelas 2022 está inserido numa das mais bela
+ s serras do norte de Portugal\,  a serra da Aboboreira que se eleva até um
+ a altitude de 1 000 metros.É um evento desportivo que não está inserido 
+ no circuito nacional de Trail Running\,  e que teve na sua gênese[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-rota-das-capelas-2022/
+URL:https://www.portugalrunning.com/eventos/trail-rota-das-capelas-2022/
+END:VEVENT
+END:VCALENDAR

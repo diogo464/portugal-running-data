@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c747a268
+DTSTAMP:20250720T222348Z
+DTSTART:20250301T091400Z
+DTEND:20250301T235900Z
+LOCATION:Madeira Madeira
+SUMMARY:Corrida Virtual - Faz das Tripas Coração 2025
+DESCRIPTION:Este evento é virtual\,  sem carácter competitivo e de cariz 
+ solidário\,  com o objetivo de apoiar a Liga Portuguesa Contra o Cancro. E
+ sta corrida é aberta a toda a população sem restrições de idade\,  pod
+ endo ser feita a correr ou a caminhar.\nhttps://www.portugalrunning.com/eve
+ ntos/corrida-virtual-faz-das-tripas-coracao-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-virtual-faz-das-tripas-coracao-2025/
+END:VEVENT
+END:VCALENDAR

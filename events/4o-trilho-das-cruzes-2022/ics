@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c08ac66a
+DTSTAMP:20250720T222200Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Aldeia Grande\,  Setúbal Aldeia Grande\,  Setúbal
+SUMMARY:4º Trilho das Cruzes 2022
+DESCRIPTION:O TRILHO DAS CRUZES é uma organização conjunta da Associaç�
+ �o de Moradores da Aldeia Grande e Associação de Atletismo Lebres do Sado
+ . Este evento caracteriza-se como uma prova de “trail running”. Tem a d
+ istância de aproximadamente 15 kms e percorre trilhos e estradões junto �
+ �s localidades da Aldeia Grande e[..]\nhttps://www.portugalrunning.com/even
+ tos/4o-trilho-das-cruzes-2022/
+URL:https://www.portugalrunning.com/eventos/4o-trilho-das-cruzes-2022/
+END:VEVENT
+END:VCALENDAR

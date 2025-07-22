@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d96190c7
+DTSTAMP:20250720T222838Z
+DTSTART:20220529
+DTEND:20220530
+LOCATION:Bárrio\,  Alcobaça Bárrio\,  Alcobaça
+SUMMARY:Trail Trilhos Romanos 2022
+DESCRIPTION:A Junta de Freguesia do Bárrio\,  concelho de Alcobaça\,  n
+ o próximo dia 29 de Maio de 2022\,  dia do aniversário da freguesia\,  l
+ evará a cabo a organização da 1ª edição do Trail Trilhos Romanos 202
+ 2. O evento contará com duas provas competitivas\,  um Trail de 18 km\,  u
+ m Mini-trail de 12 km e uma[..]\nhttps://www.portugalrunning.com/eventos/tr
+ ail-trilhos-romanos-2022/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-romanos-2022/
+END:VEVENT
+END:VCALENDAR

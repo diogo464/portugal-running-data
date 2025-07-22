@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb62257
+DTSTAMP:20250720T222915Z
+DTSTART:20231001
+DTEND:20231002
+LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+SUMMARY:V Corrida Clube Millennium bcp 2023
+DESCRIPTION:O&nbsp;Clube Millennium BCP irá realizar a&nbsp;“V&nbsp;Corr
+ ida Clube Millennium BCP”\,  no dia&nbsp;01 de outubro 2023\,  em Belém.
+  É um evento de natureza desportiva que tem como objetivo incentivar e con
+ sciencializar a população para a importância da prática de exercício f
+ ísico\,  num cenário com o Rio Tejo como imagem de fundo!\nhttps://www.po
+ rtugalrunning.com/eventos/v-corrida-clube-millennium-bcp-2023/
+URL:https://www.portugalrunning.com/eventos/v-corrida-clube-millennium-bcp-2023/
+END:VEVENT
+END:VCALENDAR

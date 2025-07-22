@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6500689
+DTSTAMP:20250720T222333Z
+DTSTART:20240823T151700Z
+DTEND:20240823T235900Z
+LOCATION:Alter do Chão\,  Portalegre Alter do Chão\,  Portalegre
+SUMMARY:Corrida Nocturna Alter Pedroso 2024
+DESCRIPTION:A 1ª Corrida Noturna Alter Pedroso consiste numa competição 
+ aberta a todos os interessados que cumpram os pressupostos do presente regu
+ lamento. Esta prova assentará no conceito de Trail Running que é uma corr
+ ida pedestre em Natureza\,  com o mínimo de percurso pavimentado/alcatroad
+ o\,  que não deverá exceder 20% do percurso total\, [..]\nhttps://www.por
+ tugalrunning.com/eventos/corrida-nocturna-alter-pedroso-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-nocturna-alter-pedroso-2024/
+END:VEVENT
+END:VCALENDAR

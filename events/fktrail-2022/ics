@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f31401
+DTSTAMP:20250720T222415Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Buarcos\,  Coimbra Buarcos\,  Coimbra
+SUMMARY:FKTrail 2022
+DESCRIPTION:FKTRAIL 2022 será constituído por 3 distâncias distintas: Tr
+ ail - Trail com cerca de 23 km e 2200m de acumulado total.Mini Trail - Trai
+ l com cerca de 14 km e 1000m de acumulado total.Caminhada - Caminhada com c
+ erca de 10 Km.nota: as distâncias poderão sofrer ligeiros ajustes. O even
+ to realizar-se-á[..]\nhttps://www.portugalrunning.com/eventos/fktrail-2022
+ /
+URL:https://www.portugalrunning.com/eventos/fktrail-2022/
+END:VEVENT
+END:VCALENDAR

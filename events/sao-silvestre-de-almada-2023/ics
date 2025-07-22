@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d137987b
+DTSTAMP:20250720T222627Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Almada Almada
+SUMMARY:São Silvestre Almada 2023
+DESCRIPTION:O Clube de Atletismo Amigos do Parque da Paz\,  e a Associaçã
+ o Desportiva O Mundo da Corrida\,  com o apoio da Câmara Municipal de Alma
+ da\,  vai realizar no próximo dia 16 de Dezembro de 2023\,  pelas 18:00 ho
+ ras\,  uma corrida de 10 km\,  denominada "SÃO SILVESTRE DE ALMADA". Logo 
+ a[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-almada-2023
+ /
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-almada-2023/
+END:VEVENT
+END:VCALENDAR

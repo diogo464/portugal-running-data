@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db2c306d
+DTSTAMP:20250720T222906Z
+DTSTART:20220507
+DTEND:20220508
+LOCATION:Vila Nova de Cerveira Vila Nova de Cerveira
+SUMMARY:Ultra Trail de Cerveira 2022
+DESCRIPTION:O Ultra Trail de Cerveira 2022 é um evento de Trail Running qu
+ e decorre nas Serras deCerveira\,  percorrendo caminhos e trilhos nas fregu
+ esias do concelho de Vila Nova deCerveira.\nhttps://www.portugalrunning.com
+ /eventos/ultra-trail-de-cerveira-2022/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-de-cerveira-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d47db3e1
+DTSTAMP:20250720T222719Z
+DTSTART:20230318
+DTEND:20230319
+LOCATION:Calheta\,  Madeira Calheta\,  Madeira
+SUMMARY:Trail da Calheta 2023
+DESCRIPTION:O Trail da Calheta será a sétima etapa do Circuito Trail Made
+ ira\,  da época 2022-2023. É um evento de trail running\,  que decorre in
+ tegralmente no concelho da Calheta e que integra duas provas pontuáveis pa
+ ra o circuito\,  em total respeito com o meio ambiente.\nhttps://www.portug
+ alrunning.com/eventos/trail-da-calheta-2023/
+URL:https://www.portugalrunning.com/eventos/trail-da-calheta-2023/
+END:VEVENT
+END:VCALENDAR

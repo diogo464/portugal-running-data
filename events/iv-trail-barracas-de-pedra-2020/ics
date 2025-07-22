@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6caef3ac4
+DTSTAMP:20250720T222446Z
+DTSTART:20200531
+DTEND:20200601
+LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+SUMMARY:IV Trail Barracas de Pedra 2020
+DESCRIPTION:O IV Trail Barracas de Pedra será realizado no dia 15 de Ma
+ rço de 2020\,  na Aldeia da Povoa da Lomba – Cantanhede\,  “casa” da
+  equipa de Trail / Atletismo S. C. Povoense – Caracóis de Corrida. Este 
+ evento de Trail em estado puro será composto por um Trail Longo (prova que
+  faz[..]\nhttps://www.portugalrunning.com/eventos/iv-trail-barracas-de-pedr
+ a-2020/
+URL:https://www.portugalrunning.com/eventos/iv-trail-barracas-de-pedra-2020/
+END:VEVENT
+END:VCALENDAR

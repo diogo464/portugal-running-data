@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c93303aa
+DTSTAMP:20250720T222419Z
+DTSTART:20230930
+DTEND:20231001
+LOCATION:Airães\,  Felgueiras Airães\,  Felgueiras
+SUMMARY:GP Atletismo de Airães 2023
+DESCRIPTION:A União Desportiva da Várzea- Felgueiras\,  com o Apoio da Ju
+ nta de Freguesia de Airães\,  no próximo dia 30 de setembro\,  organiza a
+  4ª Grande Prova de Atletismo de Airães\,  com partida e chegada junto à
+  Igreja Românica de Airães - Felgueiras\nhttps://www.portugalrunning.com/
+ eventos/gp-atletismo-de-airaes-2023/
+URL:https://www.portugalrunning.com/eventos/gp-atletismo-de-airaes-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d217972c
+DTSTAMP:20250720T222641Z
+DTSTART:20241207
+DTEND:20241208
+LOCATION:Mozelos\,  Aveiro Mozelos\,  Aveiro
+SUMMARY:São Silvestre Mozelos 2024
+DESCRIPTION:A 6ª São Silvestre de Mozelos contará com a organização da
+  Juventude Atlética Mozelense\,  com o apoio da Junta de Freguesia de Moze
+ los\,  em parceria com a Câmara Municipal de Santa Maria da Feira.\nhttps:
+ //www.portugalrunning.com/eventos/sao-silvestre-mozelos-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mozelos-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2718504
+DTSTAMP:20250720T222231Z
+DTSTART:20220724
+DTEND:20220725
+LOCATION:Salir do Porto\,  Caldas da Rainha Salir do Porto\,  Caldas da Rainha
+SUMMARY:Caldas Trail 2022
+DESCRIPTION:O Clube de corrida\, &nbsp;Não Fazemos Nem Mais Um... Km\,  va
+ i realizar um evento denominado&nbsp;"CALDAS TRAIL” de 2022.&nbsp;Este ev
+ ento irá decorrer no concelho de&nbsp;Caldas da Rainha&nbsp;e irá desenvo
+ lver-se maioritariamente em trilhos\,  caminhos e estradas de terra das fre
+ guesias de&nbsp;Nadadouro\,  Foz do Arelho\,  Santo Onofre e Serra do Bouro
+ \,  Tornada e Salir[..]\nhttps://www.portugalrunning.com/eventos/caldas-tra
+ il-2022/
+URL:https://www.portugalrunning.com/eventos/caldas-trail-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c48f419e
+DTSTAMP:20250720T222304Z
+DTSTART:20250510
+DTEND:20250511
+LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+SUMMARY:Corrida de Belém 2025
+DESCRIPTION:Um encontro com a história e uma corrida com passagem pelos ma
+ is belos monumentos históricos da cidade de Lisboa. Belém\,  batizado com
+  o nome da estrela guia\,  o lugar de Belém foi\,  através dos séculos\,
+   um pouco de tudo. Aldeia rural na Idade Média\,  porto de mar dos Descob
+ rimentos\,  lugar[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-b
+ elem-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-belem-2025/
+END:VEVENT
+END:VCALENDAR

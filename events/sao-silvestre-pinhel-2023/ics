@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d21619f7
+DTSTAMP:20250720T222641Z
+DTSTART:20231231
+DTEND:20240101
+LOCATION:Pinhel\,  Guarda Pinhel\,  Guarda
+SUMMARY:São Silvestre Pinhel 2023
+DESCRIPTION:"𝗡𝗼 ú𝗹𝘁𝗶𝗺𝗼 𝗱𝗶𝗮 𝗱𝗼 𝗮𝗻
+ 𝗼\,  𝗮 𝘁𝗿𝗮𝗱𝗶çã𝗼 𝘃𝗮𝗶 𝗰𝘂𝗺𝗽𝗿
+ 𝗶𝗿-𝘀𝗲 𝗲𝗺 𝗣𝗶𝗻𝗵𝗲𝗹\,  𝗰𝗼𝗺 𝗮 �
+ ��𝗲𝗮𝗹𝗶𝘇𝗮çã𝗼 𝗱𝗮 𝗖𝗼𝗿𝗿𝗶𝗱𝗮 �
+ ��ã𝗼 𝗦𝗶𝗹𝘃𝗲𝘀𝘁𝗿𝗲 𝗣𝗶𝗻𝗵𝗲𝗹 - �
+ ��𝗶𝗱𝗮𝗱𝗲 Falcão 2023. A iniciativa é organizada pelo Munic�
+ �pio de Pinhel\,  com o apoio da Associação de Atletismo da Guarda e dos 
+ Serviços Sociais da Câmara Municipal de Pinhel\,  e[..]\nhttps://www.port
+ ugalrunning.com/eventos/sao-silvestre-pinhel-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-pinhel-2023/
+END:VEVENT
+END:VCALENDAR

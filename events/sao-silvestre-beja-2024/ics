@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edbe65
+DTSTAMP:20250720T222622Z
+DTSTART:20241227
+DTEND:20241228
+LOCATION:Beja Beja
+SUMMARY:São Silvestre Beja 2024
+DESCRIPTION:A São Silvestre é um evento de carácter desportivo\,  comuni
+ tário e solidário\,  promovido e organizado pela Câmara Municipal de Bej
+ a e que se realizará no próximo dia 27 de dezembro. Esta iniciativa conta
+ rá com a colaboração técnica e de arbitragem da Associação de Atletis
+ mo de Beja e o apoio de[..]\nhttps://www.portugalrunning.com/eventos/sao-si
+ lvestre-beja-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-beja-2024/
+END:VEVENT
+END:VCALENDAR

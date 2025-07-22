@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5292b96
+DTSTAMP:20250720T222314Z
+DTSTART:20220206
+DTEND:20220207
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Corrida do Fim da Europa 2022
+DESCRIPTION:Uma das mais antigas e tradicionais provas nacionais\,  a Corri
+ da Fim da Europa 2022 decorre numa das paisagens mais encantadoras de Portu
+ gal\,  a Vila de Sintra – Património Mundial da Unesco. Esta beleza é c
+ omprovada pelo o facto de estar entre as 10 primeiras no livro World’s Ul
+ timate Running Races\, [..]\nhttps://www.portugalrunning.com/eventos/corrid
+ a-do-fim-da-europa-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-fim-da-europa-2022/
+END:VEVENT
+END:VCALENDAR

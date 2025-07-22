@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca0322e2
+DTSTAMP:20250720T222432Z
+DTSTART:20250111
+DTEND:20250112
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Grande Prémio dos Reis 2025
+DESCRIPTION:A Associação de Atletismo do Algarve e a Câmara Municipal de
+  Faro\,  com o apoio da FAGAR\,  vão realizar na Cidade de Faro\,  o 53º 
+ Grande Prémio dos Reis integrando o Campeonato Regional de Estrada\,  no d
+ ia 11 de Janeiro de 2025 (Sábado)\,  decorrendo também a 8ª Edição da 
+ Grande[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-dos-reis-
+ 2025-2/
+URL:https://www.portugalrunning.com/eventos/grande-premio-dos-reis-2025-2/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9e7995e
+DTSTAMP:20250720T222430Z
+DTSTART:20250608T225500Z
+DTEND:20250608T235900Z
+LOCATION:Pinheiro da Bemposta\,  Oliveira de Azeméis Pinheiro da Bemposta\,  Oliveira de Azeméis
+SUMMARY:Grande Prémio de Atletismo Paulo Ferreira 2025
+DESCRIPTION:O Grande Prémio de Atletismo Paulo Ferreira é o principal eve
+ nto do ano do Grupo Juvenil Pinheiro da Bemposta\,  que assim homenageia um
+  dos incontornáveis nomes do atletismo oliveirense.\nhttps://www.portugalr
+ unning.com/eventos/grande-premio-de-atletismo-paulo-ferreira-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-paulo-ferreira-2025/
+END:VEVENT
+END:VCALENDAR

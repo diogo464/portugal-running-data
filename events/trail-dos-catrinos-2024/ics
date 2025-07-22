@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61acc2f
+DTSTAMP:20250720T222745Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Santa Catarina\,  Alcácer do Sal Santa Catarina\,  Alcácer do Sal
+SUMMARY:Trail dos Catrinos 2024
+DESCRIPTION:O Trail\,  dos “Catrinos” é uma prova no âmbito do despor
+ to aventura ao ar livre e de natureza. Esta iniciativa é organizada pela A
+ ssociação\,  Santa Catarina Futebol Clube\,  e tem como principal objetiv
+ o proporcionar aos amantes desta modalidade o contacto e conhecimento de lo
+ cais que a nossa aldeia dispõe\,  com[..]\nhttps://www.portugalrunning.com
+ /eventos/trail-dos-catrinos-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dos-catrinos-2024/
+END:VEVENT
+END:VCALENDAR

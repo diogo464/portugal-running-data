@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc87c81e
+DTSTAMP:20250720T222512Z
+DTSTART:20230401
+DTEND:20230402
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Meia Maratona Água de Faro 23
+DESCRIPTION:A Meia Maratona Água de FARO 23 é uma prova pedestre diurna o
+ rganizada pela FAGAR e pelo Município de Faro\,  com o apoio técnico da A
+ ssociação de Atletismo do Algarve. A&nbsp;Meia Maratona Água de FARO 23\
+ ,  tem a distância determinada por medição de&nbsp;21\, 097km. A&nbsp;Mi
+ ni Maratona Água de FARO 23&nbsp;tem a[..]\nhttps://www.portugalrunning.co
+ m/eventos/meia-maratona-agua-de-faro-23/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-agua-de-faro-23/
+END:VEVENT
+END:VCALENDAR

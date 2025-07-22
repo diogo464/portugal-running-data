@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc304ca
+DTSTAMP:20250720T222604Z
+DTSTART:20231125
+DTEND:20231126
+LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+SUMMARY:Pisão Extreme 2023
+DESCRIPTION:O evento Pisão Extreme é organizado pela SpotCriativo Eventos
+  em colaboração com o Município de S. P. Sul e apoio das entidades locai
+ s. O evento será realizado nos dias 25 de Novembro de 2023\,  com partida 
+ e chegada no Bioparque do Pisão - Carvalhais - S.P. Sul\,  será composto 
+ por[..]\nhttps://www.portugalrunning.com/eventos/pisao-extreme-2023/
+URL:https://www.portugalrunning.com/eventos/pisao-extreme-2023/
+END:VEVENT
+END:VCALENDAR

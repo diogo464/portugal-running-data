@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca917ebb
+DTSTAMP:20250720T222441Z
+DTSTART:20221211
+DTEND:20221212
+LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+SUMMARY:III Ultra Trail Do Falcão Real 2022
+DESCRIPTION:O Evento “III Trail do Falcão Real” é uma prova de TrailR
+ unning organizada pela Secção de Trail do Grupo Desportivo de Alcoutim\, 
+  em colaboração com a Câmara Municipal de Alcoutim e União das Freguesi
+ as Alcoutim e Pereiro\,  que será realizada por trilhos e caminhos do conc
+ elho de Alcoutim\,  no dia[..]\nhttps://www.portugalrunning.com/eventos/iii
+ -ultra-trail-do-falcao-real-2022/
+URL:https://www.portugalrunning.com/eventos/iii-ultra-trail-do-falcao-real-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd16257e
+DTSTAMP:20250720T222521Z
+DTSTART:20251005
+DTEND:20251006
+LOCATION:Cadaval\,  Lisboa Cadaval\,  Lisboa
+SUMMARY:Meia Maratona de Montejunto 2025
+DESCRIPTION:Meia Maratona de Montejunto 2025\nhttps://www.portugalrunning.c
+ om/eventos/meia-maratona-de-montejunto-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-montejunto-2025/
+END:VEVENT
+END:VCALENDAR

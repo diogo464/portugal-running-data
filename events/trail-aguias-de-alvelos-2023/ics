@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3861216
+DTSTAMP:20250720T222704Z
+DTSTART:20230305
+DTEND:20230306
+LOCATION:Alvelos\,  Braga Alvelos\,  Braga
+SUMMARY:Trail Águias de Alvelos 2023
+DESCRIPTION:O Trail Águias de Alvelos é organizado pela Secção de Atlet
+ ismo e Trail Running da Associação Recreativa e Cultural Águias de Alvel
+ os\,  com sede na Rua Sra. Das Dores\,  742 – 4755- 018 Alvelos - Barcelo
+ s\,  no dia 05 de Março de 2023 sendo constituído por duas provas competi
+ tivas: Trail[..]\nhttps://www.portugalrunning.com/eventos/trail-aguias-de-a
+ lvelos-2023/
+URL:https://www.portugalrunning.com/eventos/trail-aguias-de-alvelos-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d37ac62a
+DTSTAMP:20250720T222703Z
+DTSTART:20251025
+DTEND:20251026
+LOCATION:Torres Vedras Torres Vedras
+SUMMARY:Torres Vedras Night Run Urban Trail 2025
+DESCRIPTION:A Câmara Municipal de Torres Vedras e a Promotorres E.M\,  em 
+ parceria com as associações Académico de Torres Vedras\,  Clube de Prati
+ cantes de Trail Dolce Furadouro\,  Clube Académico de Penafirme (CAP Runni
+ ng)\,  Grupo Desportivo Sobreirense (GOAT – West Trail Team) e Turres Tra
+ il Clube\,  organiza o 5º TORRES VEDRAS NIGHT[..]\nhttps://www.portugalrun
+ ning.com/eventos/torres-vedras-night-run-urban-trail-2025/
+URL:https://www.portugalrunning.com/eventos/torres-vedras-night-run-urban-trail-2025/
+END:VEVENT
+END:VCALENDAR

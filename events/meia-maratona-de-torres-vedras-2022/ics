@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd5ab8fc
+DTSTAMP:20250720T222525Z
+DTSTART:20220320
+DTEND:20220321
+LOCATION:Torres Vedras Torres Vedras
+SUMMARY:Meia Maratona De Torres Vedras 2022
+DESCRIPTION:Um novo desafio chegou\,  chama-se "Meia Maratona De Torres Ved
+ ras 2022" e promete juntar os apaixonados da distância dos&nbsp;21km\,  ju
+ ntamente com os atletas de&nbsp;10km&nbsp;e a família na caminhada de&nbsp
+ ;5km.&nbsp;Torres Vedras\,  uma zona cheia de atrativos para quem gosta de&
+ nbsp;natureza\,  história\,  desporto\,  gastronomia e boa gente!\nhttps:/
+ /www.portugalrunning.com/eventos/meia-maratona-de-torres-vedras-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-torres-vedras-2022/
+END:VEVENT
+END:VCALENDAR

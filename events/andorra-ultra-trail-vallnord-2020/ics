@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1949bda
+DTSTAMP:20250720T222217Z
+DTSTART:20200707
+DTEND:20200708
+LOCATION:Andorra Andorra
+SUMMARY:Andorra Ultra Trail Vallnord 2020
+DESCRIPTION:Andorra Ultra Trail Vallnord 2020\,  que terá lugar entre 7 a 
+ 12 de Julho\,  com 3500 lugares disponíveis para as diferentes provas. No 
+ principado de Andorra já se prepara a 12ª edição do (Andorra) Ultra Tra
+ il Vallnord\,  um evento desportivo consolidado e imperdível dentro do cir
+ cuito mundial de corridas de[..]\nhttps://www.portugalrunning.com/eventos/a
+ ndorra-ultra-trail-vallnord-2020/
+URL:https://www.portugalrunning.com/eventos/andorra-ultra-trail-vallnord-2020/
+END:VEVENT
+END:VCALENDAR

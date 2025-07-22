@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8400dff
+DTSTAMP:20250720T222820Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Vizela\,  Braga Vizela\,  Braga
+SUMMARY:Trail Rota do Bolinhol 2023
+DESCRIPTION:O 7º Trail Rota do Bolinhol será constituído por um Mini-Tra
+ il de 13km\,  um Trail de 20km e uma caminhada de 6km\,  organizados pela C
+ asa do Futebol Clube do Porto-Dragões Vale do Vizela.\nhttps://www.portuga
+ lrunning.com/eventos/trail-rota-do-bolinhol-2023/
+URL:https://www.portugalrunning.com/eventos/trail-rota-do-bolinhol-2023/
+END:VEVENT
+END:VCALENDAR

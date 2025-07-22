@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daa006e2
+DTSTAMP:20250720T222858Z
+DTSTART:20240421T172000Z
+DTEND:20240421T172000Z
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:Trilhos do Pelourinho 2024
+DESCRIPTION:Atividade organizada pela secção de atletismo do F. C. Alvala
+ dense\,  adota a denominação de “Trilhos do Pelourinho” tem periodici
+ dade anual (3º Domingo de abril). Em 2024 acontece no dia 21 abril. O even
+ to é composto por dois percursos de caracter competitivo a decorrer em sim
+ ultâneo\,  trilho curto com aproximadamente 16km[..]\nhttps://www.portugal
+ running.com/eventos/trilhos-do-pelourinho-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-pelourinho-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3d9238a
+DTSTAMP:20250720T222253Z
+DTSTART:20230423
+DTEND:20230424
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Corrida da Liberdade 2023
+DESCRIPTION:No dia 23 de Abril de 2023\,  pelas 10H00\,  realiza-se a 5.
+ ª Corrida da Liberdade da União de freguesias de Santa Marinha e São Pe
+ dro da Afurada\,  com inicio e fim na avenida Diogo Leite junto à tabernin
+ ha do Manel\,  Vila Nova de Gaia\,  integrando ainda uma caminhada\,  com a
+  distância de 5 kms\, [..]\nhttps://www.portugalrunning.com/eventos/corrid
+ a-da-liberdade-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-2023/
+END:VEVENT
+END:VCALENDAR

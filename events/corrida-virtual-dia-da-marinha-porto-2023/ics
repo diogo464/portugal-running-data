@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c743286e
+DTSTAMP:20250720T222348Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Virtual - Dia da Marinha Porto 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-virtual-dia-d
+ a-marinha-porto-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-virtual-dia-da-marinha-porto-2023/
+END:VEVENT
+END:VCALENDAR

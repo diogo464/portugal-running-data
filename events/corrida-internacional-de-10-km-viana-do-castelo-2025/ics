@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6501b84
+DTSTAMP:20250720T222333Z
+DTSTART:20250601
+DTEND:20250602
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Corrida Internacional de 10 Km Viana do Castelo 2025
+DESCRIPTION:A Associação Desportiva "Cyclones Sanitop" e o Municipio de V
+ iana do Castelo vão organizar a 2ª edição da Corrida Internacional de 1
+ 0 km de"Viana do Castelo ". A prova será no Domingo\,  01 de Junho de 2025
+ \,  pela 10h com partida e chegada em frente ao Centro Cultural de Viana[..
+ ]\nhttps://www.portugalrunning.com/eventos/corrida-internacional-de-10-km-v
+ iana-do-castelo-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-internacional-de-10-km-viana-do-castelo-2025/
+END:VEVENT
+END:VCALENDAR

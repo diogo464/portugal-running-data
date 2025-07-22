@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9aac546
+DTSTAMP:20250720T222426Z
+DTSTART:20230408
+DTEND:20230409
+LOCATION:Constância\,  Santarém Constância\,  Santarém
+SUMMARY:Grande Prémio Da Páscoa De Constância 2023
+DESCRIPTION:Uma das provas mais antigas da região\,  realizada pelas marge
+ ns do rio Zêzere. Venha fazer parte desta festa da corrida e aproveite par
+ a passar por Constância como ponto de passagem do fim-de-semana de Páscoa
+ . Em alternativa participe na caminhada e aproveite na mesma das festividad
+ es locais.\nhttps://www.portugalrunning.com/eventos/grande-premio-da-pascoa
+ -de-constancia-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-da-pascoa-de-constancia-2023/
+END:VEVENT
+END:VCALENDAR

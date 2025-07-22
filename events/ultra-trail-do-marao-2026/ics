@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db717ec1
+DTSTAMP:20250720T222911Z
+DTSTART:20260326
+DTEND:20260327
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Ultra Trail do Marão 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ultra-trail-do-marao-
+ 2026/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-do-marao-2026/
+END:VEVENT
+END:VCALENDAR

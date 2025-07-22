@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccd31470
+DTSTAMP:20250720T222517Z
+DTSTART:20230617
+DTEND:20230618
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:Meia Maratona de Caminha 2023
+DESCRIPTION:A ÚNICA MEIA MARATONA SUNSET DO PAÍS\,  denominada oficialmen
+ te como a VII Meia Maratona Sunset de Caminha\,  tem lugar no concelho de C
+ aminha\,  em Portugal\,  com organização da Associação Triatlo de Camin
+ ha\,  em parceria com a Câmara Municipal de Caminha. Serão três distânc
+ ias:Meia Maratona\,  21.097 km\,  (distância oficial – FPA/CNEC)\, [..]\
+ nhttps://www.portugalrunning.com/eventos/meia-maratona-de-caminha-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-caminha-2023/
+END:VEVENT
+END:VCALENDAR

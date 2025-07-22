@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3431373
+DTSTAMP:20250720T222700Z
+DTSTART:20241117T221500Z
+DTEND:20241117T221500Z
+LOCATION:Alvados\,  Porto de Mós Alvados\,  Porto de Mós\,  Lisboa
+SUMMARY:Taça Concelho Porto de Mós 2024
+DESCRIPTION:A&nbsp;Taça Concelho&nbsp;Porto de Mós&nbsp;nasce da vontade 
+ de dinamizar as provas de Trail e BTT existentes no Concelho de Porto de M�
+ �s\,  divulgar a região\,  e estimular o espírito competitivo entre os at
+ letas. Apesar de se tratar de um evento competitivo apela-se\,  a todos os 
+ atletas que contribuam para a festa\, [..]\nhttps://www.portugalrunning.com
+ /eventos/taca-concelho-porto-de-mos-2024/
+URL:https://www.portugalrunning.com/eventos/taca-concelho-porto-de-mos-2024/
+END:VEVENT
+END:VCALENDAR

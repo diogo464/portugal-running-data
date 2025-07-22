@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbec474e
+DTSTAMP:20250720T222502Z
+DTSTART:20250921
+DTEND:20250922
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:Lynxrace Mafra 2025
+DESCRIPTION:A terceira etapa do CIRCUITO LYNX realiza-se a 21 de Setembro\,
+   na Tapada Militar de Mafra.A LYNX MAFRA 2025 é uma Corrida de Obstáculo
+ s\,  patrocinada pela Câmara Municipal de Mafra\,  comtrês distâncias: 2
+ Km (KIDS); 5 Km diversão (OPEN)\,  10 Km (competição e OPEN). NOTA: quem
+  se inscreve em FUN (5KM)[..]\nhttps://www.portugalrunning.com/eventos/lynx
+ race-mafra-2025/
+URL:https://www.portugalrunning.com/eventos/lynxrace-mafra-2025/
+END:VEVENT
+END:VCALENDAR

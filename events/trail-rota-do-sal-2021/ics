@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d863188a
+DTSTAMP:20250720T222822Z
+DTSTART:20211219
+DTEND:20211220
+LOCATION:Santa Comba Dão\,  Viseu Santa Comba Dão\,  Viseu
+SUMMARY:Trail Rota do Sal 2021
+DESCRIPTION:A Rota do Sal está de volta com o Trail Rota do Sal 2021! No d
+ ia 19 de Dezembro\,  iremos ter: Trail longo de 25km 1000d+ Trail curto de 
+ 15km 500d+ Caminhada de 10km 300d+\nhttps://www.portugalrunning.com/eventos
+ /trail-rota-do-sal-2021/
+URL:https://www.portugalrunning.com/eventos/trail-rota-do-sal-2021/
+END:VEVENT
+END:VCALENDAR

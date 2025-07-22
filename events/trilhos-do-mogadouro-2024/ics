@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da6db5cb
+DTSTAMP:20250720T222854Z
+DTSTART:20240324
+DTEND:20240325
+LOCATION:Mogadouro\,  Bragança Mogadouro\,  Bragança
+SUMMARY:Trilhos do Mogadouro 2024
+DESCRIPTION:O Município de Mogadouro organiza no dia&nbsp;24 de março de 
+ 2024\,  em colaboração com a Associação de Atletismo de Bragança\,  um
+  trail com características de montanha e uma caminhada em natureza denomin
+ ado&nbsp;XX TRILHOS DE MOGADOURO – AMENDOEIRAS EM FLOR. Em simultâneo re
+ alizam-se as CORRIDAS JOVENS – MOGADOURO 2024\,  para escalões[..]\nhttp
+ s://www.portugalrunning.com/eventos/trilhos-do-mogadouro-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-mogadouro-2024/
+END:VEVENT
+END:VCALENDAR

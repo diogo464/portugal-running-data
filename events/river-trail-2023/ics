@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d04f3d05
+DTSTAMP:20250720T222612Z
+DTSTART:20230723
+DTEND:20230724
+LOCATION:Fornos de Algodres\,  Guarda Fornos de Algodres\,  Guarda
+SUMMARY:River Trail 2023
+DESCRIPTION:O “RIVER TRAIL” é uma corrida de montanha\,  organizada pe
+ la “AVCAT-Associação Vila ChãAldeia Trail de Portugal”\,  a realizar
+  no dia 23 de julho\,  na Praia Fluvial da Ponte de Juncais-Fornosde Algodr
+ es.Este trail faz parte do Circuito Municipal de Corrida de Montanha-Trilho
+ s D`O Bom Sabor daSerra-VI(r)VER Fornos de Algodres e será[..]\nhttps://ww
+ w.portugalrunning.com/eventos/river-trail-2023/
+URL:https://www.portugalrunning.com/eventos/river-trail-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9eddf3e
+DTSTAMP:20250720T222846Z
+DTSTART:20250112
+DTEND:20250113
+LOCATION:Portalegre Portalegre
+SUMMARY:Trilho dos Reis 2025
+DESCRIPTION:Os Trilhos dos Reis serão realizados nos dias 11 e 12 de janei
+ ro de 2025 e é um evento organizado pela DAP – Associação de Desporto 
+ e Aventura de Portalegre\,  com o apoio do Município de Portalegre\,  Turi
+ smo do Alentejo\,  E.R.T.\,  Uniões de Freguesias de Sé e São Lourenço\
+ ,  Ribeira[..]\nhttps://www.portugalrunning.com/eventos/trilho-dos-reis-202
+ 5/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-reis-2025/
+END:VEVENT
+END:VCALENDAR

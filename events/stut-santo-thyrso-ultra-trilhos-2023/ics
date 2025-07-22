@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3030c94
+DTSTAMP:20250720T222656Z
+DTSTART:20230219
+DTEND:20230220
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:Stut - Santo Thyrso Ultra Trilhos 2023
+DESCRIPTION:A 8ª Edição do STUT-Santo Thyrso Ultra Trilhos é uma prova 
+ de corrida de montanha\,  organizada pelo NAST – Núcleo Associativo de S
+ anto Tirso e Camara Municipal de Santo Tirso\,  que se desenvolve pelas Mon
+ tanhas dos concelhos de Santo Tirso e Paços de Ferreira. Em simultâneo co
+ m as provas\,  realiza-se[..]\nhttps://www.portugalrunning.com/eventos/stut
+ -santo-thyrso-ultra-trilhos-2023/
+URL:https://www.portugalrunning.com/eventos/stut-santo-thyrso-ultra-trilhos-2023/
+END:VEVENT
+END:VCALENDAR

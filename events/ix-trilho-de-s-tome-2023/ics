@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb1db2b6
+DTSTAMP:20250720T222449Z
+DTSTART:20230107
+DTEND:20230108
+LOCATION:Ferreira-a-Nova\,  Figueira da Foz Ferreira-a-Nova\,  Figueira da Foz
+SUMMARY:IX Trilho de S. Tomé 2023
+DESCRIPTION:O “IX Trilho de S. Tomé'23” será realizado no dia 7 de 
+ janeiro de 2023 em Ferreira-a-Nova (40.23488620\, - 8.73803616)\,  independ
+ entemente das condições climatéricas desse dia\,  desde que a organiz
+ ação entenda que não ofereçam risco para os participantes. Se a Org
+ anização o entender\,  e a segurança dos participantes o justificar\,
+   poderão[..]\nhttps://www.portugalrunning.com/eventos/ix-trilho-de-s-tom
+ e-2023/
+URL:https://www.portugalrunning.com/eventos/ix-trilho-de-s-tome-2023/
+END:VEVENT
+END:VCALENDAR

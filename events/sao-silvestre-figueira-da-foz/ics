@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c31fe2
+DTSTAMP:20250720T222636Z
+DTSTART:20191221
+DTEND:20191222
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:São Silvestre Figueira da Foz
+DESCRIPTION:A São Silvestre da Figueira da Foz é um evento promovido pela
+  Câmara Municipal da Figueira da Foz e organizado pela Last Lap Eventos e 
+ Comunicação Lda. No dia 21 de dezembro de 2019 irá realizar-se a São Si
+ lvestre da Figueira da Foz\,  que se caracteriza pelo percurso único\,  ao
+ [..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-figueira-da-foz
+ /
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-figueira-da-foz/
+END:VEVENT
+END:VCALENDAR

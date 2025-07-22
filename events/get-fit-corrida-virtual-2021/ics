@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c93307d4
+DTSTAMP:20250720T222419Z
+DTSTART:20211011
+DTEND:20211012
+LOCATION:Portugal Portugal
+SUMMARY:GET FIT Corrida Virtual 2021
+DESCRIPTION:GET FIT Corrida Virtual 2021\nhttps://www.portugalrunning.com/e
+ ventos/get-fit-corrida-virtual-2021/
+URL:https://www.portugalrunning.com/eventos/get-fit-corrida-virtual-2021/
+END:VEVENT
+END:VCALENDAR

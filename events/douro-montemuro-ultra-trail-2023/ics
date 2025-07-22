@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8279b45
+DTSTAMP:20250720T222402Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Cinfães Cinfães
+SUMMARY:Douro Montemuro Ultra Trail 2023
+DESCRIPTION:O Douro Montemuro Ultra Trail (DMUT) é um evento desportivo de
+  trail running da responsabilidade organizativa da Associação Desportiva 
+ Cinfães a Correr (ADCC)\,  associação sem fins lucrativos\,  com sede no
+  Município de Cinfães\,  que se realizará nos dias 3 e 4 de Junho de 202
+ 3. O Rio Douro\,  o vale[..]\nhttps://www.portugalrunning.com/eventos/douro
+ -montemuro-ultra-trail-2023/
+URL:https://www.portugalrunning.com/eventos/douro-montemuro-ultra-trail-2023/
+END:VEVENT
+END:VCALENDAR

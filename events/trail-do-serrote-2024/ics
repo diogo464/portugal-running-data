@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61c6869
+DTSTAMP:20250720T222745Z
+DTSTART:20240317
+DTEND:20240318
+LOCATION:Vila Nova De Monsarros\,  Anadia Vila Nova De Monsarros\,  Anadia
+SUMMARY:Trail do Serrote 2024
+DESCRIPTION:Mais uma vez o Trail do Serrote vai correr as encostas serranas
+  da Freguesia de Vila Nova de Monsarros contornando vales e desafiando as e
+ ncostas rochosas junto ao Rio da Serra. Pelo caminho\,  vamos ter as nossas
+  aldeias\,  com os seus arruamentos e as suas gentes a puxar por todos[..]\
+ nhttps://www.portugalrunning.com/eventos/trail-do-serrote-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-serrote-2024/
+END:VEVENT
+END:VCALENDAR

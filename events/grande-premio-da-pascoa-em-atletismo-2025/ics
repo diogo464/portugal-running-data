@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9adcda2
+DTSTAMP:20250720T222426Z
+DTSTART:20250418
+DTEND:20250419
+LOCATION:Alcacer do Sal\,  Setúbal Alcacer do Sal\,  Setúbal
+SUMMARY:Grande Prémio da Páscoa em Atletismo 2025
+DESCRIPTION:Grande Prémio da Páscoa em Atletismo 2025\nhttps://www.portug
+ alrunning.com/eventos/grande-premio-da-pascoa-em-atletismo-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-da-pascoa-em-atletismo-2025/
+END:VEVENT
+END:VCALENDAR

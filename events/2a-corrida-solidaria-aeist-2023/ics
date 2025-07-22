@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfec3cd1
+DTSTAMP:20250720T222150Z
+DTSTART:20231001
+DTEND:20231002
+LOCATION:Instituto Superior Técnico Taguspark\,  Oeiras Instituto Superior Técnico Taguspark\,  Oeiras
+SUMMARY:2ª Corrida Solidária AEIST 2023
+DESCRIPTION:A&nbsp;Associação dos Estudantes do Instituto Superior Técni
+ co&nbsp;apresenta a “2ª Corrida Solidária AEIST”\,  a realizar-se no&
+ nbsp;dia 1 de outubro de 2023\,  com a cronometragem da Xistarca. O evento 
+ consiste numa corrida de 12km e uma caminhada de 6km. Ao organizar esta cor
+ rida\,  a&nbsp;Associação dos Estudantes do Instituto Superior&nbsp;Técn
+ ico&nbsp;pretende&nbsp;doar 100% dos lucros[..]\nhttps://www.portugalrunnin
+ g.com/eventos/2a-corrida-solidaria-aeist-2023/
+URL:https://www.portugalrunning.com/eventos/2a-corrida-solidaria-aeist-2023/
+END:VEVENT
+END:VCALENDAR

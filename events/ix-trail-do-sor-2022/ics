@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb193364
+DTSTAMP:20250720T222449Z
+DTSTART:20220904
+DTEND:20220905
+LOCATION:Ponte de Sor Ponte de Sor\,  Portalegre
+SUMMARY:IX Trail do Sor 2022
+DESCRIPTION:A Associação “Clube de Atletismo Trail Runners da Ponte” 
+ (CATRP) vai realizar no dia 04 de setembro de 2022 o “IX TRAIL DO SOR”\
+ ,  na Cidade de Ponte de Sor\,  Distrito de Portalegre\,  Alto Alentejo\,  
+ com o Apoio do Município de Ponte de Sor\,  da União de Freguesias de Pon
+ te[..]\nhttps://www.portugalrunning.com/eventos/ix-trail-do-sor-2022/
+URL:https://www.portugalrunning.com/eventos/ix-trail-do-sor-2022/
+END:VEVENT
+END:VCALENDAR

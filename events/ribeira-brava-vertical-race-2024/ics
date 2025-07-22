@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0531cf4
+DTSTAMP:20250720T222613Z
+DTSTART:20240921T063900Z
+DTEND:20240921T235900Z
+LOCATION:Ribeira Brava\,  Madeira Ribeira Brava\,  Madeira
+SUMMARY:Ribeira Brava Vertical Race 2024
+DESCRIPTION:O Ribeira Brava Vertical Race faz parte dos calendários compet
+ itivos de Skyrunning da Federação de Campismo e Montanhismo de Portugal. 
+ A 2ª edição do Ribeira Brava Vertical Race terá um percurso definido na
+  vereda do Espigão\,  com aproximadamente 2 km de extensão e 530 metros d
+ e desnível positivo.\nhttps://www.portugalrunning.com/eventos/ribeira-brav
+ a-vertical-race-2024/
+URL:https://www.portugalrunning.com/eventos/ribeira-brava-vertical-race-2024/
+END:VEVENT
+END:VCALENDAR

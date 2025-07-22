@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc3442
+DTSTAMP:20250720T222651Z
+DTSTART:20210911
+DTEND:20210912
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Sesimbra Night Run 2021
+DESCRIPTION:Nada melhor do que comemorar a 26º Corrida de Sesimbra Night R
+ un 2021\,  com uma corrida noturna na bonita vila de Sesimbra\,  10km\,  21
+ h. RESULTADOS\nhttps://www.portugalrunning.com/eventos/sesimbra-night-run-2
+ 021/
+URL:https://www.portugalrunning.com/eventos/sesimbra-night-run-2021/
+END:VEVENT
+END:VCALENDAR

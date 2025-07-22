@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c89aa701
+DTSTAMP:20250720T222409Z
+DTSTART:20200105
+DTEND:20200106
+LOCATION:Vila Franca de Xira\,  Lisboa Vila Franca de Xira\,  Lisboa
+SUMMARY:Estafeta dos Reis
+DESCRIPTION:A VI edição da Estafeta dos Reis é uma corrida por equipas
+  de 3 elementos\,  num circuito fechado com o perímetro de 3 km\,  com p
+ artida e chegada na Pista do Estádio de Honra\,  do Estádio Universitári
+ o de Lisboa. As equipas poderão ser masculinas\,  femininas ou mistas (te
+ ndo pelo menos um atleta de sexo diferente).\nhttps://www.portugalrunning.c
+ om/eventos/estafeta-dos-reis/
+URL:https://www.portugalrunning.com/eventos/estafeta-dos-reis/
+END:VEVENT
+END:VCALENDAR

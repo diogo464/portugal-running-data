@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db71801f
+DTSTAMP:20250720T222911Z
+DTSTART:20260627
+DTEND:20260628
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Ultra Trail Serra da Freita 2026
+DESCRIPTION:Ultra Trail Serra da Freita 2026\nhttps://www.portugalrunning.c
+ om/eventos/ultra-trail-serra-da-freita-2026/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-serra-da-freita-2026/
+END:VEVENT
+END:VCALENDAR

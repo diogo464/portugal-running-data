@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8eaca73
+DTSTAMP:20250720T222830Z
+DTSTART:20231208
+DTEND:20231209
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Trail Solidário do 25 - 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-solidario-do-25
+ -2023/
+URL:https://www.portugalrunning.com/eventos/trail-solidario-do-25-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd718485
+DTSTAMP:20250720T222527Z
+DTSTART:20220312
+DTEND:20220313
+LOCATION:Porto Santo\,  Madeira Porto Santo\,  Madeira
+SUMMARY:Meia-Maratona do Porto Santo 2022
+DESCRIPTION:A Meia-Maratona do Porto Santo 2022 é a prova que designa os a
+ tletas campeões regionais absolutos e dos vários escalões de veteranos d
+ a Meia Maratona e também os clubes campeões regionais coletivos.\nhttps:/
+ /www.portugalrunning.com/eventos/meia-maratona-do-porto-santo-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-porto-santo-2022/
+END:VEVENT
+END:VCALENDAR

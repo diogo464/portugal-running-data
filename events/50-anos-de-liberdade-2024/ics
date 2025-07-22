@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0894272
+DTSTAMP:20250720T222200Z
+DTSTART:20240425
+DTEND:20240426
+LOCATION:Portugal Portugal
+SUMMARY:50 anos de Liberdade 2024
+DESCRIPTION:50 anos de Liberdade 2024\nhttps://www.portugalrunning.com/even
+ tos/50-anos-de-liberdade-2024/
+URL:https://www.portugalrunning.com/eventos/50-anos-de-liberdade-2024/
+END:VEVENT
+END:VCALENDAR

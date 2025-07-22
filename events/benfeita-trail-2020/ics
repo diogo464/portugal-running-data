@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2261eb8
+DTSTAMP:20250720T222226Z
+DTSTART:20200809
+DTEND:20200810
+LOCATION:Rua Dr. Mario Mathias  Rua Dr. Mario Mathias
+SUMMARY:Benfeita Trail 2020
+DESCRIPTION:A prova\,  que como o nome indica se realiza na Aldeia do Xisto
+  da Benfeita\,  faz parte do Circuito Distrital de Trail Running da ADAC- A
+ ssociação Distrital de Atletismo de Coimbra.\nhttps://www.portugalrunning
+ .com/eventos/benfeita-trail-2020/
+URL:https://www.portugalrunning.com/eventos/benfeita-trail-2020/
+END:VEVENT
+END:VCALENDAR

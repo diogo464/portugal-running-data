@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbf31541
+DTSTAMP:20250720T222503Z
+DTSTART:20250421
+DTEND:20250422
+LOCATION:Boston\,  USA Boston\,  USA
+SUMMARY:Maratona de Boston 2025
+DESCRIPTION:A Maratona de Boston é uma das corridas de maratona mais antig
+ as e prestigiadas do mundo que ocorre em Boston\,  Massachusetts\,  nos Est
+ ados Unidos no dia 21 de Abril de 2025\,  conhecido como o "Dia do Patriota
+ " ou "Dia de Boston" (Patriots' Day)\,  um feriado local. A Maratona de Bos
+ ton[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-boston-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-de-boston-2025/
+END:VEVENT
+END:VCALENDAR

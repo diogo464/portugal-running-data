@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72dccc8
+DTSTAMP:20250720T222802Z
+DTSTART:20250201
+DTEND:20250202
+LOCATION:Barrancos\,  Beja Barrancos\,  Beja
+SUMMARY:Trail Iberlince Barrancos 2025
+DESCRIPTION:O Clube Linces de Noudar - Barrancos é uma Associação sem fi
+ ns lucrativos\,  com sede em Barrancos\,  e que promove a prova de Trail �
+ �VII Trail Iberlince de Barrancos” nos dias 1 e 2 de fevereiro de 2025.\n
+ https://www.portugalrunning.com/eventos/trail-iberlince-barrancos-2025/
+URL:https://www.portugalrunning.com/eventos/trail-iberlince-barrancos-2025/
+END:VEVENT
+END:VCALENDAR

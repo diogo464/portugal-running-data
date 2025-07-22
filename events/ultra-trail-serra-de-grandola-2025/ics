@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db717f2f
+DTSTAMP:20250720T222911Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:Grândola\,  Setúbal Grândola\,  Setúbal
+SUMMARY:Ultra Trail Serra de Grândola 2025
+DESCRIPTION:O Ultra Trail Serra de Grândola (UTSG) é um evento competitiv
+ o de trail running\,  organizado pelo Municípiode Grândola e pelo Clube A
+ miciclo\,  com o apoio do movimento associativo do concelho. As competiçõ
+ es decorrem maioritariamente por trilhos e caminhos existentes na Serra de 
+ Grândola em trêsdistâncias: 46 km\,  26 km e[..]\nhttps://www.portugalru
+ nning.com/eventos/ultra-trail-serra-de-grandola-2025/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-serra-de-grandola-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2eab053
+DTSTAMP:20250720T222238Z
+DTSTART:20230212
+DTEND:20230213
+LOCATION:Vieira do Minho\,  Braga Vieira do Minho\,  Braga
+SUMMARY:Challenge Rota do Cabreira 2023
+DESCRIPTION:O Challenge Rota do Cabreira é um evento multidesportivo\,  se
+ m caráter competitivo oficial\,  que terá como principal dificuldade a es
+ colha da modalidade a participar. Com o Trail\,  BTT\,  4X4 e Moto TT\,  o 
+ mesmo ponto de partida e chegada\,  percursos diferentes e modalidades dist
+ intas\,  farão desta prova\,  um desafio único[..]\nhttps://www.portugalr
+ unning.com/eventos/challenge-rota-do-cabreira-2023/
+URL:https://www.portugalrunning.com/eventos/challenge-rota-do-cabreira-2023/
+END:VEVENT
+END:VCALENDAR

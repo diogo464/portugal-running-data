@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d26ab90e
+DTSTAMP:20250720T222646Z
+DTSTART:20191221
+DTEND:20191222
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:São Silvestre Vila do Conde
+DESCRIPTION:Venha correr a São Silvestre de Vila do Conde!\nhttps://www.po
+ rtugalrunning.com/eventos/sao-silvestre-vila-do-conde/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vila-do-conde/
+END:VEVENT
+END:VCALENDAR

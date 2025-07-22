@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd149af4
+DTSTAMP:20250720T222521Z
+DTSTART:20240317
+DTEND:20240318
+LOCATION:Lisboa Lisboa
+SUMMARY:EDP Meia Maratona Lisboa 2024 na Ponte 25 de Abril
+DESCRIPTION:A EDP Meia Maratona Lisboa 2024 realiza-se a 17 de Março\,  fa
+ ce as eleições terem sido marcadas para dia 10 de Março. É uma das meia
+ s maratonas mais rápidas do mundo e todos os anos junta mais de 30.000 par
+ ticipantes\,  incluindo milhares de atletas estrangeiros.\nhttps://www.port
+ ugalrunning.com/eventos/meia-maratona-de-lisboa-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-lisboa-2024/
+END:VEVENT
+END:VCALENDAR

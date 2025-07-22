@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c44497c4
+DTSTAMP:20250720T222300Z
+DTSTART:20241117
+DTEND:20241118
+LOCATION:Ajuda\,  Lisboa Ajuda\,  Lisboa
+SUMMARY:Corrida das Castanhas 2024
+DESCRIPTION:A 13ª edição deste evento\,  proporcionará a todos os parti
+ cipantes de corrida e caminhada\,  uma manhã diferente acompanhada de um 
+ convívio final com oferta de castanhas e água-pé\,  a todos os que comp
+ letem a prova Partida |&nbsp;Estrada do Penedo\,  junto à Rotunda dos Mont
+ es ClarosChegada&nbsp;| Torre do Galo\,  Ajuda » Corrida 10km&nbsp;|&nbsp;
+ 10h00»[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-castanhas-
+ 2024/
+URL:https://www.portugalrunning.com/eventos/corrida-das-castanhas-2024/
+END:VEVENT
+END:VCALENDAR

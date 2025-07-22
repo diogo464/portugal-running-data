@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d62be8
+DTSTAMP:20250720T222309Z
+DTSTART:20240317
+DTEND:20240318
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Corrida Dia do Pai 2024
+DESCRIPTION:A antecipar o dia do maior herói das crianças\,  do melhor am
+ igo de toda a vida\,  a Runporto irá realizar no dia 17 de março de 2024 
+ a 20ª edição ISAG Corrida do Pai. O evento pretende juntar pais e filhos
+  de todas as idades e tem partida marcada para[..]\nhttps://www.portugalrun
+ ning.com/eventos/corrida-dia-do-pai-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-dia-do-pai-2024/
+END:VEVENT
+END:VCALENDAR

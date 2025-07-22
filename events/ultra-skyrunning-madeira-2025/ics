@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db2dc9ff
+DTSTAMP:20250720T222906Z
+DTSTART:20250613
+DTEND:20250614
+LOCATION:Santana\,  Madeira Santana\,  Madeira
+SUMMARY:Ultra Skyrunning Madeira 2025
+DESCRIPTION:Ultra Skyrunning Madeira – USM 2025 é um evento constituído
+  por 5 provas competitivas\,  a realizar em semi-autonomia. .\nhttps://www.
+ portugalrunning.com/eventos/ultra-skyrunning-madeira-2025/
+URL:https://www.portugalrunning.com/eventos/ultra-skyrunning-madeira-2025/
+END:VEVENT
+END:VCALENDAR

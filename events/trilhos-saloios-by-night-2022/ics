@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dae9af7c
+DTSTAMP:20250720T222902Z
+DTSTART:20220402
+DTEND:20220403
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Trilhos Saloios By Night 2022
+DESCRIPTION:A prova dos Trilhos Saloios By Night 2022 terá um percurso de 
+ cerca de 15km e percorrerá trilhos eestradões de terra batida na Serra de
+  Monfirre\,  com inicio na Rua da Liga dos Amigos dasCovas de Ferro 9\,  27
+ 15-260 Almargem do Bispo\,  a caminhada percorrerá as mesmas zonas quea co
+ rrida.\nhttps://www.portugalrunning.com/eventos/trilhos-saloios-by-night-20
+ 22/
+URL:https://www.portugalrunning.com/eventos/trilhos-saloios-by-night-2022/
+END:VEVENT
+END:VCALENDAR

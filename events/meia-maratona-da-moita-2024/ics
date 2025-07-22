@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccc92cab
+DTSTAMP:20250720T222516Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Moita\,  Setúbal Moita\,  Setúbal
+SUMMARY:Meia Maratona da Moita 2024
+DESCRIPTION:O evento tem lugar no próximo dia 20 de outubro na Moita. A pr
+ ova tem partida na Marginal da Moita e chegada na Praça da República da M
+ oita e conta com um percurso de 21.098 metros para a Meia Maratona e aproxi
+ madamente 7.000 mt para a Mini Caminhada.\nhttps://www.portugalrunning.com/
+ eventos/meia-maratona-da-moita-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-da-moita-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b927d7
+DTSTAMP:20250720T222323Z
+DTSTART:20250406
+DTEND:20250407
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:Corrida dos Sinos 2025
+DESCRIPTION:A Corrida dos Sinos e a MiniCorrida/Caminhada dos Sininhos são
+  organizadas pela Associação dos Amigos do Atletismo de Mafra em colabora
+ ção com a Câmara Municipal de Mafra\,  Junta de Freguesia de Mafra e Esc
+ ola das Armas. Corrida dos Sinos - 15 km MiniCorrida/Caminhada dos Sininhos
+  - 6\, 5 km\nhttps://www.portugalrunning.com/eventos/corrida-dos-sinos-2025
+ /
+URL:https://www.portugalrunning.com/eventos/corrida-dos-sinos-2025/
+END:VEVENT
+END:VCALENDAR

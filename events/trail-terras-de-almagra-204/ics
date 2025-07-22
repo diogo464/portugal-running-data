@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9301116
+DTSTAMP:20250720T222835Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Almagreira\,  Pombal Almagreira\,  Pombal
+SUMMARY:Trail Terras de Almagra 2024
+DESCRIPTION:A Horizonte – Associação Juvenil de Almagreira tem o prazer
+  de informar que vai organizar no próximo dia 2 de Junho de 2024 o seu 3º
+  TRAIL “Terras de Almagra”.\nhttps://www.portugalrunning.com/eventos/tr
+ ail-terras-de-almagra-204/
+URL:https://www.portugalrunning.com/eventos/trail-terras-de-almagra-204/
+END:VEVENT
+END:VCALENDAR

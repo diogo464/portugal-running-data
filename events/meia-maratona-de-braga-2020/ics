@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccc3523
+DTSTAMP:20250720T222516Z
+DTSTART:20200906
+DTEND:20200907
+LOCATION:Braga Braga
+SUMMARY:Meia Maratona de Braga 2020
+DESCRIPTION:Esta meia maratona\,  que tem assumido um papel de relevância 
+ no calendário nacional da distância\,  vai percorrer as ruas da cidade de
+  Braga e tem a partida marcada para as 9h30. O evento conta ainda com uma m
+ ini maratona / caminhada com a distância de 6 km destinada a todas[..]\nht
+ tps://www.portugalrunning.com/eventos/meia-maratona-de-braga-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-braga-2020/
+END:VEVENT
+END:VCALENDAR

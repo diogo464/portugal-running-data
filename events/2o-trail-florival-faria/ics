@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0030ed0
+DTSTAMP:20250720T222152Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Moncarapacho\,  Olhão Moncarapacho\,  Olhão
+SUMMARY:2º Trail Florival Faria
+DESCRIPTION:O 2º Trail Florival Faria é organizado pelo Clube Oriental
+  de Pechão em parceria com o Município de Olhão e com o apoio da Uni
+ ão de Freguesias de Moncarapacho e Fuseta. Terá lugar no dia 9 de outubro
+  na vila de Moncarapacho\,  com partida no lardo da Igreja Matriz e chegada
+  no Pavilhão de EventosOs percursos da[..]\nhttps://www.portugalrunning.co
+ m/eventos/2o-trail-florival-faria/
+URL:https://www.portugalrunning.com/eventos/2o-trail-florival-faria/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3c2dac
+DTSTAMP:20250720T222507Z
+DTSTART:20250427
+DTEND:20250428
+LOCATION:Londres\,  Inglaterra Londres\,  Inglaterra
+SUMMARY:Maratona de Londres 2025
+DESCRIPTION:A Maratona de Londres\,  conhecida em inglês como "London Mara
+ thon\, " é uma das corridas de maratona mais prestigiadas e populares do m
+ undo que vai ocorrer a 27 de Abril de 2024. A primeira Maratona de Londres 
+ foi realizada em 1981 e desde então tornou-se uma das maratonas mais emble
+ máticas do[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-londre
+ s-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-de-londres-2025/
+END:VEVENT
+END:VCALENDAR

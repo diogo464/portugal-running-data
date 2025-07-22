@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d7bba3
+DTSTAMP:20250720T222741Z
+DTSTART:20200823
+DTEND:20200824
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail do Paleozóico 2020
+DESCRIPTION:No fim-de-semana de 14 e 15 de Março de 2020 terá início a 8
+ ª edição dos Trilhos do Paleozóico\,  prova pontuável para o Circuito 
+ Nacional Ultra Trail serie 150\,  circuito Nacional Trail serie 100 e prova
+  pontuável para o Mont Blanc. Este evento é organizado pelo Grupo Dramát
+ ico e Recreativo[..]\nhttps://www.portugalrunning.com/eventos/trail-do-pale
+ ozoico-2020/
+URL:https://www.portugalrunning.com/eventos/trail-do-paleozoico-2020/
+END:VEVENT
+END:VCALENDAR

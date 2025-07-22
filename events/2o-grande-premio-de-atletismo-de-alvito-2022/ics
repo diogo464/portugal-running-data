@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0049e92
+DTSTAMP:20250720T222152Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Alvito\,  Beja Alvito\,  Beja
+SUMMARY:2º Grande Prémio de Atletismo de Alvito 2022
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/2o-grande-premio-de-a
+ tletismo-de-alvito-2022/
+URL:https://www.portugalrunning.com/eventos/2o-grande-premio-de-atletismo-de-alvito-2022/
+END:VEVENT
+END:VCALENDAR

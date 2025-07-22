@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c650202f
+DTSTAMP:20250720T222333Z
+DTSTART:20250629
+DTEND:20250630
+LOCATION:Vilar do Torno e Alentém\,  Lousada Vilar do Torno e Alentém\,  Lousada
+SUMMARY:Corrida José Magalhães 2025
+DESCRIPTION:Realiza-se no dia 29 de junho de 2025\,  pelas 09h30\,  com par
+ tida e chegada na Quinta do Forno de Vilar do Torno – Lousada\,  a Corrid
+ a José Magalhães – Vilar do Torno e Alentém\,  com distância de 10.00
+ 0 metros.\nhttps://www.portugalrunning.com/eventos/corrida-jose-magalhaes-2
+ 025/
+URL:https://www.portugalrunning.com/eventos/corrida-jose-magalhaes-2025/
+END:VEVENT
+END:VCALENDAR

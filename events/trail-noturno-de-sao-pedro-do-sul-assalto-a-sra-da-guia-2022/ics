@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7a625c7
+DTSTAMP:20250720T222810Z
+DTSTART:20220416
+DTEND:20220417
+LOCATION:São Pedro do Sul São Pedro do Sul\,  Viseu
+SUMMARY:Trail Noturno de São Pedro do Sul - Assalto À Sra da Guia 2022
+DESCRIPTION:O GRUPO TODO TERRENO DE SÃO PEDRO DO SUL - GTT. SPS\,  em conj
+ unto com a sua Equipa FOX RUNNING TEAM\,  vão realizar o Trail Noturno de 
+ São Pedro do Sul - Assalto À Sra da Guia 2022 mesmo será no próximo dia
+  16 de Abril de 2022\,  pelas 19H00[..]\nhttps://www.portugalrunning.com/ev
+ entos/trail-noturno-de-sao-pedro-do-sul-assalto-a-sra-da-guia-2022/
+URL:https://www.portugalrunning.com/eventos/trail-noturno-de-sao-pedro-do-sul-assalto-a-sra-da-guia-2022/
+END:VEVENT
+END:VCALENDAR

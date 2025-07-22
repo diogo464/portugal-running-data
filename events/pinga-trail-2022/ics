@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfadbb34
+DTSTAMP:20250720T222602Z
+DTSTART:20221211
+DTEND:20221212
+LOCATION:Arruda dos Vinhos\,  Lisboa Arruda dos Vinhos\,  Lisboa
+SUMMARY:Pinga Trail 2022
+DESCRIPTION:A Associação K4ninos Runners com o apoio da Câmara Municipal
+  de Arruda dos Vinhos\,  vai realizar no dia 11 de Dezembro a 5ª Edição 
+ do Pinga Trail. A 5ª edição do Pinga Trail\,  vai incluir três percurso
+ s.Caminhada (não competitivo) - Aproximadamente 13 km que poderás fazer a
+  correr ou a[..]\nhttps://www.portugalrunning.com/eventos/pinga-trail-2022/
+URL:https://www.portugalrunning.com/eventos/pinga-trail-2022/
+END:VEVENT
+END:VCALENDAR

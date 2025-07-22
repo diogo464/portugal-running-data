@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0093b93
+DTSTAMP:20250720T222608Z
+DTSTART:20200418
+DTEND:20200419
+LOCATION:Miranda do Douro\,  Bragança Miranda do Douro\,  Bragança
+SUMMARY:Portugal Countryside 2020
+DESCRIPTION:O Portugal Countryside (PCS) é uma corrida pedestre para todos
+  os interessados com idade igual ou superior a 18 anos no primeiro dia da c
+ orrida. O desafio tem como propósito completarem as 14 etapas\,  uma por d
+ ia\,  que vão ligar Miranda do Douro\,  norte de Portugal\,  a sul\,  Mont
+ e Gordo\, [..]\nhttps://www.portugalrunning.com/eventos/portugal-countrysid
+ e-2020/
+URL:https://www.portugalrunning.com/eventos/portugal-countryside-2020/
+END:VEVENT
+END:VCALENDAR

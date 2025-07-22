@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf4902b
+DTSTAMP:20250720T222919Z
+DTSTART:20230326
+DTEND:20230327
+LOCATION:Esposende\,  Braga Esposende\,  Braga
+SUMMARY:VII Trail de Esposende 2023
+DESCRIPTION:O VII Trail de Esposende é uma corrida que se realiza por um p
+ ercurso técnico assinalado\,  onde os participantes poderão usufruir das 
+ belas paisagens do concelho de Esposende. No programa estão compreendidas 
+ duas distâncias: 18 Km e 28 Km. O VII Trail de Esposende integra o Campeon
+ ato Regional de Trail[..]\nhttps://www.portugalrunning.com/eventos/vii-trai
+ l-de-esposende-2023/
+URL:https://www.portugalrunning.com/eventos/vii-trail-de-esposende-2023/
+END:VEVENT
+END:VCALENDAR

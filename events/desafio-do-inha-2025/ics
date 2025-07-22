@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e320dc
+DTSTAMP:20250720T222358Z
+DTSTART:20250831T123200Z
+DTEND:20250831T123200Z
+LOCATION:Parque de Lazer do Mirante\,  Canedo Parque de Lazer do Mirante\,  Canedo
+SUMMARY:Desafio do Inha 2025
+DESCRIPTION:O “Desafio do Inha”\,  é uma prova composta por 3 modalida
+ des desportivas\,  Corrida\,  Canoagem e BTT. Partida da equipa de 2 atleta
+ s em conjunto para o percurso de corrida. O segmento de corrida será maior
+ itariamente realizado em zona rural/pinhal com passagem obrigatória nos po
+ ntos marcados.\nhttps://www.portugalrunning.com/eventos/desafio-do-inha-202
+ 5/
+URL:https://www.portugalrunning.com/eventos/desafio-do-inha-2025/
+END:VEVENT
+END:VCALENDAR

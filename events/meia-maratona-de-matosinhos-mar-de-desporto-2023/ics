@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd1928bc
+DTSTAMP:20250720T222521Z
+DTSTART:20230507
+DTEND:20230508
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Meia Maratona de Matosinhos Mar de Desporto 2023
+DESCRIPTION:O Farol da Boa Nova\,  a Ponte Móvel e a belíssima marginal d
+ e Leça da Palmeira vão fazer do percurso da Gold Energy Meia Maratona de 
+ Matosinhos Mar de Desporto. A partida para 4ª edição do evento está mar
+ cada para as 9h00 dia 7 de maio na Av. da Liberdade\, [..]\nhttps://www.por
+ tugalrunning.com/eventos/meia-maratona-de-matosinhos-mar-de-desporto-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-matosinhos-mar-de-desporto-2023/
+END:VEVENT
+END:VCALENDAR

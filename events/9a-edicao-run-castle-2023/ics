@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c11dbcfa
+DTSTAMP:20250720T222209Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Montemor-o-Novo\,  Évora Montemor-o-Novo\,  Évora
+SUMMARY:9ª Edição Run Castle 2023
+DESCRIPTION:A prova irá realizar-se no dia 24 de Setembro de 2023\,  a par
+ tir das 9h00\,  com a partida junto à Praça de Touros de Montemor-o-Novo 
+ e chegada no Castelo de Montemor-o-Novo. Existem três tipos de percurso\, 
+  com diferentes níveis de dificuldade e com três distâncias distintas:- 
+ Um percurso de 8[..]\nhttps://www.portugalrunning.com/eventos/9a-edicao-run
+ -castle-2023/
+URL:https://www.portugalrunning.com/eventos/9a-edicao-run-castle-2023/
+END:VEVENT
+END:VCALENDAR

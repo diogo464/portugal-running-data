@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7902197
+DTSTAMP:20250720T222353Z
+DTSTART:20221106
+DTEND:20221107
+LOCATION:Parque Verde da Várzea\,  Torres Vedras Parque Verde da Várzea\,  Torres Vedras
+SUMMARY:Cross de Torres Vedras 2022
+DESCRIPTION:O Cross de Cross de Torres Vedras / 40º Corta-Mato de Matos Ve
+ lhos é uma das clássicas provas de corta-mato em Portugal\,  que se reali
+ za no Parque Verde da Várzea. Esta é uma organização conjunta da Câmar
+ a Municipal de Torres Vedras\,  da União Desportiva do Oeste e do Grupo De
+ sportivo\, [..]\nhttps://www.portugalrunning.com/eventos/cross-de-torres-ve
+ dras-2022/
+URL:https://www.portugalrunning.com/eventos/cross-de-torres-vedras-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6519752
+DTSTAMP:20250720T222333Z
+DTSTART:20220702
+DTEND:20220703
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:Corrida Noturna Praia da Caparica 2022
+DESCRIPTION:Não fique em casa e corra pelas praias da Caparica! No próxim
+ o dia 02 de julho 2022\,  a 6ª Corrida Noturna Praia da Caparica 2022\, 
+  lança o desafio de correr 10km ou correr/caminhar 5km. O primeiro km é f
+ eito em alcatrão e depois vem a areia! Contamos consigo? As crianças tamb
+ ém terão[..]\nhttps://www.portugalrunning.com/eventos/corrida-noturna-pra
+ ia-da-caparica-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-noturna-praia-da-caparica-2022/
+END:VEVENT
+END:VCALENDAR

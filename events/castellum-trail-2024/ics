@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2b010b6
+DTSTAMP:20250720T222235Z
+DTSTART:20240519
+DTEND:20240520
+LOCATION:Condeixa-a-Nova\,  Coimbra Condeixa-a-Nova\,  Coimbra
+SUMMARY:Castellum Trail 2024
+DESCRIPTION:A realização da quinta edição do Castellum Trail está agen
+ dada para a data de 19 de Maio de 2024\,  sendo constituída por uma prova 
+ integrante do Circuito Distrital de Trail Running de Coimbra na categoria d
+ e Trail Longo referente à época de 2023/2024\,  Circuito ATRP de Trail Sp
+ rint e Trail\, [..]\nhttps://www.portugalrunning.com/eventos/castellum-trai
+ l-2024/
+URL:https://www.portugalrunning.com/eventos/castellum-trail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c747a581
+DTSTAMP:20250720T222348Z
+DTSTART:20240615
+DTEND:20240616
+LOCATION:Santa Luzia\,  Beja Santa Luzia\,  Beja
+SUMMARY:Corrida "Trilhos do Montado e dos Enchidos" 2024
+DESCRIPTION:A 2ª Corrida “Trilhos do Montado e dos Enchidos” consiste 
+ numa prova de 10km e numa caminhada de 5km.\nhttps://www.portugalrunning.co
+ m/eventos/corrida-trilhos-do-montado-e-dos-enchidos-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-trilhos-do-montado-e-dos-enchidos-2024/
+END:VEVENT
+END:VCALENDAR

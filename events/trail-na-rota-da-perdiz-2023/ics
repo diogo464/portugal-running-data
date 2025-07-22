@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d771a0de
+DTSTAMP:20250720T222807Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+SUMMARY:Trail na Rota da Perdiz 2023
+DESCRIPTION:O “IV Trail na Rota da Perdiz” é uma prova de Trail Runnin
+ g organizada pela Associação Inter-Vivos em colaboração com a Câmara M
+ unicipal de Alcoutim\,  que será realizada no dia 12 de novembro de 2023\,
+   com início as 09:30 horas com o complemento da opção da caminhada. Os 
+ percursos têm[..]\nhttps://www.portugalrunning.com/eventos/trail-na-rota-d
+ a-perdiz-2023/
+URL:https://www.portugalrunning.com/eventos/trail-na-rota-da-perdiz-2023/
+END:VEVENT
+END:VCALENDAR

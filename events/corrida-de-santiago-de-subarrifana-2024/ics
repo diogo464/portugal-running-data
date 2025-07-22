@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c48c3a9c
+DTSTAMP:20250720T222304Z
+DTSTART:20240601T230900Z
+DTEND:20240601T235900Z
+LOCATION:Santiago de Subarrifana\,  Penafiel Santiago de Subarrifana\,  Penafiel
+SUMMARY:Corrida de Santiago de Subarrifana 2024
+DESCRIPTION:Realiza-se no dia 1 de junho de 2024 pelas 19h30\,  na zona env
+ olvente de Santiago de Subarrifana\, partida e chegada na Av. General Humbe
+ rto Delgado nº 57\,  Santiago de Subarrifana-Penafiel\,  a provade atletis
+ mo denominada de: Corrida de Santiago de Subarrifana - CSRDC Santiago de Su
+ barrifana – 40º Aniversário\,  com adistância de[..]\nhttps://www.port
+ ugalrunning.com/eventos/corrida-de-santiago-de-subarrifana-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-santiago-de-subarrifana-2024/
+END:VEVENT
+END:VCALENDAR

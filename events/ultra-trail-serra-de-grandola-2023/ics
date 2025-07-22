@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db718480
+DTSTAMP:20250720T222911Z
+DTSTART:20231105
+DTEND:20231106
+LOCATION:Grândola\,  Setúbal Grândola\,  Setúbal
+SUMMARY:Ultra Trail Serra de Grândola 2023
+DESCRIPTION:O UTSG - Ultra Trail Serra de Grândola é uma prova de trail r
+ unning no dia 5 de Novembro\,  organizada pelo Município de Grândola e pe
+ lo Clube Amiciclo\,  com o apoio do movimento associativo do concelho. As c
+ ompetições decorrem maioritariamente por trilhos e caminhos existentes na
+  Serra de Grândola emtrês[..]\nhttps://www.portugalrunning.com/eventos/ul
+ tra-trail-serra-de-grandola-2023/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-serra-de-grandola-2023/
+END:VEVENT
+END:VCALENDAR

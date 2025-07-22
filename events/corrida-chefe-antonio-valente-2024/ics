@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3717f0d
+DTSTAMP:20250720T222247Z
+DTSTART:20240128
+DTEND:20240129
+LOCATION:Estarreja\,  Aveiro Estarreja\,  Aveiro
+SUMMARY:Corrida Chefe António Valente 2024
+DESCRIPTION:A Corrida Chefe António Valente é uma prova de corrida de est
+ rada integrada nas comemorações dos 100 anos dos Bombeiros Voluntários d
+ e Estarreja.\nhttps://www.portugalrunning.com/eventos/corrida-chefe-antonio
+ -valente-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-chefe-antonio-valente-2024/
+END:VEVENT
+END:VCALENDAR

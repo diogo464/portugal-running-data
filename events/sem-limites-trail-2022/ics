@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bac6d4
+DTSTAMP:20250720T222651Z
+DTSTART:20221023
+DTEND:20221024
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Sem Limites Trail 2022
+DESCRIPTION:O Sem Limites Trail é uma prova que percorre trilhos\,  caminh
+ os rurais e estradões do concelho de Amarante\,  percorrendo vertentes da 
+ Serra da Meia Via e do Vale do Rio Olo\,  passando pelas freguesias de Vila
+  Chã do Marão\,  união das freguesias de Olo e Canadelo\,  Rebordelo\,  
+ terminandoem Fridão.\nhttps://www.portugalrunning.com/eventos/sem-limites-
+ trail-2022/
+URL:https://www.portugalrunning.com/eventos/sem-limites-trail-2022/
+END:VEVENT
+END:VCALENDAR

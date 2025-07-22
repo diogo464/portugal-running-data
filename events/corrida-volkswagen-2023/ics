@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c78f3cb4
+DTSTAMP:20250720T222352Z
+DTSTART:20230608
+DTEND:20230609
+LOCATION:Palmela\,  Setúbal Palmela\,  Setúbal
+SUMMARY:Corrida Volkswagen 2023
+DESCRIPTION:Este ano\,  a Corrida Volkswagen realiza-se a 8 de junho\,  nas
+  instalações da na maior fábrica automóvel do país\,  em Palmela. Toda
+ s as informações serão divulgadas em breve. Acompanhem as redes sociais 
+ da prova:\nhttps://www.portugalrunning.com/eventos/corrida-volkswagen-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-volkswagen-2023/
+END:VEVENT
+END:VCALENDAR

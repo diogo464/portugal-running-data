@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfbc4d5f
+DTSTAMP:20250720T222147Z
+DTSTART:20200315
+DTEND:20200316
+LOCATION:Montemor-o-Novo\,  Évora Montemor-o-Novo\,  Évora
+SUMMARY:20º Grande Prémio de Atletismo 2020
+DESCRIPTION:ONDE? Montemor-o-Novo\,  Évora QUANDO? Domingo\,  15 de Março
+  de 2020 às 09:00 Pagamentos até: Quarta\,  11 de Março de 2020 às 23:
+ 59\nhttps://www.portugalrunning.com/eventos/20o-grande-premio-de-atletismo-
+ 2020/
+URL:https://www.portugalrunning.com/eventos/20o-grande-premio-de-atletismo-2020/
+END:VEVENT
+END:VCALENDAR

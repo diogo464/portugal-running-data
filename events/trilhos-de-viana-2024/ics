@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da37ad6a
+DTSTAMP:20250720T222851Z
+DTSTART:20240204
+DTEND:20240205
+LOCATION:Meadela\,  Viana do Castelo Meadela\,  Viana do Castelo
+SUMMARY:Trilhos de Viana 2024
+DESCRIPTION:Os V Trilhos de Viana realizam-se a 4 de fevereiro de 2024. Pro
+ vas Trail Longo 28km Trail Curto 18km Mini-Trail 12km Caminhada 12km\nhttps
+ ://www.portugalrunning.com/eventos/trilhos-de-viana-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-viana-2024/
+END:VEVENT
+END:VCALENDAR

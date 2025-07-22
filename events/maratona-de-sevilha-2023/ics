@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3c47e7
+DTSTAMP:20250720T222507Z
+DTSTART:20230219
+DTEND:20230220
+LOCATION:Sevilha\,  Espanha Sevilha\,  Espanha
+SUMMARY:Maratona de Sevilha 2023
+DESCRIPTION:A Zurich Maratona de Sevilha\,  organizada pelo Instituto Munic
+ ipal de Deportes del Ayuntamiento de Sevilla e Motorpress Ibérica\,  conta
+  com um espetacular percurso\,  o mais plano da Europa\,  que percorre os l
+ ugares mais emblemáticos da cidade\,  como a Plaza de España\,  a Torre d
+ el Oro\,  a Giralda\,  o Parque de[..]\nhttps://www.portugalrunning.com/eve
+ ntos/maratona-de-sevilha-2023/
+URL:https://www.portugalrunning.com/eventos/maratona-de-sevilha-2023/
+END:VEVENT
+END:VCALENDAR

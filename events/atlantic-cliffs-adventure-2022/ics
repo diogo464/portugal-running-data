@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1d7a10f
+DTSTAMP:20250720T222221Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Charneca\,  Cascais Charneca\,  Cascais
+SUMMARY:Atlantic Cliffs Adventure 2022
+DESCRIPTION:Associação da Charneca\,  com o apoio da Camara Municipal de 
+ Cascais irão organizar a 20 de Novembro de 2022 pelas 09h00 horas o Atlant
+ ic Cliffs Adventure\,  na Charneca\,  concelho de Cascais. O Atlantic Cliff
+  Adventure é uma prova de TrailRunning\,  corrida pedestre em Natureza\,  
+ com três provas\,  Trail Longo (TL)[..]\nhttps://www.portugalrunning.com/e
+ ventos/atlantic-cliffs-adventure-2022/
+URL:https://www.portugalrunning.com/eventos/atlantic-cliffs-adventure-2022/
+END:VEVENT
+END:VCALENDAR

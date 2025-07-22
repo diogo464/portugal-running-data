@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5231ca3
+DTSTAMP:20250720T222314Z
+DTSTART:20240211
+DTEND:20240212
+LOCATION:Lousada\,  Porto Lousada\,  Porto
+SUMMARY:Corrida do Carnaval 2024
+DESCRIPTION:No dia 11 de fevereiro todos os caminhos vão dar à Vila de Lo
+ usada. A caricata e divertida corrida de Carnaval conta de novo com três p
+ rovas\,  duas das quais cronometradas\,  uma de 10 e outra de 6 km e uma ca
+ minhada de 6km dedicada para toda a família. Com[..]\nhttps://www.portugal
+ running.com/eventos/corrida-do-carnaval-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-carnaval-2024/
+END:VEVENT
+END:VCALENDAR

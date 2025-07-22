@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3718f37
+DTSTAMP:20250720T222247Z
+DTSTART:20250920T081800Z
+DTEND:20250920T235900Z
+LOCATION:Moite\,  Marinha Grande Moite\,  Marinha Grande
+SUMMARY:Corrida ao Casal da Lebre 2025
+DESCRIPTION:O Clube Desportivo Moitense\,  com o apoio da sua Secção de 
+ Atletismo\,  com o apoio da Camara Municipal de Marinha Grande e da Junta 
+ de Freguesia de Moita\,  vai organizar no dia 20 de setembro de 2025 pelas
+  17 horas uma Corrida de Atletismo denominada 7ª Corrida ao Casal da Lebre
+ .\nhttps://www.portugalrunning.com/eventos/corrida-ao-casal-da-lebre-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-ao-casal-da-lebre-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d66011a5
+DTSTAMP:20250720T222750Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:Trail dos Templários 2024
+DESCRIPTION:XIII Edição dos Trilhos dos Templários\,  a realizar no dia 
+ 29 de setembro de 2024\,  em Santa Cita\,  Tomar\,  nas distâncias aproxim
+ adas de 46K (Ultra Trail)\,  32K (Trail Longo)\,  18K (Trail Curto) e 13K (
+ Mini Trail) e Caminhada(10K).\nhttps://www.portugalrunning.com/eventos/trai
+ l-dos-templarios-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dos-templarios-2024/
+END:VEVENT
+END:VCALENDAR

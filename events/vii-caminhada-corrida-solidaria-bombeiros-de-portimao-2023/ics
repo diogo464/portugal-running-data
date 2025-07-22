@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbec2ef8
+DTSTAMP:20250720T222918Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Portimão\,  Faro Portimão\,  Faro
+SUMMARY:Vii Caminhada/Corrida Solidária Bombeiros De Portimão 2023
+DESCRIPTION:A VII Caminhada/Corrida Solidária da Associação Humanitária
+  de Bombeiros Voluntários de Portimão - “Uma Força Da Sociedade Civil�
+ �� será organizada pela AHBVP/BVP. A prova será realizada no dia 16 de ab
+ ril de 2023 na Cidade de Portimão com inicio pelas 10h00\,  na parada do Q
+ uartel.\nhttps://www.portugalrunning.com/eventos/vii-caminhada-corrida-soli
+ daria-bombeiros-de-portimao-2023/
+URL:https://www.portugalrunning.com/eventos/vii-caminhada-corrida-solidaria-bombeiros-de-portimao-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8b48fde
+DTSTAMP:20250720T222827Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Trail Santa Luzia 2024
+DESCRIPTION:O Trail de Santa Luzia é organizado pelo Clube de Atletismo OL
+ ÍMPICO VIANENSE (CAOV) com a colaboração da Câmara Municipal de Viana d
+ o Castelo e decorrerá nos dias 25 e 26 de maio de2024\,  em Viana do Caste
+ lo\,  independentemente das condições climatéricas desses dias\,  desdeq
+ ue a organização entenda que estão[..]\nhttps://www.portugalrunning.com/
+ eventos/trail-santa-luzia-2024/
+URL:https://www.portugalrunning.com/eventos/trail-santa-luzia-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4931539
+DTSTAMP:20250720T222721Z
+DTSTART:20221008
+DTEND:20221009
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Ladeia - Kids 2022
+DESCRIPTION:O 3º Trail da Ladeia - Frutorra KIDS realizar-se-á no dia a 8
+  de outubro de 2022 em Alvorge\,  Concelho de Ansião\,  Distrito de Leiria
+ .O evento é organizado pelo Centro Social Cultural e Recreativo de Alvorge
+ \,  em parceria com a Associação “100 Gás Trail Team” e conta com a 
+ colaboração[..]\nhttps://www.portugalrunning.com/eventos/trail-da-ladeia-
+ kids-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-ladeia-kids-2022/
+END:VEVENT
+END:VCALENDAR

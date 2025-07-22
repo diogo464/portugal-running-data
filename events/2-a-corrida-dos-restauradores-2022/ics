@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc61910
+DTSTAMP:20250720T222148Z
+DTSTART:20221201
+DTEND:20221202
+LOCATION:Fundão\,  Castelo Branco Fundão\,  Castelo Branco
+SUMMARY:2.ª Corrida dos Restauradores 2022
+DESCRIPTION:A Corrida dos Restauradores celebra uma das seculares tradiçõ
+ es do Fundão\,  a Arruada do 1.º de Dezembro. Todos os anos\,  ás 0h00 d
+ o dia 01 de dezembro\,  os locais reúnem-se em surdina na Praça do Munic
+ ípio e percorrem as ruas com o propósito de "correr os espanhóis"\,  num
+ a clara alusão aos[..]\nhttps://www.portugalrunning.com/eventos/2-a-corrid
+ a-dos-restauradores-2022/
+URL:https://www.portugalrunning.com/eventos/2-a-corrida-dos-restauradores-2022/
+END:VEVENT
+END:VCALENDAR

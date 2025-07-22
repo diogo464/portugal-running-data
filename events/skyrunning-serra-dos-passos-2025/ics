@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d304b014
+DTSTAMP:20250720T222656Z
+DTSTART:20250426
+DTEND:20250427
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:Skyrunning Serra dos Passos 2025
+DESCRIPTION:O evento\,  Skyrace® Serra dos Passos\,  realizar-se-á no dia
+  26 de Abril de 2025 na localidade dos Passos\,  Mirandela. O percurso\,  c
+ riado pela equipa Mirandela a Correr\,  percorre as belas Serra dos Passos 
+ (940m) e Serra de Santa Comba (1002m)\,  donde\,  podem ser avistadas as ma
+ gnificas paisagens transmontanas. O evento\, [..]\nhttps://www.portugalrunn
+ ing.com/eventos/skyrunning-serra-dos-passos-2025/
+URL:https://www.portugalrunning.com/eventos/skyrunning-serra-dos-passos-2025/
+END:VEVENT
+END:VCALENDAR

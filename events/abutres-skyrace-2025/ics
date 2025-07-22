@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1232599
+DTSTAMP:20250720T222210Z
+DTSTART:20250913
+DTEND:20250914
+LOCATION:Miranda do Corvo\,  Coimbra Miranda do Corvo\,  Coimbra
+SUMMARY:Abutres SkyRace 2025
+DESCRIPTION:O Abutres SkyRace® será realizado nos dias 13 e 14 de setembr
+ o de 2025 e é um evento organizado pela Associação Abutrica\,  com o apo
+ io do Município de Miranda do Corvo\,  Juntas de Freguesia de Miranda do C
+ orvo e de Vila Nova. Do evento farão parte as seguintes provas diferentes:
+ ●[..]\nhttps://www.portugalrunning.com/eventos/abutres-skyrace-2025/
+URL:https://www.portugalrunning.com/eventos/abutres-skyrace-2025/
+END:VEVENT
+END:VCALENDAR

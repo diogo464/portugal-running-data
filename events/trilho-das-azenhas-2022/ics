@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a9363e
+DTSTAMP:20250720T222842Z
+DTSTART:20220327
+DTEND:20220328
+LOCATION:Coimbra Coimbra
+SUMMARY:Trilho das Azenhas 2022
+DESCRIPTION:O Trilho das Azenhas 2022 é organizado pela Roda Dianteira BTT
+ .A Roda Dianteira BTT é uma entidade\,  que tem como principal objetivo pr
+ omover edesenvolver atividades desportivas de aventura associadas à nature
+ za. O âmbito da sua açãopassa pela promoção de atividades de cariz amb
+ iental\,  social e cultural.O TRILHOS DAS AZENHAS é[..]\nhttps://www.portu
+ galrunning.com/eventos/trilho-das-azenhas-2022/
+URL:https://www.portugalrunning.com/eventos/trilho-das-azenhas-2022/
+END:VEVENT
+END:VCALENDAR

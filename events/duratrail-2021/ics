@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c827add4
+DTSTAMP:20250720T222402Z
+DTSTART:20211009
+DTEND:20211010
+LOCATION:Setúbal Setúbal
+SUMMARY:DuraTrail 2021
+DESCRIPTION:IX edição do DURATRAIL9 outubro 202118 km Trail Curto32 km Tr
+ ail Longo (ATRP série 150)48 km Ultra Trail (ATRP série 100)\nhttps://www
+ .portugalrunning.com/eventos/duratrail-2021/
+URL:https://www.portugalrunning.com/eventos/duratrail-2021/
+END:VEVENT
+END:VCALENDAR

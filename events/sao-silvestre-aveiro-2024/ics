@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edd146
+DTSTAMP:20250720T222622Z
+DTSTART:20241207
+DTEND:20241208
+LOCATION:Aveiro Aveiro
+SUMMARY:São Silvestre Aveiro 2024
+DESCRIPTION:A Civilria São Silvestre de Aveiro voltará a realizar-se\,  n
+ aquele que é um dos mais emblemáticos eventos da cidade de Aveiro. Vem pa
+ rticipar e fechar o teu ano de corridas.\nhttps://www.portugalrunning.com/e
+ ventos/sao-silvestre-aveiro-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-aveiro-2024/
+END:VEVENT
+END:VCALENDAR

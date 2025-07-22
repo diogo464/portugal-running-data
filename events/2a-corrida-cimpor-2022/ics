@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfcab692
+DTSTAMP:20250720T222148Z
+DTSTART:20221023
+DTEND:20221024
+LOCATION:Alhandra\, Vila Franca de Xira Alhandra\, Vila Franca de Xira
+SUMMARY:2ª Corrida Cimpor 2022
+DESCRIPTION:Corrida 10km | 10h00 | CIMPOR Alhandra Caminhada 4km | 10h05 | 
+ CIMPOR Alhandra\nhttps://www.portugalrunning.com/eventos/2a-corrida-cimpor-
+ 2022/
+URL:https://www.portugalrunning.com/eventos/2a-corrida-cimpor-2022/
+END:VEVENT
+END:VCALENDAR

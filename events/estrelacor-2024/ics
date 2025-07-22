@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b613c5
+DTSTAMP:20250720T222411Z
+DTSTART:20241011
+DTEND:20241012
+LOCATION:Penhas da Saúde\,  Covilhã Penhas da Saúde\,  Covilhã
+SUMMARY:Estrelaçor 2024
+DESCRIPTION:A ASSOCIAÇÃO DESPORTIVA OMUNDODACORRIDA.COM\,  vai realizar n
+ os próximos dias 11 e 12 de Outubro de 2024 a X edição da&nbsp;EstrelAç
+ or Trail Ultra Endurance. A EstrelAçor é um evento de Trail Running\,  qu
+ e decorre na Serra da Estrela e Serra do Açor e que integra cinco provas: 
+ Dia 11/10&nbsp;- EstrelAçor 180[..]\nhttps://www.portugalrunning.com/event
+ os/estrelacor-2024/
+URL:https://www.portugalrunning.com/eventos/estrelacor-2024/
+END:VEVENT
+END:VCALENDAR

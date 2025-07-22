@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6191ee4
+DTSTAMP:20250720T222745Z
+DTSTART:20220918
+DTEND:20220919
+LOCATION:Paradela\, Águeda Paradela\, Águeda
+SUMMARY:Trail dos Arrozais 2022
+DESCRIPTION:O Trail dos Arrozais 2022 conta para o Troféu Trail Terras de 
+ Águeda\,  os participantes serão direcionados até Paradela\,  na zona su
+ l do concelho de Águeda\,  para percorrer mais algumas das fantásticas pa
+ isagens deste município.\nhttps://www.portugalrunning.com/eventos/trail-do
+ s-arrozais-2022/
+URL:https://www.portugalrunning.com/eventos/trail-dos-arrozais-2022/
+END:VEVENT
+END:VCALENDAR

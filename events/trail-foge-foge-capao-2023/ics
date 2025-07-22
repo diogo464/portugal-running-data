@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6e94406
+DTSTAMP:20250720T222758Z
+DTSTART:20230611
+DTEND:20230612
+LOCATION:Freamunde\,  Porto Freamunde\,  Porto
+SUMMARY:Trail Foge Foge Capão 2023
+DESCRIPTION:O Trail Foge Foge Capão 2023 é composto por duas provas compe
+ titivas: Trail Longo (25km)e Trail Curto (16km); e por uma Caminhada (10km)
+ \,  que se desenrolam na zona de Indicação Geográfica Protegida do Capã
+ o de Freamunde. Com partida e chegada no centro da cidade deFreamunde\,  a 
+ prova leva os participantes[..]\nhttps://www.portugalrunning.com/eventos/tr
+ ail-foge-foge-capao-2023/
+URL:https://www.portugalrunning.com/eventos/trail-foge-foge-capao-2023/
+END:VEVENT
+END:VCALENDAR

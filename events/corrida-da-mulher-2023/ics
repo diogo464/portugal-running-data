@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c407c06a
+DTSTAMP:20250720T222256Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Porto Porto
+SUMMARY:Corrida da Mulher 2023
+DESCRIPTION:A EDP Corrida da Mulher vai para a estrada a 21 de maio pelas 1
+ 0h00 e pretende reunir milhares de mulheres por uma causa solidária\,  a l
+ uta contra o cancro da mama.&nbsp; A prova destina-se exclusivamente a mulh
+ eres\,  é um verdadeiro hino à mulher e é aberta a todas as[..]\nhttps:/
+ /www.portugalrunning.com/eventos/corrida-da-mulher-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-2023/
+END:VEVENT
+END:VCALENDAR

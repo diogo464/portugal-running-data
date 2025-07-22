@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db2abacb
+DTSTAMP:20250720T222906Z
+DTSTART:20230506
+DTEND:20230507
+LOCATION:Vila Nova de Cerveira\,  Vila Nova de Castelo Vila Nova de Cerveira\,  Vila Nova de Castelo
+SUMMARY:Ultra Trail de Cerveira 2023
+DESCRIPTION:O Ultra Trail de Cerveira 2023 é um evento de Trail Running qu
+ e decorre nas Serras de Cerveira\,  percorrendo caminhos e trilhos nas freg
+ uesias do concelho de Vila Nova de Cerveira. O Trail Ultra – Médio\,  de
+  caráter competitivo\,  tem início no dia 06 de Maio de 2023\,  às 7:00[
+ ..]\nhttps://www.portugalrunning.com/eventos/ultra-trail-de-cerveira-2023/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-de-cerveira-2023/
+END:VEVENT
+END:VCALENDAR

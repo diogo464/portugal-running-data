@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9e7b931
+DTSTAMP:20250720T222430Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Mozelos\,  Aveiro Mozelos\,  Aveiro
+SUMMARY:Grande Prémio De Atletismo Vila De Mozelos 2023
+DESCRIPTION:A Juventude Atlética Mozelense e a Junta de Freguesia de Mozel
+ os voltam a organizar o Grande Prémio local\,  num tradicional momento de 
+ reunião dos muitos participantes de corrida da região de Aveiro e do conc
+ elho de Santa Maria da Feira. Regresse ou venha experimentar pela primeira 
+ vez.\nhttps://www.portugalrunning.com/eventos/grande-premio-de-atletismo-vi
+ la-de-mozelos-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-vila-de-mozelos-2023/
+END:VEVENT
+END:VCALENDAR

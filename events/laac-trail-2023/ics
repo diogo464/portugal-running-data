@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb262721
+DTSTAMP:20250720T222450Z
+DTSTART:20230312
+DTEND:20230313
+LOCATION:Vila de Aguada de Cima\,  Águeda Vila de Aguada de Cima\,  Águeda
+SUMMARY:LAAC Trail 2023
+DESCRIPTION:A 5a Edição do LAAC TRAIL\,  prova inserida no trofeu de Trai
+ l Terras de Águeda\,  vai decorrer no dia 12 de março de 2023 e vai conta
+ r com três distancias\,  Trail Longo\,  Trail curto e Caminhada.Este event
+ o é organizado pela Secção Gimnodesportiva da LAAC - Liga dos Amigos de 
+ Aguada[..]\nhttps://www.portugalrunning.com/eventos/laac-trail-2023/
+URL:https://www.portugalrunning.com/eventos/laac-trail-2023/
+END:VEVENT
+END:VCALENDAR

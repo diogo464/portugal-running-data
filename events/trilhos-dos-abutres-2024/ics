@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da9dbb3f
+DTSTAMP:20250720T222857Z
+DTSTART:20240126
+DTEND:20240127
+LOCATION:Miranda do Corvo\,  Coimbra Miranda do Corvo\,  Coimbra
+SUMMARY:Trilhos dos Abutres 2024
+DESCRIPTION:Os Trilhos dos Abutres regressam nos dias 26\,  27 e 28 de jane
+ iro de 2024.\nhttps://www.portugalrunning.com/eventos/trilhos-dos-abutres-2
+ 024/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-abutres-2024/
+END:VEVENT
+END:VCALENDAR

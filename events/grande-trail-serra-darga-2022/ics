@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca3c3c43
+DTSTAMP:20250720T222435Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Grande Trail Serra D'Arga 2022
+DESCRIPTION:O Grande Trail da Serra D´Arga é organizado pela Carlos Sá N
+ ature Events®. Conta ainda com a colaboração das Câmaras Municipais de 
+ Caminha\,  Viana do Castelo e Vila Nova de Cerveira\,  Juntas de Freguesias
+  de Dem\,  São Lourenço da Montaria\,  Covas\,  Estorãos\,  Arga S. Joã
+ o\,  Arga de cima\,  Arga de[..]\nhttps://www.portugalrunning.com/eventos/g
+ rande-trail-serra-darga-2022/
+URL:https://www.portugalrunning.com/eventos/grande-trail-serra-darga-2022/
+END:VEVENT
+END:VCALENDAR

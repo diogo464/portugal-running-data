@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5749c0a
+DTSTAMP:20250720T222319Z
+DTSTART:20200607
+DTEND:20200608
+LOCATION:Ota\,  Lisboa Ota\,  Lisboa
+SUMMARY:Corrida do Mirante 2020
+DESCRIPTION:A 18ª Corrida do Mirante é uma prova de TrailRunning\,  cor
+ rida pedestre em Natureza\,  com três provas\,  Trail Longo (TL) K20+\,  T
+ rail Curto (TC) K10+ e Caminhada. &nbsp; Programa / Horário 09h15 - "Contr
+ olo Zero" K20+ ; K10; Caminhada 9h30 - Partida K20+; K10; Caminhada 10h30 -
+  Previsão de chegada dos primeiros[..]\nhttps://www.portugalrunning.com/ev
+ entos/corrida-do-mirante/
+URL:https://www.portugalrunning.com/eventos/corrida-do-mirante/
+END:VEVENT
+END:VCALENDAR

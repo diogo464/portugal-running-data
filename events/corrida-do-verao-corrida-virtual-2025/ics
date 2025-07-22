@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5cab9aa
+DTSTAMP:20250720T222324Z
+DTSTART:20250621
+DTEND:20250622
+LOCATION:Portugal Portugal
+SUMMARY:Corrida do Verão - Corrida Virtual 2025
+DESCRIPTION:Corrida do Verão - Corrida Virtual 2025\nhttps://www.portugalr
+ unning.com/eventos/corrida-do-verao-corrida-virtual-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-do-verao-corrida-virtual-2025/
+END:VEVENT
+END:VCALENDAR

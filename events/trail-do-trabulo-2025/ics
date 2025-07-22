@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65dcf54
+DTSTAMP:20250720T222749Z
+DTSTART:20251123
+DTEND:20251124
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:Trail do Trabulo 2025
+DESCRIPTION:O Trail do Trabulo é um evento de trail running organizado pel
+ a Município do Sátão\,  que irá decorrerno concelho deste e que integra
+  duas provas: Trail (26km) e Mini Trail (16km)\,  contando ainda comuma cam
+ inhada de 13km.\nhttps://www.portugalrunning.com/eventos/trail-do-trabulo-2
+ 025/
+URL:https://www.portugalrunning.com/eventos/trail-do-trabulo-2025/
+END:VEVENT
+END:VCALENDAR

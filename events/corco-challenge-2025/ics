@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3100bed
+DTSTAMP:20250720T222241Z
+DTSTART:20250601T071300Z
+DTEND:20250601T235900Z
+LOCATION:Macedo de Cavaleiros\,  Bragança Macedo de Cavaleiros\,  Bragança
+SUMMARY:Corço Challenge 2025
+DESCRIPTION:Estás pronto para um desafio único? O Corço Challenge Grijó
+  está de volta para mais uma edição inesquecível! \nhttps://www.portug
+ alrunning.com/eventos/corco-challenge-2025/
+URL:https://www.portugalrunning.com/eventos/corco-challenge-2025/
+END:VEVENT
+END:VCALENDAR

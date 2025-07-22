@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17c40f5
+DTSTAMP:20250720T222631Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Mogadouro\,  Bragança Mogadouro\,  Bragança
+SUMMARY:II Corrida São Silvestre de Mogadouro 2022
+DESCRIPTION:A São Silvestre de Mogadouro é uma organização do Municípi
+ o de Mogadouro e pretende afirmar-se como uma referência nas provas de cor
+ rida de fim de ano em Portugal.Esta 2.ª edição da prova contempla uma co
+ rrida de 10 Kms\,  para atletas federados e não federados\,  corridas para
+  os mais jovens e[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestr
+ e-de-mogadouro-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-mogadouro-2022/
+END:VEVENT
+END:VCALENDAR

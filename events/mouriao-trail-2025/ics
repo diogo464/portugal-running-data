@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cee01f66
+DTSTAMP:20250720T222550Z
+DTSTART:20250815T115600Z
+DTEND:20250815T115600Z
+LOCATION:São Bento\,  Ilha Terceira São Bento\,  Ilha Terceira
+SUMMARY:Mourião Trail 2025
+DESCRIPTION:Competição de trail running a realizar no dia 15 de agosto\, 
+  numa organização conjunta da Junta de Freguesia de São Bento\,  Clube d
+ e Atletismo da Terceira e apoio do Município de Angra do Heroísmo.\nhttps
+ ://www.portugalrunning.com/eventos/mouriao-trail-2025/
+URL:https://www.portugalrunning.com/eventos/mouriao-trail-2025/
+END:VEVENT
+END:VCALENDAR

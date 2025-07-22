@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64db330
+DTSTAMP:20250720T222332Z
+DTSTART:20250727T180800Z
+DTEND:20250727T235900Z
+LOCATION:Tavira\,  Faro Tavira\,  Faro
+SUMMARY:Corrida Mar Azul 2025
+DESCRIPTION:A Câmara Municipal de Tavira organiza\,  no dia 27 de julho de
+  2025 a XXXIV Corrida Mar Azul\,  prova totalmente corrida na areia.\nhttps
+ ://www.portugalrunning.com/eventos/corrida-mar-azul-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-mar-azul-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce4abf89
+DTSTAMP:20250720T222540Z
+DTSTART:20230425
+DTEND:20230426
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:Milha Concelhia 25 de Abril 2023
+DESCRIPTION:A Câmara Municipal de Oliveira de Azeméis com o apoio do Grup
+ o Juvenil de Pinheiro da Bemposta volta a organizar a Milha Concelhia em At
+ letismo\,  um evento de referência que movimenta alguns dos melhores atlet
+ as da região em torno de uma das distâncias competitivas mais curtas em c
+ orrida de estrada.\nhttps://www.portugalrunning.com/eventos/milha-concelhia
+ -25-de-abril-2023/
+URL:https://www.portugalrunning.com/eventos/milha-concelhia-25-de-abril-2023/
+END:VEVENT
+END:VCALENDAR

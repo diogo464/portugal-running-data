@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c02c3620
+DTSTAMP:20250720T222154Z
+DTSTART:20221127
+DTEND:20221128
+LOCATION:Mendiga\,  Porto de Mós Mendiga\,  Porto de Mós
+SUMMARY:34º Grande Prémio De Atletismo De Mendiga 2022
+DESCRIPTION:A Associação Recreativa Cultural e Desportiva de Mendiga\,  
+ organiza no dia 27 de novembro de 2022 pelas 11.00 horas\,  o “34º G
+ rande Prémio de Atletismo de Mendiga”\,  com a distância de 15km.\nhtt
+ ps://www.portugalrunning.com/eventos/34o-grande-premio-de-atletismo-de-mend
+ iga-2022/
+URL:https://www.portugalrunning.com/eventos/34o-grande-premio-de-atletismo-de-mendiga-2022/
+END:VEVENT
+END:VCALENDAR

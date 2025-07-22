@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c60798c5
+DTSTAMP:20250720T222328Z
+DTSTART:20250525T221200Z
+DTEND:20250525T235900Z
+LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+SUMMARY:Corrida Egas Moniz 2025
+DESCRIPTION:A&nbsp;25 de maio de 2025&nbsp;vai realizar-se a&nbsp;Corrida E
+ gas Moniz 2025\,  prova inserida no&nbsp;Troféu de Almada Atletismo ‘Má
+ rio Pinto Claro’ 2024/2025. A organização é da responsabilidade da&nbs
+ p;Escola Superior de Saúde Egas Moniz&nbsp;com o apoio da&nbsp;Câmara Mun
+ icipal de Almada\nhttps://www.portugalrunning.com/eventos/corrida-egas-moni
+ z-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-egas-moniz-2025/
+END:VEVENT
+END:VCALENDAR

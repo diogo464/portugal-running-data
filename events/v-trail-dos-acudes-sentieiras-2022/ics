@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc730c86
+DTSTAMP:20250720T222927Z
+DTSTART:20220619
+DTEND:20220620
+LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+SUMMARY:V Trail dos Açudes Sentieiras 2022
+DESCRIPTION:V Trail dos Açudes Sentieiras 2022\nhttps://www.portugalrunnin
+ g.com/eventos/v-trail-dos-acudes-sentieiras-2022/
+URL:https://www.portugalrunning.com/eventos/v-trail-dos-acudes-sentieiras-2022/
+END:VEVENT
+END:VCALENDAR

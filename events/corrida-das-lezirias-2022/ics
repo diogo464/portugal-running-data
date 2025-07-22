@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4479999
+DTSTAMP:20250720T222300Z
+DTSTART:20220313
+DTEND:20220314
+LOCATION:Vila Franca de Xira\,  Lisboa Vila Franca de Xira\,  Lisboa
+SUMMARY:Corrida das Lezírias 2022
+DESCRIPTION:Vila Franca de Xira volta a ser\,  no dia&nbsp;13&nbsp;de Març
+ o 2022\,  o palco para a tradicional&nbsp;Corrida das Lezírias&nbsp;2022 q
+ ue anualmente\,  reúne na cidade milhares de atletas e amantes do desporto
+ \,  oriundos de todo o país. A&nbsp;prova volta à estrada e ao seu percur
+ so habitual\,  com os&nbsp;15.5 kms&nbsp;percorridos em asfalto\,  calçada
+ [..]\nhttps://www.portugalrunning.com/eventos/corrida-das-lezirias-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-das-lezirias-2022/
+END:VEVENT
+END:VCALENDAR

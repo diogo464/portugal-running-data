@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8dab1ee
+DTSTAMP:20250720T222413Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Dornes\,  Ferreira do Zêzere Dornes\,  Santarém
+SUMMARY:Ferreira Trail 2024
+DESCRIPTION:A 2ª Edição “FERREIRA TRAIL” irá realizar-se dia 28 de 
+ Abril de 2024 e tem o apoio da Câmara Municipal de Ferreira do Zêzere\,  
+ entre outras entidades do Concelho. As 4 provas serão constituídas por um
+ a Caminhada\,  Mini Trail\,  Trail Curto e Trail Longo: A prova “Trail Lo
+ ngo K33” terá[..]\nhttps://www.portugalrunning.com/eventos/ferreira-trai
+ l-2024/
+URL:https://www.portugalrunning.com/eventos/ferreira-trail-2024/
+END:VEVENT
+END:VCALENDAR

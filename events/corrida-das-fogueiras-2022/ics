@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c443229f
+DTSTAMP:20250720T222300Z
+DTSTART:20220625
+DTEND:20220626
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:Corrida das Fogueiras 2022
+DESCRIPTION:A Corrida das Fogueiras 2022 teve a sua primeira edição em 19
+ 80\,  integrada nos Jogos Juvenis de Peniche. Nesta prova participaram cerc
+ a de 80 atletas\,  na sua maior parte de Peniche. Cedo se verificou que est
+ a prova reunia condições para se tornar numa clássica das corridas de es
+ trada\,  dada a[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-fo
+ gueiras-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-das-fogueiras-2022/
+END:VEVENT
+END:VCALENDAR

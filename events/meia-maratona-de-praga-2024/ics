@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd17b968
+DTSTAMP:20250720T222521Z
+DTSTART:20250405
+DTEND:20250406
+LOCATION:Praga\,  República Checa Praga\,  República Checa
+SUMMARY:Meia Maratona de Praga 2025
+DESCRIPTION:A Meia Maratona de Praga é uma prova que faz parte do circuito
+  SuperHalfs - onde entram seias das mais importantes meias maratonas da Eur
+ opa.\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-praga-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-praga-2025/
+END:VEVENT
+END:VCALENDAR

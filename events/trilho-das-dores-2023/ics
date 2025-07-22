@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a93494
+DTSTAMP:20250720T222842Z
+DTSTART:20230408
+DTEND:20230409
+LOCATION:Abitureiras\,  Santarém Abitureiras\,  Santarém
+SUMMARY:9º Trail Running Trilho Das Dores 2023
+DESCRIPTION:A IX Edição do Trilho das Dores / Imporlux é uma Co-organiza
+ ção entre a Equipa Trilho Perdido Eventos / Imporlux\,  Câmara Municipal
+  de Santarém\,  Centro de Convívio Cultura e Desporto de Abitureiras e a 
+ empresa de Cronomentragens e Organização de Eventos Desportivos “Trilho
+  Perdido”\,  com o apoio da Junta de[..]\nhttps://www.portugalrunning.com
+ /eventos/trilho-das-dores-2023/
+URL:https://www.portugalrunning.com/eventos/trilho-das-dores-2023/
+END:VEVENT
+END:VCALENDAR

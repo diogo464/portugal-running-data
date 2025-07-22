@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccaaac3
+DTSTAMP:20250720T222516Z
+DTSTART:20201018
+DTEND:20201019
+LOCATION:Coimbra Coimbra
+SUMMARY:Meia Maratona de Coimbra 2020
+DESCRIPTION:Meia Maratona de Coimbra 2020\nhttps://www.portugalrunning.com/
+ eventos/meia-maratona-de-coimbra-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-coimbra-2020/
+END:VEVENT
+END:VCALENDAR

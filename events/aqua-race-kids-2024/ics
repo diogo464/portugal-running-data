@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1aaad27
+DTSTAMP:20250720T222218Z
+DTSTART:20240420
+DTEND:20240421
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:Aqua Race Kids 2024
+DESCRIPTION:É uma prova de Trail Running para crianças dos 6 aos 12 anos 
+ com alguns percursos aquáticos de caracter lúdico tais como: corrida ao l
+ ongo de canais de rega e travessias pedestres de ribeiras. Trata-se de um e
+ vento cujo objectivo é iniciar as crianças no Trail Running e dar a[..]\n
+ https://www.portugalrunning.com/eventos/aqua-race-kids-2024/
+URL:https://www.portugalrunning.com/eventos/aqua-race-kids-2024/
+END:VEVENT
+END:VCALENDAR

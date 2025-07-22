@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f61c27
+DTSTAMP:20250720T222415Z
+DTSTART:20241231
+DTEND:20250101
+LOCATION:Alvelos\,  Braga Alvelos\,  Braga
+SUMMARY:Freetrail Águias de Alvelos - Reivellon 2024
+DESCRIPTION:Associação Recreativa e Cultural Águias de Alvelos\,  atrav�
+ �s da sua Secção de Trail Running e Atletismo\,  realiza no dia 31 de Dez
+ embro de 2024 o VIII FreeTrail Águias de Alvelos | Reivellon\,  na fregues
+ ia de Alvelos – Barcelos. Este evento é constituído por uma Caminhada d
+ e 10 km\,  respetivamente\,  e[..]\nhttps://www.portugalrunning.com/eventos
+ /freetrail-aguias-de-alvelos-reivellon-2024/
+URL:https://www.portugalrunning.com/eventos/freetrail-aguias-de-alvelos-reivellon-2024/
+END:VEVENT
+END:VCALENDAR

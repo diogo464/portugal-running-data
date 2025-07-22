@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f7ad9c
+DTSTAMP:20250720T222343Z
+DTSTART:20231022
+DTEND:20231023
+LOCATION:Parque das Nações\,  Lisboa Parque das Nações\,  Lisboa
+SUMMARY:Corrida Sempre Mulher 2023
+DESCRIPTION:No dia 22 de Outubro 2023 junte-se a nós e venha andar ou cor
+ rer 5km por uma boa causa. Inscreva-se já e passe uma manhã saudável e i
+ nesquecível! Poderá participar na Corrida de Competição (exclusiva para
+  mulheres) ou então na Caminhada | Corrida de Lazer (participação aberta
+  a todos). Porque o[..]\nhttps://www.portugalrunning.com/eventos/corrida-se
+ mpre-mulher-2023-2/
+URL:https://www.portugalrunning.com/eventos/corrida-sempre-mulher-2023-2/
+END:VEVENT
+END:VCALENDAR

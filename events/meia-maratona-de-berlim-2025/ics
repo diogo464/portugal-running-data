@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccc5ec4
+DTSTAMP:20250720T222516Z
+DTSTART:20250406
+DTEND:20250407
+LOCATION:Berlim\,  Alemanha Berlim\,  Alemanha
+SUMMARY:Meia Maratona de Berlim 2025
+DESCRIPTION:A Meia Maratona de Berlim ocorre no início de abril\,  no iní
+ cio da primavera. A corrida pela capital alemã é um evento internacional 
+ de alto nível e marca o início de toda a comunidade de runners. O percurs
+ o plano oferece óptimas oportunidades para obter excelentes tempos.\nhttps
+ ://www.portugalrunning.com/eventos/meia-maratona-de-berlim-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-berlim-2025/
+END:VEVENT
+END:VCALENDAR

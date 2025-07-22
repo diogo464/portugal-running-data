@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c78f4004
+DTSTAMP:20250720T222352Z
+DTSTART:20251005
+DTEND:20251006
+LOCATION:Coutos de Viseu\,  Viseu Coutos de Viseu\,  Viseu
+SUMMARY:Coutos Natura Challenge 2025
+DESCRIPTION:O&nbsp;Coutos Natura Challenge (CNC)&nbsp;é um evento de Trail
+  Running que concilia a prática desportiva de corrida em ambiente natural\
+ ,  com a beleza da zona Florestal na região da Freguesia de Bodiosa\,  Fre
+ guesia São Miguel do Mato &nbsp;e da Freguesia dos Coutos de Viseu – Vis
+ eu\,  Portugal. Organização da Associação Cultural\, Recreativa[..]\nht
+ tps://www.portugalrunning.com/eventos/coutos-natura-challenge-2025/
+URL:https://www.portugalrunning.com/eventos/coutos-natura-challenge-2025/
+END:VEVENT
+END:VCALENDAR

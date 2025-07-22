@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbe7aacf
+DTSTAMP:20250720T222918Z
+DTSTART:20221230
+DTEND:20221231
+LOCATION:Lousada\,  Porto Lousada\,  Porto
+SUMMARY:VII Corrida de São Silvestre de Lousada 2022
+DESCRIPTION:A “Lousada Associação de Eventos Culturais” (LADEC) organ
+ izará e promoverá\,  no dia 30 de dezembro de 2022\,  uma corrida com a e
+ xtensão de 10.000 metros\,  designada por “VII Corrida de São Silvestre
+  de Lousada”. O percurso terá partida e chegada junto à Escola Secundá
+ ria de Lousada. A corrida realizar-se-á no[..]\nhttps://www.portugalrunnin
+ g.com/eventos/vii-corrida-de-sao-silvestre-de-lousada-2022/
+URL:https://www.portugalrunning.com/eventos/vii-corrida-de-sao-silvestre-de-lousada-2022/
+END:VEVENT
+END:VCALENDAR

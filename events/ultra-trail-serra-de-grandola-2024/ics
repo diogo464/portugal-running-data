@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db7017e8
+DTSTAMP:20250720T222911Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Grândola\,  Setúbal Grândola\,  Setúbal
+SUMMARY:Ultra Trail Serra de Grândola 2024
+DESCRIPTION:O UTSG - Ultra Trail Serra de Grândola é um evento competitiv
+ o de trail running\,  organizada pelo Municípiode Grândola e pelo Clube A
+ miciclo\,  com o apoio do movimento associativo do concelho. O secretariado
+ \, todas as partidas e todas as chegadas\,  bem como a entrega de Prémios\
+ ,  decorrem em Grândola\,  noComplexo Desportivo[..]\nhttps://www.portugal
+ running.com/eventos/ultra-trail-serra-de-grandola-2024/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-serra-de-grandola-2024/
+END:VEVENT
+END:VCALENDAR

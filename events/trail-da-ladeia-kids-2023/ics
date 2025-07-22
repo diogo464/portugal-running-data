@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4918f80
+DTSTAMP:20250720T222721Z
+DTSTART:20231007
+DTEND:20231008
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Ladeia Kids 2023
+DESCRIPTION:O 3º Trail da Ladeia - Frutorra KIDS realizar-se-á no dia a 7
+  de outubro de 2023 em Alvorge\,  Concelho de Ansião\,  Distrito de Leiria
+ .O evento é organizado pelo Centro Social Cultural e Recreativo de Alvorge
+ \,  conta com a colaboração do Município de Ansião\,  da Junta de Fregu
+ esia do Alvorge[..]\nhttps://www.portugalrunning.com/eventos/trail-da-ladei
+ a-kids-2023/
+URL:https://www.portugalrunning.com/eventos/trail-da-ladeia-kids-2023/
+END:VEVENT
+END:VCALENDAR

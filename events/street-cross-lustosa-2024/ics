@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d30187ce
+DTSTAMP:20250720T222656Z
+DTSTART:20240512
+DTEND:20240513
+LOCATION:Lousada\,  Porto Lousada\,  Porto
+SUMMARY:Street Cross Lustosa 2024
+DESCRIPTION:Prova para todos os escal√µes. Prova principal: 10km Informa√ß√
+ µes extra: Meta Volante para o primeiro classificado feminino e masculino; 
+ oferta de t-shirt t√©cnica e lanche para todos os participantes; massagem g
+ ratuita no final das corridas.\nhttps://www.portugalrunning.com/eventos/str
+ eet-cross-lustosa-2024/
+URL:https://www.portugalrunning.com/eventos/street-cross-lustosa-2024/
+END:VEVENT
+END:VCALENDAR

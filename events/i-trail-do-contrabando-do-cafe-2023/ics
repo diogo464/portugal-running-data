@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cad48fb2
+DTSTAMP:20250720T222445Z
+DTSTART:20230423
+DTEND:20230424
+LOCATION:Miranda do Douro\,  Bragança Miranda do Douro\,  Bragança
+SUMMARY:I Trail do Contrabando do Café 2023
+DESCRIPTION:23 ABRIL 2023- PARADELA - MIRANDA DO DOURO - PORTUGAL- Trail -
+  16 km- Caminhada - 8 km\nhttps://www.portugalrunning.com/eventos/i-trail-
+ do-contrabando-do-cafe-2023/
+URL:https://www.portugalrunning.com/eventos/i-trail-do-contrabando-do-cafe-2023/
+END:VEVENT
+END:VCALENDAR

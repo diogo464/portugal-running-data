@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dbf20
+DTSTAMP:20250720T222544Z
+DTSTART:20240407
+DTEND:20240408
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Milha Urbana Feirense 2024
+DESCRIPTION:A 1a Milha Urbana Stream / Feirense é uma prova aberta a todos
+  os atletas\,  quer sejam federados\,  populares ou outros e realiza-se com
+  o apoio da Câmara Municipal de Santa Maria da Feira\,  Junta de Freguesia
+  de São João de Ver e da Associação de Atletismo de Aveiro\nhttps://www
+ .portugalrunning.com/eventos/milha-urbana-feirense-2024/
+URL:https://www.portugalrunning.com/eventos/milha-urbana-feirense-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9461978
+DTSTAMP:20250720T222420Z
+DTSTART:20230702
+DTEND:20230703
+LOCATION:São Paio de Oleiros\,  Santa Maria da Feira São Paio de Oleiros\,  Santa Maria da Feira
+SUMMARY:GP São Paio de Oleiros 2023
+DESCRIPTION:Vai para a estrada mais uma prova a contar para o calendário d
+ e provas de estrada de Santa Maria da Feira. Desta vez\,  pela mão do G.D.
+  de S. Paio de Oleiros\,  acontecerá a 33ª edição do Grande Prémio loc
+ al\,  uma das mais antigas provas da região.\nhttps://www.portugalrunning.
+ com/eventos/gp-sao-paio-de-oleiros-2023/
+URL:https://www.portugalrunning.com/eventos/gp-sao-paio-de-oleiros-2023/
+END:VEVENT
+END:VCALENDAR

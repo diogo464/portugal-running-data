@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54f3bce
+DTSTAMP:20250720T222732Z
+DTSTART:20200126
+DTEND:20200127
+LOCATION:Melres\,  Porto Melres\,  Porto
+SUMMARY:Trail de Santa Iria 2020
+DESCRIPTION:A 1ª edição TSI aconteceu no ano 2013. Foi um grande desafio
+  para toda a população da aldeia. Acolhemos cerca de 400 pessoas\,  que t
+ ransformaram esta primeira edição num sucesso a todos os níveis! Suporta
+ dos nos elogios e críticas dos participantes\,  fomos melhorando e crescen
+ do em quantidade e em qualidade[..]\nhttps://www.portugalrunning.com/evento
+ s/trail-de-santa-iria-2020/
+URL:https://www.portugalrunning.com/eventos/trail-de-santa-iria-2020/
+END:VEVENT
+END:VCALENDAR

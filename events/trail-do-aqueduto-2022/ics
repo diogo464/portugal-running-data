@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54dd025
+DTSTAMP:20250720T222732Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Trail do Aqueduto 2022
+DESCRIPTION:A Associação Nocturnos de Paredes é o organizador do Trail d
+ o Aqueduto 2022. O Trail\,  o Mini Trail e a Caminhada terão partida e che
+ gada no Campo de Golfe do Aqueduto\,  freguesia de Paredes\,  percorrendo t
+ rilhos e caminhos do concelho de Paredes.\nhttps://www.portugalrunning.com/
+ eventos/trail-do-aqueduto-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-aqueduto-2022/
+END:VEVENT
+END:VCALENDAR

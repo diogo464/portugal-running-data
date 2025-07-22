@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2baca8d
+DTSTAMP:20250720T222651Z
+DTSTART:20200912
+DTEND:20200913
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Sesimbra Night Run 2020
+DESCRIPTION:Nada melhor do que comemorar a 26º Corrida de Sesimbra\,  com 
+ uma corrida noturna na bonita vila de Sesimbra. Sesimbra Night Run 10 km 21
+ h00 🇵🇹✨12 de Setembro de 2020✨🇵🇹 http://www.corridadesesimb
+ ra.com/\nhttps://www.portugalrunning.com/eventos/sesimbra-night-run-2020/
+URL:https://www.portugalrunning.com/eventos/sesimbra-night-run-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9f91f14
+DTSTAMP:20250720T222431Z
+DTSTART:20240609T135400Z
+DTEND:20240609T135400Z
+LOCATION:Reguengos de Monsaraz\,  Évora Reguengos de Monsaraz\,  Évora
+SUMMARY:Grande Prémio de Santo António de Reguengos de Monsaraz 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-de-sant
+ o-antonio-de-reguengos-de-monsaraz-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-santo-antonio-de-reguengos-de-monsaraz-2024/
+END:VEVENT
+END:VCALENDAR

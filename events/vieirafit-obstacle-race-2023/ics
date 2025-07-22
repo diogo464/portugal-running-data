@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbbc310c
+DTSTAMP:20250720T222915Z
+DTSTART:20230708
+DTEND:20230709
+LOCATION:Vieira do Minho\,  Braga Vieira do Minho\,  Braga
+SUMMARY:VieiraFit Obstacle Race 2023
+DESCRIPTION:A VieiraFit Race é uma prova que combina corrida com obstácul
+ os urbanos e é também uma prova de carácter social\,  ajudando assim uma
+  instituição de Vieira do Minho com 10% do valor das inscrições. Inscre
+ ve-te já.\nhttps://www.portugalrunning.com/eventos/vieirafit-obstacle-race
+ -2023/
+URL:https://www.portugalrunning.com/eventos/vieirafit-obstacle-race-2023/
+END:VEVENT
+END:VCALENDAR

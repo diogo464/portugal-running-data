@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccf3b2f
+DTSTAMP:20250720T222516Z
+DTSTART:20250322
+DTEND:20250323
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Meia Maratona da Primavera 2025
+DESCRIPTION:A 4ª edição da Meia Maratona da Primavera (21km) terá parti
+ da e chegada no EUROPARQUE\,  em Santa Maria da Feira. O evento contará ai
+ nda com o Troféu EUROPARQUE Running (10km)\,  uma Caminhada de (6km) e o T
+ roféu Kids.\nhttps://www.portugalrunning.com/eventos/meia-maratona-da-prim
+ avera-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-da-primavera-2025/
+END:VEVENT
+END:VCALENDAR

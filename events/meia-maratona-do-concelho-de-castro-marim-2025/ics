@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd5dbcf2
+DTSTAMP:20250720T222525Z
+DTSTART:20250913
+DTEND:20250914
+LOCATION:Castro Marim\,  Faro Castro Marim\,  Faro
+SUMMARY:Meia Maratona do Concelho de Castro Marim 2025
+DESCRIPTION:O CLUBE RECREATIVO ALTURENSE vai levar a efeito no dia
+  13 de setembro de 2025  a 16ª Meia Maratona do Concelho de Ca
+ stro Marim.\nhttps://www.portugalrunning.com/eventos/meia-maratona-do-conc
+ elho-de-castro-marim-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-concelho-de-castro-marim-2025/
+END:VEVENT
+END:VCALENDAR

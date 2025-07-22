@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9e48cb1
+DTSTAMP:20250720T222846Z
+DTSTART:20200202
+DTEND:20200203
+LOCATION:Vidigueira Vidigueira\,  Beja
+SUMMARY:Trilho dos Cogumelos 2020
+DESCRIPTION:A Câmara Municipal de Vidigueira em parceria com a Junta de Fr
+ eguesia Selmes \,  Associação Arfa e a Associação de Atletismo de Beja\
+ ,  vão realizar a primeira edição do Trilho dos Cogumelos no próximo di
+ a 02 de fevereiro\,  no âmbito do projeto "Vidigueira Mexe-te sff"\,  que 
+ visa fundamentalmente a promoção[..]\nhttps://www.portugalrunning.com/eve
+ ntos/trilho-dos-cogumelos-2020/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-cogumelos-2020/
+END:VEVENT
+END:VCALENDAR

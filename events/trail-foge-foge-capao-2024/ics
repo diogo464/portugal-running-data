@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d727b7bf
+DTSTAMP:20250720T222802Z
+DTSTART:20240616
+DTEND:20240617
+LOCATION:Freamunde\,  Porto Freamunde\,  Porto
+SUMMARY:Trail Foge Foge Capão 2024
+DESCRIPTION:O Trail Foge Foge Capão 2024 é composto por duas provas compe
+ titivas: Trail Longo (25km) e Trail Curto (16km); e por uma Caminhada (10km
+ )\,  que se desenrolam na zona de Indicação Geográfica Protegida do Cap�
+ �o de Freamunde.\nhttps://www.portugalrunning.com/eventos/trail-foge-foge-c
+ apao-2024/
+URL:https://www.portugalrunning.com/eventos/trail-foge-foge-capao-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d30624ff
+DTSTAMP:20250720T222656Z
+DTSTART:20230325
+DTEND:20230326
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Subida Ao Santo Sunset 2023
+DESCRIPTION:A 1a edição da “SUBIDA AO SANTO” vai se realizar em Arcoz
+ elo\,  Ponte de Lima\,  organizada pela equipa ACRA Running\,  pertencente 
+ à Associação Cultural e Recreativa de Arcozelo\,  no dia 25 de Março de
+  2023\,  a partir das 18H00. Esta prova surge com o objectivo de valorizar 
+ aquele que é[..]\nhttps://www.portugalrunning.com/eventos/subida-ao-santo-
+ sunset-2023/
+URL:https://www.portugalrunning.com/eventos/subida-ao-santo-sunset-2023/
+END:VEVENT
+END:VCALENDAR

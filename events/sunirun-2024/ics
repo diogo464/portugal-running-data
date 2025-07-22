@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d32f38d8
+DTSTAMP:20250720T222658Z
+DTSTART:20241215T021800Z
+DTEND:20241215T021800Z
+LOCATION:Arnoso Santa Eulália\,  Vila Nova de Famalicão Arnoso Santa Eulália\,  Vila Nova de Famalicão
+SUMMARY:SUNIrun 2024
+DESCRIPTION:A SUNIrun é um evento solidário com uma temática natalícia\
+ ,  organizado pela SUNIporto\,  uma Júnior Iniciativa de Desporto e Nutri�
+ �ão da Faculdade de Desporto da Universidade do Porto. Esta primeira ediç
+ ão convida a comunidade a juntar-se em Arnoso Santa Eulália\,  Vila Nova 
+ de Famalicão para celebrar o espírito do Natal\, [..]\nhttps://www.portug
+ alrunning.com/eventos/sunirun-2024/
+URL:https://www.portugalrunning.com/eventos/sunirun-2024/
+END:VEVENT
+END:VCALENDAR

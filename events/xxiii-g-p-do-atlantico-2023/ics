@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcb02afa
+DTSTAMP:20250720T222931Z
+DTSTART:20230219
+DTEND:20230220
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:XXIII G.P. Do Atlântico 2023 - Serafim Mendes
+DESCRIPTION:A mítica corrida G.P. do Atlântico será realizada no dia 1
+ 9 de Fevereiro de 2023. Percorre as principais ruas da Costa de Caparica e
+  o fantástico paredão\,  junto às praias. Contamos contigo?\nhttps://ww
+ w.portugalrunning.com/eventos/xxiii-g-p-do-atlantico-2023/
+URL:https://www.portugalrunning.com/eventos/xxiii-g-p-do-atlantico-2023/
+END:VEVENT
+END:VCALENDAR

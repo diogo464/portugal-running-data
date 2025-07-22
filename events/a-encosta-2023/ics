@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c14f3f85
+DTSTAMP:20250720T222212Z
+DTSTART:20230930
+DTEND:20231001
+LOCATION:Alcobaça\,  Leiria Alcobaça\,  Leiria
+SUMMARY:A Encosta 2023
+DESCRIPTION:A ENCOSTA é um evento co-organizado pela A.D.R.C. Crossmates e
+ m conjunto com a Junta de Freguesia de Alcobaça e Vestiaria e acontecerá 
+ no dia 30 de Setembro de 2023 Paralelamente à Encosta\,  decorrera também
+  uma caminhada de 7 km\,  esta sem carácter competitivo.\nhttps://www.port
+ ugalrunning.com/eventos/a-encosta-2023/
+URL:https://www.portugalrunning.com/eventos/a-encosta-2023/
+END:VEVENT
+END:VCALENDAR

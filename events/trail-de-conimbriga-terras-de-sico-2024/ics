@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50db43c
+DTSTAMP:20250720T222728Z
+DTSTART:20240223
+DTEND:20240224
+LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+SUMMARY:Trail de Conímbriga Terras de Sicó 2024
+DESCRIPTION:Já experimentou correr nas Terras de Sicó? Será a XV ediçã
+ o que conforme os dois anos anteriores percorre todos os Concelhos das Terr
+ as de Sicó. Condeixa\,  Penela\,  Ansião\,  Soure\,  Alvaiázere e Pombal
+ . Muitas distâncias à escolha: 111 Milhas\,  111 km\,  60 km\,  30 km\,  
+ 16 km e uma caminhada de[..]\nhttps://www.portugalrunning.com/eventos/trail
+ -de-conimbriga-terras-de-sico-2024/
+URL:https://www.portugalrunning.com/eventos/trail-de-conimbriga-terras-de-sico-2024/
+END:VEVENT
+END:VCALENDAR

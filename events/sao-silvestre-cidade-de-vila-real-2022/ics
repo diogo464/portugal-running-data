@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edb8b6
+DTSTAMP:20250720T222622Z
+DTSTART:20220129
+DTEND:20220130
+LOCATION:Vila Real Vila Real
+SUMMARY:Xvi S. Silvestre Cidade de Vila Real 2022
+DESCRIPTION:A organização do São Silvestre Cidade de Vila Real 2022 é d
+ a responsabilidade da Câmara Municipal de Vila Real\,  do Regimento de Inf
+ antaria 13\,  da Associação deAtletismo de Vila Real\,  Fundação Inatel
+ \,  Policia Segurança Pública\,  Junta de Freguesia de Vila Real.c\nhttps
+ ://www.portugalrunning.com/eventos/sao-silvestre-cidade-de-vila-real-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-cidade-de-vila-real-2022/
+END:VEVENT
+END:VCALENDAR

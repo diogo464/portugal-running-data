@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e493a6
+DTSTAMP:20250720T222358Z
+DTSTART:20220925
+DTEND:20220926
+LOCATION:Marinha Grande\,  Leiria Marinha Grande\,  Leiria
+SUMMARY:Cross/Trail F.C. Belenenses MG - 1ª edição 2022
+DESCRIPTION:O Futebol Clube “Os Belenenses” MG\,  organiza no dia&nbsp;
+ 25 de Setembro de 2022&nbsp;a&nbsp;1ª Edição do Cross/Trail F.C. Belenen
+ ses\,  que consiste numa prova de Trail\,  na localidade da Marinha Grande 
+ com partida e chegada junto à sede do Clube. A prova é constituída no se
+ u percurso por trilhos\,  carreiros e caminhos[..]\nhttps://www.portugalrun
+ ning.com/eventos/cross-trail-f-c-belenenses-2022/
+URL:https://www.portugalrunning.com/eventos/cross-trail-f-c-belenenses-2022/
+END:VEVENT
+END:VCALENDAR

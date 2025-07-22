@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4830a03
+DTSTAMP:20250720T222304Z
+DTSTART:20221029
+DTEND:20221030
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Corrida das Mulheres 2022
+DESCRIPTION:A Corrida das Mulheres é este ano destinada a participantes do
+ s escalões de Juvenis\,  Juniores\,  Seniores e Veteranos\,  podendo ser f
+ eita a correr ou a caminhar. Venha percorrer os 1700 metros que assinalam o
+  apoio a mais uma causa solidária.\nhttps://www.portugalrunning.com/evento
+ s/corrida-das-mulheres-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-das-mulheres-2022/
+END:VEVENT
+END:VCALENDAR

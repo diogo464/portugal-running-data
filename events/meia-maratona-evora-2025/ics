@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdc62df2
+DTSTAMP:20250720T222532Z
+DTSTART:20251123
+DTEND:20251124
+LOCATION:Évora Évora
+SUMMARY:Meia Maratona Évora 2025
+DESCRIPTION:Évora\,  capital de distrito de grande relevância e cheia de 
+ História para contar\,  mas também local de uma Meia-Maratona que promete
+  agitar a prática desportiva. Venha participar na distância principal\,  
+ ou na distância de 10 quilómetros\,  senão percorra as ruas a caminhar.\
+ nhttps://www.portugalrunning.com/eventos/meia-maratona-evora-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-evora-2025/
+END:VEVENT
+END:VCALENDAR

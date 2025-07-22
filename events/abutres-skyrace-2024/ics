@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c127adfb
+DTSTAMP:20250720T222210Z
+DTSTART:20240504
+DTEND:20240505
+LOCATION:Miranda do Corvo\,  Coimbra Miranda do Corvo\,  Coimbra
+SUMMARY:Abutres SkyRace 2024
+DESCRIPTION:O Abutres SkyRace® será realizado nos dias 04 e 05 de maio de
+  2024 e é um eventoorganizado pela Associação Abutrica\,  com o apoio do
+  Município de Miranda do Corvo\,  Juntas deFreguesia de Miranda do Corvo e
+  de Vila Nova.Do evento farão parte quatro provas diferentes: ● Kids Ver
+ tical;● VerticalRace;●[..]\nhttps://www.portugalrunning.com/eventos/abu
+ tres-skyrace-2024/
+URL:https://www.portugalrunning.com/eventos/abutres-skyrace-2024/
+END:VEVENT
+END:VCALENDAR

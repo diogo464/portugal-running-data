@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da27bc4c
+DTSTAMP:20250720T222850Z
+DTSTART:20230326
+DTEND:20230327
+LOCATION:Entroncamento\,  Santarém Entroncamento\,  Santarém
+SUMMARY:Trilhos de Almourol 2023
+DESCRIPTION:Trilhos de Almourol 2023\nhttps://www.portugalrunning.com/event
+ os/trilhos-de-almourol-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-almourol-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc00507
+DTSTAMP:20250720T222604Z
+DTSTART:20220605
+DTEND:20220606
+LOCATION:Vila Nova de Poiares\,  Coimbra Vila Nova de Poiares\,  Coimbra
+SUMMARY:Poiares Trail 2022
+DESCRIPTION:Poiares Trail 2022\,  um dos melhores trails da zona centro vai
+  acontecer a 13 de Fevereiro de 2022. 𝗔𝗯𝗲𝗿𝘁𝘂𝗿𝗮 𝗱
+ 𝗮𝘀 𝗶𝗻𝘀𝗰𝗿𝗶𝗰̧𝗼̃𝗲𝘀: 𝟬𝟭 | 𝗡𝗢�
+ ��� | 𝟮𝟬𝟮𝟭\nhttps://www.portugalrunning.com/eventos/poiares-tra
+ il-2022/
+URL:https://www.portugalrunning.com/eventos/poiares-trail-2022/
+END:VEVENT
+END:VCALENDAR

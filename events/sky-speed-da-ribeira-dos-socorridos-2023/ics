@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3030f36
+DTSTAMP:20250720T222656Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Câmara de Lobos\,  Madeira Câmara de Lobos\,  Madeira
+SUMMARY:Sky Speed da Ribeira dos Socorridos 2023
+DESCRIPTION:A quarta edição do Sky Speed da Ribeira dos Socorridos é uma
+  prova de cariz nacional e regional que já se impôs no calendário e que 
+ terá este ano uma edição consolidada e cheia de emoção. Venha subir os
+  1571 degraus que estão à sua espera.\nhttps://www.portugalrunning.com/ev
+ entos/sky-speed-da-ribeira-dos-socorridos-2023/
+URL:https://www.portugalrunning.com/eventos/sky-speed-da-ribeira-dos-socorridos-2023/
+END:VEVENT
+END:VCALENDAR

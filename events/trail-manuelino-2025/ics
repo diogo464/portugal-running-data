@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7662534
+DTSTAMP:20250720T222806Z
+DTSTART:20250202
+DTEND:20250203
+LOCATION:Abiul\,  Pombal Abiul\,  Pombal
+SUMMARY:Trail Manuelino 2025
+DESCRIPTION:O&nbsp;Trail Manuelino 2025&nbsp;é um evento desportivo que in
+ tegra&nbsp;3 provas competitivas de Trail e uma caminhada\,  organizado pel
+ a&nbsp;Associação SicóTrilhos\,  conta com a colaboração do&nbsp;Munic
+ ípio de Pombal\,  da Junta de Freguesia de Abiul\,  entre outros patrocina
+ dores e apoiantes. A&nbsp;4ª edição realizar-se-á no dia 1 e 2 Fevereir
+ o de 2025\,  em Abiul (39.874835\, [..]\nhttps://www.portugalrunning.com/ev
+ entos/trail-manuelino-2025/
+URL:https://www.portugalrunning.com/eventos/trail-manuelino-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8d62a8b
+DTSTAMP:20250720T222829Z
+DTSTART:20200223
+DTEND:20200224
+LOCATION:Colmeias Colmeias\,  Leiria
+SUMMARY:Trail Serra do Branco
+DESCRIPTION:A quarta edição do TRAIL SERRA DO BRANCO será realizada no
+  dia 23 de fevereiro de 2020\,  com partida no Campo de Futebol das Colme
+ ias\,  junto ao Pavilhão Gimnodesportivo das Colmeias com início previst
+ o para as 09H00 para as provas principais. Trata-se de um evento misto com 
+ trail e caminhada em ambiente natural\,  na freguesia[..]\nhttps://www.port
+ ugalrunning.com/eventos/trail-serra-do-branco/
+URL:https://www.portugalrunning.com/eventos/trail-serra-do-branco/
+END:VEVENT
+END:VCALENDAR

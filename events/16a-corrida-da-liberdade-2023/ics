@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf3db2db
+DTSTAMP:20250720T222139Z
+DTSTART:20230425
+DTEND:20230426
+LOCATION:Setúbal Setúbal
+SUMMARY:16ª Corrida da Liberdade 2023
+DESCRIPTION:Partida e Chegada:&nbsp;no Parque Verde da Bela Vista\,  Setúb
+ al; coordenadas GPS do local da partida: 38°31'09.0"N 8°51'54.6"W. A Junt
+ a de Freguesia de São Sebastião organiza com o apoio da Associação de A
+ tletismo Lebres do Sado e do movimento associativo a 16º edição da Corri
+ da da Liberdade no dia 25 de[..]\nhttps://www.portugalrunning.com/eventos/1
+ 6a-corrida-da-liberdade-2023/
+URL:https://www.portugalrunning.com/eventos/16a-corrida-da-liberdade-2023/
+END:VEVENT
+END:VCALENDAR

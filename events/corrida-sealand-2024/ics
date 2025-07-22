@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f921b9
+DTSTAMP:20250720T222343Z
+DTSTART:20240908
+DTEND:20240909
+LOCATION:Santa Cruz\,  Torres Vedras Santa Cruz\,  Torres Vedras
+SUMMARY:Corrida Sealand 2024
+DESCRIPTION:A Corrida Sealand é uma prova organizada pela Associação Sea
+ land Santa Cruz\,  no dia 10&nbsp;de Setembro\,  Domingo. Contará com uma 
+ Corrida de 10km e uma Caminhada de 6km.\nhttps://www.portugalrunning.com/ev
+ entos/corrida-sealand-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-sealand-2024/
+END:VEVENT
+END:VCALENDAR

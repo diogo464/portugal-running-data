@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edba20
+DTSTAMP:20250720T222622Z
+DTSTART:20241221
+DTEND:20241222
+LOCATION:Boticas\,  Vila Real Boticas\,  Vila Real
+SUMMARY:São Silvestre Boticas 2024
+DESCRIPTION:A São Silvestre de Boticas realiza-se no dia 21 de dezembro\, 
+  é conhecida como a mais dura de Portugal\,  oferece uma experiência desa
+ fiadora\,  mas acessível para atletas de todos os níveis. \nhttps://www.
+ portugalrunning.com/eventos/sao-silvestre-boticas-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-boticas-2024/
+END:VEVENT
+END:VCALENDAR

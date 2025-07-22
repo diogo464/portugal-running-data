@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc84a38f
+DTSTAMP:20250720T222512Z
+DTSTART:20240407
+DTEND:20240408
+LOCATION:Braga Braga
+SUMMARY:Meia Maratona Braga 2024
+DESCRIPTION:Meia Maratona Braga 2024\nhttps://www.portugalrunning.com/event
+ os/meia-maratona-braga-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-braga-2024/
+END:VEVENT
+END:VCALENDAR

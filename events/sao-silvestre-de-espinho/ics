@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17494e0
+DTSTAMP:20250720T222631Z
+DTSTART:20200104
+DTEND:20200105
+LOCATION:Espinho\,  Aveiro Espinho\,  Aveiro
+SUMMARY:São Silvestre de Espinho
+DESCRIPTION:RESULTADOS Numa organização conjunta da Câmara Municipal de 
+ Espinho e do Atletas.net vai realizar-se a já tradicional São Silvestre d
+ e Espinho no próximo dia 4 de janeiro de 2020\,  com partidas e chegadas f
+ rente ao Centro Multimeios de Espinho.\nhttps://www.portugalrunning.com/eve
+ ntos/sao-silvestre-de-espinho/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-espinho/
+END:VEVENT
+END:VCALENDAR

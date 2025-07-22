@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4c48c8e
+DTSTAMP:20250720T222724Z
+DTSTART:20251213
+DTEND:20251214
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Trail da Rabanada 2025
+DESCRIPTION:O Trail da Rabanada é um trail organizado pela a associação 
+ “Bravos e Bravitas”\,  com apoio da Câmara Municipal de Santa Maria da
+  Feira \,  da Junta de Freguesia de Romariz e da Junta de Freguesia de Esca
+ riz.\nhttps://www.portugalrunning.com/eventos/trail-da-rabanada-2025/
+URL:https://www.portugalrunning.com/eventos/trail-da-rabanada-2025/
+END:VEVENT
+END:VCALENDAR

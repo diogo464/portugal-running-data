@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5293611
+DTSTAMP:20250720T222314Z
+DTSTART:20251012
+DTEND:20251013
+LOCATION:Porto Porto
+SUMMARY:Corrida do Dragão 2025
+DESCRIPTION:A Corrida do Dragão\,  tem lugar na cidade do Porto\,  com org
+ anização da GlobalSport e apoio oficial do Futebol Clube do Porto\,  da C
+ âmara Municipal do Porto e da Ágora. Serão duas as corridas:Corrida do D
+ ragão\,  prova com cerca de 10km e Caminhada do Dragão\,  prova com cerca
+  de 5[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-dragao-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-do-dragao-2025/
+END:VEVENT
+END:VCALENDAR

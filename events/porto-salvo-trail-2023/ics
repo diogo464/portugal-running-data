@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0092180
+DTSTAMP:20250720T222608Z
+DTSTART:20230603
+DTEND:20230604
+LOCATION:Porto Salvo\,  Oeiras Porto Salvo\,  Oeiras
+SUMMARY:Porto Salvo Trail 2023
+DESCRIPTION:A&nbsp;Junta de Freguesia de Porto Salvo\,  com o apoio do&nbsp
+ ;SPORT ponto COME – Clube&nbsp;e da&nbsp;Câmara Municipal de Oeiras\,  o
+ rganizará no dia&nbsp;3 de junho de 2023\,  a&nbsp;1ª edição do Porto S
+ alvo TRAIL\,  que será percorrido por caminhos e trilhos na zona de Porto 
+ Salvo. Haverá um&nbsp;Trail de 14km&nbsp;e uma&nbsp;Caminhada de 7[..]\nht
+ tps://www.portugalrunning.com/eventos/porto-salvo-trail-2023/
+URL:https://www.portugalrunning.com/eventos/porto-salvo-trail-2023/
+END:VEVENT
+END:VCALENDAR

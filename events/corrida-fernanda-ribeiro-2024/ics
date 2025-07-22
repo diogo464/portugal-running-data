@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c60799ea
+DTSTAMP:20250720T222328Z
+DTSTART:20240512
+DTEND:20240513
+LOCATION:Maia\,  Porto Maia\,  Porto
+SUMMARY:Corrida Fernanda Ribeiro 2024
+DESCRIPTION:A cidade da Maia recebe no dia 12 de Maio de 2024\,  a 10ª edi
+ ção Corrida Fernanda Ribeiro\,  uma organização da EventSport e Academi
+ a Fernanda Ribeiro com o apoio da Câmara Municipal da Maia. Depois de uma 
+ 9ª edição extraordinária\,  que ficou marcada por milhares de atletas a
+  correr e[..]\nhttps://www.portugalrunning.com/eventos/corrida-fernanda-rib
+ eiro-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-fernanda-ribeiro-2024/
+END:VEVENT
+END:VCALENDAR

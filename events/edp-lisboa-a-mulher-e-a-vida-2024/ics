@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8701e80
+DTSTAMP:20250720T222407Z
+DTSTART:20240512
+DTEND:20240513
+LOCATION:Santos\,  Lisboa Santos\,  Lisboa
+SUMMARY:EDP Lisboa\,  a Mulher e a Vida 2024
+DESCRIPTION:Questões sobre esta Corrida devem ser endereçadas ao Organiza
+ dor: info@maratonaportugal.com A Corrida da Mulher “EDP Lisboa a Mulher e
+  a Vida”\,  antes de ser uma prova de atletismo\,  é um ato de cidadania
+  em que o objetivo número um é alertar a o sociedade para o Cancro da Mam
+ a e[..]\nhttps://www.portugalrunning.com/eventos/edp-lisboa-a-mulher-e-a-vi
+ da-2024/
+URL:https://www.portugalrunning.com/eventos/edp-lisboa-a-mulher-e-a-vida-2024/
+END:VEVENT
+END:VCALENDAR

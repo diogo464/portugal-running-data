@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb3aa763
+DTSTAMP:20250720T222451Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:LAP50 Ultra Trail 2025
+DESCRIPTION:Tudo começou com os 50 anos do Rotary Club de Famalicão! Como
+  forma de celebrar os 50 anos do Rotary\,  nasceu a ideia de realizar uma p
+ rova de trail running no concelho de Vila Nova de Famalicão\,  que tivesse
+  precisamente a distância de 50km. A prova desenrola-se unindo freguesias 
+ e[..]\nhttps://www.portugalrunning.com/eventos/lap50-ultra-trail-2025/
+URL:https://www.portugalrunning.com/eventos/lap50-ultra-trail-2025/
+END:VEVENT
+END:VCALENDAR

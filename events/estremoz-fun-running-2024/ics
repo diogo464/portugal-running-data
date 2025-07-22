@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b0014a
+DTSTAMP:20250720T222411Z
+DTSTART:20240707
+DTEND:20240708
+LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+SUMMARY:Estremoz Fun Running 2024
+DESCRIPTION:Inserido na Feira Internacional do Desporto de Estremoz (FIDMOZ
+ )\,  o Estremoz Fun Running pretende ser uma experiência única\,  que s
+ e concentra menos na velocidade e muito mais num momento colorido de divers
+ ão entre amigos e família.\nhttps://www.portugalrunning.com/eventos/estre
+ moz-fun-running-2024/
+URL:https://www.portugalrunning.com/eventos/estremoz-fun-running-2024/
+END:VEVENT
+END:VCALENDAR

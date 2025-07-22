@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7aabd31
+DTSTAMP:20250720T222810Z
+DTSTART:20230415
+DTEND:20230416
+LOCATION:Santo André\,  Setúbal Santo André\,  Setúbal
+SUMMARY:Trail no Trilho do Gin 2023
+DESCRIPTION:O Trail no Trilho do Gin - Black Pig é um evento de Trail Runn
+ ing\,  que percorre trilhos ecaminhos florestais e linhas de água na fregu
+ esia de Santo André e União das Freguesias deSantiago do Cacém\,  nas ve
+ rtentes de Trail (15 km) e Caminhada (8 km).\nhttps://www.portugalrunning.c
+ om/eventos/trail-no-trilho-do-gin-2023/
+URL:https://www.portugalrunning.com/eventos/trail-no-trilho-do-gin-2023/
+END:VEVENT
+END:VCALENDAR

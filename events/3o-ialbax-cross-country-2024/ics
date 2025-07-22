@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c044a043
+DTSTAMP:20250720T222156Z
+DTSTART:20240615T153500Z
+DTEND:20240615T153500Z
+LOCATION:Elvas\,  Portalegre Elvas\,  Portalegre
+SUMMARY:3º Ialbax Cross Country 2024
+DESCRIPTION:A Associação Desportiva IALBAX\,  com o apoio do Museu Milita
+ r de Elvas\,  da Câmara Municipal de Elvas\,  do IPDJ de Portalegre e com 
+ o apoio técnico da AADP\,  realiza no dia 15 de junho de 2024\,  pelas 20:
+ 00 horas (horário de Portugal Continental)\,  3º IALBAX CROSS COUNTRY / C
+ AMINHADA SOLIDÁRIA\, [..]\nhttps://www.portugalrunning.com/eventos/3o-ialb
+ ax-cross-country-2024/
+URL:https://www.portugalrunning.com/eventos/3o-ialbax-cross-country-2024/
+END:VEVENT
+END:VCALENDAR

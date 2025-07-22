@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c829479f
+DTSTAMP:20250720T222402Z
+DTSTART:20221008
+DTEND:20221009
+LOCATION:Peso da Régua\,  Vila Real Peso da Régua\,  Vila Real
+SUMMARY:Douro Ultra Trail 2022
+DESCRIPTION:O Douro Ultra Trail é já um dos grandes eventos do ano para a
+  modalidade de trail running em Portugal. Enfrentando a temível Serra do M
+ arão no meio de outros complexos montanhosos como a Serra da Estrela\,  Se
+ rra de Montemuro\,  Gerês e Cabreira\,  venha sentir a adrenalina e finali
+ zar no[..]\nhttps://www.portugalrunning.com/eventos/douro-ultra-trail-2022/
+URL:https://www.portugalrunning.com/eventos/douro-ultra-trail-2022/
+END:VEVENT
+END:VCALENDAR

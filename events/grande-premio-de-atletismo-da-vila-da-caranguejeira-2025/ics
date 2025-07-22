@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b61bc7
+DTSTAMP:20250720T222427Z
+DTSTART:20250705
+DTEND:20250706
+LOCATION:Caranguejeira\,  Leiria Caranguejeira\,  Leiria
+SUMMARY:Grande Prémio de Atletismo da Vila da Caranguejeira 2025
+DESCRIPTION:O GRUPO DE ATLETISMO DE CARANGUEJEIRA leva a efeito no dia 05
+  de julho de 2025\,  pelas 18:30 horas\,  uma prova de estrada denominada�
+ �“12º GRANDE PRÉMIO DE ATLETISMO DA VILA DA CARANGUEJEIRA”.\nhttps:/
+ /www.portugalrunning.com/eventos/grande-premio-de-atletismo-da-vila-da-cara
+ nguejeira-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-da-vila-da-caranguejeira-2025/
+END:VEVENT
+END:VCALENDAR

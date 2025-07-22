@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f94dbd
+DTSTAMP:20250720T222343Z
+DTSTART:20240420
+DTEND:20240421
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida Solidária NEM/AAC 2024
+DESCRIPTION:A Corrida Solidária é um evento desportivo organizado pelo N�
+ �cleo de Estudantes de Medicina da Associação Académica de Coimbra (NEM/
+ AAC)\,  que tem como objetivo principal proporcionar a todos os inscritos u
+ m momento lúdico e marcante\,  oferecendo uma corrida desafiadora e estimu
+ lante que permaneça na memória daqueles que a nós se[..]\nhttps://www.po
+ rtugalrunning.com/eventos/corrida-solidaria-nem-aac-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-nem-aac-2024/
+END:VEVENT
+END:VCALENDAR

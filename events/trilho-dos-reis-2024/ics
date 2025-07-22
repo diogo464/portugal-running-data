@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9f315d0
+DTSTAMP:20250720T222847Z
+DTSTART:20240113
+DTEND:20240114
+LOCATION:Portalegre Portalegre
+SUMMARY:Trilho dos Reis 2024
+DESCRIPTION:Os Trilhos dos Reis serão realizados nos dias 13 e 14 de Janei
+ ro de 2024 e é um evento organizado pela DAP ± Associação de Desporto e
+  Aventura de Portalegre\,  com o apoio do Município de Portalegre\,  Turis
+ mo do Alentejo\,  E.R.T.\,  Uniões de Freguesias de Sé e São Lourenço\,
+   Ribeira[..]\nhttps://www.portugalrunning.com/eventos/trilho-dos-reis-2024
+ /
+URL:https://www.portugalrunning.com/eventos/trilho-dos-reis-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09dc032
+DTSTAMP:20250720T222617Z
+DTSTART:20200510
+DTEND:20200511
+LOCATION:Santarém Santarém
+SUMMARY:Santarém Trail 2020
+DESCRIPTION:Os pace.makers e o Agrupamento 52 do Corpo Nacional de Escutas 
+ voltam a associar-se para trazer de volta o Santarém Trail\,  evento que v
+ isa dar a conhecer a cidade de Santarém e espaços verdes envolventes\,  p
+ ermitindo em simultâneo apoiar a promoção do exercício físico e de um 
+ espírito de vida[..]\nhttps://www.portugalrunning.com/eventos/santarem-tra
+ il-2020/
+URL:https://www.portugalrunning.com/eventos/santarem-trail-2020/
+END:VEVENT
+END:VCALENDAR

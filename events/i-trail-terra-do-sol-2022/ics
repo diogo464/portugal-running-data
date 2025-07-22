@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cadf3bfe
+DTSTAMP:20250720T222445Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Amareleja\,  Beja Amareleja\,  Beja
+SUMMARY:I Trail Terra do Sol 2022
+DESCRIPTION:O “I TRAIL TERRA DO SOL” será uma prova de trail running\,
+   que decorrerá no dia 30 deOutubro de 2022 com organização da Câmara M
+ unicipal de Moura e contará com o apoio daJunta de Freguesia de Amareleja 
+ e do Grupo Desportivo Amarelejense\,  associação sem finslucrativos\,  co
+ m sede na Praceta Dr.[..]\nhttps://www.portugalrunning.com/eventos/i-trail-
+ terra-do-sol-2022/
+URL:https://www.portugalrunning.com/eventos/i-trail-terra-do-sol-2022/
+END:VEVENT
+END:VCALENDAR

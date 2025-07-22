@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db2f402d
+DTSTAMP:20250720T222906Z
+DTSTART:20231007
+DTEND:20231008
+LOCATION:Madeira Madeira
+SUMMARY:Ultra Madeira 2023
+DESCRIPTION:A AARAM – Associação de Atletismo da Região Autónoma da M
+ adeira é a associação organizadora do evento denominado “ULTRA MADEIRA
+ ”\,  7ª edição\,  que decorrerá nos dias 7 e 8 de outubro de 2023\,  
+ com absoluto respeito pelo meio ambiente. Este evento será a penúltima pr
+ ova do CIRCUITO TRAIL MADEIRA\,  época[..]\nhttps://www.portugalrunning.co
+ m/eventos/ultra-madeira-2023/
+URL:https://www.portugalrunning.com/eventos/ultra-madeira-2023/
+END:VEVENT
+END:VCALENDAR

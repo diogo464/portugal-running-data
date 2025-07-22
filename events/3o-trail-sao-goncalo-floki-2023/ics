@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c04c42a7
+DTSTAMP:20250720T222156Z
+DTSTART:20230917
+DTEND:20230918
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:3º Trail São Gonçalo Floki 2023
+DESCRIPTION:O “3º TRAIL SÃO GONÇALO FLOKI”\,  um evento de trail-run
+ ning que percorre trilhos e caminhos no conselho da Barcelos. As corridas t
+ êm carácter competitivo e a caminhada sem carater competitivo. A Caminhad
+ a está aberta a menores (a partir dos 10 anos) desde que acompanhados por 
+ um adulto.\nhttps://www.portugalrunning.com/eventos/3o-trail-sao-goncalo-fl
+ oki-2023/
+URL:https://www.portugalrunning.com/eventos/3o-trail-sao-goncalo-floki-2023/
+END:VEVENT
+END:VCALENDAR

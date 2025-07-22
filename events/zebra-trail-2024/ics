@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcb4ab28
+DTSTAMP:20250720T222931Z
+DTSTART:20240114
+DTEND:20240115
+LOCATION:Pena\,  Cantanhede Pena\,  Cantanhede
+SUMMARY:Zebra Trail 2024
+DESCRIPTION:Realiza-se a 14 de janeiro de 2024 a 2ª edição do Zebra Trai
+ l\,  uma prova Trail Running que percorrerá percursos e trilhos maioritari
+ amente envolventes à localidade da Pena\,  no município de Cantanhede.Sob
+  organização da Secção de Atletisto do C. F. “Os Marialvas”\,  com 
+ o apoio institucional da Câmara Municipal de[..]\nhttps://www.portugalrunn
+ ing.com/eventos/zebra-trail-2024/
+URL:https://www.portugalrunning.com/eventos/zebra-trail-2024/
+END:VEVENT
+END:VCALENDAR

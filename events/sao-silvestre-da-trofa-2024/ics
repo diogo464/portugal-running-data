@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d13928ed
+DTSTAMP:20250720T222627Z
+DTSTART:20240113
+DTEND:20240114
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:São Silvestre da Trofa 2024
+DESCRIPTION:A edição 2024 da São Silvestre Cidade da Trofa by Remax Cool
+  terá lugar no dia 13 de Janeiro de 2024.A São Silvestre Cidade da Trofa 
+ é uma organização da Associação Recreativa de Paradela\,  onde a Alame
+ da da Estação será o inicio da sua segunda edição e a grande festa[..]
+ \nhttps://www.portugalrunning.com/eventos/sao-silvestre-da-trofa-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-trofa-2024/
+END:VEVENT
+END:VCALENDAR

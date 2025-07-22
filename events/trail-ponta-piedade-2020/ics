@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7f321b5
+DTSTAMP:20250720T222815Z
+DTSTART:20200223
+DTEND:20200224
+LOCATION:Lagos\,  Faro Lagos\,  Faro
+SUMMARY:Trail Ponta Piedade 2020
+DESCRIPTION:A Câmara Municipal de Lagos com o apoio técnico da Werun irã
+ o realizar a 23 de Fevereiro de 2020 pelas 9h30 o I Trail Ponta Piedade\,  
+ na cidade de Lagos. Composto por três provas: Trail Longo (TL) K20+ \,  Tr
+ ail Curto (TC) K10+ e uma Caminhada de 10Km. Novidade Corrida[..]\nhttps://
+ www.portugalrunning.com/eventos/trail-ponta-piedade-2020/
+URL:https://www.portugalrunning.com/eventos/trail-ponta-piedade-2020/
+END:VEVENT
+END:VCALENDAR

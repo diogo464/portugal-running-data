@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d267970a
+DTSTAMP:20250720T222646Z
+DTSTART:20241214
+DTEND:20241215
+LOCATION:Vermoim\,  Vila Nova de Famalicão Vermoim\,  Vila Nova de Famalicão
+SUMMARY:São Silvestre Vermoim 2024
+DESCRIPTION:No dia 14 de dezembro\,  vamos ter a festa dos mais jovens. A S
+ ão Silvestre da Juventude\,  conta com vários escalões\,  desde os Benja
+ mins aos Juvenis. As inscrições são GRATUITAS e ainda vais ter acesso a 
+ um Kit de participação que em breve vamos apresentar.\nhttps://www.portug
+ alrunning.com/eventos/sao-silvestre-vermoim-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vermoim-2024/
+END:VEVENT
+END:VCALENDAR

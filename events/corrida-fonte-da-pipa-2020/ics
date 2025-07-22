@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c60dc840
+DTSTAMP:20250720T222328Z
+DTSTART:20200531
+DTEND:20200601
+LOCATION:Torres Vedras Torres Vedras
+SUMMARY:Corrida Fonte da Pipa 2020
+DESCRIPTION:A Corrida Fonte da Pipa em Torres Vedras materializou-se atrav�
+ �s do apoio de um conjunto de atletas de pelotão e entusiastas da corrida 
+ do concelho de Torres Vedras que em conjunto com a Casa do Benfica da Cidad
+ e dão corpo a esta prova desde a sua primeira edição. Este conjunto[..]\
+ nhttps://www.portugalrunning.com/eventos/corrida-fonte-da-pipa-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-fonte-da-pipa-2020/
+END:VEVENT
+END:VCALENDAR

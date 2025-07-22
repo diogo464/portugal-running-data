@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f7b249
+DTSTAMP:20250720T222343Z
+DTSTART:20241006T111200Z
+DTEND:20241006T111200Z
+LOCATION:Monte Caparica\,  Almada Monte Caparica\,  Almada
+SUMMARY:Corrida Solidária FACIT NOVA 2024
+DESCRIPTION:No dia 5 de outubro de 2024 terá lugar a 6ª edição da Corri
+ da Solidária FACIT NOVA a realizar no campus da NOVA School of Science and
+  Technology (NOVA FCT)\,  Campus da Caparica\,  no Monte de Caparica\,  con
+ celho de Almada\,  constituída pelas seguintes provas: 10 000 m\,  5 000 m
+ \, [..]\nhttps://www.portugalrunning.com/eventos/corrida-solidaria-facit-no
+ va-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-facit-nova-2024/
+END:VEVENT
+END:VCALENDAR

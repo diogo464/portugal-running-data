@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edcd64
+DTSTAMP:20250720T222622Z
+DTSTART:20231231
+DTEND:20240101
+LOCATION:Amadora\,  Lisboa Amadora\,  Lisboa
+SUMMARY:São Silvestre Amadora 2023
+DESCRIPTION:São os 10 km mais tradicionais do ano na São Silvestre Amador
+ a ! Na última noite do ano\,  dizemos adeus a 2023 e aceleramos em direç�
+ �o a 2024. Inclui Corrida das Crianças.\nhttps://www.portugalrunning.com/e
+ ventos/sao-silvestre-amadora-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-amadora-2023/
+END:VEVENT
+END:VCALENDAR

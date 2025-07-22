@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd7306cb
+DTSTAMP:20250720T222527Z
+DTSTART:20221204
+DTEND:20221205
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona dos Descobrimentos 2022
+DESCRIPTION:Resultados Meia Maratona Resultados 10 km's Percurso: A Meia Ma
+ ratona dos Descobrimentos 2022 realiza-se em Dezembro\,  um mês propício 
+ à prática de corridas de rua de longa distância e\,  talvez\,  uma das �
+ �ltimas oportunidades para correr ao ar livre na Europa antes da chegada do
+  inverno. Foi realizada pela primeira[..]\nhttps://www.portugalrunning.com/
+ eventos/meia-maratona-dos-descobrimentos-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-dos-descobrimentos-2022/
+END:VEVENT
+END:VCALENDAR

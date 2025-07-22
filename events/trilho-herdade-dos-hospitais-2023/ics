@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9f6276b
+DTSTAMP:20250720T222847Z
+DTSTART:20230212
+DTEND:20230213
+LOCATION:Montemor-o-Novo\,  Évora Montemor-o-Novo\,  Évora
+SUMMARY:Trilho Herdade Dos Hospitais 2023
+DESCRIPTION:A organização\,  vai realizar o 2º trilho Herdade dos Hospit
+ ais\,  o qual vai decorrer em Montemor-o-Novo\,  na Herdade dos Hospitais\,
+   no local onde no dia anterior se realizou um Raid Equestre Internacional.
+ Esta prova contará com três percursos que combinam corrida com superaçã
+ o de obstáculos naturais e arquitectónicos\,  dentro da Herdade[..]\nhttp
+ s://www.portugalrunning.com/eventos/trilho-herdade-dos-hospitais-2023/
+URL:https://www.portugalrunning.com/eventos/trilho-herdade-dos-hospitais-2023/
+END:VEVENT
+END:VCALENDAR

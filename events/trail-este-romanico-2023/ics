@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6e7aa04
+DTSTAMP:20250720T222758Z
+DTSTART:20231201
+DTEND:20231202
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Trail Este Romanico 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-este-romanico-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/trail-este-romanico-2023/
+END:VEVENT
+END:VCALENDAR

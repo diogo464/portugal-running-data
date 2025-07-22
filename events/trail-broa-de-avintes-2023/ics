@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3fc34cf
+DTSTAMP:20250720T222711Z
+DTSTART:20230903
+DTEND:20230904
+LOCATION:Avintes\,  Vila Nova de Gaia Avintes\,  Vila Nova de Gaia
+SUMMARY:Trail Broa de Avintes 2023
+DESCRIPTION:A sexta edição do Trail Broa de Avintes continuará a surpree
+ nder todos os participantes pelos seus trilhos\,  ruelas e magnifica nature
+ za junto ao rio Douro. Será mais um ano cheio de aventura\,  surpresas e m
+ uita Broa a acompanhar.\nhttps://www.portugalrunning.com/eventos/trail-broa
+ -de-avintes-2023/
+URL:https://www.portugalrunning.com/eventos/trail-broa-de-avintes-2023/
+END:VEVENT
+END:VCALENDAR

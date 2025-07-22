@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc2dc6d4
+DTSTAMP:20250720T222922Z
+DTSTART:20230423
+DTEND:20230424
+LOCATION:Nelas\,  Viseu Nelas\,  Viseu
+SUMMARY:VI Nelas Trail Running 2023
+DESCRIPTION:O Nelas Trail Running é o herdeiro do Trail dos Caminhos Cruza
+ dos que teve a sua primeira edição em 2015. Nas diferentes distâncias os
+  atletas passam maioritariamente por carreiros seculares criados pelos noss
+ os antepassados\,  que eram percorridos por necessidade de sobrevivência n
+ as suas deslocações para os campos agrícolas. Os trilhos[..]\nhttps://ww
+ w.portugalrunning.com/eventos/vi-nelas-trail-running-2023/
+URL:https://www.portugalrunning.com/eventos/vi-nelas-trail-running-2023/
+END:VEVENT
+END:VCALENDAR

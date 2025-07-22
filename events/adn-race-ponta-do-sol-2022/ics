@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1500603
+DTSTAMP:20250720T222213Z
+DTSTART:20221106
+DTEND:20221107
+LOCATION:Ponta do Sol\,  Madeira Ponta do Sol\,  Madeira
+SUMMARY:Adn Race Ponta Do Sol 2022
+DESCRIPTION:A ADN Race Ponta do Sol é organizada pela ADN Ponta do Sol\,  
+ em parceria com a Associação de Atletismo da Região Autónoma da Madeira
+ \,  integrando no Campeonato Regional de Trail. A ADN Race Ponta do Sol é 
+ um evento de Trail que decorre no concelho da Ponta do Sol[..]\nhttps://www
+ .portugalrunning.com/eventos/adn-race-ponta-do-sol-2022/
+URL:https://www.portugalrunning.com/eventos/adn-race-ponta-do-sol-2022/
+END:VEVENT
+END:VCALENDAR

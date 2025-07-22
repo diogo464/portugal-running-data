@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dba61111
+DTSTAMP:20250720T222914Z
+DTSTART:20250524
+DTEND:20250525
+LOCATION:Sobral de Monte Agraço\,  Lisboa Sobral de Monte Agraço\,  Lisboa
+SUMMARY:Urban Obstacles Sobral de Monte Agraço 2025
+DESCRIPTION:A Urban Obstacles Sobral 2025\,  “Uma Prova para Todos” é 
+ um evento organizado pelo promotor Urban Obstacles e o Município do Sobral
+  de Monte Agraço\,  com o apoio da Federação Portuguesa de Corridas de O
+ bstáculos (FPOCR)\,  uma prova integrada no Campeonato Nacional de OCR.O e
+ vento abrange 3 disciplinas\,  OCR100\,  OCR3KM[..]\nhttps://www.portugalru
+ nning.com/eventos/urban-obstacles-sobral-de-monte-agraco-2025/
+URL:https://www.portugalrunning.com/eventos/urban-obstacles-sobral-de-monte-agraco-2025/
+END:VEVENT
+END:VCALENDAR

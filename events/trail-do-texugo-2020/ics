@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6600d04
+DTSTAMP:20250720T222750Z
+DTSTART:20200405
+DTEND:20200406
+LOCATION:Redondo\,  Évora Redondo\,  Évora
+SUMMARY:Trail do Texugo 2020
+DESCRIPTION:É na imponente Serra D’Ossa\,  principal elevação do Alent
+ ejo Central que se realizará o IV Trail do Texugo\,  uma das provas mais d
+ uras e técnicas a Sul de Portugal. Habitada desde a Idade do Bronze e loca
+ l de devoção de pastores\,  foi casa dos primeiros eremitas da Era Crist�
+ � que[..]\nhttps://www.portugalrunning.com/eventos/trail-do-texugo-2020/
+URL:https://www.portugalrunning.com/eventos/trail-do-texugo-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d7aeb6
+DTSTAMP:20250720T222741Z
+DTSTART:20240519
+DTEND:20240520
+LOCATION:Castro Marim\,  Faro Castro Marim\,  Faro
+SUMMARY:Trail do Moleiro 2024
+DESCRIPTION:O evento desportivo\,  III Trail do Moleiro promovido e organiz
+ ado pela Equipa Campesino Trail e o Clube Campesino R.F.C.\,  com o apoio d
+ a Câmara Municipal de Castro Marim e a Junta de Freguesia de Castro Marim.
+  Sprint 18 Km Trail 30 Km Caminhada 10 km\nhttps://www.portugalrunning.com/
+ eventos/trail-do-moleiro-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-moleiro-2024/
+END:VEVENT
+END:VCALENDAR

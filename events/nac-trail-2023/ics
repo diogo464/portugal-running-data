@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ceddcefa
+DTSTAMP:20250720T222549Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:NAC Trail 2023
+DESCRIPTION:O Núcleo de Atletismo de Cucujães é o Organizador de uma pro
+ va com partida e chegada no centro de treinos\,  percorrendo trilhos do mun
+ icípio de Oliveira de Azeméis. O NAC TRAIL 2023 é constituído por:- 1 p
+ rova de carácter competitivo\,  designado por Trail Curto\,  com extensão
+  de até 21Km\,  pontuável[..]\nhttps://www.portugalrunning.com/eventos/na
+ c-trail-2023/
+URL:https://www.portugalrunning.com/eventos/nac-trail-2023/
+END:VEVENT
+END:VCALENDAR

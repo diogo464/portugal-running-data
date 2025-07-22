@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd1aac0e
+DTSTAMP:20250720T222521Z
+DTSTART:20251130
+DTEND:20251201
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona Descobrimentos 2025
+DESCRIPTION:Com partida na Praça do Império e chegada na praça do Museu 
+ da Marinha\,  a 12ª edição da Tranquilidade Meia Maratona dos Descobrim
+ entos\,  será realizada a 7 de Dezembro 2025\,  na fantástica cidade de�
+ �Lisboa. Correr lado a lado com os monumentos históricos dos Descobrimento
+ s\,  num percurso plano\,  com passagem pelas mais emblemáticas[..]\nhttps
+ ://www.portugalrunning.com/eventos/meia-maratona-descobrimentos-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos-2025/
+END:VEVENT
+END:VCALENDAR

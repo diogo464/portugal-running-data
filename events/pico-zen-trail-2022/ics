@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfbdbe3f
+DTSTAMP:20250720T222603Z
+DTSTART:20220611
+DTEND:20220612
+LOCATION:Ilha do Pico\,  Açores Ilha do Pico\,  Açores
+SUMMARY:Pico Zen Trail 2022
+DESCRIPTION:O ZEN RUN by Pico On The Run é um evento de caráter competiti
+ vo que proporciona aos participantes a oportunidade de correr ou caminhar e
+ m vários percursos\,  entre eles um Trail fácil (10 km) e um Trail longo 
+ (40 Km).\nhttps://www.portugalrunning.com/eventos/pico-zen-trail-2022/
+URL:https://www.portugalrunning.com/eventos/pico-zen-trail-2022/
+END:VEVENT
+END:VCALENDAR

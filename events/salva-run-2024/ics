@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c48df
+DTSTAMP:20250720T222617Z
+DTSTART:20240506
+DTEND:20240507
+LOCATION:Portugal Portugal
+SUMMARY:Salva + Run 2024
+DESCRIPTION:Salva + Run 2024\nhttps://www.portugalrunning.com/eventos/salva
+ -run-2024/
+URL:https://www.portugalrunning.com/eventos/salva-run-2024/
+END:VEVENT
+END:VCALENDAR

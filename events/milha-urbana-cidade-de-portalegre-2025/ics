@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dd34f
+DTSTAMP:20250720T222544Z
+DTSTART:20250523T164300Z
+DTEND:20250523T235900Z
+LOCATION:Portalegre Portalegre
+SUMMARY:Milha Urbana Cidade de Portalegre 2025
+DESCRIPTION:Visa proporcionar aos atletas um momento de competição
+  apurando o melhor atleta da classificação geral e por escalão�
+ �bem como promover o desenvolvimento da pratica da modalidade.\nhtt
+ ps://www.portugalrunning.com/eventos/milha-urbana-cidade-de-portalegre-2025
+ /
+URL:https://www.portugalrunning.com/eventos/milha-urbana-cidade-de-portalegre-2025/
+END:VEVENT
+END:VCALENDAR

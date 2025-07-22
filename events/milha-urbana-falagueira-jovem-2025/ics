@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dd05d
+DTSTAMP:20250720T222544Z
+DTSTART:20250503T193600Z
+DTEND:20250503T235900Z
+LOCATION:Amadora\,  Lisboa Amadora\,  Lisboa
+SUMMARY:Milha Urbana “Falagueira Jovem” 2025
+DESCRIPTION:Prepare-se para sentir a emoção da corrida urbana! A Milha Ur
+ bana está de volta\,  e você não vai querer ficar de fora desta grande f
+ esta do atletismo!\nhttps://www.portugalrunning.com/eventos/milha-urbana-fa
+ lagueira-jovem-2025/
+URL:https://www.portugalrunning.com/eventos/milha-urbana-falagueira-jovem-2025/
+END:VEVENT
+END:VCALENDAR

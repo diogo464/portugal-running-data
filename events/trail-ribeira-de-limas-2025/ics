@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8330b38
+DTSTAMP:20250720T222819Z
+DTSTART:20250216
+DTEND:20250217
+LOCATION:Serpa\,  Beja Serpa\,  Beja
+SUMMARY:Trail Ribeira de Limas 2025
+DESCRIPTION:A associação Cultural e Recreativa de Santa Iria através da 
+ sua secção de B.T.T.\,  com o apoio da Câmara Municipal de Serpa e da Un
+ ião de Juntas de Freguesia de Santa Maria e Salvador vai realizar no próx
+ imo dia 16 de Fevereiro de 2025\,  pelas 09:00 horas\,  um evento desportiv
+ o[..]\nhttps://www.portugalrunning.com/eventos/trail-ribeira-de-limas-2025/
+URL:https://www.portugalrunning.com/eventos/trail-ribeira-de-limas-2025/
+END:VEVENT
+END:VCALENDAR

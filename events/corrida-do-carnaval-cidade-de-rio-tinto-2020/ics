@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5262450
+DTSTAMP:20250720T222314Z
+DTSTART:20200215
+DTEND:20200216
+LOCATION:Estádio do Sport Clube Rio Tinto Estádio do Sport Clube Rio Tinto
+SUMMARY:Corrida do Carnaval Cidade de Rio Tinto 2020
+DESCRIPTION:Pelas 17:00 horas partida e chegada no Estádio do Sport Clube 
+ Rio Tinto\,  organizada pela ProEvents\,  com o apoio da JF de Rio Tinto e 
+ da CM de Gondomar. O que inclui a inscrição? Corrida: - T-shirt - Medalha
+  Finnisher - Seguro - Mochila - Bola de Berlim - Água[..]\nhttps://www.por
+ tugalrunning.com/eventos/corrida-do-carnaval-cidade-de-rio-tinto-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-do-carnaval-cidade-de-rio-tinto-2020/
+END:VEVENT
+END:VCALENDAR

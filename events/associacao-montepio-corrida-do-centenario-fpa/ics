@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1d93546
+DTSTAMP:20250720T222221Z
+DTSTART:20210912
+DTEND:20210913
+LOCATION:Jamor Jamor\,  Lisboa
+SUMMARY:Associação Montepio Corrida do Centenário FPA
+DESCRIPTION:A Federação Portuguesa de Atletismo (FPA)\,  com o patrocíni
+ o principal da Associação Mutualista Montepio (AMM)\,  organiza a Associa
+ ção Montepio Corrida do Centenário FPA\,  a 12 de setembro\,  no Estádi
+ o Nacional\,  no Jamor.Uma corrida de 10 km\,  uma caminhada solidária de 
+ 5 km e a Pelicas The Daily Mile prometem reunir[..]\nhttps://www.portugalru
+ nning.com/eventos/associacao-montepio-corrida-do-centenario-fpa/
+URL:https://www.portugalrunning.com/eventos/associacao-montepio-corrida-do-centenario-fpa/
+END:VEVENT
+END:VCALENDAR

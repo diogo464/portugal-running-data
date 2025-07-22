@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c49004c8
+DTSTAMP:20250720T222305Z
+DTSTART:20240610T091700Z
+DTEND:20240610T091700Z
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:Corrida de Aniversário Gdc Estrela Negra 2024
+DESCRIPTION:O GDC Estrela Negra\,  juntamente com o apoio da Câmara Munici
+ pal do Barreiro e organização técnica da Xistarca\,  organiza no dia 10 
+ de junho de 2024\,  a 9ª Prova do Circuito de Atletismo do Barreiro.\nhtt
+ ps://www.portugalrunning.com/eventos/corrida-de-aniversario-gdc-estrela-neg
+ ra-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-aniversario-gdc-estrela-negra-2024/
+END:VEVENT
+END:VCALENDAR

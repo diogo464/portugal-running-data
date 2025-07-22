@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e3228b
+DTSTAMP:20250720T222358Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Moimenta da Beira\,  Viseu Moimenta da Beira\,  Viseu
+SUMMARY:Demo Wolves Trail 2022
+DESCRIPTION:O Município de Moimenta da Beira\,  com o apoio do Boavista Fu
+ tebol Clube\,  são as entidades organizadoras do evento “1. Edição –
+  Demo Wolves Trail“\,  que decorrerá no dia 30 de Outubro de 2022\,  em 
+ Moimenta da Beira\,  independentemente das condições climatéricas do dia
+ \,  desde que a organização entenda que[..]\nhttps://www.portugalrunning.
+ com/eventos/demo-wolves-trail-2022/
+URL:https://www.portugalrunning.com/eventos/demo-wolves-trail-2022/
+END:VEVENT
+END:VCALENDAR

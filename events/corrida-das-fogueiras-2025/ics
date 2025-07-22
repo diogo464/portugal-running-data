@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4463b0f
+DTSTAMP:20250720T222300Z
+DTSTART:20250628
+DTEND:20250629
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:Corrida das Fogueiras 2025
+DESCRIPTION:A&nbsp;44ª edição da CORRIDA DAS FOGUEIRAS&nbsp;é já uma c
+ lássica corrida de estrada\,  dada a simbiose existente entre o fascínio 
+ da própria corrida noturna\,  iluminada pelas fogueiras e a grande festa d
+ a sardinhada\,  após a prova\,  uma cortesia da comunidade e do Município
+  de Peniche. Este é o desafio de Verão[..]\nhttps://www.portugalrunning.c
+ om/eventos/corrida-das-fogueiras-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-das-fogueiras-2025/
+END:VEVENT
+END:VCALENDAR

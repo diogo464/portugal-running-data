@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d510479d
+DTSTAMP:20250720T222729Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Mourão\,  Évora Mourão\,  Évora
+SUMMARY:Trail das Migas 2025
+DESCRIPTION:O Trail das Migas 3ª edição é organizado pelo Município de
+  Mourão. -Trail Longo +- 25 Km -Trail Curto +- 16 Km -Caminhada +- 8 Km\nh
+ ttps://www.portugalrunning.com/eventos/trail-das-migas-2025/
+URL:https://www.portugalrunning.com/eventos/trail-das-migas-2025/
+END:VEVENT
+END:VCALENDAR

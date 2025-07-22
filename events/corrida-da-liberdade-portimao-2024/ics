@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f49990
+DTSTAMP:20250720T222255Z
+DTSTART:20240425T202300Z
+DTEND:20240425T235900Z
+LOCATION:Portimão\,  Faro Portimão\,  Faro
+SUMMARY:Corrida da Liberdade Portimão 2024
+DESCRIPTION:A Câmara Municipal de Portimão promove\,  a 25 de abril 2024\
+ ,  a Corrida da Liberdade Portimão\,  com partida e chegada na Zona Ribeir
+ inha de Portimão.\nhttps://www.portugalrunning.com/eventos/corrida-da-libe
+ rdade-portimao-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-portimao-2024/
+END:VEVENT
+END:VCALENDAR

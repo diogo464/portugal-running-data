@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6eaa517
+DTSTAMP:20250720T222758Z
+DTSTART:20200419
+DTEND:20200420
+LOCATION:Mondim de Basto Mondim de Bastos Vila Real
+SUMMARY:Trail Fisgas de Ermelo 2020
+DESCRIPTION:O Trail Fisgas de Ermelo é uma iniciativa da AMA – Associaç
+ ão Mondim Atletismo\,  que tem como objetivo aliar a prática desportiva a
+ o contacto com a natureza e com as populações locais\,  promover a Regiã
+ o de Basto\,  as nossas paisagens e a sua beleza natural\,  bem como a gast
+ ronomia\,  comércio[..]\nhttps://www.portugalrunning.com/eventos/trail-fis
+ gas-de-ermelo-2020/
+URL:https://www.portugalrunning.com/eventos/trail-fisgas-de-ermelo-2020/
+END:VEVENT
+END:VCALENDAR

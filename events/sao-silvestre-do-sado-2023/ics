@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1adc780
+DTSTAMP:20250720T222634Z
+DTSTART:20230107
+DTEND:20230108
+LOCATION:Setúbal Setúbal
+SUMMARY:São Silvestre do Sado 2023
+DESCRIPTION:A São Silvestre do Sado\,  em Setúbal\,  volta a sair para a 
+ rua\,  nos primeiros dias do ano de 2023. A prova terá a distância de 10 
+ Km irá iniciar-se-á às 18 horas\,  com partida e chegada em Praias do Sa
+ do. Venha participar e aventurar-se por terras do Sado e[..]\nhttps://www.p
+ ortugalrunning.com/eventos/sao-silvestre-do-sado-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-do-sado-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1830407
+DTSTAMP:20250720T222216Z
+DTSTART:20241128
+DTEND:20241129
+LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+SUMMARY:ALUT - Algarviana Ultra Trail 2024
+DESCRIPTION:O ALUT – Algarviana Ultra Trail – é um evento desportivo d
+ e corrida pedestre por trilhos\,  ou trail running\,  onde os atletas se pr
+ opõem a percorrer cerca de 300 quilómetros de distância num tempo limite
+  de 72 horas\,  atravessando 9 Concelhos da Região algarvia: Alcoutim\,  C
+ astro Marim\,  Tavira\,  São Brás[..]\nhttps://www.portugalrunning.com/ev
+ entos/alut-algarviana-ultra-trail-2024/
+URL:https://www.portugalrunning.com/eventos/alut-algarviana-ultra-trail-2024/
+END:VEVENT
+END:VCALENDAR

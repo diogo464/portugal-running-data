@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c191864c
+DTSTAMP:20250720T222217Z
+DTSTART:20200322
+DTEND:20200323
+LOCATION:Centro de Alto Rendimento de Anadia / Velódromo Nacional\,  Sangalhos Centro de Alto Rendimento de Anadia / Velódromo Nacional\,  Sangalhos
+SUMMARY:Anadia Wine Run 2020
+DESCRIPTION:O Município de Anadia\,  com o apoio técnico de ADR 4 Estaç�
+ �es\,  vai realizar\,  no dia 22 de março\,  a "Anadia Wine Run"\,  uma co
+ rrida de atletismo na natureza\,  em terreno misto\,  que percorrerá algum
+ as das principais quintas e vinhas do concelho de Anadia. Terá a partida e
+  chegada no[..]\nhttps://www.portugalrunning.com/eventos/anadia-wine-run-20
+ 20/
+URL:https://www.portugalrunning.com/eventos/anadia-wine-run-2020/
+END:VEVENT
+END:VCALENDAR

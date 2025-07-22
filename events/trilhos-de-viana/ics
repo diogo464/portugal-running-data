@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da379ca1
+DTSTAMP:20250720T222851Z
+DTSTART:20200209
+DTEND:20200210
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Trilhos de Viana 2020
+DESCRIPTION:Depois de uma 1ª edição que ultrapassou todas as expectativa
+ s\,  cerca de 800 atletas inscritos\,  avançamos com mais confiança para 
+ os II TRILHOS DE VIANA\,  que irão deliciar os participantes\,  pois irão
+  percorrer percursos totalmente remodelados\,  passando por cascatas\,  tri
+ lhos pelas margens de ribeiros\,  locais c/ paisagens de cortar a[..]\nhttp
+ s://www.portugalrunning.com/eventos/trilhos-de-viana/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-viana/
+END:VEVENT
+END:VCALENDAR

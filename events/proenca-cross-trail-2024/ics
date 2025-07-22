@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007a5bb
+DTSTAMP:20250720T222608Z
+DTSTART:20241214
+DTEND:20241215
+LOCATION:Proença a Nova\,  Castelo Branco Proença a Nova\,  Castelo Branco
+SUMMARY:Proença Cross Trail 2024
+DESCRIPTION:Proença Cross Trail é um evento turístico / desportivo de pe
+ destrianismo\,  constituído por 3 distâncias aqui classificadas com as si
+ glas ATRP\,  Jovem\,  Sprint e Ultra.\nhttps://www.portugalrunning.com/even
+ tos/proenca-cross-trail-2024/
+URL:https://www.portugalrunning.com/eventos/proenca-cross-trail-2024/
+END:VEVENT
+END:VCALENDAR

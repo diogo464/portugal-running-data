@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c48621fa
+DTSTAMP:20250720T222304Z
+DTSTART:20231028
+DTEND:20231029
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Corrida das Mulheres 2023
+DESCRIPTION:A Corrida das Mulheres é realizada no dia 28 de Outubro e é d
+ estinada à população em geral\,  com uma extensão aproximada de 1.300 m
+ etros. Partida na Rua do Aljube (ao lado da Sé)\,  Rua Fernão de Ornelas\
+ ,  descida na Rua do Anadia\,  Av. Do Mar e das Comunidades Madeirenses\, [
+ ..]\nhttps://www.portugalrunning.com/eventos/corrida-das-mulheres-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-das-mulheres-2023/
+END:VEVENT
+END:VCALENDAR

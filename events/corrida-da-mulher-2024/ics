@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f49cfc
+DTSTAMP:20250720T222255Z
+DTSTART:20240519
+DTEND:20240520
+LOCATION:Porto Porto
+SUMMARY:EDP Corrida da Mulher 2024
+DESCRIPTION:Não há limites para o que as mulheres conseguem alcançar. A 
+ EDP Corrida da Mulher é muito mais que um evento desportivo\,  é também 
+ um hino a todas as mulheres. Para além do ambiente de festa que o evento p
+ roporciona\,  esta prova tem como objetivo apoiar e ajudar o IPO[..]\nhttps
+ ://www.portugalrunning.com/eventos/corrida-da-mulher-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-2024/
+END:VEVENT
+END:VCALENDAR

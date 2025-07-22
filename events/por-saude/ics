@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc01281
+DTSTAMP:20250720T222604Z
+DTSTART:20210430
+DTEND:20210501
+LOCATION:Portugal Portugal
+SUMMARY:Por + saúde
+DESCRIPTION:Vem connosco caminhar ou correr virtualmente\,  ajuda-nos a con
+ cluir o nosso projeto final de curso. CAMINHADA DE 5 KM? OU CORRIDA DE 3 OU
+  7 KM?QUERES SABER COMO FUNCIONA? Podes escolher o dia e a hora (30 de abri
+ l\,  1 e 2 de maio)\,  basta saíres de casa\,  fazeres um[..]\nhttps://www
+ .portugalrunning.com/eventos/por-saude/
+URL:https://www.portugalrunning.com/eventos/por-saude/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f18d06
+DTSTAMP:20250720T222415Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:Buarcos\,  Coimbra Buarcos\,  Coimbra
+SUMMARY:FKTrail 2024
+DESCRIPTION:O FK Trail está de volta. O evento irá realizar-se entre Quia
+ ios e Buarcos na Serra da Boa Viagem e é já uma das provas de trail de ma
+ ior interesse no distrito de Coimbra.\nhttps://www.portugalrunning.com/even
+ tos/fktrail-2024/
+URL:https://www.portugalrunning.com/eventos/fktrail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c73db677
+DTSTAMP:20250720T222347Z
+DTSTART:20220123
+DTEND:20220124
+LOCATION:Soure\,  Coimbra Soure\,  Coimbra
+SUMMARY:Corrida Soure 1111 2022
+DESCRIPTION:A Corrida Soure 1111 2022 é um evento desportivo organizado pe
+ lo Soure Mov\,  clube de atletismoda APPACDM de Soure (secção autónoma)\
+ ,  em parceria com a Câmara Municipal de Soure e aAssociação Distrital d
+ e Atletismo de Coimbra (ADAC).\nhttps://www.portugalrunning.com/eventos/cor
+ rida-soure-1111-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-soure-1111-2022/
+END:VEVENT
+END:VCALENDAR

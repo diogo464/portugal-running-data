@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c22312e4
+DTSTAMP:20250720T222226Z
+DTSTART:20240616
+DTEND:20240617
+LOCATION:Belas\,  Sintra Belas\,  Sintra
+SUMMARY:Belas Cross Trail 2024
+DESCRIPTION:Trail Longo – K20+ /700 D+ / Grau 2Trail Curto – K13+ / 400
+  D+ / Grau 1Caminhada – K8\nhttps://www.portugalrunning.com/eventos/belas
+ -cross-trail-2024/
+URL:https://www.portugalrunning.com/eventos/belas-cross-trail-2024/
+END:VEVENT
+END:VCALENDAR

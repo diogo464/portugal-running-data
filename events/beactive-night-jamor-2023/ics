@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c21abc16
+DTSTAMP:20250720T222225Z
+DTSTART:20230923
+DTEND:20230924
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Beactive Night Jamor 2023
+DESCRIPTION:O #BEACTIVE NIGHT está de volta a 23 de setembro de 2023 com o
+  desafio de 5 km para correr ou caminhar\,  no mês em que se celebra a Sem
+ ana Europeia do Desporto. Integrado no #BEACTIVE em Família\,  o evento ac
+ ontece em simultâneo no Jamor e em Viana do Castelo.[..]\nhttps://www.port
+ ugalrunning.com/eventos/beactive-night-jamor-2023/
+URL:https://www.portugalrunning.com/eventos/beactive-night-jamor-2023/
+END:VEVENT
+END:VCALENDAR

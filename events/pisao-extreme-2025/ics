@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfc31026
+DTSTAMP:20250720T222604Z
+DTSTART:20250222
+DTEND:20250223
+LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+SUMMARY:Pisão Extreme 2025
+DESCRIPTION:O evento Pisão Extreme é organizado pela SpotCriavo Eventos e
+ m colaboração com o Município de São Pedro do Sul e apoio das entidades
+  locais. O evento será realizado no dia 22 Fevereiro de 2025\,  com percur
+ sos circulares na serra da arada\,  será composto por 5 percursos de Skyru
+ nning e trail[..]\nhttps://www.portugalrunning.com/eventos/pisao-extreme-20
+ 25/
+URL:https://www.portugalrunning.com/eventos/pisao-extreme-2025/
+END:VEVENT
+END:VCALENDAR

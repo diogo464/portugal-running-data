@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2ac3e3d
+DTSTAMP:20250720T222234Z
+DTSTART:20221127
+DTEND:20221128
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Cascais Trail Experience 2022
+DESCRIPTION:Depois de uma 3ª edição em que batemos todos os recordes a n
+ ível de número de participantes\,  contabilizando atletas de 15 nacionali
+ dades diferentes\,  o Cascais Trail Experience está de volta para a sua 4�
+ � edição. Considerada por muitos como a mais emblemática etapa do Circui
+ to esta é uma prova que[..]\nhttps://www.portugalrunning.com/eventos/casca
+ is-trail-experience-2022/
+URL:https://www.portugalrunning.com/eventos/cascais-trail-experience-2022/
+END:VEVENT
+END:VCALENDAR

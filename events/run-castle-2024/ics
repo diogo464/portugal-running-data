@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d05303dc
+DTSTAMP:20250720T222613Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Montemor-o-Novo\,  Évora Montemor-o-Novo\,  Évora
+SUMMARY:Run Castle 2024
+DESCRIPTION:A corrida RUNCASTLE® é uma prova que de corrida em que o prin
+ cipal objetivo do evento será o convívio e a promoção da prática despo
+ rtiva entre as camadas jovens\,  organizada pelo Atlético Clube de Montemo
+ r-o-Novo\, \nhttps://www.portugalrunning.com/eventos/run-castle-2024/
+URL:https://www.portugalrunning.com/eventos/run-castle-2024/
+END:VEVENT
+END:VCALENDAR

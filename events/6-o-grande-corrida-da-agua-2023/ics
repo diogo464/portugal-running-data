@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0d3100a
+DTSTAMP:20250720T222205Z
+DTSTART:20230107
+DTEND:20230108
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:6.º Grande Corrida Da Água 2023
+DESCRIPTION:A Associação de Atletismo do Algarve e a Câmara Municipal de
+  Faro\,  com o apoio da FAGAR\,  vão realizar na Cidade de Faro\,  o 51º 
+ Grande Prémio dos Reis integrando o Campeonato Regional de Estrada\,  no d
+ ia 7 de Janeiro de 2023 (Sábado)\,  decorrendo também a 6ª Edição da G
+ rande[..]\nhttps://www.portugalrunning.com/eventos/6-o-grande-corrida-da-ag
+ ua-2023/
+URL:https://www.portugalrunning.com/eventos/6-o-grande-corrida-da-agua-2023/
+END:VEVENT
+END:VCALENDAR

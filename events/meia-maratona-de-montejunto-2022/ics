@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd1c2ee9
+DTSTAMP:20250720T222521Z
+DTSTART:20221005
+DTEND:20221006
+LOCATION:Montejunto\,  Cadaval Montejunto\,  Cadaval
+SUMMARY:Meia Maratona de Montejunto 2022
+DESCRIPTION:&nbsp;Esta prova\,  Meia Maratona de Montejunto 2022\,  realiza
+ -se em estradas\,  mas de montanha. Apesar de ser realizada em percurso asf
+ altado\,  pavimentado e por estradões de terra batida\,  não pretende ser
+  uma prova em que o atleta corre geralmente para o cronómetro comparando-o
+  com outras da mesma distância. Esta também não[..]\nhttps://www.portuga
+ lrunning.com/eventos/meia-maratona-de-montejunto-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-montejunto-2022/
+END:VEVENT
+END:VCALENDAR

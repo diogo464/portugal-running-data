@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc30705
+DTSTAMP:20250720T222148Z
+DTSTART:20240329
+DTEND:20240330
+LOCATION:Alcacer do Sal\,  Setúbal Alcacer do Sal\,  Setúbal
+SUMMARY:26º Grande Prémio da Páscoa em Atletismo
+DESCRIPTION:26º Grande Prémio da Páscoa em Atletismo\nhttps://www.portug
+ alrunning.com/eventos/26o-grande-premio-da-pascoa-em-atletismo/
+URL:https://www.portugalrunning.com/eventos/26o-grande-premio-da-pascoa-em-atletismo/
+END:VEVENT
+END:VCALENDAR

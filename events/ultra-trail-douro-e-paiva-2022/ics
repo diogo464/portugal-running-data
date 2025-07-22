@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db71a800
+DTSTAMP:20250720T222911Z
+DTSTART:20220709
+DTEND:20220710
+LOCATION:Cinfães Cinfães
+SUMMARY:Ultra Trail Douro e Paiva 2022
+DESCRIPTION:O Ultra Trail Douro e Paiva 2022 by Compressport é um circuito
+  de provas competitivas de corrida a pé em montanha\,  organizado pela Xsp
+ orts Events. Este evento tem o apoio institucional e logístico do Municíp
+ io de Cinfães e conta este ano com um novo desafio: o Team Challenge.\nhtt
+ ps://www.portugalrunning.com/eventos/ultra-trail-douro-e-paiva-2022/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-douro-e-paiva-2022/
+END:VEVENT
+END:VCALENDAR

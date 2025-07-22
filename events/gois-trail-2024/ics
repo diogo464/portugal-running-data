@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c93187ae
+DTSTAMP:20250720T222419Z
+DTSTART:20240921T141800Z
+DTEND:20240922T141800Z
+LOCATION:Góis\,  Coimbra Góis\,  Coimbra
+SUMMARY:Góis Trail 2024
+DESCRIPTION:O GÓIS TRAIL é um evento de trail running que terá este ano 
+ a sua 1ªedição. Com o slogan ENTRE A SERRA O CEIRA\,  um trail que procu
+ ra mostrar a todos os participantes a natureza envolvente do vale do rio ce
+ ira com as suas serras em redor. É um evento[..]\nhttps://www.portugalrunn
+ ing.com/eventos/gois-trail-2024/
+URL:https://www.portugalrunning.com/eventos/gois-trail-2024/
+END:VEVENT
+END:VCALENDAR

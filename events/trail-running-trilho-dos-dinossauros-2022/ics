@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d897b4ae
+DTSTAMP:20250720T222825Z
+DTSTART:20220306
+DTEND:20220307
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:Trail Running Trilho Dos Dinossauros 2022
+DESCRIPTION:A Trail Running Trilho Dos Dinossauros 2022 será realizado no 
+ dia 06 de Março de 2022\,  com partidae chegada na Praia da Areia Branca /
+  Foz coordenadas 39°15'51.90"N 9°20'04.68"W\,  cominício previsto para a
+ s 09H00 para as provas principais.Trata-se de um evento misto com três dis
+ tâncias de trail e uma de[..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-running-trilho-dos-dinossauros-2022/
+URL:https://www.portugalrunning.com/eventos/trail-running-trilho-dos-dinossauros-2022/
+END:VEVENT
+END:VCALENDAR

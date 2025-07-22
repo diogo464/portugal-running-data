@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf249da5
+DTSTAMP:20250720T222554Z
+DTSTART:20240721
+DTEND:20240722
+LOCATION:Águeda\,  Leiria Águeda\,  Leiria
+SUMMARY:Noctis Epic Trail 2024
+DESCRIPTION:O NET24 é um evento desportivo\,  diurno\,  em 3ª Edição\, 
+  nas vertentes de Trail e Caminhada\,  a realizar no dia 21 de Julho de 202
+ 4\,  com partida às 08:30h no Instituto Duarte de Lemos\,  situado em Trof
+ a do Vouga. É organizado pela empresa PORTA.ABERTA.EVENTS e pela associaç
+ ão VOUGAVIDA com o[..]\nhttps://www.portugalrunning.com/eventos/noctis-tra
+ il-2024/
+URL:https://www.portugalrunning.com/eventos/noctis-trail-2024/
+END:VEVENT
+END:VCALENDAR

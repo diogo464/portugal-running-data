@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3a91ee4
+DTSTAMP:20250720T222706Z
+DTSTART:20240310
+DTEND:20240311
+LOCATION:Ul\,  Oliveira de Azeméis Ul\,  Oliveira de Azeméis
+SUMMARY:Trail Aldeia d'Ul 2024
+DESCRIPTION:O 2ºTrail Aldeia d`Ul é uma organização da Confraria Trotam
+ ontes em parceria com o Município de Oliveirade Azeméis e está inserido 
+ no Circuito Concelhio de Trail Running de Oliveira de Azeméis. Realiza-se 
+ a 10 de Março de 2024. O 2ºTrail Aldeia d´Ul é um evento com uma distâ
+ ncia de 18km[..]\nhttps://www.portugalrunning.com/eventos/trail-aldeia-dul-
+ 2024/
+URL:https://www.portugalrunning.com/eventos/trail-aldeia-dul-2024/
+END:VEVENT
+END:VCALENDAR

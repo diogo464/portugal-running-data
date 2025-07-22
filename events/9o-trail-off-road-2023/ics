@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c11ab6ae
+DTSTAMP:20250720T222209Z
+DTSTART:20230304
+DTEND:20230305
+LOCATION:Barreira\,  Leiria Barreira\,  Leiria
+SUMMARY:9º Trail Off-Road 2023
+DESCRIPTION:O&nbsp;Clube de Atletismo da Barreira&nbsp;organiza no dia&nbsp
+ ;4 de Março de 2023\,  pelas 18h30\,  o&nbsp;IX Trail Off-Road da Barreira
+ . O percurso tem sensivelmente 15km’s\,  percorrendo trilhos e caminhos d
+ a freguesia da Barreira. Os participantes devem comparecer na zona da câma
+ ra de chamada 15 minutos antes da sua hora de partida\,  equipados[..]\nhtt
+ ps://www.portugalrunning.com/eventos/9o-trail-off-road-2023/
+URL:https://www.portugalrunning.com/eventos/9o-trail-off-road-2023/
+END:VEVENT
+END:VCALENDAR

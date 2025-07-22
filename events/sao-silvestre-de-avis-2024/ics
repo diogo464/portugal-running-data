@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d13c3041
+DTSTAMP:20250720T222627Z
+DTSTART:20241228T023100Z
+DTEND:20241228T235900Z
+LOCATION:Avis\,  Portalegre Avis\,  Portalegre
+SUMMARY:São Silvestre de Avis 2024
+DESCRIPTION:A 40.ª Corrida de S. Silvestre de Avis é uma prova de atletis
+ mo (estrada) e realiza-se no dia 28 de dezembro de 2024 (sábado)\,  entre 
+ as 15h00 e as 17h00. É organizada pela Casa do Povo de Ervedal\,  Municíp
+ io de Avis\,  Associação Desportiva e Recreativa “Amigos do Atletismo d
+ e Avis”[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-avi
+ s-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-avis-2024/
+END:VEVENT
+END:VCALENDAR

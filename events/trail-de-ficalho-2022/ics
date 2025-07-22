@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5430eb3
+DTSTAMP:20250720T222732Z
+DTSTART:20221106
+DTEND:20221107
+LOCATION:Vila Verde de Ficalho\,  Serpa Vila Verde de Ficalho\,  Serpa
+SUMMARY:Trail de Ficalho 2022
+DESCRIPTION:O 2º Trail do Ficalho é composto por 3 provas e ocorre no dia
+  6 de novembro de 2022. Caminhada\,  10km Trai Curto - 17 km\,  +600 Trail 
+ Longo - 25 km\,  +800\nhttps://www.portugalrunning.com/eventos/trail-de-fic
+ alho-2022/
+URL:https://www.portugalrunning.com/eventos/trail-de-ficalho-2022/
+END:VEVENT
+END:VCALENDAR

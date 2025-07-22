@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce248afa
+DTSTAMP:20250720T222538Z
+DTSTART:20240303
+DTEND:20240304
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:Meia Maratona Ponta Delgada 2024
+DESCRIPTION:O Núcleo Sportinguista de S. Miguel\,  em colaboração com a 
+ Associação de Atletismo de S. Miguel\,  irá organizar no próximo dia 3 
+ de março\,  pelas 10 horas\,  a Meia Maratona de São Miguel. Este ano a c
+ ompetição parte no Campo de São Francisco em Ponta Delgada e chegada jun
+ to à[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-ponta-delg
+ ada-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-ponta-delgada-2024/
+END:VEVENT
+END:VCALENDAR

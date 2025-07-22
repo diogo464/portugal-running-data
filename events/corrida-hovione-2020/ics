@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c614a0e0
+DTSTAMP:20250720T222329Z
+DTSTART:20200531
+DTEND:20200601
+LOCATION:Parque da Cidade de Loures Parque da Cidade de Loures
+SUMMARY:Corrida Hovione 2020
+DESCRIPTION:A Hovione\,  com o apoio da Câmara Municipal de Loures vai o
+ rganizar a 4ª Edição da Corrida Hovione. A corrida vai decorrer em Loure
+ s\,  no próximo dia 31 de Maio de 2020 (Domingo)\,  com o objetivo de prom
+ over a prática de atividades desportivas e uma vida saudável\,  assim com
+ o\,  dar a conhecer[..]\nhttps://www.portugalrunning.com/eventos/corrida-ho
+ vione-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-hovione-2020/
+END:VEVENT
+END:VCALENDAR

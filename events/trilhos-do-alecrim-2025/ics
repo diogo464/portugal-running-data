@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da59241e
+DTSTAMP:20250720T222853Z
+DTSTART:20250504
+DTEND:20250505
+LOCATION:Porto de Mós Porto de Mós
+SUMMARY:Trilhos do Alecrim 2025
+DESCRIPTION:A prova denominada&nbsp;Trilhos do Alecrim&nbsp;é organizada p
+ elo&nbsp;GRD Serro Ventoso&nbsp;e conta com o apoio técnico dos&nbsp;Trilh
+ os do Castelejo Será realizado a 4 de maio de 2025 independentemente das
+  condições climatéricas do dia desde que o organizador entenda que não 
+ há riscos acrescidos pelas mesmas para este tipo de eventos. Contará para
+  o Troféu Trail[..]\nhttps://www.portugalrunning.com/eventos/trilhos-do-a
+ lecrim-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-alecrim-2025/
+END:VEVENT
+END:VCALENDAR

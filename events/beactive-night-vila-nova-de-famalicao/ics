@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c21acd14
+DTSTAMP:20250720T222225Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:Vila Nova de Famalicão\,  Braga Vila Nova de Famalicão\,  Braga
+SUMMARY:Corrida Beactive
+DESCRIPTION:O #BEACTIVE NIGHT Jamor está de volta a 24 de setembro com o d
+ esafio de 5 km para correr ou caminhar\,  no mês em que se celebra a Seman
+ a Europeia do Desporto. Integrado no #BEACTIVE em Família\,  o evento acon
+ tece em simultâneo no Jamor e em Vila Nova de Famalicão.[..]\nhttps://www
+ .portugalrunning.com/eventos/beactive-night-vila-nova-de-famalicao/
+URL:https://www.portugalrunning.com/eventos/beactive-night-vila-nova-de-famalicao/
+END:VEVENT
+END:VCALENDAR

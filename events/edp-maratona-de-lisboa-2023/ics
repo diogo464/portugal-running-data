@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8719bdc
+DTSTAMP:20250720T222407Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Lisboa Lisboa
+SUMMARY:Maratona de Lisboa 2023
+DESCRIPTION:A Maratona de Lisboa realiza-se a 8 de Outubro\,  parte de&nbsp
+ ;Cascais&nbsp;e segue sempre pela&nbsp;Estrada Marginal\,  primeiro junto a
+ o mar e depois ao longo do rio até à meta em Lisboa no&nbsp;Parque das Na
+ ções. Preços Alerta! Há outro site a vender mais caro... Percurso https
+ ://www.youtube.com/watch?v=cYWOFhcj34k&t=8s Kit de Participação O “kit 
+ de[..]\nhttps://www.portugalrunning.com/eventos/edp-maratona-de-lisboa-2023
+ /
+URL:https://www.portugalrunning.com/eventos/edp-maratona-de-lisboa-2023/
+END:VEVENT
+END:VCALENDAR

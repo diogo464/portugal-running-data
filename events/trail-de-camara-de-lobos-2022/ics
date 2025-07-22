@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50c2d09
+DTSTAMP:20250720T222728Z
+DTSTART:20221119
+DTEND:20221120
+LOCATION:Câmara de Lobos\,  Madeira Câmara de Lobos\,  Madeira
+SUMMARY:Trail De Câmara De Lobos 2022
+DESCRIPTION:A ACDJS (Associação Cultural e Desportiva do Jardim da Serra)
+  e a ACRE (Associação Cultural e Recreativa do Estreito)\,  promovem a IX
+  Edição do Trail de Câmara de Lobos\,  evento do Circuito Regional “Tr
+ ail Madeira”\,  um projeto da AARAM - 2022/2023. Contando com 3 percursos
+  – Ultra Trail 44km 3200m[..]\nhttps://www.portugalrunning.com/eventos/tr
+ ail-de-camara-de-lobos-2022/
+URL:https://www.portugalrunning.com/eventos/trail-de-camara-de-lobos-2022/
+END:VEVENT
+END:VCALENDAR

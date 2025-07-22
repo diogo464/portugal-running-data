@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8ac3374
+DTSTAMP:20250720T222826Z
+DTSTART:20220925
+DTEND:20220926
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail Santa Iria 2022
+DESCRIPTION:A Associação Branzelo Ativo organiza a 10ª edição do Trail
+  Santa Iria 2022\,  na aldeia de Branzelo. A prova terá duas distâncias 2
+ 3km e 10km (a distância de 10km poderá ser feita a correr ou a caminhar).
+  É por isso uma prova para todos os gostos e todas as condições[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-santa-iria-2022-2/
+URL:https://www.portugalrunning.com/eventos/trail-santa-iria-2022-2/
+END:VEVENT
+END:VCALENDAR

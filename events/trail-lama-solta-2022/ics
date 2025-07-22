@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72dd470
+DTSTAMP:20250720T222802Z
+DTSTART:20220814
+DTEND:20220815
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Trail Lama Solta 2022
+DESCRIPTION:Trail Lama Solta 2022\nhttps://www.portugalrunning.com/eventos/
+ trail-lama-solta-2022/
+URL:https://www.portugalrunning.com/eventos/trail-lama-solta-2022/
+END:VEVENT
+END:VCALENDAR

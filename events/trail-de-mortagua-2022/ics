@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d550127e
+DTSTAMP:20250720T222733Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Mortágua\,  Viseu Mortágua\,  Viseu
+SUMMARY:Trail de Mortágua 2022
+DESCRIPTION:O “Trail de Mortágua 2022” é uma organização do Núcleo
+  do Sporting Clube de Portugal de Mortágua\,  terá lugar em Mortágua a 2
+ 0 de novembro 2022\,  com partida e chegada junto à Câmara Municipal de M
+ ortágua às 9h00.O secretariado terá lugar na Câmara Municipal de Mortá
+ gua das 07h00 às 9h00.[..]\nhttps://www.portugalrunning.com/eventos/trail-
+ de-mortagua-2022/
+URL:https://www.portugalrunning.com/eventos/trail-de-mortagua-2022/
+END:VEVENT
+END:VCALENDAR

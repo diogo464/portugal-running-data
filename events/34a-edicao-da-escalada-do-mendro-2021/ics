@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c02ab48c
+DTSTAMP:20250720T222154Z
+DTSTART:20210603
+DTEND:20210604
+LOCATION:Vidigueira Vidigueira\,  Beja
+SUMMARY:34ª edição da Escalada do Mendro 2021
+DESCRIPTION:No dia 3 de Junho realiza-se a 34ª edição da Escalada do Men
+ dro em Atletismo em Vidigueira- Baixo Alentejo.\nhttps://www.portugalrunnin
+ g.com/eventos/34a-edicao-da-escalada-do-mendro-2021/
+URL:https://www.portugalrunning.com/eventos/34a-edicao-da-escalada-do-mendro-2021/
+END:VEVENT
+END:VCALENDAR

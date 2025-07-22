@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6a63666
+DTSTAMP:20250720T222754Z
+DTSTART:20231014
+DTEND:20231015
+LOCATION:Armamar\,  Viseu Armamar\,  Viseu
+SUMMARY:Trail e Caminhada Rota da Maçã de Montanha 2023
+DESCRIPTION:Com a 16.ª edição da Feira da Maçã surge o 3.º Trail e Ca
+ minhada Rota da Maçã de Montanha a 14 de Outubro. Provas Caminhada 8 km a
+ prox.: percurso acessível a qualquer pessoa com o mínimo de preparação 
+ física. Trail curto 12 km aprox.: percurso com dificuldade média/alta\,  
+ exige alguma[..]\nhttps://www.portugalrunning.com/eventos/trail-e-caminhada
+ -rota-da-maca-de-montanha-2023/
+URL:https://www.portugalrunning.com/eventos/trail-e-caminhada-rota-da-maca-de-montanha-2023/
+END:VEVENT
+END:VCALENDAR

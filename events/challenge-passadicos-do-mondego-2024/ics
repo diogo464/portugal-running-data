@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2d31744
+DTSTAMP:20250720T222237Z
+DTSTART:20241117
+DTEND:20241118
+LOCATION:Guarda Guarda
+SUMMARY:Challenge Passadiços do Mondego 2024
+DESCRIPTION:O Challenge - Passadiços do Mondego é um evento de Trail Runn
+ ing que integra uma prova com a distância de 11.7 Kms de formato linear\, 
+  complementado com uma caminhada. A prova tem início na porta de saída em
+  Videmonte dos Passadiços do Mondego e terminus na porta de chegada da[..]
+ \nhttps://www.portugalrunning.com/eventos/challenge-passadicos-do-mondego-2
+ 024/
+URL:https://www.portugalrunning.com/eventos/challenge-passadicos-do-mondego-2024/
+END:VEVENT
+END:VCALENDAR

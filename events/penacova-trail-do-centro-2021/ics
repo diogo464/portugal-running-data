@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf761167
+DTSTAMP:20250720T222559Z
+DTSTART:20210905
+DTEND:20210906
+LOCATION:Praia do Reconquinho\,  Penacova Praia do Reconquinho\,  Penacova
+SUMMARY:Penacova Trail do Centro 2021
+DESCRIPTION:Partindo de uma experiência acumulada no âmbito da organizaç
+ ão de eventos\,  a rede de Centros de Trail Running Carlos Sá nasce para 
+ dar resposta e meios às necessidades dos amantes desta modalidade (e outra
+ s)\,  de conhecerem um novo território\,  de uma forma completamente autó
+ noma.É um local organizado com vários percursos[..]\nhttps://www.portugal
+ running.com/eventos/penacova-trail-do-centro-2021/
+URL:https://www.portugalrunning.com/eventos/penacova-trail-do-centro-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7917f4c
+DTSTAMP:20250720T222353Z
+DTSTART:20241027
+DTEND:20241028
+LOCATION:Palmela\,  Setúbal Palmela\,  Setúbal
+SUMMARY:Corrida Volkswagen 2024
+DESCRIPTION:A Volkswagen Run realiza-se no dia 27 de outubro de 2024\,  a
+  partir das 08h00\,  em Palmela\,  com partidas e chegadas na sede social d
+ a Volkswagen\,  e o tempo máximo de duração desta prova é de 2 (duas) 
+ horas.:\nhttps://www.portugalrunning.com/eventos/corrida-volkswagen-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-volkswagen-2024/
+END:VEVENT
+END:VCALENDAR

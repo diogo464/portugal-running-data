@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0093e98
+DTSTAMP:20250720T222608Z
+DTSTART:20220313
+DTEND:20220314
+LOCATION:Povoação\,  Açores Povoação\, Açores
+SUMMARY:Povoação Trail 2022
+DESCRIPTION:O Povoação Trail 2022 é um evento de trail running\,  que pe
+ rcorre trilhos e caminhos no concelho da Povoação\,  na Ilha de São Migu
+ el\,  Açores. Enquadram-se neste evento dois eventos de trail (50 e 24Km) 
+ e uma Caminhada.\nhttps://www.portugalrunning.com/eventos/povoacao-trail-20
+ 22/
+URL:https://www.portugalrunning.com/eventos/povoacao-trail-2022/
+END:VEVENT
+END:VCALENDAR

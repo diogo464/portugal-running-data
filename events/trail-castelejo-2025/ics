@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4400665
+DTSTAMP:20250720T222716Z
+DTSTART:20250209
+DTEND:20250210
+LOCATION:Alvados\,  Porto de Mós Alvados\,  Porto de Mós\,  Lisboa
+SUMMARY:Trail Castelejo 2025
+DESCRIPTION:A prova é organizada pela Trilho do Castelejo - Associação d
+ e Aventura de Alvados. A prova realiza-se no dia 09 de Fevereiro de 2025. O
+  Trail Castelejo 2025 é constituído por 3 provas (K10\,  K20 e K30).\nhtt
+ ps://www.portugalrunning.com/eventos/trail-castelejo-2025/
+URL:https://www.portugalrunning.com/eventos/trail-castelejo-2025/
+END:VEVENT
+END:VCALENDAR

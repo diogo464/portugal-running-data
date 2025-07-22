@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1130f20
+DTSTAMP:20250720T222209Z
+DTSTART:20200517
+DTEND:20200518
+LOCATION:Vila Pouca de Aguiar Vila Pouca de Aguiar\,  Vila Real
+SUMMARY:7º Trail CTM Vila Pouca de Aguiar 2020
+DESCRIPTION:A 17 de maio de 2020\,  regressamos ao bonito cenário das serr
+ as do Alvão e da Padrela para voltar a enchê-las de atletas e novidades�
+ �O CTM de Vila Pouca de Aguiar realiza nesta data o 7º Trail CTM Vila Pouc
+ a de Aguiar\,  composto por 3 provas. Trail Longo\,  Trail Curto[..]\nhttps
+ ://www.portugalrunning.com/eventos/7o-trail-ctm-vila-pouca-de-aguiar-2020/
+URL:https://www.portugalrunning.com/eventos/7o-trail-ctm-vila-pouca-de-aguiar-2020/
+END:VEVENT
+END:VCALENDAR

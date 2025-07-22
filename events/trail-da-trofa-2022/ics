@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50ab347
+DTSTAMP:20250720T222728Z
+DTSTART:20220911
+DTEND:20220912
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:Trail da Trofa 2022
+DESCRIPTION:O Trail da Trofa realiza-se a 10 e 11 de Setembro. O PONTO PLAC
+ A Trail Kids irá decorrer no sábado\,  dia 10 de setembro\,  às 14h00\, 
+  com início no Monte de S. Gens (GPS 41.322868\,  8.594861)\,  podendo par
+ ticipar crianças com idades até aos 16 anos. O LITEL Trail Sprint/Jovem p
+ rova[..]\nhttps://www.portugalrunning.com/eventos/trail-da-trofa-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-trofa-2022/
+END:VEVENT
+END:VCALENDAR

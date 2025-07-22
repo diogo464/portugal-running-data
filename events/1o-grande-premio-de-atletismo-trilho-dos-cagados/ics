@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf848b35
+DTSTAMP:20250720T222144Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Cartaxo\,  Santarém Cartaxo\,  Santarém
+SUMMARY:1º Grande Prémio de Atletismo - Trilho dos Cágados
+DESCRIPTION:O 1º Grande Prémio de Atletismo é composto por uma prova de 
+ estrada de 10 KM e uma caminhada de 5 KM.A prova de estrada 10 KM Trilho do
+ s Cágados VCO é constituído por duas voltas de 5 KM’s no perímetro ur
+ bano da vila.A caminhada é de 5 KM. A[..]\nhttps://www.portugalrunning.com
+ /eventos/1o-grande-premio-de-atletismo-trilho-dos-cagados/
+URL:https://www.portugalrunning.com/eventos/1o-grande-premio-de-atletismo-trilho-dos-cagados/
+END:VEVENT
+END:VCALENDAR

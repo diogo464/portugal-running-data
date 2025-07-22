@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5baa744
+DTSTAMP:20250720T222323Z
+DTSTART:20220403
+DTEND:20220404
+LOCATION:Mafra Mafra\,  Lisboa
+SUMMARY:Corrida dos Sinos 2022
+DESCRIPTION:A 38ª Corrida dos Sinos 2022 e a 18ª Prova dos Sininhos são 
+ organizadas pela Associação dos Amigos doAtletismo de Mafra em colaboraç
+ ão com a Câmara Municipal de Mafra\,  Junta de Freguesia de Mafra eEscola
+  das Armas.\nhttps://www.portugalrunning.com/eventos/corrida-dos-sinos-2022
+ -2/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-sinos-2022-2/
+END:VEVENT
+END:VCALENDAR

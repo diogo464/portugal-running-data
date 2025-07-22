@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da1db6df
+DTSTAMP:20250720T222849Z
+DTSTART:20250501
+DTEND:20250502
+LOCATION:Ourique\,  Beja Ourique\,  Beja
+SUMMARY:Trilhos da Cola 2025
+DESCRIPTION:Na sua segunda edição\,  os Trilhos da Cola trarão ao Alente
+ jo uma prova que visitará Castro da Cola\,  em Ourique\,  com duas distân
+ cias competitivas e uma caminhada.\nhttps://www.portugalrunning.com/eventos
+ /trilhos-da-cola-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-cola-2025/
+END:VEVENT
+END:VCALENDAR

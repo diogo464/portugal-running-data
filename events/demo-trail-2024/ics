@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e49e12
+DTSTAMP:20250720T222358Z
+DTSTART:20240519
+DTEND:20240520
+LOCATION:Vila Nova de Paiva\,  Viseu Vila Nova de Paiva\,  Viseu
+SUMMARY:Demo Trail 2024
+DESCRIPTION:O “Demo Trail” tem como objetivo proporcionar aos atletas b
+ oas experiências pelos trilhos e caminhos do concelho de Vila Nova de Paiv
+ a. Realiza-se no dia 19 de Maio 2024 e é organizado pelo Malhadinhas Clube
+  e conta com o apoio do Município de Vila Nova de Paiva\,  Juntas de Fregu
+ esia[..]\nhttps://www.portugalrunning.com/eventos/demo-trail-2024/
+URL:https://www.portugalrunning.com/eventos/demo-trail-2024/
+END:VEVENT
+END:VCALENDAR

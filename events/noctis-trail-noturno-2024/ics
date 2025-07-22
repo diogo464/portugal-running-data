@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf1dc19d
+DTSTAMP:20250720T222553Z
+DTSTART:20241214
+DTEND:20241215
+LOCATION:Águeda\,  Leiria Águeda\,  Leiria
+SUMMARY:Noctis Trail Noturno 2024
+DESCRIPTION:O NOCTIS TRAIL 24 é um convívio desportivo noturno\,  nas ver
+ tentes de Trail e Caminhada\,  a realizar no dia 14 de dezembro de 2024\,  
+ com partida às 17h no Instituto Duarte de Lemos\,  situado em Trofa do Vou
+ ga. É organizado pela associação VOUGAVIDA e com o apoio do Instituto Du
+ arte[..]\nhttps://www.portugalrunning.com/eventos/noctis-trail-noturno-2024
+ /
+URL:https://www.portugalrunning.com/eventos/noctis-trail-noturno-2024/
+END:VEVENT
+END:VCALENDAR

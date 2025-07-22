@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3de315
+DTSTAMP:20250720T222507Z
+DTSTART:20221106
+DTEND:20221107
+LOCATION:Porto Porto
+SUMMARY:Maratona do Porto 2022
+DESCRIPTION:Resultados 2022 A EDP Maratona do Porto 2022 com os seus 17 ano
+ s de vida\,  inicia a sua campanha de divulgação\,  com vista à 18ª. Ed
+ ição\,  em 2022 a 6 de outubro\,  com início às 9h00\,  e tal como no p
+ assado\,  pretendemos fazer desta EDP Maratona do Porto\,  um evento[..]\nh
+ ttps://www.portugalrunning.com/eventos/maratona-do-porto-2022/
+URL:https://www.portugalrunning.com/eventos/maratona-do-porto-2022/
+END:VEVENT
+END:VCALENDAR

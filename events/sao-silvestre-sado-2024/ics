@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d25dbea8
+DTSTAMP:20250720T222645Z
+DTSTART:20240106
+DTEND:20240107
+LOCATION:Setúbal Setúbal
+SUMMARY:São Silvestre Sado 2024
+DESCRIPTION:A São Silvestre Sado\,  em Setúbal\,  volta a sair para a rua
+ \,  nos primeiros dias do ano de 2023. A prova terá a distância de 10 Km 
+ irá iniciar-se-á às 18 horas\,  com partida e chegada em Praias do Sado.
+  Venha participar e aventurar-se por terras do Sado e nas[..]\nhttps://www.
+ portugalrunning.com/eventos/sao-silvestre-sado-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-sado-2024/
+END:VEVENT
+END:VCALENDAR

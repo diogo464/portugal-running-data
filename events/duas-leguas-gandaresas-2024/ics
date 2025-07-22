@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c82ace87
+DTSTAMP:20250720T222402Z
+DTSTART:20240706
+DTEND:20240707
+LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+SUMMARY:Duas Léguas Gandaresas 2024
+DESCRIPTION:Da 6ª Edição das Duas Léguas faz parte uma prova de corrida
+  com 10 km (prova aberta) e uma caminhada com aproximadamente 10 km\nhttps:
+ //www.portugalrunning.com/eventos/duas-leguas-gandaresas-2024/
+URL:https://www.portugalrunning.com/eventos/duas-leguas-gandaresas-2024/
+END:VEVENT
+END:VCALENDAR

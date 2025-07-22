@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9f92ec8
+DTSTAMP:20250720T222431Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+SUMMARY:Grande Prémio do CSArmada 2024
+DESCRIPTION:A 02 Junho 2024 vai realizar-se o 6º Grande Prémio de Atle
+ tismo do CS Armada\,  prova inserida no Troféu de Almada Atletismo ‘Má
+ rio Pinto Claro’ 2023/2024.\nhttps://www.portugalrunning.com/eventos/gran
+ de-premio-do-csarmada-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-do-csarmada-2024/
+END:VEVENT
+END:VCALENDAR

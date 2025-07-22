@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50de9f0
+DTSTAMP:20250720T222728Z
+DTSTART:20240317
+DTEND:20240318
+LOCATION:Moura\,  Beja Moura\,  Beja
+SUMMARY:Trail da Tomina 2024
+DESCRIPTION:A Comissão de Festas da Tomina em Honra de Nossa Senhora das N
+ ecessidades convida todos a participar na 4.ª edição do Trail da Tomina.
+  Volvidos quatro anos sobre o I Trail\,  esta 4.ª edição mostra que as g
+ entes de Santo Aleixo da Restauração estão empenhadas em manter o evento
+  e[..]\nhttps://www.portugalrunning.com/eventos/trail-da-tomina-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-tomina-2024/
+END:VEVENT
+END:VCALENDAR

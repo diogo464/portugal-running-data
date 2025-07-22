@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d173216f
+DTSTAMP:20250720T222631Z
+DTSTART:20241229
+DTEND:20241230
+LOCATION:Lagoa\,  Faro Lagoa\,  Faro
+SUMMARY:São Silvestre de Lagoa 2024
+DESCRIPTION:A corrida São Silvestre de Lagoa\,  prova organizada pela Ass
+ ociação Académica da Bela Vista\,  queconta com o apoio da Camara Munici
+ pal de Lagoa\,  e será realizada no dia 29 de dezembro de 2024. Provas: Ca
+ minhada - 5 Km Corrida São Silvestre - 10 Km + Mini São Silvestre – 5km
+  Caminhada[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-la
+ goa-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-lagoa-2024/
+END:VEVENT
+END:VCALENDAR

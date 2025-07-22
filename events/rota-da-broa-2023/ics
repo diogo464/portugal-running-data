@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0500a3b
+DTSTAMP:20250720T222613Z
+DTSTART:20230701
+DTEND:20230702
+LOCATION:Cumeeira\,  Penela Cumeeira\,  Penela
+SUMMARY:Rota Da Broa 2023
+DESCRIPTION:O Trail Rota da Broa é organizado pelo Centro Cultural de Cume
+ eira e irá ocorrer nos dias 1 e 2 de Julho de 2023.Trata-se de um evento d
+ esportivo de carater lúdico e competitivo que tem por objetivo divulgar e 
+ promover não só a prática desportiva\,  em especial na modalidade de[..]
+ \nhttps://www.portugalrunning.com/eventos/rota-da-broa-2023/
+URL:https://www.portugalrunning.com/eventos/rota-da-broa-2023/
+END:VEVENT
+END:VCALENDAR

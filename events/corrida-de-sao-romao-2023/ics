@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d7986c
+DTSTAMP:20250720T222309Z
+DTSTART:20230805
+DTEND:20230806
+LOCATION:Carvalhal\,  Grândola Carvalhal\,  Grândola
+SUMMARY:Corrida de São Romão 2023
+DESCRIPTION:A prova realiza-se no dia 05&nbsp;de Agosto de 2023\,  pelas 19
+ .00h\,  com partida em frente á junta de Freguesia e Chegada ao recinto de
+  Feiras e Mercados do Carvalhal.&nbsp; A corrida terá a distância de 11km
+ . A Corrida de São Romão é organizada pela Juventude Desportiva do Carva
+ lhal. Esta corrida[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-
+ sao-romao-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-romao-2023/
+END:VEVENT
+END:VCALENDAR

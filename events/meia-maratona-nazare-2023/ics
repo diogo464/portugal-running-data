@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdd305b3
+DTSTAMP:20250720T222533Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Meia Maratona Nazaré 2024
+DESCRIPTION:Numa organização da Meia Maratona Internacional da Nazaré -
+  Associação de Cultura e Desporto\,  vai realizar-se\,  no dia 10 de Nov
+ embro de 2024\,  pelas 10:00 horas\,  na Vila da Nazaré\,  uma corrida pe
+ destre\,  denominada 48ª. MEIA MARATONA INTERNACIONAL da NAZARÉ. Em 2023
+ \,  a 47ª Meia Maratona Internacional da Nazaré\,  realizou-se no domingo
+ \,  12 de[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-nazare
+ -2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-nazare-2024/
+END:VEVENT
+END:VCALENDAR

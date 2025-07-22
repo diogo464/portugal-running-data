@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d874a0ec
+DTSTAMP:20250720T222823Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Malveira da Serra Malveira da Serra\,  Cascais\,  Lisboa
+SUMMARY:Trail Running Desafio 5 Cumes 2022
+DESCRIPTION:O Trail Running Desafio 5 Cumes é um evento organizado dia 30 
+ de Outubro de 2022 pela empresa Trilho Perdido em parceria com o Trail4U\, 
+  com duas distâncias de Trail Running e uma de caminhada em ambiente natur
+ al. O evento vai-se realizar independentemente das condições climatérica
+ s do dia\,  desde que[..]\nhttps://www.portugalrunning.com/eventos/trail-ru
+ nning-desafio-5-cumes-2022/
+URL:https://www.portugalrunning.com/eventos/trail-running-desafio-5-cumes-2022/
+END:VEVENT
+END:VCALENDAR

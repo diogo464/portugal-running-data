@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c371900a
+DTSTAMP:20250720T222247Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:Corrida Aves Em Movimento Casa Dos Reclamos 2022
+DESCRIPTION:Realiza-se no dia 20 de Novembro de 2022\,  pelas 10:00m\,  com
+  partida e chegada na Rua António Martins Ribeiro\,  junto ao Estádio/Pav
+ ilhão do Clube Desportivo das Aves\,  em Vila das Aves\,  a Corrida Aves e
+ m Movimento Casa dos Reclamos 2022.Haverá uma caminhada com a distância d
+ e 5 km destinada a[..]\nhttps://www.portugalrunning.com/eventos/corrida-ave
+ s-em-movimento-casa-dos-reclamos-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-aves-em-movimento-casa-dos-reclamos-2022/
+END:VEVENT
+END:VCALENDAR

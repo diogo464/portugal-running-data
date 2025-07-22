@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1779c59
+DTSTAMP:20250720T222631Z
+DTSTART:20230107
+DTEND:20230108
+LOCATION:Espinho\,  Aveiro Espinho\,  Aveiro
+SUMMARY:São Silvestre de Espinho 2023
+DESCRIPTION:A 8ª edição da São Silvestre de Espinho terá partida e che
+ gada na Câmara Municipal de Espinho. A prova de 10km é cronometrada\,  te
+ m um limite máximo de 1500 participantes e está aberta a todos os atletas
+  federados e não federados que tenham completado 18 anos ao dia da prova.[
+ ..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-espinho-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-espinho-2023/
+END:VEVENT
+END:VCALENDAR

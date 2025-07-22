@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2161ca4
+DTSTAMP:20250720T222641Z
+DTSTART:20221217
+DTEND:20221218
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:São Silvestre Mirandela 2022
+DESCRIPTION:O grupo Mirandela a Correr irá realizar a 4ª São Silvestre d
+ e Mirandela\,  no dia 17 de dezembro 2022\,  pelas 18:00h.A "4ª São Silve
+ stre de Mirandela”\,  é um evento de natureza desportiva que tem como ob
+ jetivo incentivar e consciencializar a população para a importância da p
+ rática de exercício físico.\nhttps://www.portugalrunning.com/eventos/sao
+ -silvestre-mirandela-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mirandela-2022/
+END:VEVENT
+END:VCALENDAR

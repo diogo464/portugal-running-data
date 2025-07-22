@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3c4a076
+DTSTAMP:20250720T222252Z
+DTSTART:20250712
+DTEND:20250713
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:Corrida da Lagoa de Santo André 2025
+DESCRIPTION:A Junta de Freguesia de Santo André em co-organização com a 
+ GanharDestak e com o apoio do Municipio de Santiago do Cacém\,  realiza no
+  próximo dia 12 de julho de 2025\,  a&nbsp;28ª Corrida da Lagoa de Santo 
+ André\,  em Santo André\,  Santiago do Cacém. É uma prova desportiva qu
+ e tem[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-lagoa-de-sant
+ o-andre-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-lagoa-de-santo-andre-2025/
+END:VEVENT
+END:VCALENDAR

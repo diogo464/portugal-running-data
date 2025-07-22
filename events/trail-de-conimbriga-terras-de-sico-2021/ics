@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50db16a
+DTSTAMP:20250720T222728Z
+DTSTART:20210528
+DTEND:20210529
+LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+SUMMARY:Trail de Conímbriga Terras de Sicó 2021
+DESCRIPTION:Trail de Conímbriga Terras de Sicó 2021\nhttps://www.portugal
+ running.com/eventos/trail-de-conimbriga-terras-de-sico-2021/
+URL:https://www.portugalrunning.com/eventos/trail-de-conimbriga-terras-de-sico-2021/
+END:VEVENT
+END:VCALENDAR

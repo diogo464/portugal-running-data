@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd6f3f4a
+DTSTAMP:20250720T222526Z
+DTSTART:20200920
+DTEND:20200921
+LOCATION:Viseu Viseu
+SUMMARY:Meia Maratona do Dão 2020
+DESCRIPTION:Meia Maratona do Dão 2020\nhttps://www.portugalrunning.com/eve
+ ntos/meia-maratona-do-dao-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-dao-2020/
+END:VEVENT
+END:VCALENDAR

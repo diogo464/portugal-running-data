@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b31059
+DTSTAMP:20250720T222251Z
+DTSTART:20240922
+DTEND:20240923
+LOCATION:Montelavar\,  Sintra Montelavar\,  Sintra
+SUMMARY:Corrida da Filarmonia 2024
+DESCRIPTION:A Sociedade Filarmónica Boa União Montelavarense\,  vai reali
+ zar no domingo\,  dia 22 de Setembro de 2024\,  pelas 10:00 horas\,  um eve
+ nto desportivo de Atletismo\,  designado por V Corrida da Filarmonia. A Cor
+ rida da Filarmonia é composta por 1 corrida (de carácter competitivo) com
+  o seguinte percurso:Corrida (+/-10000 metros).\nhttps://www.portugalrunnin
+ g.com/eventos/corrida-da-filarmonia-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-filarmonia-2024/
+END:VEVENT
+END:VCALENDAR

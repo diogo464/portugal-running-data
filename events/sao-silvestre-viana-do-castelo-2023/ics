@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d26c4a3e
+DTSTAMP:20250720T222646Z
+DTSTART:20231223
+DTEND:20231224
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:São Silvestre Viana do Castelo 2023
+DESCRIPTION:A São Silvestre Viana do Castelo 2023\,  prova de 10 km\,  em 
+ Viana do Castelo\,  realiza-se a 23 de Dezembro. Corrida (10km) Caminhada (
+ 5Km)\nhttps://www.portugalrunning.com/eventos/sao-silvestre-viana-do-castel
+ o-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-viana-do-castelo-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8295313
+DTSTAMP:20250720T222402Z
+DTSTART:20221022
+DTEND:20221023
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Ecotrail Do Funchal / Madeira 2022
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ecotrail-do-funchal-m
+ adeira-2022/
+URL:https://www.portugalrunning.com/eventos/ecotrail-do-funchal-madeira-2022/
+END:VEVENT
+END:VCALENDAR

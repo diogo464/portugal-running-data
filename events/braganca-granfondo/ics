@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c26194e2
+DTSTAMP:20250720T222230Z
+DTSTART:20200612
+DTEND:20200613
+LOCATION:Bragança\,  Portugal Bragança\,  Portugal
+SUMMARY:Bragança Granfondo
+DESCRIPTION:Faz a Caminhada do Bragança Granfondo by Trek 2020 e ajuda o l
+ ado solidário do Granfondo mais animado do Mundo. A 12 de julho de 2020\, 
+  mesmo quem não pedala pode participar no Granfondo mais animado do Mundo:
+  a Caminhada também permite fazer parte do Bragança Granfondo by Trek 202
+ 0[..]\nhttps://www.portugalrunning.com/eventos/braganca-granfondo/
+URL:https://www.portugalrunning.com/eventos/braganca-granfondo/
+END:VEVENT
+END:VCALENDAR

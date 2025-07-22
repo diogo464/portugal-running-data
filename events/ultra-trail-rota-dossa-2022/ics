@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db717dc0
+DTSTAMP:20250720T222911Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+SUMMARY:Ultra Trail Rota D’Ossa 2022
+DESCRIPTION:O Ultra Trail Rota D’Ossa surgiu em 2019 como o 1º Ultra Tra
+ il na Serra D’Ossa. Em 2022 regressamos para a nossa 3ª edição e lanç
+ amos o estímulo a todos para desafiar os limites. O Ultra Trail Rota D’O
+ ssa 2022 – Caravela Seguros é uma prova organizada pela Rota D’Ossa[..
+ ]\nhttps://www.portugalrunning.com/eventos/ultra-trail-rota-dossa-2022/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-rota-dossa-2022/
+END:VEVENT
+END:VCALENDAR

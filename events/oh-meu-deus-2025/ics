@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf279855
+DTSTAMP:20250720T222554Z
+DTSTART:20250606
+DTEND:20250607
+LOCATION:Seia\,  Guarda Seia\,  Guarda
+SUMMARY:Oh Meu Deus 2025
+DESCRIPTION:Este evento contará com 4 distâncias: OMD20\,  OMD50\,  OMD10
+ 0 e OMD160. A prova do OMD20 será no formato circular com partida e chegad
+ a em Seia\,  no sábado\,  dia 7 de Junho às 9 horas. A prova do OMD50 ser
+ á no formato linear com partida na Aldeia de Sazes da Beira[..]\nhttps://w
+ ww.portugalrunning.com/eventos/oh-meu-deus-2025/
+URL:https://www.portugalrunning.com/eventos/oh-meu-deus-2025/
+END:VEVENT
+END:VCALENDAR

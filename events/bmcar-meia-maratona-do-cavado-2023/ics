@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c25ac03a
+DTSTAMP:20250720T222229Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:BMcar Meia Maratona Do Cávado 2023
+DESCRIPTION:Se juntarmos o rio\,  o mar e a zona rural\,  as tradições\, 
+  a cultura e o artesanato\,  com uma população que está habituada\,  gos
+ ta e sabe receber\,  que é ativa em participar\,  conviver e bem viver\,  
+ com o hábito de assistir e aplaudir eventos desportivos e culturais\,  é 
+ fácil constatar[..]\nhttps://www.portugalrunning.com/eventos/bmcar-meia-ma
+ ratona-do-cavado-2023/
+URL:https://www.portugalrunning.com/eventos/bmcar-meia-maratona-do-cavado-2023/
+END:VEVENT
+END:VCALENDAR

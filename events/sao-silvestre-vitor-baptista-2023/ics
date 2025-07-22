@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2718b14
+DTSTAMP:20250720T222647Z
+DTSTART:20231208
+DTEND:20231209
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:São Silvestre Vitor Baptista 2023
+DESCRIPTION:A 3ª corrida São Silvestre Vítor Baptista é realizado no di
+ a 8 de Dezembro pela Associação Vítor Baptista\,  com o apoio da Câmara
+  Municipal da Lourinhã\,  da União de Freguesias de Lourinhã e Atalaia e
+  da Associação de Atletismo de Lisboa. A prova realiza-se em sistema de c
+ ircuito nas ruas[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre
+ -vitor-baptista-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vitor-baptista-2023/
+END:VEVENT
+END:VCALENDAR

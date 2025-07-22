@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7e492c7
+DTSTAMP:20250720T222814Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Trail Passadiços do Paiva 2023
+DESCRIPTION:O Passadiços do Paiva Ageas Seguros Skyrunning (PPASS) é uma 
+ prova de skyrunning\,  promovida pela Sportarc – Sport Clube de Arouca\, 
+  com organização a cargo da Sportarc e Município de Arouca. Os participa
+ ntes do PPASS terão oportunidade de correr/caminhar por trilhos inseridos 
+ na área envolvente aos passadiços do Paiva e[..]\nhttps://www.portugalrun
+ ning.com/eventos/trail-passadicos-do-paiva-2023/
+URL:https://www.portugalrunning.com/eventos/trail-passadicos-do-paiva-2023/
+END:VEVENT
+END:VCALENDAR

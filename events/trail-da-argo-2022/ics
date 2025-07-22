@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d47dc5b2
+DTSTAMP:20250720T222719Z
+DTSTART:20220701
+DTEND:20220702
+LOCATION:Esposende Esposende
+SUMMARY:Trail da Argo 2022
+DESCRIPTION:Uma organização da Associação Recreativa de Góios\,  o Tra
+ il da Argo 2022 é uma prova que se realiza ao longo dos montes de Esposend
+ e. A competição terá início e terminará junto da capela de S. Roque em
+  Góios. Mais informações e inscrições no site dedicado ao evento.\nhtt
+ ps://www.portugalrunning.com/eventos/trail-da-argo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-argo-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c087aebe
+DTSTAMP:20250720T222200Z
+DTSTART:20231015
+DTEND:20231016
+LOCATION:Pampilhosa\,  Mealhada Pampilhosa\,  Mealhada
+SUMMARY:4º Trail Solidário B. V. Pampilhosa 2023
+DESCRIPTION:4º Trail Solidário B. V. Pampilhosa 2023\nhttps://www.portuga
+ lrunning.com/eventos/4o-trail-solidario-b-v-pampilhosa-2023/
+URL:https://www.portugalrunning.com/eventos/4o-trail-solidario-b-v-pampilhosa-2023/
+END:VEVENT
+END:VCALENDAR

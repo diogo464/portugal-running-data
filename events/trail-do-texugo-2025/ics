@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65db233
+DTSTAMP:20250720T222749Z
+DTSTART:20250406
+DTEND:20250407
+LOCATION:Redondo\,  Évora Redondo\,  Évora
+SUMMARY:Trail do Texugo 2025
+DESCRIPTION:O Trail do Texugo é uma prova de Trail Running\,  corrida pede
+ stre em Natureza\,  com quatro distâncias\,  Trail Ultra (TU) K46+ \,  Tra
+ il Longo (TL) K31+ \,  Trail Sprint (TS) K17+ e Iniciação ao Trail 10Km. 
+ A prova terá início e fim na Aldeia da Serra D'Ossa percorrendo trilhos\,
+   estradões\, [..]\nhttps://www.portugalrunning.com/eventos/trail-do-texug
+ o-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-texugo-2025/
+END:VEVENT
+END:VCALENDAR

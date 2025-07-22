@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca74a214
+DTSTAMP:20250720T222439Z
+DTSTART:20220424
+DTEND:20220425
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:II Corrida Solidária AEISA 2022
+DESCRIPTION:A Associação dos Estudantes do Instituto Superior de Agronom
+ ia apresenta a “II Corrida Solidária AEISA 2022”\,  a realizar-se no�
+ �dia 24 de abril de 2022\,  com o apoio do ISA\,  CM-Lisboa\,  Junta de Fre
+ guesia da Ajuda\,  Junta de Freguesia de Alcântara\,  ADESL\,  FAL\,  ULis
+ boa\,  Mais Superior e Xistarca.\nhttps://www.portugalrunning.com/eventos/i
+ i-corrida-solidaria-aeisa-2022/
+URL:https://www.portugalrunning.com/eventos/ii-corrida-solidaria-aeisa-2022/
+END:VEVENT
+END:VCALENDAR

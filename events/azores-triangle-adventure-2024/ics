@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1f48f89
+DTSTAMP:20250720T222223Z
+DTSTART:20241025
+DTEND:20241026
+LOCATION:Açores Açores
+SUMMARY:Azores Triangle Adventure 2024
+DESCRIPTION:A Azores Triangle Adventure é uma emocionante prova de trail r
+ unning que se realiza ao longo de três dias\,  percorrendo três ilhas do 
+ Triângulo Açoriano: Ilha de São Jorge\,  Ilha do Pico e Ilha do Faial. A
+  corrida percorre uma distância total de mais de 86 quilómetros e oferece
+  vistas[..]\nhttps://www.portugalrunning.com/eventos/azores-triangle-advent
+ ure-2024/
+URL:https://www.portugalrunning.com/eventos/azores-triangle-adventure-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d47645ee
+DTSTAMP:20250720T222719Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Vila Pouca de Aguiar Vila Pouca de Aguiar\,  Vila Real
+SUMMARY:Trail CTM Vila Pouca de Aguiar 2023
+DESCRIPTION:O 8º Trail CTM Vila Pouca de Aguiar tem data marcada para o di
+ a 14 de maio de 2023. Provas: Trail Longo 30km\,  Trail Curto 17km e uma ca
+ minhada de 12km.\nhttps://www.portugalrunning.com/eventos/trail-ctm-vila-po
+ uca-de-aguiar-2023/
+URL:https://www.portugalrunning.com/eventos/trail-ctm-vila-pouca-de-aguiar-2023/
+END:VEVENT
+END:VCALENDAR

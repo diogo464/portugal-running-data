@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8349809
+DTSTAMP:20250720T222819Z
+DTSTART:20220424
+DTEND:20220425
+LOCATION:Cumeeira\,  Penela Cumeeira\,  Penela
+SUMMARY:Trail Rota da Broa 2022
+DESCRIPTION:O IV Trail Rota da Broa 2022 irá decorrer no lugar de Cumeeira
+  no próximo dia 24 de Abril de 2022 e servirá para promover a região e p
+ ermitir aos participantes a passagem por locais que normalmente só são ha
+ bitados por animais selvagens! Os percursos desenvolvem-se essencialmente p
+ or trilhos e[..]\nhttps://www.portugalrunning.com/eventos/trail-rota-da-bro
+ a-2022/
+URL:https://www.portugalrunning.com/eventos/trail-rota-da-broa-2022/
+END:VEVENT
+END:VCALENDAR

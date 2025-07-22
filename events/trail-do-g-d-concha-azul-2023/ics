@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5b92823
+DTSTAMP:20250720T222739Z
+DTSTART:20230319
+DTEND:20230320
+LOCATION:Leiria Leiria
+SUMMARY:Trail do Grupo Desportivo Concha Azul 2023
+DESCRIPTION:Este regulamento só deverá ser aplicado no evento “2º Trai
+ l do G. D. Concha Azul\,  organizado pelo&nbsp;Grupo Desportivo Concha Azul
+ \,  de&nbsp;São Martinho do Porto&nbsp;(doravante designado por GDCA). A p
+ romoção deste evento enquadra-se nos objetivos estatutários do GDCA\,  d
+ esignadamente\,  no fomento da prática de atividades físicas e estilos de
+  vida saudáveis[..]\nhttps://www.portugalrunning.com/eventos/trail-do-g-d-
+ concha-azul-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-g-d-concha-azul-2023/
+END:VEVENT
+END:VCALENDAR

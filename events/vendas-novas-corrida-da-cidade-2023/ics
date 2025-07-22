@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb49869
+DTSTAMP:20250720T222915Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+SUMMARY:Vendas Novas - Corrida Da Cidade 2023
+DESCRIPTION:Realiza-se no dia 21&nbsp;de Maio de 2023\,  a 28ª edição da
+  Corrida da Cidade de Vendas Novas. O evento será constituído pela corrid
+ a 10km\,  Corrida 5km\, &nbsp;&nbsp;Caminhada&nbsp; (prova de 4km sem class
+ ificação) e pela Corrida Jovem .\nhttps://www.portugalrunning.com/eventos
+ /vendas-novas-corrida-da-cidade-2023/
+URL:https://www.portugalrunning.com/eventos/vendas-novas-corrida-da-cidade-2023/
+END:VEVENT
+END:VCALENDAR

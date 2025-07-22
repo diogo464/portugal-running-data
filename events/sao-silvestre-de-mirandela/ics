@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17f3952
+DTSTAMP:20250720T222631Z
+DTSTART:20191221
+DTEND:20191222
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:São Silvestre de Mirandela
+DESCRIPTION:A São Silvestre mais animada de Trás-os-Montes está de volta
+ \,  com o tiro de partida marcado para dia 21 de dezembro pelas 18h. É um 
+ evento mítico na cidade onde o desporto se alia ao convívio e lazer\,  e 
+ nada melhor que terminar o ano de 2019 a fazeres o[..]\nhttps://www.portuga
+ lrunning.com/eventos/sao-silvestre-de-mirandela/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-mirandela/
+END:VEVENT
+END:VCALENDAR

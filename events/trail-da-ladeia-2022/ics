@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4930d02
+DTSTAMP:20250720T222721Z
+DTSTART:20221008
+DTEND:20221009
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Ladeia - Frutorra - 2022
+DESCRIPTION:O 7º Trail da Ladeia - Frutorra realizar-se-á no dia a 8 e 9 
+ de outubro de 2022 em Alvorge\,  Concelho de Ansião\,  Distrito de Leiria.
+  É constituído por 3 provas competitivas\,  uma caminhada e o Trail Kids.
+  O evento está integrado nas provas da Taça de Portugal da ATRP[..]\nhttp
+ s://www.portugalrunning.com/eventos/trail-da-ladeia-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-ladeia-2022/
+END:VEVENT
+END:VCALENDAR

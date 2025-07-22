@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d627a8
+DTSTAMP:20250720T222309Z
+DTSTART:20200705
+DTEND:20200706
+LOCATION:Avenida Norton de Matos\,  Matosinhos Avenida Norton de Matos\,  Matosinhos
+SUMMARY:Corrida Dia do Pai 2020
+DESCRIPTION:No dia 15 de março venha se juntar à emblemática Corrida do
+  Dia do Pai\,  prova que se realizará totalmente em Matosinhos. Novos perc
+ ursos e uma nova partida e chegada marcam a 17.ª edição que contará com
+  uma corrida cronometrada de 10 km e uma caminhada com 5 km. Aceite este
+  desafio e traga[..]\nhttps://www.portugalrunning.com/eventos/corrida-dia-d
+ o-pai-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-dia-do-pai-2020/
+END:VEVENT
+END:VCALENDAR

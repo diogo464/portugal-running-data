@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c18ac293
+DTSTAMP:20250720T222216Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Amares\,  Braga Amares\,  Braga
+SUMMARY:Amares Trail 2023
+DESCRIPTION:O Amares Trail é uma corrida realizada em Amares\,  no distrit
+ o de Braga\,  por percursos de natureza deslumbrante com diferentes níveis
+  de dificuldade que poderão variar consoante os terrenos. O regresso de um
+ a prova há muito esperada.\nhttps://www.portugalrunning.com/eventos/amares
+ -trail-2023/
+URL:https://www.portugalrunning.com/eventos/amares-trail-2023/
+END:VEVENT
+END:VCALENDAR

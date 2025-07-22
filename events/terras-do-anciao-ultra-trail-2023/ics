@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d349339e
+DTSTAMP:20250720T222700Z
+DTSTART:20230312
+DTEND:20230313
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Terras do Ancião Ultra Trail 2023
+DESCRIPTION:O TAUT – Terras do Ancião Ultra Trail é organizado pela ANS
+ IBIKERS - Associação Praticantes de BTT\,  com o apoio do Município de A
+ nsião\,  Junta de Freguesia de Ansião\,  Pousaflores\,  Santiago da Guard
+ a e Alvorge.O TAUT – É um evento desportivo de carater lúdico e competi
+ tivo que tem por objetivo[..]\nhttps://www.portugalrunning.com/eventos/terr
+ as-do-anciao-ultra-trail-2023/
+URL:https://www.portugalrunning.com/eventos/terras-do-anciao-ultra-trail-2023/
+END:VEVENT
+END:VCALENDAR

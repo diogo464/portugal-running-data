@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3adbd45
+DTSTAMP:20250720T222250Z
+DTSTART:20240601
+DTEND:20240602
+LOCATION:Gandra\,  Paredes Gandra\,  Paredes
+SUMMARY:Corrida Cidade de Gandra 2024
+DESCRIPTION:Realiza-se no dia 01 de junho de 2024\,  com saída às 19h00mi
+ n da Corrida Cidade de Gandra com partidana Avenida Central Gandra.\nhttps:
+ //www.portugalrunning.com/eventos/corrida-cidade-de-gandra-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-gandra-2024/
+END:VEVENT
+END:VCALENDAR

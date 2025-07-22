@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3c613ac
+DTSTAMP:20250720T222252Z
+DTSTART:20220709
+DTEND:20220710
+LOCATION:Santiago do Cacém Santiago do Cacém\,  Setubal
+SUMMARY:Corrida Da Lagoa de Santo André 2022
+DESCRIPTION:A Junta de Freguesia de Santo André irá realizar a “25ª C
+ orrida Da Lagoa de Santo André 2022”\,  no dia 09 de Julho 2022\,  em S
+ anto André. É um evento de natureza desportiva que tem como objetivo ince
+ ntivar e consciencializar a população para a importância da prática de 
+ exercício físico que inclui 2[..]\nhttps://www.portugalrunning.com/event
+ os/corrida-da-lagoa-de-santo-andre-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-lagoa-de-santo-andre-2022/
+END:VEVENT
+END:VCALENDAR

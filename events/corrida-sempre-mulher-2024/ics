@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f92a87
+DTSTAMP:20250720T222343Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Parque das Nações\,  Lisboa Parque das Nações\,  Lisboa
+SUMMARY:Corrida Sempre Mulher 2024 - Outubro
+DESCRIPTION:A Associação Portuguesa de Apoio à Mulher com Cancro da Mama
+ \,  em parceria com Câmara Municipal de Lisboa e com o apoio técnico da S
+ ports High Performance e da Azores Sports Leader vai realizar no dia 20 de
+  outubro de 2024\,  com início às 10h30m\,  a "HERBALIFE CORRIDA SEMPRE 
+ MULHER"\,  prova com[..]\nhttps://www.portugalrunning.com/eventos/corrida-s
+ empre-mulher-2024-outubro/
+URL:https://www.portugalrunning.com/eventos/corrida-sempre-mulher-2024-outubro/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4e48d15
+DTSTAMP:20250720T222310Z
+DTSTART:20200202
+DTEND:20200203
+LOCATION:Parque das Nações\,  Lisboa Parque das Nações\,  Lisboa
+SUMMARY:Corrida do Amigo - Pet Festival
+DESCRIPTION:A  "IV Corrida do Amigo"\,  é um evento de natureza solidári
+ a e desportiva que terá lugar no Parque das Nações\,  numa organização
+  da WeRun. Tem como objetivo pôr os animais de estimação a correr /camin
+ har lado a lado com os seus donos. Vem juntar a família e ter um dia[..]\n
+ https://www.portugalrunning.com/eventos/corrida-do-amigo-pet-festival/
+URL:https://www.portugalrunning.com/eventos/corrida-do-amigo-pet-festival/
+END:VEVENT
+END:VCALENDAR

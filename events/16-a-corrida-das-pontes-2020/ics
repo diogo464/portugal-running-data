@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf44aa16
+DTSTAMP:20250720T222140Z
+DTSTART:20200531
+DTEND:20200601
+LOCATION:Coruche Coruche\,  Santarém
+SUMMARY:16.ª Corrida das Pontes 2020
+DESCRIPTION:O Serviço Desporto do Município de Coruche\,  com a colabora�
+ �ão técnica do Trilho Perdido\,  levam a efeito no próximo dia 31 de mai
+ o\,  a 16.ª Corrida das Pontes\,  com uma extensão de 10 km\,  e a 16.
+ ª Corrida da Família/Caminhada com uma distância de 3 km. A Corrida da
+  Família\,  destinada a todos os que[..]\nhttps://www.portugalrunning.com/
+ eventos/16-a-corrida-das-pontes-2020/
+URL:https://www.portugalrunning.com/eventos/16-a-corrida-das-pontes-2020/
+END:VEVENT
+END:VCALENDAR

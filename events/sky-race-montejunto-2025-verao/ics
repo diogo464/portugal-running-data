@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3030ea8
+DTSTAMP:20250720T222656Z
+DTSTART:20250518
+DTEND:20250519
+LOCATION:Montejunto\,  Cadaval Montejunto\,  Cadaval
+SUMMARY:Sky Race Montejunto 2025 Verão
+DESCRIPTION:&nbsp;\nhttps://www.portugalrunning.com/eventos/sky-race-montej
+ unto-2025-verao/
+URL:https://www.portugalrunning.com/eventos/sky-race-montejunto-2025-verao/
+END:VEVENT
+END:VCALENDAR

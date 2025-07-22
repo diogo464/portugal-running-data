@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a00fe2
+DTSTAMP:20250720T222842Z
+DTSTART:20220103
+DTEND:20220104
+LOCATION:Cabroelo\,  Penafiel Cabroelo\,  Penafiel\,  Porto
+SUMMARY:Trail Volta às Origens 2022
+DESCRIPTION:O Trail Volta às Origens 2022ta às Origens é uma prova de av
+ entura percorrida em trilhos sinalizados\,  pequenos estradões\,  ou estra
+ das\,  visando percorrer todo o percurso no menor tempo possível. Um event
+ o a não perder\,  com organização da Associação Desportiva de Cabroelo
+ \,  em Capela (Penafiel).\nhttps://www.portugalrunning.com/eventos/trail-vo
+ lta-as-origens-2022/
+URL:https://www.portugalrunning.com/eventos/trail-volta-as-origens-2022/
+END:VEVENT
+END:VCALENDAR

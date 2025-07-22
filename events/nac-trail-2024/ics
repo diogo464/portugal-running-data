@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cee007ce
+DTSTAMP:20250720T222550Z
+DTSTART:20240922
+DTEND:20240923
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:NAC Trail 2024
+DESCRIPTION:O Núcleo de Atletismo de Cucujães é o Organizador de uma pro
+ va com partida e chegada no centro de treinos\,  percorrendo trilhos do mun
+ icípio de Oliveira de Azeméis.O evento está integrado no Circuito Concel
+ hio de Trail Running de Oliveira de Azeméis\,  contando para a sua classif
+ icação.\nhttps://www.portugalrunning.com/eventos/nac-trail-2024/
+URL:https://www.portugalrunning.com/eventos/nac-trail-2024/
+END:VEVENT
+END:VCALENDAR

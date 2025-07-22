@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c08dc6df
+DTSTAMP:20250720T222200Z
+DTSTART:20230527
+DTEND:20230528
+LOCATION:Benedita\,  Alcobaça Benedita\,  Alcobaça
+SUMMARY:5° Grande Prémio Da Benedita 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/5-grande-premio-da-be
+ nedita-2023/
+URL:https://www.portugalrunning.com/eventos/5-grande-premio-da-benedita-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8791edc
+DTSTAMP:20250720T222823Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Évora Évora
+SUMMARY:Trail Rota Megalitica 2024
+DESCRIPTION:É uma organização conjunta entre o Grupo Desportivo e Recrea
+ tivo de Guadalupe e a União deFreguesias de Nossa Senhora da Tourega e Nos
+ sa Senhora de Guadalupe. Trail Curto – +/- 13KmTrail Sprint – +/-22kmCa
+ minhada – 10km\nhttps://www.portugalrunning.com/eventos/trail-rota-megali
+ tica-2024/
+URL:https://www.portugalrunning.com/eventos/trail-rota-megalitica-2024/
+END:VEVENT
+END:VCALENDAR

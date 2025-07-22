@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c074a100
+DTSTAMP:20250720T222159Z
+DTSTART:20230501
+DTEND:20230502
+LOCATION:Lisboa Lisboa
+SUMMARY:40 Anos – Corrida 1º De Maio 2023
+DESCRIPTION:As avenidas de Lisboa voltam a ser no dia 1 de Maio 2023\,  o p
+ alco para a tradicional Corrida Internacional 1º de Maio\,  promovida pela
+  União dos Sindicatos de Lisboa / CGTP\,  prova que anualmente\,  reúne m
+ ais de um milhar de atletas e amantes do desporto. Corrida 15 km |[..]\nhtt
+ ps://www.portugalrunning.com/eventos/40-anos-corrida-1o-de-maio-2023/
+URL:https://www.portugalrunning.com/eventos/40-anos-corrida-1o-de-maio-2023/
+END:VEVENT
+END:VCALENDAR

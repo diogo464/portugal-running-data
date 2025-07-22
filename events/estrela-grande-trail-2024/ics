@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8aac7cf
+DTSTAMP:20250720T222410Z
+DTSTART:20240510
+DTEND:20240511
+LOCATION:Manteigas\,  Guarda Manteigas\,  Guarda
+SUMMARY:Estrela Grande Trail 2024
+DESCRIPTION:Seja para correr\,  para caminhar\,  para acompanhar atletas ou
+  simplesmente para conhecer ourealizar um programa diferente na Serra da Es
+ trela\,  a organização do EGT apresenta argumentospara que ninguém falte
+  à chamada nos dias 10\,  11 e 12 de maio\,  com partida agendada emMantei
+ gas. Distâncias: 100\,  49\,  26\,  15 km\nhttps://www.portugalrunning.com
+ /eventos/estrela-grande-trail-2024/
+URL:https://www.portugalrunning.com/eventos/estrela-grande-trail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61aabf6
+DTSTAMP:20250720T222745Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Belmonte\,  Castelo Branco Belmonte\,  Castelo Branco
+SUMMARY:Trail dos Descobrimentos 2023
+DESCRIPTION:No dia 28 de Maio de 2023 a Câmara Municipal de Belmonte organ
+ izará a segunda edição do Trail dos Descobrimentos. Com início e fim no
+  histórico Castelo de Belmonte\,  o evento será composto por um Trail Cur
+ to de 20/25km. Os participantes no Trail dos Descobrimentos terão a oportu
+ nidade de correr[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-des
+ cobrimentos-2023/
+URL:https://www.portugalrunning.com/eventos/trail-dos-descobrimentos-2023/
+END:VEVENT
+END:VCALENDAR

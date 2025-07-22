@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da761c8e
+DTSTAMP:20250720T222855Z
+DTSTART:20210904
+DTEND:20210905
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trilhos do Paleozóico 2021
+DESCRIPTION:Evento de Trail Running que terá lugar em Valongo no dia 4 e 5
+  de setembro de 2021\,  na serra de Santa Justa\,  serra da Pia e serra do 
+ Castiçal.Distâncias:Ultra Trilho Paleozóico - 48 kmTrilho Paleozóico - 
+ 23 kmMiniTrilhos / Caminhada Paleozóico - 12 kmTrail dos Pequenino\nhttps:
+ //www.portugalrunning.com/eventos/trilhos-do-paleozoico-2021/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-paleozoico-2021/
+END:VEVENT
+END:VCALENDAR

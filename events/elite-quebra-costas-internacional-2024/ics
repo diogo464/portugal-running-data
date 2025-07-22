@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c870045b
+DTSTAMP:20250720T222407Z
+DTSTART:20240316
+DTEND:20240317
+LOCATION:Coimbra Coimbra
+SUMMARY:Elite Quebra Costas Internacional 2024
+DESCRIPTION:Prova de resistência\,  subida Arco da Almedina – Universida
+ de\,  cujo objetivo é percorrer o percurso de 500 metros\,  com desnível 
+ positivo de aproximadamente 113 metros e um declive médio de sensivelmente
+  14\, 1%. Os participantes terão de envergar equipamento de proteção ind
+ ividual (EPI) urbano completo\,  no menor tempo possível.\nhttps://www.por
+ tugalrunning.com/eventos/elite-quebra-costas-internacional-2024/
+URL:https://www.portugalrunning.com/eventos/elite-quebra-costas-internacional-2024/
+END:VEVENT
+END:VCALENDAR

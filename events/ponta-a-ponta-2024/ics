@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfbdbdc0
+DTSTAMP:20250720T222603Z
+DTSTART:20240427
+DTEND:20240428
+LOCATION:Ilha de São Jorge\,  Açores Ilha de São Jorge\,  Açores
+SUMMARY:São Jorge de Ponta a Ponta 2024
+DESCRIPTION:No dia 27 de Abril de 2024\,  terá lugar a IX Edição do even
+ to “São Jorge de Ponta a Ponta” na ilha de São Jorge no arquipélago 
+ dos Açores. Trata-se da travessia longitudinal da ilha de São Jorge - Aç
+ ores\,  com início no extremo Ocidental da ilha e final no[..]\nhttps://ww
+ w.portugalrunning.com/eventos/ponta-a-ponta-2024/
+URL:https://www.portugalrunning.com/eventos/ponta-a-ponta-2024/
+END:VEVENT
+END:VCALENDAR

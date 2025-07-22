@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f7adfe
+DTSTAMP:20250720T222343Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Parque das Nações\,  Lisboa Parque das Nações\,  Lisboa
+SUMMARY:Corrida Sempre Mulher 2022
+DESCRIPTION:No dia 13 de Novembro 2022 junte-se a nós e venha andar ou co
+ rrer 5km por uma boa causa. Inscreva-se já e passe uma manhã saudável e 
+ inesquecível!\nhttps://www.portugalrunning.com/eventos/corrida-sempre-mulh
+ er-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-sempre-mulher-2022/
+END:VEVENT
+END:VCALENDAR

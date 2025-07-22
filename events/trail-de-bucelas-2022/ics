@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50c4ddd
+DTSTAMP:20250720T222728Z
+DTSTART:20220410
+DTEND:20220411
+LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+SUMMARY:Trail De Bucelas 2022
+DESCRIPTION:Trail De Bucelas 2022\nhttps://www.portugalrunning.com/eventos/
+ trail-de-bucelas-2022/
+URL:https://www.portugalrunning.com/eventos/trail-de-bucelas-2022/
+END:VEVENT
+END:VCALENDAR

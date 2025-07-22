@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d77013ac
+DTSTAMP:20250720T222807Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Arnoso\,  Vila Nova de Famalicão Arnoso\,  Vila Nova de Famalicão
+SUMMARY:Trail Mosteiro de Arnoso 2022
+DESCRIPTION:O Trail Mosteiro de Arnoso\,  é uma organização da associaç
+ ão Quebraritmo e surge no âmbito de um grupo de atletas da associação d
+ ivulgar os encantos e beleza natural dos trilhos e caminhos das freguesias 
+ de Arnoso Santa Eulália e Santa Maria\,  Nine\,  Jesufrei\,  Couto de Camb
+ eses\,  Arentim\,  Ruilhe e Tebosa\, [..]\nhttps://www.portugalrunning.com/
+ eventos/trail-mosteiro-de-arnoso-2022/
+URL:https://www.portugalrunning.com/eventos/trail-mosteiro-de-arnoso-2022/
+END:VEVENT
+END:VCALENDAR

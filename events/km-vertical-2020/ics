@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb1f3abe
+DTSTAMP:20250720T222449Z
+DTSTART:20200315
+DTEND:20200316
+LOCATION:Serra de Bornes\,  Alfândega da Fé Serra de Bornes\,  Alfândega da Fé
+SUMMARY:KM Vertical 2020
+DESCRIPTION:Corrida única e especial\,  num percurso sempre em ascensão\,
+   com quase 1.000 metros de desnível positivo ao longo de 10 Km. A subida 
+ da Serra de Bornes é um desafio às tuas capacidades\,  que em comunhão c
+ om as paisagens únicas da Serra de Bornes tornarão esta experiência memo
+ rável. E no[..]\nhttps://www.portugalrunning.com/eventos/km-vertical-2020/
+URL:https://www.portugalrunning.com/eventos/km-vertical-2020/
+END:VEVENT
+END:VCALENDAR

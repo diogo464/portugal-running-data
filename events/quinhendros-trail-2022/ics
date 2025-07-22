@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0518f65
+DTSTAMP:20250720T222613Z
+DTSTART:20220911
+DTEND:20220912
+LOCATION:Quinhendros\,  Montemor-o-Velho Quinhendros\,  Montemor-o-Velho
+SUMMARY:Quinhendros Trail 2022
+DESCRIPTION:O QUINHENDROS TRAIL 2022 é uma organização da ACDRS QUINHE
+ NDROS que pretende afirmar-se como uma prova desportiva de referência no C
+ IRCUITO DISTRITAL DE TRAIL RUNNING DE COIMBRA na categoria de TRAIL CURTO e
+  TRAIL LONGO. Realiza-se no dia&nbsp;11 SETEMBRO DE 2022\,  na localidade d
+ e QUINHENDROS\,  concelho de MONTEMOR-O-VELHO\,  o QUINHENDROS TRAIL 2002[.
+ .]\nhttps://www.portugalrunning.com/eventos/quinhendros-trail-2022/
+URL:https://www.portugalrunning.com/eventos/quinhendros-trail-2022/
+END:VEVENT
+END:VCALENDAR

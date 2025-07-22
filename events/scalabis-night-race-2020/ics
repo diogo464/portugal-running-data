@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2700260
+DTSTAMP:20250720T222647Z
+DTSTART:20200418
+DTEND:20200419
+LOCATION:Santarém Santarém
+SUMMARY:Scalabis Night Race 2020
+DESCRIPTION:A Associação Scalabis Night Runners Club vai realizar\,  no d
+ ia 18 de abril\,  em Santarém\,  a Scalabis Night Race 2020\,  uma Corri
+ da Noturna de 10 km com um percurso urbano constituído por uma volta úni
+ ca e sem desníveis consideráveis. Paralelamente também irá decorrer uma
+  "Mini Race" de 5 km sem caráter competitivo. Todas as provas[..]\nhttps
+ ://www.portugalrunning.com/eventos/scalabis-night-race-2020/
+URL:https://www.portugalrunning.com/eventos/scalabis-night-race-2020/
+END:VEVENT
+END:VCALENDAR

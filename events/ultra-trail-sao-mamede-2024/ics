@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db717fe7
+DTSTAMP:20250720T222911Z
+DTSTART:20240426
+DTEND:20240427
+LOCATION:Portalegre Portalegre
+SUMMARY:Ultra Trail São Mamede 2024
+DESCRIPTION:.\nhttps://www.portugalrunning.com/eventos/ultra-trail-sao-mame
+ de-2024/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-sao-mamede-2024/
+END:VEVENT
+END:VCALENDAR

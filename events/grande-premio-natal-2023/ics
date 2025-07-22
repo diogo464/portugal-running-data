@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca148bcb
+DTSTAMP:20250720T222433Z
+DTSTART:20231210
+DTEND:20231211
+LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
+SUMMARY:Grande Prémio Natal 2023
+DESCRIPTION:No dia 10 de dezembro de 2023 irá realizar-se o 64º Grande Pr
+ émio Natal\,  que se caracteriza por ser realizado na quadra natalícia\, 
+  pelo percurso fácil que atravessa as principais artérias da cidade de Li
+ sboa.É um evento de corrida de estrada\,  com a distância de 10.000 metro
+ s\,  uma caminhada de[..]\nhttps://www.portugalrunning.com/eventos/grande-p
+ remio-natal-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-natal-2023/
+END:VEVENT
+END:VCALENDAR

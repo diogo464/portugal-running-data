@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d137a094
+DTSTAMP:20250720T222627Z
+DTSTART:20221218
+DTEND:20221219
+LOCATION:Amares\,  Braga Amares\,  Braga
+SUMMARY:São Silvestre de Amares 2022
+DESCRIPTION:A São Silvestre de Amares está de regresso com partida e cheg
+ ada no Largo D. Gualdim Pais. Venha correr ou se preferir caminhar (5 Km) o
+ u trazer a sua criança para a São Silvestre da Pequenada.\nhttps://www.po
+ rtugalrunning.com/eventos/sao-silvestre-de-amares-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-amares-2022/
+END:VEVENT
+END:VCALENDAR

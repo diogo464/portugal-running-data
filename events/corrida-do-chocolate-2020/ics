@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5219344
+DTSTAMP:20250720T222314Z
+DTSTART:20200425
+DTEND:20200426
+LOCATION:Óbidos Óbidos
+SUMMARY:Corrida do Chocolate 2020
+DESCRIPTION:O Clube de Atletismo de Óbidos (CAOB) organiza em parceria com
+  a Empresa Municipal “Óbidos Criativa” (OC) e a Câmara Municipal de �
+ �bidos (CMO)\,  no dia 25 de abril de 2020\,  uma competição denominada "
+ III CORRIDA DO CHOCOLATE"\,  integrando ainda a “II CAMINHADA DO CHOCOLAT
+ E” e as corridas jovem “Milha[..]\nhttps://www.portugalrunning.com/even
+ tos/corrida-do-chocolate-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-do-chocolate-2020/
+END:VEVENT
+END:VCALENDAR

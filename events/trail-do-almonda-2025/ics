@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5500051
+DTSTAMP:20250720T222733Z
+DTSTART:20250518
+DTEND:20250519
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:Trail do Almonda 2025
+DESCRIPTION:TRAIL DO ALMONDA é uma prova de aventura percorrida em trilhos
+  sinalizados\,  de pé posto\,  pequenos estradões\,  ou estradas\,  em au
+ tonomia pedestre\,  visando percorrer todo o percurso no menor tempo possí
+ vel\,  a disputar a 18 de maio de 2025\,  e visando a promoção e divulga�
+ �ão turística e ambiental desta região[..]\nhttps://www.portugalrunning.
+ com/eventos/trail-do-almonda-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-almonda-2025/
+END:VEVENT
+END:VCALENDAR

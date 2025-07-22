@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d32533
+DTSTAMP:20250720T222741Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Trail do Marco 2024
+DESCRIPTION:O Trail do Marco\,  que nasceu em 2022\,  retorna em 2024 para 
+ a sua terceira edição\, consolidando-se como um dos eventos desportivos m
+ ais esperados na região de Marco deCanaveses. Organizado pela Associação
+  Desportiva do Marco 09\,  com o apoio do Municípiode Marco de Canaveses\,
+   Juntas de Freguesia de Marco\,  Tabuado\,  Soalhães[..]\nhttps://www.por
+ tugalrunning.com/eventos/trail-do-marco-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-marco-2024/
+END:VEVENT
+END:VCALENDAR

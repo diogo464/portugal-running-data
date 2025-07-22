@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f4d699
+DTSTAMP:20250720T222255Z
+DTSTART:20210912
+DTEND:20210913
+LOCATION:Santos\,  Lisboa Santos\,  Lisboa
+SUMMARY:Corrida da Mulher 2021
+DESCRIPTION:Todos os dias somos confrontados com casos de pessoas que perde
+ mos numa luta desigual\,  contra uma doença cobarde que se manifesta de mu
+ itas formas.&nbsp;A Corrida da Mulher “EDP Lisboa a Mulher e a Vida”\, 
+  antes de ser uma prova de atletismo\,  é um ato de cidadania em que o obj
+ etivo[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-mulher-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c61364
+DTSTAMP:20250720T222636Z
+DTSTART:20191223
+DTEND:20191224
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:São Silvestre Famalicão
+DESCRIPTION:Com a época natalícia como pano de fundo\,  a magia do evento
+  constrói-se ao longo de todo o circuito com a iluminação de Natal.\nhtt
+ ps://www.portugalrunning.com/eventos/sao-silvestre-famalicao/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-famalicao/
+END:VEVENT
+END:VCALENDAR

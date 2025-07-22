@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8392b57
+DTSTAMP:20250720T222819Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Águeda Águeda
+SUMMARY:Trail Rota das Fontes 2022
+DESCRIPTION:O Trail Rota das Fontes 2022 conta para o Troféu Trail Terras 
+ de Águeda\,  esta etapa de trail em Castanheira do Vouga volta a trazer a 
+ alegria do trail running através da Associação Humanitária local. O eve
+ nto faz parte do Troféu Trail Terras de Águeda.\nhttps://www.portugalrunn
+ ing.com/eventos/trail-rota-das-fontes-2022/
+URL:https://www.portugalrunning.com/eventos/trail-rota-das-fontes-2022/
+END:VEVENT
+END:VCALENDAR

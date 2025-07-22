@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65c3890
+DTSTAMP:20250720T222749Z
+DTSTART:20250920
+DTEND:20250921
+LOCATION:São Miguel\,  Açores São Miguel\,  Açores
+SUMMARY:Trail dos Morcegos 2025
+DESCRIPTION:A IX edição do Trail dos Morcegos by Mitsubishi Motors é um 
+ evento de Trail Running\,  que percorre trilhos e caminhos do concelho de P
+ onta Delgada. Integra 6 provas com 4 percursos: o TdM Trail – 33\, 7 km /
+  1660 d+ / 1620 d-\,  o TdM Sprint – 21\, 1 km[..]\nhttps://www.portugalr
+ unning.com/eventos/trail-dos-morcegos-2025/
+URL:https://www.portugalrunning.com/eventos/trail-dos-morcegos-2025/
+END:VEVENT
+END:VCALENDAR

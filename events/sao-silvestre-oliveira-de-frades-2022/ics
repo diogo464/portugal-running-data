@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2161a40
+DTSTAMP:20250720T222641Z
+DTSTART:20221217
+DTEND:20221218
+LOCATION:Oliveira de Frades\,  Viseu Oliveira de Frades\,  Viseu
+SUMMARY:Sao Silvestre Oliveira De Frades 2022
+DESCRIPTION:A Associação Académica Santa Cruz\,  em parceria com o Munic
+ ípio\,  promove no próximo dia 17 de dezembro\,  a 1ª S. Silvestre - Cor
+ rida/Caminhada\,  cujo percurso\,  com cerca de 10 km\,  começa em Santa C
+ ruz (Arcozelo das Maias) e termina em Oliveira de Frades. Existem duas opç
+ ões de participação: corrida 10km[..]\nhttps://www.portugalrunning.com/e
+ ventos/sao-silvestre-oliveira-de-frades-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-oliveira-de-frades-2022/
+END:VEVENT
+END:VCALENDAR

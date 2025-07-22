@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd0dbaad
+DTSTAMP:20250720T222520Z
+DTSTART:20220508
+DTEND:20220509
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona de Lisboa 2022
+DESCRIPTION:Perante a situação pandémica atual e após consultar as auto
+ ridades de saúde\,  foi decidido adiar a EDP Meia Maratona de Lisboa e as 
+ respetivas provas para o dia 8 de Maio de 2022.As inscrições já realizad
+ as foram automaticamente transferidas para a nova data\,  tendo sido enviad
+ o um email para todos[..]\nhttps://www.portugalrunning.com/eventos/meia-mar
+ atona-de-lisboa-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-lisboa-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c38dbb88
+DTSTAMP:20250720T222248Z
+DTSTART:20230917
+DTEND:20230918
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Corrida Cidade de Faro 2023
+DESCRIPTION:A 3.ª Corrida Cidade de Faro é organizada pelos Tugas On Tour
+  Associação Desportiva em coorganização com a Câmara Municipal de Faro
+  e a União de Freguesias de Faro. A prova realiza-se no dia 17 de setembro
+  de 2023\,  pelas 9\, 45h. Será efetuado uma caminhada\,  o percurso é mi
+ sto (asfalto[..]\nhttps://www.portugalrunning.com/eventos/corrida-cidade-de
+ -faro-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-faro-2023/
+END:VEVENT
+END:VCALENDAR

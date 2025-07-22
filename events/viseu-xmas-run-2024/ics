@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc317cb2
+DTSTAMP:20250720T222923Z
+DTSTART:20241222
+DTEND:20241223
+LOCATION:Viseu Viseu
+SUMMARY:Viseu XMAS Run 2024
+DESCRIPTION:O Viseu XMAS RUN é um evento desportivo 100% solidário\,  pro
+ movido pelo Município de Viseu\,  e que pretende contar com o envolvimento
+  de toda a comunidade Viseense no apoio a crianças e jovens mais vulneráv
+ eis\,  do concelho de Viseu. O resultado do valor angariado\,  com as inscr
+ ições na Corrida e[..]\nhttps://www.portugalrunning.com/eventos/viseu-xma
+ s-run-2024/
+URL:https://www.portugalrunning.com/eventos/viseu-xmas-run-2024/
+END:VEVENT
+END:VCALENDAR

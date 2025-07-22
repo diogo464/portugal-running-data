@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf761d05
+DTSTAMP:20250720T222559Z
+DTSTART:20230312
+DTEND:20230313
+LOCATION:Alcobaça\,  Leiria Alcobaça\,  Leiria
+SUMMARY:Palmilhar A Freguesia 2023
+DESCRIPTION:A Junta de Freguesia de Évora de Alcobaça vai realizar no pr�
+ �ximo dia 12 de Março de 2022 um evento denominado "Palmilhar a Freguesia"
+ . O Palmilhar a Freguesia é um evento convívio de Trail Running\,  que de
+ corre no Concelho de Alcobaça\,  Freguesia de Évora de Alcobaça e que in
+ tegra três[..]\nhttps://www.portugalrunning.com/eventos/palmilhar-a-fregue
+ sia-2023/
+URL:https://www.portugalrunning.com/eventos/palmilhar-a-freguesia-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d6187f
+DTSTAMP:20250720T222741Z
+DTSTART:20220612
+DTEND:20220613
+LOCATION:Riachos\,  Torres novas Riachos\,  Torres Novas
+SUMMARY:Trail do Padroeiro 2022
+DESCRIPTION:O IV Trail do Padroeiro 2022\,  em Riachos\,  realiza-se no dia
+  12 de Junho de 2022. Tal como as edições anteriores está integrado na F
+ esta do Padroeiro de Riachos – Santo António\,  estando integrado no pro
+ grama oficial da mesma. O evento é promovido e organizado em parceria pela
+  RIAXOS RUNNERS[..]\nhttps://www.portugalrunning.com/eventos/trail-do-padro
+ eiro-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-padroeiro-2022/
+END:VEVENT
+END:VCALENDAR

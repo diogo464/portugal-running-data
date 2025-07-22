@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c4a876
+DTSTAMP:20250720T222636Z
+DTSTART:20191229
+DTEND:20191230
+LOCATION:Olivais\,  Lisboa Olivais\,  Lisboa
+SUMMARY:São Silvestre dos Olivais
+DESCRIPTION:31ª São Silvestre dos Olivais - 29 Dezembro – 19:00 horas -
+  Olivais. DISTÂNCIA E PERCURSO A prova inclui uma Mini São Silvestre com 
+ uma extensão máxima de 1200m a partir das 18:00h\,  uma corrida na extens
+ ão de 10km com partida pelas 19:00Horas e um Caminhada na extensão aproxi
+ mada de[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-dos-oliv
+ ais/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-dos-olivais/
+END:VEVENT
+END:VCALENDAR

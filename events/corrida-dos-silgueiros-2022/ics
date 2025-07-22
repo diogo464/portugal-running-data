@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b7a5e2
+DTSTAMP:20250720T222323Z
+DTSTART:20221002
+DTEND:20221003
+LOCATION:Silgueiros\,  Viseu Silgueiros\,  Viseu
+SUMMARY:30ª Corrida de Silgueiros 2022
+DESCRIPTION:30ª edição da mítica Corrida dos Silgueiros\,  corrida de e
+ strada em pleno coração dos vinhos do Dão\,  vai realizar-se no mês de 
+ Outubro\,  onde os sabores e tradições esperam por ti!\nhttps://www.portu
+ galrunning.com/eventos/corrida-dos-silgueiros-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-silgueiros-2022/
+END:VEVENT
+END:VCALENDAR

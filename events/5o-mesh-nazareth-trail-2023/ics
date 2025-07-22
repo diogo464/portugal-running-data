@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c09622ee
+DTSTAMP:20250720T222201Z
+DTSTART:20230501
+DTEND:20230502
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:5º Mesh Nazareth Trail 2023
+DESCRIPTION:O 5º Mesh Nazareth Trail é organizado pela Mesh Nazareth-Asso
+ ciação de Solidariedade Social\,  e&nbsp;consiste numa corrida e caminhad
+ a de montanha a realizar no dia 01 de Maio de 2023. O 5º Mesh Nazareth Tra
+ il consistirá em quatro provas: Caminhada&nbsp;(+/- 10K); Mini Trail (+/- 
+ 10K); Trail Curto&nbsp;(+/- 15K); Trail Longo (+/-[..]\nhttps://www.portuga
+ lrunning.com/eventos/5o-mesh-nazareth-trail-2023/
+URL:https://www.portugalrunning.com/eventos/5o-mesh-nazareth-trail-2023/
+END:VEVENT
+END:VCALENDAR

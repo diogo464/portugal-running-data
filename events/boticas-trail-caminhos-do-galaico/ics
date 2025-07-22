@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c26304d4
+DTSTAMP:20250720T222230Z
+DTSTART:20200531
+DTEND:20200601
+LOCATION:Boticas\,  Vila Real Boticas\,  Vila Real
+SUMMARY:Boticas Trail - Caminhos do Galaico
+DESCRIPTION:Numa terra cheia de encantos e recantos por descobrir\,  aprese
+ ntamos a 4ª edição do Boticas Trail - Caminhos do Galaico um prova onde 
+ o conceito de família\,  o espírito de equipa\,  a ruralidade\,  a nature
+ za e a genuinidade da nossa cultura marcam a diferença. Venha conhecer o r
+ eino do Guerrerio[..]\nhttps://www.portugalrunning.com/eventos/boticas-trai
+ l-caminhos-do-galaico/
+URL:https://www.portugalrunning.com/eventos/boticas-trail-caminhos-do-galaico/
+END:VEVENT
+END:VCALENDAR

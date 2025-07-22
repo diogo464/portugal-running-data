@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcac2af2
+DTSTAMP:20250720T222930Z
+DTSTART:20230917
+DTEND:20230918
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:XII Trilhos Dos Templários 2023
+DESCRIPTION:A XII Edição dos Trilhos dos Templários 2023\,  contextualiz
+ a-se na vontade de dar a possibilidade a todosos atletas de poder usufruir 
+ de trilhos fantásticos no centro de Portugal\,  em Santa Cita\,  Tomar\,  
+ num percursoaperfeiçoado e adaptado ao longo dos últimos anos acessíveis
+  a todos os participantes\,  que incluipassagens por caminhos[..]\nhttps://
+ www.portugalrunning.com/eventos/xii-trilhos-dos-templarios-2023/
+URL:https://www.portugalrunning.com/eventos/xii-trilhos-dos-templarios-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6eaa716
+DTSTAMP:20250720T222758Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Dornes\,  Ferreira do Zêzere Dornes\,  Santarém
+SUMMARY:Ferreira Trail 2023
+DESCRIPTION:Será realizado no próximo dia 30 de Abril 2023\,  a primeira 
+ edição do&nbsp;Ferreira Trail\,  organizado pela secção de Trail do Spo
+ rt Club Ferreira do Zêzere&nbsp;(SCFZ Trail Runners)\, &nbsp; e com o apoi
+ o deste. A prova terá início em Dornes\,  uma das 7 maravilhas de Portuga
+ l. Os&nbsp;trajetos divididos em três categorias\,  sendo[..]\nhttps://www
+ .portugalrunning.com/eventos/trail-ferreira-do-zezere-2023/
+URL:https://www.portugalrunning.com/eventos/trail-ferreira-do-zezere-2023/
+END:VEVENT
+END:VCALENDAR

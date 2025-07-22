@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc425d
+DTSTAMP:20250720T222651Z
+DTSTART:20230923
+DTEND:20230924
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Sesimbra Night Run 2023
+DESCRIPTION:3ª edição na variante noturna na bonita vila de Sesimbra. Na
+  sequência da Corrida de Sesimbra estaríamos na 28ª edição. Como é ha
+ bitual corrida de 10 km ao longo da marginal de Sesimbra e a 2ª Caminhada 
+ da Califórnia. Venha participar e aproveite para visitar Sesimbra.\nhttps:
+ //www.portugalrunning.com/eventos/sesimbra-night-run-2023/
+URL:https://www.portugalrunning.com/eventos/sesimbra-night-run-2023/
+END:VEVENT
+END:VCALENDAR

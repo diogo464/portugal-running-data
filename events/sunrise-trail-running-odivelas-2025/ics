@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3391de2
+DTSTAMP:20250720T222659Z
+DTSTART:20250504
+DTEND:20250505
+LOCATION:Ferreira do Alentejo\,  Beja Ferreira do Alentejo\,  Beja
+SUMMARY:Sunrise Trail Running Odivelas 2025
+DESCRIPTION:O SUNRISE TRAIL RUNNING Ferreira do Alentejo é um evento despo
+ rtivo de caráter lúdico-competitivo\,  organizado pela associação SINGA
+ RUNNERS\,  em estreita parceira com o Grupo Desportivo de Odivelas\,  Câma
+ ra Municipal de Ferreira do Alentejo\,  União das Freguesias de Ferreira d
+ o Alentejo e Canhestros\,  Freguesia de Odivelas\,  Associação dos Bombei
+ ros Voluntários de[..]\nhttps://www.portugalrunning.com/eventos/sunrise-tr
+ ail-running-odivelas-2025/
+URL:https://www.portugalrunning.com/eventos/sunrise-trail-running-odivelas-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce931e46
+DTSTAMP:20250720T222545Z
+DTSTART:20230422
+DTEND:20230423
+LOCATION:Porto Moniz\,  Ilha da Madeira Porto Moniz\,  Ilha da Madeira
+SUMMARY:Miut - Madeira Island Ultra Trail 2023
+DESCRIPTION:O MIUT® - Madeira Island Ultra-Trail® é um evento de trail-
+ running organizado pelo Clube de Montanha do Funchal que decorre na ilha
+  da Madeira e que integra cinco provas: MIUT 115\,  MIUT 85\,  MIUT 60\,  
+ MIUT 42 e MIUT 16\,  todas elas de formato linear\,  non-stop.\nhttps://www
+ .portugalrunning.com/eventos/miut-madeira-island-ultra-trail-2023/
+URL:https://www.portugalrunning.com/eventos/miut-madeira-island-ultra-trail-2023/
+END:VEVENT
+END:VCALENDAR

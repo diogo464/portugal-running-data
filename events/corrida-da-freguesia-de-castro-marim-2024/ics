@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b48e38
+DTSTAMP:20250720T222251Z
+DTSTART:20240707
+DTEND:20240708
+LOCATION:Castro Marim\,  Faro Castro Marim\,  Faro
+SUMMARY:Corrida da Freguesia de Castro Marim 2024
+DESCRIPTION:A 4ª. Corrida da Freguesia de Castro Marim\,  prova de atletis
+ mo “ FLOR do SAL” é uma organização do Clube Leões do Sul Futebol C
+ lube em parceria com o Município de Castro Marim e Junta de Freguesia de C
+ astro Marim. A 4ª corrida é constituída por uma prova de atletismo[..]\n
+ https://www.portugalrunning.com/eventos/corrida-da-freguesia-de-castro-mari
+ m-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-freguesia-de-castro-marim-2024/
+END:VEVENT
+END:VCALENDAR

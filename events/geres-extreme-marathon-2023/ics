@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c934a291
+DTSTAMP:20250720T222419Z
+DTSTART:20231201
+DTEND:20231202
+LOCATION:Vila Gerês\,  Braga Vila Gerês\,  Braga
+SUMMARY:Gerês Extreme Marathon 2023
+DESCRIPTION:Gerês Extreme Marathon 2023\nhttps://www.portugalrunning.com/e
+ ventos/geres-extreme-marathon-2023/
+URL:https://www.portugalrunning.com/eventos/geres-extreme-marathon-2023/
+END:VEVENT
+END:VCALENDAR

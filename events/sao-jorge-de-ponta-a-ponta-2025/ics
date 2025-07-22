@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c5133
+DTSTAMP:20250720T222617Z
+DTSTART:20250426
+DTEND:20250427
+LOCATION:Ilha de São Jorge\,  Açores Ilha de São Jorge\,  Açores
+SUMMARY:São Jorge de Ponta a Ponta 2025
+DESCRIPTION:No dia 26 de Abril de 2025\,  terá lugar a X Edição do event
+ o “São Jorge de Ponta a Ponta” na ilha de São Jorge no arquipélago d
+ os Açores. Trata-se da travessia longitudinal da ilha de São Jorge - Aço
+ res\,  com início no extremo Ocidental da ilha e final no[..]\nhttps://www
+ .portugalrunning.com/eventos/sao-jorge-de-ponta-a-ponta-2025/
+URL:https://www.portugalrunning.com/eventos/sao-jorge-de-ponta-a-ponta-2025/
+END:VEVENT
+END:VCALENDAR

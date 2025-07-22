@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1548cff
+DTSTAMP:20250720T222213Z
+DTSTART:20250906
+DTEND:20250907
+LOCATION:Alcobaça\,  Leiria Alcobaça\,  Leiria
+SUMMARY:A Encosta 2025
+DESCRIPTION:A ENCOSTA&nbsp;é um evento organizado pela&nbsp;A D R C Crossm
+ ates&nbsp;e acontecerá no dia&nbsp;06 de Setembro de 2025 PROVAS Percurso 
+ de trail misto entre trilho e locais urbanos constituído por uma volta ún
+ ica com cerca de 11 km e vários obstáculos Ao longo do percurso as equi
+ pas terão de superar os mais variados[..]\nhttps://www.portugalrunning.com
+ /eventos/a-encosta-2025/
+URL:https://www.portugalrunning.com/eventos/a-encosta-2025/
+END:VEVENT
+END:VCALENDAR

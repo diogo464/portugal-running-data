@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf31b0f
+DTSTAMP:20250720T222919Z
+DTSTART:20200516
+DTEND:20200517
+LOCATION:Ortigosa\,  Leiria Ortigosa\,  Leiria
+SUMMARY:VII Trilhos dos Avós 2020
+DESCRIPTION:Os “Trilhos dos Avós” são uma iniciativa da SAMVIPAZ - A
+ ssociação de Solidariedade Social\,  que através da sua organização\, 
+  dará pleno cumprimento ao regulamento da prova e responderá por todos os
+  detalhes da realização do evento. EVENTO Tipo de Prova: Trail de 15 Kms
+ \,  Mini-Trail 10Kms e Caminhada de 10 Kms de dificuldade[..]\nhttps://www
+ .portugalrunning.com/eventos/vii-trilhos-dos-avos-2020/
+URL:https://www.portugalrunning.com/eventos/vii-trilhos-dos-avos-2020/
+END:VEVENT
+END:VCALENDAR

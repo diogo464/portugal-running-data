@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c10c3cfe
+DTSTAMP:20250720T222208Z
+DTSTART:20240713
+DTEND:20240714
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:7TH Mikkeller World Run 2024
+DESCRIPTION:7TH Mikkeller World Run 2024; realizar-se-á no próximo dia 13
+  de Julho de 2024 pelas 16:00h\,  com partida e chegada na zona histórica 
+ de Caminha (Centro de Caminha). A prova é organizada pelo Atlético Clube 
+ de Caminha\,  com o apoio do Município de Caminha e é parte integrante do
+  evento[..]\nhttps://www.portugalrunning.com/eventos/7th-mikkeller-world-ru
+ n-2024/
+URL:https://www.portugalrunning.com/eventos/7th-mikkeller-world-run-2024/
+END:VEVENT
+END:VCALENDAR

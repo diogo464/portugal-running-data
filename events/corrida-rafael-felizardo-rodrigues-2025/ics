@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6979f93
+DTSTAMP:20250720T222337Z
+DTSTART:20250412T142200Z
+DTEND:20250412T235900Z
+LOCATION:Fajã Grande\,  Ilha das Flores\,  Fajã Grande\,  Ilha das Flores
+SUMMARY:Corrida Rafael Felizardo Rodrigues 2025
+DESCRIPTION:A Corrida e Caminhada Rafael Felizardo Rodrigues é organizada 
+ pelo Atlético Clube Fajã Grande e foi criada para homenagear o seu sócio
+  nº 1 e principal impulsionador da fundação do clube. O evento tem como 
+ objetivo promover a atividade desportiva e o convívio saudável\,  atravé
+ s de uma prova de atletismo[..]\nhttps://www.portugalrunning.com/eventos/co
+ rrida-rafael-felizardo-rodrigues-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-rafael-felizardo-rodrigues-2025/
+END:VEVENT
+END:VCALENDAR

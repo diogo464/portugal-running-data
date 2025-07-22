@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8f4177
+DTSTAMP:20250720T222544Z
+DTSTART:20240421
+DTEND:20240422
+LOCATION:Moimenta da Beira\,  Viseu Moimenta da Beira\,  Viseu
+SUMMARY:Moimenta da Beira Run 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/moimenta-da-beira-run
+ -2024/
+URL:https://www.portugalrunning.com/eventos/moimenta-da-beira-run-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d591a2ea
+DTSTAMP:20250720T222737Z
+DTSTART:20201108
+DTEND:20201109
+LOCATION:Bombeiros Voluntários de Penacova  Bombeiros Voluntários de Penacova
+SUMMARY:Trail do Centro Penacova 2020
+DESCRIPTION:Partindo de uma experiência acumulada no âmbito da organizaç
+ ão de eventos\,  a rede de Centros de Trail Running Carlos Sá nasce para 
+ dar resposta e meios às necessidades dos amantes desta modalidade (e outra
+ s)\,  de conhecerem um novo território\,  de uma forma completamente autó
+ noma. O objetivo é orientar o visitante[..]\nhttps://www.portugalrunning.c
+ om/eventos/trail-do-centro-penacova-2020/
+URL:https://www.portugalrunning.com/eventos/trail-do-centro-penacova-2020/
+END:VEVENT
+END:VCALENDAR

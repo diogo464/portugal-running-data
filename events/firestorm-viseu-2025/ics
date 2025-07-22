@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f30d19
+DTSTAMP:20250720T222415Z
+DTSTART:20251025T124300Z
+DTEND:20251025T235900Z
+LOCATION:Viseu Viseu
+SUMMARY:Firestorm Viseu 2025
+DESCRIPTION:Estás pronto para provar que és feito de fogo e coragem? O FI
+ RESTORM regressa em 2025 mais intenso do que nunca! Supera-te num percurso 
+ inspirado em cenários reais\,  criado por quem conhece o verdadeiro signif
+ icado de resistência e superação.\nhttps://www.portugalrunning.com/event
+ os/firestorm-viseu-2025/
+URL:https://www.portugalrunning.com/eventos/firestorm-viseu-2025/
+END:VEVENT
+END:VCALENDAR

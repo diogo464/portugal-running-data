@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9e926d7
+DTSTAMP:20250720T222846Z
+DTSTART:20220410
+DTEND:20220411
+LOCATION:Montemor-o-Velho\,  Coimbra Montemor-o-Velho\,  Coimbra
+SUMMARY:Trilho Dos Gatos 2022
+DESCRIPTION:O Trilho Dos Gatos 2022-TRAIL RUNNING\,  é organizado pelo GAT
+ ÕES BTT \, com o apoio de várias entidades de zona de Montemor-o-Velho. E
+ ste evento de Trail em estado puro será composto por: Trail Curto com cerc
+ a 19 KM (prova esta que faz parte do Circuito Distrital de Trail Curto – 
+ CDTRC)Mini[..]\nhttps://www.portugalrunning.com/eventos/trilho-dos-gatos-20
+ 22/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-gatos-2022/
+END:VEVENT
+END:VCALENDAR

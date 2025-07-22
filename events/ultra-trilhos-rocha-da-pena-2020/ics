@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db733a11
+DTSTAMP:20250720T222911Z
+DTSTART:20200808
+DTEND:20200809
+LOCATION:Faro (Zona Sul) - Loulé Faro (Zona Sul) - Loulé
+SUMMARY:ULTRA TRILHOS ROCHA DA PENA 2020
+DESCRIPTION:O evento realiza-se a 08-08-2020 00:00:00 no distrito de Faro. 
+ Conta com 4 percursos: Ultra Trail Rocha da Pena - 150 Trail Longo Rocha da
+  Pena - 100 Trail Curto Rocha da Pena - 150 Endurance Trail Rocha da Pena -
+  100\nhttps://www.portugalrunning.com/eventos/ultra-trilhos-rocha-da-pena-2
+ 020/
+URL:https://www.portugalrunning.com/eventos/ultra-trilhos-rocha-da-pena-2020/
+END:VEVENT
+END:VCALENDAR

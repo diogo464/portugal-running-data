@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2e79fe8
+DTSTAMP:20250720T222238Z
+DTSTART:20250510
+DTEND:20250511
+LOCATION:Martim Moniz\,  Lisboa Martim Moniz\,  Lisboa
+SUMMARY:Challenge Up – Escadinhas da Saúde 2025
+DESCRIPTION:O Martim Moniz&nbsp;recebe a 4ª&nbsp;edição do&nbsp;Challeng
+ e Up&nbsp;– Escadinhas da Saúde! Desafia-te\,  ou melhor\,  delicia-te c
+ om um percurso localizado no coração de Lisboa. São&nbsp;300 metros&nbsp
+ ;sempre a subir\,  com uma&nbsp;inclinação total de 53 metros&nbsp;e&nbsp
+ ;287&nbsp;degraus&nbsp;que vais ter pela frente nesta prova…\nhttps://www
+ .portugalrunning.com/eventos/challenge-up-escadinhas-da-saude-2025/
+URL:https://www.portugalrunning.com/eventos/challenge-up-escadinhas-da-saude-2025/
+END:VEVENT
+END:VCALENDAR

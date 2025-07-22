@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d12f3b68
+DTSTAMP:20250720T222626Z
+DTSTART:20251214T070900Z
+DTEND:20251214T235900Z
+LOCATION:Guarda Guarda
+SUMMARY:São Silvestre da Guarda 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/sao-silvestre-da-guar
+ da-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-guarda-2025/
+END:VEVENT
+END:VCALENDAR

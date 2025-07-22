@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c22dbb46
+DTSTAMP:20250720T222226Z
+DTSTART:20250619T083400Z
+DTEND:20250619T235900Z
+LOCATION:Praia de Mira\,  Mira Praia de Mira\,  Mira
+SUMMARY:Bike and Run 3070 2025
+DESCRIPTION:2º Bike and Run FitMe 3070 [19 Junho 2025] Praia de Mira A ave
+ ntura continua! Vem aí a 2.ª edição da Bike and Run 3070! No dia 19 de 
+ junho (feriado)\,  voltamos à incrível Praia de Mira para mais uma jornad
+ a de superação\,  adrenalina e espírito de equipa.\nhttps://www.portugal
+ running.com/eventos/bike-and-run-3070-2025/
+URL:https://www.portugalrunning.com/eventos/bike-and-run-3070-2025/
+END:VEVENT
+END:VCALENDAR

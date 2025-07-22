@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9eabaa3
+DTSTAMP:20250720T222846Z
+DTSTART:20241006
+DTEND:20241007
+LOCATION:Lordelo\,  Vila Real Lordelo\,  Vila Real
+SUMMARY:Trilho dos Linces 2024
+DESCRIPTION:O evento TRILHO DOS LINCES é organizado pela Equipa Linces do 
+ Marão. Colaboram o Município de Vila Real a Junta de Freguesia de Lordelo
+ \,  a Junta de Freguesia de Mondrões\,  a Junta de Freguesia de Vila Marim
+  e a Junta de Freguesia Pena\,  Quintã e Vila Cova. O evento TRILHO[..]\nh
+ ttps://www.portugalrunning.com/eventos/trilho-dos-linces-2024/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-linces-2024/
+END:VEVENT
+END:VCALENDAR

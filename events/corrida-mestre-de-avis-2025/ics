@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64dc775
+DTSTAMP:20250720T222332Z
+DTSTART:20250815
+DTEND:20250816
+LOCATION:Avis\,  Portalegre Avis\,  Portalegre
+SUMMARY:Corrida Mestre de Avis 2025
+DESCRIPTION:Integrado nas Festas da Batalha\,  organizadas pelo Município
+  da Batalha\,  realiza-se no dia 15 de agosto de 2025\,  na Batalha\,  ma
+ is uma edição da Prova de Atletismo “Mestre de Avis”\,  a XVI Prova 
+ de Atletismo “Batalha Jovem” e uma caminhada de acordo com o seguinte:
+ \nhttps://www.portugalrunning.com/eventos/corrida-mestre-de-avis-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-mestre-de-avis-2025/
+END:VEVENT
+END:VCALENDAR

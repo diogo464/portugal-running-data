@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61ab0ee
+DTSTAMP:20250720T222745Z
+DTSTART:20240121
+DTEND:20240122
+LOCATION:Cinfães\,  Viseu Cinfães\,  Viseu
+SUMMARY:Trail do Rio Paiva 2024
+DESCRIPTION:O V Trail do Rio Paiva realizar-se-á no próximo dia 21 de Jan
+ eiro de 2024 em Souselo\,  Cinfães. O evento será constituído por quatro
+  provas: VTRP35K com uma distância aproximada de 35Km com desnível positi
+ vo acumulado de 1522m. VTRP23K com uma distância aproximada de 23Km com de
+ snível positivo acumulado de[..]\nhttps://www.portugalrunning.com/eventos/
+ trail-do-rio-paiva-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-rio-paiva-2023/
+END:VEVENT
+END:VCALENDAR

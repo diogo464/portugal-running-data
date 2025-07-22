@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7918594
+DTSTAMP:20250720T222353Z
+DTSTART:20250112
+DTEND:20250113
+LOCATION:Cumeira\,  Leiria Cumeira\,  Leiria
+SUMMARY:Cross Laminha 2025
+DESCRIPTION:A Fábrica da Igreja não Paroquial da Boieira organiza no dia 
+ 12 janeiro de 2025\,  pelas 10h00\,  a 21ª edição do CROSS LAMINHA\,  co
+ m percurso de cerca de 13 kms.\nhttps://www.portugalrunning.com/eventos/cro
+ ss-laminha-2025/
+URL:https://www.portugalrunning.com/eventos/cross-laminha-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d40c34f2
+DTSTAMP:20250720T222712Z
+DTSTART:20200419
+DTEND:20200420
+LOCATION:Benafim & Barrosas\,  Faro Benafim & Barrosas\,  Faro
+SUMMARY:Trail Caminhada dos BUDAS 2020
+DESCRIPTION:Trail Caminhada dos BUDAS 2020\nhttps://www.portugalrunning.com
+ /eventos/trail-caminhada-dos-budas-2020/
+URL:https://www.portugalrunning.com/eventos/trail-caminhada-dos-budas-2020/
+END:VEVENT
+END:VCALENDAR

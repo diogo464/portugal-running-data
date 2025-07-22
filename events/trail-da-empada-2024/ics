@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d48ab0cd
+DTSTAMP:20250720T222720Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Arraiolos\,  Évora Arraiolos\,  Évora
+SUMMARY:Trail da Empada 2024
+DESCRIPTION:O Trail da Empada é uma prova de Trail Running\,  corrida pede
+ stre em Natureza\,  com duas distâncias\,  Trail Longo (TL) K25\,  Trail C
+ urto (TC) K15 e Iniciação ao Trail/Caminhada 10Km.A prova terá início e
+  fim no Arraiolos Multiusos\,  percorrendo trilhos\,  estradões\,  caminho
+ s florestais\,  singletracks\,  com passagem por ribeiros e locais[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-da-empada-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-empada-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c07c2c61
+DTSTAMP:20250720T222159Z
+DTSTART:20221204
+DTEND:20221205
+LOCATION:Corroios\,  Setúbal Corroios\,  Setúbal
+SUMMARY:4ª São Silvestre de Corroios
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/4a-sao-silvestre-de-c
+ orroios/
+URL:https://www.portugalrunning.com/eventos/4a-sao-silvestre-de-corroios/
+END:VEVENT
+END:VCALENDAR

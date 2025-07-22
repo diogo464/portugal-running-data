@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb62bcb
+DTSTAMP:20250720T222915Z
+DTSTART:20230729
+DTEND:20230730
+LOCATION:Santa Cruz\,  Torres Vedras Santa Cruz\,  Torres Vedras
+SUMMARY:UTRSC- Ultra Trail Run Santa Cruz 2023
+DESCRIPTION:UTRSC- Ultra Trail Run Santa Cruz 2023\nhttps://www.portugalrun
+ ning.com/eventos/utrsc-ultra-trail-run-santa-cruz-2023/
+URL:https://www.portugalrunning.com/eventos/utrsc-ultra-trail-run-santa-cruz-2023/
+END:VEVENT
+END:VCALENDAR

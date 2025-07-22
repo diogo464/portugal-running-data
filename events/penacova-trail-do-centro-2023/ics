@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf761609
+DTSTAMP:20250720T222559Z
+DTSTART:20230903
+DTEND:20230904
+LOCATION:Penacova\,  Coimbra  Bombeiros Voluntários de Penacova
+SUMMARY:Trail de Penacova 2023
+DESCRIPTION:O Penacova Trail do Centro é organizado pela Carlos Sá Nature
+  Events® com o apoio e colaboração da Câmara Municipal de Penacova e do
+  Turismo do Centro e irá realizar-se nos dias 2 e 3 de Setembro 2023. No d
+ ia 2 de Setembro 2023 irá realizar-se o Prólogo 2km na[..]\nhttps://www.p
+ ortugalrunning.com/eventos/penacova-trail-do-centro-2023/
+URL:https://www.portugalrunning.com/eventos/penacova-trail-do-centro-2023/
+END:VEVENT
+END:VCALENDAR

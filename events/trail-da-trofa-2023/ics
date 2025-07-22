@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50c31b5
+DTSTAMP:20250720T222728Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:Trail da Trofa 2023
+DESCRIPTION:ULTRA TRAIL +- 45kmERA TROFA Trail Longo +- 25kmLITEL Trail Cur
+ to +- 15kmFARMÁCIA TROFENSE Caminhada +- 10kmPONTO PLACA Trail Kids\nhttps
+ ://www.portugalrunning.com/eventos/trail-da-trofa-2023/
+URL:https://www.portugalrunning.com/eventos/trail-da-trofa-2023/
+END:VEVENT
+END:VCALENDAR

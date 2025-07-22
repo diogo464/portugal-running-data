@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f4be2f
+DTSTAMP:20250720T222255Z
+DTSTART:20240425
+DTEND:20240426
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida da Liberdade Lisboa 2024
+DESCRIPTION:No dia 25 Abril\,  a alegria e a festa colectiva saem mais uma 
+ vez à rua. O desejo e o prazer da participação mantêm viva a “Corrida
+  da Liberdade” e a sua simbologia\,  nesse dia em que saudamos os 50 anos
+  da Revolução dos Cravos! A PRAÇA dos RESTAURADORES irá[..]\nhttps://ww
+ w.portugalrunning.com/eventos/corrida-da-liberdade-lisboa-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-lisboa-2024/
+END:VEVENT
+END:VCALENDAR

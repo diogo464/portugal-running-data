@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f63628
+DTSTAMP:20250720T222415Z
+DTSTART:20200509
+DTEND:20200510
+LOCATION:Fórum Barreiro Fórum Barreiro
+SUMMARY:Fórum Barreiro Night Run
+DESCRIPTION:O Forum Barreiro Night Run (FBNR) está de volta. A edição 2
+ 020 está agendada para sábado\,  09 de Maio a partir das 21h30. A Xistar
+ ca é parceira técnica da Câmara Municipal do Barreiro e do centro comer
+ cial Forum Barreiro.\nhttps://www.portugalrunning.com/eventos/forum-barreir
+ o-night-run/
+URL:https://www.portugalrunning.com/eventos/forum-barreiro-night-run/
+END:VEVENT
+END:VCALENDAR

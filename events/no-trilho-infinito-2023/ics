@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf231fc4
+DTSTAMP:20250720T222554Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:No Trilho Infinito 2023
+DESCRIPTION:Será no dia 28 de maio de 2023\,  que Os Chaparros BTT Team As
+ sociação\,  organizará a primeira edição do CHAPARROS NO TRILHO INFINI
+ TO TRAIL TERRA ÚNICA\,  dividida nos eventos CHAPARROS NO TRILHO INFINITO 
+ TRAIL TERRA ÚNICA (várias distâncias)\,  CHAPARROS NO TRILHO INFINITO TR
+ AIL KIDS e CHAPARROS NO TRILHO INFINITO CAMINHADA.[..]\nhttps://www.portuga
+ lrunning.com/eventos/no-trilho-infinito-2023/
+URL:https://www.portugalrunning.com/eventos/no-trilho-infinito-2023/
+END:VEVENT
+END:VCALENDAR

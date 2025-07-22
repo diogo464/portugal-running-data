@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db57a4e3
+DTSTAMP:20250720T222909Z
+DTSTART:20211105
+DTEND:20211106
+LOCATION:Amarante Amarante\,  Porto
+SUMMARY:Ultra Trail do Marão 2021
+DESCRIPTION:O Ultra Trail do Marão vem proporcionar o desafio de aventura 
+ genuíno em percorrer a pé pelas montanhas mais temíveis e os cumes mais 
+ agrestes desta cordilheira serrana\,  ora por neve ora por rocha\,  limitad
+ a pelos rios Tâmega (oeste)\,  Corgo (este) e Douro (sul). Trilhos repleto
+ s de história que nos[..]\nhttps://www.portugalrunning.com/eventos/ultra-t
+ rail-do-marao-2021/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-do-marao-2021/
+END:VEVENT
+END:VCALENDAR

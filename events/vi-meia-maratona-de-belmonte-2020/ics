@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc062040
+DTSTAMP:20250720T222920Z
+DTSTART:20200510
+DTEND:20200511
+LOCATION:Belmonte\,  Portugal Belmonte\,  Portugal
+SUMMARY:VI Meia Maratona de Belmonte 2020
+DESCRIPTION:VI Meia Maratona de Belmonte 2020\nhttps://www.portugalrunning.
+ com/eventos/vi-meia-maratona-de-belmonte-2020/
+URL:https://www.portugalrunning.com/eventos/vi-meia-maratona-de-belmonte-2020/
+END:VEVENT
+END:VCALENDAR

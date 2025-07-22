@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8719ca2
+DTSTAMP:20250720T222407Z
+DTSTART:20240501
+DTEND:20240502
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:Estafeta das Azenhas by Team Lantemil 2024
+DESCRIPTION:A “Estafeta das Azenhas” irá decorrer na segunda-feira\,  
+ dia 1 de Maio de 2024\,  às 10h00m\, no Parque das Azenhas (GPS 41.343917\
+ ,  -8.550424). A “Estafeta das Azenhas” terá um único percurso com um
+ a distância de 24km. A estafeta será composta por 4 segmentos devidamente
+  balizados:1o Segmento aproximadamente 6 km de extensão.2o[..]\nhttps://ww
+ w.portugalrunning.com/eventos/estafeta-das-azenhas-by-team-lantemil-2024/
+URL:https://www.portugalrunning.com/eventos/estafeta-das-azenhas-by-team-lantemil-2024/
+END:VEVENT
+END:VCALENDAR

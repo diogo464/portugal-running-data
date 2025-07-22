@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f93659
+DTSTAMP:20250720T222343Z
+DTSTART:20220306
+DTEND:20220307
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Solidária Adeptos e Simpatizantes 2022
+DESCRIPTION:Este ano a Corrida Solidária Adeptos e Simpatizantes 2022 com 
+ partida e chegada no novíssimo Parque Ribeirinho do Oriente\,  o novo perc
+ urso desenrolar-se-á pela magnífica Av.&nbsp;Infante D. Henrique\,  na zo
+ na oriental de Lisboa. Solidária como sempre\,  no dia do evento\,  haver�
+ � um espaço próprio para a doação de bens alimentares[..]\nhttps://www.
+ portugalrunning.com/eventos/corrida-solidaria-adeptos-e-simpatizantes-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-adeptos-e-simpatizantes-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c007bc76
+DTSTAMP:20250720T222152Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Cadaval\,  Lisboa Cadaval\,  Lisboa
+SUMMARY:2º Trail do Arnóia 2023
+DESCRIPTION:A Associação de Pais do Painho vai realizar a 2ª edição do
+  Trail do Arnóia. A nossa base de partida e chegada será o Polidesportivo
+  do Painho mas o percurso\,  para quem veio o ano passado\,  apesar de se m
+ anter similar terá várias alterações\,  que consideramos mais desafiant
+ es\,  daí termos[..]\nhttps://www.portugalrunning.com/eventos/2o-trail-do-
+ arnoia-2023/
+URL:https://www.portugalrunning.com/eventos/2o-trail-do-arnoia-2023/
+END:VEVENT
+END:VCALENDAR

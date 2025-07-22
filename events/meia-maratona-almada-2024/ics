@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc86212e
+DTSTAMP:20250720T222512Z
+DTSTART:20241110T133400Z
+DTEND:20241110T235900Z
+LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+SUMMARY:Meia Maratona Almada 2024
+DESCRIPTION:A última edição foi organizada em 2017 e o evento retorna co
+ m um percurso desafiante de 21 km\,  convidando atletas de todos os níveis
+  a participarem numa experiência desportiva única e memorável. Realizada
+  pela Câmara Municipal de Almada\, &nbsp;a&nbsp;Meia Maratona de Almada&nb
+ sp;é um evento emblemático no calendário desportivo local\,  que reúne[
+ ..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-almada-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-almada-2024/
+END:VEVENT
+END:VCALENDAR

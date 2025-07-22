@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c081961a
+DTSTAMP:20250720T222200Z
+DTSTART:20230318
+DTEND:20230319
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:4º Night Running Cidade Santiago Do Cacém 2023
+DESCRIPTION:Organização do Juventude Atlético Clube J.A.C.\,  União de 
+ Freguesias de Santiago do Cacém\,  Santa Cruz e S. Bartolomeu da Serra e C
+ âmara Municipal de Santiago do Cacém\,  realiza-se\,  com partida e chega
+ da no Pavilhão do J.A.C. na Cidade de Santiago do Cacém\,  a 18 de março
+  de 2023\,  pelas 18:30h\, [..]\nhttps://www.portugalrunning.com/eventos/4o
+ -night-running-cidade-santiago-do-cacem-2023/
+URL:https://www.portugalrunning.com/eventos/4o-night-running-cidade-santiago-do-cacem-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc261403
+DTSTAMP:20250720T222922Z
+DTSTART:20210912
+DTEND:20210913
+LOCATION:Penafirme\,  Torres Vedras Penafirme\,  Torres Vedras
+SUMMARY:Vimeiro Trail Run 2021
+DESCRIPTION:O  TURRES TRAIL  CLUBE \,  com o apoio da Junta de Freguesi
+ a de A dos Cunhados e Maceira  \,  Externato de Penafirme  e águas do 
+ VIMEIRO   vai realizar no próximo dia 12 de Setembro de 2021\,  pelas 9
+ :00 horas\,  a 6º edição do evento denominado "  VIMEIRO TRAIL RUN 20
+ 21". Este evento\,  terá um Trail Longo de[..]\nhttps://www.portugalrunnin
+ g.com/eventos/vimeiro-trail-run-2021/
+URL:https://www.portugalrunning.com/eventos/vimeiro-trail-run-2021/
+END:VEVENT
+END:VCALENDAR

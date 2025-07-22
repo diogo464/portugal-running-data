@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17dcc12
+DTSTAMP:20250720T222631Z
+DTSTART:20191228
+DTEND:20191229
+LOCATION:Ponte da Barca\,  Viana do Castelo Ponte da Barca\,  Viana do Castelo
+SUMMARY:São Silvestre de Ponte da Barca
+DESCRIPTION:Venha correr ou caminhar na corrida São Silvestre de Ponte da 
+ Barca.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-ponte-da-b
+ arca/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-ponte-da-barca/
+END:VEVENT
+END:VCALENDAR

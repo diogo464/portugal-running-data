@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d47c35b4
+DTSTAMP:20250720T222719Z
+DTSTART:20231203
+DTEND:20231204
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Amizade 2023
+DESCRIPTION:O TRAIL DA AMIZADE (TdA) é um evento desportivo de Trail Runni
+ ng no dia 3 de Dezembro organizado pelo Centro de Amizade e Animação Soci
+ al (IPSS) de Santiago da Guarda (Ansião) que proporciona a descoberta de t
+ rilhos\,  cores e sabores de Santiago da Guarda\,  bem como levará os part
+ icipantes a[..]\nhttps://www.portugalrunning.com/eventos/trail-da-amizade-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/trail-da-amizade-2023/
+END:VEVENT
+END:VCALENDAR

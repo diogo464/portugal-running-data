@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3dbf0c
+DTSTAMP:20250720T222507Z
+DTSTART:20240218
+DTEND:20240219
+LOCATION:Sevilha\,  Espanha Sevilha\,  Espanha
+SUMMARY:Maratona de Sevilha 2024
+DESCRIPTION:A Maratona de Sevilha 2024 realiza-se a 18 de fevereiro de 2024
+  e é organizada pelo Instituto Municipal de Deportes del Ayuntamiento de S
+ evilla. Preços INSCRIÇÃO PARA NÃO RESIDENTES NO MUNICÍPIO DE SEVILHA D
+ o 1 a 1000: Inscrições gerais: € 59\, 95 Para pessoas com deficiência 
+ (33%): 29\, 97 € Do 1001-12000:[..]\nhttps://www.portugalrunning.com/even
+ tos/maratona-de-sevilha-2024/
+URL:https://www.portugalrunning.com/eventos/maratona-de-sevilha-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc84a22b
+DTSTAMP:20250720T222512Z
+DTSTART:20250330
+DTEND:20250331
+LOCATION:Seixal Seixal
+SUMMARY:Meia Maratona Baía do Seixal 2025
+DESCRIPTION:No dia 30 de março de 2025\,  com início às 10h00\,  ao long
+ o da baía das cidades do Seixal e Amora\,  vai ter lugar um evento desport
+ ivo solidário denominado MEIA MARATONA BAÍA DO SEIXAL\,  composto por 3 d
+ istâncias distintas: Meia Maratona Baía do Seixal – 21 097 Km Prova 10[
+ ..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-baia-do-seixal-2
+ 025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-baia-do-seixal-2025/
+END:VEVENT
+END:VCALENDAR

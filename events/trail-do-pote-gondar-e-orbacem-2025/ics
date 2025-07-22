@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6161e0a
+DTSTAMP:20250720T222745Z
+DTSTART:20250323
+DTEND:20250324
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:Trail do Pote Gondar e Orbacém 2025
+DESCRIPTION:O Trail do Pote de Gondar e Orbacém é um evento de Trail Runn
+ ing que decorre nas Serras de Gondar e Orbacém\,  e na Serra D´Arga\,  pe
+ rcorrendo caminhos e trilhos nas freguesias do concelho de Caminha.\nhttps:
+ //www.portugalrunning.com/eventos/trail-do-pote-gondar-e-orbacem-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-pote-gondar-e-orbacem-2025/
+END:VEVENT
+END:VCALENDAR

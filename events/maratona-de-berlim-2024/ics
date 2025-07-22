@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbfde23e
+DTSTAMP:20250720T222503Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Berlim\,  Alemanha Berlim\,  Alemanha
+SUMMARY:Maratona de Berlim 2024
+DESCRIPTION:A Maratona de Berlim\,  conhecida como "Berlin Marathon\, " oco
+ rre a 29 de Setembro de 2024. A primeira edição da maratona foi realizada
+  em 1974\,  e desde então\,  tornou-se uma das maratonas mais icónicas e 
+ procuradas pelos corredores de elite e amadores. A Maratona de Berlim é fa
+ mosa por seu percurso[..]\nhttps://www.portugalrunning.com/eventos/maratona
+ -de-berlim-2024/
+URL:https://www.portugalrunning.com/eventos/maratona-de-berlim-2024/
+END:VEVENT
+END:VCALENDAR

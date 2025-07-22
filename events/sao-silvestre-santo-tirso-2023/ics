@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d264a02f
+DTSTAMP:20250720T222646Z
+DTSTART:20231209
+DTEND:20231210
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:São Silvestre Santo Tirso 2023
+DESCRIPTION:A São Silvestre Santo Tirso\,  será disputada no próximo dia
+  9 de dezembro de 2023\,  pelas 18:00 horas\,  compartida e chegada na Rua 
+ do Picoto – Pavilhão Municipal\,  e é organizada conjuntamente pela Câ
+ mara Municipal de Santo Tirso e pelo C.A.S.T. - Centro de Atletismo de Sant
+ o Tirso.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-santo-tirso
+ -2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-santo-tirso-2023/
+END:VEVENT
+END:VCALENDAR

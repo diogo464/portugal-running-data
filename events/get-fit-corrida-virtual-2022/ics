@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9331928
+DTSTAMP:20250720T222419Z
+DTSTART:20221011
+DTEND:20221012
+LOCATION:Portugal Portugal
+SUMMARY:GET FIT 2022
+DESCRIPTION:GET FIT 2022\nhttps://www.portugalrunning.com/eventos/get-fit-c
+ orrida-virtual-2022/
+URL:https://www.portugalrunning.com/eventos/get-fit-corrida-virtual-2022/
+END:VEVENT
+END:VCALENDAR

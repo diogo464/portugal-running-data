@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b9326b
+DTSTAMP:20250720T222427Z
+DTSTART:20241018T071000Z
+DTEND:20241018T235900Z
+LOCATION:Águeda\,  Aveiro Águeda\,  Aveiro
+SUMMARY:Grande Prémio de Atletismo de Recardães 2024
+DESCRIPTION:Venha até Águeda participar é mais um Grande Prémio\,  em a
+ tletismo. O percurso da prova principal é de 10 km\,  percorridos em asfal
+ to.\nhttps://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-
+ recardaes-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-recardaes-2024/
+END:VEVENT
+END:VCALENDAR

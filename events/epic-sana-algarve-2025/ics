@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8719c3e
+DTSTAMP:20250720T222407Z
+DTSTART:20250330T215300Z
+DTEND:20250330T215300Z
+LOCATION:Praia da Falésia\,  Albufeira Praia da Falésia\,  Albufeira
+SUMMARY:Epic Sana Algarve 2025
+DESCRIPTION:Numa co-organizacao da Free Challenge\,  EPIC SANA Algar
+ ve\,  realiza-se no dia 30 de Margo de 2025\,  a EPIC SANA Beac
+ h Run. Com inicio agendado para as 10h00 horas\,  com partida na
+  Praia da Falésia e chegada no EPIC SANA Algarve\,  nas distanc
+ ias de 5 e 10kms.\nhttps://www.portugalrunning.com/eventos/epic-sana-al
+ garve-2025/
+URL:https://www.portugalrunning.com/eventos/epic-sana-algarve-2025/
+END:VEVENT
+END:VCALENDAR

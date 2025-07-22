@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc2dd519
+DTSTAMP:20250720T222922Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Viseu Viseu
+SUMMARY:Viseu Trail Running 2025
+DESCRIPTION:Viseu Trail Running 2025\nhttps://www.portugalrunning.com/event
+ os/viseu-trail-running-2025/
+URL:https://www.portugalrunning.com/eventos/viseu-trail-running-2025/
+END:VEVENT
+END:VCALENDAR

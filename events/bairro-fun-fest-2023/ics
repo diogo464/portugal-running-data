@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c21ab8ce
+DTSTAMP:20250720T222225Z
+DTSTART:20231105
+DTEND:20231106
+LOCATION:Bairro\,  Vila Nova de Famalicão Bairro\,  Vila Nova de Famalicão
+SUMMARY:Bairro Fun Fest 2023
+DESCRIPTION:A criação da Associação CBR TEAM – Clube de Trail e Atlet
+ ismo teve como principais compromissos proporcionar atividades lúdicas\,  
+ culturais\,  sociais e desportivas em diferentes modalidades\,  com abordag
+ em recreativa e de competição. Este evento terá as distâncias de 10Km\,
+   5Km\,  2500 metros e 1000 metros.\nhttps://www.portugalrunning.com/evento
+ s/bairro-fun-fest-2023/
+URL:https://www.portugalrunning.com/eventos/bairro-fun-fest-2023/
+END:VEVENT
+END:VCALENDAR

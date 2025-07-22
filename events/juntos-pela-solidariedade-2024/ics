@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb1db37c
+DTSTAMP:20250720T222449Z
+DTSTART:20240824T132600Z
+DTEND:20240824T132600Z
+LOCATION:Santo António dos Cavaleiros\,  Lisboa Santo António dos Cavaleiros\,  Lisboa
+SUMMARY:Juntos pela Solidariedade 2024
+DESCRIPTION:Junta-te a nós\,  no próximo dia 24&nbsp;de Agosto pelas 21h3
+ 0\,  a Junta de Freguesia de Santo António dos Cavaleiros e Frielas juntam
+ ente com&nbsp;o Grupo Desportivo de São Domingos e o Correr Loures irão r
+ ealizar a Corrida / Caminhada Noturna Solidária "Juntos pela Solidariedade
+ ". Com o apoio da Câmara Municipal de[..]\nhttps://www.portugalrunning.com
+ /eventos/juntos-pela-solidariedade-2024/
+URL:https://www.portugalrunning.com/eventos/juntos-pela-solidariedade-2024/
+END:VEVENT
+END:VCALENDAR

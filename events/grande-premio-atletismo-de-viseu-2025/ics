@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c97490f5
+DTSTAMP:20250720T222423Z
+DTSTART:20250608
+DTEND:20250609
+LOCATION:Viseu Viseu
+SUMMARY:Grande Prémio Atletismo de Viseu 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-atletis
+ mo-de-viseu-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-de-viseu-2025/
+END:VEVENT
+END:VCALENDAR

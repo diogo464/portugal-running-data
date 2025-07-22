@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0518aa4
+DTSTAMP:20250720T222613Z
+DTSTART:20240817
+DTEND:20240818
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:Running Festas São Bernardo Sátão 2024
+DESCRIPTION:A prova realiza-se no dia 17 de agosto de 2024\,  pelas 09h00m\
+ ,  com partida e chegada em frente à Câmara Municipal de Sátão\,  onde 
+ se enquadranas Festas de São Bernardo\,  com corrida na distância de 10 k
+ ms\,  umacaminhada na distância de 7 kms e provas para as crianças\,  com
+  percurso[..]\nhttps://www.portugalrunning.com/eventos/running-festas-sao-b
+ ernardo-satao-2024/
+URL:https://www.portugalrunning.com/eventos/running-festas-sao-bernardo-satao-2024/
+END:VEVENT
+END:VCALENDAR

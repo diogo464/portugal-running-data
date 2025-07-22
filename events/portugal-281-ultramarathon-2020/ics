@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007aa12
+DTSTAMP:20250720T222608Z
+DTSTART:20200723
+DTEND:20200724
+LOCATION:Proença a Nova  Proença-a-Nova
+SUMMARY:Portugal 281 Ultramarathon 2020
+DESCRIPTION:Este evento tem como objetivo conjugar o espírito de aventura 
+ na natureza\,  o turismo e o desporto. Será realizado nos dias 23 a 26 de
+  Julho de 2020. A Organização da PT281+ Ultramarathon Portugal cabe à Ho
+ rizontes Turismo Desportivo\,  com sede em Proença-a-Nova e com o apoio in
+ stitucional da Câmara de[..]\nhttps://www.portugalrunning.com/eventos/port
+ ugal-281-ultramarathon-2020/
+URL:https://www.portugalrunning.com/eventos/portugal-281-ultramarathon-2020/
+END:VEVENT
+END:VCALENDAR

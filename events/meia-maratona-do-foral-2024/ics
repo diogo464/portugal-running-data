@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd6dbe4b
+DTSTAMP:20250720T222526Z
+DTSTART:20240128
+DTEND:20240129
+LOCATION:Idanha-a-Nova\,  Castelo Branco Idanha-a-Nova\,  Castelo Branco
+SUMMARY:Meia Maratona do Foral 2024
+DESCRIPTION:Com uma distância de 21 km\,  a Meia Maratona anual\,  organiz
+ ada pelo Club União Idanhense\,  realiza-se entre a Aldeia de Santa Margar
+ ida e Idanha-a-Nova\,  alternando a partida e chegada a cada ano\,  entre a
+ s duas localidades. A prova está inserida na comemoração da Carta Foral 
+ de Idanha-a-Nova\,  que data de[..]\nhttps://www.portugalrunning.com/evento
+ s/meia-maratona-do-foral-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-foral-2024/
+END:VEVENT
+END:VCALENDAR

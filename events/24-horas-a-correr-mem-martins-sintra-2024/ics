@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc61652
+DTSTAMP:20250720T222148Z
+DTSTART:20240511
+DTEND:20240512
+LOCATION:Mem Martins Mem Martins\,  Sintra
+SUMMARY:24 Horas a Correr Mem Martins – Sintra 2024
+DESCRIPTION:A 24 Horas a Correr de Mem Martins – Sintra\,  é uma prova d
+ e resistência\,  que se realizará em Mem Martins – Sintra\,  e que ser�
+ � composta por uma corrida de longa duração. Para além da corrida de 24 
+ horas tem outras opções\,  12\,  6 e 3 horas\,  a Maratona[..]\nhttps://w
+ ww.portugalrunning.com/eventos/24-horas-a-correr-mem-martins-sintra-2024/
+URL:https://www.portugalrunning.com/eventos/24-horas-a-correr-mem-martins-sintra-2024/
+END:VEVENT
+END:VCALENDAR

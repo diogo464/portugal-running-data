@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c3f18
+DTSTAMP:20250720T222617Z
+DTSTART:20230423
+DTEND:20230424
+LOCATION:Martim Moniz\,  Lisboa Martim Moniz\,  Lisboa
+SUMMARY:Santa Maria Maior Challenge Up 2023
+DESCRIPTION:Local&nbsp;Partida&nbsp;| Largo do Chafariz (Junto ao Museu do 
+ Fado)Local Chegada&nbsp;| Portas do Sol (Alfama)Distância |&nbsp;510 metro
+ s sempre a subir 1ª&nbsp;Partida 09h30&nbsp;| Para todos os atletas inscri
+ tos2ª&nbsp;Partida&nbsp;10h15&nbsp;|&nbsp;Para os 32 melhores tempos Masc.
+  e Fem. da&nbsp;ronda anterior (64 atletas)3ª Partida 10h45&nbsp;| Para os
+  16 melhores tempos Masc. e Fem. da ronda anterior[..]\nhttps://www.portuga
+ lrunning.com/eventos/santa-maria-maior-challenge-up-2023/
+URL:https://www.portugalrunning.com/eventos/santa-maria-maior-challenge-up-2023/
+END:VEVENT
+END:VCALENDAR

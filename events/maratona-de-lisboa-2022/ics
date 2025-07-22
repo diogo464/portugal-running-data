@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc418440
+DTSTAMP:20250720T222508Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Lisboa Lisboa
+SUMMARY:EDP Maratona de Lisboa 2022
+DESCRIPTION:Resultados Prepara a tua próxima maratona com o acompanhamento
+  personalizado do Portugal Running. Onde começa Cascais\,  junto ao Hipód
+ romo Como chegar Comboio&nbsp;- partindo da estação&nbsp;Cais do Sodré\,
+   rumo a Cascais. Todos os atletas inscritos\,  mediante a apresentação d
+ orsal\,  terão direito a transporte gratuito até às 17 horas do dia da[.
+ .]\nhttps://www.portugalrunning.com/eventos/maratona-de-lisboa-2022/
+URL:https://www.portugalrunning.com/eventos/maratona-de-lisboa-2022/
+END:VEVENT
+END:VCALENDAR

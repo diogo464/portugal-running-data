@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da079a7c
+DTSTAMP:20250720T222848Z
+DTSTART:20220726
+DTEND:20220727
+LOCATION:Fornos de Algodres\,  Guarda Fornos de Algodres\,  Guarda
+SUMMARY:Trilhos da Anta 2022
+DESCRIPTION:O ”TRILHOS DA ANTA” é uma corrida de montanha\,  organizad
+ a por “Vila Chã Aldeia Trail dePortugal”\,  a realizar no dia 13 de no
+ vembro de 2022\,  na aldeia da Matança\,  no concelho deFornos de Algodres
+ .Este trail faz parte do Circuito Municipal de Corrida de Montanha-Trilhos 
+ D`O Bom Sabor daSerra-Fornos de Algodres[..]\nhttps://www.portugalrunning.c
+ om/eventos/trilhos-da-anta-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-anta-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c31a1e
+DTSTAMP:20250720T222636Z
+DTSTART:20220305
+DTEND:20220306
+LOCATION:Espinho\,  Aveiro Espinho\,  Aveiro
+SUMMARY:São Silvestre Espinho 2022
+DESCRIPTION:Depois de uma paragem decorrente das restrições impostas pela
+  pandemia que ainda se faz sentir\,  a São Silvestre Espinho 2022 volta ao
+  calendário com encontro marcado para o dia 5 de maçode 2022\,  às 18h0
+ 0.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-espinho-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-espinho-2022/
+END:VEVENT
+END:VCALENDAR

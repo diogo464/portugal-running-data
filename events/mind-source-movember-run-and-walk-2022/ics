@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8f3c46
+DTSTAMP:20250720T222544Z
+DTSTART:20221123
+DTEND:20221124
+LOCATION:Portugal Portugal
+SUMMARY:Mind Source Movember Run and Walk 2022
+DESCRIPTION:Corrida virtual\nhttps://www.portugalrunning.com/eventos/mind-s
+ ource-movember-run-and-walk-2022/
+URL:https://www.portugalrunning.com/eventos/mind-source-movember-run-and-walk-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2a31d44
+DTSTAMP:20250720T222234Z
+DTSTART:20230507
+DTEND:20230508
+LOCATION:Caramulo\,  Viseu Caramulo\,  Viseu
+SUMMARY:Caramulo Ocr Police 2023
+DESCRIPTION:A Serra do CARAMULO\,  receberá a 1ª etapa do circuito Tricha
+ llenge 2023\,  uma das corridas mais desafiantes em Portugal\,  no formato 
+ de montanha\,  com centenas de atletas que numa vertente LÚDICA ou COMPETI
+ TIVA encontrarão um desafio de superação\,  de resiliência de diversão
+  e emoções únicas.\nhttps://www.portugalrunning.com/eventos/caramulo-ocr
+ -police-2023/
+URL:https://www.portugalrunning.com/eventos/caramulo-ocr-police-2023/
+END:VEVENT
+END:VCALENDAR

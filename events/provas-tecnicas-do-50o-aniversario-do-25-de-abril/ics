@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007ab5d
+DTSTAMP:20250720T222608Z
+DTSTART:20240427T221200Z
+DTEND:20240427T221200Z
+LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+SUMMARY:Provas Técnicas do 50º Aniversário do 25 de Abril
+DESCRIPTION:A 27 Abril 2024 vai realizar-se o Provas Técnicas do 50º A
+ niversário do 25 de Abril\,  prova inserida no Troféu de Almada Atletism
+ o ‘Mário Pinto Claro’ 2023/2024.\nhttps://www.portugalrunning.com/even
+ tos/provas-tecnicas-do-50o-aniversario-do-25-de-abril/
+URL:https://www.portugalrunning.com/eventos/provas-tecnicas-do-50o-aniversario-do-25-de-abril/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d37dbf12
+DTSTAMP:20250720T222703Z
+DTSTART:20221015
+DTEND:20221016
+LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+SUMMARY:Trail Abrantes 100 2022
+DESCRIPTION:Trail Abrantes 100 2022\nhttps://www.portugalrunning.com/evento
+ s/trail-abrantes-100-2022/
+URL:https://www.portugalrunning.com/eventos/trail-abrantes-100-2022/
+END:VEVENT
+END:VCALENDAR

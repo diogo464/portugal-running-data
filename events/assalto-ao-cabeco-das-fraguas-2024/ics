@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1cdc47a
+DTSTAMP:20250720T222220Z
+DTSTART:20240601
+DTEND:20240602
+LOCATION:Penalobo\,  Sabugal Penalobo\,  Sabugal
+SUMMARY:Assalto ao Cabeço das Fráguas 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/assalto-ao-cabeco-das
+ -fraguas-2024/
+URL:https://www.portugalrunning.com/eventos/assalto-ao-cabeco-das-fraguas-2024/
+END:VEVENT
+END:VCALENDAR

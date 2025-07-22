@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f611f9
+DTSTAMP:20250720T222415Z
+DTSTART:20240906T130100Z
+DTEND:20240906T235900Z
+LOCATION:Monte da Franqueira\,  Barcelos Monte da Franqueira\,  Barcelos
+SUMMARY:Franqueira Adventure 2024
+DESCRIPTION:O “Campeonato Nacional OCR 2024\,  Uma Prova para Todos” é
+  um evento organizado pelo promotor Franqueira Adventure\,  com o apoio da 
+ Federação Portuguesa de Corridas de Obstáculos (FPOCR). O evento contém
+  3 provas OCR100\,  OCR3KMS e OCR12KMS\,  nas vagas Campeonato Nacional de 
+ OCR\,  Competitive Franqueira Adventure e Open Franqueira Adventure.\nhttps
+ ://www.portugalrunning.com/eventos/franqueira-adventure-2024/
+URL:https://www.portugalrunning.com/eventos/franqueira-adventure-2024/
+END:VEVENT
+END:VCALENDAR

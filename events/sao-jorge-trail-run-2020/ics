@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c374b
+DTSTAMP:20250720T222617Z
+DTSTART:20200321
+DTEND:20200322
+LOCATION:Ilha de São Jorge Ilha de São Jorge\,  Açores
+SUMMARY:São Jorge Trail Run 2020
+DESCRIPTION:O Dragon Island Trail Club é… Somos um grupo de amigos que s
+ e juntou para dinamizar e organizar o Trail Running na ilha de São Jorge. 
+ Em 21 de Março de 2020\,  iremos realizar uma prova de trail running\,  o 
+ II São Jorge Trail Run na freguesia de Santo Amaro\, [..]\nhttps://www.por
+ tugalrunning.com/eventos/sao-jorge-trail-run-2020/
+URL:https://www.portugalrunning.com/eventos/sao-jorge-trail-run-2020/
+END:VEVENT
+END:VCALENDAR

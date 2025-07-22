@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca07ab6a
+DTSTAMP:20250720T222432Z
+DTSTART:20251005
+DTEND:20251006
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:Grande Prémio do Vale Grande 2025
+DESCRIPTION:A  Associação Vale Grande e a Câmara Municipal de Odivelas\
+ ,  com a colaboração da Polícia de Segurança Pública\,  dos Bombeiros 
+ Voluntários da Pontinha e da WeRun promovem\,  no próximo dia 5 de Outubr
+ o de 2025\,  pelas 09:45 Horas\,  uma prova de atletismo de estrada\,  desi
+ gnada por Grande Prémio do Vale[..]\nhttps://www.portugalrunning.com/event
+ os/grande-premio-do-vale-grande-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-do-vale-grande-2025/
+END:VEVENT
+END:VCALENDAR

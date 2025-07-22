@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d131968a
+DTSTAMP:20250720T222627Z
+DTSTART:20221231
+DTEND:20230101
+LOCATION:Amadora\,  Lisboa Amadora\,  Lisboa
+SUMMARY:47ª Edição São Silvestre da Amadora 2022
+DESCRIPTION:São os 10 km mais tradicionais do ano!Na última noite do ano\
+ ,  dizemos adeus a 2022 e aceleramos em direção a 2023.Venha fazer parte 
+ da São Silvestre da Amadora! Inclui Corrida das Crianças. Percurso: https
+ ://www.mapmyrun.com/routes/view/1379688703\nhttps://www.portugalrunning.com
+ /eventos/sao-silvestre-da-amadora-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-amadora-2022/
+END:VEVENT
+END:VCALENDAR

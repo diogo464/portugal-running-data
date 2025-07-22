@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c48abd97
+DTSTAMP:20250720T222304Z
+DTSTART:20231201
+DTEND:20231202
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Corrida de Natal Cascais 2023
+DESCRIPTION:Venha correr ou caminhar 5 km num evento que promove inclusão\
+ ,  na Corrida de Natal Cascais 2023\,  no dia 1 de Dezembro.\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-de-natal-cascais-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-natal-cascais-2023/
+END:VEVENT
+END:VCALENDAR

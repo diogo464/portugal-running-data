@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c94611d3
+DTSTAMP:20250720T222420Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:GP Vale Grande 2024
+DESCRIPTION:A Associação Vale Grande e a Câmara Municipal de Odivelas\, 
+  com a colaboração da PSP de Odivelas\,  dos Bombeiros Voluntários da Po
+ ntinha e da WeRun promovem\,  no próximo dia 13 de Outubro de 2024\,  pela
+ s 09:45 Horas\,  uma prova de atletismo de estrada\,  designada por Grande 
+ Prémio do Vale Grande\, [..]\nhttps://www.portugalrunning.com/eventos/gp-v
+ ale-grande-2024/
+URL:https://www.portugalrunning.com/eventos/gp-vale-grande-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f9261e
+DTSTAMP:20250720T222343Z
+DTSTART:20250406
+DTEND:20250407
+LOCATION:Praça dos Restauradores\,  Lisboa Praça dos Restauradores\,  Lisboa
+SUMMARY:Corrida Sempre Mulher 2025
+DESCRIPTION:O percurso tem partida e meta na Praça dos Restauradores e o e
+ vento tem como finalidade angariar fundos para a Associação Portuguesa de
+  Apoio à Mulher com Cancro da Mama. Poderá participar na Corrida de Compe
+ tição (exclusiva para mulheres) ou então na Caminhada | Corrida de Lazer
+  (participação aberta a[..]\nhttps://www.portugalrunning.com/eventos/corr
+ ida-sempre-mulher-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-sempre-mulher-2025/
+END:VEVENT
+END:VCALENDAR

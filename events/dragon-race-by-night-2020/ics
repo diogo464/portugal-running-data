@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c827ab2a
+DTSTAMP:20250720T222402Z
+DTSTART:20200321
+DTEND:20200322
+LOCATION:Braga Braga
+SUMMARY:Dragon Race by Night 2020
+DESCRIPTION:A Dragon Race by Night\, é um evento englobado na mostra comun
+ itária de Outiz\,  Vila Nova de Famalicão e tem como objetivo a comemora�
+ �ão do 3° aniversário da equipa Dragon Club Atletismo. Prova mista de tr
+ ail e estrada com partida e chegada na Alameda Nossa Sra da Guia em Outiz\,
+   percorre[..]\nhttps://www.portugalrunning.com/eventos/dragon-race-by-nigh
+ t-2020/
+URL:https://www.portugalrunning.com/eventos/dragon-race-by-night-2020/
+END:VEVENT
+END:VCALENDAR

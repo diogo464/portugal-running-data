@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb9f3970
+DTSTAMP:20250720T222457Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Lisboa Trail Halloween 2022
+DESCRIPTION:No dia 30 de Outubro de 2022\,  o Parque de Campismo de Lisboa\
+ ,  em Monsanto será o palco para o 1º LISBOA TRAIL HALLOWEEN! Temos três
+  distâncias para todos\,  desde os Trail Longo 22km para os mais aventurei
+ ros\,  passando pelo Trail Curto 10km/Caminhada para todos e o Trail Kids 1
+ km[..]\nhttps://www.portugalrunning.com/eventos/lisboa-trail-halloween-2022
+ /
+URL:https://www.portugalrunning.com/eventos/lisboa-trail-halloween-2022/
+END:VEVENT
+END:VCALENDAR

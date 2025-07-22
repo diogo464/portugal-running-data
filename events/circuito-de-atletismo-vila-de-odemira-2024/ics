@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2e92b99
+DTSTAMP:20250720T222238Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Odemira\,  Beja Odemira\,  Beja
+SUMMARY:Circuito de Atletismo “Vila de Odemira” 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/circuito-de-atletismo
+ -vila-de-odemira-2024/
+URL:https://www.portugalrunning.com/eventos/circuito-de-atletismo-vila-de-odemira-2024/
+END:VEVENT
+END:VCALENDAR

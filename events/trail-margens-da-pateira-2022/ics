@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7693049
+DTSTAMP:20250720T222806Z
+DTSTART:20220529
+DTEND:20220530
+LOCATION:Águeda Águeda
+SUMMARY:Trail Margens da Pateira 2022
+DESCRIPTION:O Trail Margens da Pateira 2022 conta para o Troféu Trail Terr
+ as de Águeda\,  a quarta edição do Trail Margens da Pateira atravessa al
+ guns locais e lugares na vila de Fermentelos e respetivos espaços naturais
+  e estradas.\nhttps://www.portugalrunning.com/eventos/trail-margens-da-pate
+ ira-2022/
+URL:https://www.portugalrunning.com/eventos/trail-margens-da-pateira-2022/
+END:VEVENT
+END:VCALENDAR

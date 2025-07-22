@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdcf3acc
+DTSTAMP:20250720T222532Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Leiria Leiria
+SUMMARY:Meia Maratona Leiria 2024
+DESCRIPTION:Este é um dos eventos de referência na cidade do Lis: a Meia 
+ Maratona de Leiria acontece sempre no mês de MEIA MARATONA LEIRIA&nbsp;é 
+ um evento de excelência\,  com dinâmicas que irão permitir momentos fant
+ ásticos. Uma prova certificada e reconhecida internacionalmente pela World
+  Athletics\,  um evento que para além de[..]\nhttps://www.portugalrunning.
+ com/eventos/meia-maratona-leiria-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-leiria-2024/
+END:VEVENT
+END:VCALENDAR

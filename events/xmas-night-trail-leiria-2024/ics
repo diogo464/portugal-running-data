@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcac5838
+DTSTAMP:20250720T222930Z
+DTSTART:20241207
+DTEND:20241208
+LOCATION:Leiria Leiria
+SUMMARY:Xmas Night Trail Leiria 2024
+DESCRIPTION:A prova denominada 12º Leiria X-Mas Night Trail é organizada 
+ por Liz Runners Associação Desporto\,  Cultura e Recreio\,  com o apoio d
+ a Câmara Municipal de Leiria. Será realizado no dia 07 de Dezembro de 202
+ 4 independentemente das condições climatéricas do dia desde que a organi
+ zação entenda que não há riscos[..]\nhttps://www.portugalrunning.com/ev
+ entos/xmas-night-trail-leiria-2024/
+URL:https://www.portugalrunning.com/eventos/xmas-night-trail-leiria-2024/
+END:VEVENT
+END:VCALENDAR

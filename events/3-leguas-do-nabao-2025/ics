@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c04637c2
+DTSTAMP:20250720T222156Z
+DTSTART:20250302
+DTEND:20250303
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:3 Léguas do Nabão 2025
+DESCRIPTION:Numa organização do Clube da Actividades de Lazer e Manutenç
+ ão - CALMA\,  vai realizar-se no dia 02 de Março de 2025\,  uma prova de 
+ atletismo denominada «3 LÉGUAS DO NABÃO» com a distância de 15km. Have
+ rá ainda provas para a camada jovem assim como uma caminhada de 10km.\nhtt
+ ps://www.portugalrunning.com/eventos/3-leguas-do-nabao-2025/
+URL:https://www.portugalrunning.com/eventos/3-leguas-do-nabao-2025/
+END:VEVENT
+END:VCALENDAR

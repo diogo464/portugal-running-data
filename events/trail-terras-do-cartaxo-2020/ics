@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92db2b6
+DTSTAMP:20250720T222834Z
+DTSTART:20200503
+DTEND:20200504
+LOCATION:Quinta das Pratas\,  Cartaxo Quinta das Pratas\,  Cartaxo
+SUMMARY:Trail Terras do Cartaxo 2020
+DESCRIPTION:Com o apoio da Câmara Municipal do Cartaxo\,  da Adega do Cart
+ axo\,  do MyCamp e da Casa das Peles\,  a primeira edição do Trail Terras
+  do Cartaxo\,  será percorrido pelos trilhos do Concelho do Cartaxo\,  num
+  Trail Longo de 26km e num Trail Curto/Caminhada de 11km. Distâncias e Par
+ tidas: 26Km:[..]\nhttps://www.portugalrunning.com/eventos/trail-terras-do-c
+ artaxo-2020/
+URL:https://www.portugalrunning.com/eventos/trail-terras-do-cartaxo-2020/
+END:VEVENT
+END:VCALENDAR

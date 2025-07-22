@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdd49275
+DTSTAMP:20250720T222533Z
+DTSTART:20250119
+DTEND:20250120
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Meia Maratona Manuela Machado 2025
+DESCRIPTION:A prova será realizada no dia 19 de Janeiro de 2025\,  com par
+ tida às 10:30 horas\,  percorrendo uma distância oficial de 21.095 metros
+  (meia maratona)\,  de acordo com as normas da Federação Portuguesa de At
+ letismo (FPA).\nhttps://www.portugalrunning.com/eventos/meia-maratona-manue
+ la-machado-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-manuela-machado-2025/
+END:VEVENT
+END:VCALENDAR

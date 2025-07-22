@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d42db486
+DTSTAMP:20250720T222714Z
+DTSTART:20231105
+DTEND:20231106
+LOCATION:Arrimal\,  Porto de Mós Arrimal\,  Porto de Mós
+SUMMARY:Trail Carreiros do Pastor Arrimalano 2023
+DESCRIPTION:Trail Carreiros do Pastor Arrimalano 2023\nhttps://www.portugal
+ running.com/eventos/trail-carreiros-do-pastor-arrimalano-2023/
+URL:https://www.portugalrunning.com/eventos/trail-carreiros-do-pastor-arrimalano-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccdcfeb
+DTSTAMP:20250720T222516Z
+DTSTART:20200405
+DTEND:20200406
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Meia Maratona de Barcelos 2020
+DESCRIPTION:A edição de 2020 da BMcar Meia Maratona acontece a 5 de abril
+  com duas provas: Meia Maratona (21 km) e Mini Maratona (11 km). Acontece a
+ inda uma caminhada sem carácter competitivo.\nhttps://www.portugalrunning.
+ com/eventos/meia-maratona-de-barcelos-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-barcelos-2020/
+END:VEVENT
+END:VCALENDAR

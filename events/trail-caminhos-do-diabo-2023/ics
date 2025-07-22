@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d40db8e2
+DTSTAMP:20250720T222712Z
+DTSTART:20231105
+DTEND:20231106
+LOCATION:Soure\,  Coimbra Soure\,  Coimbra
+SUMMARY:Trail Caminhos do Diabo 2023
+DESCRIPTION:O Trail Caminhos do Diabo ocorro no dia 5 de Novemebro e é uma
+  prova que percorre trilhos e caminhos locais rurais e florestais na Fregue
+ sia de Samuel\,  Concelho de Soure. O Trail Caminhos do Diabo está dividid
+ o em três provas competitivas: Trail Longo de aproximadamente 28 km\, Trai
+ l Curto de[..]\nhttps://www.portugalrunning.com/eventos/trail-caminhos-do-d
+ iabo-2023/
+URL:https://www.portugalrunning.com/eventos/trail-caminhos-do-diabo-2023/
+END:VEVENT
+END:VCALENDAR

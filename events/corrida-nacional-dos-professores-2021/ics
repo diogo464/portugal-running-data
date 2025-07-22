@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64dca3d
+DTSTAMP:20250720T222332Z
+DTSTART:20211023
+DTEND:20211024
+LOCATION:Praça do Império (Belém)\,  Lisboa Praça do Império (Belém)\,  Lisboa
+SUMMARY:Corrida Nacional dos Professores 2021
+DESCRIPTION:Já se pode inscrever para a 3ª Corrida Nacional dos Professor
+ es! A corrida é só no dia&nbsp;23 de outubro\,  às&nbsp;16 horas\,  mas 
+ a&nbsp;inscrição é até dia 17! A partida é em Belém (Lisboa) frente a
+ o CCB. A chegada também. Quanto aos quilómetros percorridos\,  isso depen
+ de do estofo de cada um.[..]\nhttps://www.portugalrunning.com/eventos/corri
+ da-nacional-dos-professores-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-nacional-dos-professores-2021/
+END:VEVENT
+END:VCALENDAR

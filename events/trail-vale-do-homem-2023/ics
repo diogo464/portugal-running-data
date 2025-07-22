@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9700254
+DTSTAMP:20250720T222839Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Vila Verde\,  Braga Vila Verde\,  Braga
+SUMMARY:Trail Vale Do Homem 2023
+DESCRIPTION:Com o objetivo de promover o desporto e a vida saudável\,  o T
+ RAIL VALE DO HOMEM tem características únicas e propõe aos seus particip
+ antes uma fantástica aventura\,  percorrendo magníficas paisagens ao long
+ o das margens do Rio Homem durante 14 km ou 24 km em trail no dia 8 de Outu
+ bro.\nhttps://www.portugalrunning.com/eventos/trail-vale-do-homem-2023/
+URL:https://www.portugalrunning.com/eventos/trail-vale-do-homem-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb361664
+DTSTAMP:20250720T222451Z
+DTSTART:20250921T143800Z
+DTEND:20250921T143800Z
+LOCATION:Lamego\,  Viseu Lamego\,  Viseu
+SUMMARY:Lalim Vertical 2025
+DESCRIPTION:Desafio vertical de alta intensidade que destaca o espírito co
+ mpetitivo num cenário deslumbrante.\nhttps://www.portugalrunning.com/event
+ os/lalim-vertical-2025/
+URL:https://www.portugalrunning.com/eventos/lalim-vertical-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c87002d3
+DTSTAMP:20250720T222407Z
+DTSTART:20191214
+DTEND:20191215
+LOCATION:Ericeira Ericeira\,  Lisboa
+SUMMARY:Ericeira Trail Run
+DESCRIPTION:Data: 14 de Dezembro de 2019 Localidade: Ericeira Organização
+ : CMB Clube MafraBTT e Amigos do Atletismo de Mafra\,  com a parceria insti
+ tucional da Câmara Municipal de Mafra\nhttps://www.portugalrunning.com/eve
+ ntos/ericeira-trail-run/
+URL:https://www.portugalrunning.com/eventos/ericeira-trail-run/
+END:VEVENT
+END:VCALENDAR

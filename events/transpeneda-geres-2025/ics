@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a946b4
+DTSTAMP:20250720T222842Z
+DTSTART:20250517
+DTEND:20250518
+LOCATION:Montalegre\,  Vila Real Montalegre\,  Vila Real
+SUMMARY:Transpeneda Gerês 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/transpeneda-geres-202
+ 5/
+URL:https://www.portugalrunning.com/eventos/transpeneda-geres-2025/
+END:VEVENT
+END:VCALENDAR

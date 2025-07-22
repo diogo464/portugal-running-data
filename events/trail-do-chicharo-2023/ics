@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d59188a8
+DTSTAMP:20250720T222737Z
+DTSTART:20231001
+DTEND:20231002
+LOCATION:Alvaiázere\,  Leiria Alvaiázere\,  Leiria
+SUMMARY:Trail do Chicharo 2023
+DESCRIPTION:O Trail do Chícharo – Alvaiázere 2023\,  sob organização 
+ da Câmara Municipal de Alvaiázere pretende afirmar-se como uma prova de d
+ esporto e lazer\,  com carácter competitivo\,  na vertente de corrida [Tra
+ il Running]\,  a realizar por percursos e trilhos envolventes ao Município
+  de Alvaiázere. A sexta edição realiza-se no dia 1[..]\nhttps://www.port
+ ugalrunning.com/eventos/trail-do-chicharo-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-chicharo-2023/
+END:VEVENT
+END:VCALENDAR

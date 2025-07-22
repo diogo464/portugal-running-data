@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f938a7
+DTSTAMP:20250720T222343Z
+DTSTART:20200329
+DTEND:20200330
+LOCATION:Praça dos Restauradores\,  Lisboa Praça dos Restauradores\,  Lisboa
+SUMMARY:Corrida Sempre Mulher 2020
+DESCRIPTION:A Associação Portuguesa de Apoio à Mulher com Cancro da Mama
+ \,  em parceria com a Câmara Municipal de Lisboa e com o apoio técnico da
+  Sports High Performance e da Azores Sports Leader\,  promove a 15.ª ediç
+ ão da Corrida Sempre Mulher cuja receita reverte a favor da Associação 
+ Portuguesa de Apoio[..]\nhttps://www.portugalrunning.com/eventos/corrida-se
+ mpre-mulher/
+URL:https://www.portugalrunning.com/eventos/corrida-sempre-mulher/
+END:VEVENT
+END:VCALENDAR

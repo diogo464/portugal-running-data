@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d86c44de
+DTSTAMP:20250720T222822Z
+DTSTART:20250601
+DTEND:20250602
+LOCATION:Albergaria-a-Velha\,  Aveiro Albergaria-a-Velha\,  Aveiro
+SUMMARY:Trail Rota dos Moinhos 2025
+DESCRIPTION:O evento Rota dos Moinhos vai ser organizado pelo Município de
+  Albergaria-a-Velha\,  inserido na comemoração do Festival do Pão\,  apr
+ oveitando o envolvimento que este festival já tem. Este ano realizar-se-à
+  sob o lema "Vai fazer MÓ[SSA]".\nhttps://www.portugalrunning.com/eventos/
+ trail-rota-dos-moinhos-2025/
+URL:https://www.portugalrunning.com/eventos/trail-rota-dos-moinhos-2025/
+END:VEVENT
+END:VCALENDAR

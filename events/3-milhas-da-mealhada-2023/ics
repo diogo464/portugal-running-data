@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c03f3fda
+DTSTAMP:20250720T222155Z
+DTSTART:20230610
+DTEND:20230611
+LOCATION:Mealhada\,  Aveiro Mealhada\,  Aveiro
+SUMMARY:3 Milhas da Mealhada 2023
+DESCRIPTION:A Câmara Municipal da Mealhada\,  em parceria com a Associaç�
+ �o Trilhos Luso Bussaco\,  vai realizar\,  no próximo dia 10 de Junho de 2
+ 023\,  pelas 10h\,  junto à Câmara Municipal da Mealhada\,  mais uma edi�
+ �ão da prova de Atletismo “3 Milhas da Mealhada”\,  inserida no progra
+ ma da Feira de Artesanato e[..]\nhttps://www.portugalrunning.com/eventos/3-
+ milhas-da-mealhada-2023/
+URL:https://www.portugalrunning.com/eventos/3-milhas-da-mealhada-2023/
+END:VEVENT
+END:VCALENDAR

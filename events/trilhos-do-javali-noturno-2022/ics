@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da71888a
+DTSTAMP:20250720T222855Z
+DTSTART:20220312
+DTEND:20220313
+LOCATION:Setúbal Setúbal
+SUMMARY:Trilhos do Javali Noturno 2022
+DESCRIPTION:A versão 2022 dos Trilhos do Javali Noturno será constituído
+  por 2 eventos: a. Trilhos do Javali Noturno: prova de Trail Running com um
+  percurso de 15 kmb. Caminhada Javali Noturna: Caminhada guiada com um perc
+ urso máximo de 10km. Os Trilhos do Javali Noturno serão uma organização
+  da Associação Outdoor[..]\nhttps://www.portugalrunning.com/eventos/trilh
+ os-do-javali-noturno-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-javali-noturno-2022/
+END:VEVENT
+END:VCALENDAR

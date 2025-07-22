@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0892b0d
+DTSTAMP:20250720T222200Z
+DTSTART:20220327
+DTEND:20220328
+LOCATION:Castro Daire Castro Daire
+SUMMARY:4º Trilho Da Pombeira 2022
+DESCRIPTION:4º Trilho Da Pombeira 2022\nhttps://www.portugalrunning.com/ev
+ entos/4o-trilho-da-pombeira-2022/
+URL:https://www.portugalrunning.com/eventos/4o-trilho-da-pombeira-2022/
+END:VEVENT
+END:VCALENDAR

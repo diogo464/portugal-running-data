@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5baa831
+DTSTAMP:20250720T222323Z
+DTSTART:20230326
+DTEND:20230327
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:39ª Corrida dos Sinos 2023
+DESCRIPTION:A 39ª Corrida dos Sinos e a 19ª MiniCorrida/Caminhada dos Sin
+ inhos são organizadas pela Associação dos Amigos do Atletismo de Mafra e
+ m colaboração com a Câmara Municipal de Mafra\,  Junta de Freguesia de M
+ afra e Escola das Armas. Corrida dos Sinos - 15 km MiniCorrida/Caminhada do
+ s Sininhos - 6\, 5 km\nhttps://www.portugalrunning.com/eventos/corrida-dos-
+ sinos-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-sinos-2022/
+END:VEVENT
+END:VCALENDAR

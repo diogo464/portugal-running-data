@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69c2d18
+DTSTAMP:20250720T222337Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Santo António 2024 - Lisboa
+DESCRIPTION:A 2 de junho de 2024\,  temos encontro marcado na 12ª edição
+  da LIDL Corrida de Santo António\,  um evento integrado nas Festas de Lis
+ boa que celebra o seu Santo de referência. Este ano\,  além da corrida de
+  10 km\,  integra uma caminhada.\nhttps://www.portugalrunning.com/eventos/c
+ orrida-santo-antonio-2024-lisboa/
+URL:https://www.portugalrunning.com/eventos/corrida-santo-antonio-2024-lisboa/
+END:VEVENT
+END:VCALENDAR

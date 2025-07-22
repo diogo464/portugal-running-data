@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c574a527
+DTSTAMP:20250720T222319Z
+DTSTART:20220605
+DTEND:20220606
+LOCATION:Ota\,  Lisboa Ota\,  Lisboa
+SUMMARY:Corrida do Mirante 2022
+DESCRIPTION:A Corrida do Mirante 2022 é sem duvida uma das provas mais emb
+ lemáticas do Circuito Lisboa Trail. Com partida no Centro Social Recreativ
+ o Desportivo da Ota esta etapa vai levar-te a conhecer os melhores pontos d
+ e interesse da Ota\,  como o Mirante\,  por subidas e descidas bastante ace
+ ntuadas mas com[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-mir
+ ante-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-mirante-2022/
+END:VEVENT
+END:VCALENDAR

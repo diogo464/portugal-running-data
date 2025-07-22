@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8f33efe
+DTSTAMP:20250720T222831Z
+DTSTART:20220626
+DTEND:20220627
+LOCATION:Mira\,  Coimbra Mira\,  Coimbra
+SUMMARY:Trail Terras da Gândara 2022
+DESCRIPTION:O Trail Terras da Gândara 2022 da Gândara será realizado n
+ o dia 26 de Junho de 2022\,  no Concelho de Mira. É uma prova que vai pe
+ rcorrer trilhos e caminhos em locais rurais e florestais\,  sendo organizad
+ a pela Associação Cultural e Recreativa do Seixo e Junta de Freguesia do 
+ Seixo com a parceria e[..]\nhttps://www.portugalrunning.com/eventos/trail-t
+ erras-da-gandara-2022/
+URL:https://www.portugalrunning.com/eventos/trail-terras-da-gandara-2022/
+END:VEVENT
+END:VCALENDAR

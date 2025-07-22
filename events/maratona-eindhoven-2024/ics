@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc418dda
+DTSTAMP:20250720T222508Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Eindhoven\,  Países Baixos Eindhoven\,  Países Baixos
+SUMMARY:Maratona Eindhoven 2024
+DESCRIPTION:A Maratona de Eindhoven é um evento anual de corrida realizado
+  na cidade inovadora de Eindhoven\,  nos Países Baixos. A corrida atrai co
+ rredores de todo o mundo\,  oferecendo um percurso que passa por pontos emb
+ lemáticos da cidade\,  envolvendo os participantes em uma atmosfera festiv
+ a e de apoio da comunidade local.\nhttps://www.portugalrunning.com/eventos/
+ maratona-eindhoven-2024/
+URL:https://www.portugalrunning.com/eventos/maratona-eindhoven-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9e315d7
+DTSTAMP:20250720T222846Z
+DTSTART:20220213
+DTEND:20220214
+LOCATION:Vidigueira Vidigueira\,  Beja
+SUMMARY:Trilho Dos Cogumelos 2022
+DESCRIPTION:Trilho Dos Cogumelos 2022\nhttps://www.portugalrunning.com/even
+ tos/trilho-dos-cogumelos-2022/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-cogumelos-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc37ae66
+DTSTAMP:20250720T222923Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Sebolido\,  Penafiel Sebolido\,  Penafiel
+SUMMARY:VI Trail Boneca Douro 2023
+DESCRIPTION:A organização do VI Trail da Boneca D'Ouro 2023 está a cargo
+  da A.D.Sebolido – Associação para o Desenvolvimento de Sebolido. Camin
+ hada (8km) Trail Curto (12km) Trail Longo (21km)\nhttps://www.portugalrunni
+ ng.com/eventos/vi-trail-boneca-douro-2023/
+URL:https://www.portugalrunning.com/eventos/vi-trail-boneca-douro-2023/
+END:VEVENT
+END:VCALENDAR

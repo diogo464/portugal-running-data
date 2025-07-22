@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c376337d
+DTSTAMP:20250720T222247Z
+DTSTART:20221002
+DTEND:20221003
+LOCATION:Parque Ribeirinho do Oriente\,  Lisboa Parque Ribeirinho do Oriente\,  Lisboa
+SUMMARY:Corrida Associação Jorge Pina 2022
+DESCRIPTION:A Corrida Associação Jorge Pina powered by MultiOpticas\,  6
+ ª edição\,  é uma corrida de cariz solidário que pretende angariar ve
+ rbas para o desenvolvimento dos projectos da AJP\,  e consiste num conjunto
+  de provas desportivas na modalidade do atletismo\,  a realizar-se no dia 0
+ 2 de Outubro de 2022 no Parque Ribeirinho do Oriente.\nhttps://www.portugal
+ running.com/eventos/corrida-associacao-jorge-pina-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-associacao-jorge-pina-2022/
+END:VEVENT
+END:VCALENDAR

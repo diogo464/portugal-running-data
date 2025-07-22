@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65f3eaf
+DTSTAMP:20250720T222749Z
+DTSTART:20240407
+DTEND:20240408
+LOCATION:Redondo\,  Évora Redondo\,  Évora
+SUMMARY:Trail do Texugo 2024
+DESCRIPTION:O Trail do Texugo é uma prova de Trail Running\,  corrida pede
+ stre em Natureza\,  com quatrodistâncias\,  Trail Ultra (TU) K45+ \,  Trai
+ l Longo (TL) K30+ \,  Trail Sprint (TS) K15+ e Iniciação ao Trail 10Km. A
+  prova terá início e fim na Aldeia da Serra D'Ossa percorrendo trilhos\, 
+  estradões\,  caminhos[..]\nhttps://www.portugalrunning.com/eventos/trail-
+ do-texugo-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-texugo-2024/
+END:VEVENT
+END:VCALENDAR

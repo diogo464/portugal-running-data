@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4c92eb3
+DTSTAMP:20250720T222724Z
+DTSTART:20220813
+DTEND:20220814
+LOCATION:Aldeia do Bispo\,  Sabugal Aldeia do Bispo\,  Sabugal
+SUMMARY:Trail da Raia 2022
+DESCRIPTION:Trail da Raia é uma prova de montanha transfronteiriça\,  rea
+ lizada por caminhos outrora utilizados pelos contrabandistas nos limites de
+  Aldeia do Bispo (Portugal) e de Navasfrias (Espanha). Estas excursões rep
+ etidas\,  para além dos laços económicos\,  criaram laços culturais e p
+ essoais de amizade entre os habitantes « de los pueblos ermanos[..]\nhttps
+ ://www.portugalrunning.com/eventos/trail-da-raia-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-raia-2022/
+END:VEVENT
+END:VCALENDAR

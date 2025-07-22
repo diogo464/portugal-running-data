@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2ec4e52
+DTSTAMP:20250720T222238Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Constância\,  Santarém Constância\,  Santarém
+SUMMARY:Confluência Trail 2024
+DESCRIPTION:O Confluência Trail tem como objetivo proporcionar aos atletas
+  novas experiências e sensações em trilhos distintos\,  valorização e 
+ divulgação do território e promoção de Constância e do Médio Tejo. T
+ rail longo – K33Trail curto – K23 Mini trail – K15Caminhada – K12\n
+ https://www.portugalrunning.com/eventos/confluencia-trail-2024/
+URL:https://www.portugalrunning.com/eventos/confluencia-trail-2024/
+END:VEVENT
+END:VCALENDAR

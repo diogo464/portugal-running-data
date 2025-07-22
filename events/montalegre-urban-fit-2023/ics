@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ceddc4f4
+DTSTAMP:20250720T222549Z
+DTSTART:20230304
+DTEND:20230305
+LOCATION:Montalegre\,  Vila Real Montalegre\,  Vila Real
+SUMMARY:Montalegre Urban Fit 2023
+DESCRIPTION:A Montalegre Urban Fit é uma prova que combina corrida com obs
+ táculos urbanos\,  organizada pela empresa URBAN FIT RACE.\nhttps://www.po
+ rtugalrunning.com/eventos/montalegre-urban-fit-2023/
+URL:https://www.portugalrunning.com/eventos/montalegre-urban-fit-2023/
+END:VEVENT
+END:VCALENDAR

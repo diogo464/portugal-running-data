@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4418946
+DTSTAMP:20250720T222300Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Ajuda\,  Lisboa Ajuda\,  Lisboa
+SUMMARY:11ª Corrida das Castanhas 2022
+DESCRIPTION:A 11ª edição deste evento - Corrida das Castanhas 2022\,  pr
+ oporcionará a todos os participantes de corrida e caminhada\,  uma manhã 
+ diferente acompanhada de um convívio final com oferta de castanhas e águ
+ a-pé. Acompanhamos com um Plano de Treino de Corrida adequado.\nhttps://
+ www.portugalrunning.com/eventos/corrida-das-castanhas-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-das-castanhas-2022/
+END:VEVENT
+END:VCALENDAR

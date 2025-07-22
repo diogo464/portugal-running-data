@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f30552
+DTSTAMP:20250720T222415Z
+DTSTART:20241109T231100Z
+DTEND:20241109T231100Z
+LOCATION:Castelo Branco Castelo Branco
+SUMMARY:Forum Castelo Branco Run 2024
+DESCRIPTION:Com organização do Forúm Castelo Branco\,  realiza-se no dia
+  9 novembro de 2024\,  pelas 10h00m a “2ª Edição do Forúm Castelo Bra
+ nco Run”.\nhttps://www.portugalrunning.com/eventos/forum-castelo-branco-r
+ un-2024/
+URL:https://www.portugalrunning.com/eventos/forum-castelo-branco-run-2024/
+END:VEVENT
+END:VCALENDAR

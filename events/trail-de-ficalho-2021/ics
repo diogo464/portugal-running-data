@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50de153
+DTSTAMP:20250720T222728Z
+DTSTART:20211107
+DTEND:20211108
+LOCATION:Serpa Serpa
+SUMMARY:Trail de Ficalho 2021
+DESCRIPTION:Trail de Ficalho 2021\nhttps://www.portugalrunning.com/eventos/
+ trail-de-ficalho-2021/
+URL:https://www.portugalrunning.com/eventos/trail-de-ficalho-2021/
+END:VEVENT
+END:VCALENDAR

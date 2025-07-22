@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2e7a75f
+DTSTAMP:20250720T222238Z
+DTSTART:20230527
+DTEND:20230528
+LOCATION:Alandroal\,  Évora Alandroal\,  Évora
+SUMMARY:Color Run 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/color-run-2023/
+URL:https://www.portugalrunning.com/eventos/color-run-2023/
+END:VEVENT
+END:VCALENDAR

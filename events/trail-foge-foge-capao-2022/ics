@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6ec30af
+DTSTAMP:20250720T222758Z
+DTSTART:20220619
+DTEND:20220620
+LOCATION:Freamunde\,  Porto Freamunde\,  Porto
+SUMMARY:Trail Foge Foge Capão 2022
+DESCRIPTION:Trail Foge Foge Capão 2022\nhttps://www.portugalrunning.com/ev
+ entos/trail-foge-foge-capao-2022/
+URL:https://www.portugalrunning.com/eventos/trail-foge-foge-capao-2022/
+END:VEVENT
+END:VCALENDAR

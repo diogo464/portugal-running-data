@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d27003ee
+DTSTAMP:20250720T222647Z
+DTSTART:20241206
+DTEND:20241207
+LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+SUMMARY:São Silvestre Vendas Novas 2024
+DESCRIPTION:A 10ª Corrida São Silvestre é um evento desportivo\,  organi
+ zado pela Casa do Sport Lisboa e Benfica em Vendas Novas\,  de índole amad
+ ora\,  que visa a promoção da atividade física\,  através da corrida e 
+ da caminhada em percurso urbano. Esta corrida e caminhada noturna\,  é a d
+ écima edição realizada em[..]\nhttps://www.portugalrunning.com/eventos/s
+ ao-silvestre-vendas-novas-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vendas-novas-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3c7a996
+DTSTAMP:20250720T222708Z
+DTSTART:20241005
+DTEND:20241006
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Trail Aventurança de Cando 2024
+DESCRIPTION:O 2º Trail Aventurança de Cando\,  com a distância de 18km a
+  realizar a 5 de outubro\,  este evento tem comolocal de partida e chegada 
+ a Aldeia de Cando.\nhttps://www.portugalrunning.com/eventos/trail-aventuran
+ ca-de-cando-2024/
+URL:https://www.portugalrunning.com/eventos/trail-aventuranca-de-cando-2024/
+END:VEVENT
+END:VCALENDAR

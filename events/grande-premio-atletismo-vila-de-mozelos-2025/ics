@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c986128b
+DTSTAMP:20250720T222424Z
+DTSTART:20250309
+DTEND:20250310
+LOCATION:Mozelos\,  Aveiro Mozelos\,  Aveiro
+SUMMARY:Grande Prémio Atletismo Vila de Mozelos 2025
+DESCRIPTION:O Grande Prémio de Atletismo Vila de Mozelos é um tradicional
+  momento de reunião dos muitos participantes de corrida da região de Avei
+ ro e do concelho de Santa Maria da Feira\,  organizado pela 24ª vez. Regre
+ sse ou venha experimentar pela primeira vez este evento.\nhttps://www.portu
+ galrunning.com/eventos/grande-premio-atletismo-vila-de-mozelos-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-vila-de-mozelos-2025/
+END:VEVENT
+END:VCALENDAR

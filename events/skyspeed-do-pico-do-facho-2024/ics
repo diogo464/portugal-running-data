@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d30495ce
+DTSTAMP:20250720T222656Z
+DTSTART:20241123T071200Z
+DTEND:20241123T235900Z
+LOCATION:Pico do Facho\,  Machico Pico do Facho\,  Machico
+SUMMARY:SkySpeed do Pico do Facho 2024
+DESCRIPTION:O I Skyspeed Pico do Facho é uma competição disputada em per
+ curso predominantemente a subir\,  apresenta um desnível positivo de (+/-)
+  273 metros e uma distância aproximada de 1500 metros entre a partida e a 
+ chegada\,  com saída no emblemático Largo dos Milagres no Sitio da Banda 
+ de Além Machico\, [..]\nhttps://www.portugalrunning.com/eventos/skyspeed-d
+ o-pico-do-facho-2024/
+URL:https://www.portugalrunning.com/eventos/skyspeed-do-pico-do-facho-2024/
+END:VEVENT
+END:VCALENDAR

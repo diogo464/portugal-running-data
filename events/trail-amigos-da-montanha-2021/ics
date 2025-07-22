@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3b49bc4
+DTSTAMP:20250720T222707Z
+DTSTART:20211128
+DTEND:20211129
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Trail Amigos da Montanha 2021
+DESCRIPTION:O XI Trail AM\,  uma organização da Associação Amigos da Mo
+ ntanha\,  realiza-se no dia 28 Novembro de 2021. A 11.ª edição do evento
+  tem quatro provas competitivas – Trail Curto Águas de Barcelos (Grau 2)
+ ; Trail Longo Martins & Filhos - 22Kms (Grau 2)\,  Trail Longo Crédito Agr
+ ícola Caixa do[..]\nhttps://www.portugalrunning.com/eventos/trail-amigos-d
+ a-montanha-2021/
+URL:https://www.portugalrunning.com/eventos/trail-amigos-da-montanha-2021/
+END:VEVENT
+END:VCALENDAR

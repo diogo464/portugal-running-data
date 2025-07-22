@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1d627a8
+DTSTAMP:20250720T222221Z
+DTSTART:20200308
+DTEND:20200309
+LOCATION:Arruda dos Vinhos\,  Lisboa Arruda dos Vinhos\,  Lisboa
+SUMMARY:Arruda Trail 2020
+DESCRIPTION:A Werun com a Câmara Municipal de Arruda dos Vinhos irão real
+ izar o Arruda Trail no dia 08/03/2020. Esta é uma prova de TrailRunning\, 
+  corrida pedestre em Natureza\,  com três provas\,  Trail Longo (TL) K20+\
+ ,  Trail Curto (TC) K10+ e Caminhada. &nbsp; 9h00 - Partida K20+ 10h15 - Pa
+ rtida K10+[..]\nhttps://www.portugalrunning.com/eventos/arruda-trail/
+URL:https://www.portugalrunning.com/eventos/arruda-trail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcb4c60c
+DTSTAMP:20250720T222931Z
+DTSTART:20250216
+DTEND:20250217
+LOCATION:Pena\,  Cantanhede Pena\,  Cantanhede
+SUMMARY:Zebra Trail 2025
+DESCRIPTION:A Secção de Atletismo do C. F. “Os Marialvas” organiza a 
+ terceira edição do Zebra Trail / Sanfil em 16 de fevereiro de 2025. As pr
+ ovas Trail Longo (25km)\,  Trail Sprint (15km) e Caminhada (10km) passarão
+  por trilhos na região de Cantanhede.\nhttps://www.portugalrunning.com/eve
+ ntos/zebra-trail-2025/
+URL:https://www.portugalrunning.com/eventos/zebra-trail-2025/
+END:VEVENT
+END:VCALENDAR

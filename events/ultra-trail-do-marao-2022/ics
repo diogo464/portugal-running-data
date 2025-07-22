@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db5aa7c2
+DTSTAMP:20250720T222909Z
+DTSTART:20220401
+DTEND:20220402
+LOCATION:Amarante Amarante\,  Porto
+SUMMARY:Ultra Trail do Marão 2022
+DESCRIPTION:O Ultra Trail do Marão 2022 (UTM)\,  é um evento desportivo d
+ e trail running em estadogenuíno da responsabilidade organizativa da Savag
+ eNatur Events®\,  com sede na RuaSanto António\,  n° 392\,  4600-520 Ans
+ iães\,  Município de Amarante\,  que se realizará nosdias 1\,  2 e 3 de 
+ Abril de 2022.\nhttps://www.portugalrunning.com/eventos/ultra-trail-do-mara
+ o-2022/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-do-marao-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf749225
+DTSTAMP:20250720T222559Z
+DTSTART:20210611
+DTEND:20210612
+LOCATION:Serra da Estrela Serra da Estrela
+SUMMARY:OMD - Ultra Trail Serra Da Estrela - 100 Milhas Portugal 2021
+DESCRIPTION:O OMD Ultra Trail®&nbsp;Serra da Estrela é a prova precursora
+  em longas distâncias de trail running em Portugal Continental\,  sendo a 
+ primeira com 100km e 100 milhas. Em 2018 passou a ter mais uma distância e
+ mblemática denominada OMD200 (160+40)\,  sendo aclamado “Viriato” o at
+ leta que percorrer esta distância dentro das[..]\nhttps://www.portugalrunn
+ ing.com/eventos/omd-ultra-trail-serra-da-estrela-100-milhas-portugal-2021/
+URL:https://www.portugalrunning.com/eventos/omd-ultra-trail-serra-da-estrela-100-milhas-portugal-2021/
+END:VEVENT
+END:VCALENDAR

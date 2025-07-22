@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3930627
+DTSTAMP:20250720T222705Z
+DTSTART:20221016
+DTEND:20221017
+LOCATION:Santa Comba Dão\,  Viseu Santa Comba Dão\,  Viseu
+SUMMARY:Trail Aguieira 2022
+DESCRIPTION:A Associação de Profissionais de Desporto e Educação Físic
+ a\,  em colaboração com a câmara municipal de Santa Comba Dão\,  vai re
+ alizar no próximo dia 16 de outubro de 2022\,  o Trail Aguieira 2022\,  na
+  cidade de Santa Comba Dão.É uma prova de trail running\,  realizada em t
+ rilhos sinalizados\,  em piso[..]\nhttps://www.portugalrunning.com/eventos/
+ trail-aguieira-2022/
+URL:https://www.portugalrunning.com/eventos/trail-aguieira-2022/
+END:VEVENT
+END:VCALENDAR

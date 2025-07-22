@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfff3a88
+DTSTAMP:20250720T222151Z
+DTSTART:20230617
+DTEND:20230618
+LOCATION:São Martinho do Porto\,  Leiria São Martinho do Porto\,  Leiria
+SUMMARY:2º Corrida De Sto António 2023
+DESCRIPTION:A&nbsp;2ª&nbsp;Corrida de Sto António&nbsp;é organizada pelo
+ &nbsp;GDCA\,  com o apoio de&nbsp;Junta de Freguesia de São Martinho do Po
+ rto&nbsp;e&nbsp;Bombeiros Voluntários de São Martinho do Porto. Prova est
+ ará inserida nas&nbsp;Festas de Santo António\,  em São Martinho do Port
+ o. A prova terá cerca de&nbsp;10k&nbsp;em estrada\,  e terá início às&n
+ bsp;11h&nbsp;do dia&nbsp;17/06/2023.\nhttps://www.portugalrunning.com/event
+ os/2o-corrida-de-sto-antonio-2023/
+URL:https://www.portugalrunning.com/eventos/2o-corrida-de-sto-antonio-2023/
+END:VEVENT
+END:VCALENDAR

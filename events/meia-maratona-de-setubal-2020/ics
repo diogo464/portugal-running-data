@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd2197b8
+DTSTAMP:20250720T222522Z
+DTSTART:20200502
+DTEND:20200503
+LOCATION:Setúbal Setúbal
+SUMMARY:Meia Maratona de Setúbal 2020
+DESCRIPTION:A Alegro Meia-Maratona de Setúbal 2020 realiza-se no fim-de-se
+ mana de 2 e 3 de maio. O primeiro dia é dedicado aos mais pequenos\,  com 
+ a Corrida Miúdos Alegro (crianças nascidas entre 2007 e 2015)\,  enquanto
+  no segundo dia as atenções estão centradas na prova da Meia Maratona (2
+ 1\, 1 km) e[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-s
+ etubal-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-setubal-2020/
+END:VEVENT
+END:VCALENDAR

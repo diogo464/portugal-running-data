@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc7c4d5a
+DTSTAMP:20250720T222927Z
+DTSTART:20200621
+DTEND:20200622
+LOCATION:Vila Verde Vila Verde\,  Braga
+SUMMARY:V Trail Antonino 2020
+DESCRIPTION:O V Trail Antonino\,  realizar-se no dia 21 de Junho de 2020\, 
+  tratava-te de uma actividade de corrida e caminhada que atravessa parte no
+ rte do concelho de Vila Verde\,  por caminhos de montanha agrícolas e flor
+ estais. Este ano o Trail longo vai voltar às origens com início no magní
+ fico Santuário[..]\nhttps://www.portugalrunning.com/eventos/v-trail-antoni
+ no-2020/
+URL:https://www.portugalrunning.com/eventos/v-trail-antonino-2020/
+END:VEVENT
+END:VCALENDAR

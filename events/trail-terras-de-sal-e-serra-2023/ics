@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92c457d
+DTSTAMP:20250720T222834Z
+DTSTART:20231119
+DTEND:20231120
+LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
+SUMMARY:Trail Terras De Sal E Serra 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-terras-de-sal-e
+ -serra-2023/
+URL:https://www.portugalrunning.com/eventos/trail-terras-de-sal-e-serra-2023/
+END:VEVENT
+END:VCALENDAR

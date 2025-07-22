@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8731881
+DTSTAMP:20250720T222407Z
+DTSTART:20240801T175900Z
+DTEND:20240801T235900Z
+LOCATION:Portugal Portugal
+SUMMARY:Esta Espaço pode ser teu!
+DESCRIPTION:Se pretendes que o evento apareça no inicio da lista durante u
+ m período de tempo fala connosco\,  e guarda para o teu evento este espaç
+ o. Reserva este espaço premium para garantir maior visibilidade e destaque
+  do teu evento. Saber Mais\nhttps://www.portugalrunning.com/eventos/esta-es
+ paco-pode-ser-teu/
+URL:https://www.portugalrunning.com/eventos/esta-espaco-pode-ser-teu/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54dc475
+DTSTAMP:20250720T222732Z
+DTSTART:20220612
+DTEND:20220613
+LOCATION:Vila Nova da Barquinha Vila Nova da Barquinha\,  Santarém
+SUMMARY:Trail De Santo António 2022
+DESCRIPTION:Grupo Cicloturismo Barquinhense com apoio da Câmara Municipal 
+ de Vila Nova da Barquinha\,  organiza e promove o Trail de Santo António e
+ m Vila Nova da Barquinha. O Trail De Santo António 2022 em Vila Nova da Ba
+ rquinha tem como objetivo fomentar o desporto (a correr ou a andar)\,  perm
+ itindo aos[..]\nhttps://www.portugalrunning.com/eventos/trail-de-santo-anto
+ nio-2022/
+URL:https://www.portugalrunning.com/eventos/trail-de-santo-antonio-2022/
+END:VEVENT
+END:VCALENDAR

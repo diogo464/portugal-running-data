@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfbac7d7
+DTSTAMP:20250720T222603Z
+DTSTART:20200223
+DTEND:20200224
+LOCATION:Poiares\,  Coimbra Poiares\,  Coimbra
+SUMMARY:Poiares Trail 2020
+DESCRIPTION:Poiares Trail 2020\nhttps://www.portugalrunning.com/eventos/poi
+ ares-trail-2020/
+URL:https://www.portugalrunning.com/eventos/poiares-trail-2020/
+END:VEVENT
+END:VCALENDAR

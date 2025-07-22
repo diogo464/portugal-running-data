@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d266139c
+DTSTAMP:20250720T222646Z
+DTSTART:20240106
+DTEND:20240107
+LOCATION:Louriçal do Campo\,  Castelo Branco Louriçal do Campo\,  Castelo Branco
+SUMMARY:São Silvestre Vertical 2024
+DESCRIPTION:A São Silvestre Vertical é um evento de Trail Running\,  de c
+ ariz competitivo\,  a realizar-se no dia 6 de janeiro de 2024\,  na Serra d
+ a Gardunha\,  Louriçal do Campo. Conta com um percurso linear de 5.5km com
+  1000m de desnível acumulado positivo. Percorrerá na integra o emblemáti
+ co percurso da Gardunha[..]\nhttps://www.portugalrunning.com/eventos/sao-si
+ lvestre-vertical-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vertical-2024/
+END:VEVENT
+END:VCALENDAR

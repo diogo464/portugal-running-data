@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d03dc832
+DTSTAMP:20250720T222611Z
+DTSTART:20230720
+DTEND:20230721
+LOCATION:Proença a Nova  Proença-a-Nova
+SUMMARY:Pt281 2023
+DESCRIPTION:O percurso é muito diversificado em pisos e paisagem. Também 
+ o é no número de povoações onde pode se abastecer. Em alguns trechos o 
+ isolamento será total e a sensação de isolamento poderá trazer alguns d
+ esconfortos. As temperaturas médias para esta época do ano são acima dos
+  30º e em[..]\nhttps://www.portugalrunning.com/eventos/pt281-2023/
+URL:https://www.portugalrunning.com/eventos/pt281-2023/
+END:VEVENT
+END:VCALENDAR

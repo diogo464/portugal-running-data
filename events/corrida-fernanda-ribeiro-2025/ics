@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c60ac21d
+DTSTAMP:20250720T222328Z
+DTSTART:20250511
+DTEND:20250512
+LOCATION:Maia\,  Porto Maia\,  Porto
+SUMMARY:Corrida Fernanda Ribeiro 2025
+DESCRIPTION:A cidade da Maia recebe no dia 11 de Maio de 2025\,  a 11ª edi
+ ção Corrida Fernanda Ribeiro\,  uma organização da EventSport e Academi
+ a Fernanda Ribeiro com o apoio da Câmara Municipal da Maia. Depois de uma 
+ 10ª edição extraordinária\,  que ficou marcada por milhares de atletas 
+ a correr e[..]\nhttps://www.portugalrunning.com/eventos/corrida-fernanda-ri
+ beiro-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-fernanda-ribeiro-2025/
+END:VEVENT
+END:VCALENDAR

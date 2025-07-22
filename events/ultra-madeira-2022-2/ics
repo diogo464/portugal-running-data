@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db2c2d3f
+DTSTAMP:20250720T222906Z
+DTSTART:20221001
+DTEND:20221002
+LOCATION:Madeira Madeira
+SUMMARY:Ultra Madeira 2022
+DESCRIPTION:A AARAM – Associação de Atletismo da Região Autónoma da M
+ adeira é a associação organizadora do evento denominado “Ultra Madeira
+  2022”\,  6ª edição\,  que decorrerá com absoluto respeito pelo meio 
+ ambiente\nhttps://www.portugalrunning.com/eventos/ultra-madeira-2022-2/
+URL:https://www.portugalrunning.com/eventos/ultra-madeira-2022-2/
+END:VEVENT
+END:VCALENDAR

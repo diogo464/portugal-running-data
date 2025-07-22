@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db718612
+DTSTAMP:20250720T222911Z
+DTSTART:20240321
+DTEND:20240322
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Ultra Trail Marão 2024
+DESCRIPTION:O Ultra Trail Marão\,  é um evento desportivo de trail runnin
+ g em estado genuíno daresponsabilidade co-organizativa da Associação Des
+ portiva Marão Trail e da SavageNatur Events®\,  eque se realizará nos di
+ as 21\,  22\,  23 e 24 de Março de 2024. Competitivas: O Ultra Trail do Ma
+ rão Endurance (UTME) começa no Largo[..]\nhttps://www.portugalrunning.com
+ /eventos/ultra-trail-marao-2024/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-marao-2024/
+END:VEVENT
+END:VCALENDAR

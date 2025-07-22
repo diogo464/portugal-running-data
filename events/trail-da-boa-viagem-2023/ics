@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d47ab990
+DTSTAMP:20250720T222719Z
+DTSTART:20230423
+DTEND:20230424
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:Trail Da Boa Viagem 2023
+DESCRIPTION:O II Trail da Boa Viagem realizar-se-á no dia 23 de Abril de 2
+ 023 e será composto por duas provas (a realizar nesse mesmo dia): -Trail L
+ ongo: 15 Km- Mini Trail / Caminhada: 8 KmO local de partida e chegada será
+  comum a ambas as provas: Largo da Capela\,  Contige[..]\nhttps://www.portu
+ galrunning.com/eventos/trail-da-boa-viagem-2023/
+URL:https://www.portugalrunning.com/eventos/trail-da-boa-viagem-2023/
+END:VEVENT
+END:VCALENDAR

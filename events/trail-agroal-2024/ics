@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3879e4f
+DTSTAMP:20250720T222704Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Agroal\,  Ourém Agroal\,  Ourém
+SUMMARY:Trail Agroal 2024
+DESCRIPTION:A 2 ª edição do Trail do Agroal é um evento desportivo de T
+ rail Running\,  constituído por 3 provas competitivas e uma caminhada\,  o
+ rganizada pela Liga dos Amigos da Secção da Freixianda\,  dos Bombeiros d
+ os Voluntários de Ourém\,  contando com a colaboração do Município de 
+ Ourém\,  da União das freguesias[..]\nhttps://www.portugalrunning.com/eve
+ ntos/trail-agroal-2024/
+URL:https://www.portugalrunning.com/eventos/trail-agroal-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb47ad66
+DTSTAMP:20250720T222452Z
+DTSTART:20200105
+DTEND:20200106
+LOCATION:Aveiro Aveiro
+SUMMARY:Last Man Standing (O Último Vence) - Trail 2020
+DESCRIPTION:“Last Man Standing (O Último Vence) - Trail”&nbsp;é uma c
+ orrida onde todos chegam ao fim\,  mas apenas um pode vencer! No início de
+  cada volta\,  todos estão novamente em 1º lugar. Um evento que junta\,  
+ trail\,  superação e convívio num desafio que cada um coloca a si mesmo.
+ \nhttps://www.portugalrunning.com/eventos/last-man-standing-o-ultimo-vence-
+ trail-2020/
+URL:https://www.portugalrunning.com/eventos/last-man-standing-o-ultimo-vence-trail-2020/
+END:VEVENT
+END:VCALENDAR

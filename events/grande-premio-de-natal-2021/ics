@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9fc3095
+DTSTAMP:20250720T222431Z
+DTSTART:20211212
+DTEND:20211213
+LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
+SUMMARY:Grande Prémio de Natal 2021
+DESCRIPTION:Resultados O EDP Grande Prémio de Natal 2021 é uma das mais a
+ ntigas competições de estrada realizadas em Portugal com uma enorme ades�
+ �o popular nos anos 60 e 70\,  contando com os atletas do mais alto nível 
+ nacional. Nos últimos anos\,  os 10 kms do EDP Grande Prémio de Natal[..]
+ \nhttps://www.portugalrunning.com/eventos/grande-premio-de-natal-2021/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-natal-2021/
+END:VEVENT
+END:VCALENDAR

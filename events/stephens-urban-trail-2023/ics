@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d304976b
+DTSTAMP:20250720T222656Z
+DTSTART:20231007
+DTEND:20231008
+LOCATION:Marinha Grande\,  Leiria Marinha Grande\,  Leiria
+SUMMARY:Stephens Urban Trail 2023
+DESCRIPTION:A&nbsp;1ª edição da prova "Stephens urban trail"&nbsp;é uma
+ &nbsp;Organização dos Bombeiros Voluntários da Marinha Grande\,  do&nbsp
+ ;Clube Atletismo de Marinha Grande e Município da Marinha Grande. A prova 
+ realiza-se no dia 7 de outubro de 2023. Este evento é uma mistura de corr
+ ida\,  obstáculos\,  cultura e diversão. Ao longo dos cerca de 5kms[..]\n
+ https://www.portugalrunning.com/eventos/stephens-urban-trail-2023/
+URL:https://www.portugalrunning.com/eventos/stephens-urban-trail-2023/
+END:VEVENT
+END:VCALENDAR

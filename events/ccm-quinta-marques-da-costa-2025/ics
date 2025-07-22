@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2ac4fe5
+DTSTAMP:20250720T222234Z
+DTSTART:20250209T231600Z
+DTEND:20250209T235900Z
+LOCATION:Quinta da Lomba\,  Barreiro Quinta da Lomba\,  Barreiro
+SUMMARY:CCM Quinta Marques da Costa 2025
+DESCRIPTION:A Câmara Municipal do Barreiro e organização técnica da Xis
+ tarca\,  organiza no dia 09 fevereiro 2025\,  o CCM Quinta Marques da Cos
+ ta.\nhttps://www.portugalrunning.com/eventos/ccm-quinta-marques-da-costa-20
+ 25/
+URL:https://www.portugalrunning.com/eventos/ccm-quinta-marques-da-costa-2025/
+END:VEVENT
+END:VCALENDAR

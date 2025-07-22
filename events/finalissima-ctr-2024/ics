@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8ec4f18
+DTSTAMP:20250720T222414Z
+DTSTART:20240914
+DTEND:20240915
+LOCATION:Santarém Santarém
+SUMMARY:Finalíssima CTR 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/finalissima-ctr-2024/
+URL:https://www.portugalrunning.com/eventos/finalissima-ctr-2024/
+END:VEVENT
+END:VCALENDAR

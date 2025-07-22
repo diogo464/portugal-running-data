@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd6f3ac1
+DTSTAMP:20250720T222526Z
+DTSTART:20220529
+DTEND:20220530
+LOCATION:Peso da Régua\,  Vila Real Peso da Régua\,  Vila Real
+SUMMARY:Meia Maratona do Douro Vinhateiro 2022
+DESCRIPTION:Meia Maratona do Douro Vinhateiro 2022\,  Reconhecida como A Ma
+ is Bela Corrida Do Mundo\,  reúne todas as condições para\,  ano após a
+ no\,  se continuar a afirmar como uma das mais emblemáticas corridas a ní
+ vel mundial\,  com data marcada para 29 de Maio de 2022\,  em Peso da Régu
+ a. Acompanhamos com[..]\nhttps://www.portugalrunning.com/eventos/meia-marat
+ ona-do-douro-vinhateiro-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-douro-vinhateiro-2022/
+END:VEVENT
+END:VCALENDAR

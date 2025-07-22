@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8d93537
+DTSTAMP:20250720T222829Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail Serra Das Flores - Gondomar 2023
+DESCRIPTION:O TSF - TRAIL SERRA DAS FLORES\,  é um evento de trail-running
+  que decorre na Serra das Flores e montes adjacentes e que integra 3 provas
+ \,  todas elas de formato circular\,  non-stop:• TRAIL SERRA DAS FLORES 2
+ 1km - (TSF 21)• MINI TRAIL SERRA DAS FLORES 11km - (MTSF 11)• CAMINHADA
+ [..]\nhttps://www.portugalrunning.com/eventos/trail-serra-das-flores-gondom
+ ar-2023/
+URL:https://www.portugalrunning.com/eventos/trail-serra-das-flores-gondomar-2023/
+END:VEVENT
+END:VCALENDAR

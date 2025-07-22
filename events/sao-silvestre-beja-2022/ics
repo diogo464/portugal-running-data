@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edba2a
+DTSTAMP:20250720T222622Z
+DTSTART:20221230
+DTEND:20221231
+LOCATION:Beja Beja
+SUMMARY:São Silvestre Beja 2022
+DESCRIPTION:A São Silvestre é um evento organizado pela Câmara Municipal
+  de Beja com a colaboração técnicae de arbitragem da Associação de Atl
+ etismo de Beja e o apoio de vários parceiros e instituições.Percursos e 
+ distância As provas São Silvestre jovem\,  iniciam-se às 19h00\,  em per
+ cursos identificados para o efeito\,  deacordo com[..]\nhttps://www.portuga
+ lrunning.com/eventos/sao-silvestre-beja-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-beja-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3000c3d
+DTSTAMP:20250720T222656Z
+DTSTART:20220904
+DTEND:20220905
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Socalcos Trail 2022
+DESCRIPTION:Socalcos Trail 2022\nhttps://www.portugalrunning.com/eventos/so
+ calcos-trail-2022/
+URL:https://www.portugalrunning.com/eventos/socalcos-trail-2022/
+END:VEVENT
+END:VCALENDAR

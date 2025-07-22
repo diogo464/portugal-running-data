@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce24aa3d
+DTSTAMP:20250720T222538Z
+DTSTART:20240406
+DTEND:20240407
+LOCATION:Melgaço\,  Viana do Castelo Melgaço\,  Viana do Castelo
+SUMMARY:Melgaço Alvarinho Trail 2024
+DESCRIPTION:Melgaço Alvarinho Trail 2024\nhttps://www.portugalrunning.com/
+ eventos/melgaco-alvarinho-trail-2024/
+URL:https://www.portugalrunning.com/eventos/melgaco-alvarinho-trail-2024/
+END:VEVENT
+END:VCALENDAR

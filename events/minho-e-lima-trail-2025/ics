@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dd229
+DTSTAMP:20250720T222544Z
+DTSTART:20250223
+DTEND:20250224
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Minho e Lima Trail 2025
+DESCRIPTION:a. O “VIII Minho e Lima Trail” é um evento organizado pela
+  Associação Minho e Lima Trail\,  com o apoio e colaboração do Municíp
+ io de Ponte de Lima\,  das Juntas de Freguesia de Arca e Ponte de Lima\,  F
+ ornelos e Queijada\,  Boalhosa\,  Serdedelo e Ribeira e com o apoio de[..]\
+ nhttps://www.portugalrunning.com/eventos/minho-e-lima-trail-2025/
+URL:https://www.portugalrunning.com/eventos/minho-e-lima-trail-2025/
+END:VEVENT
+END:VCALENDAR

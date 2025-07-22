@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dc7a5
+DTSTAMP:20250720T222544Z
+DTSTART:20251026
+DTEND:20251027
+LOCATION:Lisboa Lisboa
+SUMMARY:Mini Maratona de Lisboa 2025
+DESCRIPTION:A EDP 8K é umas das mais populares provas nacionais\,  com a p
+ artida localizada na Ponte Vasco da Gama e a meta no Parque das Nações
+ . Com partida em simultâneo com a Hyundai Meia Maratona\,  esta prova ofer
+ ece aos seus participantes um dia diferente e percorrer a pé parte da Pont
+ e Vasco da[..]\nhttps://www.portugalrunning.com/eventos/mini-maratona-de-li
+ sboa-2025/
+URL:https://www.portugalrunning.com/eventos/mini-maratona-de-lisboa-2025/
+END:VEVENT
+END:VCALENDAR

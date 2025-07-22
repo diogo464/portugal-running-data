@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3062ed8
+DTSTAMP:20250720T222656Z
+DTSTART:20250518T143400Z
+DTEND:20250518T235900Z
+LOCATION:Felgueiras\,  Porto Felgueiras\,  Porto
+SUMMARY:Sousões Trail 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/sousoes-trail-2025/
+URL:https://www.portugalrunning.com/eventos/sousoes-trail-2025/
+END:VEVENT
+END:VCALENDAR

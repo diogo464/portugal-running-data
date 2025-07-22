@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1930cfc
+DTSTAMP:20250720T222217Z
+DTSTART:20241222
+DTEND:20241223
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Amarante Christmas Trail 2024
+DESCRIPTION:O XIII Amarante Christmas Trail é um evento organizado pela As
+ sociação Desportiva de Amarante\,  composto por quatro modalidades: Trail
+  Longo (30 km)\,  Trail Curto (20 km)\,  Mini-Trail (12 km) e Caminhada (12
+  km). O evento faz parte do Porto Trail Series e é uma das provas de desta
+ que na época[..]\nhttps://www.portugalrunning.com/eventos/amarante-christm
+ as-trail-2024/
+URL:https://www.portugalrunning.com/eventos/amarante-christmas-trail-2024/
+END:VEVENT
+END:VCALENDAR

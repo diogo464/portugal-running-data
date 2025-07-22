@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3dbd1f
+DTSTAMP:20250720T222507Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Maratona do Cerquido 2023
+DESCRIPTION:A “Maratona do Cerquido” é um evento organizado pela Assoc
+ iação Minho e Lima Trail\,  com o apoio e colaboração do Municipio de P
+ onte de Lima\,  do Município\,  Juntas de Freguesia de Estorãos\,  Arga d
+ e Cima\,  Arga de Baixo e Covas e com o apoio de várias empresas locais. O
+  evento[..]\nhttps://www.portugalrunning.com/eventos/maratona-do-cerquido-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/maratona-do-cerquido-2023/
+END:VEVENT
+END:VCALENDAR

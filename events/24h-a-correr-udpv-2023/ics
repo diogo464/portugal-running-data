@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc1a087
+DTSTAMP:20250720T222148Z
+DTSTART:20230929
+DTEND:20230930
+LOCATION:Évora Évora
+SUMMARY:24H A Correr Udpv 2023
+DESCRIPTION:Esta corrida é uma corrida solidária com uma vertente competi
+ tiva e aberta que terá lugar dia 29 e 30 Setembro Complexo Desportivo de �
+ �vora. CORRIDA UDPV TEM DOIS FORMATOS1- CORRIDA ABERTAPodem participar todo
+ s os corredores que se inscrevam nesta vertente e correr o tempo que quiser
+ em e os km que[..]\nhttps://www.portugalrunning.com/eventos/24h-a-correr-ud
+ pv-2023/
+URL:https://www.portugalrunning.com/eventos/24h-a-correr-udpv-2023/
+END:VEVENT
+END:VCALENDAR

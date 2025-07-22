@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf21879d
+DTSTAMP:20250720T222554Z
+DTSTART:20231014
+DTEND:20231015
+LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+SUMMARY:Ninja Ocr Police 2023
+DESCRIPTION:OEIRAS&nbsp;é tradicionalmente o palco de excelência que rece
+ berá a 3ª edição\,  a última etapa do circuito TriChallenge 2023\, &nb
+ sp; num fim de semana competitivo e de fortes sensações! Um palco de exce
+ lência para receber todos aqueles que pretendem desafiar-se numa pista nin
+ ja\,  tecnicamente desafiante.\nhttps://www.portugalrunning.com/eventos/nin
+ ja-ocr-police-2023/
+URL:https://www.portugalrunning.com/eventos/ninja-ocr-police-2023/
+END:VEVENT
+END:VCALENDAR

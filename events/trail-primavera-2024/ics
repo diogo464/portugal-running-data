@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7fac8f3
+DTSTAMP:20250720T222815Z
+DTSTART:20240324
+DTEND:20240325
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:Trail Primavera 2024
+DESCRIPTION:O 5º TRAIL DA PRIMAVERA é um evento de natureza desportiva. O
+  valor das refeições reverterápara a Associação de Bem Estar das Adema
+ s. O evento é composto por dois percursos de caracter competitivo e a deco
+ rrer em simultâneo\,  um trail curto com aproximadamente 15km e um tail lo
+ ngo de 25kms.[..]\nhttps://www.portugalrunning.com/eventos/trail-primavera-
+ 2024/
+URL:https://www.portugalrunning.com/eventos/trail-primavera-2024/
+END:VEVENT
+END:VCALENDAR

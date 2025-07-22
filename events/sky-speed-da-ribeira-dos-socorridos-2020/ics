@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d304a33e
+DTSTAMP:20250720T222656Z
+DTSTART:20200125
+DTEND:20200126
+LOCATION:Câmara de Lobos Câmara de Lobos\,  Madeira
+SUMMARY:Sky Speed da Ribeira dos Socorridos 2020
+DESCRIPTION:A Sky Speed da Ribeira dos Socorridos é uma competição dispu
+ tada em percurso predominantemente a subir numa escadaria que acompanha a c
+ onduta pertencente à Empresa de Eletricidade da Madeira. Apresenta um desn
+ ível positivo de cerca de 400 metros e uma distância aproximada de 600 me
+ tros entre a partida e a[..]\nhttps://www.portugalrunning.com/eventos/sky-s
+ peed-da-ribeira-dos-socorridos-2020/
+URL:https://www.portugalrunning.com/eventos/sky-speed-da-ribeira-dos-socorridos-2020/
+END:VEVENT
+END:VCALENDAR

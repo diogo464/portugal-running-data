@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca31853b
+DTSTAMP:20250720T222435Z
+DTSTART:20250329
+DTEND:20250330
+LOCATION:Sertã\,  Castelo Branco Sertã\,  Castelo Branco
+SUMMARY:Grande Prémio Pinhal / Sertã 2025
+DESCRIPTION:O Grupo Desp de S.º Domingos&nbsp;e&nbsp;Câmara Municipal da 
+ Sertã&nbsp;em colaboração com a Junta de freguesia\,  Assoc. Atletismo C
+ astelo Branco\,  Bombeiros Voluntários\,  Guarda Nacional Republicana Órg
+ ãos de Comunicação\,  Comércio Local e outras empresas ou entidades\,  
+ Colaboram na realização do evento. Todas as provas terão partida e chega
+ da com a meta localizada[..]\nhttps://www.portugalrunning.com/eventos/grand
+ e-premio-pinhal-serta-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-pinhal-serta-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92dbe29
+DTSTAMP:20250720T222834Z
+DTSTART:20220529
+DTEND:20220530
+LOCATION:Sardoal\,  Santarém Sardoal\,  Santarém
+SUMMARY:Trail Terras Do Sardão 2022
+DESCRIPTION:O VII Trail Terras Do Sardão 2022 será realizado no dia 29 de
+  maio de 2022\,  em Sardoal\, independentemente das condições climatéric
+ as do dia\,  desde que a organização entendaque não ofereçam risco aos 
+ participantes.\nhttps://www.portugalrunning.com/eventos/trail-terras-do-sar
+ dao-2022/
+URL:https://www.portugalrunning.com/eventos/trail-terras-do-sardao-2022/
+END:VEVENT
+END:VCALENDAR

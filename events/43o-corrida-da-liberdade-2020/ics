@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0779c01
+DTSTAMP:20250720T222159Z
+DTSTART:20200425
+DTEND:20200426
+LOCATION:Lisboa Lisboa
+SUMMARY:43º Corrida da Liberdade 2020
+DESCRIPTION:No dia 25 Abril\,  a alegria e a festa colectiva saem mais uma 
+ vez à rua. O desejo e o prazer da participação mantêm viva a “Corrida
+  da Liberdade“ e a sua simbologia\,  nesse dia em que saudamos os 45 anos
+  da Revolução dos Cravos. A PRAÇA dos RESTAURADORES irá[..]\nhttps://ww
+ w.portugalrunning.com/eventos/43o-corrida-da-liberdade-2020/
+URL:https://www.portugalrunning.com/eventos/43o-corrida-da-liberdade-2020/
+END:VEVENT
+END:VCALENDAR

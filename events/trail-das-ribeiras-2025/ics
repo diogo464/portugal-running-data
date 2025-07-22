@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50dc6c1
+DTSTAMP:20250720T222728Z
+DTSTART:20250413T230700Z
+DTEND:20250413T235900Z
+LOCATION:Telhado\,  Penacova Telhado\,  Penacova
+SUMMARY:Trail das Ribeiras 2025
+DESCRIPTION:O Trail das Ribeiras será no dia 13 de Abril e contará com pr
+ ovas de 18km\,  14km e uma caminhada de 8km.\nhttps://www.portugalrunning.c
+ om/eventos/trail-das-ribeiras-2025/
+URL:https://www.portugalrunning.com/eventos/trail-das-ribeiras-2025/
+END:VEVENT
+END:VCALENDAR

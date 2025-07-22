@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7f00d63
+DTSTAMP:20250720T222815Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Caranguejeira\,  Leiria Caranguejeira\,  Leiria
+SUMMARY:Trail Pinheiro Manso 2025
+DESCRIPTION:Sob organização do clube&nbsp;GAC (Grupo de Atletismo da Cara
+ nguejeira)\, &nbsp;em parceria com a&nbsp;Junta de Freguesia da Caranguejei
+ ra\,  realiza-se a&nbsp;25 de Maio de 2025&nbsp;a&nbsp;VIII edição do Tra
+ il do Pinheiro Manso (TPM). A prova é constituída por&nbsp;TPM K19 e TPM 
+ K11 e Caminhada: TPM – K19 - Aproximadamente 19 km TPM – K11[..]\nhttps
+ ://www.portugalrunning.com/eventos/trail-pinheiro-manso-2025/
+URL:https://www.portugalrunning.com/eventos/trail-pinheiro-manso-2025/
+END:VEVENT
+END:VCALENDAR

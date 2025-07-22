@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d13aac1f
+DTSTAMP:20250720T222627Z
+DTSTART:20211211
+DTEND:20211212
+LOCATION:Almada Almada
+SUMMARY:São Silvestre de Almada 2021
+DESCRIPTION:O CLUBE DE ATLETISMO AMIGOS DO PARQUE DA PAZ\,  em parceria com
+  a Associação Desportiva O Mundo da Corrida e com o apoio da Câmara Muni
+ cipal de Almada\,  vai realizar no dia 11 de Dezembro de 2021 pelas 17.30 h
+ oras\,  uma corrida de 10 km\,  denominada SÃO SILVESTRE DE ALMADA[..]\nht
+ tps://www.portugalrunning.com/eventos/sao-silvestre-de-almada-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-almada-2021/
+END:VEVENT
+END:VCALENDAR

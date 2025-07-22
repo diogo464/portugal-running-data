@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b49bd3
+DTSTAMP:20250720T222251Z
+DTSTART:20250907
+DTEND:20250908
+LOCATION:Seixal\,  Setúbal Seixal\,  Setúbal
+SUMMARY:Corrida da Festa do Avante 2025
+DESCRIPTION:A 36ª Corrida da Festa do “Avante!” realiza-se no dia 7&nb
+ sp;de Setembro de 2025&nbsp;às 9h30m\,  na distância de 10.000 metros&nbs
+ p;(Distância Homologada pela Federação Portuguesa de Atletismo) e&nbsp; 
+ uma Caminhada de 4.500 metros. Esta corrida é uma prova aberta\,  destinad
+ a a representantes de clubes federados ou não\,  associações\,  ou atlet
+ as individuais.[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-fes
+ ta-do-avante-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-festa-do-avante-2025/
+END:VEVENT
+END:VCALENDAR

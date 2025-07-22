@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da87adf2
+DTSTAMP:20250720T222856Z
+DTSTART:20250316
+DTEND:20250317
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trilhos do Paleozoico 2025
+DESCRIPTION:A 12ª edição dos Trilhos do Paleozóico é uma prova que per
+ corre trilhos e caminhos na serra de Santa Justa e de Pias no concelho de V
+ alongo\,  onde está inserido o Parque Paleozóico de Valongo e o Centro de
+  Trail de Valongo\,  com partida e chegada no Largo do Centenário[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trilhos-do-paleozoico-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-paleozoico-2025/
+END:VEVENT
+END:VCALENDAR

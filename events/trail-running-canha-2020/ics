@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8718c70
+DTSTAMP:20250720T222823Z
+DTSTART:20200308
+DTEND:20200309
+LOCATION:Canha\,  Montijo Canha\,  Montijo\,  Setúbal
+SUMMARY:Trail Running Canha 2020
+DESCRIPTION:As veredas\,  carreiros e\,  os trilhos de Canha vão receber\,
+   dia 8 de Março a quinta edição do Trail Runing de Canha. Canha é a ca
+ pital da Aventura do Conselho de Montijo. Este ano as opções sao: corrida
+  de 15 km ou caminhada de 8 km\,  ambas pelos trilhos de[..]\nhttps://www.p
+ ortugalrunning.com/eventos/trail-running-canha-2020/
+URL:https://www.portugalrunning.com/eventos/trail-running-canha-2020/
+END:VEVENT
+END:VCALENDAR

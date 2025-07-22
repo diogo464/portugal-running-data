@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da47a0b3
+DTSTAMP:20250720T222852Z
+DTSTART:20250209
+DTEND:20250210
+LOCATION:Meadela\,  Viana do Castelo Meadela\,  Viana do Castelo
+SUMMARY:Trilhos de Viana 2025
+DESCRIPTION:Os VI Trilhos de Viana são uma organização da Associação T
+ rilhos de Viana\,  com o apoio da Camara Municipal de Viana do Castelo. Rea
+ lizam-se a 9 de Fevereiro de 2025\,  com partidas/chegadas no EstádioMunic
+ ipal Manuela Machado. Será composto por três provas de trail e uma caminh
+ ada:Trail Longo – 32kmTrail Curto[..]\nhttps://www.portugalrunning.com/ev
+ entos/trilhos-de-viana-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-viana-2025/
+END:VEVENT
+END:VCALENDAR

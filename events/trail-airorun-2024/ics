@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d38aabe6
+DTSTAMP:20250720T222704Z
+DTSTART:20240922
+DTEND:20240923
+LOCATION:Airó\,  Barcelos Airó\,  Barcelos
+SUMMARY:Trail Airórun 2024
+DESCRIPTION:O IV Trail AiróRun é promovido e organizado pela equipa Airó
+ Run e realiza-se no dia 22 de setembro de 2024 às 9h00. Trail Longo - 23 K
+ m Trail Curto - 14 Km Caminhada - 10 Km (aprox.)\nhttps://www.portugalrunni
+ ng.com/eventos/trail-airorun-2024/
+URL:https://www.portugalrunning.com/eventos/trail-airorun-2024/
+END:VEVENT
+END:VCALENDAR

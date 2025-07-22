@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007a660
+DTSTAMP:20250720T222608Z
+DTSTART:20230520
+DTEND:20230521
+LOCATION:Porto Santo\,  Madeira Porto Santo\,  Madeira
+SUMMARY:Porto Santo Nature Trail 2023
+DESCRIPTION:O Porto Santo Nature Trail 2023 é um evento de trail running\,
+   que decorre integralmente na ilha do Porto Santo e que integra três prov
+ as pontuáveis para o ranking do Circuito Trail Madeira da época 2022-23:\
+ nhttps://www.portugalrunning.com/eventos/porto-santo-nature-trail-2023/
+URL:https://www.portugalrunning.com/eventos/porto-santo-nature-trail-2023/
+END:VEVENT
+END:VCALENDAR

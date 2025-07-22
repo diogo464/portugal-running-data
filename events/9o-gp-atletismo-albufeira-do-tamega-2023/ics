@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1193d67
+DTSTAMP:20250720T222209Z
+DTSTART:20230723
+DTEND:20230724
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:9º Gp Atletismo Albufeira Do Tâmega 2023
+DESCRIPTION:A Casa do Benfica no Marco\,  com o apoio da Câmara Municipal 
+ do Marco de Canaveses\,  vai organizaro 9º Grande Prémio de Atletismo Alb
+ ufeira do Tâmega\,  no dia 23 de julho de 2023\nhttps://www.portugalrunnin
+ g.com/eventos/9o-gp-atletismo-albufeira-do-tamega-2023/
+URL:https://www.portugalrunning.com/eventos/9o-gp-atletismo-albufeira-do-tamega-2023/
+END:VEVENT
+END:VCALENDAR

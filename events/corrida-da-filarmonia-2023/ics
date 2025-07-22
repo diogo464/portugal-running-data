@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3bdbdcb
+DTSTAMP:20250720T222251Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Montelavar\,  Sintra Montelavar\,  Sintra
+SUMMARY:Corrida da Filarmonia 2023
+DESCRIPTION:A Sociedade Filarmónica Boa União Montelavarense\,  vai reali
+ zar no domingo\,  dia 24 de Setembro de 2023\,  pelas 10:00 horas\,  um eve
+ nto desportivo de Atletismo\,  designado por IV Corrida da Filarmonia. A 1�
+ � Corrida da Filarmonia é composta por 1 corrida (de carácter competitivo
+ ) com o seguinte percurso:Corrida (+/-10000 metros)\nhttps://www.portugalru
+ nning.com/eventos/corrida-da-filarmonia-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-filarmonia-2023/
+END:VEVENT
+END:VCALENDAR

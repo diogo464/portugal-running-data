@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2edbf57
+DTSTAMP:20250720T222238Z
+DTSTART:20250406
+DTEND:20250407
+LOCATION:Bombarral Bombarral\,  Leiria
+SUMMARY:Columbeira Trail Run 2025
+DESCRIPTION:Columbeira Trail Run 2025\nhttps://www.portugalrunning.com/even
+ tos/columbeira-trail-run-2025/
+URL:https://www.portugalrunning.com/eventos/columbeira-trail-run-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d12c358e
+DTSTAMP:20250720T222626Z
+DTSTART:20211218
+DTEND:20211219
+LOCATION:Batalha\,  Leiria Batalha\,  Leiria
+SUMMARY:São Silvestre da Batalha 2021
+DESCRIPTION:No próximo dia 18 de Dezembro de 2021\,  realiza-se a&nbsp;8ª
+  São Silvestre da Batalha 2021\,  organizada pelo&nbsp;Atletico Clube Bata
+ lha\,  em parceria com a&nbsp;Câmara Municipal de Batalha&nbsp;e apoio da&
+ nbsp;Associação Distrital de Leiria.\nhttps://www.portugalrunning.com/eve
+ ntos/sao-silvestre-da-batalha-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-batalha-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cad62b10
+DTSTAMP:20250720T222445Z
+DTSTART:20230715
+DTEND:20230716
+LOCATION:São Marcos da Serra\,  Silves São Marcos da Serra\,  Silves
+SUMMARY:I Trail Comidas do D'Monte 2023
+DESCRIPTION:O&nbsp;I Trail Comidas do Monte&nbsp;é um evento desportivo de
+  caráter lúdico e competitivo que tem por objetivo divulgar e promover n�
+ �o só a prática desportiva\,  em especial na modalidade de&nbsp;trail run
+ ning\,  mas também os territórios onde decorre o evento. O evento irá de
+ correr no dia 15 de Julho de 2023.O&nbsp;I[..]\nhttps://www.portugalrunning
+ .com/eventos/i-trail-comidas-do-monte-2023/
+URL:https://www.portugalrunning.com/eventos/i-trail-comidas-do-monte-2023/
+END:VEVENT
+END:VCALENDAR

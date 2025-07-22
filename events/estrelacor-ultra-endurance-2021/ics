@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b19449
+DTSTAMP:20250720T222411Z
+DTSTART:20211008
+DTEND:20211009
+LOCATION:Penhas da Saúde Penhas da Saúde\,  Covilhã
+SUMMARY:EstrelAçor Ultra Endurance 2021
+DESCRIPTION:-A EstrelAçor é um evento de Trail Running\,  que decorre na 
+ Serra da Estrela e Serra do Açor e que integra quatro provas: EstrelAçor 
+ 180 km\,  EstrelAçor 100 km\,  Estrela 50 km\,  Estrela 25 km.. Este ano c
+ om as provas de 50km e 25km a irem à Torre a aumentarem[..]\nhttps://www.p
+ ortugalrunning.com/eventos/estrelacor-ultra-endurance-2021/
+URL:https://www.portugalrunning.com/eventos/estrelacor-ultra-endurance-2021/
+END:VEVENT
+END:VCALENDAR

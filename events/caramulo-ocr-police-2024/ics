@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2a1888b
+DTSTAMP:20250720T222234Z
+DTSTART:20240414
+DTEND:20240415
+LOCATION:Caramulo\,  Viseu Caramulo\,  Viseu
+SUMMARY:Caramulo Ocr Police 2024
+DESCRIPTION:Desafia-te na 1ª de 3 etapas\,  do circuito Trichallenge 2024.
+  Montanha / Cidade / Praia Este é um desafio onde podes participar individ
+ ualmente ou com a tua equipa de amigos\,  mais importante do que vencer é 
+ terminar e conquistar a meta. O evento possui 2 categorias de participaçã
+ o : FUN[..]\nhttps://www.portugalrunning.com/eventos/caramulo-ocr-police-20
+ 24/
+URL:https://www.portugalrunning.com/eventos/caramulo-ocr-police-2024/
+END:VEVENT
+END:VCALENDAR

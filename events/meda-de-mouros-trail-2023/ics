@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc863532
+DTSTAMP:20250720T222512Z
+DTSTART:20230115
+DTEND:20230116
+LOCATION:Tábua\,  Coimbra Tábua\,  Coimbra
+SUMMARY:Meda de Mouros Trail 2023
+DESCRIPTION:O Meda de Mouros Trail CR é organizado pela Comissão Melhoram
+ entos de Meda de Mouros. Conta ainda com a colaboração da Junta de Fregue
+ sia de Meda de Mouros / Pinheiro de Coja e da Câmara Municipal de Tábua.O
+  Meda de Mouros Trail CR é um evento de Trail Running constituído[..]\nht
+ tps://www.portugalrunning.com/eventos/meda-de-mouros-trail-2023/
+URL:https://www.portugalrunning.com/eventos/meda-de-mouros-trail-2023/
+END:VEVENT
+END:VCALENDAR

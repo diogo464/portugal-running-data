@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8dd042
+DTSTAMP:20250720T222544Z
+DTSTART:20241020T133600Z
+DTEND:20241020T133600Z
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:Milha da Cegonha 2024
+DESCRIPTION:A Milha da cegonha vai-se realizar no dia 20 de Outubro\,  com 
+ medição feita pela Federação.\nhttps://www.portugalrunning.com/eventos/
+ milha-da-cegonha-2024/
+URL:https://www.portugalrunning.com/eventos/milha-da-cegonha-2024/
+END:VEVENT
+END:VCALENDAR

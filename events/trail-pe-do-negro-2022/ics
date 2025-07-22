@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7e93333
+DTSTAMP:20250720T222814Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Trail Pé Do Negro 2022
+DESCRIPTION:O evento Trail Pé do Negro Ponte de Lima é organizado e promo
+ vido pela Escola Desportiva Limiana. Realizar-se-á no dia 30 de Outubro de
+  2022 pelas diversas zonas circundantes na Freguesia do Bárrio\,  Ponte de
+  Lima\,  e Freguesias contíguas.\nhttps://www.portugalrunning.com/eventos/
+ trail-pe-do-negro-2022/
+URL:https://www.portugalrunning.com/eventos/trail-pe-do-negro-2022/
+END:VEVENT
+END:VCALENDAR

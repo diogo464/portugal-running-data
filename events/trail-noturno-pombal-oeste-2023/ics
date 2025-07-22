@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7bab340
+DTSTAMP:20250720T222811Z
+DTSTART:20230930
+DTEND:20231001
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Trail Noturno Pombal Oeste 2023
+DESCRIPTION:Esta prova irá ser organizada pela União de Freguesias Guia\,
+   Ilha e Mata Mourisca em parceria com os Bombeiros Voluntários de Pombal\
+ ,  o Município de Pombal com o apoio técnico da Recorde Pessoal. O valor 
+ das inscrições irá reverter na sua totalidade a favor dos Bombeiros Volu
+ ntários de Pombal\,  para[..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-noturno-pombal-oeste-2023/
+URL:https://www.portugalrunning.com/eventos/trail-noturno-pombal-oeste-2023/
+END:VEVENT
+END:VCALENDAR

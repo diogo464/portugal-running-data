@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c82acaad
+DTSTAMP:20250720T222402Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Coimbra Coimbra
+SUMMARY:Eco Meia Maratona de Coimbra 2024
+DESCRIPTION:Dia 13 de Outubro vamos invadir os Campos do Mondego\,  𝘼�
+ �𝙚𝙞𝙩𝙖 𝙤 𝙙𝙚𝙨𝙖𝙛𝙞𝙤\,  para uma Meia Marato
+ na fora de estrada\,  diferente\,  cheia de magia em plena natureza. 21km 1
+ 0km correr /caminhar\nhttps://www.portugalrunning.com/eventos/eco-meia-mara
+ tona-de-coimbra-2024/
+URL:https://www.portugalrunning.com/eventos/eco-meia-maratona-de-coimbra-2024/
+END:VEVENT
+END:VCALENDAR

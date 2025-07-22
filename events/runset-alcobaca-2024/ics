@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c3837
+DTSTAMP:20250720T222617Z
+DTSTART:20240713
+DTEND:20240714
+LOCATION:Alcobaça\,  Leiria Alcobaça\,  Leiria
+SUMMARY:Runset Alcobaça 2024
+DESCRIPTION:A RUNSET Alcobaça é um evento co-organizado pela Associação
+  MakeMove em conjunto com o Município de Alcobaça. Paralelamente à Runse
+ t Alcobaça com aprox. 13km\,  decorrerá também a MiniRace/Caminhada REMA
+ X MOSTEIRO de +/- 9\,  bem como a Kids Race REMAX MOSTEIRO\,  ambas sem qua
+ lquer carácter competitivo.\nhttps://www.portugalrunning.com/eventos/runse
+ t-alcobaca-2024/
+URL:https://www.portugalrunning.com/eventos/runset-alcobaca-2024/
+END:VEVENT
+END:VCALENDAR

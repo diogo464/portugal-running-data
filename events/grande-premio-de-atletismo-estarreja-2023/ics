@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9df3db6
+DTSTAMP:20250720T222429Z
+DTSTART:20230311
+DTEND:20230312
+LOCATION:Estarreja\,  Aveiro Estarreja\,  Aveiro
+SUMMARY:Grande Prémio De Atletismo Estarreja 2023
+DESCRIPTION:O Centro Recreativo de Estarreja – C.R.E.\,  em colaboração
+  com a Câmara Municipal de Estarreja\,  leva a efeito no próximo dia 11 d
+ e Março de 2023\,  o seu 36º Grande Prémio de Atletismo “Cidade de Est
+ arreja”.\nhttps://www.portugalrunning.com/eventos/grande-premio-de-atleti
+ smo-estarreja-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-estarreja-2023/
+END:VEVENT
+END:VCALENDAR

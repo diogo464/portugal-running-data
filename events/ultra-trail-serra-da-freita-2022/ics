@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db717f78
+DTSTAMP:20250720T222911Z
+DTSTART:20220625
+DTEND:20220626
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Ultra Trail Serra da Freita 2022
+DESCRIPTION:Ultra Trail Serra da Freita 2022 é um evento de Trail Running 
+ em que o atleta se irá aventurar\,  por alguns dos mais belos trilhos\,  n
+ os concelhos de Arouca\,  Vale de Cambra e S. Pedro do Sul.\nhttps://www.po
+ rtugalrunning.com/eventos/ultra-trail-serra-da-freita-2022/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-serra-da-freita-2022/
+END:VEVENT
+END:VCALENDAR

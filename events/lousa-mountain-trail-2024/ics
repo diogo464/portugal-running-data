@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbaf40ea
+DTSTAMP:20250720T222458Z
+DTSTART:20250119
+DTEND:20250120
+LOCATION:Lousa\,  Lisboa Lousa\,  Lisboa
+SUMMARY:Lousa Mountain Trail 2024
+DESCRIPTION:Junta de Freguesia de Lousa\,  em colaboração com a entidade 
+ Trail4U irão organizar a 19 de Janeiro de 2025 pelas 09h00 horas o Lousa M
+ ountain Trail\,  em Lousa\,  concelho de Loures. O Lousa Mountain Trail é 
+ uma prova de Trail Running\,  corrida pedestre em Natureza\,  com três pro
+ vas\,  Trail Longo[..]\nhttps://www.portugalrunning.com/eventos/lousa-mount
+ ain-trail-2024/
+URL:https://www.portugalrunning.com/eventos/lousa-mountain-trail-2024/
+END:VEVENT
+END:VCALENDAR

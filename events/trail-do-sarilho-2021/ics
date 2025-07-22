@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6179bf2
+DTSTAMP:20250720T222745Z
+DTSTART:20211212
+DTEND:20211213
+LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+SUMMARY:Trail do Sarilho 2021
+DESCRIPTION:O trail do Sarilho 2021 regressa a 12 de dezembro.\nhttps://www
+ .portugalrunning.com/eventos/trail-do-sarilho-2021/
+URL:https://www.portugalrunning.com/eventos/trail-do-sarilho-2021/
+END:VEVENT
+END:VCALENDAR

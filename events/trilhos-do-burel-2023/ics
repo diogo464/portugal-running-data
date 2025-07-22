@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da6305e8
+DTSTAMP:20250720T222854Z
+DTSTART:20231111
+DTEND:20231112
+LOCATION:Manteigas\,  Guarda Manteigas\,  Guarda
+SUMMARY:Trilhos do Burel 2023
+DESCRIPTION:O evento Trilhos do Burel vai na 4ª edição e irá decorrer n
+ o dia 11 de novembro de 2023\,  emManteigas\,  Serra da Estrela.\nhttps://w
+ ww.portugalrunning.com/eventos/trilhos-do-burel-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-burel-2023/
+END:VEVENT
+END:VCALENDAR

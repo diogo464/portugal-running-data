@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4c00356
+DTSTAMP:20250720T222724Z
+DTSTART:20250119
+DTEND:20250120
+LOCATION:Rio de Loba\,  Viseu Rio de Loba\,  Viseu
+SUMMARY:Trail da Loba 2025
+DESCRIPTION:O 7º Trail da Loba será realizado no dia 19/01/2025 em Rio de
+  Loba – Viseu. Este evento é organizado pela Junta de Freguesia de Rio d
+ e Loba\,  em parceria com o Centro Social Cultural Recreativo e Desportivo 
+ Leões da Beira e tem como objetivo promover a prática da atividade[..]\nh
+ ttps://www.portugalrunning.com/eventos/trail-da-loba-2025/
+URL:https://www.portugalrunning.com/eventos/trail-da-loba-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c73dc514
+DTSTAMP:20250720T222347Z
+DTSTART:20220326
+DTEND:20220327
+LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+SUMMARY:Corrida S Silvestre Manuel Dos Santos Almeida 2022
+DESCRIPTION:Corrida S Silvestre Manuel Dos Santos Almeida 2022\nhttps://www
+ .portugalrunning.com/eventos/corrida-s-silvestre-manuel-dos-santos-almeida-
+ 2022/
+URL:https://www.portugalrunning.com/eventos/corrida-s-silvestre-manuel-dos-santos-almeida-2022/
+END:VEVENT
+END:VCALENDAR

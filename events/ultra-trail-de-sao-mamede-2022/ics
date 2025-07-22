@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db430a37
+DTSTAMP:20250720T222908Z
+DTSTART:20220506
+DTEND:20220507
+LOCATION:Portalegre Portalegre
+SUMMARY:Ultra Trail de São Mamede 2022
+DESCRIPTION:O Ultra Trail da Serra de São Mamede 2022 é um evento de corr
+ ida por trilhos de ultra distância com 8 fantásticas edições disputadas
+ . Em 2022 realiza-se nos dias 6\,  7 e 8 de maio nas distâncias de 110 Km\
+ ,  43 Km\,  22 Km e 12 Km. Decorre nos concelhos[..]\nhttps://www.portugalr
+ unning.com/eventos/ultra-trail-de-sao-mamede-2022/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-de-sao-mamede-2022/
+END:VEVENT
+END:VCALENDAR

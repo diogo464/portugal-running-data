@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5bc4257
+DTSTAMP:20250720T222323Z
+DTSTART:20240106
+DTEND:20240107
+LOCATION:Moita\,  Setúbal Moita\,  Setúbal
+SUMMARY:Corrida dos Reis Moita 2024
+DESCRIPTION:A Câmara Municipal da Moita e a União de Freguesias do Gaio-R
+ osário e Sarilhos Pequenos\,  irão organizar no próximo dia 6 de janeiro
+  de 2024\,  a 19ª Corrida dos Reis integrada no Torneio das Coletividades 
+ do Município da Moita em Atletismo – ATLETISMOITA – Podem participar n
+ estas Provas atletas federados[..]\nhttps://www.portugalrunning.com/eventos
+ /corrida-dos-reis-moita-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-moita-2024/
+END:VEVENT
+END:VCALENDAR

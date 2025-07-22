@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b7b627
+DTSTAMP:20250720T222323Z
+DTSTART:20241130
+DTEND:20241201
+LOCATION:Fundão\,  Castelo Branco Fundão\,  Castelo Branco
+SUMMARY:Corrida dos Restauradores 2024
+DESCRIPTION:A Corrida dos Restauradores celebra uma das seculares tradiçõ
+ es do Fundão\,  a Arruada do 1.º de Dezembro. Todos os anos\,  às 00h00 
+ do dia 01 de dezembro\,  os locais reúnem-se em surdina na Praçado Munic�
+ �pio e percorrem as ruas com o propósito de "correr os espanhóis"\,  numa
+  clara alusão aosacontecimentos[..]\nhttps://www.portugalrunning.com/event
+ os/corrida-dos-restauradores-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-restauradores-2024/
+END:VEVENT
+END:VCALENDAR

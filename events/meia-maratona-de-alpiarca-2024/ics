@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccd00334
+DTSTAMP:20250720T222517Z
+DTSTART:20240623T212500Z
+DTEND:20240623T212500Z
+LOCATION:Alpiarça\,  Santarém Alpiarça\,  Santarém
+SUMMARY:Meia Maratona de Alpiarça 2024
+DESCRIPTION:O Município de Alpiarça\,  em estreita parceria com a Fundaç
+ ão INATEL\,  a Junta de Freguesia de Alpiarça e X\,  está empenhado na o
+ rganização de uma corrida a decorrer na manhã de 23 de junho de 2024. Es
+ te evento comporta três modalidades de participação\,  uma MiniMaratona 
+ (10.000\, 00 m)\,  uma Meia-Maratona (21.097\, 50[..]\nhttps://www.portugal
+ running.com/eventos/meia-maratona-de-alpiarca-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-alpiarca-2024/
+END:VEVENT
+END:VCALENDAR

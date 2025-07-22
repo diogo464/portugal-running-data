@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc849168
+DTSTAMP:20250720T222512Z
+DTSTART:20250309
+DTEND:20250310
+LOCATION:Braga Braga
+SUMMARY:Meia Maratona Braga 2025
+DESCRIPTION:No dia 9 de março de 2025\,  às 9h30\,  Braga será o palco d
+ a 9ª edição da Caravela Seguros Meia Maratona! Com partida e chegada na 
+ Av. João Paulo II\,  o evento promete reunir atletas de todos os níveis e
+  idades em um ambiente de celebração e superação. A prova[..]\nhttps://
+ www.portugalrunning.com/eventos/meia-maratona-braga-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-braga-2025/
+END:VEVENT
+END:VCALENDAR

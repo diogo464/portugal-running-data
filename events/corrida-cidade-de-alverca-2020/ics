@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3748fce
+DTSTAMP:20250720T222247Z
+DTSTART:20200524
+DTEND:20200525
+LOCATION:Alverca Alverca\,  Lisboa
+SUMMARY:Corrida Cidade de Alverca 2020
+DESCRIPTION:A Associação Portugal Talentus\,  com o apoio do Instituto Po
+ rtuguês do Desporto e Juventude\,  da Câmara Municipal de Vila Franca de 
+ Xira\,  da Junta de Freguesia de Alverca do Ribatejo e Sobralinho e da For�
+ �a Aérea Portuguesa e OGMA\,  promove a realização da 6a CORRIDA CIDADE 
+ DE ALVERCA\,  no dia[..]\nhttps://www.portugalrunning.com/eventos/corrida-c
+ idade-de-alverca-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-alverca-2020/
+END:VEVENT
+END:VCALENDAR

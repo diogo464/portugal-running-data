@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8291e87
+DTSTAMP:20250720T222402Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Cinfães Cinfães
+SUMMARY:Douro Montemuro Ultra Trail 2024
+DESCRIPTION:O DMUT – Douro Montemuro Ultra Trilhos é um evento de trail 
+ running organizado pela Associação desportiva Cinfães a Correr (ADCC)\, 
+  que irá decorrer no dia 2 de junho de 2024\,  no concelho de Cinfães e q
+ ue integra 4 provas competitivas: DMUT Trail Ultra\,  DMUT Trail Longo\,  D
+ MUT Trail Curto[..]\nhttps://www.portugalrunning.com/eventos/douro-montemur
+ o-ultra-trail-2024/
+URL:https://www.portugalrunning.com/eventos/douro-montemuro-ultra-trail-2024/
+END:VEVENT
+END:VCALENDAR

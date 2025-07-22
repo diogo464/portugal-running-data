@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c26dbd01
+DTSTAMP:20250720T222230Z
+DTSTART:20240609
+DTEND:20240610
+LOCATION:Mascotelos\,  Guimarães Mascotelos\,  Guimarães
+SUMMARY:GMR Challenge 2024
+DESCRIPTION:O GMR Challenge é um evento recreativo e desportivo que se rea
+ liza em Guimarães\,  percorrendo trilhos de montanha\,  estradas rurais e 
+ vias municipais. A sua primeira edição\,  em 2023\,  foi um grande sucess
+ o\,  com a participação de cerca de 800 atletas. O evento oferece percurs
+ os diversificados de BTT\,  Trail e[..]\nhttps://www.portugalrunning.com/ev
+ entos/cachorrao-gmr-challenge-2024/
+URL:https://www.portugalrunning.com/eventos/cachorrao-gmr-challenge-2024/
+END:VEVENT
+END:VCALENDAR

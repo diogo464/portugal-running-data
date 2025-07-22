@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc861239
+DTSTAMP:20250720T222928Z
+DTSTART:20230715
+DTEND:20230716
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:V Viana Race 2023
+DESCRIPTION:Desafia-te e supera os teus limites! A quinta edição da Viana
+  Race está a chegar! Prepara-te para testar a tua resistência\,  força e
+  habilidade num percurso desafiante que mistura aventura\,  obstáculos nat
+ urais e artificiais no belo Centro Histórico de Viana do Castelo. A partid
+ a será às 16:00h do dia 15[..]\nhttps://www.portugalrunning.com/eventos/v
+ -viana-race-2023/
+URL:https://www.portugalrunning.com/eventos/v-viana-race-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f92eb0
+DTSTAMP:20250720T222343Z
+DTSTART:20250302T165500Z
+DTEND:20250302T165500Z
+LOCATION:Reigoso\,  Oliveira de Frades Reigoso\,  Oliveira de Frades
+SUMMARY:Corrida Solidária Reigoso 2025
+DESCRIPTION:Bombeiros Voluntários de Oliveira de Frades com a colaboraçã
+ o da equipa dos reumáticos vai organizar uma corrida solidária no dia 2 d
+ e março de 2025\,  com corrida de 15km e caminhada de 7km.\nhttps://www.po
+ rtugalrunning.com/eventos/corrida-solidaria-reigoso-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-reigoso-2025/
+END:VEVENT
+END:VCALENDAR

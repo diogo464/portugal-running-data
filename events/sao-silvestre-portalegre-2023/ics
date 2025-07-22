@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2179a2e
+DTSTAMP:20250720T222641Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Portalegre Portalegre
+SUMMARY:São Silvestre Portalegre 2023
+DESCRIPTION:A Grande Corrida de Natal Solidária – São Silvestre Portale
+ gre\,  é uma prova de atletismo (estrada) e realiza-se no dia 16 de dezemb
+ ro de 2023 (Sábado)\,  entre as 14:30 e as 16:30 na cidade de Portalegre. 
+ É organizada pela DAP – Associação de Desporto e Aventura de Portalegr
+ e com o[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-portaleg
+ re-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-portalegre-2023/
+END:VEVENT
+END:VCALENDAR

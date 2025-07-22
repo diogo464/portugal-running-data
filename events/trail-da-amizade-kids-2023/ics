@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4830873
+DTSTAMP:20250720T222720Z
+DTSTART:20231202
+DTEND:20231203
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Amizade Kids 2023
+DESCRIPTION:No próximo dia 2 de dezembro\,  irá organizar a 2ª edição 
+ do TRAIL DA AMIZADE KIDS que contará com o apoio e colaboração do Munic�
+ �pio de Ansião\,  entre outros patrocinadores e colaboradores.\nhttps://ww
+ w.portugalrunning.com/eventos/trail-da-amizade-kids-2023/
+URL:https://www.portugalrunning.com/eventos/trail-da-amizade-kids-2023/
+END:VEVENT
+END:VCALENDAR

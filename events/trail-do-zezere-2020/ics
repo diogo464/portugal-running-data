@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d697b197
+DTSTAMP:20250720T222753Z
+DTSTART:20201115
+DTEND:20201116
+LOCATION:Ferreira do Zêzere\,  Santarém Ferreira do Zêzere\,  Santarém
+SUMMARY:Trail do Zêzere 2020
+DESCRIPTION:O Trail do Zêzere voltará em 2020 a realizar-se em Ferreira d
+ o Zêzere\,  numa das regiões mais bonitas de Portugal. Com percursos de d
+ ifícil progressão\,  mas de uma beleza extraordinária\,  esta é uma das
+  mais destacadas provas de Trail Running do nosso país.\nhttps://www.portu
+ galrunning.com/eventos/trail-do-zezere-2020/
+URL:https://www.portugalrunning.com/eventos/trail-do-zezere-2020/
+END:VEVENT
+END:VCALENDAR

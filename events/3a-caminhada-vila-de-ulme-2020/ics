@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c03abc36
+DTSTAMP:20250720T222155Z
+DTSTART:20200222
+DTEND:20200223
+LOCATION:Ulme\,  Santarém Ulme\,  Santarém
+SUMMARY:3a Caminhada Vila De Ulme 2020
+DESCRIPTION:Preços: Donativo de 2\, 50€ Donativo de 5€ Donativo de 10�
+ �� Distâncias: Caminhada - 8 km O valor do donativo inclui: - 1 sandes de 
+ porto no espeto - 1 bebida - T-Shirt para as primeiras 150 inscrições\nht
+ tps://www.portugalrunning.com/eventos/3a-caminhada-vila-de-ulme-2020/
+URL:https://www.portugalrunning.com/eventos/3a-caminhada-vila-de-ulme-2020/
+END:VEVENT
+END:VCALENDAR

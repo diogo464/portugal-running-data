@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daaaba2d
+DTSTAMP:20250720T222858Z
+DTSTART:20211010
+DTEND:20211011
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:Trilhos dos Templários 2021
+DESCRIPTION:Resultados Os Trilhos dos Templários 2021 é uma prova realiza
+ da pela equipa dos Trilhos dos Templários\,  sempre a primar pela satisfa�
+ �ão dos atletas que usufruem dos nossos serviços.\nhttps://www.portugalru
+ nning.com/eventos/trilhos-dos-templarios-2021/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-templarios-2021/
+END:VEVENT
+END:VCALENDAR

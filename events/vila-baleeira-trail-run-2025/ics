@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbf616d2
+DTSTAMP:20250720T222919Z
+DTSTART:20250329
+DTEND:20250330
+LOCATION:Ilha do Pico\,  Açores Ilha do Pico\,  Açores
+SUMMARY:Vila Baleeira Trail Run 2025
+DESCRIPTION:O VB TRAIL RUN é um evento de Trail Running\,  que decorre na 
+ ilha do Pico – Açores e que integra 3 provas: VBT18\,  VBT10 e Caminhada
+  todas elas de formato circular\,  nonstop.\nhttps://www.portugalrunning.co
+ m/eventos/vila-baleeira-trail-run-2025/
+URL:https://www.portugalrunning.com/eventos/vila-baleeira-trail-run-2025/
+END:VEVENT
+END:VCALENDAR

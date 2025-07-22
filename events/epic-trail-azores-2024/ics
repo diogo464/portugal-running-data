@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c873201c
+DTSTAMP:20250720T222407Z
+DTSTART:20241206
+DTEND:20241207
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:Epic Trail Azores 2024
+DESCRIPTION:O EPIC Trail Run Azores by decathlon (9ª edição) é um event
+ o certificado pela Internacional Trail Run association (ITRA)\,  pela UTMB 
+ world series\,  pela Associação Trail Running Portugal (ATRP) e faz parte
+  do Circuito de Trail São Miguel (AASM). É constituído por 4 provas e qu
+ e tem por base a[..]\nhttps://www.portugalrunning.com/eventos/epic-trail-az
+ ores-2024/
+URL:https://www.portugalrunning.com/eventos/epic-trail-azores-2024/
+END:VEVENT
+END:VCALENDAR

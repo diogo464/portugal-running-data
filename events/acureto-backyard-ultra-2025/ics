@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1449e1d
+DTSTAMP:20250720T222212Z
+DTSTART:20250301T152500Z
+DTEND:20250301T235900Z
+LOCATION:Ourém\,  Santarém Ourém\,  Santarém
+SUMMARY:Acureto Backyard Ultra 2025
+DESCRIPTION:Porquê a distância de 6.706 km? Porque Lazarus queria que\,  
+ ao completar 24 voltas\,  ou seja\,  levando 24 horas\,  um total de 100 mi
+ lhas (quase 161 km) fossem percorridas. O&nbsp;Acureto Backyard Ultra reali
+ za-se a 01 março de 2025&nbsp;e tem início às&nbsp;10h no Parque do Acur
+ eto.\nhttps://www.portugalrunning.com/eventos/acureto-backyard-ultra-2025/
+URL:https://www.portugalrunning.com/eventos/acureto-backyard-ultra-2025/
+END:VEVENT
+END:VCALENDAR

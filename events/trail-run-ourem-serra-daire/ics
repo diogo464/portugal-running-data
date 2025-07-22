@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d89f3d0a
+DTSTAMP:20250720T222825Z
+DTSTART:20200126
+DTEND:20200127
+LOCATION:Ourém\,  Santarém Ourém\,  Santarém
+SUMMARY:Trail-Run Ourém - Serra d`Aire
+DESCRIPTION:É com enorme prazer que vimos por este meio apresentar a V edi
+ ção do CS Design - Trail-Run de Ourém - Serra d`Aire\,  um dos mais con
+ ceituados e reconhecidos eventos da zona centro\,  que se realiza no próxi
+ mo dia 26 de Janeiro\,  com centro operativo no Pavilhão do Bairro (Our
+ ém). Depois do enorme sucesso[..]\nhttps://www.portugalrunning.com/eventos
+ /trail-run-ourem-serra-daire/
+URL:https://www.portugalrunning.com/eventos/trail-run-ourem-serra-daire/
+END:VEVENT
+END:VCALENDAR

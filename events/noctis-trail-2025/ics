@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf24a0c0
+DTSTAMP:20250720T222554Z
+DTSTART:20251122
+DTEND:20251123
+LOCATION:Águeda\,  Leiria Águeda\,  Leiria
+SUMMARY:Noctis Trail 2025
+DESCRIPTION:O NOCTIS TRAIL 25 é um convívio desportivo noturno\,  nas ver
+ tentes de Trail e Caminhada\,  com partida às 17h no Instituto Duarte de L
+ emos\,  situado em Trofa do Vouga. É organizado pela associação VOUGAVID
+ A e com o apoio do Instituto Duarte de Lemos\,  da União de Freguesias de 
+ Trofa\,  Segadães[..]\nhttps://www.portugalrunning.com/eventos/noctis-trai
+ l-2025/
+URL:https://www.portugalrunning.com/eventos/noctis-trail-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a91ff6
+DTSTAMP:20250720T222842Z
+DTSTART:20220703
+DTEND:20220704
+LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+SUMMARY:Trilho das 3 Lagoas 2022
+DESCRIPTION:Trilho das 3 Lagoas 2022\nhttps://www.portugalrunning.com/event
+ os/trilho-das-3-lagoas-2022/
+URL:https://www.portugalrunning.com/eventos/trilho-das-3-lagoas-2022/
+END:VEVENT
+END:VCALENDAR

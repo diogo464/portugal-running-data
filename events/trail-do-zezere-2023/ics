@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6a4a2a4
+DTSTAMP:20250720T222754Z
+DTSTART:20231118
+DTEND:20231119
+LOCATION:Ferreira do Zêzere\,  Santarém Ferreira do Zêzere\,  Santarém
+SUMMARY:Trail do Zêzere 2023
+DESCRIPTION:O Trail do Zêzere realiza-se em Ferreira do Zêzere e será re
+ alizado no dia 18 novembro de 2023 (sábado). Provas Será constituído por
+  4 (quatro) provas de carácter competitivo e por uma Caminhada: Grande Tra
+ il do Zêzere: 51 Kms\,  com 3010m D+ (partida às 8h00) Trail do Zêzere: 
+ 36 Kms\, [..]\nhttps://www.portugalrunning.com/eventos/trail-do-zezere-2023
+ /
+URL:https://www.portugalrunning.com/eventos/trail-do-zezere-2023/
+END:VEVENT
+END:VCALENDAR

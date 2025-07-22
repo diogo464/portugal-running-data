@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c48193bb
+DTSTAMP:20250720T222304Z
+DTSTART:20250920
+DTEND:20250921
+LOCATION:Cartaxo\,  Santarém Cartaxo\,  Santarém
+SUMMARY:Corrida das Vindimas 2025
+DESCRIPTION:A VIII CORRIDA DAS VINDIMAS – CARTAXO é organizada pelo Muni
+ cípio do Cartaxo com o apoio da Escola de Atletismo Correr + do Cartaxo e 
+ do e o Trilho dos Cágados.\nhttps://www.portugalrunning.com/eventos/corrid
+ a-das-vindimas-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-das-vindimas-2025/
+END:VEVENT
+END:VCALENDAR

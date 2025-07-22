@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b7a58d
+DTSTAMP:20250720T222427Z
+DTSTART:20230305
+DTEND:20230306
+LOCATION:Ílhavo\,  Aveiro Ílhavo\,  Aveiro
+SUMMARY:Grande Prémio de Atletismo ACD Os Ilhavos 2023
+DESCRIPTION:A Associação Cultural e Desportiva "Os Ílhavos" organiza uma
+  das mais clássicas provas de estrada da região de Aveiro em parceria com
+  o Município de Ílhavo.\nhttps://www.portugalrunning.com/eventos/grande-p
+ remio-de-atletismo-acd-os-ilhavos-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-acd-os-ilhavos-2023/
+END:VEVENT
+END:VCALENDAR

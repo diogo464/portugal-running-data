@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d474a0b3
+DTSTAMP:20250720T222719Z
+DTSTART:20220515
+DTEND:20220516
+LOCATION:Vila Pouca de Aguiar Vila Pouca de Aguiar\,  Vila Real
+SUMMARY:Trail CTM Vila Pouca de Aguiar 2022
+DESCRIPTION:O Trail CTM Vila Pouca de Aguiar 2022 pretende realizar nesta d
+ ata o 7º Trail CTM Vila Pouca de Aguiar\,  composto por 3 provas. Trail Lo
+ ngo\,  Trail Curto e uma Caminhada. Será o regresso ao bonito cenário das
+  serras do Alvão e da Padrela para voltar a enchê-las de atletas[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-ctm-vila-pouca-de-aguiar-2022/
+URL:https://www.portugalrunning.com/eventos/trail-ctm-vila-pouca-de-aguiar-2022/
+END:VEVENT
+END:VCALENDAR

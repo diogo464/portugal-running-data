@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c00ac4c0
+DTSTAMP:20250720T222152Z
+DTSTART:20230507
+DTEND:20230508
+LOCATION:Alcacer do Sal\,  Setúbal Alcacer do Sal\,  Setúbal
+SUMMARY:2° Trail Serras Do Sado 2023
+DESCRIPTION:O Trail\,  “Serras do Sado” é uma prova no âmbito do desp
+ orto aventura ao ar livre e de natureza. Esta iniciativa é organizada pela
+  Associação BTT-Team Desporto Aventura Cegonhas do Sado e tem como princi
+ pal objetivo proporcionar aos amantes desta modalidade o contacto e conheci
+ mento de locais que o Concelho[..]\nhttps://www.portugalrunning.com/eventos
+ /2-trail-serras-do-sado-2023/
+URL:https://www.portugalrunning.com/eventos/2-trail-serras-do-sado-2023/
+END:VEVENT
+END:VCALENDAR

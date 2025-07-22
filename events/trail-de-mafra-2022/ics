@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d54c3caf
+DTSTAMP:20250720T222732Z
+DTSTART:20220306
+DTEND:20220307
+LOCATION:Mafra Mafra\,  Lisboa
+SUMMARY:Trail de Mafra 2022
+DESCRIPTION:Trail 4U com o apoio da Câmara Municipal de Mafra\,  irão org
+ anizar a 06 de Março de2022 pelas 10 horas oTrail de Mafra 2022\,  em Mafr
+ a. O Trail de Mafra é uma prova de TrailRunning\,  corrida pedestre em Nat
+ ureza\,  com três provas\,  Trail Longo (TL) K24+\,  TrailCurto (TC) K12+ 
+ e[..]\nhttps://www.portugalrunning.com/eventos/trail-de-mafra-2022/
+URL:https://www.portugalrunning.com/eventos/trail-de-mafra-2022/
+END:VEVENT
+END:VCALENDAR

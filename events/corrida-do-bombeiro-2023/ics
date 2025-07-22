@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c51f3de7
+DTSTAMP:20250720T222313Z
+DTSTART:20231022
+DTEND:20231023
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Corrida do Bombeiro 2023
+DESCRIPTION:No dia 22 de outubro de 2023\,  a Eventsport organiza às 09h00
+  a quinta edição da Tranquilidade Corrida do Bombeiro\,  em parceria com 
+ os Bombeiros Voluntários de Valadares.&nbsp;Este evento é composto por um
+ a Corrida 10 km e uma Caminhada 5 km que contará com muitas surpresas e um
+ a grande onda[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-bombe
+ iro-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-do-bombeiro-2023/
+END:VEVENT
+END:VCALENDAR

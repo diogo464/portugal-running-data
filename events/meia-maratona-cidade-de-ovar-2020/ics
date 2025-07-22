@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ccc7b4aa
+DTSTAMP:20250720T222516Z
+DTSTART:20201013
+DTEND:20201014
+LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+SUMMARY:Meia Maratona Cidade de Ovar 2020
+DESCRIPTION:Meia Maratona Cidade de Ovar 2020\nhttps://www.portugalrunning.
+ com/eventos/meia-maratona-cidade-de-ovar-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-cidade-de-ovar-2020/
+END:VEVENT
+END:VCALENDAR

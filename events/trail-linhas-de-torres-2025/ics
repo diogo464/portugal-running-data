@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d72ab6cc
+DTSTAMP:20250720T222802Z
+DTSTART:20250131
+DTEND:20250201
+LOCATION:Lisboa Lisboa
+SUMMARY:Linhas de Torres 100 2025
+DESCRIPTION:O Linhas de Torres 100 é uma prova certificada pela ATRP – A
+ ssociação de Trail Running de Portugal que integra os Circuitos Nacionais
+  de Trail Ultra Endurance (LT100 – K100)\,  Trail Ultra (LT100 – K50)\,
+   Trail (LT100 – K30) e Trail Sprint (LT100 – K20)\,  é um evento orga
+ nizado pela[..]\nhttps://www.portugalrunning.com/eventos/trail-linhas-de-to
+ rres-2025/
+URL:https://www.portugalrunning.com/eventos/trail-linhas-de-torres-2025/
+END:VEVENT
+END:VCALENDAR

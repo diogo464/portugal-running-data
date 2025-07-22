@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc362d
+DTSTAMP:20250720T222651Z
+DTSTART:20231021
+DTEND:20231022
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Sintra Trail Monte da Lua 2023
+DESCRIPTION:A Câmara Municipal de Sintra organiza no dia 21 de outubro de 
+ 2023\,  pelas 20h00\,  o Sintra Trail Monte da Lua. A 3ª edição do Sintr
+ a Trail Monte da Lua é composta por uma prova de corrida e duas caminhadas
+ \,  nomeadamente: Trail de 10 km\,  com caracter competitivo; Caminhada Lon
+ ga[..]\nhttps://www.portugalrunning.com/eventos/sintra-trail-monte-da-lua-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/sintra-trail-monte-da-lua-2023/
+END:VEVENT
+END:VCALENDAR

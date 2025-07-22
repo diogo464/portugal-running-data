@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c96dd3b6
+DTSTAMP:20250720T222422Z
+DTSTART:20240512T161300Z
+DTEND:20240512T161300Z
+LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+SUMMARY:Grande Prémio Atletismo Catcma 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-atletis
+ mo-catcma-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-catcma-2024/
+END:VEVENT
+END:VCALENDAR

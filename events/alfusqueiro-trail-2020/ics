@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c15dc3b0
+DTSTAMP:20250720T222213Z
+DTSTART:20200719
+DTEND:20200720
+LOCATION:Praia Fluvial de Alfusqueiro Praia Fluvial de Alfusqueiro
+SUMMARY:Alfusqueiro Trail 2020
+DESCRIPTION:Alfusqueiro Trail 2020\nhttps://www.portugalrunning.com/eventos
+ /alfusqueiro-trail-2020/
+URL:https://www.portugalrunning.com/eventos/alfusqueiro-trail-2020/
+END:VEVENT
+END:VCALENDAR

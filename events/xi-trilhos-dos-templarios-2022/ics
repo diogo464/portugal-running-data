@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcadbf9d
+DTSTAMP:20250720T222930Z
+DTSTART:20220918
+DTEND:20220919
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:XI Trilhos Dos Templários 2022
+DESCRIPTION:XI Trilhos Dos Templários 2022\nhttps://www.portugalrunning.co
+ m/eventos/xi-trilhos-dos-templarios-2022/
+URL:https://www.portugalrunning.com/eventos/xi-trilhos-dos-templarios-2022/
+END:VEVENT
+END:VCALENDAR

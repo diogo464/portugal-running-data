@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1c320ae
+DTSTAMP:20250720T222636Z
+DTSTART:20231217
+DTEND:20231218
+LOCATION:Lisboa Lisboa
+SUMMARY:São Silvestre El Corte Inglés 2023
+DESCRIPTION:Em 2023\,  a prova que conta com o apoio de&nbsp;Record&nbsp;va
+ i correr-se a 17 de dezembro (domingo) às 19 horas e com um percurso renov
+ ado\,  com partida e chegada no Saldanha\,  bem mais acessível aos novatos
+  e também aos mais experientes. Será uma oportunidade de ouro para apreci
+ ar e viver a[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-el-
+ corte-ingles-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles-2023/
+END:VEVENT
+END:VCALENDAR

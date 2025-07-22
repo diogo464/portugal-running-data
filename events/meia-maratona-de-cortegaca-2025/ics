@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd0630bb
+DTSTAMP:20250720T222520Z
+DTSTART:20250511
+DTEND:20250512
+LOCATION:Praia De Cortegaça\,  Aveiro Praia De Cortegaça\,  Aveiro
+SUMMARY:Meia Maratona de Cortegaça 2025
+DESCRIPTION:“Os Falta d’Ar” leva a efeito no próximo dia 12 de Maio 
+ de 2024\,  pelas 09h30\,  a 37ª Meia Maratona de Cortegaça e a 2ª Corrid
+ a de 10Km.\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-corteg
+ aca-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-cortegaca-2025/
+END:VEVENT
+END:VCALENDAR

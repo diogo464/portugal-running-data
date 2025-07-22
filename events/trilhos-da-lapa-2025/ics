@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da24b115
+DTSTAMP:20250720T222850Z
+DTSTART:20250531
+DTEND:20250601
+LOCATION:Mendiga\,  Porto de Mós Mendiga\,  Porto de Mós
+SUMMARY:Trilhos da Lapa 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-da-lapa-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-lapa-2025/
+END:VEVENT
+END:VCALENDAR

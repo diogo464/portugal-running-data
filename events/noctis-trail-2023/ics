@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf2493cc
+DTSTAMP:20250720T222554Z
+DTSTART:20231202
+DTEND:20231203
+LOCATION:Águeda\,  Leiria Águeda\,  Leiria
+SUMMARY:Noctis Trail 2023
+DESCRIPTION:Evento desportivo\,  em 4ª Edição\,  nas vertentes de Trail 
+ e Caminhada\,  a realizar no dia 2 de dezembro de 2023\,  com partida às 1
+ 7:30h no Instituto Duarte de Lemos\,  situado em Trofa do Vouga. É organiz
+ ado pela empresa PORTA.ABERTA.EVENTS e pela associação VOUGAVIDA com o ap
+ oio do Instituto Duarte de[..]\nhttps://www.portugalrunning.com/eventos/noc
+ tis-trail-2023/
+URL:https://www.portugalrunning.com/eventos/noctis-trail-2023/
+END:VEVENT
+END:VCALENDAR

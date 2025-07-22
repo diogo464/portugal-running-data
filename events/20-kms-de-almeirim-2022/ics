@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfadc983
+DTSTAMP:20250720T222146Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+SUMMARY:20 Kms de Almeirim 2022
+DESCRIPTION:A Associação 20 Kms de Almeirim 2022 voltará a organizar a c
+ lássica "20 Km de Almeirim"\,  em simultâneo com a prova de 10 quilómetr
+ os\,  em circuito urbano.\nhttps://www.portugalrunning.com/eventos/20-kms-d
+ e-almeirim-2022/
+URL:https://www.portugalrunning.com/eventos/20-kms-de-almeirim-2022/
+END:VEVENT
+END:VCALENDAR

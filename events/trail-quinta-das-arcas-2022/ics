@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d81f40c5
+DTSTAMP:20250720T222817Z
+DTSTART:20221127
+DTEND:20221128
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Quinta das Arcas 2022
+DESCRIPTION:O Trail Quinta das Arcas 2022 será realizado no concelho de Va
+ longo\,  na freguesia de Sobrado no dia 27 de Novembro de 2022\,  com parti
+ das/chegadas nas instalações da Quinta das Arcas. Coordenadas ( 41°12'03
+ .8"N 8°27'16.0"W )\nhttps://www.portugalrunning.com/eventos/trail-quinta-d
+ as-arcas-2022/
+URL:https://www.portugalrunning.com/eventos/trail-quinta-das-arcas-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4bdcee0
+DTSTAMP:20250720T222723Z
+DTSTART:20240121
+DTEND:20240122
+LOCATION:Rio de Loba\,  Viseu Rio de Loba\,  Viseu
+SUMMARY:Trail da Loba 2024
+DESCRIPTION:O 6º Trail da Loba será realizado no dia 21/01/2024 em Rio de
+  Loba – Viseu. Este evento é organizado pela Junta de Freguesia de Rio d
+ e Loba\,  em parceria com o Centro Social Cultural Recreativo e Desportivo 
+ Leões da Beira e tem como objetivo promover a prática da atividade[..]\nh
+ ttps://www.portugalrunning.com/eventos/trail-da-loba-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-loba-2024/
+END:VEVENT
+END:VCALENDAR

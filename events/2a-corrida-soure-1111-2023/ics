@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfedb4e3
+DTSTAMP:20250720T222150Z
+DTSTART:20230122
+DTEND:20230123
+LOCATION:Soure\,  Coimbra Soure\,  Coimbra
+SUMMARY:2ª Corrida Soure 1111 2023
+DESCRIPTION:A CORRIDA SOURE 1111 é um evento desportivo organizado pelo So
+ ure Mov\,  clube de atletismoda APPACDM de Soure (secção autónoma)\,  em
+  parceria com a Câmara Municipal de Soure eincluído no calendário compet
+ itivo da Associação Distrital de Atletismo de Coimbra (ADAC).A CORRIDA SO
+ URE 1111 tem um percurso de aproximadamente 10 km[..]\nhttps://www.portugal
+ running.com/eventos/2a-corrida-soure-1111-2023/
+URL:https://www.portugalrunning.com/eventos/2a-corrida-soure-1111-2023/
+END:VEVENT
+END:VCALENDAR

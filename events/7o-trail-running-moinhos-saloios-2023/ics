@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1118d29
+DTSTAMP:20250720T222209Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:7º Trail Running Moinhos Saloios 2023
+DESCRIPTION:O “7º Trail Moinhos Saloios” é um evento desportivo que t
+ em como objetivos a divulgação da modalidade de atletismo\,  a promoção
+  da União de Freguesias de Venda do Pinheiro e Santo Estêvão das Galés 
+ e do Município de Mafra no panorama do atletismo regional. A organização
+  está a cargo da[..]\nhttps://www.portugalrunning.com/eventos/7o-trail-run
+ ning-moinhos-saloios-2023/
+URL:https://www.portugalrunning.com/eventos/7o-trail-running-moinhos-saloios-2023/
+END:VEVENT
+END:VCALENDAR

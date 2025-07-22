@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0edbc96
+DTSTAMP:20250720T222622Z
+DTSTART:20231230
+DTEND:20231231
+LOCATION:Santo Aleixo da Restauração\,  Beja Santo Aleixo da Restauração\,  Beja
+SUMMARY:São Silvestre Cocheiros & Comp.ª 2023
+DESCRIPTION:Prova desportiva constituída por dois percursos: Corrida 10 Km
+ s (com contagem e divulgação de tempos) e Caminhada 5 km (sem contagem de
+  tempos);\nhttps://www.portugalrunning.com/eventos/sao-silvestre-cocheiros-
+ comp-a-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-cocheiros-comp-a-2023/
+END:VEVENT
+END:VCALENDAR

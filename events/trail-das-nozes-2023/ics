@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50db9d4
+DTSTAMP:20250720T222728Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail das Nozes 2023
+DESCRIPTION:O 8o Trail das Nozes é uma prova que percorre trilhos e caminh
+ os do Concelho de Gondomar. O Trail Longo 25km faz parte da Taça de Portug
+ al da ATRP e este ano fomos escolhidos para fazer parte do Circuito Trail S
+ eries da Associação de Atletismo do Porto onde as 2[..]\nhttps://www.port
+ ugalrunning.com/eventos/trail-das-nozes-2023/
+URL:https://www.portugalrunning.com/eventos/trail-das-nozes-2023/
+END:VEVENT
+END:VCALENDAR

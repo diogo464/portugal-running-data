@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7b317ba
+DTSTAMP:20250720T222811Z
+DTSTART:20220430
+DTEND:20220501
+LOCATION:Arruda dos Vinhos\,  Lisboa Arruda dos Vinhos\,  Lisboa
+SUMMARY:Trail Noturno Professor José Lourenço 2022
+DESCRIPTION:Trail Noturno Professor José Lourenço 2022\nhttps://www.portu
+ galrunning.com/eventos/trail-noturno-professor-jose-lourenco-2022/
+URL:https://www.portugalrunning.com/eventos/trail-noturno-professor-jose-lourenco-2022/
+END:VEVENT
+END:VCALENDAR

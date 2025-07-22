@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdcdb2c0
+DTSTAMP:20250720T222532Z
+DTSTART:20241027
+DTEND:20241028
+LOCATION:Lagos\,  Faro Lagos\,  Faro
+SUMMARY:Meia Maratona Lagos 2024
+DESCRIPTION:Numa organização do Olímpico Clube de Lagos\,  vai realizar-
+ se no dia 27 de Outubro de 2024 pelas 9h30\,  a 34.ª Meia-Maratona Interna
+ cional de Lagos\,  Mini Meia Maratona e a Mega- Caminhada.\nhttps://www.por
+ tugalrunning.com/eventos/meia-maratona-lagos-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-lagos-2024/
+END:VEVENT
+END:VCALENDAR

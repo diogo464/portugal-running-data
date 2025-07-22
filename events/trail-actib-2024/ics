@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3831aa6
+DTSTAMP:20250720T222704Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:Águeda Águeda
+SUMMARY:Trail ACTIB 2024
+DESCRIPTION:O ACTIB-TRAIL é uma prova inserida no “Troféu Trail Terras 
+ de Águeda”. As participações poderão ser efetuadas em quatro percurso
+ s\,  dois de carácter competitivo e cronometrado (Longo 25Km / Curto 15km)
+ \,  e dois de carácter recreativo\,  um para adultos (caminhada 8Km)\,  e 
+ outro destinado a crianças com acompanhamento (1 km).\nhttps://www.portuga
+ lrunning.com/eventos/trail-actib-2024/
+URL:https://www.portugalrunning.com/eventos/trail-actib-2024/
+END:VEVENT
+END:VCALENDAR

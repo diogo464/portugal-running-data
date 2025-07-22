@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b7b299
+DTSTAMP:20250720T222323Z
+DTSTART:20240319
+DTEND:20240320
+LOCATION:Portugal Portugal
+SUMMARY:Corrida do Super Pai 2024
+DESCRIPTION:Corrida do Super Pai 2024\nhttps://www.portugalrunning.com/even
+ tos/corrida-do-super-pai-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-super-pai-2024/
+END:VEVENT
+END:VCALENDAR

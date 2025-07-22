@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c25aa7f6
+DTSTAMP:20250720T222229Z
+DTSTART:20220508
+DTEND:20220509
+LOCATION:Santarém Santarém
+SUMMARY:BMW-ACF Santarém Trail 2022
+DESCRIPTION:Associação pace.makers running club\,  em parceria com o Agru
+ pamento 52 Santarém (Corpo Nacional de Escutas) organização o BMW-ACF Sa
+ ntarém Trail 2022 a 8 de Maio de 2022.\nhttps://www.portugalrunning.com/ev
+ entos/bmw-acf-santarem-trail-2022/
+URL:https://www.portugalrunning.com/eventos/bmw-acf-santarem-trail-2022/
+END:VEVENT
+END:VCALENDAR

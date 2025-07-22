@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d03c431c
+DTSTAMP:20250720T222611Z
+DTSTART:20250330
+DTEND:20250331
+LOCATION:Queiriga\,  Viseu Queiriga\,  Viseu
+SUMMARY:Queiriga Trail 2025
+DESCRIPTION:O evento é composto por três percursos e realiza-se no dia 30
+  de Março de 2025: Trail Curto de 23 km\,  com aproximadamente 900 D+; Min
+ i Trail 12 km\,  com aproximadamente 350 D+; Caminhada 12Km\,  com percurso
+  igual ao Mini Trail 12 km.\nhttps://www.portugalrunning.com/eventos/queiri
+ ga-trail-2025/
+URL:https://www.portugalrunning.com/eventos/queiriga-trail-2025/
+END:VEVENT
+END:VCALENDAR

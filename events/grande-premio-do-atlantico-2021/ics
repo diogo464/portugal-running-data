@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9f91f2f
+DTSTAMP:20250720T222431Z
+DTSTART:20211024
+DTEND:20211025
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:Grande Prémio do Atlântico 2021
+DESCRIPTION:Resultados A mítica corrida de atletismo Grande Prémio do Atl
+ ântico 2021 organizada pelo Núcleo Sportinguista da Costa da Caparica\,  
+ com o apoio institucional da Câmara Municipal de Almada e a organização 
+ técnica da Xistarca\,  este ano será realizada no dia&nbsp;24 de Outubro.
+  Já foram mais de 25 000 atletas que[..]\nhttps://www.portugalrunning.com/
+ eventos/grande-premio-do-atlantico-2021/
+URL:https://www.portugalrunning.com/eventos/grande-premio-do-atlantico-2021/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d829235d
+DTSTAMP:20250720T222818Z
+DTSTART:20220403
+DTEND:20220404
+LOCATION:Seixal Seixal
+SUMMARY:Trail Quinta Do Pinhão 2022
+DESCRIPTION:Trail Quinta Do Pinhão 2022\nhttps://www.portugalrunning.com/e
+ ventos/trail-quinta-do-pinhao-2022/
+URL:https://www.portugalrunning.com/eventos/trail-quinta-do-pinhao-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf2616c1
+DTSTAMP:20250720T222554Z
+DTSTART:20220610
+DTEND:20220611
+LOCATION:Serra da Estrela Serra da Estrela
+SUMMARY:Oh Meu Deus 2022
+DESCRIPTION:Oh Meu Deus 2022! Oh My God\,  Oh Mon Dieu\,  Oh Dio Mio\,  Oh 
+ Mein Gott\,  ???????! Esta interjeição universal significa incredulidade 
+ por algo que se lhe depare. O OMD Ultra Trail® Serra da Estrela é a prova
+  precursora em longas distâncias de trail running em Portugal Continental\
+ ,  sendo a[..]\nhttps://www.portugalrunning.com/eventos/oh-meu-deus-2022/
+URL:https://www.portugalrunning.com/eventos/oh-meu-deus-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf3f40d0
+DTSTAMP:20250720T222139Z
+DTSTART:20200523
+DTEND:20200524
+LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+SUMMARY:17ª Corrida de Solidariedade APAV 2020
+DESCRIPTION:A Associação Portuguesa de Apoio à Vítima (APAV) é uma ins
+ tituição particular de solidariedade social\,  que tem como missão o apo
+ io às vítimas de crime\,  suas famílias e amigos\,  prestando-lhes servi
+ ços de qualidade\,  gratuitos e confidenciais e contribuir para o aperfei�
+ �oamento das políticas públicas\,  sociais e privadas centradas no estatu
+ to[..]\nhttps://www.portugalrunning.com/eventos/17a-corrida-de-solidariedad
+ e-apav-2020/
+URL:https://www.portugalrunning.com/eventos/17a-corrida-de-solidariedade-apav-2020/
+END:VEVENT
+END:VCALENDAR

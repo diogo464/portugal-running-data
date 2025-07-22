@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cedf3870
+DTSTAMP:20250720T222549Z
+DTSTART:20200510
+DTEND:20200511
+LOCATION:Palmela Palmela
+SUMMARY:MONTANHÃO TRAIL RUNNING 2020
+DESCRIPTION:O Clube de Praças da Armada com o apoio da Câmara Municipal d
+ e Palmela e o apoio técnico da Werun\,  vai realizar no próximo dia 10 d
+ e Maio de 2020\,  pelas 9 horas\,  o Montanhão Trail Running\,  que vai se
+ r constituído por um Trail Longo (+/- 26 km)\,  um Trail Curto[..]\nhttps:
+ //www.portugalrunning.com/eventos/montanhao-trail-running-2020/
+URL:https://www.portugalrunning.com/eventos/montanhao-trail-running-2020/
+END:VEVENT
+END:VCALENDAR

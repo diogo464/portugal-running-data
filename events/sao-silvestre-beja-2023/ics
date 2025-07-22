@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0ef3a67
+DTSTAMP:20250720T222622Z
+DTSTART:20231229
+DTEND:20231230
+LOCATION:Beja Beja
+SUMMARY:São Silvestre Beja 2023
+DESCRIPTION:No próximo dia 29 de Dezembro junte-se a nós e participe na S
+ ão Silvestre de Beja\,  prova de atletismo destinada a todos os escalões 
+ etários da modalidade\,  organizada pela Câmara Municipal de Beja e que c
+ onta com a colaboração de várias instituições e entidades oficiais e o
+  apoio técnico da[..]\nhttps://www.portugalrunning.com/eventos/sao-silvest
+ re-beja-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-beja-2023/
+END:VEVENT
+END:VCALENDAR

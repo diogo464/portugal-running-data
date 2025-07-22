@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2719353
+DTSTAMP:20250720T222647Z
+DTSTART:20231223
+DTEND:20231224
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:São Silvestre Vila do Conde 2023
+DESCRIPTION:Realiza-se no dia 23 de dezembro de 2023 pelas 17h\,  a São Si
+ lvestre Vila do Conde que começa e acaba nos Jardins da Avenida Júlio Gra
+ ça \,  o tempo máximo de duração desta prova é de 2 horas.\nhttps://ww
+ w.portugalrunning.com/eventos/sao-silvestre-vila-do-conde-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vila-do-conde-2023/
+END:VEVENT
+END:VCALENDAR

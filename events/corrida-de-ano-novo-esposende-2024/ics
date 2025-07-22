@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4863234
+DTSTAMP:20250720T222304Z
+DTSTART:20240113
+DTEND:20240114
+LOCATION:Esposende\,  Braga Esposende\,  Braga
+SUMMARY:Corrida de Ano Novo Esposende 2024
+DESCRIPTION:Traga para o novo ano novas ambições e renovados objetivos e 
+ entre eles inclua a Corrida de Ano Novo\,  em Esposende.\nhttps://www.portu
+ galrunning.com/eventos/corrida-de-ano-novo-esposende-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-ano-novo-esposende-2024/
+END:VEVENT
+END:VCALENDAR

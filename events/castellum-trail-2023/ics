@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2ac459b
+DTSTAMP:20250720T222234Z
+DTSTART:20231001
+DTEND:20231002
+LOCATION:Condeixa-a-Nova\,  Coimbra Condeixa-a-Nova\,  Coimbra
+SUMMARY:Castellum Trail 2023
+DESCRIPTION:A realização da quinta edição do Castellum Trail está agen
+ dada para a data de 1 de Outubro de 2023\,  sendo constituída por uma prov
+ a integrante do Circuito Distrital de Trail Running de Coimbra na categoria
+  de Ultra Trail referente à época de 2022/2023\,  competição federada e
+  regulamentada pela ADAC –[..]\nhttps://www.portugalrunning.com/eventos/c
+ astellum-trail-2023/
+URL:https://www.portugalrunning.com/eventos/castellum-trail-2023/
+END:VEVENT
+END:VCALENDAR

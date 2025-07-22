@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2148be9
+DTSTAMP:20250720T222225Z
+DTSTART:20250524T214100Z
+DTEND:20250524T214100Z
+LOCATION:Vila Nova da Barquinha\,  Santarém Vila Nova da Barquinha\,  Santarém
+SUMMARY:Barquinha Night Run 2025
+DESCRIPTION:Partida e chegada | Centro Cultural de Vila Nova da Barquinh
+ a\,  Largo 1.º Dezembro.\nhttps://www.portugalrunning.com/eventos/barqu
+ inha-night-run-2025/
+URL:https://www.portugalrunning.com/eventos/barquinha-night-run-2025/
+END:VEVENT
+END:VCALENDAR

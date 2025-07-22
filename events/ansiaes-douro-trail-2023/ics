@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c19c42fc
+DTSTAMP:20250720T222217Z
+DTSTART:20231015
+DTEND:20231016
+LOCATION:Carrazeda de Ansiães\,  Bragança Carrazeda de Ansiães\,  Bragança
+SUMMARY:Ansiães Douro Trail 2023
+DESCRIPTION:O Ansiães Douro Trail é uma prova de Trail Running certificad
+ a pela ATRP que percorre trilhos\,  caminhos rurais e estradões do concelh
+ o de Carrazeda de Ansiães\,  tendo como ponto de partida e chegada do Cent
+ ro de Apoio Empresarial de Carrazeda de Ansiães (CAECA).\nhttps://www.port
+ ugalrunning.com/eventos/ansiaes-douro-trail-2023/
+URL:https://www.portugalrunning.com/eventos/ansiaes-douro-trail-2023/
+END:VEVENT
+END:VCALENDAR

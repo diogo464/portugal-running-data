@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4891ff2
+DTSTAMP:20250720T222304Z
+DTSTART:20211211
+DTEND:20211212
+LOCATION:Lousado\,  Vila Nova de Famalicão Lousado\,  Vila Nova de Famalicão
+SUMMARY:Corrida de Lousado 2021
+DESCRIPTION:Corrida de Lousado 2021 SINDEQ \, Trofeu João Carvalho. 10 km 
+ Corrida 7 km Caminhada.\nhttps://www.portugalrunning.com/eventos/corrida-de
+ -lousado-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-de-lousado-2021/
+END:VEVENT
+END:VCALENDAR

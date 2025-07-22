@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d550147b
+DTSTAMP:20250720T222733Z
+DTSTART:20231015
+DTEND:20231016
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Trail do Aqueduto 2023
+DESCRIPTION:A Associação Nocturnos de Paredes é o organizador doTRAIL DO
+  AQUETUDO\,  que decorrerá no dia 15 de outubro de 2023.O TRAIL DO AQUEDUT
+ O 2023 é constituído por: 1 prova de carácter competitivo\,  designado p
+ or Trail\,  com extensão de aproximadamente 23 Km; 1 prova de carácter co
+ mpetitivo\,  designado por Mini-Trail\,  com[..]\nhttps://www.portugalrunni
+ ng.com/eventos/trail-do-aqueduto-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-aqueduto-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c79187ac
+DTSTAMP:20250720T222353Z
+DTSTART:20200322
+DTEND:20200323
+LOCATION:Mouriscas Mouriscas\,  Santarém
+SUMMARY:Corvus Trail 2020
+DESCRIPTION:O COA – Clube de Orientação e Aventura em parceria com a EP
+ DRA – Escola Profissional de Desenvolvimento Rural de Abrantes e ACROM �
+ � Associação Cultural das Rotas de Mouriscas e com o apoio da Junta de Fr
+ eguesia de Mouriscas e do Município de Abrantes irá organizar a 3a ediç�
+ �o[..]\nhttps://www.portugalrunning.com/eventos/corvus-trail-2020/
+URL:https://www.portugalrunning.com/eventos/corvus-trail-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b310d4
+DTSTAMP:20250720T222411Z
+DTSTART:20210610
+DTEND:20210611
+LOCATION:Cucos\,  Torres Vedras Cucos\,  Torres Vedras\,  Lisboa
+SUMMARY:Extreme Trail Cucos 2021
+DESCRIPTION:O&nbsp;&nbsp;&nbsp;TURRES TRAIL&nbsp;&nbsp;CLUBE \,  com o apoi
+ o da Câmara Municipal de Torres Vedras e junta de freguesia de São Pedro 
+ Santiago e Santa Maria&nbsp;&nbsp;\, &nbsp;&nbsp;vai realizar no próximo d
+ ia 10 de Junho de 2021\,  um evento denominado&nbsp;"&nbsp;&nbsp;&nbsp;6º 
+ EXTREME TRAIL CUCOS". Este evento\,  terá um Trail Longo&nbsp;&nbsp;MD de 
+ Grau 3\,  um Trail Curto&nbsp;&nbsp;MD[..]\nhttps://www.portugalrunning.com
+ /eventos/extreme-trail-cucos-2021/
+URL:https://www.portugalrunning.com/eventos/extreme-trail-cucos-2021/
+END:VEVENT
+END:VCALENDAR

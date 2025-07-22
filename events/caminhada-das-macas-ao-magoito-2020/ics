@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c29ac22a
+DTSTAMP:20250720T222233Z
+DTSTART:20200404
+DTEND:20200405
+LOCATION:Praia das Maças\,  junto à Paragem do Eléctrico Praia das Maças\,  junto à Paragem do Eléctrico
+SUMMARY:Caminhada das Maçãs ao Magoito 2020
+DESCRIPTION:Esta proposta de Caminhada tem início na Praia das Maças\,  j
+ unto à Paragem do Eléctrico\,  percorre trilhos de grande beleza natural 
+ e com excelente enquadramento paisagístico\,  percorre diversos caminhos r
+ urais\,  passa pela Praia das Azenhas do Mar\,  Praia da Vigia\,  Praia da 
+ Aguda e por último a Praia do Magoito\, [..]\nhttps://www.portugalrunning.
+ com/eventos/caminhada-das-macas-ao-magoito-2020/
+URL:https://www.portugalrunning.com/eventos/caminhada-das-macas-ao-magoito-2020/
+END:VEVENT
+END:VCALENDAR

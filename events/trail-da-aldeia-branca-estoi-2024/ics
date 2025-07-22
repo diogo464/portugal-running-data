@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d47ab902
+DTSTAMP:20250720T222719Z
+DTSTART:20240810T095000Z
+DTEND:20240810T235900Z
+LOCATION:Estoi\,  Faro Estoi\,  Faro
+SUMMARY:Trail da Aldeia Branca - Estoi 2024
+DESCRIPTION:O Trail da Aldeia Branca - Estoi é um evento desportivo de car
+ áter lúdico e competitivo que tem por objetivo divulgar e promover não s
+ ó a prática desportiva\,  em especial na modalidade de trail running\,  m
+ as também os territórios onde decorre o evento. Nesta que é a 1ªediçã
+ o do Trail[..]\nhttps://www.portugalrunning.com/eventos/trail-da-aldeia-bra
+ nca-estoi-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-aldeia-branca-estoi-2024/
+END:VEVENT
+END:VCALENDAR

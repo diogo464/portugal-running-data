@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f924f8
+DTSTAMP:20250720T222343Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Saúde + Solidária 2024
+DESCRIPTION:A&nbsp;Corrida Saúde + Solidária&nbsp;é uma atividade sem fi
+ ns lucrativos desenvolvida pela&nbsp;Associação de Estudantes da Faculdad
+ e de Medicina de Lisboa (AEFML)&nbsp;que tem como meta traçada\,  desde a 
+ sua conceção inicial\,  a&nbsp;criação de laços entre a promoção da 
+ saúde e a vertente solidária\,  que caracteriza a AEFML. É uma atividade
+  exclusivamente organizada[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-saude-solidaria-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-saude-solidaria-2024/
+END:VEVENT
+END:VCALENDAR

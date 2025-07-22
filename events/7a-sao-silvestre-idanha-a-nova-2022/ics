@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0e308a1
+DTSTAMP:20250720T222206Z
+DTSTART:20221217
+DTEND:20221218
+LOCATION:Idanha-a-Nova\,  Castelo Branco Idanha-a-Nova\,  Castelo Branco
+SUMMARY:7ª São Silvestre Idanha-a-Nova 2022
+DESCRIPTION:A 7.ª Corrida São Silvestre de Idanha-a-Nova é um evento da 
+ organização do Club União Idanhense\,  com o apoio da União de Freguesi
+ as de Idanha-a-Nova e Alcafozes\,  da Câmara Municipal de Idanha-a-Nova e 
+ apoio técnico a cargo da Associação de Atletismo de Castelo Branco. A pr
+ ova é aberta a todos[..]\nhttps://www.portugalrunning.com/eventos/7a-sao-s
+ ilvestre-idanha-a-nova-2022/
+URL:https://www.portugalrunning.com/eventos/7a-sao-silvestre-idanha-a-nova-2022/
+END:VEVENT
+END:VCALENDAR

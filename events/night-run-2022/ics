@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ceddc6af
+DTSTAMP:20250720T222549Z
+DTSTART:20220907
+DTEND:20220908
+LOCATION:Alcacer do Sal\,  Setúbal Alcacer do Sal\,  Setúbal
+SUMMARY:Night Run 2022
+DESCRIPTION:Night Run 2022 em Alcacer do Sal a 7 de Setembro.\nhttps://www.
+ portugalrunning.com/eventos/night-run-2022/
+URL:https://www.portugalrunning.com/eventos/night-run-2022/
+END:VEVENT
+END:VCALENDAR

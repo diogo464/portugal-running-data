@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da692196
+DTSTAMP:20250720T222854Z
+DTSTART:20211204
+DTEND:20211205
+LOCATION:Setúbal Setúbal
+SUMMARY:Trilhos do Javali 2021
+DESCRIPTION:Em momentos tão difíceis tomámos a decisão de não perder a
+  data dos nossos Trilhos do Javali 2021 diurnos\,  e assim fazer um versão
+  solidária para ajudar quem mais precisa. Trilhos do Javali Solidário 10k
+ m\,  numa organização APACCF e OCS - Arrábida Trail Team. Sábado\,  4 d
+ ezembro 2021 | Serra[..]\nhttps://www.portugalrunning.com/eventos/trilhos-d
+ o-javali-2021/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-javali-2021/
+END:VEVENT
+END:VCALENDAR

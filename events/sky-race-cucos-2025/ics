@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc33ee
+DTSTAMP:20250720T222651Z
+DTSTART:20250610
+DTEND:20250611
+LOCATION:Cucos\,  Torres Vedras Cucos\,  Torres Vedras\,  Lisboa
+SUMMARY:Sky Race Cucos 2025
+DESCRIPTION:Sky Race Cucos 2025\nhttps://www.portugalrunning.com/eventos/sk
+ y-race-cucos-2025/
+URL:https://www.portugalrunning.com/eventos/sky-race-cucos-2025/
+END:VEVENT
+END:VCALENDAR

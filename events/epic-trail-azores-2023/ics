@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8700ca4
+DTSTAMP:20250720T222407Z
+DTSTART:20231201
+DTEND:20231202
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:Epic Trail Azores 2023
+DESCRIPTION:O EPIC Trail Run Azores é um evento de Trail Running\,  que de
+ corre na ilha de São Miguel – Açores a e que integra 4 provas: EPIC110\
+ ,  EPIC60\,  EPIC30 e EPIC15\,  todas elas de formato linear\,  non-stop. O
+  EPIC Trail Run Azores by decathlon (8ª edição) é um evento certificado
+ [..]\nhttps://www.portugalrunning.com/eventos/epic-trail-azores-2023/
+URL:https://www.portugalrunning.com/eventos/epic-trail-azores-2023/
+END:VEVENT
+END:VCALENDAR

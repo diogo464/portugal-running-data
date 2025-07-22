@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce231b59
+DTSTAMP:20250720T222538Z
+DTSTART:20240928
+DTEND:20240929
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:Meia Maratona São João das Lampas 2024
+DESCRIPTION:Está à porta a 46ª Meia Maratona de S. João das Lampas\,  a
+  Meia da região saloia e a segunda mais antiga do País na distância\,  c
+ onhecida pelo seu perfil em carrocel e por ser exigente e selectiva\,  mas 
+ amada por muitos. E o facto de sabermos que há muita[..]\nhttps://www.port
+ ugalrunning.com/eventos/meia-maratona-sao-joao-das-lampas-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-sao-joao-das-lampas-2024/
+END:VEVENT
+END:VCALENDAR

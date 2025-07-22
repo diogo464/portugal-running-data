@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0849e85
+DTSTAMP:20250720T222200Z
+DTSTART:20220911
+DTEND:20220912
+LOCATION:Santa Cruz\,  Torres Vedras Santa Cruz\,  Torres Vedras
+SUMMARY:4 Corrida Sealand Santa Cruz 2022
+DESCRIPTION:A Corrida Sealand Santa Cruz 2022 é uma prova organizada pela 
+ Associação Sealand Santa Cruz\,  no dia 11 de Setembro.&nbsp; Contará co
+ m uma Corrida de 10km e uma Caminhada de 6km.\nhttps://www.portugalrunning.
+ com/eventos/4-corrida-sealand-santa-cruz-2022/
+URL:https://www.portugalrunning.com/eventos/4-corrida-sealand-santa-cruz-2022/
+END:VEVENT
+END:VCALENDAR

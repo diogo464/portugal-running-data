@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db7016bf
+DTSTAMP:20250720T222911Z
+DTSTART:20210626
+DTEND:20210627
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Ultra Trail Serra da Freita 2021
+DESCRIPTION:XV Ultra Trail Serra da Freita é um evento de Trail Running in
+ serido no Circuito Trail Ultra Endurance ATRP. Este decorre na Serra da Fre
+ ita. O atleta irá aventurar-se\,  por alguns dos mais belos trilhos\,  nos
+  concelhos de Arouca\,  Vale de Cambra e S. Pedro do Sul.\nhttps://www.port
+ ugalrunning.com/eventos/ultra-trail-serra-da-freita-2021/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-serra-da-freita-2021/
+END:VEVENT
+END:VCALENDAR

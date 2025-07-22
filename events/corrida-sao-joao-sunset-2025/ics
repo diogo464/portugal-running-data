@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69c3a0e
+DTSTAMP:20250720T222337Z
+DTSTART:20250627T181100Z
+DTEND:20250627T235900Z
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Corrida São Joao Sunset Run 2025
+DESCRIPTION:A AEBA 25 Anos - Corrida São João Sunset Run é organizada pe
+ la Câmara Municipal de Vila do Conde e Associação Atletismo Vilacondense
+ \,  com o apoio da Associação Empresarial Baixo Ave. Este evento terá um
+ a vertente solidária com o objetivo de apoiar 5 Instituições das 5 cidad
+ es onde a AEBA[..]\nhttps://www.portugalrunning.com/eventos/corrida-sao-joa
+ o-sunset-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-joao-sunset-2025/
+END:VEVENT
+END:VCALENDAR

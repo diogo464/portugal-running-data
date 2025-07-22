@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c00615b0
+DTSTAMP:20250720T222152Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Bombarral\,  Leiria Bombarral\,  Leiria
+SUMMARY:2º Sanguinhal Wine Trail 2023
+DESCRIPTION:O Sanguinhal Wine Trail é uma co-organização da  Companhia 
+ Agrícola do Sanguinhal e da Ganhardestak\,  com o apoio dos municípios do
+  Bombarral e do Turismo do Centro. A segunda edição realiza-se no dia 16 
+ de abril de 2023\,  com partida e chegada na Quinta do Sanguinhal\,  percor
+ rendo ainda a Quinta[..]\nhttps://www.portugalrunning.com/eventos/2o-sangui
+ nhal-wine-trail-2023/
+URL:https://www.portugalrunning.com/eventos/2o-sanguinhal-wine-trail-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da361ba0
+DTSTAMP:20250720T222851Z
+DTSTART:20230205
+DTEND:20230206
+LOCATION:Meadela\,  Viana do Castelo Meadela\,  Viana do Castelo
+SUMMARY:IV Trilhos de Viana Cls 2023
+DESCRIPTION:No dia 5 de Fevereiro de 2023 com o apoio da Camara Municipal d
+ e Viana do Castelo e fazendo parte como evento inserido na Cidade Europeia 
+ do Desporto 2023\,  a Associação Trilhos de Viana e Leandro Freitas\,  na
+  qualidade de diretor técnico do evento\,  organiza este evento\,  nas dis
+ tâncias de[..]\nhttps://www.portugalrunning.com/eventos/trilhos-de-viana-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-viana-2023/
+END:VEVENT
+END:VCALENDAR

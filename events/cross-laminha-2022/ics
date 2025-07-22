@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7918474
+DTSTAMP:20250720T222353Z
+DTSTART:20220116
+DTEND:20220117
+LOCATION:Cumeira\,  Leiria Cumeira\,  Leiria
+SUMMARY:Cross Laminha 2022
+DESCRIPTION:O Cross Laminha 2022 volta a 16 de Janeiro.\nhttps://www.portug
+ alrunning.com/eventos/cross-laminha-2022/
+URL:https://www.portugalrunning.com/eventos/cross-laminha-2022/
+END:VEVENT
+END:VCALENDAR

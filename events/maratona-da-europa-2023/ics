@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbf91e92
+DTSTAMP:20250720T222503Z
+DTSTART:20230423
+DTEND:20230424
+LOCATION:Aveiro Aveiro
+SUMMARY:Maratona da Europa 2023
+DESCRIPTION:A MARATONA DA EUROPA 2023 em Aveiro realiza-se a 23 de abril de
+  2023. É uma organização Global Sport\,  promovida pela Câmara Municipa
+ l de Aveiro e Turismo Centro de Portugal\,  com o apoio da Câmara Municipa
+ l de Ílhavo. O Portugal Running disponibiliza um acompanhamento persona
+ lizado para os atletas que queiram melhorar as suas performances[..]\nhttp
+ s://www.portugalrunning.com/eventos/maratona-da-europa-2023/
+URL:https://www.portugalrunning.com/eventos/maratona-da-europa-2023/
+END:VEVENT
+END:VCALENDAR

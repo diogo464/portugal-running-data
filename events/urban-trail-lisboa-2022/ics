@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dba79842
+DTSTAMP:20250720T222914Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:Lisboa Lisboa
+SUMMARY:Urban Trail Lisboa 2022
+DESCRIPTION:O Urban Trail Lisboa é um evento desportivo\,  que consiste nu
+ ma corrida e caminhada\,  em cidades com elevado Património Histórico e C
+ ultural. Este evento desportivo tem os percursos a desenrolarem-se nestes l
+ ocais\,  património destas cidades; Onde tenha subidas\,  rampas\,  escada
+ s\,  monumentos e castelos\,  este é o ambiente ideal para desafiar[..]\nh
+ ttps://www.portugalrunning.com/eventos/urban-trail-lisboa-2022/
+URL:https://www.portugalrunning.com/eventos/urban-trail-lisboa-2022/
+END:VEVENT
+END:VCALENDAR

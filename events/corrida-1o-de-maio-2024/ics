@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c33000cc
+DTSTAMP:20250720T222243Z
+DTSTART:20240501
+DTEND:20240502
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida 1º de Maio 2024
+DESCRIPTION:As avenidas de Lisboa voltam a ser no dia 1 de Maio 2024\,  o p
+ alco para a tradicional Corrida Internacional 1º de Maio\,  promovida pela
+  União dos Sindicatos de Lisboa / CGTP\,  prova que anualmente\,  reúne m
+ ais de um milhar de atletas e amantes do desporto. Corrida 15 kmCorrida/Cam
+ inhada 4[..]\nhttps://www.portugalrunning.com/eventos/corrida-1o-de-maio-20
+ 24/
+URL:https://www.portugalrunning.com/eventos/corrida-1o-de-maio-2024/
+END:VEVENT
+END:VCALENDAR

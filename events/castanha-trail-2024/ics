@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2aaa64a
+DTSTAMP:20250720T222234Z
+DTSTART:20241117
+DTEND:20241118
+LOCATION:Brufe\,  Terras de Bouro Brufe\,  Terras de Bouro
+SUMMARY:Castanha Trail 2024
+DESCRIPTION:A Associação Bicicletas Temos Todos BRUFEBTT em colaboração
+  com a Junta de Freguesia de Brufe realiza\,  no dia 17 de Novembro 2024 pe
+ las 9:30 a 2ª edição DA CASTANHA TRAIL.\nhttps://www.portugalrunning.com
+ /eventos/castanha-trail-2024/
+URL:https://www.portugalrunning.com/eventos/castanha-trail-2024/
+END:VEVENT
+END:VCALENDAR

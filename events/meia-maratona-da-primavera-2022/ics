@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccacb6f
+DTSTAMP:20250720T222516Z
+DTSTART:20230325
+DTEND:20230326
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Meia Maratona da Primavera 2023
+DESCRIPTION:Realiza-se no dia 25 de março de 2023 pelas 17h00\,  na Cidade
+  de Santa Maria da Feira com partida e chegada no Europarque a 2ª Meia Mar
+ atona da Primavera 2022 em Santa Maria da Feira 21km e o Troféu Europarque
+  Running 8km\,  na qual se integrará uma caminhada com de[..]\nhttps://www
+ .portugalrunning.com/eventos/meia-maratona-da-primavera-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-da-primavera-2022/
+END:VEVENT
+END:VCALENDAR

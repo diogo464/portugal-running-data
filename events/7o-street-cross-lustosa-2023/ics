@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1031da2
+DTSTAMP:20250720T222208Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Lousada\,  Porto Lousada\,  Porto
+SUMMARY:7º Street Cross Lustosa 2023
+DESCRIPTION:A Associação Desportiva de Lustosa\,  com o apoio da Câmara 
+ Municipal de Lousada e União de Freguesias de Lustosa e Barrosas Santo Est
+ êvão\,  irá organizar o 7º Street Cross Lustosa\,  com partida e chegad
+ a na Alameda da Igreja – Lustosa\,  no dia 21 de maio de 2023\,  com inic
+ io às[..]\nhttps://www.portugalrunning.com/eventos/7o-street-cross-lustosa
+ -2023/
+URL:https://www.portugalrunning.com/eventos/7o-street-cross-lustosa-2023/
+END:VEVENT
+END:VCALENDAR

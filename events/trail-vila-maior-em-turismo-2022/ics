@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9719f65
+DTSTAMP:20250720T222839Z
+DTSTART:20220320
+DTEND:20220321
+LOCATION:Vila Maior\,  Aveiro Vila Maior\,  Aveiro
+SUMMARY:Trail Vila Maior Em Turismo 2022
+DESCRIPTION:O Trail Vila Maior Em Turismo 2022 é uma prova de Trail Runnin
+ g\,  realizada por trilhos sinalizados\,  em piso acidentado\,  estradões 
+ e obstáculos naturais em contato com a Natureza\,  com a partida e chegada
+  em Vila Maior.\nhttps://www.portugalrunning.com/eventos/trail-vila-maior-e
+ m-turismo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-vila-maior-em-turismo-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65dcd7e
+DTSTAMP:20250720T222749Z
+DTSTART:20240908
+DTEND:20240909
+LOCATION:Ponte de Sor\,  Portalegre Ponte de Sor\,  Portalegre
+SUMMARY:Trail do Sor 2024
+DESCRIPTION:A Associação “Clube de Atletismo Trail Runners da Ponte” 
+ (CATRP) vai realizar no dia 9 de setembro de 2024 o “XI TRAIL DO SOR”\,
+   na Cidade de Ponte de Sor\,  Distrito de Portalegre\,  Alto Alentejo\,  c
+ om o Apoio do Município de Ponte de Sor\,  da União de Freguesias de Pont
+ e[..]\nhttps://www.portugalrunning.com/eventos/trail-do-sor-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-sor-2024/
+END:VEVENT
+END:VCALENDAR

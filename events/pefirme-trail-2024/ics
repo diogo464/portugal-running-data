@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf74b228
+DTSTAMP:20250720T222559Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Penafirme\,  Torres Vedras Penafirme\,  Torres Vedras
+SUMMARY:PéFirme Trail 2024
+DESCRIPTION:O Clube Académico de Penafirme convida-o a participar no Trail
+  Pé Firme 2024\,  um evento épico que celebra a história local\,  o desp
+ orto e a beleza natural da Zona Oeste. Nos dias 28 e 29 de setembro\,  dura
+ nte a Semana Europeia do Desporto\,  prepare-se para desafiar os seus limit
+ es e[..]\nhttps://www.portugalrunning.com/eventos/pefirme-trail-2024/
+URL:https://www.portugalrunning.com/eventos/pefirme-trail-2024/
+END:VEVENT
+END:VCALENDAR

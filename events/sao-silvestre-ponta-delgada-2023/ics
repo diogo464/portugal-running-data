@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2162b16
+DTSTAMP:20250720T222641Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:São Silvestre Ponta Delgada 2023
+DESCRIPTION:A Associação de Atletismo de S. Miguel vai realizar no dia 16
+  de dezembro a 59ª Corrida São Silvestre Ponta Delgada\,  uma das mais m�
+ �ticas provas de fim de ano realizadas em Portugal.\nhttps://www.portugalru
+ nning.com/eventos/sao-silvestre-ponta-delgada-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-ponta-delgada-2023/
+END:VEVENT
+END:VCALENDAR

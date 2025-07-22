@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c747b3e1
+DTSTAMP:20250720T222348Z
+DTSTART:20250501
+DTEND:20250502
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corrida UGT 2025
+DESCRIPTION:Inscreve-te gratuitamente\, &nbsp;recebe o teu kit participante
+  e corre para a tua medalha finisher! Não percas a oportunidade de te junt
+ ares a esta&nbsp;festa! Partida e Chegada&nbsp;|&nbsp;Parque Urbano do Jamo
+ r\,  junto ao Lago da Canoagem Kids Race 500m Corrida 8km Caminhada 4km\nht
+ tps://www.portugalrunning.com/eventos/corrida-ugt-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-ugt-2025/
+END:VEVENT
+END:VCALENDAR

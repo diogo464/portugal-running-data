@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daa79c4d
+DTSTAMP:20250720T222858Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Trilhos dos Fogaceiros 2024
+DESCRIPTION:Os Trilhos dos Fogaceiros pretendem promover a prática desport
+ iva em geral e o gosto pelo desporto na Natureza. O evento decorrerá no pr
+ imeiro fim-de-semana de Junho\,  com duas distâncias competitivas e uma ca
+ minhada. Trail longo - 22 kmTrail curto - 12 kmCaminhada - 8 km\nhttps://ww
+ w.portugalrunning.com/eventos/trilhos-dos-fogaceiros-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-fogaceiros-2024/
+END:VEVENT
+END:VCALENDAR

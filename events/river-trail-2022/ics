@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d053172f
+DTSTAMP:20250720T222613Z
+DTSTART:20220904
+DTEND:20220905
+LOCATION:Fornos de Algodres\,  Guarda Fornos de Algodres\,  Guarda
+SUMMARY:River Trail 2022
+DESCRIPTION:O " RIVER TRAIL” é uma corrida de montanha\,  organizada por
+  “Vila Chã Aldeia Trail dePortugal”\,  a realizar no dia 4 de setembro
+  de 2022\,  na Praia Fluvial da Ponta de Juncais\,  noconcelho de Fornos de
+  Algodres.Este trail faz parte do Circuito Municipal de Corrida de Montanha
+ -Trilhos D`O Bom Sabor[..]\nhttps://www.portugalrunning.com/eventos/river-t
+ rail-2022/
+URL:https://www.portugalrunning.com/eventos/river-trail-2022/
+END:VEVENT
+END:VCALENDAR

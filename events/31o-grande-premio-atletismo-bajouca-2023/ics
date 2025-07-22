@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c00aa6c8
+DTSTAMP:20250720T222152Z
+DTSTART:20230507
+DTEND:20230508
+LOCATION:Bajouca\,  Leiria Bajouca\,  Leiria
+SUMMARY:31º Grande Prémio Atletismo Bajouca 2023
+DESCRIPTION:O Departamento de Atletismo do Grupo Alegre e Unido – Bajouca
+ \,  vai realizar no dia 07 de Maio de 2023 o 31º Grande Prémio de Atletis
+ mo Bajouca - Medicis\,  com partida e meta no Largo da Feira dos 13 - Bajou
+ ca. A prova principal tem a distância de 10km\,  um[..]\nhttps://www.portu
+ galrunning.com/eventos/31o-grande-premio-atletismo-bajouca-2023/
+URL:https://www.portugalrunning.com/eventos/31o-grande-premio-atletismo-bajouca-2023/
+END:VEVENT
+END:VCALENDAR

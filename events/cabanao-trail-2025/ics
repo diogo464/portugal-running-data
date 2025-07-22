@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2700630
+DTSTAMP:20250720T222231Z
+DTSTART:20250126T192900Z
+DTEND:20250126T235900Z
+LOCATION:Portomar\,  Mira Portomar\,  Mira
+SUMMARY:Cabanão Trail 2025
+DESCRIPTION:O “Cabanão Trail - O início” é um evento desportivo orga
+ nizado pela secção de trail da associação Clube Domus Nostra e integra 
+ duas provas de cariz competitivo e uma caminhada de cariz recreativo. A pro
+ va do Mini Trail 14 Kms faz parte do CDTRC (Circuito Distrital de Trail Run
+ ning de[..]\nhttps://www.portugalrunning.com/eventos/cabanao-trail-2025/
+URL:https://www.portugalrunning.com/eventos/cabanao-trail-2025/
+END:VEVENT
+END:VCALENDAR

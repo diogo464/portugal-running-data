@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc32135
+DTSTAMP:20250720T222148Z
+DTSTART:20230820
+DTEND:20230821
+LOCATION:Monte Gordo\,  Vila Real de Santo António Monte Gordo\,  Vila Real de Santo António
+SUMMARY:Corrida Da Baía De Monte Gordo 2023
+DESCRIPTION:O Grupo Desportivo Pic-Nic\,  em coorganização com a Câmara 
+ Municipal de Vila Real de Santo António e a Câmara Municipal de Castro Ma
+ rim e a colaboração da Associação de Atletismo do Algarve\,  irá levar
+  a efeito no próximo dia 20 de agosto de 2023\,  pelas 10.30 horas\,  uma 
+ prova de[..]\nhttps://www.portugalrunning.com/eventos/24-a-corrida-da-baia-
+ de-monte-gordo-2023/
+URL:https://www.portugalrunning.com/eventos/24-a-corrida-da-baia-de-monte-gordo-2023/
+END:VEVENT
+END:VCALENDAR

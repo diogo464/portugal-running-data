@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3731551
+DTSTAMP:20250720T222247Z
+DTSTART:20250329T045200Z
+DTEND:20250329T045200Z
+LOCATION:Parque Urbano Murça\,  Vila Real Parque Urbano Murça\,  Vila Real
+SUMMARY:Corrida Azeite Porca de Murça 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-azeite-porca-
+ de-murca-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-azeite-porca-de-murca-2025/
+END:VEVENT
+END:VCALENDAR

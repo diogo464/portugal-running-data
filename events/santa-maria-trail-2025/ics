@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c46cc
+DTSTAMP:20250720T222617Z
+DTSTART:20250517
+DTEND:20250518
+LOCATION:Ilha de Santa Maria\,  Açores Ilha de Santa Maria\,  Açores
+SUMMARY:Santa Maria Trail 2025
+DESCRIPTION:O “Santa Maria Trail – SMAT” é um evento de Trail Runnin
+ g\,  que irá decorrer no dia 17 de maio de 2025\,  certificado pela ATRP e
+  organizado pela Secção de Trail Running da Casa do Povo de São Pedro\, 
+  que percorre trilhos\,  caminhos agrícolas e florestais e linhas de água
+ [..]\nhttps://www.portugalrunning.com/eventos/santa-maria-trail-2025/
+URL:https://www.portugalrunning.com/eventos/santa-maria-trail-2025/
+END:VEVENT
+END:VCALENDAR

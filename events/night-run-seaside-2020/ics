@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cee02bf7
+DTSTAMP:20250720T222550Z
+DTSTART:20200605
+DTEND:20200606
+LOCATION:Vendas Novas Vendas Novas
+SUMMARY:Night Run Seaside 2020
+DESCRIPTION:A sétima edição da Night Run Seaside de Vendas Novas já tem
+  data marcada! Aponte na agenda o dia 13 de março\,  para a participação
+  nesta prova que pretende assinalar o Dia Internacional da Mulher\,  homena
+ geando o universo feminino através da prática de atividade física\,  mas
+  onde os homens também[..]\nhttps://www.portugalrunning.com/eventos/night-
+ run-seaside-2020/
+URL:https://www.portugalrunning.com/eventos/night-run-seaside-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b48daa
+DTSTAMP:20250720T222323Z
+DTSTART:20200118
+DTEND:20200119
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Corrida dos Reis
+DESCRIPTION:Entre no novo ano com o pé direito e visite a cidade de Parede
+ s na já habitual Corrida dos Reis. A Corrida dos Reis em Paredes é já um
+ a das provas de referência do género em Portugal.\nhttps://www.portugalru
+ nning.com/eventos/corrida-dos-reis-2/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-2/
+END:VEVENT
+END:VCALENDAR

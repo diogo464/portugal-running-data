@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61ac3ba
+DTSTAMP:20250720T222745Z
+DTSTART:20250316
+DTEND:20250317
+LOCATION:Vila Nova De Monsarros\,  Anadia Vila Nova De Monsarros\,  Anadia
+SUMMARY:Trail do Serrote 2025
+DESCRIPTION:O evento será realizado em Vila Nova de Monsarros\,  Anadia\, 
+  com ponto de encontro no Val das Cavadas. Distâncias: Trail 19 Km – 100
+ 0 D+ Mini Trail 14 Km – 500 D+ Caminhada 12 Km – 350 D+ Todos os percur
+ sos envolvem caminhos de floresta\,  campos agrícolas e aldeias\,  com[..]
+ \nhttps://www.portugalrunning.com/eventos/trail-do-serrote-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-serrote-2025/
+END:VEVENT
+END:VCALENDAR

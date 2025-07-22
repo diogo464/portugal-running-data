@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6a0195a
+DTSTAMP:20250720T222338Z
+DTSTART:20240407
+DTEND:20240408
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Corridas Águas de Gaia 2024
+DESCRIPTION:O XIV Grande Prémio de Atletismo realiza-se no dia 07 de abril
+  de 2024\,  pelas 10H00\,  com partida e chegada na sede de Águas de Gaia\
+ ,  sita na Rua 14 de Outubro\,  287 em Vila Nova de Gaia\,  e é organizada
+  pelo Clube do Pessoal Águas de Gaia. As inscrições[..]\nhttps://www.por
+ tugalrunning.com/eventos/corridas-aguas-de-gaia-2024/
+URL:https://www.portugalrunning.com/eventos/corridas-aguas-de-gaia-2024/
+END:VEVENT
+END:VCALENDAR

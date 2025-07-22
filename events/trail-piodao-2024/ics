@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7f3151e
+DTSTAMP:20250720T222815Z
+DTSTART:20240406
+DTEND:20240407
+LOCATION:Piódão\,  Coimbra Piódão\,  Coimbra
+SUMMARY:Trail Piodão 2024
+DESCRIPTION:Trail Piodão 2024\nhttps://www.portugalrunning.com/eventos/tra
+ il-piodao-2024/
+URL:https://www.portugalrunning.com/eventos/trail-piodao-2024/
+END:VEVENT
+END:VCALENDAR

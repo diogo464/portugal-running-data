@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3030b43
+DTSTAMP:20250720T222656Z
+DTSTART:20220918
+DTEND:20220919
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:STE - Montepio Sintra Trail X´Treme 2022
+DESCRIPTION:STE - Montepio Sintra Trail X´Treme 2022\nhttps://www.portugal
+ running.com/eventos/ste-montepio-sintra-trail-xtreme-2022/
+URL:https://www.portugalrunning.com/eventos/ste-montepio-sintra-trail-xtreme-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5961539
+DTSTAMP:20250720T222737Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Arrabal\,  Leiria Arrabal\,  Leiria
+SUMMARY:Trail do Dragão 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-do-dragao-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-dragao-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0eddbeb
+DTSTAMP:20250720T222622Z
+DTSTART:20231202
+DTEND:20231203
+LOCATION:Aveiro Aveiro
+SUMMARY:São Silvestre Aveiro 2023
+DESCRIPTION:A São Silvestre de Aveiro 2022 é uma organização da Câmara
+  Municipal de Aveiro em parceria com empresa NT Wellness Sport Solution Uni
+ pessoal e já está implantada como uma referência nas provas de corrida d
+ e fim de ano em Portugal. Venha correr e divertir-se.\nhttps://www.portugal
+ running.com/eventos/sao-silvestre-aveiro-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-aveiro-2023/
+END:VEVENT
+END:VCALENDAR

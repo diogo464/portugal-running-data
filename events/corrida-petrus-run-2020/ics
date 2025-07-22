@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6533aad
+DTSTAMP:20250720T222333Z
+DTSTART:20200308
+DTEND:20200309
+LOCATION:Estádio Jorge Sampaio\,  Vila Nova de Gaia Estádio Jorge Sampaio\,  Vila Nova de Gaia
+SUMMARY:Corrida Petrus Run 2020
+DESCRIPTION:Com um percurso de 10 km e com início às 10h00\,  quase em 
+ ambiente rural\,  a 6.ª edição da Petrus Run disputar-se-á na Fregues
+ ia de Pedroso e Seixezelo e dará a todos os participantes a sensação das
+  grandes chegadas ao estádio nos Jogos Olímpicos. A 4.ª Caminhada Solid
+ ária Petrus Run terá também lugar no dia 8[..]\nhttps://www.portugalrun
+ ning.com/eventos/corrida-petrus-run-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-petrus-run-2020/
+END:VEVENT
+END:VCALENDAR

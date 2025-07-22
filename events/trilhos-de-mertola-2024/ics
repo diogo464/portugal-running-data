@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da31883e
+DTSTAMP:20250720T222851Z
+DTSTART:20240303
+DTEND:20240304
+LOCATION:Mértola\,  Beja Mértola\,  Beja
+SUMMARY:Trilhos de Mértola 2024
+DESCRIPTION:O evento desportivo Trilhos de Mértola -Trail Run integra as s
+ eguintes distâncias:a) - Trail Ultra - 46 Kmb) - Trail - 32 Kmc) – Trail
+  Sprint – 16 Kmc) - Caminhada de 9 km\,  sem vertente competitiva.\nhttps
+ ://www.portugalrunning.com/eventos/trilhos-de-mertola-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-mertola-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e49f43
+DTSTAMP:20250720T222358Z
+DTSTART:20250126
+DTEND:20250127
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Desafia a Ladeira Mesh Nazareth 2025
+DESCRIPTION:5º Desafia a Ladeira Mesh Nazareth&nbsp;organizado pela&nbsp;M
+ esh Nazareth-Associação de Solidariedade Social. com o apoio da&nbsp;Câm
+ ara Municipal de Nazaré da Junta de Freguesia de Nazaré. 5º Desafia a La
+ deira Mesh Nazareth&nbsp;consiste numa&nbsp;corrida contra-relógio\,  Esta
+ fetas mistas e caminhada a realizar no dia&nbsp;26 de janeiro de 2025.\nhtt
+ ps://www.portugalrunning.com/eventos/desafia-a-ladeira-mesh-nazareth-2025/
+URL:https://www.portugalrunning.com/eventos/desafia-a-ladeira-mesh-nazareth-2025/
+END:VEVENT
+END:VCALENDAR

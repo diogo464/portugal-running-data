@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc431d08
+DTSTAMP:20250720T222508Z
+DTSTART:20240622
+DTEND:20240623
+LOCATION:Tromsø\,  Noruega Tromsø\,  Noruega
+SUMMARY:Maratona do Sol da Meia Noite 2025
+DESCRIPTION:Maratona do Sol da Meia-Noite\,  um evento verdadeiramente úni
+ co que celebra o incrível fenômeno do Sol da Meia-Noite na encantadora ci
+ dade de Tromsø\,  no norte da Noruega. A prova oferece distâncias para to
+ dos os corredores: 5K\,  10K\,  21K e 42K\,  em percurso de Asfalto!\nhttps
+ ://www.portugalrunning.com/eventos/maratona-do-sol-da-meia-noite-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-do-sol-da-meia-noite-2025/
+END:VEVENT
+END:VCALENDAR

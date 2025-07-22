@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09c2f90
+DTSTAMP:20250720T222617Z
+DTSTART:20230715
+DTEND:20230716
+LOCATION:Alcobaça\,  Leiria Alcobaça\,  Leiria
+SUMMARY:Runset Alcobaça 2023
+DESCRIPTION:A RUNSET Alcobaça é um evento co-organizado pela Associação
+  MakeMove em conjunto com o Município de Alcobaça. RUNSET ALCOBAÇAPercur
+ so de trail misto entre trilhos e locais urbanos constituído por uma volta
+  única de +/- 12 km\,  contendo escadas\,  desnível e todo o tipo de obst
+ áculos arquitetónicos existentes na cidade. Com[..]\nhttps://www.portugal
+ running.com/eventos/runset-alcobaca-2023/
+URL:https://www.portugalrunning.com/eventos/runset-alcobaca-2023/
+END:VEVENT
+END:VCALENDAR

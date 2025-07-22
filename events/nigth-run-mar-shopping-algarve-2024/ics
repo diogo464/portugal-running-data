@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf200423
+DTSTAMP:20250720T222554Z
+DTSTART:20240517
+DTEND:20240518
+LOCATION:Almancil\,  Loulé Almancil\,  Loulé
+SUMMARY:Nigth Run - MAR Shopping Algarve 2024
+DESCRIPTION:Numa co-organização da Free Challenge\,  MAR Shopping Algarve
+ \,  Designer Outlet Algarve\,  realiza-se no dia 17 de maio de 2024\,  a "M
+ AR SHOPPING ALGARVE NIGHT RUN"\,  com início agendado para as 23h30 no cen
+ tro comercial MAR Shopping Algarve na freguesia Almancil. A competição ir
+ á decorrer no centro comercial MAR Shopping Algarve\, [..]\nhttps://www.po
+ rtugalrunning.com/eventos/nigth-run-mar-shopping-algarve-2024/
+URL:https://www.portugalrunning.com/eventos/nigth-run-mar-shopping-algarve-2024/
+END:VEVENT
+END:VCALENDAR

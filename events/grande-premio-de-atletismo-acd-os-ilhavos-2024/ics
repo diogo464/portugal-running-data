@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b62328
+DTSTAMP:20250720T222427Z
+DTSTART:20240324
+DTEND:20240325
+LOCATION:Ílhavo\,  Aveiro Ílhavo\,  Aveiro
+SUMMARY:Grande Prémio de Atletismo ACD Os Ilhavos 2024
+DESCRIPTION:A Associação Cultural e Desportiva "Os Ílhavos" organiza uma
+  das mais clássicas provas de estrada da região de Aveiro em parceria com
+  o Município de Ílhavo\,  que será este ano Campeonato Distrital de Estr
+ ada.\nhttps://www.portugalrunning.com/eventos/grande-premio-de-atletismo-ac
+ d-os-ilhavos-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-acd-os-ilhavos-2024/
+END:VEVENT
+END:VCALENDAR

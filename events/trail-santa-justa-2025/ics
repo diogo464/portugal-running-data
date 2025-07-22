@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8ac2e47
+DTSTAMP:20250720T222826Z
+DTSTART:20250727
+DTEND:20250728
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Santa Justa 2025
+DESCRIPTION:A XIII edição do Trail Santa Justa é uma prova que percorre 
+ trilhos e caminhos na serra de Santa Justa e de Pias no concelho de Valongo
+ \,  com início e fim Junto à Igreja de Santa Justa. As três provas de ca
+ racter competitivo (31km\,  15 km\,  10km) estão abertas a[..]\nhttps://ww
+ w.portugalrunning.com/eventos/trail-santa-justa-2025/
+URL:https://www.portugalrunning.com/eventos/trail-santa-justa-2025/
+END:VEVENT
+END:VCALENDAR

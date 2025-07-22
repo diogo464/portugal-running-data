@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3732839
+DTSTAMP:20250720T222247Z
+DTSTART:20220910
+DTEND:20220911
+LOCATION:Jamor Jamor\,  Lisboa
+SUMMARY:Corrida Auchan 2022
+DESCRIPTION:A&nbsp;9ª Edição da Corrida Auchan&nbsp;está de volta no di
+ a 10 de setembro\,  desta vez no Centro Desportivo Nacional do Jamor com a 
+ Corrida de 10 Km\,  Caminhada de 5 Km\,  Corrida Rik&Rok\,  Street Basket e
+  muitas modalidades desportivas para experimentarem. RESULTADOS aqui.\nhttp
+ s://www.portugalrunning.com/eventos/corrida-auchan-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-auchan-2022/
+END:VEVENT
+END:VCALENDAR

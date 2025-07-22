@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d184a140
+DTSTAMP:20250720T222632Z
+DTSTART:20241214T203300Z
+DTEND:20241214T235900Z
+LOCATION:Vila Nova de Santo André\,  Santiago do Cacém Vila Nova de Santo André\,  Santiago do Cacém
+SUMMARY:São Silvestre de Vila Nova de Santo André 2024
+DESCRIPTION:A São Silvestre de Vila Nova de Santo André será composta po
+ r um percurso de 10km. Sendo este comum para a corrida e para a caminhada. 
+ A prova terá início e fim na Avenida de Sines Junto do Parque Central\,  
+ em Vila Nova de Santo André.\nhttps://www.portugalrunning.com/eventos/sao-
+ silvestre-de-vila-nova-de-santo-andre-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-nova-de-santo-andre-2024/
+END:VEVENT
+END:VCALENDAR

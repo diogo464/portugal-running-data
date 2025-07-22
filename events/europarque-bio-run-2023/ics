@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b1818c
+DTSTAMP:20250720T222411Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Europarque Bio Run 2023
+DESCRIPTION:O Europarque Bio Run é um evento desportivo que proporciona ao
+ s participantes a oportunidade de correr ou caminhar no Europarque de Santa
+  Maria da Feira\,  um percurso de 10 km (duas voltas) para a corrida com ca
+ rácter competitivo e prémios monetários e um percurso de 5 km para a cam
+ inhada.[..]\nhttps://www.portugalrunning.com/eventos/europarque-bio-run-202
+ 3/
+URL:https://www.portugalrunning.com/eventos/europarque-bio-run-2023/
+END:VEVENT
+END:VCALENDAR

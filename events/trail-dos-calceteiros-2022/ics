@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61c4f05
+DTSTAMP:20250720T222745Z
+DTSTART:20220320
+DTEND:20220321
+LOCATION:Fanhões\,  Loures Fanhões\,  Loures
+SUMMARY:Trail Dos Calceteiros 2022
+DESCRIPTION:Inserido na Taça de Portugal de Trail\,  a 2ª edição do �
+ �Trail Dos Calceteiros 2022“\,  evento desportivo de caráter lúdico e c
+ ompetitivo\,  tem por objetivo divulgar e promover a prática desportiva\,
+   na modalidade de trail running\,  mas também as localidades onde decorre
+  o evento. É um evento organizado pela equipa desportiva&nbsp;Trilhos do[.
+ .]\nhttps://www.portugalrunning.com/eventos/trail-dos-calceteiros-2022/
+URL:https://www.portugalrunning.com/eventos/trail-dos-calceteiros-2022/
+END:VEVENT
+END:VCALENDAR

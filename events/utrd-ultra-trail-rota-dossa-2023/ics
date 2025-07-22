@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dba494f7
+DTSTAMP:20250720T222914Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+SUMMARY:Utrd - Ultra Trail Rota D'Ossa 2023
+DESCRIPTION:Utrd - Ultra Trail Rota D'Ossa 2023\nhttps://www.portugalrunnin
+ g.com/eventos/utrd-ultra-trail-rota-dossa-2023/
+URL:https://www.portugalrunning.com/eventos/utrd-ultra-trail-rota-dossa-2023/
+END:VEVENT
+END:VCALENDAR

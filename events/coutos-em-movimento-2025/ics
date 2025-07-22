@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c79014e2
+DTSTAMP:20250720T222353Z
+DTSTART:20250501
+DTEND:20250502
+LOCATION:Coutos de Viseu\,  Viseu Coutos de Viseu\,  Viseu
+SUMMARY:Coutos em Movimento 2025
+DESCRIPTION:A organização deste evento é realizada pela Associação Cul
+ tural Recreativa Desportiva DATUS\,  com o apoio da Junta de Freguesia dos 
+ Coutos de Viseu\,  IPDJ e do Município de Viseu\,  em parceria com Quinta 
+ da Póvoa do Respinheiro. O evento é composto por um percurso de cerca de 
+ 10km (aproximadamente)\,  para[..]\nhttps://www.portugalrunning.com/eventos
+ /coutos-em-movimento-2025/
+URL:https://www.portugalrunning.com/eventos/coutos-em-movimento-2025/
+END:VEVENT
+END:VCALENDAR

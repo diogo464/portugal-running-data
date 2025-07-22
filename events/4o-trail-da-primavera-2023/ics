@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c08628ca
+DTSTAMP:20250720T222200Z
+DTSTART:20230326
+DTEND:20230327
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:4º Trail Da Primavera 2023
+DESCRIPTION:O 4º TRAIL DA PRIMAVERA é um evento de natureza desportiva. O
+  valor das refeições reverterá para a Associação de Bem Estar das Adem
+ as. O evento é composto por dois percursos de caracter competitivo e a dec
+ orrer em simultâneo\,  um trail curto com aproximadamente 15km e um tail l
+ ongo de[..]\nhttps://www.portugalrunning.com/eventos/4o-trail-da-primavera-
+ 2023/
+URL:https://www.portugalrunning.com/eventos/4o-trail-da-primavera-2023/
+END:VEVENT
+END:VCALENDAR

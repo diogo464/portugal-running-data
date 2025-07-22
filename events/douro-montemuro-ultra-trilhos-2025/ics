@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c827b1f1
+DTSTAMP:20250720T222402Z
+DTSTART:20250601
+DTEND:20250602
+LOCATION:Cinfães Cinfães
+SUMMARY:Douro Montemuro Ultra Trilhos 2025
+DESCRIPTION:O Douro Montemuro Ultra Trilhos (DMUT) é um evento desportivo 
+ de trail running da responsabilidade organizativa da Associação Desportiv
+ a Cinfães a Correr\,  associação sem fins lucrativos\,  com sede no Muni
+ cípio de Cinfães\,  que se realizará nos dias 31 de Maio e 01 de junho d
+ e 2025. É uma prova certificada[..]\nhttps://www.portugalrunning.com/event
+ os/douro-montemuro-ultra-trilhos-2025/
+URL:https://www.portugalrunning.com/eventos/douro-montemuro-ultra-trilhos-2025/
+END:VEVENT
+END:VCALENDAR

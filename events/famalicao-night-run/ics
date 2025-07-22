@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8bf3c82
+DTSTAMP:20250720T222411Z
+DTSTART:20200215
+DTEND:20200216
+LOCATION:Vila Nova de Famalicão\,  Braga Vila Nova de Famalicão\,  Braga
+SUMMARY:Famalicão Night Run
+DESCRIPTION:Esta edição pretende ser um evento nacional (limitado a 2500 
+ inscrições) com a particularidade de ser à noite e por fornecer aos part
+ icipantes um gorro com led recarregável para que todos possam percorrer os
+  parques e ruas da cidade em segurança. Vamos aproveitar este evento para 
+ lembrar o Dia Internacional[..]\nhttps://www.portugalrunning.com/eventos/fa
+ malicao-night-run/
+URL:https://www.portugalrunning.com/eventos/famalicao-night-run/
+END:VEVENT
+END:VCALENDAR

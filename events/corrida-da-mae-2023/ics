@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f48d15
+DTSTAMP:20250720T222255Z
+DTSTART:20230507
+DTEND:20230508
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida da Mãe 2023
+DESCRIPTION:Com partida e chegada no Parque Ribeirinho do Oriente\,  o perc
+ urso desenrolar-se-á pela magníficaAv. nfante D. Henrique\,  na zona orie
+ ntal de Lisboa.Animação não vai faltar\,  com música ao vivo\,  entrete
+ nimento para as crianças e outras surpresas. Parque Ribeirinho do Oriente 
+ | Lisboa Kids Race 500m&nbsp;|&nbsp;09h30Corrida 10km |&nbsp;10h00Mini-Corr
+ ida/Caminhada&nbsp;5.5km&nbsp;| 10h05\nhttps://www.portugalrunning.com/even
+ tos/corrida-da-mae-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mae-2023/
+END:VEVENT
+END:VCALENDAR

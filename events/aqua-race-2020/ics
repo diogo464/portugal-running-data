@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1992731
+DTSTAMP:20250720T222217Z
+DTSTART:20200503
+DTEND:20200504
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:Aqua Race 2020
+DESCRIPTION:A AQUA-RACE é uma prova de Trail Running com vários percursos
+  aquáticos de carácter técnico tais como: progressão dentro de linhas d
+ e água ou ribeiras / passagem pelo interior de pequenos açudes (sem recur
+ so a natação) / corrida ao longo de canais de rega / travessia de ribeira
+ s (sem recurso[..]\nhttps://www.portugalrunning.com/eventos/aqua-race-2020/
+URL:https://www.portugalrunning.com/eventos/aqua-race-2020/
+END:VEVENT
+END:VCALENDAR

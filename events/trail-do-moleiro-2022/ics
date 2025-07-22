@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d4a340
+DTSTAMP:20250720T222741Z
+DTSTART:20220529
+DTEND:20220530
+LOCATION:Castro Marim Castro Marim
+SUMMARY:Trail do Moleiro 2022
+DESCRIPTION:O evento desportivo Trail do Moleiro 2022 promovido e organizad
+ o pela Equipa Avenida Trail e oClube Campesino R.F.C.\,  com o apoio da Câ
+ mara Municipal de Castro Marim e a Junta deFreguesia de Castro Marim\,  des
+ tina-se a todos os cidadãos que cumpram o disposto nopresente regulamento.
+ \nhttps://www.portugalrunning.com/eventos/trail-do-moleiro-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-moleiro-2022/
+END:VEVENT
+END:VCALENDAR

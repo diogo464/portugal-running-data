@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf80059a
+DTSTAMP:20250720T222144Z
+DTSTART:20230729
+DTEND:20230730
+LOCATION:Angra do Heroísmo\,  Ilha Terceira\,  Açores Angra do Heroísmo\,  Ilha Terceira\,  Açores
+SUMMARY:1º Trail de Angra 2023
+DESCRIPTION:Caminhada 5\, 5 kmsTrail Curto 10 KmsTrail Longo 22 kms O valor
+  das inscrições será de 10€ para o Trail curto/Longo com inscrições 
+ confirmadas até ao dia 8 de julho de 2023 e de 15€ para as inscrições 
+ confirmadas entre 9 e 22 de julho de 2023. O valor da inscrição[..]\nhttp
+ s://www.portugalrunning.com/eventos/1o-trail-de-angra-2023/
+URL:https://www.portugalrunning.com/eventos/1o-trail-de-angra-2023/
+END:VEVENT
+END:VCALENDAR

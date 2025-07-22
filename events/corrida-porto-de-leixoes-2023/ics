@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69c3d2e
+DTSTAMP:20250720T222337Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Porto de Leixões\,  Porto Porto de Leixões\,  Porto
+SUMMARY:Corrida Porto De Leixões 2023
+DESCRIPTION:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+ &nbsp; &nbsp; &nbsp; &nbsp; A Corrida Porto de Leixões&nbsp;que irá reali
+ zar-se no dia 10 de Setembro 2023\,  está a ser organizada pela APDL - Adm
+ inistração dos Portos do Douro\,  Leixões e Viana do Castelo e pela Even
+ tSport\,  em colaboração com o[..]\nhttps://www.portugalrunning.com/event
+ os/corrida-porto-de-leixoes-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-porto-de-leixoes-2023/
+END:VEVENT
+END:VCALENDAR

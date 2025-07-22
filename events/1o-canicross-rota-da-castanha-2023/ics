@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf7dc7a0
+DTSTAMP:20250720T222143Z
+DTSTART:20230401
+DTEND:20230402
+LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+SUMMARY:1º Canicross "Rota da Castanha" 2023
+DESCRIPTION:Este evento é organizado pela Câmara Municipal de Sernancelhe
+  e pretende dinamizar a prática desportiva na região\,  nomeadamente do m
+ ushing\,  trazendo ao concelho de Sernancelhe\,  atletas de vários locais 
+ para que se possa divulgar\,  desenvolver e partilhar a experiência desta 
+ modalidade.\nhttps://www.portugalrunning.com/eventos/1o-canicross-rota-da-c
+ astanha-2023/
+URL:https://www.portugalrunning.com/eventos/1o-canicross-rota-da-castanha-2023/
+END:VEVENT
+END:VCALENDAR

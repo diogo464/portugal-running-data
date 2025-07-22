@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9731a00
+DTSTAMP:20250720T222423Z
+DTSTART:20231126
+DTEND:20231127
+LOCATION:Mendiga\,  Porto de Mós Mendiga\,  Porto de Mós
+SUMMARY:Grande Prémio Atletismo Mendiga 2023
+DESCRIPTION:A Associação Recreativa Cultural e Desportiva de Mendiga\,  
+ organiza no dia 26 de novembro de 2023 pelas 11.00 horas\,  o 35º Gran
+ de Prémio Atletismo Mendiga”\,  com a distância de 15km.\nhttps://www.p
+ ortugalrunning.com/eventos/grande-premio-atletismo-mendiga-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-mendiga-2023/
+END:VEVENT
+END:VCALENDAR

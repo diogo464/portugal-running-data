@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb0db7a3
+DTSTAMP:20250720T222448Z
+DTSTART:20221106
+DTEND:20221107
+LOCATION:Paço\,  Lourinhã Paço\,  Lourinhã
+SUMMARY:IV Trilhos D. Pedro E D. Inês 2022
+DESCRIPTION:URDC do Paço&nbsp;irá realizar\,  no próximo dia&nbsp;6 de n
+ ovembro de 2022\,  um evento denominado&nbsp;"IV Trilhos D. Pedro e D. Inê
+ s”\,  que consistirá numa prova de&nbsp;trail com cerca de 18 Km&nbsp;e 
+ uma&nbsp;caminhada com cerca de 10 Km. Horário: O&nbsp;Trail&nbsp;terá in
+ ício às&nbsp;9h30\,  com um tempo limite de 4h30; a&nbsp;Caminhada&nbsp;t
+ erá início pelas&nbsp;9h45.\nhttps://www.portugalrunning.com/eventos/iv-t
+ rilhos-d-pedro-e-d-ines-2022/
+URL:https://www.portugalrunning.com/eventos/iv-trilhos-d-pedro-e-d-ines-2022/
+END:VEVENT
+END:VCALENDAR

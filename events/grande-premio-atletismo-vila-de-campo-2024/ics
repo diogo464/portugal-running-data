@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9801162
+DTSTAMP:20250720T222424Z
+DTSTART:20240425
+DTEND:20240426
+LOCATION:Vila de Campo\,  Valongo Vila de Campo\,  Valongo
+SUMMARY:Grande Prémio Atletismo Vila de Campo 2024
+DESCRIPTION:No âmbito das Comemorações do 25 de abril\,  a Junta de Freg
+ uesia de Campo e Sobrado promove o 24º Grande Prémio de Atletismo da Vila
+  de Campo\,  numa organização conjunta com a Câmara Municipal de Valongo
+ \,  Associações locais e Comércio e Indústria local. Esta iniciativa de
+ correrá no dia 25 de[..]\nhttps://www.portugalrunning.com/eventos/grande-p
+ remio-atletismo-vila-de-campo-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-vila-de-campo-2024/
+END:VEVENT
+END:VCALENDAR

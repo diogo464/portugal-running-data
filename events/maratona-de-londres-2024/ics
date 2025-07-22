@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc401d47
+DTSTAMP:20250720T222508Z
+DTSTART:20240421
+DTEND:20240422
+LOCATION:Londres\,  Inglaterra Londres\,  Inglaterra
+SUMMARY:Maratona de Londres 2024
+DESCRIPTION:A Maratona de Londres\,  conhecida em inglês como "London Mara
+ thon\, " é uma das corridas de maratona mais prestigiadas e populares do m
+ undo que vai ocorrer a 21 de Abril de 2024. A primeira Maratona de Londres 
+ foi realizada em 1981 e desde então tornou-se uma das maratonas mais emble
+ máticas do[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-londre
+ s-2024/
+URL:https://www.portugalrunning.com/eventos/maratona-de-londres-2024/
+END:VEVENT
+END:VCALENDAR

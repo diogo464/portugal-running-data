@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c489326f
+DTSTAMP:20250720T222304Z
+DTSTART:20221015
+DTEND:20221016
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:5ª Corrida da UGT 2022
+DESCRIPTION:Com 3 distâncias distintas\,  8km\,  4km e 800 m\,  contamos 
+ convosco para a “5ª Corrida UGT”\,  a realizar no dia 15 de Outubro de
+  2022. Inscreve-te gratuitamente e recebe a t-shirt do evento\,  o dorsal
+  e a medalha finisher da Corrida da UGT.\nhttps://www.portugalrunning.com/e
+ ventos/corrida-da-ugt-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-ugt-2022/
+END:VEVENT
+END:VCALENDAR

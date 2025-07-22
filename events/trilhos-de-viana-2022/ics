@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da34a802
+DTSTAMP:20250720T222851Z
+DTSTART:20220206
+DTEND:20220207
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Trilhos de Viana 2022
+DESCRIPTION:ORGANIZAÇÃOCom o objetivo de promover a prática desportiva e
+  o contacto com a natureza\,  a AssociaçãoTrilhos de Viana e Leandro Frei
+ tas\,  na qualidade de diretor do evento\,  organiza o Trilhos de Viana 202
+ 2\,  nas distâncias de 30\,  17km Trail e 10km caminhada.\nhttps://www.por
+ tugalrunning.com/eventos/trilhos-de-viana-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-viana-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c044ac45
+DTSTAMP:20250720T222156Z
+DTSTART:20230305
+DTEND:20230306
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:3 Léguas do Nabão 2023
+DESCRIPTION:As 3 Léguas do Nabão estão de regresso para a sua 39º ediç
+ ão. A prova\,  referência no calendário nacional de provas de estrada\, 
+  continuará a introduzir aspetos inovadores. Esperamos continuar a contar 
+ com a sua presença para muita diversão\,  alegria e sadia competição.\n
+ https://www.portugalrunning.com/eventos/3-leguas-do-nabao-2023/
+URL:https://www.portugalrunning.com/eventos/3-leguas-do-nabao-2023/
+END:VEVENT
+END:VCALENDAR

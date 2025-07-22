@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5102971
+DTSTAMP:20250720T222729Z
+DTSTART:20200229
+DTEND:20200301
+LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+SUMMARY:Trail de Conímbriga Terras de Sicó 2020
+DESCRIPTION:RESULTADOS Reportagem &nbsp; &nbsp; Uma prova feita por atletas
+  e para os atletas!!! Início de uma nova década\,  com muitas novidades\,
+   trilhos novos e melhorados. Não falte!!!\nhttps://www.portugalrunning.co
+ m/eventos/trail-de-conimbriga-terras-de-sico-2020/
+URL:https://www.portugalrunning.com/eventos/trail-de-conimbriga-terras-de-sico-2020/
+END:VEVENT
+END:VCALENDAR

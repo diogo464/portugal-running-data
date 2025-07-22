@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e4940f
+DTSTAMP:20250720T222358Z
+DTSTART:20200126
+DTEND:20200127
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Desafia a Ladeira Mesh Nazareth
+DESCRIPTION:O percurso será feito pela Ladeira do Sitio na Nazaré. Grau d
+ e dificuldade média/alto. O percurso poderá estar escorregadio na subida 
+ da Ladeira e na encosta do Sitio\,  o que implica ao atleta o máximo de cu
+ idado. O percurso da Corrida Contra-Relógio será sinalizado adequadamente
+ \,  e o percurso da caminhada[..]\nhttps://www.portugalrunning.com/eventos/
+ desafia-a-ladeira-mesh-nazareth/
+URL:https://www.portugalrunning.com/eventos/desafia-a-ladeira-mesh-nazareth/
+END:VEVENT
+END:VCALENDAR

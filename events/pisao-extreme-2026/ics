@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfbaab7a
+DTSTAMP:20250720T222603Z
+DTSTART:20261003
+DTEND:20261004
+LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+SUMMARY:Pisão Extreme 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/pisao-extreme-2026/
+URL:https://www.portugalrunning.com/eventos/pisao-extreme-2026/
+END:VEVENT
+END:VCALENDAR

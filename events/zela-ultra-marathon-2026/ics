@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcb6efa9
+DTSTAMP:20250720T222931Z
+DTSTART:20260501
+DTEND:20260502
+LOCATION:Vouzela\,  Viseu Vouzela\,  Viseu
+SUMMARY:Zela Ultra Marathon 2026
+DESCRIPTION:.\nhttps://www.portugalrunning.com/eventos/zela-ultra-marathon-
+ 2026/
+URL:https://www.portugalrunning.com/eventos/zela-ultra-marathon-2026/
+END:VEVENT
+END:VCALENDAR

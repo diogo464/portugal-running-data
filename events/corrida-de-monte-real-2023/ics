@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4879c5d
+DTSTAMP:20250720T222304Z
+DTSTART:20230716
+DTEND:20230717
+LOCATION:Monte Real\,  Leiria Monte Real\,  Leiria
+SUMMARY:Corrida de Monte Real 2023
+DESCRIPTION:A Corrida Monte Real é uma organização da Câmara Municipal 
+ de Leiria em parceria com a União de Freguesias de Monte Real e Carvide e 
+ a Base Aérea n.º 5\,  com o apoio da ADAL\,  GAU\,  e Associação de Tur
+ ismo de Monte Real.\nhttps://www.portugalrunning.com/eventos/corrida-de-mon
+ te-real-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-de-monte-real-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d96aa884
+DTSTAMP:20250720T222838Z
+DTSTART:20220424
+DTEND:20220425
+LOCATION:Azambuja\,  Lisboa Azambuja\,  Lisboa
+SUMMARY:Trail Trilhos Pina Manique 2022
+DESCRIPTION:O Trail Trilhos Pina Manique 2022 está integrado num evento cu
+ ltural\,  designado por "Tasquinhas de Manique do Intendente”\,  que deco
+ rrerá entre 24 e 26Abril.\nhttps://www.portugalrunning.com/eventos/trail-t
+ rilhos-pina-manique-2022/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-pina-manique-2022/
+END:VEVENT
+END:VCALENDAR

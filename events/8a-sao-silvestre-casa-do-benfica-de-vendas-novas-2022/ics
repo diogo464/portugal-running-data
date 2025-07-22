@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c11db6d7
+DTSTAMP:20250720T222209Z
+DTSTART:20221207
+DTEND:20221208
+LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+SUMMARY:8ª São Silvestre - Casa do Benfica de Vendas Novas 2022
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/8a-sao-silvestre-casa
+ -do-benfica-de-vendas-novas-2022/
+URL:https://www.portugalrunning.com/eventos/8a-sao-silvestre-casa-do-benfica-de-vendas-novas-2022/
+END:VEVENT
+END:VCALENDAR

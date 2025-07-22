@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09dc41e
+DTSTAMP:20250720T222617Z
+DTSTART:20200105
+DTEND:20200106
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:São Silvestre 100% Solidária da Póvoa de Lanhoso
+DESCRIPTION:O Clube de Adoção e Proteção de Animais (CAPA) e o Municíp
+ io da Póvoa de Lanhoso estão juntos para mais uma edição da prova despo
+ rtiva São Silvestre Solidária da Póvoa de Lanhoso. O evento decorrerá n
+ o dia 5 de janeiro de 2020\,  pelas 10h\,  e passará pelas principais art�
+ �rias da[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-100-sol
+ idaria-da-povoa-de-lanhoso/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-100-solidaria-da-povoa-de-lanhoso/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e49ff0
+DTSTAMP:20250720T222358Z
+DTSTART:20230618
+DTEND:20230619
+LOCATION:Moimenta da Beira\,  Viseu Moimenta da Beira\,  Viseu
+SUMMARY:Demo Wolves Trail 2023
+DESCRIPTION:O Município de Moimenta da Beira\,  com o apoio do Boavista FC
+  Trail\,  são as entidades organizadoras do evento “2. Edição – Demo
+  Wolves Trail“\,  que decorrerá no dia 18 de Junho de 2023\,  em Moiment
+ a da Beira\,  independentemente das condições climatéricas do dia\,  des
+ de que a organização entenda que[..]\nhttps://www.portugalrunning.com/eve
+ ntos/demo-wolves-trail-2023/
+URL:https://www.portugalrunning.com/eventos/demo-wolves-trail-2023/
+END:VEVENT
+END:VCALENDAR

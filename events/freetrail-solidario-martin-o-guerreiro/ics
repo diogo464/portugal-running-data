@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8f4b2f4
+DTSTAMP:20250720T222415Z
+DTSTART:20211211
+DTEND:20211212
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Freetrail Solidário – Martin o Guerreiro 2021
+DESCRIPTION:O Freetrail Solidário – Martin o Guerreiro 2021 é um evento
+  100% Solidário\,  de carater lúdico\,  cujasreceitas revertem na totalid
+ ade para a recuperação e tratamentos do Martin.\nhttps://www.portugalrunn
+ ing.com/eventos/freetrail-solidario-martin-o-guerreiro/
+URL:https://www.portugalrunning.com/eventos/freetrail-solidario-martin-o-guerreiro/
+END:VEVENT
+END:VCALENDAR

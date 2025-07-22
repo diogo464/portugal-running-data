@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d18c2dbb
+DTSTAMP:20250720T222632Z
+DTSTART:20191221
+DTEND:20191222
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:São Silvestre de Santo Tirso
+DESCRIPTION:A S. Silvestre de Santo Tirso é\,  sem dúvida\,  um marco de 
+ destaque para o concelho. Mais do que uma iniciativa desportiva\,  é um fa
+ tor de união\,  de importância e notoriedade. Esta prova consegue reunir 
+ milhares de pessoas\,  não apenas os participantes\,  mas também todos aq
+ ueles que\,  pelo apoio e[..]\nhttps://www.portugalrunning.com/eventos/sao-
+ silvestre-de-santo-tirso/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-santo-tirso/
+END:VEVENT
+END:VCALENDAR

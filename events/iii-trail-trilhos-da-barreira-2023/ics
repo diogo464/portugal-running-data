@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca918859
+DTSTAMP:20250720T222441Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Montemor-o-Velho\,  Coimbra Montemor-o-Velho\,  Coimbra
+SUMMARY:III Trail Trilhos da Barreira 2023
+DESCRIPTION:O III Trail Trilhos da Barreira será realizado no dia 21 de Ma
+ io de 2023\,  na Aldeia de Gordos\,  freguesia de Arazede\,  concelho de Mo
+ ntemor-o-Velho.É uma prova organizada pela Associação Gordos em Moviment
+ o (AGM) associação esta sem fins lucrativos e de cariz social\,  desporti
+ vo\,  cultural e recreativo que desta feita[..]\nhttps://www.portugalrunnin
+ g.com/eventos/iii-trail-trilhos-da-barreira-2023/
+URL:https://www.portugalrunning.com/eventos/iii-trail-trilhos-da-barreira-2023/
+END:VEVENT
+END:VCALENDAR

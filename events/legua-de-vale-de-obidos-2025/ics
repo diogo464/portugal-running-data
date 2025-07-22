@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb5dc80d
+DTSTAMP:20250720T222453Z
+DTSTART:20250413
+DTEND:20250414
+LOCATION:Vale de Óbidos\,  Rio Maior Vale de Óbidos\,  Rio Maior
+SUMMARY:Légua de Vale de Óbidos 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/legua-de-vale-de-obid
+ os-2025/
+URL:https://www.portugalrunning.com/eventos/legua-de-vale-de-obidos-2025/
+END:VEVENT
+END:VCALENDAR

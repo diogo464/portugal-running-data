@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c87185a7
+DTSTAMP:20250720T222407Z
+DTSTART:20230501
+DTEND:20230502
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:Estafeta Das Azenhas By Team Lantemil 2023
+DESCRIPTION:A “Estafeta das Azenhas” irá decorrer na segunda-feira\,  
+ dia 1 de Maio de 2023\,  às 10h00m\,  no Parque das Azenhas (GPS 41.343917
+ \,  -8.550424). A “Estafeta das Azenhas” terá um único percurso com u
+ ma distância de 24km. A estafeta será composta por 4 segmentos devidament
+ e balizados:1º Segmento aproximadamente 6 km de[..]\nhttps://www.portugalr
+ unning.com/eventos/estafeta-das-azenhas-by-team-lantemil-2023/
+URL:https://www.portugalrunning.com/eventos/estafeta-das-azenhas-by-team-lantemil-2023/
+END:VEVENT
+END:VCALENDAR

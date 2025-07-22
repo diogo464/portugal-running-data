@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da3496a9
+DTSTAMP:20250720T222851Z
+DTSTART:20230305
+DTEND:20230306
+LOCATION:Mértola\,  Beja Mértola\,  Beja
+SUMMARY:Trilhos de Mértola 2023
+DESCRIPTION:O evento desportivo Trilhos de Mértola -Trail Run integra as s
+ eguintes distâncias (previsíveis):a) - Ultra Trail - 45 Kmb) - Trail Long
+ o- 25 Kmc) – Trail Curto – 15 Kmc) - Caminhada de 9 km\,  sem vertente 
+ competitiva.\nhttps://www.portugalrunning.com/eventos/trilhos-de-mertola-20
+ 23/
+URL:https://www.portugalrunning.com/eventos/trilhos-de-mertola-2023/
+END:VEVENT
+END:VCALENDAR

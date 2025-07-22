@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3b7b0a7
+DTSTAMP:20250720T222251Z
+DTSTART:20250921
+DTEND:20250922
+LOCATION:Montelavar\,  Sintra Montelavar\,  Sintra
+SUMMARY:Corrida da Filarmonia 2025
+DESCRIPTION:A Sociedade Filarmónica Boa União Montelavarense vai realizar
+  no domingo\,  dia 21 de Setembro de 2025\,  pelas 10:00 horas\,  um evento
+  desportivo de Atletismo\,  designado por VI Corrida da Filarmonia. A Corri
+ da da Filarmonia é composta por I corrida (de carácter competitivo) com o
+  seguinte percurso:Corrida (+/-10000 metros)\nhttps://www.portugalrunning.c
+ om/eventos/corrida-da-filarmonia-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-filarmonia-2025/
+END:VEVENT
+END:VCALENDAR

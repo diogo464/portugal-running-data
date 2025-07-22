@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b48d74
+DTSTAMP:20250720T222411Z
+DTSTART:20240317
+DTEND:20240318
+LOCATION:Fafe\,  Braga Fafe\,  Braga
+SUMMARY:Fafe Trail Run 2024
+DESCRIPTION:A Caminhada da Primavera + FAFE TRAIL RUN - “À Conquista do 
+ Maroiço”\,  é respetivamente uma caminhada em montanha e uma prova de t
+ rail running que percorre trilhos\,  caminhos e estradões do concelho de F
+ afe\,  desenvolvendo-se maioritariamente na união de freguesias de Monte e
+  Queimadela.\nhttps://www.portugalrunning.com/eventos/fafe-trail-run-2024/
+URL:https://www.portugalrunning.com/eventos/fafe-trail-run-2024/
+END:VEVENT
+END:VCALENDAR

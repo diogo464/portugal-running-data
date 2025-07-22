@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9a620f2
+DTSTAMP:20250720T222426Z
+DTSTART:20200329
+DTEND:20200330
+LOCATION:Charneca De Caparica\,  Setubal Charneca De Caparica\,  Setubal
+SUMMARY:Grande Prémio da Charneca de Caparica 2020
+DESCRIPTION:Prova de estrada para todos os escalões\,  inserida no Troféu
+  de Atletismo de Almada Mário Pinto Claro\nhttps://www.portugalrunning.com
+ /eventos/grande-premio-da-charneca-de-caparica-2020/
+URL:https://www.portugalrunning.com/eventos/grande-premio-da-charneca-de-caparica-2020/
+END:VEVENT
+END:VCALENDAR

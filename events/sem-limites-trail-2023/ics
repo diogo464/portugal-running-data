@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc2ce5
+DTSTAMP:20250720T222651Z
+DTSTART:20231022
+DTEND:20231023
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Sem Limites Trail 2023
+DESCRIPTION:O "Sem Limtes Trail" é organizado pela Associação Fridão Se
+ m Limites\,  através da sua secção deTrail Running. O “Sem Limites Tra
+ il” será realizado no dia 22 de Outubro de 2023.O “Sem Limites Trail �
+ �� será constituído por 3 eventos: Trail Longo\,  com a distância aproxi
+ mada de 28km (prova Circuito Nacional[..]\nhttps://www.portugalrunning.com/
+ eventos/sem-limites-trail-2023/
+URL:https://www.portugalrunning.com/eventos/sem-limites-trail-2023/
+END:VEVENT
+END:VCALENDAR

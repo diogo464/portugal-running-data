@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6b00c6f
+DTSTAMP:20250720T222755Z
+DTSTART:20210704
+DTEND:20210705
+LOCATION:Vila Verde Vila Verde\,  Braga
+SUMMARY:Trail Encostas do Mondego 2021
+DESCRIPTION:A quarta edição do Trail Encostas do Mondego vai voltar a rea
+ lizar-se (inicialmente no feriado de 1 de Dezembro) a 4 de Julho\,  em Vila
+  Verde\,  concelho de Figueira da Foz. Lado a lado com o rio Mondego\,  o e
+ vento leva-o a percorrer trilhos rodeados de paisagem de Inverno e[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-encostas-do-mondego-2021/
+URL:https://www.portugalrunning.com/eventos/trail-encostas-do-mondego-2021/
+END:VEVENT
+END:VCALENDAR

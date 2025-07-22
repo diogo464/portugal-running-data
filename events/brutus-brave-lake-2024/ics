@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c267bff4
+DTSTAMP:20250720T222230Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Mira\,  Coimbra Mira\,  Coimbra
+SUMMARY:Brutus Brave Lake 2024
+DESCRIPTION:A BRUTUS BRAVE LAKE (FUN EDITION) é uma prova OCR que se reali
+ za em Mira (distrito de Coimbra)\,  num circuito inserido em plena natureza
+ \,  utilizando o mais possível os recursos naturais da zona em que se inse
+ re\,  com obstáculos naturais e estruturas montadas por entre floresta e l
+ agoas. A edição[..]\nhttps://www.portugalrunning.com/eventos/brutus-brave
+ -lake-2024/
+URL:https://www.portugalrunning.com/eventos/brutus-brave-lake-2024/
+END:VEVENT
+END:VCALENDAR

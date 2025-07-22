@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d40317d8
+DTSTAMP:20250720T222712Z
+DTSTART:20250601
+DTEND:20250602
+LOCATION:Casal de Esporão\,  Viseu Casal de Esporão\,  Viseu
+SUMMARY:Trail & Caminhada "Pelos Trilhos de São Pedro de France" 2025
+DESCRIPTION:O Trail & Caminhada “Pelos Trilhos São Pedro de France” se
+ rá realizado no dia 01 de junho de 2025\,  na freguesia de São Pedro de F
+ rance e é organizado pela Associação Casal de Esporão Ativo – Associa
+ ção Cultural\,  Desportiva e Recreativa. A concentração será no recint
+ o do campo de futebol[..]\nhttps://www.portugalrunning.com/eventos/trail-ca
+ minhada-pelos-trilhos-de-sao-pedro-de-france-2025/
+URL:https://www.portugalrunning.com/eventos/trail-caminhada-pelos-trilhos-de-sao-pedro-de-france-2025/
+END:VEVENT
+END:VCALENDAR

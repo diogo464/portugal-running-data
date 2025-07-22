@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd749aa1
+DTSTAMP:20250720T222527Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Eindhoven\,  Países Baixos Eindhoven\,  Países Baixos
+SUMMARY:Meia Maratona Eindhoven 2024
+DESCRIPTION:A Meia Maratona de Eindhoven é um evento anual de corrida real
+ izado na cidade inovadora de Eindhoven\,  nos Países Baixos. A corrida atr
+ ai corredores de todo o mundo\,  oferecendo um percurso que passa por ponto
+ s emblemáticos da cidade\,  envolvendo os participantes em uma atmosfera f
+ estiva e de apoio da comunidade[..]\nhttps://www.portugalrunning.com/evento
+ s/meia-maratona-eindhoven-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-eindhoven-2024/
+END:VEVENT
+END:VCALENDAR

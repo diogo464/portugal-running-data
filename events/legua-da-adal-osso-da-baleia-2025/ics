@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb5db9fd
+DTSTAMP:20250720T222453Z
+DTSTART:20250720
+DTEND:20250721
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Légua da Adal - Osso da Baleia 2025
+DESCRIPTION:A&nbsp;ADAL com o apoio da Junta de Freguesia de Carriço e do 
+ Município de Pombal\, &nbsp;irá promover no próximo dia&nbsp;20 de julho
+  de 2025 a 4ª Légua da ADAL - Praia do Osso da Baleia e caminhada da fam�
+ �lia. A Légua\,  será percorrida sempre no areal. A prova é aberta a[..]
+ \nhttps://www.portugalrunning.com/eventos/legua-da-adal-osso-da-baleia-2025
+ /
+URL:https://www.portugalrunning.com/eventos/legua-da-adal-osso-da-baleia-2025/
+END:VEVENT
+END:VCALENDAR

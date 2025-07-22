@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d00aa58c
+DTSTAMP:20250720T222608Z
+DTSTART:20230312
+DTEND:20230313
+LOCATION:Povoação\,  Açores Povoação\, Açores
+SUMMARY:Povoação Trail 2023
+DESCRIPTION:A equipa HL Runners Club em parceria com a Câmara Municipal da
+  Povoação irá realizar no dia 12/03/2023 a 3.ª Edição do Povoação T
+ rail. O “Povoação Trail” é um evento de Trail Running\,  que percorr
+ e trilhos e caminhos no concelho mais lindo dos Açores\,  enquadrado nas v
+ ertentes de Trail Ultra[..]\nhttps://www.portugalrunning.com/eventos/povoac
+ ao-trail-2023/
+URL:https://www.portugalrunning.com/eventos/povoacao-trail-2023/
+END:VEVENT
+END:VCALENDAR

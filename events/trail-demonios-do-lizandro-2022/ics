@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5500d2f
+DTSTAMP:20250720T222733Z
+DTSTART:20221106
+DTEND:20221107
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:Trail Demónios do Lizandro 2022
+DESCRIPTION:A 1º Edição do Trail Demónios do Lizandro vai realizar-se n
+ o dia 6 de novembro de 2022\, independentemente das condições climáticas
+  desse dia\,  desde que a organização entenda que asmesmas não ofereçam
+  risco algum para os participantes.\nhttps://www.portugalrunning.com/evento
+ s/trail-demonios-do-lizandro-2022/
+URL:https://www.portugalrunning.com/eventos/trail-demonios-do-lizandro-2022/
+END:VEVENT
+END:VCALENDAR

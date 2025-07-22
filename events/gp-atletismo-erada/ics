@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c93303a2
+DTSTAMP:20250720T222419Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Erada\,  Covilhã Erada\,  Covilhã
+SUMMARY:GP Atletismo Erada
+DESCRIPTION:O Grande Prémio de Atletismo “Freguesia da ERADA” é uma p
+ rova que se realiza-se no próximodia 24 de Setembro de 2023 (Domingo)\,  e
+ ntre as 09h00 e as 13h00\,  na freguesia da Erada -Covilhã\,  trata-se de 
+ uma organização da Junta de Freguesia da Erada com colaboração daCâmar
+ a Municipal da Covilhã\,  Associação[..]\nhttps://www.portugalrunning.co
+ m/eventos/gp-atletismo-erada/
+URL:https://www.portugalrunning.com/eventos/gp-atletismo-erada/
+END:VEVENT
+END:VCALENDAR

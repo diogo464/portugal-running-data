@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfb01a37
+DTSTAMP:20250720T222603Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Petrus Run 2023
+DESCRIPTION:A Junta de Freguesia de Pedroso e Seixezelo\,  com o apoio orga
+ nizativo do Clube Spiridon de Gaia e do Clube os Gaienses/Toyota\,  promove
+ rão uma prova de atletismo em estrada designada Petrus Run Intermarché 20
+ 23. Esta iniciativa tem por objetivo difundir a freguesia através de uma i
+ niciativa desportivade periocidade anual\,  promovendo[..]\nhttps://www.por
+ tugalrunning.com/eventos/petrus-run-2023/
+URL:https://www.portugalrunning.com/eventos/petrus-run-2023/
+END:VEVENT
+END:VCALENDAR

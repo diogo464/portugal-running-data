@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1d31f44
+DTSTAMP:20250720T222221Z
+DTSTART:20221105
+DTEND:20221106
+LOCATION:Jamor Jamor\,  Lisboa
+SUMMARY:Associação Montepio Corrida FPA 2022
+DESCRIPTION:A Associação Montepio Corrida FPA tem como objetivos principa
+ is assinalar o encerramento das comemorações do primeiro centenário da F
+ ederação Portuguesa de Atletismo\,  num evento para todos\,  que marca ta
+ mbém a preocupação da FPA em promover eventos social e ambientalmente re
+ sponsáveis.O evento conta com cinco modalidades de participação:a) 10 km
+  de[..]\nhttps://www.portugalrunning.com/eventos/associacao-montepio-corida
+ -fpa-2022/
+URL:https://www.portugalrunning.com/eventos/associacao-montepio-corida-fpa-2022/
+END:VEVENT
+END:VCALENDAR

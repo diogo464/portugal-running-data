@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9f31b2a
+DTSTAMP:20250720T222847Z
+DTSTART:20200111
+DTEND:20200112
+LOCATION:Portalegre Portalegre
+SUMMARY:Trilho dos Reis 2020
+DESCRIPTION:Nos dias 11 e 12 de Janeiro\,  Portalegre receberá mais uma ve
+ z a familia do Trail Running para uma grande festa&nbsp;nos Trilhos da Serr
+ a de São Mamede. Organizado pela DAP - Associação de Desporto e Aventura
+  de Portalegre\,  os Trilhos dos Reis&nbsp;destacam-se&nbsp;não só pela s
+ ua&nbsp;vertente mais desportiva e competitiva\,  mas[..]\nhttps://www.port
+ ugalrunning.com/eventos/trilho-dos-reis-2020/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-reis-2020/
+END:VEVENT
+END:VCALENDAR

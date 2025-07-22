@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc2dcf6e
+DTSTAMP:20250720T222922Z
+DTSTART:20231217
+DTEND:20231218
+LOCATION:Viseu Viseu
+SUMMARY:Viseu XMAS Run 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/viseu-xmas-run-2023/
+URL:https://www.portugalrunning.com/eventos/viseu-xmas-run-2023/
+END:VEVENT
+END:VCALENDAR

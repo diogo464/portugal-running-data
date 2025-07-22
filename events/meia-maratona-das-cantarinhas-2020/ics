@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccdcd26
+DTSTAMP:20250720T222516Z
+DTSTART:20200503
+DTEND:20200504
+LOCATION:Bragança\,  Portugal Bragança\,  Portugal
+SUMMARY:Meia Maratona das Cantarinhas 2020
+DESCRIPTION:Abriram as inscrições para a Corrida das Cantarinha. Este ano
+  e pela primeira vez o evento irá contar com uma prova de meia maratona.\n
+ https://www.portugalrunning.com/eventos/meia-maratona-das-cantarinhas-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-das-cantarinhas-2020/
+END:VEVENT
+END:VCALENDAR

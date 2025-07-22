@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d44ab95b
+DTSTAMP:20250720T222716Z
+DTSTART:20221023
+DTEND:20221024
+LOCATION:Santiago do Cacém Santiago do Cacém\,  Setubal
+SUMMARY:6º Trail Costa Vicentina 2022
+DESCRIPTION:No próximo dia 23 de outubro de 2022\,  realiza-se com o apoio
+  dos Municipios de Sines e de Santiago do Cacém\,  a 6ª edição do Trail
+  Costa Vicentina 2022. O mesmo será percorrido pelo belo e único trilho/c
+ aminho pedestre da Rota Vicentina entre Santiago do Cacém e Porto Covo\,  
+ na[..]\nhttps://www.portugalrunning.com/eventos/trail-costa-vicentina-2022/
+URL:https://www.portugalrunning.com/eventos/trail-costa-vicentina-2022/
+END:VEVENT
+END:VCALENDAR

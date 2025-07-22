@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb9dc58b
+DTSTAMP:20250720T222457Z
+DTSTART:20200510
+DTEND:20200511
+LOCATION:Parque Eduardo Sétimo\,  Lisboa Parque Eduardo Sétimo\,  Lisboa
+SUMMARY:Lisbon ECO Marathon
+DESCRIPTION:A Eco Maratona de Lisboa é a única Maratona totalmente disput
+ ada na cidade de Lisboa. Posiciona a capital de Portugal no calendário des
+ te tipo de provas de referência em todo o mundo. A Ecologia\,  a Competiç
+ ão e a Solidariedade Social são os principais pressupostos desta prova. A
+ lém da distância “mítica”[..]\nhttps://www.portugalrunning.com/event
+ os/lisbon-eco-marathon/
+URL:https://www.portugalrunning.com/eventos/lisbon-eco-marathon/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbedb5cc
+DTSTAMP:20250720T222502Z
+DTSTART:20250615
+DTEND:20250616
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:Lynx Fuzileiros 2025
+DESCRIPTION:A LYNXRACE FUZILEIROS é uma Corrida de Obstáculos patrocinada
+  pela Câmara Municipal do Barreiro que só pode ser realizada em equipas d
+ e 6 elementos mas é também uma MISSÃO com mais de 40 desafios distribuí
+ dos ao longo de mais de sete quilómetros.\nhttps://www.portugalrunning.com
+ /eventos/lynx-fuzileiros-2025/
+URL:https://www.portugalrunning.com/eventos/lynx-fuzileiros-2025/
+END:VEVENT
+END:VCALENDAR

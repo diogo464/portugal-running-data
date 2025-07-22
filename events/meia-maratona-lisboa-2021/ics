@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdcdc28b
+DTSTAMP:20250720T222532Z
+DTSTART:20211017
+DTEND:20211018
+LOCATION:Lisboa Lisboa
+SUMMARY:Luso Meia Maratona Lisboa 2021
+DESCRIPTION:Resultados Percurso A Luso Meia Maratona Lisboa 2021 é uma das
+  mais populares provas de Portugal. O seu percurso de 21 Km tem início na&
+ nbsp;Ponte Vasco da Gama&nbsp;terminando na&nbsp;Praça do Comércio\,  um 
+ marco histórico da cidade de Lisboa\,  em frente ao rio Tejo. A Luso Meia 
+ Maratona\,  ocorre no mesmo[..]\nhttps://www.portugalrunning.com/eventos/me
+ ia-maratona-lisboa-2021/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-lisboa-2021/
+END:VEVENT
+END:VCALENDAR

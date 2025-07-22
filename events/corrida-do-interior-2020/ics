@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5730613
+DTSTAMP:20250720T222319Z
+DTSTART:20200712
+DTEND:20200713
+LOCATION:Castelo de Penedono\,  Viseu Castelo de Penedono\,  Viseu
+SUMMARY:Corrida do Interior 2020
+DESCRIPTION:A nova etapa do circuito Running Wonders 2020. DESCOBRE O PATRI
+ MÓNIO QUE HÁ EM TI. Sendo Portugal um país com raízes ancestrais\,  com
+  uma preservação notável da sua autenticidade\,  em 2020 chega uma nova 
+ etapa que irá ser um marco na história das Running Wonders. A Corrida do 
+ Interior representará[..]\nhttps://www.portugalrunning.com/eventos/corrida
+ -do-interior-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-do-interior-2020/
+END:VEVENT
+END:VCALENDAR

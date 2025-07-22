@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd66178d
+DTSTAMP:20250720T222526Z
+DTSTART:20220911
+DTEND:20220912
+LOCATION:Vila Real Vila Real
+SUMMARY:V Meia Maratona de Vila Real 2022
+DESCRIPTION:A V Meia Maratona de Vila Real está a cargo da Associação de
+  Atletismo de Vila Real\, em co-organização com a Câmara Municipal de Vi
+ la Real\,  sendo promovida pelaEXCELLUS\,  Unipessoal Lda.\nhttps://www.por
+ tugalrunning.com/eventos/meia-maratona-de-vila-real-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-vila-real-2022/
+END:VEVENT
+END:VCALENDAR

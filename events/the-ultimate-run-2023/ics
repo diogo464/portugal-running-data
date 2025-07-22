@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d34c3923
+DTSTAMP:20250720T222700Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Escariz\,  Arouca Escariz\,  Arouca
+SUMMARY:The Ultimate Run 2023
+DESCRIPTION:The Ultimate Run é um evento desportivo e competitivo organiza
+ do pelo ginásio Ativa-te com apoio da junta de Freguesia de Escariz e do M
+ unicípio de Arouca. Tem lugar no monte da Abelheira\,  na freguesia de Esc
+ ariz\,  concelho de Arouca. Se gostas de desafios esta é uma oportunidade 
+ para te desafiares.\nhttps://www.portugalrunning.com/eventos/the-ultimate-r
+ un-2023/
+URL:https://www.portugalrunning.com/eventos/the-ultimate-run-2023/
+END:VEVENT
+END:VCALENDAR

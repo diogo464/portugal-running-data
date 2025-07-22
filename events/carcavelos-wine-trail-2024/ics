@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2a7aade
+DTSTAMP:20250720T222234Z
+DTSTART:20241208T082300Z
+DTEND:20241208T082300Z
+LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+SUMMARY:Carcavelos Wine Trail 2024
+DESCRIPTION:Com o apoio dos municípios de Oeiras e de Cascais\,  e organiz
+ ação da Confraria do Vinho de Carcavelos e da Ganhardestak\,  realiza-se 
+ no dia 8 de dezembro a 1ª edição do Carcavelos Wine Trail\,  com partida
+  e chegada no Jardim do Marquês inserido na Estação Agronómica Nacional
+  em Oeiras\,  composto[..]\nhttps://www.portugalrunning.com/eventos/carcave
+ los-wine-trail-2024/
+URL:https://www.portugalrunning.com/eventos/carcavelos-wine-trail-2024/
+END:VEVENT
+END:VCALENDAR

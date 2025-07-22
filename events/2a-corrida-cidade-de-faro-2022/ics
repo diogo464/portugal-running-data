@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc617a1
+DTSTAMP:20250720T222148Z
+DTSTART:20221002
+DTEND:20221003
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:2ª Corrida Cidade de Faro 2022
+DESCRIPTION:A 2ª Corrida Cidade de Faro é organizada pelos Tugas On Tour 
+ Associação Desportiva em coorganização com a Câmara Municipal de Faro 
+ e a União de Freguesias de Faro.A prova realiza-se no dia 02 de Outubro de
+  2022\,  pelas 10\, 00h.Para a realização deste evento contamos com o apo
+ io da Associação[..]\nhttps://www.portugalrunning.com/eventos/2a-corrida-
+ cidade-de-faro-2022/
+URL:https://www.portugalrunning.com/eventos/2a-corrida-cidade-de-faro-2022/
+END:VEVENT
+END:VCALENDAR

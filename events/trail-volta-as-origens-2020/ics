@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9a93d5e
+DTSTAMP:20250720T222842Z
+DTSTART:20200301
+DTEND:20200302
+LOCATION:Cabroelo\,  Penafiel Cabroelo\,  Penafiel\,  Porto
+SUMMARY:Trail Volta às Origens 2020
+DESCRIPTION:O Trail Volta às Origens é uma prova de aventura percorrida e
+ m trilhos sinalizados\,  pequenos estradões\,  ou estradas\,  visando perc
+ orrer todo o percurso no menor tempo possível. Terá início e chegada no 
+ complexo desportivo da Associação Desportiva de Cabroelo\,  em Capela (Pe
+ nafiel).\nhttps://www.portugalrunning.com/eventos/trail-volta-as-origens-20
+ 20/
+URL:https://www.portugalrunning.com/eventos/trail-volta-as-origens-2020/
+END:VEVENT
+END:VCALENDAR

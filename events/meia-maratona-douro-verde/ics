@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd6c35bc
+DTSTAMP:20250720T222526Z
+DTSTART:20200322
+DTEND:20200323
+LOCATION:Ribadouro (Baião)\,  Douro Ribadouro (Baião)\,  Douro
+SUMMARY:Meia Maratona Douro Verde 2020
+DESCRIPTION:MEIA MARATONA DOURO VERDE O Clube Náutico Ribadouro\,  em conj
+ unto com a EVENTSPORT e a PORTOCARGO Runners\,  organizam a Meia Maratona D
+ ouro Verde que tem a finalidade de estimular a prática desportiva como ele
+ mento da promoção da saúde e da qualidade de vida. Realiza-se no dia 2
+ 2 de Março de 2020\,  com início às 10h00\, [..]\nhttps://www.portuga
+ lrunning.com/eventos/meia-maratona-douro-verde/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-douro-verde/
+END:VEVENT
+END:VCALENDAR

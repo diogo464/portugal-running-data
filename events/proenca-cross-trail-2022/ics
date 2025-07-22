@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d00950d2
+DTSTAMP:20250720T222608Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Proença a Nova  Proença-a-Nova
+SUMMARY:Proença Cross Trail 2022
+DESCRIPTION:O Proença Cross Trail 2022 é um evento lúdico/desportivo\,  
+ pedestre em natureza com características de montanha. Desenvolve-se em per
+ cursos com a utilização de veredas\,  trilhos florestais\,  caminhos rura
+ is\,  carreiros e trilhos pedestres. Realizando-se o itinerário a pé e no
+  menor tempo possível.\nhttps://www.portugalrunning.com/eventos/proenca-cr
+ oss-trail-2022/
+URL:https://www.portugalrunning.com/eventos/proenca-cross-trail-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc3c44
+DTSTAMP:20250720T222651Z
+DTSTART:20230618
+DTEND:20230619
+LOCATION:Sines\,  Setúbal Sines\,  Setúbal
+SUMMARY:Sines Corre Mais 2023
+DESCRIPTION:A Associação Desportiva Mais Inclusão promove a 2ª Edição
+  do Sines Corre Mais! A 18 de junho de 2023\,  Sines desafia-vos a correr o
+ u a caminhar. Há provas para todas as idades.\nhttps://www.portugalrunning
+ .com/eventos/sines-corre-mais-2023/
+URL:https://www.portugalrunning.com/eventos/sines-corre-mais-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1adb271
+DTSTAMP:20250720T222634Z
+DTSTART:20191229
+DTEND:20191230
+LOCATION:Porto Porto
+SUMMARY:São Silvestre do Porto
+DESCRIPTION:RESULTADOS CONDICIONAMENTO de TRÂNSITO Uma das mais antigas co
+ rridas de atletismo do País está de volta às principais ruas da cidade d
+ o Porto\,  com o tiro de partida marcado para dia 29 de Dezembro na Avenida
+  dos Aliados. É um evento mítico na cidade onde o desporto se alia ao[..]
+ \nhttps://www.portugalrunning.com/eventos/sao-silvestre-do-porto/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-do-porto/
+END:VEVENT
+END:VCALENDAR

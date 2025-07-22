@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daec619c
+DTSTAMP:20250720T222902Z
+DTSTART:20220430
+DTEND:20220501
+LOCATION:Porto de Mós Porto de Mós
+SUMMARY:Troféu Trail Porto De Mós 2022
+DESCRIPTION:O Município de Porto de Mós&nbsp;em conjunto com a&nbsp;Recor
+ de Pessoal\,  organizam entre os meses de&nbsp;Abril e Setembro\,  um trof�
+ �u que consiste em 10 etapas de Trail. Os percursos serão enviados por ema
+ il após o ato de regularização da inscrição. As provas realizam-se nas
+ &nbsp;10 Freguesias do Concelho de Porto de Mós&nbsp;(uma[..]\nhttps://www
+ .portugalrunning.com/eventos/trofeu-trail-porto-de-mos-2022/
+URL:https://www.portugalrunning.com/eventos/trofeu-trail-porto-de-mos-2022/
+END:VEVENT
+END:VCALENDAR

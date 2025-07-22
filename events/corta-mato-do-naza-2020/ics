@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7900bde
+DTSTAMP:20250720T222353Z
+DTSTART:20200125
+DTEND:20200126
+LOCATION:Abóboda\,  Cascais Abóboda\,  Cascais
+SUMMARY:Corta-Mato do NAZA 2020
+DESCRIPTION:Dia: 19 Janeiro 2020 9º Corta-Mato do NAZA Local: Abóboda | 
+ Cascais Distância: 100 | 5.5 Km Inscrição: Gratuita\nhttps://www.portu
+ galrunning.com/eventos/corta-mato-do-naza-2020/
+URL:https://www.portugalrunning.com/eventos/corta-mato-do-naza-2020/
+END:VEVENT
+END:VCALENDAR

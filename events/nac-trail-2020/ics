@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ceddc8d4
+DTSTAMP:20250720T222549Z
+DTSTART:20200524
+DTEND:20200525
+LOCATION:Oliveira de Azeméis Oliveira de Azeméis\,  Aveiro
+SUMMARY:NAC Trail 2020
+DESCRIPTION:A terceira edição do NAC TRAIL\,  organizado pelo Núcleo de 
+ Atletismo de Cucujães\,  a contar para o Circuíto Nacional de Trail da AT
+ RP . Prova desenrolada ao longo do curso dos rios Insua e Cercal \,  que ao
+  longo de séculos alimentaram as centenas de moinhos de água existentes n
+ o[..]\nhttps://www.portugalrunning.com/eventos/nac-trail-2020/
+URL:https://www.portugalrunning.com/eventos/nac-trail-2020/
+END:VEVENT
+END:VCALENDAR

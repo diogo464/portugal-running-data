@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d48937a6
+DTSTAMP:20250720T222720Z
+DTSTART:20241130
+DTEND:20241201
+LOCATION:Zambujal\,  Condeixa-a-Nova Zambujal\,  Condeixa-a-Nova
+SUMMARY:Trail da Escarpiada 2024
+DESCRIPTION:A ARCD Venda da Luísa vai realizar no dia 30 de novembro de 20
+ 24 o&nbsp;IV Trail da Escarpiada. A prova terá partida e chegada junto à 
+ Associação da aldeia do Casmilo\,  concelho de Condeixa-a-Nova e percorre
+ rá a Serra de Sicó nas freguesias do Zambujal e do Furadouro. Terá 3 pro
+ vas[..]\nhttps://www.portugalrunning.com/eventos/trail-da-escarpiada-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-escarpiada-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3318dff
+DTSTAMP:20250720T222243Z
+DTSTART:20231208
+DTEND:20231209
+LOCATION:Coruche Coruche\,  Santarém
+SUMMARY:Cork Trail Running 2023
+DESCRIPTION:O Cork Trail regressa no dia 8 de Dezembro 2023\,  levando pelo
+  sétimo ano consecutivo a festa do Trailaos Trilhos de constante sobe e de
+ sce existentes na localidade de Erra\,  no concelho de Coruche. A prova tem
+  quatro percursos diferentes: Trail Longo 22km\,  Estafetas 2 elementos 22k
+ m\,  Trail Curto 12km\, e[..]\nhttps://www.portugalrunning.com/eventos/cork
+ -trail-running-2023/
+URL:https://www.portugalrunning.com/eventos/cork-trail-running-2023/
+END:VEVENT
+END:VCALENDAR

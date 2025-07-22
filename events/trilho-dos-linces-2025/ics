@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9e6277c
+DTSTAMP:20250720T222846Z
+DTSTART:20251130
+DTEND:20251201
+LOCATION:Lordelo\,  Vila Real Lordelo\,  Vila Real
+SUMMARY:Trilho dos Linces 2025
+DESCRIPTION:O evento TRILHO DOS LINCES é organizado pela Equipa Linces do 
+ Marão. Colaboram o Município de Vila Real\,  a Junta de Freguesia de Lord
+ elo\,  a Junta de Freguesia de Mondrões\,  a Junta de Freguesia de Vila Ma
+ rim e a Junta de Freguesia Pena\,  Quintã e Vila Cova. O evento TRILHO[..]
+ \nhttps://www.portugalrunning.com/eventos/trilho-dos-linces-2025/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-linces-2025/
+END:VEVENT
+END:VCALENDAR

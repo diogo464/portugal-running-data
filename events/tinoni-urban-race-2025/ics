@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d34ac1d0
+DTSTAMP:20250720T222700Z
+DTSTART:20251102T102400Z
+DTEND:20251102T102400Z
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:Tinoni Urban Race 2025
+DESCRIPTION:O TINONI Urban Race 10k é um evento desportivo\,  que consiste
+  numa corrida e caminhada\,  com elevado Património Histórico e Cultural 
+ da nossa vila. Este evento onde tem subidas\,  rampas\,  escadas\,  este é
+  oambiente ideal para desafiar os corredores e caminhantes a aventuraremse 
+ a fazer estes percursos. O evento é[..]\nhttps://www.portugalrunning.com/e
+ ventos/tinoni-urban-race-2025/
+URL:https://www.portugalrunning.com/eventos/tinoni-urban-race-2025/
+END:VEVENT
+END:VCALENDAR

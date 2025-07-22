@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64dc076
+DTSTAMP:20250720T222332Z
+DTSTART:20230609
+DTEND:20230610
+LOCATION:Alvaiázere\,  Leiria Alvaiázere\,  Leiria
+SUMMARY:Corrida Luzecu 2023
+DESCRIPTION:A corrida LUZECU sob organização da Câmara Municipal de Alva
+ iázere pretende afirmar-se como uma prova de desporto e lazer\,  com cará
+ cter competitivo\,  na vertente de corrida\,  a realizar pela Vila de Alvai
+ ázere e terminando no cimo da Serra de Alvaiázere. A segunda edição rea
+ lizar-se-á no dia 9 de Junho de[..]\nhttps://www.portugalrunning.com/event
+ os/corrida-luzecu-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-luzecu-2023/
+END:VEVENT
+END:VCALENDAR

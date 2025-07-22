@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9c93150
+DTSTAMP:20250720T222428Z
+DTSTART:20211205
+DTEND:20211206
+LOCATION:Maia\,  Porto Maia\,  Porto
+SUMMARY:Grande Prémio de Atletismo Eixo Atlântico 2021
+DESCRIPTION:O&nbsp;Eixo Atlântico do Noroeste Peninsular&nbsp;em conjunto 
+ com a EventSport organizam o Grande Prémio de Atletismo Eixo Atlântico\, 
+  um evento citadino\,  que representa a transferência da bandeira dos Jogo
+ s do Eixo Atlântico de Braga\,  última sede dos jogos\,  para o municípi
+ o da Maia em 2022. Além deste designo\,  o evento tem[..]\nhttps://www.por
+ tugalrunning.com/eventos/grande-premio-de-atletismo-eixo-atlantico-2021/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-eixo-atlantico-2021/
+END:VEVENT
+END:VCALENDAR

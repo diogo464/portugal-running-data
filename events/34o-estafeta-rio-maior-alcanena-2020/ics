@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c031847d
+DTSTAMP:20250720T222155Z
+DTSTART:20200202
+DTEND:20200203
+LOCATION:Rio Maior Rio Maior\,  Santarém
+SUMMARY:34º Estafeta Rio Maior/Alcanena 2020
+DESCRIPTION:A 34ª edição da clássica estafeta entre Rio Maior e Alcanen
+ a\,  uma organização conjunta das Câmaras Municipais de Alcanena e Rio M
+ aior\,  realiza-se a 2 de fevereiro de 2020\,  domingo. Alternando o sentid
+ o da corrida\,  que\,  no ano passado\,  se iniciou em Alcanena com chegada
+  a Rio Maior\,  este ano[..]\nhttps://www.portugalrunning.com/eventos/34o-e
+ stafeta-rio-maior-alcanena-2020/
+URL:https://www.portugalrunning.com/eventos/34o-estafeta-rio-maior-alcanena-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c60dc92e
+DTSTAMP:20250720T222328Z
+DTSTART:20210711
+DTEND:20210712
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Francisco Lázaro 2021
+DESCRIPTION:Francisco Lázaro\,  foi um atleta português\,  nascido em 188
+ 8. Fez parte da primeira equipa olímpica portuguesa nos Jogos Olímpicos d
+ e 1912\,  em Estocolmo\,  Suécia. Nestes jogos\,  Lázaro participou na pr
+ ova da maratona\,  desfalecendo durante a prova\,  ao km 29\,  na colina de
+  Öfver-Järva. Lázaro tinha cambaleado\,  caído por várias vezes[..]\nh
+ ttps://www.portugalrunning.com/eventos/corrida-francisco-lazaro-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-francisco-lazaro-2021/
+END:VEVENT
+END:VCALENDAR

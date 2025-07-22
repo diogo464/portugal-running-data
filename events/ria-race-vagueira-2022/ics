@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d0530663
+DTSTAMP:20250720T222613Z
+DTSTART:20220619
+DTEND:20220620
+LOCATION:Aveiro Aveiro
+SUMMARY:Ria Race – Vagueira 2022
+DESCRIPTION:Ria Race – Vagueira 2022\nhttps://www.portugalrunning.com/eve
+ ntos/ria-race-vagueira-2022/
+URL:https://www.portugalrunning.com/eventos/ria-race-vagueira-2022/
+END:VEVENT
+END:VCALENDAR

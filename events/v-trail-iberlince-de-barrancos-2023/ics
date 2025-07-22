@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc7625c8
+DTSTAMP:20250720T222927Z
+DTSTART:20230204
+DTEND:20230205
+LOCATION:Barrancos\,  Beja Barrancos\,  Beja
+SUMMARY:V Trail Iberlince de Barrancos 2023
+DESCRIPTION:O Barrancos Futebol Clube é uma Associação sem fins lucrativ
+ os\,  com sede em Barrancos\,  e que promove a prova de Trail “V Trail Ib
+ erlince de Barrancos” nos dias 4 e 5 de fevereiro de 2023 Trail de dia 4\
+ ,  20KmTrail de dia 5\,  15Km\nhttps://www.portugalrunning.com/eventos/v-tr
+ ail-iberlince-de-barrancos-2023/
+URL:https://www.portugalrunning.com/eventos/v-trail-iberlince-de-barrancos-2023/
+END:VEVENT
+END:VCALENDAR

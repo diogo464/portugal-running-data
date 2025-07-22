@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cae48dac
+DTSTAMP:20250720T222446Z
+DTSTART:20230722
+DTEND:20230723
+LOCATION:Gondar\,  Caminha Gondar\,  Caminha
+SUMMARY:I Trail Noturno Gondarense 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/i-trail-noturno-gonda
+ rense-2023/
+URL:https://www.portugalrunning.com/eventos/i-trail-noturno-gondarense-2023/
+END:VEVENT
+END:VCALENDAR

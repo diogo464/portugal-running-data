@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b1836e
+DTSTAMP:20250720T222411Z
+DTSTART:20211204
+DTEND:20211205
+LOCATION:Vila Gerês\,  Braga Vila Gerês\,  Braga
+SUMMARY:Extreme Gerês Marathon 2021
+DESCRIPTION:Resultados A Extreme Gerês Marathon 2021 é organizada pela Ca
+ rlos Sá Nature Events® com o apoio da Câmara Municipal de Terras de Bour
+ o. &nbsp;No sábado\,  dia 4 de Dezembro de 2021\,  realizar-se-á o&nbsp;E
+ xtreme 90KM\,  o Extreme Mile e o Prólogo GEM 2\, 5Km.&nbsp;&nbsp;No domin
+ go\,  dia 5 de Dezembro de 2021\,  decorrerão[..]\nhttps://www.portugalrun
+ ning.com/eventos/extreme-geres-marathon-2021/
+URL:https://www.portugalrunning.com/eventos/extreme-geres-marathon-2021/
+END:VEVENT
+END:VCALENDAR

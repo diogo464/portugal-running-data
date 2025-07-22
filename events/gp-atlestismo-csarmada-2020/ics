@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9301284
+DTSTAMP:20250720T222419Z
+DTSTART:20200223
+DTEND:20200224
+LOCATION:Alfeite\,  Almada Alfeite\,  Almada
+SUMMARY:Grande Prémio de Atletismo do CSArmada 2020
+DESCRIPTION: organização desta prova de atletismo é da responsabilidade
+  do Clube do Sargento da Armada - CSA com o apoio da Junta da União de F
+ reguesias Laranjeiro Feijó e da Câmara Municipal de Almada. A prova reali
+ za-se no dia 23 de fevereiro de 2020\,  com partida e chegada na pista do c
+ ampo de[..]\nhttps://www.portugalrunning.com/eventos/gp-atlestismo-csarmada
+ -2020/
+URL:https://www.portugalrunning.com/eventos/gp-atlestismo-csarmada-2020/
+END:VEVENT
+END:VCALENDAR

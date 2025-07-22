@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da679fa8
+DTSTAMP:20250720T222854Z
+DTSTART:20220904
+DTEND:20220905
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Trilhos do Granito 2022
+DESCRIPTION:Os Trilhos do Granito surge com o objetivo de divulgar o patrim
+ ónio histórico e cultural da Freguesia de Arcozelo\,  bem como a promoç�
+ �o à prática do desporto e turismo de Natureza na localidade. O nome do e
+ vento é um tributo à população de Arcozelo que tem como principal ativi
+ dade económica[..]\nhttps://www.portugalrunning.com/eventos/trilhos-do-gra
+ nito-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-granito-2022/
+END:VEVENT
+END:VCALENDAR

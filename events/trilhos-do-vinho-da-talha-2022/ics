@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dab30cda
+DTSTAMP:20250720T222859Z
+DTSTART:20221201
+DTEND:20221202
+LOCATION:Vidigueira\,  Beja Vidigueira\,  Beja
+SUMMARY:Trilhos Do Vinho Da Talha 2022
+DESCRIPTION:Integrada no Circuito de Atletismo do Concelho de Vidigueira\, 
+  “O Trilhos do Vinho de Talha” em Vila de Frades é uma corrida e camin
+ hada que se carateriza por um percurso de dificuldade média/alta e de enqu
+ adramento ímpar junto da natureza\,  atraindo tanto atletas regulares que 
+ procuram a sua superação\,  como[..]\nhttps://www.portugalrunning.com/eve
+ ntos/trilhos-do-vinho-da-talha-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-vinho-da-talha-2022/
+END:VEVENT
+END:VCALENDAR

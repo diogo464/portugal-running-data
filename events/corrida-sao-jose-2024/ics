@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6a1a704
+DTSTAMP:20250720T222338Z
+DTSTART:20240316
+DTEND:20240317
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:Corrida São José 2024
+DESCRIPTION:Prova de Estrada\,  licenciada pela ASSOCIAÇÃO ATLETISMO DE B
+ RAGA.Com prova competitiva 10kms e Caminhada  5Kms. Com partida e chegada 
+ junto ás Piscinas Municipais Póvoa de Lanhoso (Rua 1º de Maio). Evento o
+ rganizado pelo GRUPO DESPORTIVO DA GOMA\,  em parceria com o Município da 
+ Póvoa de Lanhoso\,  e a Associação de[..]\nhttps://www.portugalrunning.c
+ om/eventos/corrida-sao-jose-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-jose-2024/
+END:VEVENT
+END:VCALENDAR

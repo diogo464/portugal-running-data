@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69c2ef0
+DTSTAMP:20250720T222337Z
+DTSTART:20230709
+DTEND:20230710
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Corrida Portucale 2023
+DESCRIPTION:Vila Nova de Gaia recebe\,  a 09 de Julho de 2023\,  a CORRIDA 
+ PORTUCALE 2023\,  nas artérias ribeirinhas da cidade\,  organização do C
+ entro de Atletismo do Porto (CAP). A 8ª Shamir Corrida Portucale realiza-s
+ e no dia 9 de julho de 2023 com início às 9h30\,  com partida e chegada n
+ a[..]\nhttps://www.portugalrunning.com/eventos/corrida-portucale-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-portucale-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da761780
+DTSTAMP:20250720T222855Z
+DTSTART:20220918
+DTEND:20220919
+LOCATION:Mombeja\,  Beja Mombeja\,  Beja
+SUMMARY:Trilhos do Outeiro do Circo 2022
+DESCRIPTION:O evento desportivo\,  1º Trail “Trilhos do Outeiro do Circo
+ ” é promovido e organizado pelo Grupo Desportivo e Cultural Mombeja e de
+ stina-se a todos os cidadãos que cumpram o disposto no presente regulament
+ o.\nhttps://www.portugalrunning.com/eventos/trilhos-do-outeiro-do-circo-202
+ 2/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-outeiro-do-circo-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1793825
+DTSTAMP:20250720T222631Z
+DTSTART:20191228
+DTEND:20191229
+LOCATION:Lisboa Lisboa
+SUMMARY:São Silvestre de Lisboa
+DESCRIPTION:->Condicionamento de Trânsito ->Classificações A El Corte In
+ glés São Silvestre de Lisboa regressa a 28 de dezembro 2019 para a sua 12
+ .ª edição! Vamos arrancar ao ritmo da capital\,  pelas 17h30\,  e colori
+ r 10km das ruas iluminadas de Lisboa\,  no seu mais nobre palco: a Avenida 
+ da Liberdade. A prova[..]\nhttps://www.portugalrunning.com/eventos/sao-silv
+ estre-de-lisboa/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-lisboa/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c484907f
+DTSTAMP:20250720T222304Z
+DTSTART:20250610T091700Z
+DTEND:20250610T235900Z
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:Corrida de Aniversário Gdc Estrela Negra 2025
+DESCRIPTION:A Câmara Municipal do Barreiro e organização técnica da Xis
+ tarca\,  organiza no dia 10 de junho de 2025\,  a Corrida de Aniversário 
+ GDC Estrela Negra\nhttps://www.portugalrunning.com/eventos/corrida-de-anive
+ rsario-gdc-estrela-negra-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-aniversario-gdc-estrela-negra-2025/
+END:VEVENT
+END:VCALENDAR

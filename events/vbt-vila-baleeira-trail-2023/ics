@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb18205
+DTSTAMP:20250720T222915Z
+DTSTART:20230402
+DTEND:20230403
+LOCATION:Ilha do Pico\,  Açores Ilha do Pico\,  Açores
+SUMMARY:VBT - Vila Baleeira Trail 2023
+DESCRIPTION:Realizar-se-à a 02 de Abril de 2023\,  a 2ª edição do VBT -
+  Vila Baleeira Trail\,  na Vila das Lajes do Pico.Numa organização conjun
+ ta do Município das Lajes do Pico e da Associação Desportiva Trilhos de 
+ Lava\,  espera-se uma grande festa do trail\,  na Vila das Lajes do Pico…
+ !!! Serão[..]\nhttps://www.portugalrunning.com/eventos/vbt-vila-baleeira-t
+ rail-2023/
+URL:https://www.portugalrunning.com/eventos/vbt-vila-baleeira-trail-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d877af1f
+DTSTAMP:20250720T222823Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Almargem do Bispo\,  Sintra Almargem do Bispo\,  Sintra
+SUMMARY:Trail Running D. Maria 2023
+DESCRIPTION:O II Trail Running D.Maria\,  irá realizar-se no dia 8 Outubro
+  de 2023 e será composto por duas provas competitivas de aproximadamente 2
+ 0+ Km (Trail longo) e 12 Km (Trail curto) e uma prova recreativa\,  uma Cam
+ inhada de 10Km. Trail Longo (20 km+) – Prova inserida no Circuito de Trai
+ l[..]\nhttps://www.portugalrunning.com/eventos/trail-running-d-maria-2023/
+URL:https://www.portugalrunning.com/eventos/trail-running-d-maria-2023/
+END:VEVENT
+END:VCALENDAR

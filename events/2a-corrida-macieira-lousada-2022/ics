@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfc941cf
+DTSTAMP:20250720T222148Z
+DTSTART:20221120
+DTEND:20221121
+LOCATION:Lousada\,  Macieira Lousada\,  Macieira
+SUMMARY:2ª Corrida Macieira - Lousada 2022
+DESCRIPTION:A Associação AMA – MACIEIRA ATLETISMO\,  com o apoio da Câ
+ mara Municipal de Lousada\,  vai organizar a 2ª CORRIDA MACIEIRA - LOUSADA
+ \,  com partida e chegada em São Gonçalo - Lousada\,  no dia 20 de novemb
+ ro de 2022\,  com início às 10 horas\, \nhttps://www.portugalrunning.com/
+ eventos/2a-corrida-macieira-lousada-2022/
+URL:https://www.portugalrunning.com/eventos/2a-corrida-macieira-lousada-2022/
+END:VEVENT
+END:VCALENDAR

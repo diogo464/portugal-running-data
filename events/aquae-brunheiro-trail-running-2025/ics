@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1a014e6
+DTSTAMP:20250720T222218Z
+DTSTART:20250921T082100Z
+DTEND:20250921T235900Z
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Aquae Brunheiro Trail Running 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/aquae-brunheiro-trail
+ -running-2025/
+URL:https://www.portugalrunning.com/eventos/aquae-brunheiro-trail-running-2025/
+END:VEVENT
+END:VCALENDAR

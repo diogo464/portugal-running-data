@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da57afc5
+DTSTAMP:20250720T222853Z
+DTSTART:20240428
+DTEND:20240429
+LOCATION:Porto de Mós Porto de Mós
+SUMMARY:Trilhos do Alecrim 2024
+DESCRIPTION:A prova denominada&nbsp;Trilhos do Alecrim by NeoTech&nbsp;é o
+ rganizada pelo&nbsp;GRD Serro Ventoso&nbsp;e conta com o apoio técnico dos
+ &nbsp;Trilhos do Castelejo Será realizado a&nbsp;28 de Abril de 2024&nbsp;
+ independentemente das condições climatéricas do dia desde que o organiza
+ dor entenda que não há riscos acrescidos pelas mesmas para este tipo de e
+ ventos. Contará para[..]\nhttps://www.portugalrunning.com/eventos/trilhos-
+ do-alecrim-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-alecrim-2024/
+END:VEVENT
+END:VCALENDAR

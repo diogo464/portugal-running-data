@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92db726
+DTSTAMP:20250720T222834Z
+DTSTART:20230730
+DTEND:20230731
+LOCATION:Oia\,  Oliveira do Bairro Oiã\,  Oliveira do Bairro
+SUMMARY:Trail Terras De Oiã 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-terras-de-oia-2
+ 023/
+URL:https://www.portugalrunning.com/eventos/trail-terras-de-oia-2023/
+END:VEVENT
+END:VCALENDAR

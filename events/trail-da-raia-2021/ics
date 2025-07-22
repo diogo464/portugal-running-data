@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4c6201e
+DTSTAMP:20250720T222724Z
+DTSTART:20210807
+DTEND:20210808
+LOCATION:Aldeia do Bispo\,  Sabugal Aldeia do Bispo\,  Sabugal
+SUMMARY:Trail da Raia 2021
+DESCRIPTION:Corrida de montanha\,  por caminhos rurais e veredas na Raia Sa
+ bugalense.Aldeia do Bispo\,  Fóios\,  Aldeia Velha - Sabugal. Provas do Ci
+ rcuito\nhttps://www.portugalrunning.com/eventos/trail-da-raia-2021/
+URL:https://www.portugalrunning.com/eventos/trail-da-raia-2021/
+END:VEVENT
+END:VCALENDAR

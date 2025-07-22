@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d13c41f6
+DTSTAMP:20250720T222627Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Boticas\,  Vila Real Boticas\,  Vila Real
+SUMMARY:São Silvestre Boticas 2023
+DESCRIPTION:Pela segunda vez a São Silvestre de Boticas irá para a estrad
+ a a 16 de Dezembro\,  com partida e chegada em frente ao Município de Boti
+ cas\,  nesta belíssima vila portuguesa.\nhttps://www.portugalrunning.com/e
+ ventos/sao-silvestre-de-boticas-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-boticas-2023/
+END:VEVENT
+END:VCALENDAR

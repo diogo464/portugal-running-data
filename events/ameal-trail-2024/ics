@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1948c62
+DTSTAMP:20250720T222217Z
+DTSTART:20250413
+DTEND:20250414
+LOCATION:Ameal\,  Coimbra Ameal\,  Coimbra
+SUMMARY:Ameal Trail 2025
+DESCRIPTION:O Ameal Trail realizar-se a 13 de Abril de 2025 pretende dinami
+ zar a aldeia do Ameal com uma prova desportiva.O Trail do Ameal: 17KM Trail
+  12KM Trail 10 KM Caminhada\nhttps://www.portugalrunning.com/eventos/ameal-
+ trail-2025/
+URL:https://www.portugalrunning.com/eventos/ameal-trail-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9e6269e
+DTSTAMP:20250720T222846Z
+DTSTART:20230226
+DTEND:20230227
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:5ª Edição Trail Running Trilho Dos Dinossauros 2023
+DESCRIPTION:A 5ª edição do Troféu dos Dinossauros contempla duas provas
+  em 2023: 1. TRILHO DOS DINOSSAUROS – Dia 26 de Fevereiro 2023 – Praia 
+ da Areia Branca 2. TRILHO DA AGUARDENTE DOC LOURINHÃ – Dia 12 de Novembr
+ o 2023 - Lourinhã A 5ª edição do Trilho dos Dinossauros será realizado
+ [..]\nhttps://www.portugalrunning.com/eventos/trilho-dos-dinossauros-2023/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-dinossauros-2023/
+END:VEVENT
+END:VCALENDAR

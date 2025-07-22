@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c441851d
+DTSTAMP:20250720T222300Z
+DTSTART:20250614
+DTEND:20250615
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Corrida da Nazaré 2025
+DESCRIPTION:A Corrida da Nazaré é organizada pelo Clube de Atletismo d
+ a Nazaré com o apoio da Câmara Municipal da Nazaré\,  Junta de Fregues
+ ia da Nazaré e Bombeiros Voluntários da Nazaré. Será realizada no dia�
+ �14 de junho de 2025 às 20h00 com partida no Centro Cultural da Nazaré.
+ \nhttps://www.portugalrunning.com/eventos/corrida-da-nazare-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-nazare-2025/
+END:VEVENT
+END:VCALENDAR

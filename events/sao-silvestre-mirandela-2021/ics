@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2163018
+DTSTAMP:20250720T222641Z
+DTSTART:20211218
+DTEND:20211219
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:São Silvestre Mirandela 2021
+DESCRIPTION:São Silvestre Mirandela 2021 com prémios Monetários! Haverá
+  prémios monetários para os 3 primeiros classificados da Classificação 
+ Geral Masculina e Feminina: 1º - €300 / 2º - €200 / 3º - €100\nhtt
+ ps://www.portugalrunning.com/eventos/sao-silvestre-mirandela-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mirandela-2021/
+END:VEVENT
+END:VCALENDAR

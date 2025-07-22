@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1261b56
+DTSTAMP:20250720T222626Z
+DTSTART:20220122
+DTEND:20220123
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:São Silvestre da Trofa 2022
+DESCRIPTION:A São Silvestre da Trofa 2022 é uma organização da Associa�
+ �ão Recreativa de Paradela\,  onde a Rua Conde S. Bento será o início da
+  sua primeira edição e a grande festa terá como palco\,  o centro da cid
+ ade da Trofa.É a prova ideal para começar 2022 da melhor forma! As[..]\nh
+ ttps://www.portugalrunning.com/eventos/sao-silvestre-da-trofa-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-trofa-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d83490e9
+DTSTAMP:20250720T222819Z
+DTSTART:20240218
+DTEND:20240219
+LOCATION:Serpa\,  Beja Serpa\,  Beja
+SUMMARY:Trail Ribeira de Limas 2024
+DESCRIPTION:A associação Cultural e Recreativa de Santa Iria através da 
+ sua secção de B.T.T.\,  com o apoio daCâmara Municipal de Serpa e da Uni
+ ão de Juntas de Freguesia de Santa Maria e Salvador vairealizar no próxim
+ o dia 18 de Fevereiro de 2024\,  pelas 09:00 horas\,  um evento desportivod
+ enominado «VIII TRAIL[..]\nhttps://www.portugalrunning.com/eventos/trail-r
+ ibeira-de-limas-2024/
+URL:https://www.portugalrunning.com/eventos/trail-ribeira-de-limas-2024/
+END:VEVENT
+END:VCALENDAR

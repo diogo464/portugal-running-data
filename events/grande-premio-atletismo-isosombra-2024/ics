@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9749653
+DTSTAMP:20250720T222423Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Paredela\,  Sever do Vouga Paredela\,  Sever do Vouga
+SUMMARY:Grande Prémio Atletismo Isosombra 2024
+DESCRIPTION:Venha participar numa prova composta por uma corrida e uma cami
+ nhada\,  que passam por alguns dos locais mais emblemáticos da região do 
+ Vouga.\nhttps://www.portugalrunning.com/eventos/grande-premio-atletismo-iso
+ sombra-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-isosombra-2024/
+END:VEVENT
+END:VCALENDAR

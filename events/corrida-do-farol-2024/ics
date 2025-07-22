@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c52ab614
+DTSTAMP:20250720T222314Z
+DTSTART:20241020
+DTEND:20241021
+LOCATION:Ílhavo\,  Aveiro Ílhavo\,  Aveiro
+SUMMARY:Corrida do Farol 2024
+DESCRIPTION:A Corrida do Farol é uma organização da Câmara Municipal de
+  Ílhavo\,  que tratará o atletismo de estrada até um dos elementos de re
+ ferência de Ilhavo.\nhttps://www.portugalrunning.com/eventos/corrida-do-fa
+ rol-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-do-farol-2024/
+END:VEVENT
+END:VCALENDAR

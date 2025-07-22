@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d053243f
+DTSTAMP:20250720T222613Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Vale de Cambra\,  Aveiro Vale de Cambra\,  Aveiro
+SUMMARY:Runcambra 2023
+DESCRIPTION:A RUNCAMBRA é um evento desportivo organizado pela Câmara Mun
+ icipal de Vale de Cambra e a Associação Cultural e Recreativa de Vale de 
+ Cambra. A runCAMBRA realiza-se nos dias 20 e 21 de maio de 2023\,  com o se
+ guinte programa:20 maio 21h30- Caminhada White Walking – 5km\,  destinada
+  a todas[..]\nhttps://www.portugalrunning.com/eventos/runcambra-2023/
+URL:https://www.portugalrunning.com/eventos/runcambra-2023/
+END:VEVENT
+END:VCALENDAR

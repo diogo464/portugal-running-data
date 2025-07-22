@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9fc3f4f
+DTSTAMP:20250720T222431Z
+DTSTART:20240218
+DTEND:20240219
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:Grande Prémio do Atlântico 2024
+DESCRIPTION:A mítica corrida “G.P. do Atlântico” será realizada no d
+ ia 18 de Fevereiro de 2024. Percorre as principais ruas da Costa de Capari
+ ca e o fantástico paredão\,  junto às praias.  Kids Race 500m |  Av. 
+ Gen. Humberto Delgado\,  junto ao Caparica Oceano Corrida 10km | Av. Gen. 
+ Humberto Delgado\,  junto ao Caparica Oceano[..]\nhttps://www.portugalrunni
+ ng.com/eventos/grande-premio-do-atlantico-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-do-atlantico-2024/
+END:VEVENT
+END:VCALENDAR

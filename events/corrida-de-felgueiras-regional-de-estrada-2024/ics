@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4862493
+DTSTAMP:20250720T222304Z
+DTSTART:20240713
+DTEND:20240714
+LOCATION:Felgueiras\,  Porto Felgueiras\,  Porto
+SUMMARY:Corrida de Felgueiras / Regional de Estrada 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-de-felgueiras
+ -regional-de-estrada-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-felgueiras-regional-de-estrada-2024/
+END:VEVENT
+END:VCALENDAR

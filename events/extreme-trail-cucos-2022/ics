@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b928d4
+DTSTAMP:20250720T222411Z
+DTSTART:20220610
+DTEND:20220611
+LOCATION:Cucos\,  Torres Vedras Cucos\,  Torres Vedras\,  Lisboa
+SUMMARY:Extreme Trail Cucos 2022
+DESCRIPTION:Em breve toda a informação sobre a Extreme Trail Cucos 2022 \
+ ,  se gostas de desafios &nbsp;marca na tua agenda .\nhttps://www.portugalr
+ unning.com/eventos/extreme-trail-cucos-2022/
+URL:https://www.portugalrunning.com/eventos/extreme-trail-cucos-2022/
+END:VEVENT
+END:VCALENDAR

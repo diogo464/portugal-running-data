@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5748cce
+DTSTAMP:20250720T222319Z
+DTSTART:20200119
+DTEND:20200120
+LOCATION:Reitoria da Universidade de Lisboa Reitoria da Universidade de Lisboa
+SUMMARY:Corrida dos Adeptos e Simpatizantes
+DESCRIPTION:A 5ª edição da “Corrida Solidária dos Adeptos e Simpati
+ zantes” pretende juntar os apaixonados dos principais clubes portuguese
+ s numa manifestação desportiva saudável\,  onde os participantes poder�
+ �o correr pelas principais avenidas de Lisboa\,  demonstrando o amor ao se
+ u clube num ambiente de fairplay. E para que seja solidário\,  o evento a
+ ssociou-se à Associação O Companheiro. No dia do[..]\nhttps://www.portug
+ alrunning.com/eventos/corrida-dos-adeptos-e-simpatizantes/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-adeptos-e-simpatizantes/
+END:VEVENT
+END:VCALENDAR

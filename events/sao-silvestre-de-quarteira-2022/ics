@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d18014e3
+DTSTAMP:20250720T222632Z
+DTSTART:20221228
+DTEND:20221229
+LOCATION:Quarteira\,  Faro Quarteira\,  Faro
+SUMMARY:São Silvestre de Quarteira 2022
+DESCRIPTION:A São Silvestre de Quarteira é uma prova pedestre de cariz l�
+ �dico\,  organizada pelos Quarteira Night Runner´s\,  Free Challenge e Jun
+ ta de Freguesia de Quarteira. Data: Dia 28 de Dezembro de 2022Hora:&nbsp;20
+ \, 30h.Local: Calçadão de Quarteira\nhttps://www.portugalrunning.com/even
+ tos/sao-silvestre-de-quarteira-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-quarteira-2022/
+END:VEVENT
+END:VCALENDAR

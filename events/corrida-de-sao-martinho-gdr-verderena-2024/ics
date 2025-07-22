@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d61d3f
+DTSTAMP:20250720T222309Z
+DTSTART:20241110
+DTEND:20241111
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:Corrida de São Martinho GDR Verderena 2024
+DESCRIPTION:A Corrida de S. Martinho G. D. R. Verderena realiza-se a 10/11/
+ 2024\,  9:30H\,  em G. D. R. Verderena (Barreiro).UMA CORRIDA GRATUITA PARA
+  TODOS.\nhttps://www.portugalrunning.com/eventos/corrida-de-sao-martinho-gd
+ r-verderena-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-martinho-gdr-verderena-2024/
+END:VEVENT
+END:VCALENDAR

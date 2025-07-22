@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c19aa418
+DTSTAMP:20250720T222217Z
+DTSTART:20221009
+DTEND:20221010
+LOCATION:Carrazeda de Ansiães\,  Bragança Carrazeda de Ansiães\,  Bragança
+SUMMARY:Ansiães Douro Trail 2022
+DESCRIPTION:A Câmara Municipal de Carrazeda de Ansiães e a Naturthoughts 
+ -Turismo de Natureza\,  Lda. organizam\,  no próximo dia 9 de outubro\,  a
+  V edição do Ansiães Douro Trail. O Ansiães Douro Trail é uma prova de
+  Trail Running certificada pela ATRP que percorre trilhos\,  caminhos rurai
+ s e estradões do concelho[..]\nhttps://www.portugalrunning.com/eventos/ans
+ iaes-douro-trail-2022/
+URL:https://www.portugalrunning.com/eventos/ansiaes-douro-trail-2022/
+END:VEVENT
+END:VCALENDAR

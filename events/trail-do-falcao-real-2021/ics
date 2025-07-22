@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d59000fd
+DTSTAMP:20250720T222737Z
+DTSTART:20211212
+DTEND:20211213
+LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+SUMMARY:Trail do Falcão Real 2021
+DESCRIPTION:Resultados A próxima edição da TAT está de volta e começa 
+ já dia 12 de Dezembro no Trail do Falcão Real 2021 em Alcoutim.\nhttps://
+ www.portugalrunning.com/eventos/trail-do-falcao-real-2021/
+URL:https://www.portugalrunning.com/eventos/trail-do-falcao-real-2021/
+END:VEVENT
+END:VCALENDAR

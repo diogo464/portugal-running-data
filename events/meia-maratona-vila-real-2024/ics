@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce24c7fd
+DTSTAMP:20250720T222538Z
+DTSTART:20240505
+DTEND:20240506
+LOCATION:Vila Real Vila Real
+SUMMARY:Meia Maratona Vila Real 2024
+DESCRIPTION:A VII Meia Maratona de Vila Real está a cargo da Associação 
+ de Atletismo de Vila Real em coorganização com a Câmara Municipal de Vil
+ a Real\,  sendo promovida pela EXCELLUS\,  Unipessoal Lda.Eventos:- Meia Ma
+ ratonaDistância de 21\, 097 km (distância oficial)\,  para participantes 
+ com 18 anos ou mais à data.- Mini MaratonaDistância[..]\nhttps://www.port
+ ugalrunning.com/eventos/meia-maratona-vila-real-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-vila-real-2024/
+END:VEVENT
+END:VCALENDAR

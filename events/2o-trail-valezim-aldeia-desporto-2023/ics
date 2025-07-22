@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c00620da
+DTSTAMP:20250720T222152Z
+DTSTART:20230212
+DTEND:20230213
+LOCATION:Valezim\,  Guarda Valezim\,  Guarda
+SUMMARY:2º Trail - Valezim Aldeia Desporto 2023
+DESCRIPTION:O 2º Trail Valezim Aldeia Desporto\,  é um evento competitivo
+ \,  amador\,  da modalidade de Trail Running\,  realizado numa das encostas
+  da Serra da Estrela\,  e é organizado pela Associação Vallecinus Cultur
+ a E Desporto –AVACD. O 2º Trail Valezim Aldeia Desporto será realizado 
+ no dia 12 de Fevereiro de 2023 e[..]\nhttps://www.portugalrunning.com/event
+ os/2o-trail-valezim-aldeia-desporto-2023/
+URL:https://www.portugalrunning.com/eventos/2o-trail-valezim-aldeia-desporto-2023/
+END:VEVENT
+END:VCALENDAR

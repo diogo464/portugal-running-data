@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c15c3fe5
+DTSTAMP:20250720T222213Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Setúbal Setúbal
+SUMMARY:Alegro Meia Maratona De Setúbal 2023
+DESCRIPTION:A Alegro Meia Maratona de Setúbal 21\, 1 Km\,  a Corrida de 10
+  Km e a Corrida das Famílias 5 Km irão decorrer no seguinte horário e lo
+ cais: Data: 30 de abril de 2023Hora de partida: 9h30Local de partida: Alegr
+ o SetúbalLocal da meta: Avenida Luísa Todi\,  em frente ao auditório Jos
+ é[..]\nhttps://www.portugalrunning.com/eventos/alegro-meia-maratona-de-set
+ ubal-2023/
+URL:https://www.portugalrunning.com/eventos/alegro-meia-maratona-de-setubal-2023/
+END:VEVENT
+END:VCALENDAR

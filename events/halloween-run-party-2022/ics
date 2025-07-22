@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca493374
+DTSTAMP:20250720T222436Z
+DTSTART:20221031
+DTEND:20221101
+LOCATION:Reguengos de Monsaraz\,  Évora Reguengos de Monsaraz\,  Évora
+SUMMARY:Halloween Run Party 2022
+DESCRIPTION:A Halloween Run é um evento temático no âmbito do desporto a
+ mador\,  e é organizada pelo Grupo Desportivo Piranhas do Alqueva com a co
+ laboração do Município de Reguengos de Monsaraz e da Junta de Freguesia 
+ de Reguengos de Monsaraz; A Halloween Run será composta por um percurso de
+  4 kms[..]\nhttps://www.portugalrunning.com/eventos/halloween-run-party-202
+ 2/
+URL:https://www.portugalrunning.com/eventos/halloween-run-party-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d77181be
+DTSTAMP:20250720T222807Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Alcobaça Alcobaça
+SUMMARY:II Trail Monges de Cister 2022
+DESCRIPTION:Os&nbsp;Bombeiros Voluntários de Alcobaça&nbsp;organizam pela
+  2ª vez consecutiva o&nbsp;Trail Monges de Cister. O intuito desta prova �
+ � angariar fundos para os BVA\,  e ao mesmo tempo que promover hábitos de 
+ vida saudável. As provas que constituem o evento (Trail + Caminhada + Mong
+ es Kids) irão ocorrer na cidade de Alcobaça[..]\nhttps://www.portugalrunn
+ ing.com/eventos/trail-monges-de-cister-2022/
+URL:https://www.portugalrunning.com/eventos/trail-monges-de-cister-2022/
+END:VEVENT
+END:VCALENDAR

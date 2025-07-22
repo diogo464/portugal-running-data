@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da730500
+DTSTAMP:20250720T222855Z
+DTSTART:20240602
+DTEND:20240603
+LOCATION:Linhaceira\,  Tomar Linhaceira\,  Tomar
+SUMMARY:Trilhos do Nabão 2024
+DESCRIPTION:As presentes normas visam a organização e funcionamento da pr
+ ova “TRILHOS DO NABÃO- 6ª Edição”\, na sua vertente Caminhada de 11
+  km\,  Prova de Trail Curto de 15 km e Prova de Trail Longo 30 km\, doravan
+ te designados por Caminhada 11k\,  Trail Curto 15k e Trail Longo 30k. A org
+ anização da Caminhada[..]\nhttps://www.portugalrunning.com/eventos/trilho
+ s-do-nabao-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-nabao-2024/
+END:VEVENT
+END:VCALENDAR

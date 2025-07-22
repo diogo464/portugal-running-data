@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3f38fe
+DTSTAMP:20250720T222507Z
+DTSTART:20250302
+DTEND:20250303
+LOCATION:Tóquio\,  Japão Tóquio\,  Japão
+SUMMARY:Maratona de Tóquio 2025
+DESCRIPTION:A Maratona de Tóquio é uma das principais corridas de maraton
+ a no mundo e vai ocorrer a 2 de Março de 2025 atraindo milhares de corredo
+ res de elite e amadores de todo o mundo. É famosa pela sua atmosfera vibra
+ nte\,  com espectadores entusiásticos ao longo do percurso\,  incluindo m�
+ �sicos\,  grupos[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-t
+ oquio-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-de-toquio-2025/
+END:VEVENT
+END:VCALENDAR

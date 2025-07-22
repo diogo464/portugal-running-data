@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69abd3e
+DTSTAMP:20250720T222337Z
+DTSTART:20200711
+DTEND:20200712
+LOCATION:Costa Nova\,  Ílhavo Costa Nova\,  Ílhavo\,  Aveiro
+SUMMARY:Corrida Popular da Costa Nova 2020
+DESCRIPTION:Os 10 km mais rápidos de Portugal\,  com medição certificada
+  pela Federação Portuguesa de Atletismo. Organização conjunta da Câmar
+ a Municipal de Ílhavo e Atletas.net. Alto patrocínio da NIssan Entreposto
+  A. Fontes\nhttps://www.portugalrunning.com/eventos/corrida-popular-da-cost
+ a-nova-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-popular-da-costa-nova-2020/
+END:VEVENT
+END:VCALENDAR

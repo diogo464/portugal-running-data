@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64dc755
+DTSTAMP:20250720T222332Z
+DTSTART:20231001
+DTEND:20231002
+LOCATION:Ourique\,  Beja Ourique\,  Beja
+SUMMARY:Corrida MegaFitness 2023
+DESCRIPTION:O Município de Ourique em colaboração com o Ourique Desporto
+ s Clube\,  irá levar a efeito\,  no dia 1 de Outubro\,  Domingo\,  pelas 1
+ 7:00h\,  a 4º Corrida MegaFitness.\nhttps://www.portugalrunning.com/evento
+ s/corrida-megafitness-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-megafitness-2023/
+END:VEVENT
+END:VCALENDAR

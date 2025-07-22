@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4792078
+DTSTAMP:20250720T222719Z
+DTSTART:20240218
+DTEND:20240219
+LOCATION:Leiria Leiria
+SUMMARY:Trail da Barreira Off Road 2024
+DESCRIPTION:O Clube de Atletismo da Barreira organiza no dia 18 de Fevereir
+ o de 2024 o 10º Trail Off-Road da Barreira. Se a organização entender qu
+ e as condições climatéricas são adversas à segurança dos atletas ou q
+ ue existem outras razões de qualquer natureza que se incompatibilizem com 
+ o evento\,  os percursos[..]\nhttps://www.portugalrunning.com/eventos/trail
+ -da-barreira-off-road-2024/
+URL:https://www.portugalrunning.com/eventos/trail-da-barreira-off-road-2024/
+END:VEVENT
+END:VCALENDAR

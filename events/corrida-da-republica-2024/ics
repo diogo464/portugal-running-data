@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4400f70
+DTSTAMP:20250720T222300Z
+DTSTART:20241006
+DTEND:20241007
+LOCATION:Rio Tinto\,  Gondomar Rio Tinto\,  Gondomar
+SUMMARY:Corrida da República 2024
+DESCRIPTION:Rio Tinto recebe no dia 6 de Outubro de 2024\,  às 10h00\,  a 
+ 10ª edição Corrida da República \,  uma organização da Associação C
+ omvidacorrer e Junta de Freguesia de Rio Tinto com o apoio técnico da Even
+ tsport. A 10ª Corrida da República consiste numa prova de 10 km e numa[..
+ ]\nhttps://www.portugalrunning.com/eventos/corrida-da-republica-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-republica-2024/
+END:VEVENT
+END:VCALENDAR

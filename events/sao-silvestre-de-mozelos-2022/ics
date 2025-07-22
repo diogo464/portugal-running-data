@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17c440f
+DTSTAMP:20250720T222631Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Mozelos\,  Aveiro Mozelos\,  Aveiro
+SUMMARY:São Silvestre de Mozelos 2022
+DESCRIPTION:A 4ª edição da São Silvestre de Mozelos contará com a orga
+ nização da Juventude Atlética Mozelense\,  com o apoio da Junta de Fregu
+ esia de Mozelos\,  em parceria com a Câmara Municipal de Santa Maria da Fe
+ ira.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-mozelos-2022
+ /
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-mozelos-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbec2fce
+DTSTAMP:20250720T222502Z
+DTSTART:20240922
+DTEND:20240923
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:Lynxrace Mafra 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/lynxrace-mafra-2024/
+URL:https://www.portugalrunning.com/eventos/lynxrace-mafra-2024/
+END:VEVENT
+END:VCALENDAR

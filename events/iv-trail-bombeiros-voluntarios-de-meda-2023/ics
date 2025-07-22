@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb117ffa
+DTSTAMP:20250720T222449Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Mêda\,  Guarda Mêda\,  Guarda
+SUMMARY:IV Trail Bombeiros Voluntários de Mêda 2023
+DESCRIPTION:A província da Beira Alta\,  região do Centro\,  irá ser pal
+ co do IV Trail dos Bombeiros Voluntários de Mêda no dia 30 de Abril de 20
+ 23. O percurso vai ser constituído por um Trail Longo de 30 quilómetros\,
+   um Trail Curto de 18 quilómetros e uma Caminhada de 12 quilómetros.[..]
+ \nhttps://www.portugalrunning.com/eventos/iv-trail-bombeiros-voluntarios-de
+ -meda-2023/
+URL:https://www.portugalrunning.com/eventos/iv-trail-bombeiros-voluntarios-de-meda-2023/
+END:VEVENT
+END:VCALENDAR

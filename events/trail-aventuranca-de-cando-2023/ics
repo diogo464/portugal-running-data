@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3bf4190
+DTSTAMP:20250720T222707Z
+DTSTART:20230917
+DTEND:20230918
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Trail Aventurança de Cando 2023
+DESCRIPTION:O evento realiza-se a 17-09-2023 09:30:00 no distrito de Aveiro
+ . Conta com 1 percurso:2ºTrail Aventurança de Cando - 100\nhttps://www.po
+ rtugalrunning.com/eventos/trail-aventuranca-de-cando-2023/
+URL:https://www.portugalrunning.com/eventos/trail-aventuranca-de-cando-2023/
+END:VEVENT
+END:VCALENDAR

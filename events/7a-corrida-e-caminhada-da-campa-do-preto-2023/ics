@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0d619bf
+DTSTAMP:20250720T222205Z
+DTSTART:20230528
+DTEND:20230529
+LOCATION:Castêlo da Maia\,  Porto Castêlo da Maia\,  Porto
+SUMMARY:7ª Corrida e Caminhada da Campa do Preto 2023
+DESCRIPTION:A Associação Beneficente da Campa do Preto em parceria com a 
+ Câmara Municipal da Maia e com atleta Fernanda Ribeiro irá realizar a “
+ 7ª Corrida/Caminha da Campa do Preto” já no dia 28 de Maio de 2023. Kit
+  participação: Tshirt + saco + caderno + Diploma de participação + Brin
+ de[..]\nhttps://www.portugalrunning.com/eventos/7a-corrida-e-caminhada-da-c
+ ampa-do-preto-2023/
+URL:https://www.portugalrunning.com/eventos/7a-corrida-e-caminhada-da-campa-do-preto-2023/
+END:VEVENT
+END:VCALENDAR

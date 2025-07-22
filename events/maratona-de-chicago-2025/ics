@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc2aa65d
+DTSTAMP:20250720T222506Z
+DTSTART:20251012
+DTEND:20251013
+LOCATION:Chicago\,  Estados Unidos da América Chicago\,  Estados Unidos da América
+SUMMARY:Maratona de Chicago 2025
+DESCRIPTION:A Maratona de Chicago\,  conhecida em inglês como "Chicago Mar
+ athon\, " é uma das corridas de maratona mais populares do mundo e vai oco
+ rrer a 12 de Outubro de 2025 em Chicago\,  Illinois\,  nos Estados Unidos. 
+ A primeira edição da maratona foi realizada em 1977\,  e desde então\,  
+ tornou-se um dos[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-c
+ hicago-2025/
+URL:https://www.portugalrunning.com/eventos/maratona-de-chicago-2025/
+END:VEVENT
+END:VCALENDAR

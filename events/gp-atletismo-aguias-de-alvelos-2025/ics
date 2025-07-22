@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c934a7da
+DTSTAMP:20250720T222419Z
+DTSTART:20250906T125300Z
+DTEND:20250906T235900Z
+LOCATION:Alvelos\,  Braga Alvelos\,  Braga
+SUMMARY:GP Atletismo Aguias de Alvelos 2025
+DESCRIPTION:O evento “VII Grande Prémio Ateltismo Águias de Alvelos ”
+  é organizado pela Secção de Atletismo e TrailRunning da Associação Re
+ creativa e Cultural Águias de Alvelo\,  no dia 2 de agosto de 2025 sendo c
+ onstituído por uma prova de 8 km\,  para maiores de 16 anos e um Kids Race
+ \, [..]\nhttps://www.portugalrunning.com/eventos/gp-atletismo-aguias-de-alv
+ elos-2025/
+URL:https://www.portugalrunning.com/eventos/gp-atletismo-aguias-de-alvelos-2025/
+END:VEVENT
+END:VCALENDAR

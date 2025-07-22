@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db4616e1
+DTSTAMP:20250720T222908Z
+DTSTART:20200607
+DTEND:20200608
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Ultra Trail de Sesimbra
+DESCRIPTION:Sesimbra é um poço de natureza! Onde o verde da serra se mist
+ ura com o azul do oceano\,  numa harmonia que nos toca na alma! Uma beleza 
+ absolutamente inacreditável\,  uma extensão de trilhos que mos levam do v
+ erde da serra para o azul do oceano\,  a subtileza da natureza é tal[..]\
+ nhttps://www.portugalrunning.com/eventos/ultra-trail-de-sesimbra/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-de-sesimbra/
+END:VEVENT
+END:VCALENDAR

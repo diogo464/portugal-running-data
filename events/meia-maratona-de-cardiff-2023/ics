@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccc2dc0
+DTSTAMP:20250720T222516Z
+DTSTART:20231001
+DTEND:20231002
+LOCATION:Cardiff\,  Reino Unido Cardiff\,  Reino Unido
+SUMMARY:Meia Maratona de Cardiff 2023
+DESCRIPTION:Since it was founded in 2003\,  the Wizz Air Cardiff Half Marat
+ hon&nbsp;has established itself as one of the UK’s leading road races.&nb
+ sp; With 27\, 500 entries selling out each year\,  this is now one of the b
+ iggest events in Europe – a huge achievement considering only 1\, 500 run
+ ners took part in[..]\nhttps://www.portugalrunning.com/eventos/meia-maraton
+ a-de-cardiff-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-cardiff-2023/
+END:VEVENT
+END:VCALENDAR

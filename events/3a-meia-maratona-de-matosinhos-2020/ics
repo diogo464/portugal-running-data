@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c04306d0
+DTSTAMP:20250720T222156Z
+DTSTART:20200531
+DTEND:20200601
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:3ª Meia Maratona de Matosinhos 2020
+DESCRIPTION:A 3ª edição da Meia Maratona de Matosinhos Mar de Desporto r
+ ealiza-se este ano no dia 31 de maio. A marginal de Leça da Palmeira vai f
+ icar preenchida de atletas a correr a Meia Maratona de Matosinhos Mar de De
+ sporto ou a caminhar os 7 km da mini maratona. Num[..]\nhttps://www.portuga
+ lrunning.com/eventos/3a-meia-maratona-de-matosinhos-2020/
+URL:https://www.portugalrunning.com/eventos/3a-meia-maratona-de-matosinhos-2020/
+END:VEVENT
+END:VCALENDAR

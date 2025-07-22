@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc1c2fff
+DTSTAMP:20250720T222921Z
+DTSTART:20200913
+DTEND:20200914
+LOCATION:Penafirme\,  Torres Vedras Penafirme\,  Torres Vedras
+SUMMARY:Vimeiro Trail Run 2020
+DESCRIPTION:O TURRES TRAIL CLUBE em parceria com Externato de Penafirme e o
+  apoio da Junta de Freguesia de A dos Cunhados e Maceira e águas do VIMEIR
+ O vai realizar no próximo dia 13 de Setembro de 2020\,  pelas 9:00 horas\,
+   a 6º edição do evento denominado " VIMEIRO TRAIL RUN[..]\nhttps://www.
+ portugalrunning.com/eventos/vimeiro-trail-run-2020/
+URL:https://www.portugalrunning.com/eventos/vimeiro-trail-run-2020/
+END:VEVENT
+END:VCALENDAR

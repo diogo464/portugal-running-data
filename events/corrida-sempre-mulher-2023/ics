@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f920c3
+DTSTAMP:20250720T222343Z
+DTSTART:20230326
+DTEND:20230327
+LOCATION:Praça dos Restauradores\,  Lisboa Praça dos Restauradores\,  Lisboa
+SUMMARY:Corrida Sempre Mulher 2023
+DESCRIPTION:No dia 26 de Março 2023 junte-se a nós e&nbsp;venha andar ou 
+ correr 5km por uma boa causa. Inscreva-se já e passe uma manhã saudável 
+ e inesquecível!\nhttps://www.portugalrunning.com/eventos/corrida-sempre-mu
+ lher-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-sempre-mulher-2023/
+END:VEVENT
+END:VCALENDAR

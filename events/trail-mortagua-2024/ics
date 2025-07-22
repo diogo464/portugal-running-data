@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7700cb8
+DTSTAMP:20250720T222807Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Mortágua\,  Viseu Mortágua\,  Viseu
+SUMMARY:Trail Mortágua 2024
+DESCRIPTION:O Trail de Mortágua 2024 é uma organização do Núcleo do Sp
+ orting Clube de Portugal de Mortágua\,  e terá lugar em Mortágua\,  com 
+ partida e chegada junto à Câmara Municipal de Mortágua às 9h00. Provas 
+ Trail 22k - Percurso circular de cerca de 22 km com o tempo limite de real
+ ização[..]\nhttps://www.portugalrunning.com/eventos/trail-mortagua-2024/
+URL:https://www.portugalrunning.com/eventos/trail-mortagua-2024/
+END:VEVENT
+END:VCALENDAR

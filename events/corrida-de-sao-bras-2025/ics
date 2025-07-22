@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d62284
+DTSTAMP:20250720T222309Z
+DTSTART:20250608
+DTEND:20250609
+LOCATION:Granja\,  Castro Daire Granja\,  Castro Daire
+SUMMARY:Corrida de São Brás 2025
+DESCRIPTION:A Câmara Municipal de Castro Daire e o GDR Granja organizam\, 
+  no dia 8 de junho de 2025\,  na povoação da Granja – Freguesia de Mõe
+ s\,  em colaboração com a Junta de Freguesia de Mões e a Associação de
+  Atletismo de Viseu a 18ª CORRIDA DE SÃO BRÁS e o[..]\nhttps://www.portu
+ galrunning.com/eventos/corrida-de-sao-bras-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-bras-2025/
+END:VEVENT
+END:VCALENDAR

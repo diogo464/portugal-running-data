@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d007b7c0
+DTSTAMP:20250720T222608Z
+DTSTART:20231001
+DTEND:20231002
+LOCATION:Chafé\,  Viana do Castelo Chafé\,  Viana do Castelo
+SUMMARY:Prova do Triângulo 2023
+DESCRIPTION:O Grupo Recreativo e Cultural de Castelo do Neiva (GRECANE); O 
+ Grupo Desportivo Castelense (GDC); A Associação Cultural de Chafé (ACCA)
+ ; A Associação Desportiva e Cultural de Anha (ADCA); a Junta de Freguesia
+  de Castelo do Neiva; a Junta de Freguesia de Chafé e a Junta de Freguesia
+  de Vila[..]\nhttps://www.portugalrunning.com/eventos/prova-do-triangulo-20
+ 23/
+URL:https://www.portugalrunning.com/eventos/prova-do-triangulo-2023/
+END:VEVENT
+END:VCALENDAR

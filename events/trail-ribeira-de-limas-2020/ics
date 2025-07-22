@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8330b51
+DTSTAMP:20250720T222819Z
+DTSTART:20200216
+DTEND:20200217
+LOCATION:Santa Iria / Serpa\,  Beja Santa Iria / Serpa\,  Beja
+SUMMARY:Trail Ribeira de Limas 2020
+DESCRIPTION:A associação Cultural e Recreativa de Santa Iria através da 
+ sua secção de B.T.T.\,  com o apoio da Câmara Municipal de Serpa e da Un
+ ião de Juntas de Freguesia de Santa Maria e Salvador vai realizar no próx
+ imo dia 16 de Fevereiro de 2020\,  pelas 09:00 horas\,  um evento desportiv
+ o[..]\nhttps://www.portugalrunning.com/eventos/trail-ribeira-de-limas-2020/
+URL:https://www.portugalrunning.com/eventos/trail-ribeira-de-limas-2020/
+END:VEVENT
+END:VCALENDAR

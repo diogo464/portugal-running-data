@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9300be8
+DTSTAMP:20250720T222835Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Quinta das Pratas\,  Cartaxo Quinta das Pratas\,  Cartaxo
+SUMMARY:Trail Terras do Cartaxo 2022
+DESCRIPTION:Com o apoio da Câmara Municipal do Cartaxo\,  da Adega do Cart
+ axo\,  do MyCamp e da Casa das Peles\,  no dia 30 de outubro realiza-se a p
+ rimeira edição do Trail Terras do Cartaxo\,  que será percorrido pelos t
+ rilhos do Concelho do Cartaxo\,  num Trail Longo de 26K+ e num Trail[..]\nh
+ ttps://www.portugalrunning.com/eventos/trail-terras-do-cartaxo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-terras-do-cartaxo-2022/
+END:VEVENT
+END:VCALENDAR

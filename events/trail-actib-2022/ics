@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3862bfe
+DTSTAMP:20250720T222704Z
+DTSTART:20221113
+DTEND:20221114
+LOCATION:Águeda Águeda
+SUMMARY:Trail ACTIB 2022
+DESCRIPTION:O Trail ACTIB 2022 conta para o Troféu Trail Terras de Águeda
+ \,  venha sentir-se um verdadeiro campeão do Mundo! Entre os eventos organ
+ izados pelo ACTIB destaca-se o mundial Motocross\,  que se realiza no Cross
+ ódromo Internacional de Águeda\,  considerada uma das melhores pistas do 
+ mundo. No Trail ACTIB\,  além de poder[..]\nhttps://www.portugalrunning.co
+ m/eventos/trail-actib-2022/
+URL:https://www.portugalrunning.com/eventos/trail-actib-2022/
+END:VEVENT
+END:VCALENDAR

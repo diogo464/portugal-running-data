@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da87a54f
+DTSTAMP:20250720T222856Z
+DTSTART:20200329
+DTEND:20200330
+LOCATION:Batalha\,  Leiria Batalha\,  Leiria
+SUMMARY:Trilhos do Pastor 2020
+DESCRIPTION:A prova 12º Trilhos do Pastor® é constituída na sua maioria
+  (cerca de 95%) por trilhos técnicos\,  estradões\,  carreiros e por serr
+ as e vales no parque natural das Serras d' Aire e Candeeiros e do maciço c
+ alcário estremenho. Com passagem em locais tão únicos e especiais como p
+ or exemplo: -[..]\nhttps://www.portugalrunning.com/eventos/trilhos-do-pasto
+ r/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-pastor/
+END:VEVENT
+END:VCALENDAR

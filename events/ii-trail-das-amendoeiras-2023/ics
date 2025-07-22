@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cab00b56
+DTSTAMP:20250720T222443Z
+DTSTART:20230305
+DTEND:20230306
+LOCATION:São João da Pesqueira\,  Viseu São João da Pesqueira
+SUMMARY:II Trail Das Amendoeiras 2023
+DESCRIPTION:O DURIUS Atlético Clube da Pesqueira em parceria com o a Assoc
+ iação de Atletismo de Vila Real (AAVR)\,  Município de S. João da Pesqu
+ eira\,  União de Freguesias de S. João da Pesqueira e Várzea de Trevões
+ \,  Mateus & Sequeira Vinhos\,  S.A.\,  CapitalDouro - Associação\,  Brit
+ es Aguiar Lda\,  Qunita dos Selores\, [..]\nhttps://www.portugalrunning.com
+ /eventos/ii-trail-das-amendoeiras-2023/
+URL:https://www.portugalrunning.com/eventos/ii-trail-das-amendoeiras-2023/
+END:VEVENT
+END:VCALENDAR

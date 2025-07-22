@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3cc4395
+DTSTAMP:20250720T222708Z
+DTSTART:20240505
+DTEND:20240506
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Trail Bem Viver 2024
+DESCRIPTION:A prova é certificada pela a ATRP - Associação de Trail Runn
+ ing de Portugal\,  ITRA - International Trail Running Association e UTMB �
+ � Ultra Trail Mont Blanc. O Trail Bem Viver será constituído por três pr
+ ovas. TRAIL BEM VIVER LONGO - 23KM TRAIL BEM VIVER CURTO - 15KM CAMINHADA B
+ EM[..]\nhttps://www.portugalrunning.com/eventos/trail-bem-viver-2024/
+URL:https://www.portugalrunning.com/eventos/trail-bem-viver-2024/
+END:VEVENT
+END:VCALENDAR

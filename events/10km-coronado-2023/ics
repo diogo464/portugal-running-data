@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf3ac5e2
+DTSTAMP:20250720T222139Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:10km Coronado 2023
+DESCRIPTION:Realiza-se no dia 29 de Outubro de 2023 pelas 10:00\,  na Vila 
+ do Coronado\,  concelho da Trofa\,  com partidas e chegadas na rua da Costa
+  a 1o corrida 10km Coronado 2023 na qual se integra uma caminhada +-5km. Ca
+ minhada: a caminhada com distancia de +- 5km destinada a todas as[..]\nhttp
+ s://www.portugalrunning.com/eventos/10km-coronado-2023/
+URL:https://www.portugalrunning.com/eventos/10km-coronado-2023/
+END:VEVENT
+END:VCALENDAR

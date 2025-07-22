@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb51908f
+DTSTAMP:20250720T222453Z
+DTSTART:20230402
+DTEND:20230403
+LOCATION:Vale de Óbidos\,  Rio Maior Vale de Óbidos\,  Rio Maior
+SUMMARY:Légua de Vale de Óbidos 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/legua-de-vale-de-obid
+ os-2023/
+URL:https://www.portugalrunning.com/eventos/legua-de-vale-de-obidos-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdcdc235
+DTSTAMP:20250720T222532Z
+DTSTART:20211114
+DTEND:20211115
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Meia Maratona Internacional da Nazaré 2021
+DESCRIPTION:A Meia Maratona Internacional da Nazaré é a mais antiga prova
+  da distância corrida em Portugal e a segunda mais antiga da Península Ib
+ érica.\nhttps://www.portugalrunning.com/eventos/meia-maratona-internaciona
+ l-da-nazare-2021/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-internacional-da-nazare-2021/
+END:VEVENT
+END:VCALENDAR

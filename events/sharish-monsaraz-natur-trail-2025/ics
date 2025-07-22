@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc4aed
+DTSTAMP:20250720T222651Z
+DTSTART:20250329
+DTEND:20250330
+LOCATION:Reguengos de Monsaraz\,  Évora Reguengos de Monsaraz\,  Évora
+SUMMARY:Sharish Monsaraz Natur Trail 2025
+DESCRIPTION:O Sharish Monsaraz Natur Trail será realizado nos dias 28 e 29
+  de março de 2025. É um evento organizado pelo Sharish Gin/ GD Piranhas d
+ o Alqueva\,  com o apoio de vários parceiros institucionais e privados.\nh
+ ttps://www.portugalrunning.com/eventos/sharish-monsaraz-natur-trail-2025/
+URL:https://www.portugalrunning.com/eventos/sharish-monsaraz-natur-trail-2025/
+END:VEVENT
+END:VCALENDAR

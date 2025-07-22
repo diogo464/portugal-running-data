@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f93ba9
+DTSTAMP:20250720T222343Z
+DTSTART:20210519
+DTEND:20210520
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Solidária Académica 2021
+DESCRIPTION:Vamos apoiar os Bombeiros Sapadores de Lisboa\,  combatentes in
+ cansáveis de todos os dias\,  com a inscrição na Corrida Solidária Acad
+ émica! Uma corrida virtual\,  que se vai realizar entre os dias 19 e 25 de
+  Maio\,  e em que o valor da inscrição reverte para a Associação dos Se
+ rviços Sociais dos[..]\nhttps://www.portugalrunning.com/eventos/corrida-so
+ lidaria-academica-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-academica-2021/
+END:VEVENT
+END:VCALENDAR

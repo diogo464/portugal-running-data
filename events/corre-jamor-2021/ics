@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3319885
+DTSTAMP:20250720T222243Z
+DTSTART:20211114
+DTEND:20211115
+LOCATION:Jamor Jamor\,  Lisboa
+SUMMARY:Corre Jamor 2021
+DESCRIPTION:Resultados A 14 de novembro\,  o Corre Jamor 2021 está de volt
+ a\,  prova promovida pelo Clube Olímpico de Oeiras no Centro Desportivo Na
+ cional do Jamor.\nhttps://www.portugalrunning.com/eventos/corre-jamor-2021/
+URL:https://www.portugalrunning.com/eventos/corre-jamor-2021/
+END:VEVENT
+END:VCALENDAR

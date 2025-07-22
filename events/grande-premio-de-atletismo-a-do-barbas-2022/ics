@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b01aca
+DTSTAMP:20250720T222427Z
+DTSTART:20221208
+DTEND:20221209
+LOCATION:Maceira\,  Leiria Maceira\,  Leiria
+SUMMARY:Grande Prémio de Atletismo A-do-Barbas 2022
+DESCRIPTION:O&nbsp;Centro Popular e Recreativo de A-do-Barbas\,  em coorgan
+ ização com a&nbsp;Associação de Atletismo de Leiria – ADAL\,  com o a
+ poio da&nbsp;Câmara Municipal de Leiria&nbsp;e&nbsp;Junta de Freguesia de 
+ Maceira\,  organiza no dia&nbsp;08 de dezembro de 2022\,  pelas&nbsp;9:30h&
+ nbsp;a&nbsp;31ª edição&nbsp;de uma prova de estrada denominada&nbsp;“G
+ rande Prémio de Atletismo de A-do-Barbas (Memorial Fernando Figueiredo”)
+ . O[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-de-atletismo
+ -a-do-barbas-2022/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-a-do-barbas-2022/
+END:VEVENT
+END:VCALENDAR

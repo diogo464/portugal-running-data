@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfb942f8
+DTSTAMP:20250720T222603Z
+DTSTART:20240211
+DTEND:20240212
+LOCATION:Vila Nova de Poiares\,  Coimbra Vila Nova de Poiares\,  Coimbra
+SUMMARY:Poiares Trail 2024
+DESCRIPTION:A secção de Atletismo da Associação Recreativa de S. Miguel
+  – Vila Nova de Poiares é a entidade organizadora do evento denominado P
+ OIARES TRAIL 2024\,  que decorrerá a 10 e 11 de fevereiro de 2024. O POIAR
+ ES TRAIL 2024 é um evento que integra três provas competitivas e uma cami
+ nhada:[..]\nhttps://www.portugalrunning.com/eventos/poiares-trail-2024/
+URL:https://www.portugalrunning.com/eventos/poiares-trail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d510144f
+DTSTAMP:20250720T222729Z
+DTSTART:20241005
+DTEND:20241006
+LOCATION:Alpiarça\,  Santarém Alpiarça\,  Santarém
+SUMMARY:Trail de Alpiarça 2024
+DESCRIPTION:O “6° GRANDE TRAIL DE ALPIARÇA” adiante denominado de GTd
+ A\,  será realizado no dia 05 de Outubro de 2024 (sábado)\,  em Alpiarça
+ .Será constituído por duas provas de carácter competitivo\,  “Trail Lo
+ ngo –31K”\,  “Trail curto – 16K” e uma prova de carácter lúdico
+  “Caminhada – 10K”. É uma Organização da Secção[..]\nhttps://www
+ .portugalrunning.com/eventos/trail-de-alpiarca-2024/
+URL:https://www.portugalrunning.com/eventos/trail-de-alpiarca-2024/
+END:VEVENT
+END:VCALENDAR

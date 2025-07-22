@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d00930ff
+DTSTAMP:20250720T222608Z
+DTSTART:20230930
+DTEND:20231001
+LOCATION:Portugal Portugal
+SUMMARY:Portugal 1001
+DESCRIPTION:Atravessar um país é um desafio e tanto! Fazê-lo\,  de norte
+  a sul\,  em 14 dias e com mais de 1001km a correr é algo mais. Passa a se
+ r uma experiência de transformação pessoal. A ideia é facilitar este �
+ �caminho” em todas as suas perspetivas. Sejam elas de conhecimento interi
+ or\, [..]\nhttps://www.portugalrunning.com/eventos/portugal-1001/
+URL:https://www.portugalrunning.com/eventos/portugal-1001/
+END:VEVENT
+END:VCALENDAR

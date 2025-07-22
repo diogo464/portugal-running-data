@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc879959
+DTSTAMP:20250720T222512Z
+DTSTART:20200404
+DTEND:20200405
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Meia Maratona Água de Faro 2020
+DESCRIPTION:A Meia Maratona Água de Faro\,  é uma prova pedestre noturna 
+ organizada pela Fagar e pelo Município de Faro\,  com o apoio técnico da 
+ Associação de Atletismo do Algarve. Data: 4 de Abril de 2020 Meia Marato
+ na Água de Faro 20\,  na distância de 21\, 097km: início às 17h00. Min
+ i Maratona Água de[..]\nhttps://www.portugalrunning.com/eventos/meia-marat
+ ona-agua-de-faro-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-agua-de-faro-2020/
+END:VEVENT
+END:VCALENDAR

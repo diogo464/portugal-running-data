@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5dad167
+DTSTAMP:20250720T222741Z
+DTSTART:20240218
+DTEND:20240219
+LOCATION:Porto Moniz\,  Ilha da Madeira Porto Moniz\,  Ilha da Madeira
+SUMMARY:Trail do Porto Moniz 2024
+DESCRIPTION:O Clube de Montanha do Funchal é a associação organizadora d
+ o evento denominado Trail do Porto Moniz\,  que decorrerá no dia 18 de fev
+ ereiro de 2024 no Concelho do Porto Moniz na Ilha da Madeira.-Devido a raz�
+ �es de logística o evento Trail do Porto Moniz é limitado a cerca de[..]\
+ nhttps://www.portugalrunning.com/eventos/trail-do-porto-moniz-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-porto-moniz-2024/
+END:VEVENT
+END:VCALENDAR

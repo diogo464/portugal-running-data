@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb010f2
+DTSTAMP:20250720T222915Z
+DTSTART:20240609
+DTEND:20240610
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:Vadia Solidária 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/vadia-solidaria-2024/
+URL:https://www.portugalrunning.com/eventos/vadia-solidaria-2024/
+END:VEVENT
+END:VCALENDAR

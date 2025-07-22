@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd091e10
+DTSTAMP:20250720T222520Z
+DTSTART:20220508
+DTEND:20220509
+LOCATION:Praia De Cortegaça\,  Aveiro Praia De Cortegaça\,  Aveiro
+SUMMARY:Meia-Maratona de Cortegaça 2022
+DESCRIPTION:A Meia-Maratona de Cortegaça 2022 liga as praias de Cortegaça
+  e do Furadouro. Esta é uma das provas mais emblemáticas do calendário d
+ o atletismo de estrada e corre-se num percurso praticamente plano\,  ladead
+ o de paisagens naturais únicas.\nhttps://www.portugalrunning.com/eventos/m
+ eia-maratona-de-cortegaca-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-cortegaca-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c87185be
+DTSTAMP:20250720T222407Z
+DTSTART:20211203
+DTEND:20211204
+LOCATION:São Miguel\,  Açores São Miguel\,  Açores
+SUMMARY:Epic Trail Run Azores 2021
+DESCRIPTION:O evento Epic Trail Run Azores 2021 nasce da vontade do Dr. Car
+ los Martins\,  presidente da direção da Associação Portas do Mar (APM)\
+ ,  como forma de divulgação da infraestrutura recentemente criada no cent
+ ro da cidade capital dos Açores\,  Ponta Delgada. Foi no ano de 2015 que a
+ s primeiras corridas de[..]\nhttps://www.portugalrunning.com/eventos/epic-t
+ rail-run-azores-2021-2/
+URL:https://www.portugalrunning.com/eventos/epic-trail-run-azores-2021-2/
+END:VEVENT
+END:VCALENDAR

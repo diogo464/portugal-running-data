@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc4005ab
+DTSTAMP:20250720T222508Z
+DTSTART:20241006
+DTEND:20241007
+LOCATION:Lisboa Lisboa
+SUMMARY:Maratona Lisboa 2024
+DESCRIPTION:A Maratona Lisboa realiza-se a 6 de Outubro\,  parte de&nbsp;Ca
+ scais&nbsp;e segue sempre pela&nbsp;Estrada Marginal\,  primeiro junto ao m
+ ar e depois ao longo do rio at√© √† meta em Lisboa no&nbsp;Parque das Na√ß√
+ µes. Resultados\nhttps://www.portugalrunning.com/eventos/maratona-lisboa-20
+ 24/
+URL:https://www.portugalrunning.com/eventos/maratona-lisboa-2024/
+END:VEVENT
+END:VCALENDAR

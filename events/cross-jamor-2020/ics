@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7917df0
+DTSTAMP:20250720T222353Z
+DTSTART:20200118
+DTEND:20200119
+LOCATION:Jamor Jamor\,  Lisboa
+SUMMARY:Cross Jamor 2020
+DESCRIPTION:Com o apoio da Câmara Municipal de Oeiras\,  da Associação d
+ e Atletismo de Lisboa e Instituto Português do Desporto e Juventude\,  o C
+ ross do Jamor terá lugar na Pista de corta-mato do Centro Desportivo Nacio
+ nal do Jamor\,  onde se realizará em simultâneo o Campeonato Regional de 
+ Corta-Mato Curto de Lisboa.[..]\nhttps://www.portugalrunning.com/eventos/cr
+ oss-jamor-2020/
+URL:https://www.portugalrunning.com/eventos/cross-jamor-2020/
+END:VEVENT
+END:VCALENDAR

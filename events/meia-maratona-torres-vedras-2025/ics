@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce232aa7
+DTSTAMP:20250720T222538Z
+DTSTART:20250112
+DTEND:20250113
+LOCATION:Torres Vedras\,  Lisboa Torres Vedras\,  Lisboa
+SUMMARY:Meia Maratona Torres Vedras 2025
+DESCRIPTION:Em 2025\,  o mote está dado e promete juntar os apaixonados da
+  distância dos&nbsp;21km\,  juntamente com os atletas de&nbsp;10km&nbsp;e 
+ a família na caminhada de&nbsp;5km.&nbsp; Torres Vedras\,  uma zona cheia 
+ de atrativos para quem gosta de&nbsp;natureza\,  história\,  desporto\,  g
+ astronomia e boa gente!\nhttps://www.portugalrunning.com/eventos/meia-marat
+ ona-torres-vedras-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-torres-vedras-2025/
+END:VEVENT
+END:VCALENDAR

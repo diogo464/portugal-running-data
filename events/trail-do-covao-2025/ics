@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d59329cd
+DTSTAMP:20250720T222737Z
+DTSTART:20250216
+DTEND:20250217
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Trail do Covão 2025
+DESCRIPTION:O Futebol Clube de Cête\,  é a entidade organizadora do event
+ o\,  que decorrerá nos dias 15 e 16 de Fevereiro de 2025 em Cête \,  inde
+ pendentemente das condições climatéricas do dia\,  desde que a organiza�
+ �ão entenda que não ofereçam risco aos participantes. A prova será cons
+ tituída por três distâncias competitivas\, [..]\nhttps://www.portugalrun
+ ning.com/eventos/trail-do-covao-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-covao-2025/
+END:VEVENT
+END:VCALENDAR

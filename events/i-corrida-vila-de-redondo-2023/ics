@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca6c38a7
+DTSTAMP:20250720T222438Z
+DTSTART:20230106
+DTEND:20230107
+LOCATION:Redondo\,  Évora Redondo\,  Évora
+SUMMARY:I Corrida Vila de Redondo 2023
+DESCRIPTION:1ª CORRIDA VILA DE REDONDO é um evento de natureza desportiva
+ \,  que visapromover o desporto e hábitos de vida saudáveis. O evento é 
+ uma organização daJunta de Freguesia de Redondo e do Trail do Texugo\nhtt
+ ps://www.portugalrunning.com/eventos/i-corrida-vila-de-redondo-2023/
+URL:https://www.portugalrunning.com/eventos/i-corrida-vila-de-redondo-2023/
+END:VEVENT
+END:VCALENDAR

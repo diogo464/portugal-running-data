@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c64f40cc
+DTSTAMP:20250720T222332Z
+DTSTART:20230815
+DTEND:20230816
+LOCATION:Avis\,  Portalegre Avis\,  Portalegre
+SUMMARY:Corrida Mestre de Avis 2023
+DESCRIPTION:Integrado nas Festas da Batalha\,  organizadas pelo Municípi
+ o da Batalha\,  realiza se no dia 15 de agosto de 2023 na Batalha\,  mais
+  uma edição da Prova de Atletismo “Mestre de Avis”\,  a XIV Prova d
+ e Atletismo “Batalha Jovem” e uma caminhada. A prova realiza-se no di
+ a 15 de agosto de 2023\,  às 10h30\,  com uma distância de 7300[..]\nhttp
+ s://www.portugalrunning.com/eventos/corrida-mestre-de-avis-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-mestre-de-avis-2023/
+END:VEVENT
+END:VCALENDAR

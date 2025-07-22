@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c33190ba
+DTSTAMP:20250720T222243Z
+DTSTART:20250406
+DTEND:20250407
+LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+SUMMARY:Corrida 4 Estações Primavera Condeixa 2025
+DESCRIPTION:A Associação Desportiva 4 Estações com o apoio da Camara Mu
+ nicipal de Condeixa\,  vai realizar no dia 6 de Abril de 2025 pelas 10:30h 
+ em Condeixa\,  uma corrida de atletismo de estrada com a distância de 10km
+ \,  designada por Corrida das 4 Estações Primavera Condeixa. Esta prova f
+ az parte do[..]\nhttps://www.portugalrunning.com/eventos/corrida-4-estacoes
+ -primavera-condeixa-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-primavera-condeixa-2025/
+END:VEVENT
+END:VCALENDAR

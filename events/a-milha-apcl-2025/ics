@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1900b24
+DTSTAMP:20250720T222217Z
+DTSTART:20250112T185600Z
+DTEND:20250112T235900Z
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:A Milha APCL 2025
+DESCRIPTION:A APCL (Associação de Paralisia Cerebral de Lisboa) CJAP (Cen
+ tro José Azeredo de Perdigão)\,  Odivelas\,  em parceria com a Câmara Mu
+ nicipal de Odivelas\,  organiza uma prova de atletismo denominada “1ª Co
+ rrida Solidária: A Milha APCL"\,  no dia 12 de janeiro de 2025 entre as 9h
+ 30 e as 12h30\,  integrada no[..]\nhttps://www.portugalrunning.com/eventos/
+ a-milha-apcl-2025/
+URL:https://www.portugalrunning.com/eventos/a-milha-apcl-2025/
+END:VEVENT
+END:VCALENDAR

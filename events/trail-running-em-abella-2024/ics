@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8761331
+DTSTAMP:20250720T222823Z
+DTSTART:20241027T203800Z
+DTEND:20241027T203800Z
+LOCATION:Abela\,  Setúbal Abela\,  Setúbal
+SUMMARY:Trail Running Em A'Bella 2024
+DESCRIPTION:O IVº Trail em Abela é um evento organizado pelo Sporting Fut
+ ebol Clube Abelense e tem como principal propósito percorrer trilhos e cam
+ inhos do concelho de Santiago do Cacém. Trail curto com +/- 14km; Trail lo
+ ngo com +/- 21km; Caminhada com 10km.\nhttps://www.portugalrunning.com/even
+ tos/trail-running-em-abella-2024/
+URL:https://www.portugalrunning.com/eventos/trail-running-em-abella-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1cdce8c
+DTSTAMP:20250720T222220Z
+DTSTART:20231001
+DTEND:20231002
+LOCATION:Aldeia Grande\,  Setúbal Aldeia Grande\,  Setúbal
+SUMMARY:Às Voltas Na Aldeia 2023
+DESCRIPTION:ÀS VOLTAS NA ALDEIA é uma organização conjunta da Associaç
+ ão de Moradores da Aldeia Grande e Associação de Atletismo Lebres do Sad
+ o. A prova consiste em dar o máximo de voltas possível\,  durante 6 horas
+ \,  no sentido do ponteiro dos relógios\,  a um circuito com uma extensão
+  de 3380 m[..]\nhttps://www.portugalrunning.com/eventos/as-voltas-na-aldeia
+ -2023/
+URL:https://www.portugalrunning.com/eventos/as-voltas-na-aldeia-2023/
+END:VEVENT
+END:VCALENDAR

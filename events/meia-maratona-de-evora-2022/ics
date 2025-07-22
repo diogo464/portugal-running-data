@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd0c360f
+DTSTAMP:20250720T222520Z
+DTSTART:20221127
+DTEND:20221128
+LOCATION:Évora Évora
+SUMMARY:Meia maratona de Évora 2022
+DESCRIPTION:A Meia maratona de Évora é um evento organizado pela Câmara 
+ Municipal de Évora e realiza-se a 27 de novembro de 2022.\nhttps://www.por
+ tugalrunning.com/eventos/meia-maratona-de-evora-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-evora-2022/
+END:VEVENT
+END:VCALENDAR

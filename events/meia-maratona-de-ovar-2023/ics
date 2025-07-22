@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd148b70
+DTSTAMP:20250720T222521Z
+DTSTART:20231008
+DTEND:20231009
+LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+SUMMARY:Meia Maratona Ovar 2023
+DESCRIPTION:O AFIS/OVAR- Atletas Fim de Semana organizará pela 33ª vez a 
+ Meia Maratona Ovar\,  uma das míticas do calendário português no dia 8 d
+ e outubro de 2023\,  pelas 10 horas\,  em Ovar. PROVAS / DISTÂNCIAS:- 33ª
+  MEIA MARATONA “Cidade de Ovar”- 21ª CAMINHADA “Cidade de Ovar” �
+ � sem carácter competitivo;-[..]\nhttps://www.portugalrunning.com/eventos/
+ meia-maratona-de-ovar-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-ovar-2023/
+END:VEVENT
+END:VCALENDAR

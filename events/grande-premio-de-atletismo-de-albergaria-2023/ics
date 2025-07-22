@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b7abd7
+DTSTAMP:20250720T222427Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Albergaria-a-Velha\,  Aveiro Albergaria-a-Velha\,  Aveiro
+SUMMARY:Grande Prémio de Atletismo de Albergaria 2023
+DESCRIPTION:O Clube Desportivo de Campinho irá novamente organizar o Grand
+ e Prémio de Atletismo\,  que seguirá este ano para a sua 39ª edição\, 
+  sendo uma das mais clássicas e respeitadas provas de estrada aveirense.\n
+ https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-alber
+ garia-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-albergaria-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca719736
+DTSTAMP:20250720T222439Z
+DTSTART:20230415
+DTEND:20230416
+LOCATION:Coimbra Coimbra
+SUMMARY:II Corrida Solidária NEM/AAC
+DESCRIPTION:A Corrida Solidária é um evento desportivo organizado pelo N�
+ �cleo de Estudantes de Medicina da Associação Académica de Coimbra\,  co
+ m o apoio da Câmara Municipal de Coimbra\,  da Associação Académica de 
+ Coimbra e da empresa Recorde Pessoal\,  responsável por parte da organiza�
+ �ão técnica do evento. PROVA\,  DISTÂNCIA\,  DATA\,  LOCAL Corrida[..]\n
+ https://www.portugalrunning.com/eventos/ii-corrida-solidaria-nem-aac/
+URL:https://www.portugalrunning.com/eventos/ii-corrida-solidaria-nem-aac/
+END:VEVENT
+END:VCALENDAR

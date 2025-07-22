@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daec771d
+DTSTAMP:20250720T222902Z
+DTSTART:20200419
+DTEND:20200420
+LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+SUMMARY:Trilhos Várzea de Loures 2020
+DESCRIPTION:Esta prova percorre os trilhos e caminhos da cidade de Loures. 
+ Com partida e chegada no Parque Adão Barata poderás contar com um esplên
+ dido espaço verde com vários restaurantes\,  parque de merendas e ainda v
+ isitar a Galeria Municipal Vieira da Silva e o Palácio dos Marqueses da Pr
+ aia e Monforte.[..]\nhttps://www.portugalrunning.com/eventos/trilhos-varzea
+ -de-loures-2020/
+URL:https://www.portugalrunning.com/eventos/trilhos-varzea-de-loures-2020/
+END:VEVENT
+END:VCALENDAR

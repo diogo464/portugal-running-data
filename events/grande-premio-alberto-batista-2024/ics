@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9692cab
+DTSTAMP:20250720T222422Z
+DTSTART:20241012
+DTEND:20241013
+LOCATION:São João da Madeira\,  Aveiro São João da Madeira\,  Aveiro
+SUMMARY:Grande Prémio Alberto Batista 2024
+DESCRIPTION:É em homenagem ao ex-atleta e treinador dos Serviços Sociais 
+ de Trabalhadores do Município de São João da Madeira \,  Alberto Batista
+ \,  que o Grande Prémio Internacional de Atletismo se realiza. Um dos even
+ tos de referência de São João da Madeira aberto à participação de tod
+ os.\nhttps://www.portugalrunning.com/eventos/grande-premio-alberto-batista-
+ 2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-alberto-batista-2024/
+END:VEVENT
+END:VCALENDAR

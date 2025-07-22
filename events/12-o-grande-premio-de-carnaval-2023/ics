@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf418c83
+DTSTAMP:20250720T222140Z
+DTSTART:20230219
+DTEND:20230220
+LOCATION:Loulé\,  Faro Loulé\,  Faro
+SUMMARY:12.º Grande Prémio De Carnaval 2023
+DESCRIPTION:A Câmara Municipal de Loulé e a Associação de Atletismo do 
+ Algarve\,  vão realizar em Loulé\,  o 12º Grande Prémio de Carnaval\,  
+ no dia 19 de Fevereiro de 2023\nhttps://www.portugalrunning.com/eventos/12-
+ o-grande-premio-de-carnaval-2023/
+URL:https://www.portugalrunning.com/eventos/12-o-grande-premio-de-carnaval-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3fc3438
+DTSTAMP:20250720T222711Z
+DTSTART:20230108
+DTEND:20230109
+LOCATION:Seia\,  Guarda Seia\,  Guarda
+SUMMARY:Trail Cabeça Aldeia Natal 2023
+DESCRIPTION:O Trail Aldeia Natal é um evento desportivo\,  organizado pelo
+  Conselho Diretivo dos Baldios de Cabeça e pelo Município de Seia que vis
+ a incentivar a população local para a prática de atividades físicas e d
+ esportivas\,  assim como promover o turismo ativo no concelho de Seia dando
+  a conhecer o património[..]\nhttps://www.portugalrunning.com/eventos/trai
+ l-cabeca-aldeia-natal-2023/
+URL:https://www.portugalrunning.com/eventos/trail-cabeca-aldeia-natal-2023/
+END:VEVENT
+END:VCALENDAR

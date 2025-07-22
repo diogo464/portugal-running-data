@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1d19e4c
+DTSTAMP:20250720T222221Z
+DTSTART:20240921
+DTEND:20240922
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Argon Trail 2024
+DESCRIPTION:Esta é uma prova que faz parte do calendário do município de
+  Santa Maria da Feira\,  com partida e chegada na sede da Casa da Gaia e in
+ cluirá um percurso de corrida “Trail Médio”\,  com aproximadamente 14
+ km e uma caminhada com aproximadamente 6km.\nhttps://www.portugalrunning.co
+ m/eventos/argon-trail-2024/
+URL:https://www.portugalrunning.com/eventos/argon-trail-2024/
+END:VEVENT
+END:VCALENDAR

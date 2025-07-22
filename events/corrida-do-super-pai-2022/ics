@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5baa498
+DTSTAMP:20250720T222323Z
+DTSTART:20220319
+DTEND:20220320
+LOCATION:Portugal Portugal
+SUMMARY:Corrida do Super Pai 2022
+DESCRIPTION:Corrida do Super Pai 2022 Após finalizar a inscrição no site
+ \,  receberá um email de confirmação.O Dorsal e restantes dados de parti
+ cipação serão enviados próximo da data da realização do evento. No fi
+ nal do seu percurso deverá enviar comprovativo - foto/screenshot de aplica
+ ção (telemóvel\,  smartwatch\,  ...) onde tenha indicado a[..]\nhttps://
+ www.portugalrunning.com/eventos/corrida-do-super-pai-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-do-super-pai-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d26c2e20
+DTSTAMP:20250720T222646Z
+DTSTART:20240420
+DTEND:20240421
+LOCATION:Santarém Santarém
+SUMMARY:Scalabis Night Race 2024
+DESCRIPTION:.\nhttps://www.portugalrunning.com/eventos/scalabis-night-race-
+ 2024/
+URL:https://www.portugalrunning.com/eventos/scalabis-night-race-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3de3ba
+DTSTAMP:20250720T222507Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Nova Iorque. Estados Unidos da América Nova Iorque. Estados Unidos da América
+SUMMARY:Maratona de Nova Iorque 2024
+DESCRIPTION:A maratona de Nova Iorque acontece a 3de Novembro e destaca-se 
+ pelo seu ambiente festivo\,  ruas repletas de animação\,  bandas músicai
+ s\,  milhares de corredores\,  espectadores e máxima emoção. Uma jornada
+  de 42\, 195 quilómetros que já completou 50 anos e que passa por 5 bairr
+ os da cidade de Nova York: Staten[..]\nhttps://www.portugalrunning.com/even
+ tos/maratona-de-nova-iorque-2024/
+URL:https://www.portugalrunning.com/eventos/maratona-de-nova-iorque-2024/
+END:VEVENT
+END:VCALENDAR

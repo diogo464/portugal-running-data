@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d26187a5
+DTSTAMP:20250720T222646Z
+DTSTART:20221217
+DTEND:20221218
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:9 Corrida São Silvestre Viana do Castelo 2022
+DESCRIPTION:São Silvestre Viana do Castelo 2022\,  prova de 10 km\,  em Vi
+ ana do Castelo Corrida (10km)Caminhada (5Km)\nhttps://www.portugalrunning.c
+ om/eventos/sao-silvestre-viana-do-castelo-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-viana-do-castelo-2022/
+END:VEVENT
+END:VCALENDAR

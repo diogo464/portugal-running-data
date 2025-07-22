@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17dcaec
+DTSTAMP:20250720T222631Z
+DTSTART:20211218
+DTEND:20211219
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:São Silvestre de Torres Novas 2021
+DESCRIPTION:A Corrida de São Silvestre de Torres Novas 2021 é uma prova c
+ om bastante tradição em Torres Novas. Realiza-se no ultimo sábado do ano
+  e traz à cidade várias centenas de participantes oriundos de todo o paí
+ s. Esta prova é organizada pelo Município de Torres Novas com a colabora�
+ �ão técnica[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de
+ -torres-novas-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-torres-novas-2021/
+END:VEVENT
+END:VCALENDAR

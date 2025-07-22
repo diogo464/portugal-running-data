@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf4011d8
+DTSTAMP:20250720T222140Z
+DTSTART:20230909
+DTEND:20230910
+LOCATION:Castro Marim\,  Faro Castro Marim\,  Faro
+SUMMARY:14ª Meia Maratona do Concelho de Castro Marim 2023
+DESCRIPTION:O CLUBE RECREATIVO ALTURENSE vai levar a efeito no dia 9 de ste
+ mebro de 2023 pelas 20H00 horas\,  a 14ª Meia Maratona do Concelho de Cast
+ ro Marim.\nhttps://www.portugalrunning.com/eventos/14a-meia-maratona-do-con
+ celho-de-castro-marim-2023/
+URL:https://www.portugalrunning.com/eventos/14a-meia-maratona-do-concelho-de-castro-marim-2023/
+END:VEVENT
+END:VCALENDAR

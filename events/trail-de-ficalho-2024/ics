@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5461770
+DTSTAMP:20250720T222732Z
+DTSTART:20241103
+DTEND:20241104
+LOCATION:Vila Verde de Ficalho\,  Serpa Vila Verde de Ficalho\,  Serpa
+SUMMARY:Trail de Ficalho 2024
+DESCRIPTION:A IV edição do Trail de Ficalho integra as seguintes distânc
+ ias:a) - Trail Ultra - 50 Kmb) - Trail - 32 Kmc) – Trail Sprint – 17 Km
+ c) - Caminhada/Minitrail 10 km\,  sem vertente competitiva.\nhttps://www.po
+ rtugalrunning.com/eventos/trail-de-ficalho-2024/
+URL:https://www.portugalrunning.com/eventos/trail-de-ficalho-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b18f24
+DTSTAMP:20250720T222427Z
+DTSTART:20200202
+DTEND:20200203
+LOCATION:Ílhavo\,  Aveiro Ílhavo\,  Aveiro
+SUMMARY:Grande Prémio de Atletismo ACD Os Ilhavos
+DESCRIPTION:A Associação Cultural e Desportiva "Os Ílhavos" organiza uma
+  das mais clássicas provas de estrada da região de Aveiro. Este ano a pro
+ va conta para o Campeonato Distrital de Estrada da Associação de Atletism
+ o de Aveiro.\nhttps://www.portugalrunning.com/eventos/grande-premio-de-atle
+ tismo-acd-os-ilhavos/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-acd-os-ilhavos/
+END:VEVENT
+END:VCALENDAR

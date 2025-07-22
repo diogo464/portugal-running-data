@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7900ff4
+DTSTAMP:20250720T222353Z
+DTSTART:20230930
+DTEND:20231001
+LOCATION:Viseu Viseu
+SUMMARY:Coutos Natura Challenge 2023
+DESCRIPTION:A Prova tem data de realização agendada para o dia 30 de Sete
+ mbro de 2023. O Coutos Natura Challenge (CNC) é um evento de Trail Running
+  e Skyrunning que concilia a prática desportiva de corrida em ambiente nat
+ ural\,  com a beleza da zona Florestal na região de Dade\,  Coutos de[..]\
+ nhttps://www.portugalrunning.com/eventos/coutos-natura-challenge-2023/
+URL:https://www.portugalrunning.com/eventos/coutos-natura-challenge-2023/
+END:VEVENT
+END:VCALENDAR

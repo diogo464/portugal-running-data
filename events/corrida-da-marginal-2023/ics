@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f00774
+DTSTAMP:20250720T222255Z
+DTSTART:20230305
+DTEND:20230306
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida da Marginal 2023
+DESCRIPTION:Realiza-se no dia 5 de março de 2023 pelas 10h\,  a prova faz 
+ o retorno na Av. Brasil em Vila do Conde e começa e acaba na Av. Dos Banho
+ s na Póvoa de Varzim\,  junto ao Desportivo da Póvoa\,  o tempo máximo d
+ e duração desta prova é de 2 horas.[..]\nhttps://www.portugalrunning.com
+ /eventos/corrida-da-marginal-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-marginal-2023/
+END:VEVENT
+END:VCALENDAR

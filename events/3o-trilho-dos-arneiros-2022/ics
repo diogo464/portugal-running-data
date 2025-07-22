@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c04dcbc2
+DTSTAMP:20250720T222156Z
+DTSTART:20221029
+DTEND:20221030
+LOCATION:Vila Nova da Rainha\,  Azambuja Vila Nova da Rainha\,  Azambuja
+SUMMARY:3º Trilho dos Arneiros 2022
+DESCRIPTION:O 3º Trilho dos Arneiros 2022 é um evento de TrailRunning que
+  decorre na Freguesia de Vila Nova da Rainha\,  concelho de Azambuja e que 
+ percorre trilhos e caminhos florestais. A União Desporto e Recreio é a en
+ tidade organizadora da terceira edição do evento Trilho dos Arneiros que 
+ decorrerá no[..]\nhttps://www.portugalrunning.com/eventos/3o-trilho-dos-ar
+ neiros-2022/
+URL:https://www.portugalrunning.com/eventos/3o-trilho-dos-arneiros-2022/
+END:VEVENT
+END:VCALENDAR

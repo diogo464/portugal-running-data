@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c02c3c96
+DTSTAMP:20250720T222154Z
+DTSTART:20200216
+DTEND:20200217
+LOCATION:Alto do Moinho | Seixal / Setúbal Alto do Moinho | Seixal  / Setúbal
+SUMMARY:34º GP Carnaval Alto Moinho 2020
+DESCRIPTION:O Centro Cultural e Recreativo do Alto do Moinho\,  com a colab
+ oração da Câmara Municipal do Seixal e da Junta de Freguesia de Corroios
+ \,  organiza no próximo dia 16 de fevereiro de 2020\,  pelas 09h e 30m\,  
+ o 34o. Grande Prémio de Carnaval\,  integrado no 33o. Troféu do Seixal.\n
+ https://www.portugalrunning.com/eventos/34o-gp-carnaval-alto-moinho-2020/
+URL:https://www.portugalrunning.com/eventos/34o-gp-carnaval-alto-moinho-2020/
+END:VEVENT
+END:VCALENDAR

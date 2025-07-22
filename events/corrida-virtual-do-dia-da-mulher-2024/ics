@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c744bef0
+DTSTAMP:20250720T222348Z
+DTSTART:20240307
+DTEND:20240308
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Virtual do Dia da Mulher 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-virtual-do-di
+ a-da-mulher-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-virtual-do-dia-da-mulher-2024/
+END:VEVENT
+END:VCALENDAR

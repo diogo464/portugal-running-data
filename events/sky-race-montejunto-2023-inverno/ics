@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2f92066
+DTSTAMP:20250720T222655Z
+DTSTART:20231209
+DTEND:20231210
+LOCATION:Montejunto\,  Cadaval Montejunto\,  Cadaval
+SUMMARY:Sky Race Montejunto 2023 - Inverno
+DESCRIPTION: \nhttps://www.portugalrunning.com/eventos/sky-race-montejunto
+ -2023-inverno/
+URL:https://www.portugalrunning.com/eventos/sky-race-montejunto-2023-inverno/
+END:VEVENT
+END:VCALENDAR

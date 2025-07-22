@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2e7a057
+DTSTAMP:20250720T222238Z
+DTSTART:20251114
+DTEND:20251115
+LOCATION:Videmonte\,  Guarda Videmonte\,  Guarda
+SUMMARY:Challenge Passadiços do Mondego 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/challenge-passadicos-
+ do-mondego-2025/
+URL:https://www.portugalrunning.com/eventos/challenge-passadicos-do-mondego-2025/
+END:VEVENT
+END:VCALENDAR

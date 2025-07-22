@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c87328e6
+DTSTAMP:20250720T222407Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Peso da Régua\,  Vila Real Peso da Régua\,  Vila Real
+SUMMARY:Meia Maratona Douro Vinhateiro 2025
+DESCRIPTION:A Meia Maratona Douro Vinhateiro realiza-se a 25 de Maio de 202
+ 5 pelas 9h00. Serão três as corridas: - Meia Maratona\,  21\, 097 km - Mi
+ ni Maratona Cronometrada\,  5km - Caminhada\,  5 km\nhttps://www.portugalru
+ nning.com/eventos/meia-maratona-douro-vinhateiro-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-douro-vinhateiro-2025/
+END:VEVENT
+END:VCALENDAR

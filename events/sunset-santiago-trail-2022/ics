@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3418e5e
+DTSTAMP:20250720T222700Z
+DTSTART:20220723
+DTEND:20220724
+LOCATION:Arruda dos Vinhos\,  Lisboa Arruda dos Vinhos\,  Lisboa
+SUMMARY:Sunset Santiago Trail 2022
+DESCRIPTION:Sunset Santiago Trail 2022\nhttps://www.portugalrunning.com/eve
+ ntos/sunset-santiago-trail-2022/
+URL:https://www.portugalrunning.com/eventos/sunset-santiago-trail-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4100e23
+DTSTAMP:20250720T222713Z
+DTSTART:20250427T060200Z
+DTEND:20250427T235900Z
+LOCATION:Bucelas\,  Loures Bucelas\,  Loures
+SUMMARY:Trail Capital do Arinto 2025
+DESCRIPTION:O Trail Capital do Arinto é um evento desportivo de caráter l
+ údico e competitivo que tem por objetivo divulgar e promover não só a pr
+ ática desportiva\,  em especial na modalidade de trail running\,  mas tamb
+ ém as localidades onde decorre o evento. É um evento organizado pela Asso
+ ciação Desportiva Trilhos do[..]\nhttps://www.portugalrunning.com/eventos
+ /trail-capital-do-arinto-2025/
+URL:https://www.portugalrunning.com/eventos/trail-capital-do-arinto-2025/
+END:VEVENT
+END:VCALENDAR

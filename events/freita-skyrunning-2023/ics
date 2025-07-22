@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c90306d1
+DTSTAMP:20250720T222416Z
+DTSTART:20230715
+DTEND:20230716
+LOCATION:Vale de Cambra\,  Aveiro Vale de Cambra\,  Aveiro
+SUMMARY:Freita Skyrunning 2023
+DESCRIPTION:FREITA SKYRUNNING 2023 é uma organização da Associação Des
+ portiva e Cultural de Felgueira\,  em parceria com a Câmara Municipal de V
+ ale de Cambra e em cooperação com várias instituições públicas e priv
+ adas. Este regulamento aplica-se a todas as provas incluídas no evento\,  
+ nomeadamente Freita SkyMarathon®\,  doravante designada por FSM\,  Freita[
+ ..]\nhttps://www.portugalrunning.com/eventos/freita-skyrunning-2023/
+URL:https://www.portugalrunning.com/eventos/freita-skyrunning-2023/
+END:VEVENT
+END:VCALENDAR

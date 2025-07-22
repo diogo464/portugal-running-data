@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9e933a4
+DTSTAMP:20250720T222846Z
+DTSTART:20230114
+DTEND:20230115
+LOCATION:Portalegre Portalegre
+SUMMARY:Trilho dos Reis 2023
+DESCRIPTION:Os Trilhos dos Reis serão realizados nos dias 14 e 15 de Janei
+ ro de 2023 e é um evento organizado pela DAP – Associação de Desporto 
+ e Aventura de Portalegre\,  com o apoio do Município de Portalegre\,  Turi
+ smo do Alentejo\,  E.R.T.\,  Uniões de Freguesias de Sé e São Lourenço\
+ ,  Ribeira[..]\nhttps://www.portugalrunning.com/eventos/trilho-dos-reis-202
+ 3/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-reis-2023/
+END:VEVENT
+END:VCALENDAR

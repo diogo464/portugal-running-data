@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2600452
+DTSTAMP:20250720T222230Z
+DTSTART:20221002
+DTEND:20221003
+LOCATION:Boticas\,  Vila Real Boticas\,  Vila Real
+SUMMARY:Boticas Trail Caminhos do Galaico 2022
+DESCRIPTION:O 4º Boticas Trail Caminhos do Galaico é uma prova de trail r
+ unning inovadora que pretende integrar toda a família num ambiente de natu
+ reza e biodiversidade com ideais de sustentabilidade e preservação ambien
+ tal. Esta prova decorre no Boticas Parque Natureza e Biodiversidade e além
+  das provas de 14k\,  19k e[..]\nhttps://www.portugalrunning.com/eventos/bo
+ ticas-trail-2022/
+URL:https://www.portugalrunning.com/eventos/boticas-trail-2022/
+END:VEVENT
+END:VCALENDAR

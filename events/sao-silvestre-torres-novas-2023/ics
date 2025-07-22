@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2548cf5
+DTSTAMP:20250720T222645Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:São Silvestre Torres Novas 2023
+DESCRIPTION:A São Silvestre Torres Novas\,  a prova jovem\,  e a Caminhada
+  de São Silvestre \,  promovidas pelo Município de Torres Novas\,  estão
+  marcadas para dia 16 de dezembro.\nhttps://www.portugalrunning.com/eventos
+ /sao-silvestre-torres-novas-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-torres-novas-2023/
+END:VEVENT
+END:VCALENDAR

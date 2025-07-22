@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d771b317
+DTSTAMP:20250720T222807Z
+DTSTART:20240505
+DTEND:20240506
+LOCATION:Avis\,  Portalegre Avis\,  Portalegre
+SUMMARY:Trail Mestre de Avis 2024
+DESCRIPTION:O Trail Mestre de Avis é uma prova de Trail Running\,  realiza
+ da por trilhos sinalizados\,  em piso acidentado\,  estradões e obstáculo
+ s naturais em contato com a Natureza\,  com a partida e chegada em Figueira
+  e Barros. Este evento inclui Trail Curto (competitivo)\,  Mini Trail (comp
+ etitivo) e caminhada\,  sendo que existirátempo[..]\nhttps://www.portugalr
+ unning.com/eventos/trail-mestre-de-avis-2024/
+URL:https://www.portugalrunning.com/eventos/trail-mestre-de-avis-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c87313cc
+DTSTAMP:20250720T222407Z
+DTSTART:20230708
+DTEND:20230709
+LOCATION:Esposende\,  Braga Esposende\,  Braga
+SUMMARY:Esposende Marginal à Noite 2023
+DESCRIPTION:A foz do rio Cávado vai ser novamente pano de fundo de um even
+ to que iluminará as ruas da cidade de Esposende. A Marginal à Noite de Es
+ posende ressurge após seis anos e volta a realizar-se dia 8 de julho de 20
+ 23\,  com partida marcada para as 21h30 junto às[..]\nhttps://www.portugal
+ running.com/eventos/esposende-marginal-a-noite-2023/
+URL:https://www.portugalrunning.com/eventos/esposende-marginal-a-noite-2023/
+END:VEVENT
+END:VCALENDAR

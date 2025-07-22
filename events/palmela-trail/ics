@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf74a22e
+DTSTAMP:20250720T222559Z
+DTSTART:20200216
+DTEND:20200217
+LOCATION:Palmela Palmela
+SUMMARY:Palmela Trail 2020
+DESCRIPTION:A Werun com o apoio da Câmara Municipal de Palmela irá realiz
+ ar o II Palmela Trail no dia 16/02/2020. Esta é uma prova de TrailRunning\
+ ,  corrida pedestre em Natureza\,  com três provas\,  Trail Longo (TL) K20
+ +\,  Trail Curto (TC) K9+ e Caminhada. A Partida será no Terminal Rodoviá
+ rio de Palmela[..]\nhttps://www.portugalrunning.com/eventos/palmela-trail/
+URL:https://www.portugalrunning.com/eventos/palmela-trail/
+END:VEVENT
+END:VCALENDAR

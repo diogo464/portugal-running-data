@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5b7b07b
+DTSTAMP:20250720T222323Z
+DTSTART:20250104T140500Z
+DTEND:20250104T235900Z
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:Corrida dos Reis 2025 - Figueira da Foz
+DESCRIPTION:Numa organização da Junta de Freguesia Buarcos São Julião c
+ om o apoio da Câmara Municipal da Figueira da Foz\,  Associação Desporti
+ va 4 Estações e com o patrocínio do Casino Figueira da Foz\,  vai realiz
+ ar no dia 4 de janeiro de 2025 pelas 17h53 na Cidade da Figueira da Foz uma
+ [..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-reis-2025-figueir
+ a-da-foz/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-2025-figueira-da-foz/
+END:VEVENT
+END:VCALENDAR

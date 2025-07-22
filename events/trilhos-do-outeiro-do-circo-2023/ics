@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da731cbe
+DTSTAMP:20250720T222855Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Mombeja\,  Beja Mombeja\,  Beja
+SUMMARY:2º Trail "Trilhos Do Outeiro do Circo" 2023
+DESCRIPTION:O evento desportivo\,  2º Trail “Trilhos do Outeiro do Circo
+ ” é promovido e organizado pelo Grupo Desportivo e Cultural Mombeja.\nht
+ tps://www.portugalrunning.com/eventos/trilhos-do-outeiro-do-circo-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-outeiro-do-circo-2023/
+END:VEVENT
+END:VCALENDAR

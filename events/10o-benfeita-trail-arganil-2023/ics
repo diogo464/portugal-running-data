@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf3ab8c2
+DTSTAMP:20250720T222139Z
+DTSTART:20230813
+DTEND:20230814
+LOCATION:Benfeita\,  Arganil Benfeita\,  Arganil
+SUMMARY:Benfeita Trail 2023
+DESCRIPTION:O&nbsp;10º Benfeita Trail&nbsp;será realizado no dia&nbsp;13 
+ de Agosto de 2023\,  na Aldeia de Xisto da Benfeita - Arganil. Este evento 
+ de Trail em estado puro será composto por um Trail Curto\,  prova que faz 
+ parte do Circuito Distrital de Trail Curto – ADAC\,  do Circuito Nacional
+  de Trail Sprint e[..]\nhttps://www.portugalrunning.com/eventos/10o-benfeit
+ a-trail-arganil-2023/
+URL:https://www.portugalrunning.com/eventos/10o-benfeita-trail-arganil-2023/
+END:VEVENT
+END:VCALENDAR

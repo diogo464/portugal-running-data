@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc3ab431
+DTSTAMP:20250720T222507Z
+DTSTART:20211107
+DTEND:20211108
+LOCATION:Porto Porto
+SUMMARY:Maratona do Porto 2021
+DESCRIPTION:Resultados A EDP Maratona do Porto 2021 tem data marcada para o
+  dia 7 de novembro 2021\,  será o regresso à estrada da prova que no ano 
+ 2020 decorreu em edição virtual face à situação vivida. Respondendo à
+  solicitação de muitos corredores habituais que pretem realizar a prova m
+ ítica da[..]\nhttps://www.portugalrunning.com/eventos/maratona-do-porto-20
+ 21/
+URL:https://www.portugalrunning.com/eventos/maratona-do-porto-2021/
+END:VEVENT
+END:VCALENDAR

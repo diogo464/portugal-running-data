@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d96c4381
+DTSTAMP:20250720T222838Z
+DTSTART:20240907
+DTEND:20240908
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:Trail Vicentino Noturno 2024
+DESCRIPTION:A III edição do Trail Vicentino Noturno by Oliveira Pneus é 
+ um evento de Trail Running\,  com carácter competitivo e lúdico\,  que pe
+ rcorre trilhos e caminhos do concelho de Ponta Delgada e Ribeira Grande\,  
+ designadamente\,  nas freguesias de São Vicente Ferreira\,  Fenais da Luz\
+ ,  Calhetas e Pico da Pedra. Dele[..]\nhttps://www.portugalrunning.com/even
+ tos/trail-vicentino-noturno-2024/
+URL:https://www.portugalrunning.com/eventos/trail-vicentino-noturno-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50c4143
+DTSTAMP:20250720T222728Z
+DTSTART:20260220
+DTEND:20260221
+LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+SUMMARY:Trail de Conímbriga Terras de Sicó 2026
+DESCRIPTION:Trail de Conímbriga Terras de Sicó 2026\nhttps://www.portugal
+ running.com/eventos/trail-de-conimbriga-terras-de-sico-2026/
+URL:https://www.portugalrunning.com/eventos/trail-de-conimbriga-terras-de-sico-2026/
+END:VEVENT
+END:VCALENDAR

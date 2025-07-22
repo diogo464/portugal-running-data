@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4430cf1
+DTSTAMP:20250720T222300Z
+DTSTART:20200627
+DTEND:20200628
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:Corrida das Fogueiras 2020
+DESCRIPTION:A corrida das fogueiras teve a sua primeira edição em 1980\, 
+  integrada nos Jogos juvenis de Peniche. Nesta prova participaram cerca de 
+ 80 atletas\,  na sua maior parte de Peniche. Cedo se verificou que esta pro
+ va reunia condições para se tornar numa clássica das corridas de estrada
+ \,  dada a simbiose[..]\nhttps://www.portugalrunning.com/eventos/corrida-da
+ s-fogueiras-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-das-fogueiras-2020/
+END:VEVENT
+END:VCALENDAR

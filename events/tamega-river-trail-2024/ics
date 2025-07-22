@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d33c33e7
+DTSTAMP:20250720T222659Z
+DTSTART:20240204
+DTEND:20240205
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Tâmega River Trail 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/tamega-river-trail-20
+ 24/
+URL:https://www.portugalrunning.com/eventos/tamega-river-trail-2024/
+END:VEVENT
+END:VCALENDAR

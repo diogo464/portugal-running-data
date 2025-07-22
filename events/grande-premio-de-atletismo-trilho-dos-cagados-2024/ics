@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9edc89f
+DTSTAMP:20250720T222430Z
+DTSTART:20240601
+DTEND:20240602
+LOCATION:Cartaxo\,  Santarém Cartaxo\,  Santarém
+SUMMARY:Grande Prémio de Atletismo - Trilho dos Cágados 2024
+DESCRIPTION:O 2º Grande Prémio de Atletismo é composto por uma prova de 
+ estrada de 10 KM\,  uma caminhada de 5 KM e uma prova Kid’s. A prova de e
+ strada 10 KM Trilho dos Cágados VCO é constituído por duas voltas de 5 K
+ M’s no perímetro urbano da vila. A caminhada[..]\nhttps://www.portugalru
+ nning.com/eventos/grande-premio-de-atletismo-trilho-dos-cagados-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-trilho-dos-cagados-2024/
+END:VEVENT
+END:VCALENDAR

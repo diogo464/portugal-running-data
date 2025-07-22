@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8ac2fd9
+DTSTAMP:20250720T222826Z
+DTSTART:20240512
+DTEND:20240513
+LOCATION:Santarém Santarém
+SUMMARY:Santarém Trail 2024
+DESCRIPTION:A organização do Santarém Trail cabe à associação pace.ma
+ kers running club. O Santarém Trail é um evento lúdico e desportivo. O p
+ rincipal objetivo é a conjugação do espírito de aventura na natureza e 
+ o desporto; Realizar-se-á no dia 12 de maio de 2024 e será constituído p
+ or três provas: Trail\, [..]\nhttps://www.portugalrunning.com/eventos/trai
+ l-santarem-2024/
+URL:https://www.portugalrunning.com/eventos/trail-santarem-2024/
+END:VEVENT
+END:VCALENDAR

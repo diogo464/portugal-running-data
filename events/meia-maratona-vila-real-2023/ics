@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce2323bb
+DTSTAMP:20250720T222538Z
+DTSTART:20230910
+DTEND:20230911
+LOCATION:Vila Real Vila Real
+SUMMARY:Meia Maratona Vila Real 2023
+DESCRIPTION:A VI Meia Maratona Vila Real realiza-se no dia 10 de Setembro d
+ e 2023\,  pelas 10h00 horas com partida e chegada na Av. Carvalho Araújo\,
+   Vila Real eestá a cargo da Associação de Atletismo de Vila Real\, em c
+ oorganização com a Câmara Municipal de Vila Real\,  sendo promovida pela
+  EXCELLUS\,  Unipessoal[..]\nhttps://www.portugalrunning.com/eventos/meia-m
+ aratona-vila-real-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-vila-real-2023/
+END:VEVENT
+END:VCALENDAR

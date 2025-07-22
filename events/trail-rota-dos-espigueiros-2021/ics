@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d867a48c
+DTSTAMP:20250720T222822Z
+DTSTART:20210808
+DTEND:20210809
+LOCATION:Caparrosinha\,  Tondela Caparrosinha\,  Tondela
+SUMMARY:Trail Rota dos Espigueiros 2021
+DESCRIPTION:Com duas distâncias competitivas e uma caminhada\,  divididas 
+ nos domingos dia 08 e 15 de agosto. As inscrições abrem a 01 de junho e s
+ erão limitadas.\nhttps://www.portugalrunning.com/eventos/trail-rota-dos-es
+ pigueiros-2021/
+URL:https://www.portugalrunning.com/eventos/trail-rota-dos-espigueiros-2021/
+END:VEVENT
+END:VCALENDAR

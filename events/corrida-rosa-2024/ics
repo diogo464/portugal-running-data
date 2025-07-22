@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69c435f
+DTSTAMP:20250720T222337Z
+DTSTART:20250830
+DTEND:20250831
+LOCATION:Lourosa\,  Santa Maria da Feira Lourosa\,  Santa Maria da Feira
+SUMMARY:Corrida Rosa 2025
+DESCRIPTION:A Corrida Rosa\,  em Lourosa\,  é um evento desportivo exclusi
+ vamente Feminino. Venha andar ou correr 5km e passe um fim de tarde inesque
+ cível e saudável! Vamos encher a "Via Estruturante Lourosa/Lamas" de cor 
+ de rosa num percurso com muita animação à vossa espera!!!\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-rosa-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-rosa-2025/
+END:VEVENT
+END:VCALENDAR

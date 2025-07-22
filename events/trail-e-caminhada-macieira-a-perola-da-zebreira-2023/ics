@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6a6273f
+DTSTAMP:20250720T222754Z
+DTSTART:20230611
+DTEND:20230612
+LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+SUMMARY:Trail e Caminhada - MACIEIRA "A Pérola da Zebreira" 2023
+DESCRIPTION:O Trail e Caminhada “Pérola da Zebreira” são organizados 
+ pela União de Freguesias de Ferreirim e Macieira\,  Câmara Municipal de S
+ ernancelhe e Comissão de Festas de Macieira\,  no dia 11 de junho de 2023\
+ ,  na freguesia de Macieira. Este evento não tem cariz competitivo\,  e te
+ m como objetivo promover a[..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-e-caminhada-macieira-a-perola-da-zebreira-2023/
+URL:https://www.portugalrunning.com/eventos/trail-e-caminhada-macieira-a-perola-da-zebreira-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd5db3e1
+DTSTAMP:20250720T222525Z
+DTSTART:20240907
+DTEND:20240908
+LOCATION:Viseu Viseu
+SUMMARY:Meia Maratona Viseu 2024
+DESCRIPTION:Com partida na mais antiga Feira do país\,  a 41ª Meia Marato
+ na de Viseu vai encher a cidade de emoção\,  passo a passo. No dia 7 de s
+ etembro esperamos por ti. Resultados\nhttps://www.portugalrunning.com/event
+ os/meia-maratona-viseu-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-viseu-2024/
+END:VEVENT
+END:VCALENDAR

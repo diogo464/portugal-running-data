@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db3c2ef7
+DTSTAMP:20250720T222907Z
+DTSTART:20230505
+DTEND:20230506
+LOCATION:Portalegre Portalegre
+SUMMARY:Utsm - Ultra Trail De São Mamede 2023
+DESCRIPTION:O Ultra Trail da Serra de São Mamede é um evento de corrida p
+ or trilhos de ultra distância com 9 fantásticas edições disputadas. Em 
+ 2023 realiza-se nos dias 5\,  6 e 7 de maio nas distâncias aproximadas de 
+ 100 Km\,  50 Km\,  20 Km e 15 Km. Decorre nos concelhos[..]\nhttps://www.po
+ rtugalrunning.com/eventos/ultra-trail-de-sao-mamede-2023/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-de-sao-mamede-2023/
+END:VEVENT
+END:VCALENDAR

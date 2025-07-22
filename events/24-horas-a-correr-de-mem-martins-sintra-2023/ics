@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfbdbb71
+DTSTAMP:20250720T222147Z
+DTSTART:20230513
+DTEND:20230514
+LOCATION:Mem Martins\,  Sintra Mem Martins\,  Sintra
+SUMMARY:24H A Correr Mem Martins 2023
+DESCRIPTION:A 24 Horas a Correr de Mem Martins – Sintra\,  é uma de corr
+ ida de resistência\,  que se realizará em Mem Martins – Sintra\,  e que
+  será composta por uma corrida de longa duração. Para além da corrida d
+ e 24 horas tem outras opções\,  12\,  6 e 3 horas e[..]\nhttps://www.port
+ ugalrunning.com/eventos/24-horas-a-correr-de-mem-martins-sintra-2023/
+URL:https://www.portugalrunning.com/eventos/24-horas-a-correr-de-mem-martins-sintra-2023/
+END:VEVENT
+END:VCALENDAR

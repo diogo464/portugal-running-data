@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0017f35
+DTSTAMP:20250720T222152Z
+DTSTART:20240323
+DTEND:20240324
+LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+SUMMARY:2º Canicross "Rota da Castanha" 2024
+DESCRIPTION:Este evento é organizado pela Câmara Municipal de Sernancelhe
+ a prática desportiva na região\,  nomeadamente do mushing\,  trazendo ao 
+ concelho de Sernancelhe\,  atletas nacionais e estrangeiros para que se pos
+ sa divulgar\,  desenvolver e partilhar a experiência desta modalidade\nhtt
+ ps://www.portugalrunning.com/eventos/2o-canicross-rota-da-castanha-2024/
+URL:https://www.portugalrunning.com/eventos/2o-canicross-rota-da-castanha-2024/
+END:VEVENT
+END:VCALENDAR

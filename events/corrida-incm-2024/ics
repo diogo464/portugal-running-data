@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c60ad28c
+DTSTAMP:20250720T222328Z
+DTSTART:20240630
+DTEND:20240701
+LOCATION:Parque Ribeirinho do Oriente\,  Lisboa Parque Ribeirinho do Oriente\,  Lisboa
+SUMMARY:Corrida INCM 2024
+DESCRIPTION:A Imprensa Nacional – Casa da Moeda (INCM) irá realizar a �
+ �IV Corrida INCM”\,  no dia 30 de Junho no Parque Ribeirinho do Oriente
+  - Marvila\,  a partir das 09:00h\,  com a organização Técnica da Werun.
+  A “IV Corrida INCM” é um evento de natureza desportiva e tem como obj
+ etivo incentivar e[..]\nhttps://www.portugalrunning.com/eventos/corrida-inc
+ m-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-incm-2024/
+END:VEVENT
+END:VCALENDAR

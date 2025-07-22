@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8b92edb
+DTSTAMP:20250720T222827Z
+DTSTART:20240927
+DTEND:20240928
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Trail Serra D'Arga 2024
+DESCRIPTION:O Grande Trail da Serra d’Arga é organizado pela Carlos Sá 
+ Nature Events®. Conta ainda com a colaboração das Câmaras Municipais de
+  Caminha\,  Viana do Castelo e Vila Nova de Cerveira\,  das Juntas de Fregu
+ esias de Dem\,  São Lourenço da Montaria\,  Estorãos\,  Arga S. João\, 
+  Arga de Cima e Arga[..]\nhttps://www.portugalrunning.com/eventos/trail-ser
+ ra-darga-2024/
+URL:https://www.portugalrunning.com/eventos/trail-serra-darga-2024/
+END:VEVENT
+END:VCALENDAR

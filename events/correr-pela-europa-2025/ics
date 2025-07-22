@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c331a6a4
+DTSTAMP:20250720T222243Z
+DTSTART:20250921
+DTEND:20250922
+LOCATION:Vila Nova de Santo André\,  Santiago do Cacém Vila Nova de Santo André\,  Santiago do Cacém
+SUMMARY:Correr pela Europa 2025
+DESCRIPTION:A 8ª edição da prova de atletismo “CORRER PELA EUROPA” v
+ isa a promoção do exercício físico e de hábitosde vida saudáveis junt
+ o da população\,  através de uma corrida de 10 Km e de uma caminhada de 
+ 5 km.\nhttps://www.portugalrunning.com/eventos/correr-pela-europa-2025/
+URL:https://www.portugalrunning.com/eventos/correr-pela-europa-2025/
+END:VEVENT
+END:VCALENDAR

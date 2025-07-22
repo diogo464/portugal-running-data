@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8d62f15
+DTSTAMP:20250720T222413Z
+DTSTART:20200705
+DTEND:20200706
+LOCATION:Fermedo\,  Aveiro Fermedo\,  Aveiro
+SUMMARY:Fermedo Trail Run 2020
+DESCRIPTION:Fermedo Trail Run 2020\nhttps://www.portugalrunning.com/eventos
+ /fermedo-trail-run-2020/
+URL:https://www.portugalrunning.com/eventos/fermedo-trail-run-2020/
+END:VEVENT
+END:VCALENDAR

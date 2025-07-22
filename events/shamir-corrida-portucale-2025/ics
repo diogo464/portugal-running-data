@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bc60ee
+DTSTAMP:20250720T222651Z
+DTSTART:20250713
+DTEND:20250714
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Shamir Corrida Portucale 2025
+DESCRIPTION:Vila Nova de Gaia recebe\,  a 13 de Julho de 2025\,  a 10ª Edi
+ ção da SHAMIR CORRIDA PORTUCALE\,  nas artérias ribeirinhas da cidade\, 
+  organização do Centro de Atletismo do Porto (CAP).\nhttps://www.portugal
+ running.com/eventos/shamir-corrida-portucale-2025/
+URL:https://www.portugalrunning.com/eventos/shamir-corrida-portucale-2025/
+END:VEVENT
+END:VCALENDAR

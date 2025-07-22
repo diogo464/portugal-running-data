@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3e9297e
+DTSTAMP:20250720T222254Z
+DTSTART:20230416
+DTEND:20230417
+LOCATION:Maia\,  Porto Maia\,  Porto
+SUMMARY:Corrida da Liberdade 2023
+DESCRIPTION:Realiza-se no dia 16 de abril de 2023 pelas 10h00\,  a prova
+  começa e acaba Junto ao Estádio Vieira de Carvalho\,  o tempo máximo de
+  duração desta prova é de 2 horas. Corrida da Liberdade Cidade da Maia- 
+ 10. KmPartida e Chegada – Junto ao Estádio Prof. Vieira de Carvalho\nhtt
+ ps://www.portugalrunning.com/eventos/corrida-da-liberdade-2023-3/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-2023-3/
+END:VEVENT
+END:VCALENDAR

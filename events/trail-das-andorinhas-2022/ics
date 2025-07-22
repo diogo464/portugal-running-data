@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4d18f48
+DTSTAMP:20250720T222725Z
+DTSTART:20221211
+DTEND:20221212
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:V Trail das Andorinhas 2022
+DESCRIPTION:O V Trail das Andorinhas é um evento organizado pelo GRUPO DES
+ PORTIVO DA GOMA\,  em parceria com o Município da Póvoa de Lanhoso\,  e a
+  Associação de Atletismo de Braga. Tipo de prova: Trail Running inserida 
+ no Circuito Regional de Trail da ASSOCIAÇÃO ATLETISMO DE BRAGA.Distância
+ s: Trail Longo – 28Kms[..]\nhttps://www.portugalrunning.com/eventos/trail
+ -das-andorinhas-2022/
+URL:https://www.portugalrunning.com/eventos/trail-das-andorinhas-2022/
+END:VEVENT
+END:VCALENDAR

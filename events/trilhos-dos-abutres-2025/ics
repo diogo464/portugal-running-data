@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daa30cee
+DTSTAMP:20250720T222858Z
+DTSTART:20250201
+DTEND:20250202
+LOCATION:Miranda do Corvo\,  Coimbra Miranda do Corvo\,  Coimbra
+SUMMARY:Trilhos dos Abutres 2025
+DESCRIPTION:A Associação Abutrica organiza o evento Trilhos dos Abutres®
+  (marca registada)\,  cuja 13ª edição ocorrerá nos dias 31 de janeiro a
+  2 de fevereiro de 2025. Este evento contará com 5 provas\,  envolvendo um
+  total de 2.000 participantes: UTA – Ultra Trilhos dos Abutres;TA – Tri
+ lhos dos Abutres;MTA – Mini[..]\nhttps://www.portugalrunning.com/eventos/
+ trilhos-dos-abutres-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-abutres-2025/
+END:VEVENT
+END:VCALENDAR

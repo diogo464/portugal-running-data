@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3c31900
+DTSTAMP:20250720T222252Z
+DTSTART:20220425
+DTEND:20220426
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida da Liberdade 2022
+DESCRIPTION:Informamos todos vós de que após dois anos de interregno devi
+ do à pandemia\,  a ACCL irá reactivar a Corrida da Liberdade 2022 / 25 de
+  Abril\,  este ano na sua 43ª edição\,  pelo que se desejarem fazer a vo
+ ssa inscrição\,  o poderão fazer através do 'SITE' seguinte: www.accl.c
+ om.pt Em anexo[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-libe
+ rdade-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-2022/
+END:VEVENT
+END:VCALENDAR

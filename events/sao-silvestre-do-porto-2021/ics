@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1b79fc6
+DTSTAMP:20250720T222635Z
+DTSTART:20220313
+DTEND:20220314
+LOCATION:Porto Porto
+SUMMARY:São Silvestre do Porto 2021
+DESCRIPTION:  Lidl Sao Silvestre do Porto 2021 adiada para março de 2022 
+ São Silvestre do Porto\,  uma das mais antigas corridas de atletismo do Pa
+ ís está de volta às principais ruas da cidade do Porto\,  com o tiro de 
+ partida marcado para dia 26 de Dezembro na Avenida dos Aliados.[..]\nhttps:
+ //www.portugalrunning.com/eventos/sao-silvestre-do-porto-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-do-porto-2021/
+END:VEVENT
+END:VCALENDAR

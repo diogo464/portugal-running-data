@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cbf4a6a0
+DTSTAMP:20250720T222503Z
+DTSTART:20241019
+DTEND:20241020
+LOCATION:Barcelona\,  Espanha Barcelona\,  Espanha
+SUMMARY:Maratona de Bilbau 2024
+DESCRIPTION:No sábado\,  19 de outubro de 2024\,  será realizada a 16ª e
+ dição da Maratona Noturna TotalEnergies Bilbao\,  cuja largada nas 3 dist
+ âncias será às 19h00 na esplanada do estádio San Mamés\,  em Bilbao\nh
+ ttps://www.portugalrunning.com/eventos/maratona-de-bilbau-2024/
+URL:https://www.portugalrunning.com/eventos/maratona-de-bilbau-2024/
+END:VEVENT
+END:VCALENDAR

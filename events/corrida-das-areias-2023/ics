@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c443142c
+DTSTAMP:20250720T222300Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Praia da Murtosa\,  Torreira Praia da Murtosa\,  Torreira
+SUMMARY:Corrida Das Areias 2023
+DESCRIPTION:Um&nbsp;prólogo com 1\, 5 km percorrido em pelotão\,  em corr
+ ida lenta\,  desde o Parque do Monte Branco até às areias da Praia da Tor
+ reira! Nas areias da praia o verdadeiro desafio\,  com início no Concelho 
+ da Murtosa na praia da Torreira e chegada ao Concelho de Aveiro ao RI10. S�
+ �o cerca[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-areias-20
+ 23/
+URL:https://www.portugalrunning.com/eventos/corrida-das-areias-2023/
+END:VEVENT
+END:VCALENDAR

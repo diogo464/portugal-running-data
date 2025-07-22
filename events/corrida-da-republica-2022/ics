@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4449f18
+DTSTAMP:20250720T222300Z
+DTSTART:20221005
+DTEND:20221006
+LOCATION:Rio Tinto\,  Gondomar Rio Tinto\,  Gondomar
+SUMMARY:Corrida da República 2022
+DESCRIPTION:Rio Tinto recebe no dia 5 de Outubro de 2022 as 10h00 a 8ª edi
+ ção Corrida da República \,  uma organização da EventSport e Junta de 
+ Freguesia de Rio Tinto. A 8ª Corrida da República é composta por uma Cor
+ rida de 10 Km e a Caminhada de 5 Km que[..]\nhttps://www.portugalrunning.co
+ m/eventos/corrida-da-republica-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-da-republica-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc27ad1a
+DTSTAMP:20250720T222506Z
+DTSTART:20241013
+DTEND:20241014
+LOCATION:Chicago\,  Estados Unidos da América Chicago\,  Estados Unidos da América
+SUMMARY:Maratona de Chicago 2024
+DESCRIPTION:A Maratona de Chicago\,  conhecida em inglês como "Chicago Mar
+ athon\, " é uma das corridas de maratona mais populares do mundo e vai oco
+ rrer a 13 de Outubro de 2024 em Chicago\,  Illinois\,  nos Estados Unidos. 
+ A primeira edição da maratona foi realizada em 1977\,  e desde então\,  
+ tornou-se um dos[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-c
+ hicago-2024/
+URL:https://www.portugalrunning.com/eventos/maratona-de-chicago-2024/
+END:VEVENT
+END:VCALENDAR

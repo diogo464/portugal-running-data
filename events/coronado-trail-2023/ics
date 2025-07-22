@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3300dba
+DTSTAMP:20250720T222243Z
+DTSTART:20230402
+DTEND:20230403
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:Coronado Trail 2023
+DESCRIPTION:O Coronado Trail é constituído por 2 provas e 1 caminhada.Tra
+ il longo-25kmTrail Curto-15kmCaminhada – 7.5km As provas de trail que con
+ stituem o Coronado Trail decorrerão no dia 02 de Abril de 2023\,  com part
+ ida echegada no Largo de Mendões ( coordenadas GPS Lat: 41.291695\,  Lon: 
+ -8.574357)\,  percorrendo caminhos etrilhos do[..]\nhttps://www.portugalrun
+ ning.com/eventos/coronado-trail-2023/
+URL:https://www.portugalrunning.com/eventos/coronado-trail-2023/
+END:VEVENT
+END:VCALENDAR

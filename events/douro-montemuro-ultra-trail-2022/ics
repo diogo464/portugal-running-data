@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8291fa8
+DTSTAMP:20250720T222402Z
+DTSTART:20220612
+DTEND:20220613
+LOCATION:Cinfães Cinfães
+SUMMARY:Douro Montemuro Ultra Trail 2022
+DESCRIPTION:O Douro Montemuro Ultra Trail 2022 (DMUT) é um evento desporti
+ vo de trail running da responsabilidadeorganizativa da Associação Desport
+ iva Cinfães a Correr (ADCC)\,  associação sem fins lucrativos\,  com sed
+ e noMunicípio de Cinfães\,  que se realizará nos dias 11 e 12 de Junho d
+ e 2022.O Rio Douro\,  o vale do Bestança\, [..]\nhttps://www.portugalrunni
+ ng.com/eventos/douro-montemuro-ultra-trail-2022/
+URL:https://www.portugalrunning.com/eventos/douro-montemuro-ultra-trail-2022/
+END:VEVENT
+END:VCALENDAR

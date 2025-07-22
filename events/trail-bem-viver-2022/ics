@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3c4aec2
+DTSTAMP:20250720T222708Z
+DTSTART:20220501
+DTEND:20220502
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Trail Bem Viver 2022
+DESCRIPTION:O Trail Bem Viver 2022 é organizado pelo Grupo Desportivo de M
+ agrelos\,  em parceria com a Juntade Freguesia de Bem Viver e a Câmara Mun
+ icipal do Marco de Canaveses.O evento será realizado no dia e 01 de maio d
+ e 2022\,  no Alto da Forca em Magrelos\,  na freguesiade Bem Viver\, [..]\n
+ https://www.portugalrunning.com/eventos/trail-bem-viver-2022/
+URL:https://www.portugalrunning.com/eventos/trail-bem-viver-2022/
+END:VEVENT
+END:VCALENDAR

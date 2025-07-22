@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c90319aa
+DTSTAMP:20250720T222416Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Funchal Sky Race 2023
+DESCRIPTION:A 8ª edição do Funchal Sky Race é uma organização do CAMa
+ deira - Clube Aventura da Madeira (CAMadeira). Este regulamento aplica-se �
+ �s provas incluídas no evento: Funchal Sky Race 21km\,  Funchal Mini Sky R
+ ace 10km.\nhttps://www.portugalrunning.com/eventos/funchal-sky-race-2023/
+URL:https://www.portugalrunning.com/eventos/funchal-sky-race-2023/
+END:VEVENT
+END:VCALENDAR

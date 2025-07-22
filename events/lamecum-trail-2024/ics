@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb3c437e
+DTSTAMP:20250720T222451Z
+DTSTART:20240921
+DTEND:20240922
+LOCATION:Lamego\,  Viseu Lamego\,  Viseu
+SUMMARY:Lamecum Trail 2024
+DESCRIPTION:O Lamecum Trail vé um evento desportivo que engloba diversas p
+ rovas para diferentes escalões. Em 2024 engloba também o Lalim Vertical q
+ ue consiste numa prova curta de perfil ascendente e decorrerá na vila de L
+ alim.\nhttps://www.portugalrunning.com/eventos/lamecum-trail-2024/
+URL:https://www.portugalrunning.com/eventos/lamecum-trail-2024/
+END:VEVENT
+END:VCALENDAR

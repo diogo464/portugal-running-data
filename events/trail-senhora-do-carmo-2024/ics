@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8b7a048
+DTSTAMP:20250720T222827Z
+DTSTART:20240623
+DTEND:20240624
+LOCATION:Arentim e Cunha\,  Braga Arentim e Cunha\,  Braga
+SUMMARY:Trail Senhora do Carmo 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-senhora-do-carm
+ o-2024/
+URL:https://www.portugalrunning.com/eventos/trail-senhora-do-carmo-2024/
+END:VEVENT
+END:VCALENDAR

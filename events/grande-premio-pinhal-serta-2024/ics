@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca318ce1
+DTSTAMP:20250720T222435Z
+DTSTART:20240323
+DTEND:20240324
+LOCATION:Sertã\,  Castelo Branco Sertã\,  Castelo Branco
+SUMMARY:Grande Prémio Pinhal / Sertã 2024
+DESCRIPTION:O Grupo Desp de S.º Domingos&nbsp;e&nbsp;Câmara Municipal da 
+ Sertã&nbsp;em colaboração com a Junta de freguesia\,  Assoc. Atletismo C
+ astelo Branco\,  Bombeiros Voluntários\,  Guarda Nacional Republicana Órg
+ ãos de Comunicação\,  Comércio Local e outras empresas ou entidades\,  
+ Colaboram na realização do evento. Todas as provas terão partida e chega
+ da com a meta localizada[..]\nhttps://www.portugalrunning.com/eventos/grand
+ e-premio-pinhal-serta-2024/
+URL:https://www.portugalrunning.com/eventos/grande-premio-pinhal-serta-2024/
+END:VEVENT
+END:VCALENDAR

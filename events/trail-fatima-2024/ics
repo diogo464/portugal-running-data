@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6eac4a4
+DTSTAMP:20250720T222758Z
+DTSTART:20241027
+DTEND:20241028
+LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+SUMMARY:Trail Fátima 2024
+DESCRIPTION:O&nbsp;11º Trail de Fátima&nbsp;é um evento de trail running
+ \,  que percorre trilhos e caminhos da nossa Região\,  nomeadamente&nbsp;F
+ reguesia de Fátima e&nbsp;Concelho de Ourém. Este evento irá decorrer no
+ s dias&nbsp;26 e 27 de Outubro de 2024\,  organizado pela&nbsp;Associação
+  Fátima Trail Team. O 11º Trail de Fátima é uma prova&nbsp;Certificada 
+ pela ATRP[..]\nhttps://www.portugalrunning.com/eventos/trail-fatima-2024/
+URL:https://www.portugalrunning.com/eventos/trail-fatima-2024/
+END:VEVENT
+END:VCALENDAR

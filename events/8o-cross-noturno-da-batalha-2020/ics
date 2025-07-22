@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1192da1
+DTSTAMP:20250720T222209Z
+DTSTART:20200509
+DTEND:20200510
+LOCATION:Batalha\,  Leiria Batalha\,  Leiria
+SUMMARY:8º Cross Noturno Da Batalha 2020
+DESCRIPTION:É uma organização do Atlético Clube da Batalha - ACB com ap
+ oio Câmara Municipal da Batalha e Junta Freguesia da Batalha. Trata-se de 
+ um evento de corrida e caminhada noturna em ambiente natural e histórico d
+ a Vila da Batalha. É constituída no seu percurso por carreiros e caminhos
+  desnivelados\,  para[..]\nhttps://www.portugalrunning.com/eventos/8o-cross
+ -noturno-da-batalha-2020/
+URL:https://www.portugalrunning.com/eventos/8o-cross-noturno-da-batalha-2020/
+END:VEVENT
+END:VCALENDAR

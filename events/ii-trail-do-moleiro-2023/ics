@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cab91f3e
+DTSTAMP:20250720T222443Z
+DTSTART:20230618
+DTEND:20230619
+LOCATION:Castro Marim\,  Faro Castro Marim\,  Faro
+SUMMARY:2º Trail do Moleiro 2023
+DESCRIPTION:O evento desportivo\,  II Trail do Moleiro promovido é organiz
+ ado pela Equipa Avenida Trail e o Clube Campesino R.F.C.\,  com o apoio da 
+ Câmara Municipal de Castro Marim e a Junta de Freguesia de Castro Marim. T
+ rail Curto 16 KmTrail Longo 27 KmCaminhada 10 Km\nhttps://www.portugalrunni
+ ng.com/eventos/ii-trail-do-moleiro-2023/
+URL:https://www.portugalrunning.com/eventos/ii-trail-do-moleiro-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cdcdcb8e
+DTSTAMP:20250720T222532Z
+DTSTART:20240505
+DTEND:20240506
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Meia Maratona Matosinhos 2024
+DESCRIPTION:A Cidade Matosinhos corre ao sabor da maré e espera por si no 
+ dia 5 de maio de 2024 para se juntar à 5ª edição da Goldenergy Meia Mar
+ atona de Matosinhos Mar de Desporto. O evento com partida e chegada na Av. 
+ da Liberdade\,  tem o início marcado para as[..]\nhttps://www.portugalrunn
+ ing.com/eventos/meia-maratona-matosinhos-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-matosinhos-2024/
+END:VEVENT
+END:VCALENDAR

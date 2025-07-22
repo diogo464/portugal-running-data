@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2eab530
+DTSTAMP:20250720T222238Z
+DTSTART:20230218
+DTEND:20230219
+LOCATION:Braga Braga
+SUMMARY:Color Picoto Sprint 2023
+DESCRIPTION:A COLOR PICOTO SPRINT 2023 é uma organização conjunta do Mun
+ icípio de Braga&nbsp; e Associação Desporto Mais Vida\,  com o apoio da 
+ Aventure Picoto Park e parceiros associados. A prova COLOR PICOTO SPRINT 20
+ 23 está inserida no programa Aventuras pelo Ambiente e consiste numa prova
+  de Sprint em contexto urbano/montanha[..]\nhttps://www.portugalrunning.com
+ /eventos/color-picoto-sprint-2023/
+URL:https://www.portugalrunning.com/eventos/color-picoto-sprint-2023/
+END:VEVENT
+END:VCALENDAR

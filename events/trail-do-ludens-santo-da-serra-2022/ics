@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d7a806
+DTSTAMP:20250720T222741Z
+DTSTART:20220403
+DTEND:20220404
+LOCATION:Machico Machico
+SUMMARY:Trail do Ludens - Santo da Serra 2022
+DESCRIPTION:O Trail do Ludens - Santo da Serra 2022 Serra decorre maioritar
+ iamente na Freguesia do Santo da Serra. Tem por objetivo ser uma prova aces
+ sível a todos os participantes do trail running. A partida e chegada centr
+ a-se na Ribeira de Machico. A prova integra o circuito “Trail Madeira” 
+ 2021/2022.\nhttps://www.portugalrunning.com/eventos/trail-do-ludens-santo-d
+ a-serra-2022/
+URL:https://www.portugalrunning.com/eventos/trail-do-ludens-santo-da-serra-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dcb48b56
+DTSTAMP:20250720T222931Z
+DTSTART:20230319
+DTEND:20230320
+LOCATION:Salvaterra de Magos\,  Santarém Salvaterra de Magos\,  Santarém
+SUMMARY:XXI 12KM Salvaterra De Magos 2023
+DESCRIPTION:O “ACS – Amigos da Corrida de Salvaterra”\,  organiza no 
+ dia 19 de Março de 2023\,  pelas 10h30\,  a corrida “XXI 12 Km Salvaterr
+ a-Prova Professor António Lopes”\,  a “III Mini-Corrida 5km Fernando J
+ osé Andrade” e a 15ª “Caminhada Mexa-se por nós” integrada nos 12 
+ km de Salvaterra e Mini 5K[..]\nhttps://www.portugalrunning.com/eventos/xxi
+ -12km-salvaterra-de-magos-2023/
+URL:https://www.portugalrunning.com/eventos/xxi-12km-salvaterra-de-magos-2023/
+END:VEVENT
+END:VCALENDAR

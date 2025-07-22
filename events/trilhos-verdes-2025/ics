@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daec5868
+DTSTAMP:20250720T222902Z
+DTSTART:20250413T055300Z
+DTEND:20250413T055300Z
+LOCATION:Alpedriz\,  Alcobaça Alpedriz\,  Alcobaça
+SUMMARY:Trilhos Verdes 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-verdes-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-verdes-2025/
+END:VEVENT
+END:VCALENDAR

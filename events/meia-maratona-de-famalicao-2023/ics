@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd0dc99b
+DTSTAMP:20250720T222520Z
+DTSTART:20231015
+DTEND:20231016
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:Meia Maratona de Famalicão 2023
+DESCRIPTION:Meia Maratona de Famalicão 2023\nhttps://www.portugalrunning.c
+ om/eventos/meia-maratona-de-famalicao-2023/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-famalicao-2023/
+END:VEVENT
+END:VCALENDAR

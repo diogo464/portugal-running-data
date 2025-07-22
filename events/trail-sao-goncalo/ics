@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8b32912
+DTSTAMP:20250720T222827Z
+DTSTART:20210919
+DTEND:20210920
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Trail São Gonçalo 2021
+DESCRIPTION:TRAIL SÃO GONÇALO” realiza-se no dia 19 de setembro 2021 em
+  Carapeços – Barcelos com início e fim no mesmo local. É um evento de 
+ cariz lúdico desportivo é uma prova de corrida de montanha que percorre t
+ rilhos e caminhos rurais\,  com o charme de campos\,  vales\,  vinhas\,  e 
+ vistas[..]\nhttps://www.portugalrunning.com/eventos/trail-sao-goncalo/
+URL:https://www.portugalrunning.com/eventos/trail-sao-goncalo/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0362fe2
+DTSTAMP:20250720T222155Z
+DTSTART:20230212
+DTEND:20230213
+LOCATION:Camarnal\,  Lisboa Camarnal\,  Lisboa
+SUMMARY:38ª Prova de Atletismo Camarnal 2023
+DESCRIPTION:Inscreva-se na Grande Prova de Atletismo através do link acima
+  e marque na sua agenda Sociedade Recreativa Camarnal.GP Camarnal - 9kmCami
+ nhada - 5km\nhttps://www.portugalrunning.com/eventos/38a-prova-de-atletismo
+ -camarnal-2023/
+URL:https://www.portugalrunning.com/eventos/38a-prova-de-atletismo-camarnal-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d632a9
+DTSTAMP:20250720T222309Z
+DTSTART:20200125
+DTEND:20200126
+LOCATION:Braga Braga
+SUMMARY:Corrida do Adepto 2020
+DESCRIPTION:RESULTADOS A 4ª edição da Corrida do Adepto já tem data mar
+ cada! A prova realizar-se-à no dia 25 de janeiro de 2020 na Cidade de Brag
+ a\,  dia que vai marcar o jogo da Final da Taça da Liga. A Corrida do Adep
+ to é um evento desportivo organizado pela Liga Portugal\, [..]\nhttps://ww
+ w.portugalrunning.com/eventos/corrida-do-adepto/
+URL:https://www.portugalrunning.com/eventos/corrida-do-adepto/
+END:VEVENT
+END:VCALENDAR

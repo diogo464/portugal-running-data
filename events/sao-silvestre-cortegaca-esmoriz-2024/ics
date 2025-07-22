@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1294521
+DTSTAMP:20250720T222626Z
+DTSTART:20241201
+DTEND:20241202
+LOCATION:Esmoriz\,  Aveiro Esmoriz\,  Aveiro
+SUMMARY:São Silvestre Esmoriz/Cortegaça 2024
+DESCRIPTION:A Academia de Boxe Vitor Sá organizará pela segunda vez a Sã
+ o Silvestre de Esmoriz/Cortegaça\,  em atletismo.\nhttps://www.portugalrun
+ ning.com/eventos/sao-silvestre-cortegaca-esmoriz-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-cortegaca-esmoriz-2024/
+END:VEVENT
+END:VCALENDAR

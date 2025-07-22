@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c26dc7f2
+DTSTAMP:20250720T222230Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Mascotelos\,  Guimarães Mascotelos\,  Guimarães
+SUMMARY:Cachorrão Gmr Challenge 2023
+DESCRIPTION:O “CACHORRÃO GMR Challenge 2023 é um evento de cariz lúdic
+ o desportivo\,  realizada em percurso aberto por belos e diversificados tri
+ lhos de montanha\,  caminhos rurais e estradas municipais e nacionais do co
+ ncelho de &nbsp;Guimarães\,  começando e terminando no campo de jogos do 
+ Santiago Mascotelos FC\,  na Freguesia de Candoso Santiago[..]\nhttps://www
+ .portugalrunning.com/eventos/cachorrao-gmr-challenge-2023/
+URL:https://www.portugalrunning.com/eventos/cachorrao-gmr-challenge-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92c3fd0
+DTSTAMP:20250720T222834Z
+DTSTART:20220515
+DTEND:20220516
+LOCATION:Beselga Beselga
+SUMMARY:Trail Trilhos do Ceireiro 2022
+DESCRIPTION:A Associação Humanitária Cultural e Recreativa Beselguense v
+ ai realizar o V Trail Trilhos do Ceireiro 2022 no dia 15 de maio de 2022. E
+ m perspetiva está a realização de três trajetos diferentes (30\,  18 e 
+ 10 quilómetros). Nesta edição destacamos o Trail Longo de 30 quilómetro
+ s\,  com um índice de[..]\nhttps://www.portugalrunning.com/eventos/trail-t
+ rilhos-do-ceireiro-2022/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-do-ceireiro-2022/
+END:VEVENT
+END:VCALENDAR

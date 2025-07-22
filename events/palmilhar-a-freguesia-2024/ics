@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf7611f7
+DTSTAMP:20250720T222559Z
+DTSTART:20240324
+DTEND:20240325
+LOCATION:Alcobaça\,  Leiria Alcobaça\,  Leiria
+SUMMARY:Palmilhar A Freguesia 2024
+DESCRIPTION:A Junta de Freguesia de Évora de Alcobaça vai realizar no pr�
+ �ximo dia 24 de Março de 2024 um evento denominado "Palmilhar a Freguesia"
+ . O Palmilhar a Freguesia é um evento convívio de Trail Running\,  que de
+ corre no Concelho de Alcobaça\,  Freguesia de Évora de Alcobaça e que in
+ tegra três[..]\nhttps://www.portugalrunning.com/eventos/palmilhar-a-fregue
+ sia-2024/
+URL:https://www.portugalrunning.com/eventos/palmilhar-a-freguesia-2024/
+END:VEVENT
+END:VCALENDAR

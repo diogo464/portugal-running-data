@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6daa4973e
+DTSTAMP:20250720T222858Z
+DTSTART:20220128
+DTEND:20220129
+LOCATION:Miranda do Corvo\,  Coimbra Miranda do Corvo\,  Coimbra
+SUMMARY:Trilhos dos Abutres 2022
+DESCRIPTION:Resultados Vamos acreditar que a 28\,  29 e 30 de janeiro de 20
+ 22 estaremos todos de novo reunidos nos Trilhos dos Abutres 2022.\nhttps://
+ www.portugalrunning.com/eventos/trilhos-dos-abutres-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-abutres-2022/
+END:VEVENT
+END:VCALENDAR

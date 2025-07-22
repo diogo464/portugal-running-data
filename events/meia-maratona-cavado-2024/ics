@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccaa61f
+DTSTAMP:20250720T222516Z
+DTSTART:20240519
+DTEND:20240520
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Meia Maratona Cávado 2024
+DESCRIPTION:Se juntarmos o rio\,  o mar e a zona rural\,  as tradições\, 
+  a cultura e o artesanato\,  com uma população que está habituada\,  gos
+ ta e sabe receber\,  que é ativa em participar\,  conviver e bem viver\,  
+ com o hábito de assistir e aplaudir eventos desportivos e culturais\,  é 
+ fácil constatar[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona
+ -cavado-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-cavado-2024/
+END:VEVENT
+END:VCALENDAR

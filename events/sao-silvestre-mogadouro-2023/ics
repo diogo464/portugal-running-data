@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d21628c0
+DTSTAMP:20250720T222641Z
+DTSTART:20231209
+DTEND:20231210
+LOCATION:Mogadouro\,  Bragança Mogadouro\,  Bragança
+SUMMARY:São Silvestre Mogadouro 2023
+DESCRIPTION:O Município de Mogadouro vai realizar a 3.ª edição da Corri
+ da São Silvestre Mogadouro\,  agendada para dia 09 de dezembro (sábado)\,
+   integrando o programa natalício de Mogadouro 2023.\nhttps://www.portugal
+ running.com/eventos/sao-silvestre-mogadouro-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mogadouro-2023/
+END:VEVENT
+END:VCALENDAR

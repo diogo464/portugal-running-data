@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9691ea5
+DTSTAMP:20250720T222838Z
+DTSTART:20221030
+DTEND:20221031
+LOCATION:Coimbra Coimbra
+SUMMARY:Trail Vale do Ceira 2022
+DESCRIPTION:O Trail Vale do Ceira\,  adiante designado por TVC\,  é um eve
+ nto em trilhos com o objetivo de percorrer determinada distância ultrapass
+ ando os obstáculos naturais do terreno e enfrentar as suas adversidades no
+  menor tempo possível\,  não é uma caminhada. A prova desenrola-se na Fr
+ eguesia de Ceira e zonas adjacentes.Para[..]\nhttps://www.portugalrunning.c
+ om/eventos/trail-vale-do-ceira-2022/
+URL:https://www.portugalrunning.com/eventos/trail-vale-do-ceira-2022/
+END:VEVENT
+END:VCALENDAR

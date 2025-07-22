@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2163011
+DTSTAMP:20250720T222641Z
+DTSTART:20231228
+DTEND:20231229
+LOCATION:Quarteira\,  Faro Quarteira\,  Faro
+SUMMARY:São Silvestre Quarteira 2023
+DESCRIPTION:A corrida São Silvestre de Quarteira é uma prova pedestre de 
+ cariz lúdico\,  organizada pelos Quarteira Night Runners\,  Free Challenge
+  e Junta Freguesia de Quarteira. As inscrições são gratuitas\,  obrigat�
+ �rias e ilimitadas. Deverão ser realizadas no formulário do evento dispon
+ ível na plataforma CRONO AAALGARVE e na página de Facebook da[..]\nhttps:
+ //www.portugalrunning.com/eventos/sao-silvestre-quarteira-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-quarteira-2023/
+END:VEVENT
+END:VCALENDAR

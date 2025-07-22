@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6ac2dd0
+DTSTAMP:20250720T222754Z
+DTSTART:20220703
+DTEND:20220704
+LOCATION:Vila Verde Vila Verde\,  Braga
+SUMMARY:Trail Encostas do Mondego 2022
+DESCRIPTION:A quinta edi√ß√£o do Trail Encostas do Mondego 2022 realiza-se 
+ em Vila Verde\,  concelho de Figueira da Foz. Lado a lado com o rio Mondego
+ \,  o evento leva-o a percorrer trilhos rodeados de paisagem de Inverno e √
+ ∫nicos na regi√£o.\nhttps://www.portugalrunning.com/eventos/trail-encostas-
+ do-mondego-2022/
+URL:https://www.portugalrunning.com/eventos/trail-encostas-do-mondego-2022/
+END:VEVENT
+END:VCALENDAR

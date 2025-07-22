@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce8db4f3
+DTSTAMP:20250720T222544Z
+DTSTART:20250503
+DTEND:20250504
+LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+SUMMARY:Milha Urbana Alberto Chaíça 2025
+DESCRIPTION:A&nbsp;3 de maio de 2025&nbsp;vai realizar-se a&nbsp;8ª Milha 
+ Urbana Alberto Chaíça\,  prova inserida no&nbsp;Troféu de Almada Atletis
+ mo ‘Mário Pinto Claro’ 2024/2025. A organização é da responsabilida
+ de do&nbsp;Monte Kapa Escola de Desporto – Associação&nbsp;com o apoio 
+ da&nbsp;Câmara Municipal de Almada.\nhttps://www.portugalrunning.com/event
+ os/milha-urbana-alberto-chaica-2024-2/
+URL:https://www.portugalrunning.com/eventos/milha-urbana-alberto-chaica-2024-2/
+END:VEVENT
+END:VCALENDAR

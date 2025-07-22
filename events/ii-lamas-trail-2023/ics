@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6caa18858
+DTSTAMP:20250720T222442Z
+DTSTART:20230618
+DTEND:20230619
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:II Lamas Trail 2023
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ii-lamas-trail-2023/
+URL:https://www.portugalrunning.com/eventos/ii-lamas-trail-2023/
+END:VEVENT
+END:VCALENDAR

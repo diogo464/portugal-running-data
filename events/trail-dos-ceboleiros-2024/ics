@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61aad3b
+DTSTAMP:20250720T222745Z
+DTSTART:20240630T075100Z
+DTEND:20240630T235900Z
+LOCATION:Monte Redondo\,  Leiria Monte Redondo\,  Leiria
+SUMMARY:Trail dos Ceboleiros 2024
+DESCRIPTION:A&nbsp;Associação Cultural Recreativa Desportiva e Cooperativ
+ a da Sismaria&nbsp;realizará no dia&nbsp;30 de junho de 2024&nbsp;a primei
+ ra edição do&nbsp;Trail dos Ceboleiros\,  uma prova de Trail Sprint (apro
+ ximadamente 20 km)\,  outra de Mini Trail (aproximadamente 12 km) e uma cam
+ inhada (aproximadamente 10km)\,  que percorrerão percursos e trilhos na fr
+ eguesia de Monte Redondo e[..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-dos-ceboleiros-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dos-ceboleiros-2024/
+END:VEVENT
+END:VCALENDAR

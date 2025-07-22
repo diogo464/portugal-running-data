@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3f48a3a
+DTSTAMP:20250720T222255Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Miramar\,  Vila Nova de Gaia Miramar\,  Vila Nova de Gaia
+SUMMARY:Corrida da Marginal - Miramar 2023
+DESCRIPTION:Realiza-se no dia 4 de junho de 2023 pelas 10h\,  a prova come�
+ �a e acaba na Rua da Praia. Junto ao Necas Bar\,  o tempo máximo de duraç
+ ão desta prova é de 1 horas.\nhttps://www.portugalrunning.com/eventos/cor
+ rida-da-marginal-miramar-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-da-marginal-miramar-2023/
+END:VEVENT
+END:VCALENDAR

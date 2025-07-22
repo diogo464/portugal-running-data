@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3fc2d7a
+DTSTAMP:20250720T222711Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Baltar\,  Paredes Baltar\,  Paredes
+SUMMARY:Trail Bombeiros Voluntários Baltar 2023
+DESCRIPTION:O Trail Bombeiros Voluntários de Baltar realiza-se a 29 de Out
+ ubro e será constituído por 3 eventos: -Trail Longo – cerca de 25 km - 
+ Trail Curto – cerca de 15 km -Caminhada – cerca de 8 km\,  sem fins com
+ petitivos.\nhttps://www.portugalrunning.com/eventos/trail-bombeiros-volunta
+ rios-baltar-2023/
+URL:https://www.portugalrunning.com/eventos/trail-bombeiros-voluntarios-baltar-2023/
+END:VEVENT
+END:VCALENDAR

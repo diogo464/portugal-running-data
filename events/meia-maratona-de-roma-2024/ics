@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd148f7d
+DTSTAMP:20250720T222521Z
+DTSTART:20240303
+DTEND:20240304
+LOCATION:Roma\,  Itália Roma\,  Itália
+SUMMARY:Meia Maratona de Roma 2024
+DESCRIPTION:A 49ª Edição da Meia Maratona Romaostia realiza-se no doming
+ o\,  dia 3 de março.\nhttps://www.portugalrunning.com/eventos/meia-maraton
+ a-de-roma-2024/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-roma-2024/
+END:VEVENT
+END:VCALENDAR

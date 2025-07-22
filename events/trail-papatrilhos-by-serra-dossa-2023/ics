@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7b3205c
+DTSTAMP:20250720T222811Z
+DTSTART:20230903
+DTEND:20230904
+LOCATION:Vila Viçosa\,  Évora Vila Viçosa\,  Évora
+SUMMARY:Trail Papatrilhos By Serra D’Ossa 2023
+DESCRIPTION:O Trail Papatrilhos Vila Viçosa by Serra D’ossa é um evento
+  organizado pela Associação Papatrilhos Vila Viçosa. Este evento pretend
+ e dinamizar a prática desportiva na região nomeadamente o Trail Running\,
+  trazendo ao Concelho de Vila Viçosa\,  atletas de todo o País. A Associa
+ ção Papatrilhos Vila Viçosa conta com o apoio da[..]\nhttps://www.portug
+ alrunning.com/eventos/trail-papatrilhos-by-serra-dossa-2023/
+URL:https://www.portugalrunning.com/eventos/trail-papatrilhos-by-serra-dossa-2023/
+END:VEVENT
+END:VCALENDAR

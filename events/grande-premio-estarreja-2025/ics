@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca0931bb
+DTSTAMP:20250720T222432Z
+DTSTART:20250316
+DTEND:20250317
+LOCATION:Estarreja\,  Aveiro Estarreja\,  Aveiro
+SUMMARY:Grande Prémio Estarreja 2025
+DESCRIPTION:Estarreja já se habituou a receber esta prova de estrada\,  re
+ ferência regional com provas que se adaptam a todas as idades e forma fís
+ ica. Venha fazer parte do pelotão e conhecer esta cidade portuguesa\,  em 
+ pleno distrito de Aveiro.\nhttps://www.portugalrunning.com/eventos/grande-p
+ remio-estarreja-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-estarreja-2025/
+END:VEVENT
+END:VCALENDAR

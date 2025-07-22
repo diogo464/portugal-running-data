@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d216312a
+DTSTAMP:20250720T222641Z
+DTSTART:20231202
+DTEND:20231203
+LOCATION:Melides\,  Setúbal Melides\,  Setúbal
+SUMMARY:São Silvestre Melides 2023
+DESCRIPTION:A São Silvestre Melides terá como principal objectivo incenti
+ var a população à prática desportiva de forma saudável e regular. À s
+ emelhança do ano transacto o evento conta com uma corrida de 10 km e uma c
+ aminhada de 5 km.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-me
+ lides-2023/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-melides-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3ec420c
+DTSTAMP:20250720T222254Z
+DTSTART:20250425T143100Z
+DTEND:20250425T235900Z
+LOCATION:Portugal Portugal
+SUMMARY:Corrida da Liberdade - Corrida Virtual 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-da-liberdade-
+ corrida-virtual-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-corrida-virtual-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc861f3f
+DTSTAMP:20250720T222512Z
+DTSTART:20230617
+DTEND:20230618
+LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+SUMMARY:Marginal à noite 2023
+DESCRIPTION:A Marginal à Noite é uma corrida de estrada que se carateriza
+  pelo percurso fácil e de enquadramento ímpar junto à orla marítima do 
+ município de Oeiras\,  que atrai tanto atletas regulares que procuram a su
+ a superação\,  como os corredores moderados e iniciantes\,  partilhando t
+ odos em comum o prazer de[..]\nhttps://www.portugalrunning.com/eventos/marg
+ inal-a-noite-2023/
+URL:https://www.portugalrunning.com/eventos/marginal-a-noite-2023/
+END:VEVENT
+END:VCALENDAR

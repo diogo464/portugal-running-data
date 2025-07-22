@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c444a0ca
+DTSTAMP:20250720T222300Z
+DTSTART:20250622
+DTEND:20250623
+LOCATION:Braga Braga
+SUMMARY:Corrida de S. João de Braga 2025
+DESCRIPTION:No dia 22 de junho de 2025\,  às 09h30\,  a festa faz-se a cor
+ rer em Braga!&nbsp; A Corrida de São João de Braga está de volta com 12 
+ km de pura energia e uma caminhada de 5 km para quem prefere aproveitar o p
+ ercurso sem pressas. A partida e a[..]\nhttps://www.portugalrunning.com/eve
+ ntos/corrida-das-festas-de-s-joao-de-braga-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-das-festas-de-s-joao-de-braga-2025/
+END:VEVENT
+END:VCALENDAR

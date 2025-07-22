@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6f7b195
+DTSTAMP:20250720T222343Z
+DTSTART:20220430
+DTEND:20220501
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Saúde + Solidária 2022
+DESCRIPTION:A Corrida Saúde + Solidária 2022 é uma atividade sem fins 
+ lucrativos desenvolvida pela Associação de Estudantes da Faculdade de Me
+ dicina de Lisboa (AEFML) que tem como meta traçada\,  desde a sua conceç
+ ão inicial\,  a criação de laços entre a promoção da saúde e a vert
+ ente solidária\,  que caracteriza a AEFML. É uma atividade exclusivamente
+ [..]\nhttps://www.portugalrunning.com/eventos/corrida-saude-solidaria-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-saude-solidaria-2022/
+END:VEVENT
+END:VCALENDAR

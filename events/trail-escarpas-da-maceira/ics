@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6eac534
+DTSTAMP:20250720T222758Z
+DTSTART:20240526T083900Z
+DTEND:20240526T235900Z
+LOCATION:Maceira\,  Torres Vedras Maceira\,  Torres Vedras
+SUMMARY:Trail Escarpas da Maceira
+DESCRIPTION:O&nbsp;VI Trail Running - Escarpas da Maceira&nbsp;é organizad
+ o pela&nbsp;Associação Vaklouro\,  em parceria com o&nbsp;Centro Social\,
+   Recreativo e Cultural da Maceira e a equipa GOAT - West Trail Team. A pro
+ va será realizada no próximo dia 26 de maio 2024\,  em Maceira - Torres V
+ edras. O evento é constituído por dois[..]\nhttps://www.portugalrunning.c
+ om/eventos/trail-escarpas-da-maceira/
+URL:https://www.portugalrunning.com/eventos/trail-escarpas-da-maceira/
+END:VEVENT
+END:VCALENDAR

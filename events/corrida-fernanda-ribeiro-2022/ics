@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c607b871
+DTSTAMP:20250720T222328Z
+DTSTART:20220515
+DTEND:20220516
+LOCATION:Maia\,  Porto Maia\,  Porto
+SUMMARY:Corrida Fernanda Ribeiro 2022
+DESCRIPTION:A cidade da Maia recebe no dia 15 de Maio de 2022\,  a 8ª edi�
+ �ão Corrida Fernanda Ribeiro\,  uma organização da EventSport e Academia
+  Fernanda Ribeiro com o apoio da Câmara Municipal da Maia. Depois de uma 7
+ ª edição extraordinária\,  que ficou marcada por milhares de atletas a 
+ correr e[..]\nhttps://www.portugalrunning.com/eventos/corrida-fernanda-ribe
+ iro-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-fernanda-ribeiro-2022/
+END:VEVENT
+END:VCALENDAR

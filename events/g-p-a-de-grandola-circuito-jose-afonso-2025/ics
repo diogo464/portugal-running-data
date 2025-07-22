@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9319840
+DTSTAMP:20250720T222419Z
+DTSTART:20250202
+DTEND:20250203
+LOCATION:Grândola\,  Setúbal Grândola\,  Setúbal
+SUMMARY:G.P.A de Grândola – Circuito José Afonso 2025
+DESCRIPTION:A Junta de Freguesia de Grândola e Santa Margarida da Serra\
+ ,  com a colaboração técnica da XISTARCA\,  leva a efeito no próximo di
+ a 02 de Fevereiro de 2025\,  a 21ª edição do Grande Prémio de Atletism
+ o de Grândola – Circuito José Afonso\,  com uma distância de 10km\,  
+ onde poderão tomar parte atletas federados\,  ou[..]\nhttps://www.portugal
+ running.com/eventos/g-p-a-de-grandola-circuito-jose-afonso-2025/
+URL:https://www.portugalrunning.com/eventos/g-p-a-de-grandola-circuito-jose-afonso-2025/
+END:VEVENT
+END:VCALENDAR

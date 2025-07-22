@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d03c4199
+DTSTAMP:20250720T222611Z
+DTSTART:20250717
+DTEND:20250718
+LOCATION:Proença a Nova  Proença-a-Nova
+SUMMARY:Pt281 Ultramarathon 2025
+DESCRIPTION:A PT281® Ultramarathon é uma corrida a pé em ambiente natura
+ l percorrendo trilhos florestais\,  caminhos rurais\,  estradas de terra e 
+ de asfalto\,  O percurso atravessa uma paisagem histórica e natural da Bei
+ ra Baixa – Portugal e tem como partida a o Castelo da Vila de Belmonte e 
+ chegada em Proença-a-Nova.[..]\nhttps://www.portugalrunning.com/eventos/pt
+ 281-ultramarathon-2025/
+URL:https://www.portugalrunning.com/eventos/pt281-ultramarathon-2025/
+END:VEVENT
+END:VCALENDAR

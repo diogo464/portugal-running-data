@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c78f4153
+DTSTAMP:20250720T222352Z
+DTSTART:20240316
+DTEND:20240317
+LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+SUMMARY:Corvus Trail 2024
+DESCRIPTION:O Corvus Trail Branco Gaspar é um evento de trail running\,  q
+ ue percorre trilhos e caminhos no concelho de Abrantes enquadrado nas verte
+ ntes de Trail Longo\,  Trail Curto\,  Mini Trail\,  Trail Kids e Caminhada.
+  O “Corvus Trail” é uma prova Certificada pela ATRP – Associação d
+ e Trail Running de Portugal[..]\nhttps://www.portugalrunning.com/eventos/co
+ rvus-trail-2024/
+URL:https://www.portugalrunning.com/eventos/corvus-trail-2024/
+END:VEVENT
+END:VCALENDAR

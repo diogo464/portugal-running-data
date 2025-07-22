@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2661204
+DTSTAMP:20250720T222646Z
+DTSTART:20250111
+DTEND:20250112
+LOCATION:Setúbal Setúbal
+SUMMARY:São Silvestre Sado 2025
+DESCRIPTION:A São Silvestre do Sado\,  em Setúbal\,  volta a sair para a 
+ rua\,  nos primeiros dias do ano de 2025. Na sua 26ª edição\,  a prova t
+ erá a distância de 10 Km irá iniciar-se-á às 18 horas\,  com partida e
+  chegada em Praias do Sado. Venha participar e aventurar-se por[..]\nhttps:
+ //www.portugalrunning.com/eventos/sao-silvestre-sado-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-sado-2025/
+END:VEVENT
+END:VCALENDAR

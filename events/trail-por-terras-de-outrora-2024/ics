@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d7f7a84d
+DTSTAMP:20250720T222815Z
+DTSTART:20240225
+DTEND:20240226
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:Trail por Terras de Outrora 2024
+DESCRIPTION:O Trail por Terras de Outrora é um evento de trail-running que
+  percorre algum do território da Freguesia deBrotas no concelho de Mora e 
+ tem o objetivo de levar os participantes a locais que em tempos foramhabita
+ dos pelos nossos pais e avós. A prova terá vários percursos tais como: T
+ rilhos\, [..]\nhttps://www.portugalrunning.com/eventos/trail-por-terras-de-
+ outrora-2024/
+URL:https://www.portugalrunning.com/eventos/trail-por-terras-de-outrora-2024/
+END:VEVENT
+END:VCALENDAR

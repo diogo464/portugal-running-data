@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c604a846
+DTSTAMP:20250720T222328Z
+DTSTART:20250809
+DTEND:20250810
+LOCATION:Praia da Vieira\,  Marinha Grande Praia da Vieira\,  Marinha Grande
+SUMMARY:Corrida e Caminhada da Praia da Vieira 2025
+DESCRIPTION:O Industrial Desportivo Vieirense leva a efeito no próximo dia
+  09 de Agosto de 2025\,  a Corrida e Caminhada da Praia da Vieira\,  compet
+ ição englobada no circuito de meio-fundo da Associação Distrital de Atl
+ etismo de Leiria (ADAL). O evento terá a partida e chegada na Avenida Marg
+ inal\,  junto à Homenagem[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-e-caminhada-da-praia-da-vieira-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-da-praia-da-vieira-2025/
+END:VEVENT
+END:VCALENDAR

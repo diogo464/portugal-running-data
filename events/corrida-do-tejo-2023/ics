@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5cab341
+DTSTAMP:20250720T222324Z
+DTSTART:20230917
+DTEND:20230918
+LOCATION:Algés\,  Oeiras Algés\,  Oeiras
+SUMMARY:Corrida do Tejo 2023
+DESCRIPTION:A Corrida do Tejo é umas das provas de 10 Km mais antigas de P
+ ortugal\,  com um percurso sempre junto ao rio Tejo que se vai realizar no 
+ dia 17 de Setembro. &nbsp;A prova atrai tanto atletas regulares como corred
+ ores moderados e iniciantes\,  partilhando todos o prazer de correr. O&nbsp
+ ;percurso[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-tejo-2023
+ /
+URL:https://www.portugalrunning.com/eventos/corrida-do-tejo-2023/
+END:VEVENT
+END:VCALENDAR

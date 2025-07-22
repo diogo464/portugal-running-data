@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8b00121
+DTSTAMP:20250720T222827Z
+DTSTART:20230730
+DTEND:20230731
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Santa Justa 2023
+DESCRIPTION:A ATAD- Amigos do Trail Associação Desportiva\,  designadamen
+ te a sua equipa de trail runningOralklass – Amigos do Trail\,  é a entid
+ ade organizadora da décima primeira edição do eventoTrail S a n t a J u 
+ s t a \,  que decorrerá no dia 30 de Julho de 2023 em Valongo\, [..]\nhttp
+ s://www.portugalrunning.com/eventos/trail-santa-justa-2023/
+URL:https://www.portugalrunning.com/eventos/trail-santa-justa-2023/
+END:VEVENT
+END:VCALENDAR

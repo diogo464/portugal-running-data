@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1dc3993
+DTSTAMP:20250720T222221Z
+DTSTART:20251017
+DTEND:20251018
+LOCATION:Lousã\,  Coimbra Lousã\,  Coimbra
+SUMMARY:AXTrail 2025
+DESCRIPTION:No âmbito do AXtrail®series 2025\,  realizar-se-á nos dias 1
+ 7\,  18 e 19 de Outubro de 2025\,  a décima segunda edição do AXtrail / 
+ oitava edição do UTAX (Ultra Trail das Aldeias do Xisto). O programa incl
+ ui 4 provas de carácter competitivo (UTAX\,  TSL\,  TX e MTX - prova de in
+ iciação[..]\nhttps://www.portugalrunning.com/eventos/axtrail-2025/
+URL:https://www.portugalrunning.com/eventos/axtrail-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d00abb08
+DTSTAMP:20250720T222608Z
+DTSTART:20240310
+DTEND:20240311
+LOCATION:Povoação\,  Açores Povoação\, Açores
+SUMMARY:Povoação Trail 2024
+DESCRIPTION:O “Povoação Trail” é um evento de Trail Running que perc
+ orre trilhos e caminhos no concelho da Povoação\,  enquadrado nas vertent
+ es de Trail Ultra (50 kms)\,  Trail Longo (25kms)\,  Trail Sprint / Caminha
+ da (13 kms).\nhttps://www.portugalrunning.com/eventos/povoacao-trail-2024/
+URL:https://www.portugalrunning.com/eventos/povoacao-trail-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c8b48bad
+DTSTAMP:20250720T222411Z
+DTSTART:20251003
+DTEND:20251004
+LOCATION:Penhas da Saúde\,  Covilhã Penhas da Saúde\,  Covilhã
+SUMMARY:Estrelaçor Ultra Endurance 2025
+DESCRIPTION:IX edição da prova que liga duas das maiores serras portugues
+ as\,  a Estrela e o Açor. Novos percursos e algumas novidades. Teremos ain
+ da o Campeonato Nacional de Ultra Trail Endurance XL\nhttps://www.portugalr
+ unning.com/eventos/estrelacor-ultra-endurance-2025/
+URL:https://www.portugalrunning.com/eventos/estrelacor-ultra-endurance-2025/
+END:VEVENT
+END:VCALENDAR

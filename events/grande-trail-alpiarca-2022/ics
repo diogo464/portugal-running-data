@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca3dc9bd
+DTSTAMP:20250720T222435Z
+DTSTART:20221008
+DTEND:20221009
+LOCATION:Alpiarça\,  Santarém Alpiarça\,  Santarém
+SUMMARY:4º Grande Trail Alpiarça 2022 - AGEAS SEGUROS
+DESCRIPTION:Grande Trail Alpiarça 2022\nhttps://www.portugalrunning.com/ev
+ entos/grande-trail-alpiarca-2022/
+URL:https://www.portugalrunning.com/eventos/grande-trail-alpiarca-2022/
+END:VEVENT
+END:VCALENDAR

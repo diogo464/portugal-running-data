@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d16c498f
+DTSTAMP:20250720T222630Z
+DTSTART:20241201
+DTEND:20241202
+LOCATION:Corroios\,  Setúbal Corroios\,  Setúbal
+SUMMARY:São Silvestre de Corroios 2024
+DESCRIPTION:No próximo dia 1 de Dezembro de 2024 irá realizar-se a 6ª S�
+ �o Silvestre de Corroios\,  no Parque Urbano da Quinta Marialva.\nhttps://w
+ ww.portugalrunning.com/eventos/sao-silvestre-de-corroios-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-corroios-2024/
+END:VEVENT
+END:VCALENDAR

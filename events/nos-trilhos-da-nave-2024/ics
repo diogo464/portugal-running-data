@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf261da2
+DTSTAMP:20250720T222554Z
+DTSTART:20240616
+DTEND:20240617
+LOCATION:Alvite\,  Viseu Alvite\,  Viseu
+SUMMARY:Nos Trilhos da Nave 2024
+DESCRIPTION:O evento desportivo integra as seguintes distâncias:a) Trail 2
+ 2kmb) Mini-Trail de 10 kmc) Caminhada de 10 km2 - Os trail’s serão reali
+ zados por percursos que englobam caminhos\,  trilhos\,  estradas florestais
+ \,  entre outros\nhttps://www.portugalrunning.com/eventos/nos-trilhos-da-na
+ ve-2024/
+URL:https://www.portugalrunning.com/eventos/nos-trilhos-da-nave-2024/
+END:VEVENT
+END:VCALENDAR

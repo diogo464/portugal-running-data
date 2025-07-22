@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd6f3cfe
+DTSTAMP:20250720T222526Z
+DTSTART:20210919
+DTEND:20210920
+LOCATION:Porto Porto
+SUMMARY:Meia Maratona do Porto 2021
+DESCRIPTION:A Hyundai Meia Maratona do Porto 2021 no seu formato tradiciona
+ l está de volta em 2021. Resultados provisórios Percurso:\nhttps://www.po
+ rtugalrunning.com/eventos/meia-maratona-do-porto/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-porto/
+END:VEVENT
+END:VCALENDAR

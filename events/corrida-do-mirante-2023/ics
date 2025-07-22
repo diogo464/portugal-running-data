@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5731fde
+DTSTAMP:20250720T222319Z
+DTSTART:20230604
+DTEND:20230605
+LOCATION:Ota\,  Lisboa Ota\,  Lisboa
+SUMMARY:19ª Corrida do Mirante 2023
+DESCRIPTION:A Corrida do Mirante é sem duvida uma das provas mais emblemá
+ ticas do Circuito Lisboa Trail. Com partida no Centro Social Recreativo Des
+ portivo da Ota esta etapa vai levar-te a conhecer os melhores pontos de int
+ eresse da Ota\,  como o Mirante\,  por subidas e descidas bastante acentuad
+ as mas com vistas[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-m
+ irante-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-do-mirante-2023/
+END:VEVENT
+END:VCALENDAR

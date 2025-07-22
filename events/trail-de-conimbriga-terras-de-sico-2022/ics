@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d50c4cd9
+DTSTAMP:20250720T222728Z
+DTSTART:20220225
+DTEND:20220226
+LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+SUMMARY:Trail de Conímbriga Terras de Sicó 2022
+DESCRIPTION:Resultados Já está em andamento a organização da XIII ediç
+ ão do Trail de Conímbriga Terras de Sicó 2022.\nhttps://www.portugalrunn
+ ing.com/eventos/trail-de-conimbriga-terras-de-sico-2022/
+URL:https://www.portugalrunning.com/eventos/trail-de-conimbriga-terras-de-sico-2022/
+END:VEVENT
+END:VCALENDAR

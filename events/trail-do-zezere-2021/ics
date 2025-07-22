@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6963e51
+DTSTAMP:20250720T222753Z
+DTSTART:20211113
+DTEND:20211114
+LOCATION:Ferreira do Zêzere\,  Santarém Ferreira do Zêzere\,  Santarém
+SUMMARY:Trail do Zêzere 2021
+DESCRIPTION:Resultados O Trail do Zêzere volta em 2021 a realizar-se em Fe
+ rreira do Zêzere\,  numa das regiões mais bonitas de Portugal. Com percur
+ sos de difícil progressão\,  de uma beleza extraordinária\,  esta é uma
+  das mais destacadas provas de Trail Running do nosso país.\nhttps://www.p
+ ortugalrunning.com/eventos/trail-do-zezere-2021/
+URL:https://www.portugalrunning.com/eventos/trail-do-zezere-2021/
+END:VEVENT
+END:VCALENDAR

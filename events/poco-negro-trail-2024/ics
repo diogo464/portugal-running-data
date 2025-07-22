@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfbdb4f6
+DTSTAMP:20250720T222603Z
+DTSTART:20240630
+DTEND:20240701
+LOCATION:Rio Mau\,  Penafiel Rio Mau\,  Penafiel
+SUMMARY:Poço Negro Trail 2024
+DESCRIPTION:O Poço Negro Trail vai em 2024 para a sua sétima edição\,  
+ que percorrerá trilhos na Serra da Boneca\,  Estivada e no vale do Rio Mau
+ . Tal como em anos anteriores o valor das inscrições reverterá para uma 
+ causa solidária\,  a Associação para o Desenvolvimento da Freguesia de R
+ io Mau.\nhttps://www.portugalrunning.com/eventos/poco-negro-trail-2024/
+URL:https://www.portugalrunning.com/eventos/poco-negro-trail-2024/
+END:VEVENT
+END:VCALENDAR

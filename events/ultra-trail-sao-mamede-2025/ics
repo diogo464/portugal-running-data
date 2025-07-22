@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6db717e7d
+DTSTAMP:20250720T222911Z
+DTSTART:20250425
+DTEND:20250426
+LOCATION:Portalegre Portalegre
+SUMMARY:Ultra Trail São Mamede 2025
+DESCRIPTION:.\nhttps://www.portugalrunning.com/eventos/ultra-trail-sao-mame
+ de-2025/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-sao-mamede-2025/
+END:VEVENT
+END:VCALENDAR

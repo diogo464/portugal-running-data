@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ceddc32e
+DTSTAMP:20250720T222549Z
+DTSTART:20221023
+DTEND:20221024
+LOCATION:Oliveira de Azeméis Oliveira de Azeméis\,  Aveiro
+SUMMARY:NAC Trail 2022
+DESCRIPTION:O Núcleo de Atletismo de Cucujães é o Organizador da prova N
+ AC Trail 2022 com partida e chegada no centro de treinos\,  percorrendo tri
+ lhos do município de Oliveira de Azeméis.\nhttps://www.portugalrunning.co
+ m/eventos/nac-trail-2022/
+URL:https://www.portugalrunning.com/eventos/nac-trail-2022/
+END:VEVENT
+END:VCALENDAR

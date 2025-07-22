@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca2623e5
+DTSTAMP:20250720T222434Z
+DTSTART:20200112
+DTEND:20200113
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:Grande Prémio Peniche a Correr
+DESCRIPTION:Grande Prémio Peniche a Correr\nhttps://www.portugalrunning.co
+ m/eventos/grande-premio-peniche-a-correr/
+URL:https://www.portugalrunning.com/eventos/grande-premio-peniche-a-correr/
+END:VEVENT
+END:VCALENDAR

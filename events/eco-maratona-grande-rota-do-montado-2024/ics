@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c827a766
+DTSTAMP:20250720T222402Z
+DTSTART:20241020T063300Z
+DTEND:20241020T063300Z
+LOCATION:Reguengos de Monsaraz\,  Évora Reguengos de Monsaraz\,  Évora
+SUMMARY:Eco Maratona Grande Rota do Montado 2024
+DESCRIPTION:Eco Maratona Grande Rota do Montado\nhttps://www.portugalrunnin
+ g.com/eventos/eco-maratona-grande-rota-do-montado-2024/
+URL:https://www.portugalrunning.com/eventos/eco-maratona-grande-rota-do-montado-2024/
+END:VEVENT
+END:VCALENDAR

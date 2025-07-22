@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d58dd283
+DTSTAMP:20250720T222736Z
+DTSTART:20250504T233400Z
+DTEND:20250504T235900Z
+LOCATION:Ruivães\,  Vila Nova de Famalicão Ruivães\,  Vila Nova de Famalicão
+SUMMARY:Trail do Calvário 2025
+DESCRIPTION:O Mka - Trail do Calvário é uma organização conjunta da Ass
+ ociação de Desporto e Aventura 365 Running Project e a União de Freguesi
+ as de Ruivães e Novais com o apoio do Município de Famalicão.\nhttps://w
+ ww.portugalrunning.com/eventos/trail-do-calvario-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-calvario-2025/
+END:VEVENT
+END:VCALENDAR

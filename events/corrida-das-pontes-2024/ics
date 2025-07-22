@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c481944d
+DTSTAMP:20250720T222304Z
+DTSTART:20240526
+DTEND:20240527
+LOCATION:Coruche\,  Santarém Coruche\,  Santarém
+SUMMARY:Corrida das Pontes 2024
+DESCRIPTION:O Serviço Desporto do Município de Coruche\,  com a colabora�
+ �ão técnica do Trilho Perdido\, levam a efeito no próximo dia 26 de Maio
+  a 18.ª Corrida das Pontes\,  com uma extensão de 10Kme a 18ª Corrida da
+  Família com uma extensão de 3Km. Estes dois eventos estão integrados na
+ FICOR\,  Feira Internacional[..]\nhttps://www.portugalrunning.com/eventos/c
+ orrida-das-pontes-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-das-pontes-2024/
+END:VEVENT
+END:VCALENDAR

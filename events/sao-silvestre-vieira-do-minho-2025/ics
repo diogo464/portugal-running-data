@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2679d6d
+DTSTAMP:20250720T222646Z
+DTSTART:20250104T145200Z
+DTEND:20250104T145200Z
+LOCATION:Vieira do Minho\,  Braga Vieira do Minho\,  Braga
+SUMMARY:São Silvestre Vieira do Minho 2025
+DESCRIPTION:A vila de Vieira do Minho volta a receber\,  no dia 04 de janei
+ ro de 2025\,  nova edição da corrida de São Silvestre. A iniciativa est�
+ � marcada para as 17h00\,  com partida e chegada em frente à Câmara Munic
+ ipal\,  a quem cabe a organização.\nhttps://www.portugalrunning.com/event
+ os/sao-silvestre-vieira-do-minho-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vieira-do-minho-2025/
+END:VEVENT
+END:VCALENDAR

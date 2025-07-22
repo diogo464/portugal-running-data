@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5caace5
+DTSTAMP:20250720T222324Z
+DTSTART:20250525
+DTEND:20250526
+LOCATION:Castêlo da Maia\,  Porto Castêlo da Maia\,  Porto
+SUMMARY:Corrida e Caminhada da Campa do Preto 2025
+DESCRIPTION:Associação Beneficente da Campa do Preto em parceria com a C�
+ �mara Municipal da Maia e com atleta Fernanda Ribeiro irá realizar a “9�
+ � Corrida/Caminha da Campa do Preto” já no dia 25 de Maio de 2025.\nhttp
+ s://www.portugalrunning.com/eventos/corrida-e-caminhada-da-campa-do-preto-2
+ 025/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-da-campa-do-preto-2025/
+END:VEVENT
+END:VCALENDAR

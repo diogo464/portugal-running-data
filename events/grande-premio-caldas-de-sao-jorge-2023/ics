@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c984a25f
+DTSTAMP:20250720T222424Z
+DTSTART:20230924
+DTEND:20230925
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Grande Premio Caldas de São Jorge 2023
+DESCRIPTION:O Caldas de São Jorge Sport Clube volta a organizar um dos eve
+ ntos de referência do circuito Run For Feira\,  promovido pela Câmara Mun
+ icipal de Santa Maria da Feira. Este é um GP para todas as idades e géner
+ os\,  inclusivo e cheio de festa de atletismo.\nhttps://www.portugalrunning
+ .com/eventos/grande-premio-caldas-de-sao-jorge-2023/
+URL:https://www.portugalrunning.com/eventos/grande-premio-caldas-de-sao-jorge-2023/
+END:VEVENT
+END:VCALENDAR

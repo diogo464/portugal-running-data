@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cac93401
+DTSTAMP:20250720T222444Z
+DTSTART:20250706
+DTEND:20250707
+LOCATION:Almargem do Bispo\,  Sintra Almargem do Bispo\,  Sintra
+SUMMARY:Iron Trail 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/iron-trail-2025/
+URL:https://www.portugalrunning.com/eventos/iron-trail-2025/
+END:VEVENT
+END:VCALENDAR

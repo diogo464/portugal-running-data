@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9c92265
+DTSTAMP:20250720T222428Z
+DTSTART:20251019
+DTEND:20251020
+LOCATION:Rossas\,  Arouca Rossas\,  Arouca
+SUMMARY:Grande Prémio de Atletismo de Rossas 2025
+DESCRIPTION:O Grande Prémio de Atletismo de Rossas vai em 2025 para a sua 
+ 46ª edição\,  em Arouca. Aberto a toda a família\,  com prémios monet�
+ �rios para a vertente competitiva.\nhttps://www.portugalrunning.com/eventos
+ /grande-premio-de-atletismo-de-rossas-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-rossas-2025/
+END:VEVENT
+END:VCALENDAR

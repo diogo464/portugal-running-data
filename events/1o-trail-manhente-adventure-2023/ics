@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf831e3f
+DTSTAMP:20250720T222144Z
+DTSTART:20231105
+DTEND:20231106
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:1º Trail Manhente Adventure 2023
+DESCRIPTION:O “1o TRAIL MANHENTE ADVENTURE”\,  um evento de trail-runni
+ ng que percorre trilhos e caminhos no conselho da Barcelos. As corridas tê
+ m carácter competitivo e a caminhada sem carater competitivo.\nhttps://www
+ .portugalrunning.com/eventos/1o-trail-manhente-adventure-2023/
+URL:https://www.portugalrunning.com/eventos/1o-trail-manhente-adventure-2023/
+END:VEVENT
+END:VCALENDAR

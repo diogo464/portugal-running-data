@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfbf3acd
+DTSTAMP:20250720T222603Z
+DTSTART:20230701
+DTEND:20230702
+LOCATION:Pinhal Novo\,  Palmela Pinhal Novo\,  Palmela
+SUMMARY:Pinhal Novo Night Run 2023
+DESCRIPTION:O Pinhal Novo Night Run 2023 é uma competição de Corrida a
+  pé em estrada e Caminhada Desportiva (sem classificação) – é um even
+ to desportivo organizado conjuntamente pela Câmara Municipal de Palmela\, 
+  Palmela Desporto\,  E.M.\,  Junta da Freguesia de Pinhal Novo\,  Associaç
+ ão Académica Pinhalnovense e a Xistarca. Corrida 10km | 20h30 |[..]\nhttp
+ s://www.portugalrunning.com/eventos/pinhal-novo-night-run-2023/
+URL:https://www.portugalrunning.com/eventos/pinhal-novo-night-run-2023/
+END:VEVENT
+END:VCALENDAR

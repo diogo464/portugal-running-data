@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4cdd122
+DTSTAMP:20250720T222724Z
+DTSTART:20211212
+DTEND:20211213
+LOCATION:
+SUMMARY:Trail das Andorinhas 2021
+DESCRIPTION:Vem conhecer os trilhos da Terra da Filigrana no Trail das Ando
+ rinhas 2021.\nhttps://www.portugalrunning.com/eventos/trail-das-andorinhas-
+ 2021/
+URL:https://www.portugalrunning.com/eventos/trail-das-andorinhas-2021/
+END:VEVENT
+END:VCALENDAR

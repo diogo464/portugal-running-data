@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf74ae92
+DTSTAMP:20250720T222559Z
+DTSTART:20250907
+DTEND:20250908
+LOCATION:Penacova\,  Coimbra  Bombeiros Voluntários de Penacova
+SUMMARY:Penacova Trail do Centro 2025
+DESCRIPTION:Partindo de uma experiência acumulada no âmbito da organizaç
+ ão de eventos\,  a rede de Centros de Trail Running Carlos Sá nasce para 
+ dar resposta e meios às necessidades dos amantes desta modalidade (e outra
+ s)\,  de conhecerem um novo território\,  de uma forma completamente autó
+ noma.É um local organizado com vários percursos[..]\nhttps://www.portugal
+ running.com/eventos/penacova-trail-do-centro-2025/
+URL:https://www.portugalrunning.com/eventos/penacova-trail-do-centro-2025/
+END:VEVENT
+END:VCALENDAR

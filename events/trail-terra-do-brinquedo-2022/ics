@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8f3252b
+DTSTAMP:20250720T222831Z
+DTSTART:20220605
+DTEND:20220606
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Terra Do Brinquedo 2022
+DESCRIPTION:Trail Terra Do Brinquedo 2022\nhttps://www.portugalrunning.com/
+ eventos/trail-terra-do-brinquedo-2022/
+URL:https://www.portugalrunning.com/eventos/trail-terra-do-brinquedo-2022/
+END:VEVENT
+END:VCALENDAR

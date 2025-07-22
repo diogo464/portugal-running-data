@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c444b89d
+DTSTAMP:20250720T222300Z
+DTSTART:20210529
+DTEND:20210530
+LOCATION:Vila Franca de Xira\,  Lisboa Vila Franca de Xira\,  Lisboa
+SUMMARY:Corrida das Lezírias 2021
+DESCRIPTION:As corridas populares estão de volta e nada melhor que voltar 
+ a competir na Corrida das Lezírias! Este ano\,  o evento está adaptado à
+  realidade em que vivemos e será realizado nos dias&nbsp;29 e 30 de Maio\,
+   com horários de partida diferentes por escalão. Haverá apenas uma&nbsp
+ ;distância única de\,  aproximadamente\, [..]\nhttps://www.portugalrunnin
+ g.com/eventos/corrida-das-lezirias-2021/
+URL:https://www.portugalrunning.com/eventos/corrida-das-lezirias-2021/
+END:VEVENT
+END:VCALENDAR

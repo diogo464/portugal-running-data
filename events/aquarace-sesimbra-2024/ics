@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1a62112
+DTSTAMP:20250720T222218Z
+DTSTART:20240518
+DTEND:20240519
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Aquarace Sesimbra 2024
+DESCRIPTION:O AQUARACE SESIMBRA é uma atividade de promoção da atividade
+  física\,  disciplina de treino e espírito de equipa. Será realizado em 
+ equipas de 2 elementos que têm de efetuar 2 percursos\,  sendo 10 km em co
+ rrida com algum desnível + 5km de canoagem. No total\,  todos os participa
+ ntes percorrerão 15[..]\nhttps://www.portugalrunning.com/eventos/aquarace-
+ sesimbra-2024/
+URL:https://www.portugalrunning.com/eventos/aquarace-sesimbra-2024/
+END:VEVENT
+END:VCALENDAR

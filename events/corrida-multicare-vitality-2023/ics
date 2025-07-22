@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6501e99
+DTSTAMP:20250720T222333Z
+DTSTART:20231001
+DTEND:20231002
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corrida Multicare Vitality 2023
+DESCRIPTION:Dia 1 de Outubro\,  pelas 10h00 no Parque do Jamor\,  venha cor
+ rer na prova de 5 ou 10 km\,  ou caminhe na prova de 5 km. Este ano\,  temo
+ s uma novidade: a Corrida das Crianças pelas 9h00. Inscreva-se neste event
+ o familiar\,  que tem como objetivo promover o desporto para uma[..]\nhttps
+ ://www.portugalrunning.com/eventos/corrida-multicare-vitality-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-multicare-vitality-2023/
+END:VEVENT
+END:VCALENDAR

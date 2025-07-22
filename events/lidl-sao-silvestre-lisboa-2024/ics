@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cb6f3a68
+DTSTAMP:20250720T222454Z
+DTSTART:20241228
+DTEND:20241229
+LOCATION:Lisboa Lisboa
+SUMMARY:Lidl São Silvestre Lisboa 2024
+DESCRIPTION:A São Silvestre Lisboa\,  regressa às ruas da capital o dia 
+ 28 de Dezembro de 2024. Com início e final na Avenida da Liberdade\,  a S�
+ �o Silvestre Lisboa percorre toda a zona ribeirinha da capital numa prova t
+ radicionalmente marcada por luzes e animação.\nhttps://www.portugalrunnin
+ g.com/eventos/lidl-sao-silvestre-lisboa-2024/
+URL:https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa-2024/
+END:VEVENT
+END:VCALENDAR

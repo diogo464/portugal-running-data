@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d5d7b342
+DTSTAMP:20250720T222741Z
+DTSTART:20231112
+DTEND:20231113
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Trail Do Marco 2023
+DESCRIPTION:O Trail do Marco é um evento competitivo de Trail Running\,  o
+ rganizado pela AssociaçãoDesportiva do Marco 09\,  com o apoio do Municí
+ pio de Marco de Canaveses\,  e diversasentidades locais\,  a realizar no di
+ a 12 Novembro de 2023. Trail Longo - 30km - 1300 D+ Trail Curto - 20 km -[.
+ .]\nhttps://www.portugalrunning.com/eventos/trail-do-marco-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-marco-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3c628c2
+DTSTAMP:20250720T222708Z
+DTSTART:20240414
+DTEND:20240415
+LOCATION:Águeda\,  Aveiro Águeda\,  Aveiro
+SUMMARY:Trail Bela Bela 2024
+DESCRIPTION:O Trail Bela Bela terá em simultâneo três provas competitiva
+ s: Trail Longo (31 km)\,  Trail Curto (15 km) e Mini Trail (10 km). Decorre
+ rão também duas prova recreativas: Caminhada (9 km) e Trail KIDS (1 km). 
+ É um evento que percorre as veredas do monte\,  passando por margens de ri
+ o\, [..]\nhttps://www.portugalrunning.com/eventos/trail-bela-bela-2024/
+URL:https://www.portugalrunning.com/eventos/trail-bela-bela-2024/
+END:VEVENT
+END:VCALENDAR

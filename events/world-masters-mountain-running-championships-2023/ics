@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dca7a554
+DTSTAMP:20250720T222930Z
+DTSTART:20230915
+DTEND:20230916
+LOCATION:Madeira Madeira
+SUMMARY:World Masters Mountain Running Championships 2023
+DESCRIPTION:The World Masters Mountain Running Championships is an internat
+ ional mountain running competition contested by athletes of the members of 
+ WMRA\,  World Mountain Running Association\,  the sport's global governing 
+ body. This year the event will be hosted in the portuguese Madeira Archipel
+ ago.\nhttps://www.portugalrunning.com/eventos/world-masters-mountain-runnin
+ g-championships-2023/
+URL:https://www.portugalrunning.com/eventos/world-masters-mountain-running-championships-2023/
+END:VEVENT
+END:VCALENDAR

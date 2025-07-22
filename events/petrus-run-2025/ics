@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfb7b030
+DTSTAMP:20250720T222603Z
+DTSTART:20250309
+DTEND:20250310
+LOCATION:Pedroso\,  Vila Nova de Gaia Pedroso\,  Vila Nova de Gaia
+SUMMARY:Petrus Run 2025
+DESCRIPTION:A Junta de Freguesia de Pedroso e Seixezelo\,  com o apoio orga
+ nizativo do Clube Spiridon de Gaia e do Clube os Gaienses/Toyota\,  promove
+ rão uma prova de atletismo em estrada designada Petrus Run Intermarché 20
+ 25. Esta iniciativa tem por objetivo difundir a freguesia através de uma i
+ niciativa desportiva de periocidade anual\, [..]\nhttps://www.portugalrunni
+ ng.com/eventos/petrus-run-2025/
+URL:https://www.portugalrunning.com/eventos/petrus-run-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c487c133
+DTSTAMP:20250720T222304Z
+DTSTART:20250719
+DTEND:20250720
+LOCATION:Felgueiras\,  Porto Felgueiras\,  Porto
+SUMMARY:Corrida de Felgueiras 2025
+DESCRIPTION:O Município de Felgueiras leva a efeito\,  no dia 19 de julho 
+ de 2025\,  provas de atletismo (Corridas Jovens - Corrida 10 Km e Prova em 
+ Cadeira de Rodas) - no centro da Cidade de Felgueiras.\nhttps://www.portuga
+ lrunning.com/eventos/corrida-de-felgueiras-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-felgueiras-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d137973c
+DTSTAMP:20250720T222627Z
+DTSTART:20241215T070900Z
+DTEND:20241215T070900Z
+LOCATION:Guarda Guarda
+SUMMARY:São Silvestre da Guarda 2024
+DESCRIPTION:Esta 1ª São Silvestre/46º Grande Prémio de Atletismo Cidade
+  da Guarda irá disputar- se no dia 15 de dezembro de 2024 nos arruamentos 
+ do centro da Cidade da Guarda\,  com partidas e chegadas na Avenida dos Bom
+ beiros Egitanienses\,  junto ao Centro Comercial La Vie\,  entrada do piso 
+ 3.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-da-guarda-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-guarda-2024/
+END:VEVENT
+END:VCALENDAR

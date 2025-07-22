@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d92f403a
+DTSTAMP:20250720T222834Z
+DTSTART:20241215
+DTEND:20241216
+LOCATION:Ouça\,  Vagos Ouça\,  Vagos
+SUMMARY:Trail Trilhos de São Martinho 2024
+DESCRIPTION:O Trail Trilhos de S. Martinho será composto por duas provas d
+ e trail\,  uma na distância de 19 Km\,  integrada no Circuito de Trail da 
+ Associação de Atletismo de Aveiro\,  outra na distância de 12 Km e\,  ai
+ nda\,  uma caminhada na distância de 8 Km.\nhttps://www.portugalrunning.co
+ m/eventos/trail-trilhos-de-sao-martinho-2024/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-de-sao-martinho-2024/
+END:VEVENT
+END:VCALENDAR

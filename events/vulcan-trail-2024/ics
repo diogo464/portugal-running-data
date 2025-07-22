@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc830c08
+DTSTAMP:20250720T222928Z
+DTSTART:20240107
+DTEND:20240108
+LOCATION:Igreja Nova\,  Mafra Igreja Nova\,  Mafra
+SUMMARY:Vulcan Trail 2024
+DESCRIPTION:O Grupo Desportivo de Igreja Nova irá organizar\,  a 7 de Jane
+ iro de 2024\,  pelas 09h00\,  aprimeira edição do Vulcan Trail 2024 em Ig
+ reja Nova\,  concelho de Mafra. O Vulcan Trail 2024é uma prova de TrailRun
+ ning\,  corrida pedestre em natureza\,  com três provas\,  Trail Longo (TL
+ )K20+\,  Trail Curto (TC) K10+[..]\nhttps://www.portugalrunning.com/eventos
+ /vulcan-trail-2024/
+URL:https://www.portugalrunning.com/eventos/vulcan-trail-2024/
+END:VEVENT
+END:VCALENDAR

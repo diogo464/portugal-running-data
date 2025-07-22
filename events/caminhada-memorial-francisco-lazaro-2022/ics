@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c29931b0
+DTSTAMP:20250720T222233Z
+DTSTART:20220710
+DTEND:20220711
+LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
+SUMMARY:Caminhada Memorial Francisco Lázaro 2022
+DESCRIPTION:Francisco Lázaro\,  foi um atleta português\,  nascido em 188
+ 8. Fez parte da primeira equipa olímpica portuguesa nos Jogos Olímpicos d
+ e 1912\,  em Estocolmo\,  Suécia. Nestes jogos\,  Lázaro participou na pr
+ ova da maratona\,  desfalecendo durante a prova\,  ao km 29\,  na colina de
+  Öfver-Järva. Lázaro tinha cambaleado\,  caído por várias vezes[..]\nh
+ ttps://www.portugalrunning.com/eventos/caminhada-memorial-francisco-lazaro-
+ 2022/
+URL:https://www.portugalrunning.com/eventos/caminhada-memorial-francisco-lazaro-2022/
+END:VEVENT
+END:VCALENDAR

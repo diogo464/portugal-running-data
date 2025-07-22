@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0018cdc
+DTSTAMP:20250720T222152Z
+DTSTART:20230709
+DTEND:20230710
+LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+SUMMARY:2º Grande Prémio De Atletismo De Guilhovai 2023
+DESCRIPTION:Este G.P. Atletismo é organizado pelo Grupo Desportivo e Cultu
+ ral de Guilhovai que conta com a cobertura técnica da Associação de Atle
+ tismo da Aveiro. As provas do programa incluem todos os escalões etários/
+ género e uma caminhada\,  e terão início a partir das 09:00.\nhttps://ww
+ w.portugalrunning.com/eventos/2o-grande-premio-de-atletismo-de-guilhovai-20
+ 23/
+URL:https://www.portugalrunning.com/eventos/2o-grande-premio-de-atletismo-de-guilhovai-2023/
+END:VEVENT
+END:VCALENDAR

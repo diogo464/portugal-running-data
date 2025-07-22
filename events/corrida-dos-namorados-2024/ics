@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c58305d8
+DTSTAMP:20250720T222320Z
+DTSTART:20240211
+DTEND:20240212
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida dos Namorados 2024
+DESCRIPTION:Um percurso de 8km\,  no Estádio Universitário de Lisboa\,  u
+ nidos num só objetivo… passar a meta em conjunto! Não importa o ritmo\,
+   o importante é compartilhar o prazer da atividade física\,  num ambient
+ e de natureza e envolvidos por uma atmosfera de romantismo e cumplicidade. 
+ A classificação da vertente casais é[..]\nhttps://www.portugalrunning.co
+ m/eventos/corrida-dos-namorados-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-namorados-2024/
+END:VEVENT
+END:VCALENDAR

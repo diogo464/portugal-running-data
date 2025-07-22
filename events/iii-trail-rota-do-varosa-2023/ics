@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca862092
+DTSTAMP:20250720T222440Z
+DTSTART:20230501
+DTEND:20230502
+LOCATION:Tarouca\,  Viseu Tarouca\,  Viseu
+SUMMARY:III Trail Rota Do Varosa 2023
+DESCRIPTION:O Trail Rota do Varosa é organizado pela Associação Vale Var
+ osa e Câmara Municipal De Tarouca\,  contando com a colaboração do Agrup
+ amento de Escolas Dr. José Leite de Vasconcelos e o apoio de diferentes en
+ tidades públicas e privadas da região. A prova percorre os trilhos e perc
+ ursos pedestres adjacentes à[..]\nhttps://www.portugalrunning.com/eventos/
+ iii-trail-rota-do-varosa-2023/
+URL:https://www.portugalrunning.com/eventos/iii-trail-rota-do-varosa-2023/
+END:VEVENT
+END:VCALENDAR

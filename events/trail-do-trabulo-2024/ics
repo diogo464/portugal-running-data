@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65f3ec9
+DTSTAMP:20250720T222749Z
+DTSTART:20241124
+DTEND:20241125
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:Trail do Trabulo 2024
+DESCRIPTION:O Trail do Trabulo é um evento desportivo de trail running da 
+ responsabilidade organizativa doMunicípio de Sátão que se realizará no 
+ dia 24 de novembro de 2024. Os participantes terão a oportunidade de cruza
+ r o rio Vouga através de Pontes e Poldras usadas desde a antiguidade\,  vi
+ sitando também património histórico-religioso[..]\nhttps://www.portugalr
+ unning.com/eventos/trail-do-trabulo-2024/
+URL:https://www.portugalrunning.com/eventos/trail-do-trabulo-2024/
+END:VEVENT
+END:VCALENDAR

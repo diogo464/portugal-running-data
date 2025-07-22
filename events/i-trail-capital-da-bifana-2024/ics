@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cacc4d39
+DTSTAMP:20250720T222444Z
+DTSTART:20241020T150400Z
+DTEND:20241020T150400Z
+LOCATION:Landeira\,  Vendas Novas Landeira\,  Vendas Novas
+SUMMARY:I Trail Capital da Bifana 2024
+DESCRIPTION:O "I Trail Capital da Bifana" integra um conjunto de eventos de
+  caráter solidário de apoio aos BombeirosVoluntários de Vendas Novas. 20
+  Kms\,  10km e caminhada de 10 Km\nhttps://www.portugalrunning.com/eventos/
+ i-trail-capital-da-bifana-2024/
+URL:https://www.portugalrunning.com/eventos/i-trail-capital-da-bifana-2024/
+END:VEVENT
+END:VCALENDAR

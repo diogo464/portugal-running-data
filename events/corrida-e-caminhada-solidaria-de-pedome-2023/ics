@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c6061905
+DTSTAMP:20250720T222328Z
+DTSTART:20231021
+DTEND:20231022
+LOCATION:Pedome\,  Vila Nova de Famalicão Pedome\,  Vila Nova de Famalicão
+SUMMARY:Corrida e Caminhada Solidária de Pedome 2023
+DESCRIPTION:A Associação sem fins lucrativos\,  Grupo Recreativo Amigos d
+ e Calça Ferros (GRACAFE) com o objetivo de fomentar a prática desportiva 
+ junto das comunidades\,  apresenta a REN 7ª Corrida e Caminhada Solidária
+  de Pedome e Oliveira Santa Maria\,  a realizar-se no dia 21 de outubro de 
+ 2023 com partida e chegada[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-e-caminhada-solidaria-de-pedome-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-solidaria-de-pedome-2023/
+END:VEVENT
+END:VCALENDAR

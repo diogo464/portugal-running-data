@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2a31c93
+DTSTAMP:20250720T222234Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:Vouzela\,  Viseu Vouzela\,  Viseu
+SUMMARY:Caramulo 100 - 2022
+DESCRIPTION:Caramulo 100 - 2022\nhttps://www.portugalrunning.com/eventos/ca
+ ramulo-100-2022/
+URL:https://www.portugalrunning.com/eventos/caramulo-100-2022/
+END:VEVENT
+END:VCALENDAR

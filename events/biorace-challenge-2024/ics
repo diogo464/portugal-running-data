@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c2518cda
+DTSTAMP:20250720T222229Z
+DTSTART:20240928
+DTEND:20240929
+LOCATION:Estarreja\,  Aveiro Estarreja\,  Aveiro
+SUMMARY:Biorace Challenge 2024
+DESCRIPTION:Desafio para todos em pleno contacto com a natureza nos trilhos
+  do BioRia num cenário paradisíaco que convida à prática de exercício 
+ físico. Corrida com uma mistura de obstáculos naturais e outros criados p
+ ara animar e dificultar a aventura.\nhttps://www.portugalrunning.com/evento
+ s/biorace-challenge-2024/
+URL:https://www.portugalrunning.com/eventos/biorace-challenge-2024/
+END:VEVENT
+END:VCALENDAR

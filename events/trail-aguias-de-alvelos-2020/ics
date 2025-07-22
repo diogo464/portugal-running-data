@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d38929d3
+DTSTAMP:20250720T222704Z
+DTSTART:20200308
+DTEND:20200309
+LOCATION:Alvelos\,  Braga Alvelos\,  Braga
+SUMMARY:Trail Águias de Alvelos 2020
+DESCRIPTION:O Trail Águias de Alvelos está de volta a 8 de março de 20
+ 20\,  quando te poderás sentir uma ÁGUIA na Montanha... Não podes perder
+  esta oportunidade de voar como uma ÁGUIA\nhttps://www.portugalrunning.com
+ /eventos/trail-aguias-de-alvelos-2020/
+URL:https://www.portugalrunning.com/eventos/trail-aguias-de-alvelos-2020/
+END:VEVENT
+END:VCALENDAR

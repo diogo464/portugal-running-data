@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c26c33fe
+DTSTAMP:20250720T222230Z
+DTSTART:20220425
+DTEND:20220426
+LOCATION:Mira\,  Coimbra Mira\,  Coimbra
+SUMMARY:Brutus Brave Lake 2022
+DESCRIPTION:A Brutus Brave Lake 2022 voltará a ter palco em Mira\,  com os
+  habituais obstáculos duros\,  mas criativos. Não percas a oportunidade d
+ e te superar\,  de te libertar com a adrenalina da Brutus Brave Lake.\nhttp
+ s://www.portugalrunning.com/eventos/brutus-brave-lake-2022/
+URL:https://www.portugalrunning.com/eventos/brutus-brave-lake-2022/
+END:VEVENT
+END:VCALENDAR

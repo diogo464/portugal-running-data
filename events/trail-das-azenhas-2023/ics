@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d4d013a5
+DTSTAMP:20250720T222725Z
+DTSTART:20230326
+DTEND:20230327
+LOCATION:Coimbra Coimbra
+SUMMARY:Trilhos Das Azenhas 2023
+DESCRIPTION:O TRILHO DAS AZENHAS é organizado pela Roda Dianteira BTT. A R
+ oda Dianteira BTT é uma entidade\,  que tem como principal objetivo promov
+ er e desenvolver atividades desportivas de aventura associadas à natureza.
+  O âmbito da sua ação passa pela promoção de atividades de cariz ambie
+ ntal\,  social e cultural.O TRILHO DAS[..]\nhttps://www.portugalrunning.com
+ /eventos/trail-das-azenhas-2023/
+URL:https://www.portugalrunning.com/eventos/trail-das-azenhas-2023/
+END:VEVENT
+END:VCALENDAR

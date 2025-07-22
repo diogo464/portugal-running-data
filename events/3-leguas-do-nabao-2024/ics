@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c04936f9
+DTSTAMP:20250720T222156Z
+DTSTART:20240303
+DTEND:20240304
+LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+SUMMARY:3 Léguas do Nabão 2024
+DESCRIPTION:A 40ª Edição das 3 Léguas do Nabão\,  decorrerá no dia 03
+  de Março de 2024. Sabia que a data da prova está permanentemente agendad
+ a? As 3 Léguas disputam-se sempre no primeiro domingo de Março\,  excepto
+  quando coincide com o dia 1\,  dia da Cidade\,  situação em que a data[.
+ .]\nhttps://www.portugalrunning.com/eventos/3-leguas-do-nabao-2024/
+URL:https://www.portugalrunning.com/eventos/3-leguas-do-nabao-2024/
+END:VEVENT
+END:VCALENDAR

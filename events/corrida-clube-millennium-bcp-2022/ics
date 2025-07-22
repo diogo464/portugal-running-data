@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3af3c5c
+DTSTAMP:20250720T222250Z
+DTSTART:20220619
+DTEND:20220620
+LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+SUMMARY:Corrida Clube Millennium bcp 2022
+DESCRIPTION:O Clube Millennium BCP irá realizar a “IV Corrida Clube Mi
+ llennium bcp 2022”\,  no dia 19 de Junho 2022\,  em Belém. É um evento
+  de natureza desportiva que tem como objetivo incentivar e consciencializar
+  a população para a importância da prática de exercício físico\,  num
+  cenário com o Rio Tejo como imagem de[..]\nhttps://www.portugalrunning.co
+ m/eventos/corrida-clube-millennium-bcp-2022/
+URL:https://www.portugalrunning.com/eventos/corrida-clube-millennium-bcp-2022/
+END:VEVENT
+END:VCALENDAR

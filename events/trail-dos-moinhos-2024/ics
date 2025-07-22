@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65c4386
+DTSTAMP:20250720T222749Z
+DTSTART:20240929
+DTEND:20240930
+LOCATION:Frazão\,  Paços de Ferreira Frazão\,  Paços de Ferreira
+SUMMARY:Trail dos Moinhos 2024
+DESCRIPTION:A quinta edição do Trail dos Moinhos e a nona edição do Cam
+ inhando terão início no próximo dia 29 de Setembro no lugar de Moinhos n
+ a freguesia de Frazão\,  do concelho de Paços de Ferreira. As duas provas
+  que compõem o evento\,  serão realizadas pelos belos locais do nosso con
+ celho.[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-moinhos-2024/
+URL:https://www.portugalrunning.com/eventos/trail-dos-moinhos-2024/
+END:VEVENT
+END:VCALENDAR

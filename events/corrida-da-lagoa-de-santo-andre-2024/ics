@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3c62640
+DTSTAMP:20250720T222252Z
+DTSTART:20240713
+DTEND:20240714
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:Corrida da Lagoa de Santo André 2024
+DESCRIPTION:A Junta de Freguesia de Santo André\,  em co-organização com
+  a Ganhardestak realiza no próximo dia 13 de julho de 2024\,  a “27ª Co
+ rrida da Lagoa de Santo André” em Santo André\,  Santiago do Cacém. É
+  uma prova desportiva que tem como objetivo de promover a prática desporti
+ va\,  o bem[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-lagoa-d
+ e-santo-andre-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-da-lagoa-de-santo-andre-2024/
+END:VEVENT
+END:VCALENDAR

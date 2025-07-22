@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3caa8d4
+DTSTAMP:20250720T222708Z
+DTSTART:20230402
+DTEND:20230403
+LOCATION:Águeda\,  Aveiro Águeda\,  Aveiro
+SUMMARY:Trail Bela Bela 2023
+DESCRIPTION:O Trail Bela Bela\,  prova integrante do Circuito Jovem Série 
+ 150 (trail curto)\,  da Taça de Portugal de Trail (trail longo) e do Trof�
+ �u de Trail Terras de Águeda (duas distâncias)\,  realiza-se na União de
+  Freguesias de localidade de Belazaima do Chão\,  Castanheira e Agadão\, 
+  concelho de Águeda. É um[..]\nhttps://www.portugalrunning.com/eventos/tr
+ ail-bela-bela-2023/
+URL:https://www.portugalrunning.com/eventos/trail-bela-bela-2023/
+END:VEVENT
+END:VCALENDAR

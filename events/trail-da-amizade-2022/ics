@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d477b583
+DTSTAMP:20250720T222719Z
+DTSTART:20221211
+DTEND:20221212
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Amizade 2022
+DESCRIPTION:O Trail da Amizade é um evento desportivo de Trail Running org
+ anizado pelo Centro de Amizade e Animação Social de Santiago da Guarda �
+ � uma associação de cariz recreativo\,  desportivo\,  cultura e social (I
+ PSS). A sua 1ª edição terá lugar já no próximo 10 e 11 DE DEZEMBRO 20
+ 22 e[..]\nhttps://www.portugalrunning.com/eventos/trail-da-amizade-2022/
+URL:https://www.portugalrunning.com/eventos/trail-da-amizade-2022/
+END:VEVENT
+END:VCALENDAR

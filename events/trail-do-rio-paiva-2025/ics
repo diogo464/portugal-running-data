@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d61aafa5
+DTSTAMP:20250720T222745Z
+DTSTART:20250119
+DTEND:20250120
+LOCATION:Cinfães\,  Viseu Cinfães\,  Viseu
+SUMMARY:Trail do Rio Paiva 2025
+DESCRIPTION:O VI Trail do Rio Paiva é uma prova competitiva de corrida de 
+ montanha\,  organizada pela Duelo D’Ocasião - Associação. A prova tem 
+ lugar no concelho de Cinfães\,  tendo como local de partida e chegada o Pa
+ rque de Autocaravanismo de Souselo junto à Escola Do 2o E 3o Ciclos Do[..]
+ \nhttps://www.portugalrunning.com/eventos/trail-do-rio-paiva-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-rio-paiva-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd162805
+DTSTAMP:20250720T222521Z
+DTSTART:20201206
+DTEND:20201207
+LOCATION:Portimão\,  Faro Portimão\,  Faro
+SUMMARY:Meia Maratona de Portimão 2020
+DESCRIPTION:Meia Maratona de Portimão 2020\nhttps://www.portugalrunning.co
+ m/eventos/meia-maratona-de-portimao-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-portimao-2020/
+END:VEVENT
+END:VCALENDAR

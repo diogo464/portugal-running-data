@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dbb62c04
+DTSTAMP:20250720T222915Z
+DTSTART:20230514
+DTEND:20230515
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:Vadia Solidária 2023
+DESCRIPTION:Será no dia 14 de maio de 2023\,  que a Associação AZtrail\,
+   organizará a VADIA SOLIDÁRIA. VADIA CORRIDA – Corrida sem objetivo co
+ mpetitivo com cerca de 15km. CAMINHADA VADIA 8KCom início na Cervejaria Va
+ dia/Brewpub (coordenadas GPS 40.841298\,  -8.435105)\,  situada na Rua Come
+ ndador Artur José Gomes Barbosa 576\,  3720-005 Ossela\,  no[..]\nhttps://
+ www.portugalrunning.com/eventos/vadia-solidaria-2023/
+URL:https://www.portugalrunning.com/eventos/vadia-solidaria-2023/
+END:VEVENT
+END:VCALENDAR

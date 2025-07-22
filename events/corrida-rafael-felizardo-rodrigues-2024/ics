@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c69aafbf
+DTSTAMP:20250720T222337Z
+DTSTART:20240413T142200Z
+DTEND:20240413T142200Z
+LOCATION:Fajã Grande\,  Ilha das Flores\,  Fajã Grande\,  Ilha das Flores
+SUMMARY:Corrida Rafael Felizardo Rodrigues 2024
+DESCRIPTION:A Corrida Rafael Felizardo Rodrigues é uma prova de atletismo 
+ de estrada organizada pelo Atlético Clube Fajã Grande\,  e que foi criada
+  com o objetivo de homenagear o seu sócio nº1 e principal impulsionador d
+ a criação do clube. A primeira edição decorrerá no dia 13 de abril de 
+ 2024.\nhttps://www.portugalrunning.com/eventos/corrida-rafael-felizardo-rod
+ rigues-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-rafael-felizardo-rodrigues-2024/
+END:VEVENT
+END:VCALENDAR

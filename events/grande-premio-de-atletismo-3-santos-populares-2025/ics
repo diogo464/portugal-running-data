@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9b493b0
+DTSTAMP:20250720T222427Z
+DTSTART:20250720T143300Z
+DTEND:20250720T235900Z
+LOCATION:Carregal do Sal\,  Viseu Carregal do Sal\,  Viseu
+SUMMARY:Grande Prémio de Atletismo 3 Santos Populares 2025
+DESCRIPTION:XXVI Grande Prémio de Atletismo 3 Santos Populares\nhttps://ww
+ w.portugalrunning.com/eventos/grande-premio-de-atletismo-3-santos-populares
+ -2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-3-santos-populares-2025/
+END:VEVENT
+END:VCALENDAR

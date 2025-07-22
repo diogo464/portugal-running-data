@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8700d54
+DTSTAMP:20250720T222823Z
+DTSTART:20230430
+DTEND:20230501
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:3º Trail Run Aqui HÁ-OS 2023
+DESCRIPTION:A associação Talentos Objetivos – Clube de Enduro e Recreio
+  irá promover\,  com o apoio da junta de freguesia de Quiaios\,  da Camara
+  Municipal da Figueira da Foz e da Camara Municipal de Montemor-o-Velho\,  
+ a terceira edição de Trail Running intitulada 3 º TRAIL RUN AQUI HÁ-OS.
+ Será realizada nos dias[..]\nhttps://www.portugalrunning.com/eventos/trail
+ -run-aqui-ha-os-2023/
+URL:https://www.portugalrunning.com/eventos/trail-run-aqui-ha-os-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dab79e8c
+DTSTAMP:20250720T222859Z
+DTSTART:20230312
+DTEND:20230313
+LOCATION:Celorico de Basto\,  Braga Celorico de Basto\,  Braga
+SUMMARY:Trilhos do Viso 2023
+DESCRIPTION:O Município de Celorico de Basto\,  com o apoio do Boavista FC
+  Trail\,  são as entidades organizadoras do evento “Trilhos do Viso“\,
+   que decorrerá no dia 12 de Março de 2023\,  em Celorico de Basto\,  na 
+ Serra do Viso\,  independentemente das condições climatéricas do dia\,  
+ desde que a organização entenda[..]\nhttps://www.portugalrunning.com/even
+ tos/trilhos-do-viso-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-viso-2023/
+END:VEVENT
+END:VCALENDAR

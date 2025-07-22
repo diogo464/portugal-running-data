@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c5731840
+DTSTAMP:20250720T222319Z
+DTSTART:20240425
+DTEND:20240426
+LOCATION:Évora Évora
+SUMMARY:Corrida do Lusitano 2024
+DESCRIPTION:A Corrida Lusitano Ginásio Clube é promovida pelo Lusitano Gi
+ násio Clube; com o apoio da Câmara Municipal de Évora e de outros parcei
+ ros que\,  de alguma forma\,  estão também a ajudar na realização deste
+  evento. A realização do evento será no dia 25 de Abril de 2024\,  às 1
+ 0h00 no[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-lusitano-20
+ 24/
+URL:https://www.portugalrunning.com/eventos/corrida-do-lusitano-2024/
+END:VEVENT
+END:VCALENDAR

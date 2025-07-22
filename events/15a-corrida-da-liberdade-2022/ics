@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf3aa5dc
+DTSTAMP:20250720T222139Z
+DTSTART:20220425
+DTEND:20220426
+LOCATION:Setúbal Setúbal
+SUMMARY:15ª Corrida da Liberdade 2022
+DESCRIPTION:Partida e Chegada:&nbsp;no Parque Verde da Bela Vista\,  Setúb
+ al; coordenadas GPS do local da partida: 38°31'09.0"N 8°51'54.6"W. A Junt
+ a de Freguesia de São Sebastião organiza com o apoio da Associação de A
+ tletismo Lebres do Sado e do movimento associativo a 15º edição da Corri
+ da da Liberdade no dia 25 de[..]\nhttps://www.portugalrunning.com/eventos/1
+ 5a-corrida-da-liberdade-2022/
+URL:https://www.portugalrunning.com/eventos/15a-corrida-da-liberdade-2022/
+END:VEVENT
+END:VCALENDAR

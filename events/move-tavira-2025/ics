@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ceddc9a4
+DTSTAMP:20250720T222549Z
+DTSTART:20250316T155600Z
+DTEND:20250316T155600Z
+LOCATION:Tavira\,  Faro Tavira\,  Faro
+SUMMARY:MOVE.Tavira 2025
+DESCRIPTION:A&nbsp;17ª edição do MOVE.Tavira\,  uma iniciativa solidári
+ a organizada pela&nbsp;Associação Oncológica do Algarve (AOA)&nbsp;em pa
+ rceria com a Câmara Municipal de Tavira\,  a União de Freguesias de Tavir
+ a e a Taviraverde\,  terá como ponto de partida a Praça da República\,  
+ em Tavira\,  no próximo dia 16 de março de 2025. Com percursos[..]\nhttps
+ ://www.portugalrunning.com/eventos/move-tavira-2025/
+URL:https://www.portugalrunning.com/eventos/move-tavira-2025/
+END:VEVENT
+END:VCALENDAR

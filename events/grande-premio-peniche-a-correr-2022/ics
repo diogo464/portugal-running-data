@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ca24906e
+DTSTAMP:20250720T222434Z
+DTSTART:20220313
+DTEND:20220314
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:Grande Prémio Peniche a Correr 2022
+DESCRIPTION:Correr em Peniche é um privilégio para qualquer amante do des
+ porto. O percurso do nosso Grande Prémio Peniche a Correr 2022\,  que perc
+ orre a península de Peniche\,  permite aos participantes uma experiência 
+ única de envolvência com o mar e toda a sua flora. A passagem pela cidade
+ \,  praias\,  farol e[..]\nhttps://www.portugalrunning.com/eventos/grande-p
+ remio-peniche-a-correr-2022/
+URL:https://www.portugalrunning.com/eventos/grande-premio-peniche-a-correr-2022/
+END:VEVENT
+END:VCALENDAR

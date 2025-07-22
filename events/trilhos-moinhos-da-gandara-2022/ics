@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dad62d10
+DTSTAMP:20250720T222901Z
+DTSTART:20220618
+DTEND:20220619
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:Trilhos Moinhos Da Gândara 2022
+DESCRIPTION:Trilhos Moinhos Da Gândara 2022\nhttps://www.portugalrunning.c
+ om/eventos/trilhos-moinhos-da-gandara-2022/
+URL:https://www.portugalrunning.com/eventos/trilhos-moinhos-da-gandara-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da293512
+DTSTAMP:20250720T222850Z
+DTSTART:20231022
+DTEND:20231023
+LOCATION:Cercal do Alentejo\,  Setúbal Cercal do Alentejo\,  Setúbal
+SUMMARY:Trilhos da Raposa 2023
+DESCRIPTION:Os Trilhos da Raposa é organizado pela Associação Cercal Bik
+ e e Crosstraining Cercal com o apoio da Junta de Freguesia do Cercal do Ale
+ ntejo e da Câmara Municipal de Santiago do Cacém. Este evento decorrerá 
+ no dia 22 Outubro de 2023 no Cercal do Alentejo. O Trail Longo\,  o Trail[.
+ .]\nhttps://www.portugalrunning.com/eventos/trilhos-da-raposa-2023/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-raposa-2023/
+END:VEVENT
+END:VCALENDAR

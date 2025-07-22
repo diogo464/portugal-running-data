@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2f4a07b
+DTSTAMP:20250720T222655Z
+DTSTART:20241124
+DTEND:20241125
+LOCATION:Montejunto\,  Cadaval Montejunto\,  Cadaval
+SUMMARY:Montejunto Sky Race Inverno 2024
+DESCRIPTION: \nhttps://www.portugalrunning.com/eventos/sky-race-montejunto
+ -2024-inverno/
+URL:https://www.portugalrunning.com/eventos/sky-race-montejunto-2024-inverno/
+END:VEVENT
+END:VCALENDAR

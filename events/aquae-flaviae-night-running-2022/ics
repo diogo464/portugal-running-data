@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c19c2b06
+DTSTAMP:20250720T222217Z
+DTSTART:20220716
+DTEND:20220717
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Aquae Flaviae Night Running 2022
+DESCRIPTION:Aquae Flaviae Night Running 2022\nhttps://www.portugalrunning.c
+ om/eventos/aquae-flaviae-night-running-2022/
+URL:https://www.portugalrunning.com/eventos/aquae-flaviae-night-running-2022/
+END:VEVENT
+END:VCALENDAR

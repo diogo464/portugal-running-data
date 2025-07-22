@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d10619ab
+DTSTAMP:20250720T222624Z
+DTSTART:20241214
+DTEND:20241215
+LOCATION:Coimbra Coimbra
+SUMMARY:São Silvestre Coimbra 2024
+DESCRIPTION:A festa da São Silvestre aproxima-se. Cada vez mais ativa e re
+ levante\,  a São Silvestre de Coimbra continua a garantir a tradição e a
+  mística de ser uma das mais antigas provas de São Silvestre em Portugal.
+  Vem participar e fazer a festa\,  antes de entrares na preparação do Nat
+ al.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-coimbra-2024/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-coimbra-2024/
+END:VEVENT
+END:VCALENDAR

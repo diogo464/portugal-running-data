@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0361d54
+DTSTAMP:20250720T222155Z
+DTSTART:20220730
+DTEND:20220731
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:38ª Prova do Bodo 2022
+DESCRIPTION:As Festas do Bodo estão de volta e com elas a tradicional Prov
+ a do Bodo\,  evento de corrida de estrada que se realizará no dia 30/07/20
+ 22\,  a partir das 19 horas. A edição deste ano será constituída por: 1
+ 0 km do Bodo Corrida das Farturas (3 km) Caminhada do Bodo[..]\nhttps://www
+ .portugalrunning.com/eventos/38a-prova-do-bodo-2022/
+URL:https://www.portugalrunning.com/eventos/38a-prova-do-bodo-2022/
+END:VEVENT
+END:VCALENDAR

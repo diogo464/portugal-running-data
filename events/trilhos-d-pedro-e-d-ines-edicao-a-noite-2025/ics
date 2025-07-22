@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dab304d6
+DTSTAMP:20250720T222859Z
+DTSTART:20250503
+DTEND:20250504
+LOCATION:Lourinhã\,  Peniche Lourinhã\,  Peniche
+SUMMARY:Trilhos D. Pedro e D. Inês edição “À noite” 2025
+DESCRIPTION:URDC do Paço irá realizar\,  no próximo dia 3 de maio de 20
+ 25\,  um evento denominado "Trilhos D. Pedro e D. Inês”\,  que consist
+ irá numa prova de trail com cerca de 15 Km e numa caminhada com cerca d
+ e 7 Km. Todos os percursos serão circulares\,  terão início e fim junto 
+ à sede da URDC Paço[..]\nhttps://www.portugalrunning.com/eventos/trilhos-
+ d-pedro-e-d-ines-edicao-a-noite-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-d-pedro-e-d-ines-edicao-a-noite-2025/
+END:VEVENT
+END:VCALENDAR

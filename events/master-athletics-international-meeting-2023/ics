@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cc849cd5
+DTSTAMP:20250720T222512Z
+DTSTART:20230128
+DTEND:20230129
+LOCATION:Ribeira Brava\,  Madeira Ribeira Brava\,  Madeira
+SUMMARY:Master Athletics International Meeting 2023
+DESCRIPTION:O Master Athletics International Meeting 2023 (MAIM) é uma com
+ petição de âmbito internacional\,  organizada pela Associação de Atlet
+ ismo da Região Autónoma da Madeira destinada a atletas veteranos.\nhttps:
+ //www.portugalrunning.com/eventos/master-athletics-international-meeting-20
+ 23/
+URL:https://www.portugalrunning.com/eventos/master-athletics-international-meeting-2023/
+END:VEVENT
+END:VCALENDAR

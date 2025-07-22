@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c60623fe
+DTSTAMP:20250720T222328Z
+DTSTART:20250928
+DTEND:20250929
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida entre Parques Coimbra 2025
+DESCRIPTION:Vem sentir a magia dos parques e da zona histórica de Coimbra!
+ Um percurso único\,  repleto de história e magia\,  atravessa alguns dos 
+ locais mais icónicos da cidade\,  recantos escondidos da cidade que vais d
+ escobrir a correr ou a caminhar\,  entre os jardins mais emblemáticos e a 
+ Zona Histórica da Cidade[..]\nhttps://www.portugalrunning.com/eventos/corr
+ ida-entre-parques-coimbra-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-entre-parques-coimbra-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c3748a71
+DTSTAMP:20250720T222247Z
+DTSTART:20240218
+DTEND:20240219
+LOCATION:Avintes\,  Vila Nova de Gaia Avintes\,  Vila Nova de Gaia
+SUMMARY:Corrida Avintes 2024
+DESCRIPTION:Realiza-se na Vila de Avintes\,  com partida e chegada na Escol
+ a Fernando Guedes a 11ª edição dos 10 Km de Avintes\,  na qual se integr
+ ará uma Mini/Caminhada com a distância de 5 km.\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-avintes-2024/
+URL:https://www.portugalrunning.com/eventos/corrida-avintes-2024/
+END:VEVENT
+END:VCALENDAR

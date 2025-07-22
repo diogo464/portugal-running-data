@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6da2639f4
+DTSTAMP:20250720T222850Z
+DTSTART:20240501
+DTEND:20240502
+LOCATION:Ourique\,  Beja Ourique\,  Beja
+SUMMARY:Trilhos da Cola 2024
+DESCRIPTION:O evento desportivo\,  Trilhos da Cola 2024\,  é promovido e o
+ rganizado pela secção de Atletismodo Ourique Desportos Clube e destina-se
+  a todos os cidadãos que cumpram o disposto nopresente regulamento.\nhttps
+ ://www.portugalrunning.com/eventos/trilhos-da-cola-2024/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-cola-2024/
+END:VEVENT
+END:VCALENDAR

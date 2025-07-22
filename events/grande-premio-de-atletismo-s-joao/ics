@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c9ef3c4a
+DTSTAMP:20250720T222430Z
+DTSTART:20210626
+DTEND:20210627
+LOCATION:Évora Évora
+SUMMARY:Grande Prémio de Atletismo S. João
+DESCRIPTION:Sempre condicionado pelas contingências da atual situação pa
+ ndémica\,  o Grande Prémio de Atletismo S. João\,  na distância de 10 q
+ uilómetros\,  disputar-se-á na noite de sábado (26) com partida e chegad
+ a no Complexo Desportivo de Évora. No domingo de manhã será a vez dos es
+ calões mais jovens desfrutarem desta salutar e[..]\nhttps://www.portugalru
+ nning.com/eventos/grande-premio-de-atletismo-s-joao/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-s-joao/
+END:VEVENT
+END:VCALENDAR

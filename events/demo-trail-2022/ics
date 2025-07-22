@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c7e48cbe
+DTSTAMP:20250720T222358Z
+DTSTART:20220522
+DTEND:20220523
+LOCATION:Vila Nova de Paiva\,  Viseu Vila Nova de Paiva\,  Viseu
+SUMMARY:Demo Trail 2022
+DESCRIPTION:Demo Trail 2022\nhttps://www.portugalrunning.com/eventos/demo-t
+ rail-2022/
+URL:https://www.portugalrunning.com/eventos/demo-trail-2022/
+END:VEVENT
+END:VCALENDAR

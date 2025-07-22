@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d65f41c0
+DTSTAMP:20250720T222749Z
+DTSTART:20230402
+DTEND:20230403
+LOCATION:Redondo\,  Évora Redondo\,  Évora
+SUMMARY:Trail do Texugo - Sport Hg 2023
+DESCRIPTION:O Trail do Texugo é uma prova de Trail Running\,  corrida pede
+ stre em Natureza\,  com quatrodistâncias\,  Trail Ultra (TU) K42+ \,  Trai
+ l Longo (TL) K25+ \,  Trail Sprint (TS) K14+ e Iniciaçãoao Trail 10Km.A p
+ rova terá início e fim na Aldeia da Serra D'Ossa percorrendo trilhos\,  e
+ stradões\,  caminhosflorestais\,  corta-fogos\,  singletracks\, [..]\nhttp
+ s://www.portugalrunning.com/eventos/trail-do-texugo-2023/
+URL:https://www.portugalrunning.com/eventos/trail-do-texugo-2023/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd5dbba1
+DTSTAMP:20250720T222525Z
+DTSTART:20250126
+DTEND:20250127
+LOCATION:Sevilha\,  Espanha Sevilha\,  Espanha
+SUMMARY:Meia Maratona de Sevilha 2025
+DESCRIPTION:A Meia Maratona de Sevilha é uma corrida de estrada que ocorre
+  a 26 de Janeiro na cidade de Sevilha\,  em Espanha. É um evento desportiv
+ o muito popular que atrai corredores de todo o mundo. A corrida tem uma dis
+ tância de 21\, 1 quilómetros (meia maratona) e percorre algumas das paisa
+ gens[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-sevilha-
+ 2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-sevilha-2025/
+END:VEVENT
+END:VCALENDAR

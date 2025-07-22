@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d441859a
+DTSTAMP:20250720T222716Z
+DTSTART:20231119
+DTEND:20231120
+LOCATION:São Martinho da Gândara\,  Oliveira de Azeméis São Martinho da Gândara\,  Oliveira de Azeméis
+SUMMARY:Trail Castro Recarei 2023
+DESCRIPTION:O V Trail “Castro Recarei” é uma prova de corrida em zona 
+ de mata\,  caminhos\,  represas e linhas de água\,  organizada pelo Centro
+  Desportivo e Cultural de São Martinho da Gândara. O trail “castro Reca
+ rei tem o apoio da Câmara Municipal de Oliveira de Azeméis e da Junta de 
+ Freguesia[..]\nhttps://www.portugalrunning.com/eventos/trail-castro-recarei
+ -2023/
+URL:https://www.portugalrunning.com/eventos/trail-castro-recarei-2023/
+END:VEVENT
+END:VCALENDAR

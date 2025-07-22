@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d09db69b
+DTSTAMP:20250720T222617Z
+DTSTART:20221210
+DTEND:20221211
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:São Silveste Caminhense 2022
+DESCRIPTION:A IV São Silvestre de Caminha\,  tem lugar no concelho de Cami
+ nha\,  em Portugal\,  com organização da Associação Triatlo de Caminha\
+ ,  em parceria com a Câmara Municipal de Caminha. Será uma corrida e uma 
+ caminhada:São Silvestre \,  10 km\,  para atletas federados e não federad
+ os; Caminhada\,  5 KM\,  destinada a[..]\nhttps://www.portugalrunning.com/e
+ ventos/sao-silveste-caminhense-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silveste-caminhense-2022/
+END:VEVENT
+END:VCALENDAR

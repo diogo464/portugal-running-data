@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c37023cb
+DTSTAMP:20250720T222247Z
+DTSTART:20231005
+DTEND:20231006
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:Corrida Aves Em Movimento 2023
+DESCRIPTION:A 8° edição será realizada a 05/10/2023 e tem uma prova de 
+ estrada de 10km e 5km caminhada.\nhttps://www.portugalrunning.com/eventos/c
+ orrida-aves-em-movimento-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-aves-em-movimento-2023/
+END:VEVENT
+END:VCALENDAR

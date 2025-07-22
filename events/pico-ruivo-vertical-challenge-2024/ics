@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cfb93db6
+DTSTAMP:20250720T222603Z
+DTSTART:20240914
+DTEND:20240915
+LOCATION:Pico Ruivo\,  Madeira Pico Ruivo\,  Madeira
+SUMMARY:Pico Ruivo Vertical Challenge 2024
+DESCRIPTION:O “Pico Ruivo Vertical Challenge” é um evento de trail run
+ ning\,  que decorre integralmente no concelho de Santana\,  contando com um
+ a prova de etapa única\,  que liga o Calhau de São Jorge ao Ponto mais al
+ to da ilha; o Pico Ruivo.\nhttps://www.portugalrunning.com/eventos/pico-rui
+ vo-vertical-challenge-2024/
+URL:https://www.portugalrunning.com/eventos/pico-ruivo-vertical-challenge-2024/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d9e7ada6
+DTSTAMP:20250720T222846Z
+DTSTART:20240501
+DTEND:20240502
+LOCATION:Canedo\,  Santa Maria da Feira Canedo\,  Santa Maria da Feira\,  Aveiro
+SUMMARY:Trilho dos Pernetas 2024
+DESCRIPTION:Venha correr e divertir-se na quinta edição dos Trilhos dos P
+ ernetas\,  nas serras de Canedo\,  em pleno concelho de Santa Maria da Feir
+ a.\nhttps://www.portugalrunning.com/eventos/trilho-dos-pernetas-2024/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-pernetas-2024/
+END:VEVENT
+END:VCALENDAR

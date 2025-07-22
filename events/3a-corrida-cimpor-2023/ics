@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c046180d
+DTSTAMP:20250720T222156Z
+DTSTART:20231022
+DTEND:20231023
+LOCATION:Alhandra\, Vila Franca de Xira Alhandra\, Vila Franca de Xira
+SUMMARY:3ª Corrida Cimpor 2023
+DESCRIPTION:Corrida 10km | 10h00 | CIMPOR Alhandra Caminhada 4km | 10h05 | 
+ CIMPOR Alhandra\nhttps://www.portugalrunning.com/eventos/3a-corrida-cimpor-
+ 2023/
+URL:https://www.portugalrunning.com/eventos/3a-corrida-cimpor-2023/
+END:VEVENT
+END:VCALENDAR

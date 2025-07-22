@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4849c4a
+DTSTAMP:20250720T222304Z
+DTSTART:20200510
+DTEND:20200511
+LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+SUMMARY:Corrida de Belém 2020
+DESCRIPTION:A Corrida de Belém procura incentivar a prática desportiva.
+  Com organização da Junta de Freguesia de Belém\,  integra uma corrida 
+ de 10 km e uma caminhada com 4 km\,  ambas as provas com partida e chegad
+ a no Estádio do Restelo. Seja valente e venha participar nesta incrível p
+ rova\,  a correr ou a caminhar e percorra[..]\nhttps://www.portugalrunning.
+ com/eventos/corrida-de-belem-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-de-belem-2020/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bfb18f90
+DTSTAMP:20250720T222147Z
+DTSTART:20231029
+DTEND:20231030
+LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+SUMMARY:20 Kms de Almeirim 2023
+DESCRIPTION:Venha participar na 36ª edição 20 Kms de Almeirim\,  uma das
+  clássicas provas de estrada em Portugal\,  que começa e termina na terra
+  da Sopa da Pedra e faz a passagem do Rio Tejo pela ponte D. Luís.\nhttps:
+ //www.portugalrunning.com/eventos/20-kms-de-almeirim-2023/
+URL:https://www.portugalrunning.com/eventos/20-kms-de-almeirim-2023/
+END:VEVENT
+END:VCALENDAR

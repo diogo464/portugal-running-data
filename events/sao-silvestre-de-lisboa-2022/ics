@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d17dd012
+DTSTAMP:20250720T222631Z
+DTSTART:20221217
+DTEND:20221218
+LOCATION:Lisboa Lisboa
+SUMMARY:Lidl São Silvestre de Lisboa 2022
+DESCRIPTION:A&nbsp;15ª LIDL São Silvestre de Lisboa&nbsp;é organizada pe
+ lo Clube Olímpico de Oeiras (NIF: 507 570 952; morada: Rua Alfredo Lopes V
+ ilaverde\,  nº15 - 2ºA\,  2770-009 Paço de Arcos)\,  em parceria com a C
+ âmara Municipal de Lisboa\,  com a organização técnica da HMS Sports Co
+ nsulting\,  Lda. 15ª LIDL São Silvestre de[..]\nhttps://www.portugalrunni
+ ng.com/eventos/sao-silvestre-de-lisboa-2022/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-lisboa-2022/
+END:VEVENT
+END:VCALENDAR

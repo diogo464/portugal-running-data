@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d8318662
+DTSTAMP:20250720T222819Z
+DTSTART:20240324
+DTEND:20240325
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Trail RFM Monsanto 2024
+DESCRIPTION:A RFM em parceria com Ganhardestak\,  organizam no próximo dia
+  24 de Março de 2024\,  a 2ª edição do Trail RFM Monsanto percorrido p
+ or caminhos e trilhos dentro do Parque Florestal do Monsanto. O mesmo é co
+ mposto por um Trail Longo de 17K+\,  um Trail Curto/Caminhada de 10K+ e uma
+  Cãominhada[..]\nhttps://www.portugalrunning.com/eventos/trail-rfm-monsant
+ o-2024/
+URL:https://www.portugalrunning.com/eventos/trail-rfm-monsanto-2024/
+END:VEVENT
+END:VCALENDAR

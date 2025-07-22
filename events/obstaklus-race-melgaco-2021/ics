@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cf261839
+DTSTAMP:20250720T222554Z
+DTSTART:20211031
+DTEND:20211101
+LOCATION:Melgaço Melgaço
+SUMMARY:Obstaklus Race Melgaço 2021
+DESCRIPTION:A “OBSTAKLUSRACE” é uma corrida de obstáculos\,  inserida
+  na disciplina de Obstacle Course Racing\,  de acordo o regulamento de prov
+ as da Federação Portuguesa de Corridas de Obstáculos (FPOCR)\,  organiza
+ da em Melgaço pela OBSTAKLUSRACE\,  MELSPORT\,  CAMARA MUNICIPAL DE MELGA�
+ �O e a FPOCR – Federação Portuguesa de Corridas de Obstáculos. A prova
+ [..]\nhttps://www.portugalrunning.com/eventos/obstaklus-race-melgaco-2021/
+URL:https://www.portugalrunning.com/eventos/obstaklus-race-melgaco-2021/
+END:VEVENT
+END:VCALENDAR

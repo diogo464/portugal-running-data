@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cccaab07
+DTSTAMP:20250720T222516Z
+DTSTART:20220403
+DTEND:20220404
+LOCATION:Braga Braga
+SUMMARY:Meia Maratona de Braga 2022
+DESCRIPTION:A Caravela Seguros Meia Maratona de Braga 2022 está de volta e
+ m 2022 para a sua 6ª edição! Este ano a prova volta ao seu calendário h
+ abitual e tem data marcada para 3 de abril\,  com a partida marcada para as
+  9h30. Seja na prova principal de 21 km\,  seja[..]\nhttps://www.portugalru
+ nning.com/eventos/meia-maratona-de-braga-2022/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-braga-2022/
+END:VEVENT
+END:VCALENDAR

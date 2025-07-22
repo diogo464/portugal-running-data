@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c1131d11
+DTSTAMP:20250720T222209Z
+DTSTART:20240330
+DTEND:20240331
+LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+SUMMARY:7º Trail Noturno Srª. da Guia 2024
+DESCRIPTION:7º Trail Noturno Srª. da Guia 2024\nhttps://www.portugalrunni
+ ng.com/eventos/7o-trail-noturno-sra-da-guia-2024/
+URL:https://www.portugalrunning.com/eventos/7o-trail-noturno-sra-da-guia-2024/
+END:VEVENT
+END:VCALENDAR

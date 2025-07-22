@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d1691ff7
+DTSTAMP:20250720T222630Z
+DTSTART:20211218
+DTEND:20211219
+LOCATION:Coimbra Coimbra
+SUMMARY:São Silvestre de Coimbra 2021
+DESCRIPTION:A 43ª São Silvestre de Coimbra 2021 \,  uma das mais antigas 
+ corridas de São Silvestre de Portugal\,  realiza-se no dia 18 de Dezembro 
+ de 2021\,  pelas 18h30.Percorrendo as bonitas ruas da cidade de Coimbra\,  
+ a 43ª edição conta com uma prova de cerca de 10 km e com a[..]\nhttps://
+ www.portugalrunning.com/eventos/sao-silvestre-de-coimbra-2021/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-coimbra-2021/
+END:VEVENT
+END:VCALENDAR

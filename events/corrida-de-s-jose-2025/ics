@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c4d6145d
+DTSTAMP:20250720T222309Z
+DTSTART:20250322
+DTEND:20250323
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:Corrida de S.José 2025
+DESCRIPTION:Prova de Estrada\,  licenciada pela ASSOCIAÇÃO ATLETISMO DE B
+ RAGA.Com prova competitiva 10kms e provas Jóvens Com partida e chegada no 
+ Largo Eng. Armando Rodrigues – Póvoa de Lanhoso Evento organizado pelo G
+ rupo Desportivo da Goma\,  em parceria com o Município da Póvoa de Lanhos
+ o\,  o Sport Club Maria da Fonte[..]\nhttps://www.portugalrunning.com/event
+ os/corrida-de-s-jose-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-s-jose-2025/
+END:VEVENT
+END:VCALENDAR

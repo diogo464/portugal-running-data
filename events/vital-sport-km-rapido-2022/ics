@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6dc37a6b8
+DTSTAMP:20250720T222923Z
+DTSTART:20220924
+DTEND:20220925
+LOCATION:Amadora\,  Lisboa Amadora\,  Lisboa
+SUMMARY:Vital Sport Km + Rápido 2022
+DESCRIPTION:A&nbsp;Decathlon apresenta a&nbsp;1ª edição da corrida “Km
+  + rápido”\, &nbsp;inserida no Vital Sport. Uma prova que te leva ao lim
+ ite\,  para seres&nbsp;o mais rápido em apenas 1km!\nhttps://www.portugalr
+ unning.com/eventos/vital-sport-km-rapido-2022/
+URL:https://www.portugalrunning.com/eventos/vital-sport-km-rapido-2022/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c614a256
+DTSTAMP:20250720T222329Z
+DTSTART:20231216
+DTEND:20231217
+LOCATION:Loures Loures
+SUMMARY:Corrida Hovione 2023
+DESCRIPTION:A 5ª Corrida Hovione Solidária realiza-se no dia 16 de Dezemb
+ ro\,  com partida às 09h30 no Parque da Cidade de Loures\,  num percurso d
+ e 10 quilómetros ou de 5 quilómetros\,  para quem optar pela caminhada. A
+  participação está também aberta aos mais novos que poderão participar
+  na “Kids Race”\,  um[..]\nhttps://www.portugalrunning.com/eventos/corr
+ ida-hovione-2023/
+URL:https://www.portugalrunning.com/eventos/corrida-hovione-2023/
+END:VEVENT
+END:VCALENDAR

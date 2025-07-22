@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d770264b
+DTSTAMP:20250720T222807Z
+DTSTART:20220425
+DTEND:20220426
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Trail Moinhos de Sesimbra 2022
+DESCRIPTION:Trail Moinhos de Sesimbra 2022\nhttps://www.portugalrunning.com
+ /eventos/trail-moinhos-de-sesimbra-2022/
+URL:https://www.portugalrunning.com/eventos/trail-moinhos-de-sesimbra-2022/
+END:VEVENT
+END:VCALENDAR

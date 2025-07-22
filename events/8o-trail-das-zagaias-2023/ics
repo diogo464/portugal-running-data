@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c119271f
+DTSTAMP:20250720T222209Z
+DTSTART:20230702
+DTEND:20230703
+LOCATION:Mação\,  Santarém Mação\,  Santarém
+SUMMARY:8º Trail das Zagaias 2023
+DESCRIPTION:O Trail das Zagaias é uma organização da Associação BTZ Ma
+ ção\,  ACR Chão de Codes e Associação Rotas de Mação e com o apoio e
+  colaboração da Câmara Municipal de Mação. Realiza-se no dia 2 de Julh
+ o de 2023 em Mação e será constituído por um Trail com cerca de[..]\nht
+ tps://www.portugalrunning.com/eventos/8o-trail-das-zagaias-2023/
+URL:https://www.portugalrunning.com/eventos/8o-trail-das-zagaias-2023/
+END:VEVENT
+END:VCALENDAR

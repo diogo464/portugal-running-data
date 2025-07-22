@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d6e79e05
+DTSTAMP:20250720T222758Z
+DTSTART:20240330
+DTEND:20240331
+LOCATION:Santo Amador - Moura\,  Beja Santo Amador - Moura\,  Beja
+SUMMARY:Trail entre o Rio e a Aldeia 2024
+DESCRIPTION:O 3º Trail Entre o Rio e a Aldeia será realizado nos dias 30 
+ de março de 2024 e é um evento organizado pela Associação em Honra de S
+ anto Amador\,  com o apoio de vários parceiros institucionais e privados. 
+ Trail Longo (25 Km). Partida do Trail curto (15 Km). Caminhada[..]\nhttps:/
+ /www.portugalrunning.com/eventos/trail-entre-o-rio-e-a-aldeia-2024/
+URL:https://www.portugalrunning.com/eventos/trail-entre-o-rio-e-a-aldeia-2024/
+END:VEVENT
+END:VCALENDAR

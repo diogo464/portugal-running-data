@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c93accac
+DTSTAMP:20250720T222419Z
+DTSTART:20231021
+DTEND:20231022
+LOCATION:São João da Madeira\,  Porto São João da Madeira\,  Porto
+SUMMARY:Grande Prémio Alberto Batista 2023
+DESCRIPTION:É em homenagem ao ex-atleta e treinador dos Serviços Sociais 
+ de Trabalhadores do Município de São João da Madeira \,  Alberto Batista
+ \,  que o Grande Prémio Alberto Batista se realiza no dia 21 de Outubro pe
+ las 18h. Um dos eventos de referência de São João da Madeira aberto à p
+ articipação[..]\nhttps://www.portugalrunning.com/eventos/gp-internacional
+ -de-atletismo-alberto-batista-2023/
+URL:https://www.portugalrunning.com/eventos/gp-internacional-de-atletismo-alberto-batista-2023/
+END:VEVENT
+END:VCALENDAR

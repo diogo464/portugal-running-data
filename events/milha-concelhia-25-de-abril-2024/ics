@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6ce4abdea
+DTSTAMP:20250720T222540Z
+DTSTART:20240425
+DTEND:20240426
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:Milha Concelhia 25 de Abril 2024
+DESCRIPTION:A Milha Concelhia em Atletismo é um evento de referência que 
+ movimenta alguns dos melhores atletas da região em torno de uma das distâ
+ ncias competitivas mais curtas em corrida de estrada.\nhttps://www.portugal
+ running.com/eventos/milha-concelhia-25-de-abril-2024/
+URL:https://www.portugalrunning.com/eventos/milha-concelhia-25-de-abril-2024/
+END:VEVENT
+END:VCALENDAR

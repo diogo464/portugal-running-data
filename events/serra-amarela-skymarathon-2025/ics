@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d2bab3ea
+DTSTAMP:20250720T222651Z
+DTSTART:20250608
+DTEND:20250609
+LOCATION:Ponte da Barca\,  Viana do Castelo Ponte da Barca\,  Viana do Castelo
+SUMMARY:Serra Amarela Skymarathon 2025
+DESCRIPTION:No dia 8 de Junho de 2025\,  que a Carlos Sá Nature Events®\
+ ,  em parceria como Município de Ponte da Barca\,  organizará a 7ª ediç
+ ão do evento Serra Amarela SkyMarathon.  A aposta na Serra Amarela surge 
+ do reconhecimento das potencialidades fantásticas desta região\,  com tod
+ a a sua beleza e relevo agreste\, [..]\nhttps://www.portugalrunning.com/eve
+ ntos/serra-amarela-skymarathon-2025/
+URL:https://www.portugalrunning.com/eventos/serra-amarela-skymarathon-2025/
+END:VEVENT
+END:VCALENDAR

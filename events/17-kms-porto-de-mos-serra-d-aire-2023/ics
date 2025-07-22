@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6bf6dc9bb
+DTSTAMP:20250720T222142Z
+DTSTART:20230521
+DTEND:20230522
+LOCATION:Porto de Mós\,  Leiria Porto de Mós\,  Leiria
+SUMMARY:17 kms Porto de Mós - Serra D Aire 2023
+DESCRIPTION:A Associação Porto de Mós a Correr em conjunto com a Câm
+ ara Municipal de Porto de Mós organiza no dia 21 de maio de 2023\,  pela
+ s 10 horas\,  um evento desportivo\,  denominado de “17KM PORTO DE MÓS
+  - SERRA DE AIRE”. O evento contará com&nbsp;duas distâncias\,  uma&nbs
+ p;competitiva\,  de&nbsp;17km&nbsp;em estrada e uma&nbsp;não competitiva&n
+ bsp;em formato de&nbsp;caminhada&nbsp;no âmbito do&nbsp;programa Tok’And
+ ar\, [..]\nhttps://www.portugalrunning.com/eventos/17-kms-porto-de-mos-serr
+ a-d-aire-2023/
+URL:https://www.portugalrunning.com/eventos/17-kms-porto-de-mos-serra-d-aire-2023/
+END:VEVENT
+END:VCALENDAR

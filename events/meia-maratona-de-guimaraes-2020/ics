@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6cd0c3f7c
+DTSTAMP:20250720T222520Z
+DTSTART:20200621
+DTEND:20200622
+LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+SUMMARY:Meia Maratona de Guimarães 2020
+DESCRIPTION:Meia Maratona de Guimarães 2020\nhttps://www.portugalrunning.c
+ om/eventos/meia-maratona-de-guimaraes-2020/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-guimaraes-2020/
+END:VEVENT
+END:VCALENDAR

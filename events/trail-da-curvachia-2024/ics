@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d487aa65
+DTSTAMP:20250720T222720Z
+DTSTART:20240414
+DTEND:20240415
+LOCATION:Leiria Leiria
+SUMMARY:Trail da Curvachia 2024
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-da-curvachia-20
+ 24/
+URL:https://www.portugalrunning.com/eventos/trail-da-curvachia-2024/
+END:VEVENT
+END:VCALENDAR

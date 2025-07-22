@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6c0d31b52
+DTSTAMP:20250720T222205Z
+DTSTART:20221022
+DTEND:20221023
+LOCATION:Pedome\,  Vila Nova de Famalicão Pedome\,  Vila Nova de Famalicão
+SUMMARY:6 Corrida de Pedome 2022
+DESCRIPTION:A Associação sem fins lucrativos\,  Grupo Recreativo Amigos d
+ e Calça Ferros (GRACAFE) com o objetivo de fomentar a prática desportiva 
+ junto das comunidades\,  apresenta a REN 6ª Corrida e Caminhada Solidária
+  de Pedome e Oliveira Santa Maria\,  a realizar-se no dia 22 de outubro de 
+ 2022 com partida e chegada[..]\nhttps://www.portugalrunning.com/eventos/6-c
+ orrida-de-pedome-2022/
+URL:https://www.portugalrunning.com/eventos/6-corrida-de-pedome-2022/
+END:VEVENT
+END:VCALENDAR

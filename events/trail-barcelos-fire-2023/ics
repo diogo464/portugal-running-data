@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:687d6d3c61d79
+DTSTAMP:20250720T222708Z
+DTSTART:20231015
+DTEND:20231016
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Trail Barcelos Fire 2023
+DESCRIPTION:Evento solidário que pretende fomentar a prática desportiva c
+ om um prova de corrida de montanha que percorre trilhos e caminhos ao longo
+  das margens do rio Cavado. O objectivo é angariar fundos para os Bombeiro
+ s Voluntários de Barcelos e centra-se na divulgação econhecimento dos ex
+ celentes trilhos e paisagens das margens[..]\nhttps://www.portugalrunning.c
+ om/eventos/trail-barcelos-fire-2023/
+URL:https://www.portugalrunning.com/eventos/trail-barcelos-fire-2023/
+END:VEVENT
+END:VCALENDAR
