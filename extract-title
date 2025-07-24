@@ -2,13 +2,14 @@
 import os
 import sys
 import json
+import html
 
 for slug in sys.argv[1:]:
     data_path = os.path.join("events", slug, "data.json")
     title_path = os.path.join("events", slug, "title")
     with open(data_path, "r") as f:
         data = json.load(f)
-    title = data["title"]["rendered"]
+    title = html.unescape(data["title"]["rendered"])
     if os.path.exists(title_path):
         continue
     with open(title_path, "w") as f:
