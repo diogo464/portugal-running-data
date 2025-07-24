@@ -2,38 +2,12 @@
 import os
 import sys
 import json
-import subprocess
+import requests
 
-MODEL = "openrouter/anthropic/claude-3.5-haiku"
+KEY = os.environ["OPENROUTER_KEY"]
+MODEL = "anthropic/claude-3.5-haiku"
 
-
-class LLMClient:
-    """Client for LLM description generation."""
-
-    def __init__(self, model: str):
-        self.model = model
-
-    def llm_call(
-        self,
-        system_prompt: str,
-        user_prompt: str,
-    ) -> str:
-        proc = subprocess.run(
-            ["llm", "-m", self.model, "-s", system_prompt, user_prompt],
-            timeout=30,
-            capture_output=True,
-            text=True,
-        )
-        stdout = proc.stdout.strip()
-        stderr = proc.stderr.strip()
-        if proc.returncode != 0:
-            print(stderr)
-            proc.check_returncode()
-        return stdout
-
-    def generate_description(self, text: str) -> str:
-        """Generate short description using LLM."""
-        system_prompt = """És um assistente especializado em condensar descrições de eventos de corrida em resumos de uma linha em português de Portugal. Deves extrair e resumir apenas a informação mais importante e relevante da descrição fornecida.
+SYSTEM_PROMPT = """És um assistente especializado em condensar descrições de eventos de corrida em resumos de uma linha em português de Portugal. Deves extrair e resumir apenas a informação mais importante e relevante da descrição fornecida.
 
 Exemplos de resumos que deves gerar:
 + Corrida histórica pelas ruas de Lisboa com vista para o Tejo
@@ -52,13 +26,27 @@ IMPORTANTE:
 - Não menciones distâncias se já estão implícitas no tipo de evento
 - Foca-te no que torna este evento único ou interessante"""
 
-        return self.llm_call(
-            system_prompt,
-            text,
-        )
+
+def prompt(key: str, model: str, system: str, user: str) -> str:
+    response = requests.post(
+        url="https://openrouter.ai/api/v1/chat/completions",
+        headers={
+            "Authorization": f"Bearer {key}",
+        },
+        data=json.dumps(
+            {
+                "model": model,
+                "messages": [
+                    {"role": "system", "content": system},
+                    {"role": "user", "content": user},
+                ],
+            }
+        ),
+    ).json()
+    print(response)
+    return response["choices"][0]["message"]["content"]
 
 
-client = LLMClient(MODEL)
 for slug in sys.argv[1:]:
     data_path = os.path.join("events", slug, "data.json")
     if not os.path.exists(data_path):
@@ -70,7 +58,7 @@ for slug in sys.argv[1:]:
     oneline_path = os.path.join("events", slug, "oneline-description")
     if os.path.exists(oneline_path):
         continue
-    oneline = client.generate_description(description)
+    oneline = prompt(KEY, MODEL, SYSTEM_PROMPT, description)
     with open(oneline_path, "w") as f:
         f.write(oneline)
 
