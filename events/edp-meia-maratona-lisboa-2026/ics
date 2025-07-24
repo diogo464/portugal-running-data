@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6881f2587de59
+DTSTAMP:20250724T084408Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Lisboa Lisboa
+SUMMARY:EDP Meia Maratona Lisboa 2026
+DESCRIPTION:A EDP Meia Maratona Lisboa 2026 realiza-se a 8 de Março é uma
+  das meias maratonas mais rápidas do mundo e todos os anos junta mais de 3
+ 0.000 participantes\,  incluindo milhares de atletas estrangeiros. Venha ba
+ ter o seu recorde pessoal connosco e junte-se aos mais rápidos de sempre n
+ um percurso[..]\nhttps://www.portugalrunning.com/eventos/edp-meia-maratona-
+ lisboa-2026/
+URL:https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa-2026/
+END:VEVENT
+END:VCALENDAR

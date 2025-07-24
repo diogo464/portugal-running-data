@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6881f2590f890
+DTSTAMP:20250724T084409Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Lisboa Lisboa
+SUMMARY:Vodafone 10k 2026
+DESCRIPTION:A Vodafone 10k 2026 realiza-se a 8 de Março. É uma prova inte
+ grada na EDP Meia Maratona de Lisboa partilhando com a mesma a partida na P
+ onte 25 de Abril.\nhttps://www.portugalrunning.com/eventos/vodafone-10k-202
+ 6/
+URL:https://www.portugalrunning.com/eventos/vodafone-10k-2026/
+END:VEVENT
+END:VCALENDAR
