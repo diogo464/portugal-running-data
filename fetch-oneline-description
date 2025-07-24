@@ -21,11 +21,14 @@ class LLMClient:
         proc = subprocess.run(
             ["llm", "-m", self.model, "-s", system_prompt, user_prompt],
             timeout=30,
-            check=True,
             capture_output=True,
             text=True,
         )
         stdout = proc.stdout.strip()
+        stderr = proc.stderr.strip()
+        if proc.returncode != 0:
+            print(stderr)
+            proc.check_returncode()
         return stdout
 
     def generate_description(self, text: str) -> str:
