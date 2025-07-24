@@ -4,6 +4,8 @@ import os
 import shutil
 import xml.etree.ElementTree as ET
 
+from urllib.parse import unquote
+
 ignored_urls = ["https://www.portugalrunning.com/eventos/"]
 tree = ET.parse("sitemap.xml")
 root = tree.getroot()
@@ -28,7 +30,7 @@ for url_element in root.findall(".//{*}url"):
 
     slug = re.match("https://www.portugalrunning.com/eventos/([^/]*)/", url)
     assert slug is not None, f"failed to extract slug from '{url}'"
-    slug = slug[1]
+    slug = unquote(slug[1])
 
     event_dir = os.path.join("events", slug)
     page_path = os.path.join(event_dir, "page.html")
