@@ -18,6 +18,7 @@ scrape:
     ./list-slugs | xargs -L 64 -P 40 ./extract-categories
     ./list-slugs | xargs -L 64 -P 40 ./extract-circuits
     ./list-slugs | xargs -L 64 -P 40 ./extract-organizer
+    ./list-slugs | xargs -L 64 -P 40 ./extract-slug
 
 scrape-categories:
     ./list-slugs | xargs -e -L 64 -P 1 ./extract-categories

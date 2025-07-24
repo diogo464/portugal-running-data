@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+import os
+import sys
+
+for slug in sys.argv[1:]:
+    slug_path = os.path.join("events", slug, "slug")
+    if os.path.exists(slug_path):
+        continue
+    with open(slug_path, "w") as f:
+        f.write(slug)
