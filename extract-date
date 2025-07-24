@@ -21,5 +21,5 @@ for slug in sys.argv[1:]:
 
     dt = datetime.strptime(date, "%Y%m%d")
     with open(date_path, "w") as f:
-        f.write(date_path)
+        f.write(dt.isoformat())
 
