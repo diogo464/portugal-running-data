@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c088bcd615
+DTSTAMP:20250801T002131Z
+DTSTART:20250907
+DTEND:20250908
+LOCATION:Loulé\,  Faro Loulé\,  Faro
+SUMMARY:Trail Feira da Tôr 2025
+DESCRIPTION:O Trail da Tôr é um evento que incorpora duas distâncias de 
+ carácter competitivo\,  nomeadamente\,  o Trail Sprint com 19 km (que inte
+ gra o Circuito Regional de Trail Sprint da Associação de Atletismo do Alg
+ arve\,  mais de 18 anos)\,  Mini Trail\,  com 13 kms (maiores de 16 anos) e
+  uma[..]\nhttps://www.portugalrunning.com/eventos/trail-feira-da-tor-2025/
+URL:https://www.portugalrunning.com/eventos/trail-feira-da-tor-2025/
+END:VEVENT
+END:VCALENDAR

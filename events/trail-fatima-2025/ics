@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c088a19e6c
+DTSTAMP:20250801T002130Z
+DTSTART:20251025
+DTEND:20251026
+LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+SUMMARY:Fátima Trail Team 2025
+DESCRIPTION:A prova&nbsp;12º Trail de Fátima&nbsp;tem como objetivo propo
+ rcionar aos atletas novas experiências e sensações em trilhos distintos\
+ ,  valorização e divulgação do território e promoção da nossa regiã
+ o. Temos ainda o intuito de promover e dar a conhecer alguns dos locais do 
+ Centro de Trail de Fátima. Este evento irá decorrer[..]\nhttps://www.port
+ ugalrunning.com/eventos/trail-fatima-2025/
+URL:https://www.portugalrunning.com/eventos/trail-fatima-2025/
+END:VEVENT
+END:VCALENDAR

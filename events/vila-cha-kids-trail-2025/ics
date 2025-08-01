@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c088a316d5
+DTSTAMP:20250801T002130Z
+DTSTART:20250809
+DTEND:20250810
+LOCATION:Vila Chã\,  Fornos de Algodres Vila Chã\,  Fornos de Algodres
+SUMMARY:Vila Chã Kids Trail 2025
+DESCRIPTION:Vila Chã Kids Trail 2025\nhttps://www.portugalrunning.com/even
+ tos/vila-cha-kids-trail-2025/
+URL:https://www.portugalrunning.com/eventos/vila-cha-kids-trail-2025/
+END:VEVENT
+END:VCALENDAR

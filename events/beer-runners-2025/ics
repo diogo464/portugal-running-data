@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c0876d9dec
+DTSTAMP:20250801T002110Z
+DTSTART:20250815
+DTEND:20250816
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Beer Run 2025
+DESCRIPTION:Uma organização da Free Challenge Associação Desportiva e S
+ ócio-Cultural\,  realiza-se no dia 15 de agosto de 2025\,  a "Beer Run Far
+ o"\,  com início agendado para as 21h00 no Auditório Natural no Parque Ri
+ beirinho em Faro.\nhttps://www.portugalrunning.com/eventos/beer-runners-202
+ 5/
+URL:https://www.portugalrunning.com/eventos/beer-runners-2025/
+END:VEVENT
+END:VCALENDAR

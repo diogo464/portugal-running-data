@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c088a97c75
+DTSTAMP:20250801T002130Z
+DTSTART:20251213T162500Z
+DTEND:20251213T235900Z
+LOCATION:Parque Urbano 25 de Abril\,  Alcácer do Sal Parque Urbano 25 de Abril\,  Alcácer do Sal
+SUMMARY:SalSilvestre Alcácer do Sal 2025
+DESCRIPTION:O evento terá a designação de “1ª Corrida SalSilvestre”
+  de Alcácer do Sal e irá ocorrer no dia 13 de dezembro de 2025\,  pelas 1
+ 8H00\,  com a organização da Associação dos Serviços Sociais\,  Cultur
+ ais e Desportivos dos Trabalhadores da Autarquias do Concelho de Alcácer d
+ o Sal\,  de natureza desportiva e[..]\nhttps://www.portugalrunning.com/even
+ tos/salsilvestre-alcacer-do-sal-2025/
+URL:https://www.portugalrunning.com/eventos/salsilvestre-alcacer-do-sal-2025/
+END:VEVENT
+END:VCALENDAR

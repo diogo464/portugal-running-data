@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c0879d9f18
+DTSTAMP:20250801T002113Z
+DTSTART:20251109
+DTEND:20251110
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Trail do Marco 2025
+DESCRIPTION:O Trail do Marco é uma competição de Trail Running que ofere
+ ce percursos desafiadores e envolventes\,  explorando as paisagens naturais
+  e os pontos históricos da região. Os participantes podem escolher entre 
+ várias distâncias\,  adaptadas a diferentes níveis de experiência e res
+ istência. Esta quarta edição\,  é composta por 2 provas competitivas:[.
+ .]\nhttps://www.portugalrunning.com/eventos/trail-do-marco-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-marco-2025/
+END:VEVENT
+END:VCALENDAR

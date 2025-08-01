@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c08775e30f
+DTSTAMP:20250801T002111Z
+DTSTART:20250803
+DTEND:20250804
+LOCATION:Parque de La Salette\,  Oliveira de Azeméis Parque de La Salette\,  Oliveira de Azeméis
+SUMMARY:Grande Prémio Atletismo de La Salette 2025
+DESCRIPTION:É em ambiente de festa que poderá correr um dos eventos emble
+ máticos do circuito de provas de atletismo do município de Oliveira de Az
+ eméis. Venha sentir o ambiente especial de La Salette e corra até que as 
+ pernas lhe permitam.\nhttps://www.portugalrunning.com/eventos/grande-premio
+ -atletismo-de-la-salette-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-de-la-salette-2025/
+END:VEVENT
+END:VCALENDAR

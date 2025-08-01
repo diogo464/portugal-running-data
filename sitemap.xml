@@ -2,7 +2,247 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-07-27T20:54:52+00:00</lastmod>
+		<lastmod>2025-07-31T17:06:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-santa-justa-2025/</loc>
+		<lastmod>2025-07-31T17:06:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/02/2025-02-11_12-06-31_67ab3d475f7ce-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/cross-trail-a-do-barbas-2025/</loc>
+		<lastmod>2025-07-31T17:06:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/pop_66dw65h864.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-serra-darga-2025/</loc>
+		<lastmod>2025-07-31T17:01:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/linhas-de-torres-100-2026/</loc>
+		<lastmod>2025-07-31T16:59:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/pop_iro5b31892.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/salsilvestre-alcacer-do-sal-2025/</loc>
+		<lastmod>2025-07-31T16:56:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/688b816d0cc55_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-cidade-de-faro-2025/</loc>
+		<lastmod>2025-07-31T16:48:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/Popa9238bs319.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-barcelos-2025/</loc>
+		<lastmod>2025-07-31T16:45:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/515492355_122304542624003603_2826493233725247019_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/geres-extreme-marathon-2025/</loc>
+		<lastmod>2025-07-31T16:43:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-marco-2025/</loc>
+		<lastmod>2025-07-31T16:42:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/2025-07-28_17-01-30_68879eda54304-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-do-dragao-2025/</loc>
+		<lastmod>2025-07-31T16:39:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/2025-06-12_18-23-46_684b0d2230835.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/penacova-trail-do-centro-2025/</loc>
+		<lastmod>2025-07-31T16:36:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/02/493230969_1234763848652533_4856573554642559230_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-fatima-2025/</loc>
+		<lastmod>2025-07-31T16:35:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/pop_7310sz0863-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vulcan-trail-2026/</loc>
+		<lastmod>2025-07-31T16:32:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/pop_33t50r6894.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sines-corre-mais-2025/</loc>
+		<lastmod>2025-07-31T16:30:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/524644764_122096720582963909_4193893518115744595_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-carreiros-do-pastor-arrimalano-2025/</loc>
+		<lastmod>2025-07-31T13:17:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/pop_w703hq4861.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilho-dos-arneiros-2025/</loc>
+		<lastmod>2025-07-31T13:08:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/pop_yj41um5893.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-vale-do-homem-2025/</loc>
+		<lastmod>2025-07-31T13:05:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/ad7d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-do-nabao-corrida-das-bruxas-2025/</loc>
+		<lastmod>2025-07-31T13:03:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/1753827990-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-da-ladeia-2025/</loc>
+		<lastmod>2025-07-31T13:00:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/1753121327-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-vinho-daveiras-2025/</loc>
+		<lastmod>2025-07-31T12:54:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/1753743653-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sunset-trail-covoes-2025/</loc>
+		<lastmod>2025-07-31T12:48:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/12025729_115936_Sunsettrailcovoes25Cartaz-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vila-cha-kids-trail-2025/</loc>
+		<lastmod>2025-07-31T12:40:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/68838f8567ceb_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vila-cha-corrida-de-montanha-2025/</loc>
+		<lastmod>2025-07-31T12:39:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/6749e3986e9a9_cartaz-cartaz_460-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-das-avenidas-novas-2025/</loc>
+		<lastmod>2025-07-31T12:36:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/vfcartaz_avenidas_novas_2025_pdf_page-0001-1.600x850-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/rota-do-talefe-2025/</loc>
+		<lastmod>2025-07-31T12:35:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/1202577_17323_4Rotadotalefe25Cartaz4w-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-da-republica-2025/</loc>
+		<lastmod>2025-07-31T12:33:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/Corrida-da-Republica-2025-Header-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-jobra-vila-da-branca-2025/</loc>
+		<lastmod>2025-07-31T12:32:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/beer-runners-2025/</loc>
+		<lastmod>2025-07-31T12:28:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/688397d108619_Beer-Run_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-ponta-delgada-2025/</loc>
+		<lastmod>2025-07-31T12:13:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/banner-sao-silvestre-ponta-delgada-2025-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-natal-2025/</loc>
+		<lastmod>2025-07-31T12:12:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-aveiro-2025/</loc>
+		<lastmod>2025-07-31T12:11:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/banner-ssaveiro-2025-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-atletismo-de-la-salette-2025/</loc>
+		<lastmod>2025-07-31T12:09:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/banner-gp-atletismo-la-salette-2025-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/farol-adventure-trail-flores-azores-2026/</loc>
+		<lastmod>2025-07-31T12:07:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/68835050cd48e_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-e-caminhada-rota-da-maca-de-montanha-2025/</loc>
+		<lastmod>2025-07-31T12:05:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/687a6e48d437c_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-feira-da-tor-2025/</loc>
+		<lastmod>2025-07-31T12:01:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/687fb423e46b2_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/acorrer-para-o-bronze-corrida-virtual-2025/</loc>
+		<lastmod>2025-07-31T11:56:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/6874f19583dd9_3960_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/esposende-marginal-a-noite-2025/</loc>
@@ -38,13 +278,6 @@
 		<lastmod>2025-07-23T14:26:31+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/06/447302248_970794408390046_4180641818801114392_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/linhas-de-torres-100-2026/</loc>
-		<lastmod>2025-07-20T13:53:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/pop_iro5b31892.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -115,13 +348,6 @@
 		<lastmod>2025-07-20T13:25:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/ac2c.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/24h-de-p-2025/</loc>
-		<lastmod>2025-07-20T11:18:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/07/banner-24h-de-p-2025-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -343,13 +569,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/acorrer-para-o-bronze-corrida-virtual-2025/</loc>
-		<lastmod>2025-07-16T07:24:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/6874f19583dd9_3960_cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-trail-do-cais-das-pocas-2025/</loc>
 		<lastmod>2025-07-16T07:21:13+00:00</lastmod>
 		<image:image>
@@ -523,13 +742,6 @@
 		<lastmod>2025-07-07T22:02:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/d34b.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/penacova-trail-do-centro-2025/</loc>
-		<lastmod>2025-07-06T21:22:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/02/493230969_1234763848652533_4856573554642559230_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -786,13 +998,6 @@
 		<lastmod>2025-06-30T15:53:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/Popufs7x8s317.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/rota-do-talefe-2025/</loc>
-		<lastmod>2025-06-30T15:49:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/12025630_16952_4Rotadotalefe25Cartaz2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1109,13 +1314,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/07/image-1.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-do-dragao-2025/</loc>
-		<lastmod>2025-06-12T22:48:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/2025-06-12_18-23-46_684b0d2230835.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2446,13 +2644,6 @@
 		<lastmod>2025-04-26T19:12:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/04/67f5241bc62f5_cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vila-cha-corrida-de-montanha-2025/</loc>
-		<lastmod>2025-04-25T22:25:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/6749e3986e9a9_cartaz-cartaz_460-1-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4139,10 +4330,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-serra-darga-2025/</loc>
-		<lastmod>2025-02-16T19:42:32+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/aquae-brunheiro-trail-running-2025/</loc>
 		<lastmod>2025-02-16T19:41:36+00:00</lastmod>
 	</url>
@@ -4437,13 +4624,6 @@
 		<lastmod>2025-02-13T22:56:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/02/479187793_1054774806690870_2816932591036133969_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-santa-justa-2025/</loc>
-		<lastmod>2025-02-13T00:32:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/02/2025-02-11_12-06-31_67ab3d475f7ce-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4914,13 +5094,6 @@
 		<lastmod>2025-01-31T06:22:20+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/475114892_1170055601792407_2945719607859653243_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sines-corre-mais-2025/</loc>
-		<lastmod>2025-01-31T06:17:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/474922807_608296491954175_543573283334950707_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

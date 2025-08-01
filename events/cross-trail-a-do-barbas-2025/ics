@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c08715f583
+DTSTAMP:20250801T002105Z
+DTSTART:20251005
+DTEND:20251006
+LOCATION:Maceira\,  Leiria Maceira\,  Leiria
+SUMMARY:Cross Trail A-do-Barbas 2025
+DESCRIPTION:Cross Trail A-do-Barbas 2025\nhttps://www.portugalrunning.com/e
+ ventos/cross-trail-a-do-barbas-2025/
+URL:https://www.portugalrunning.com/eventos/cross-trail-a-do-barbas-2025/
+END:VEVENT
+END:VCALENDAR

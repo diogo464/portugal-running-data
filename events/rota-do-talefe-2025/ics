@@ -4,16 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d05320cf
-DTSTAMP:20250720T222613Z
-DTSTART:20250720T141800Z
-DTEND:20250720T235900Z
+UID:688c0873f107d
+DTSTAMP:20250801T002107Z
+DTSTART:20250817T141800Z
+DTEND:20250817T235900Z
 LOCATION:Fontinha\,  Águeda Fontinha\,  Águeda
 SUMMARY:Rota do Talefe 2025
-DESCRIPTION:O evento realiza-se no dia 20 de Julho de 2025\,  com início �
- �s 9h30\,  com partida e chegada no Largo do Talefe na Fontinha. PercursosM
- ini trail: 12 kmCaminhada: 10 kmMini Talefe: 600 metros (para idades < 12 a
- nos)\nhttps://www.portugalrunning.com/eventos/rota-do-talefe-2025/
+DESCRIPTION:O MINITRAIL/CAMINHADA “ROTA DO TALEFE” é um evento de natu
+ reza desportiva organizado pela Comissão de Festas da Fontinha “Os Sangu
+ e na Guelrra” e pela Associação Fanfarra D’Alegria\,  com objetivo de
+  dar a conhecer as zonas verdes da vila de Febres e angariar fundos para a 
+ festa da aldeia da Fontinha[..]\nhttps://www.portugalrunning.com/eventos/ro
+ ta-do-talefe-2025/
 URL:https://www.portugalrunning.com/eventos/rota-do-talefe-2025/
 END:VEVENT
 END:VCALENDAR

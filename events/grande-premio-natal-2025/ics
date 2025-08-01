@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c0872d845b
+DTSTAMP:20250801T002106Z
+DTSTART:20251207
+DTEND:20251208
+LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
+SUMMARY:Grande Prémio Natal 2025
+DESCRIPTION:O Continental Grande Prémio de Natal é organizado pela Associ
+ ação de Atletismo de Lisboa e pela Last Lap Eventos Lda. No dia 7 de deze
+ mbro de 2025 irá realizar-se o 66º Continental Grande Prémio de Natal\, 
+  que se caracteriza por ser realizado na quadra natalícia\,  pelo percurso
+  fácil que atravessa[..]\nhttps://www.portugalrunning.com/eventos/grande-p
+ remio-natal-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-natal-2025/
+END:VEVENT
+END:VCALENDAR

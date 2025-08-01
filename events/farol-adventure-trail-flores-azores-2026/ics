@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c088702f96
+DTSTAMP:20250801T002127Z
+DTSTART:20260425T172800Z
+DTEND:20260425T235900Z
+LOCATION:Lajes das Flores\,  Açores Lajes das Flores\,  Açores
+SUMMARY:Farol Adventure Trail - Flores Azores 2026
+DESCRIPTION:A terceira edição do FAT\,  decorrerá no dia 25 de abril de 
+ 2026 contando com três provas de trail run\,  de 36km\,  18km\,  09km resp
+ ectivamente e uma caminhada de 09km.\nhttps://www.portugalrunning.com/event
+ os/farol-adventure-trail-flores-azores-2026/
+URL:https://www.portugalrunning.com/eventos/farol-adventure-trail-flores-azores-2026/
+END:VEVENT
+END:VCALENDAR

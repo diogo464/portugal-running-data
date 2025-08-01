@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c087415134
+DTSTAMP:20250801T002108Z
+DTSTART:20251005
+DTEND:20251006
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Corrida Cidade de Faro 2025
+DESCRIPTION:A 5.ª Corrida Cidade de Faro é organizada pelos Tugas On Tour
+  Associação Desportiva em coorganização com a Câmara Municipal de Faro
+  e a União de Freguesias de Faro A 5.ª Corrida Cidade de Faro (sub 20 at�
+ � veteranos VI) é composto por um circuito de ida e volta\,  totalmente[..
+ ]\nhttps://www.portugalrunning.com/eventos/corrida-cidade-de-faro-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-faro-2025/
+END:VEVENT
+END:VCALENDAR

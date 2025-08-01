@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c0876d8b11
+DTSTAMP:20250801T002110Z
+DTSTART:20251205
+DTEND:20251206
+LOCATION:Vila Gerês\,  Braga Vila Gerês\,  Braga
+SUMMARY:Gerês Extreme Marathon 2025
+DESCRIPTION: \nhttps://www.portugalrunning.com/eventos/geres-extreme-marat
+ hon-2025/
+URL:https://www.portugalrunning.com/eventos/geres-extreme-marathon-2025/
+END:VEVENT
+END:VCALENDAR

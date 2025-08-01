@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c088bf26cd
+DTSTAMP:20250801T002131Z
+DTSTART:20251206
+DTEND:20251207
+LOCATION:Aveiro Aveiro
+SUMMARY:São Silvestre Aveiro 2025
+DESCRIPTION:A Civilria São Silvestre de Aveiro voltará a realizar-se\,  n
+ aquele que é um dos mais emblemáticos eventos da cidade de Aveiro. Vem pa
+ rticipar e fechar o teu ano de corridas.\nhttps://www.portugalrunning.com/e
+ ventos/sao-silvestre-aveiro-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-aveiro-2025/
+END:VEVENT
+END:VCALENDAR

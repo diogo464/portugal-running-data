@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c088a2fee3
+DTSTAMP:20250801T002130Z
+DTSTART:20250914
+DTEND:20250915
+LOCATION:Parque Eduardo VII\,  Lisboa Parque Eduardo VII\,  Lisboa
+SUMMARY:Corrida das Avenidas Novas 2025
+DESCRIPTION:A Junta de Freguesia de&nbsp;Avenidas Novas irá realizar a “
+ Corrida das Avenidas Novas 2025”\,  no dia 14&nbsp;de Setembro de 2025\, 
+  na Freguesia de&nbsp;Avenidas Novas\,  a partir das&nbsp;09:00h\,  com a o
+ rganização Técnica da Werun. A “Corrida das Avenidas Novas” é um ev
+ ento de natureza desportiva&nbsp;que tem como objetivo incentivar e conscie
+ ncializar[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-avenidas
+ -novas-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-das-avenidas-novas-2025/
+END:VEVENT
+END:VCALENDAR

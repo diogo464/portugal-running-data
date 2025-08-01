@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c0879d8aa2
+DTSTAMP:20250801T002113Z
+DTSTART:20251221T061200Z
+DTEND:20251221T235900Z
+LOCATION:Branca\,  Albergaria-a-Velha Branca\,  Albergaria-a-Velha
+SUMMARY:São Silvestre Jobra/Vila da Branca 2025
+DESCRIPTION:Prova de estrada a percorrer por alguns lugares da freguesia da
+  Branca. Uma estreia para a região\,  que se espera ser um sucesso. Um mis
+ to de Natal com Ano Novo.\nhttps://www.portugalrunning.com/eventos/sao-silv
+ estre-jobra-vila-da-branca-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-jobra-vila-da-branca-2025/
+END:VEVENT
+END:VCALENDAR

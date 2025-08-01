@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c0879d85d4
+DTSTAMP:20250801T002113Z
+DTSTART:20251031
+DTEND:20251101
+LOCATION:Linhaceira\,  Tomar Linhaceira\,  Tomar
+SUMMARY:Trilhos do Nabão - Corrida das Bruxas 2025
+DESCRIPTION:A organização da Caminhada 6k e Trail 15K é da responsabilid
+ ade da Associação Cultural e Recreativada Linhaceira.\nhttps://www.portug
+ alrunning.com/eventos/trilhos-do-nabao-corrida-das-bruxas-2025/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-nabao-corrida-das-bruxas-2025/
+END:VEVENT
+END:VCALENDAR

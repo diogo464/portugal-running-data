@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:688c088a5e5fe
+DTSTAMP:20250801T002130Z
+DTSTART:20251213
+DTEND:20251214
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:São Silvestre Ponta Delgada 2025
+DESCRIPTION:A Associação de Atletismo de S. Miguel vai realizar a 61ª Co
+ rrida de São Silvestre da Cidade de Ponta Delgada\,  uma das mais míticas
+  provas de fim de ano realizadas em Portugal.\nhttps://www.portugalrunning.
+ com/eventos/sao-silvestre-ponta-delgada-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-ponta-delgada-2025/
+END:VEVENT
+END:VCALENDAR
