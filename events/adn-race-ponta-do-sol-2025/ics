@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6897e146ca287
+DTSTAMP:20250810T000110Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:Ponta do Sol\,  Madeira Ponta do Sol\,  Madeira
+SUMMARY:Adn Race Ponta do Sol 2025
+DESCRIPTION:A ADN Race Ponta do Sol é organizada pela ADN Ponta do Sol\,  
+ em parceria com a Associação de Atletismo da Região Autónoma da Madeira
+ \,  integrando o Campeonato Regional de Trail.\nhttps://www.portugalrunning
+ .com/eventos/adn-race-ponta-do-sol-2025/
+URL:https://www.portugalrunning.com/eventos/adn-race-ponta-do-sol-2025/
+END:VEVENT
+END:VCALENDAR

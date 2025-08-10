@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6897e14c24c53
+DTSTAMP:20250810T000116Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:Arraiolos\,  Évora Arraiolos\,  Évora
+SUMMARY:Trail da Empada 2025
+DESCRIPTION:O Trail da Empada é uma prova de Trail Running\,  corrida pede
+ stre em Natureza\,  com duas distâncias\,  TrailCurto (TC) 18km\,  Trail S
+ print (TS) 12km\,  e Caminhada 8 Km. A prova terá início e fim no Arraiol
+ os Multiusos\,  percorrendo trilhos\,  estradões\,  caminhos florestais\, 
+ singletracks\,  passagem por ribeiros e locais com interesse histórico.[..
+ ]\nhttps://www.portugalrunning.com/eventos/trail-da-empada-2025/
+URL:https://www.portugalrunning.com/eventos/trail-da-empada-2025/
+END:VEVENT
+END:VCALENDAR

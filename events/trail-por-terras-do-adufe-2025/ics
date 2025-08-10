@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6897e14d7fcaf
+DTSTAMP:20250810T000117Z
+DTSTART:20250927
+DTEND:20250928
+LOCATION:Penha Garcia\,  Idanha-a-Nova Penha Garcia\,  Idanha-a-Nova
+SUMMARY:Trail por Terras do Adufe 2025
+DESCRIPTION:O Trail por Terras do Adufe integra o Circuito de Trail Running
+  da Beira Baixa\,  nas vertentes de Trail\,  Trail Sprint e Trail Mini/Jove
+ m.\nhttps://www.portugalrunning.com/eventos/trail-por-terras-do-adufe-2025/
+URL:https://www.portugalrunning.com/eventos/trail-por-terras-do-adufe-2025/
+END:VEVENT
+END:VCALENDAR

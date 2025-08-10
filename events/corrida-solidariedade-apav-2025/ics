@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6897e14e7ce09
+DTSTAMP:20250810T000118Z
+DTSTART:20251011
+DTEND:20251012
+LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+SUMMARY:Corrida Solidariedade APAV 2025
+DESCRIPTION:Fundada a 25 de junho de 1990\,  a Associação Portuguesa de A
+ poio à Vítima celebra hoje 35 anos. Nesta data\,  vinte e sete Associados
+  Fundadores uniram-se e fundaram uma estrutura centrada e dirigida ao apoio
+  à vítima. Desde a sua fundação\,  a APAV e todos os que se aliam à[..
+ ]\nhttps://www.portugalrunning.com/eventos/corrida-solidariedade-apav-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-solidariedade-apav-2025/
+END:VEVENT
+END:VCALENDAR

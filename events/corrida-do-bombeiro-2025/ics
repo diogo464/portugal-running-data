@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6897e142b4b9a
+DTSTAMP:20250810T000106Z
+DTSTART:20251019
+DTEND:20251020
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Corrida do Bombeiro 2025
+DESCRIPTION:Corrida do Bombeiro 2025\nhttps://www.portugalrunning.com/event
+ os/corrida-do-bombeiro-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-do-bombeiro-2025/
+END:VEVENT
+END:VCALENDAR

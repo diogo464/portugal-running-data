@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6897e14e680a9
+DTSTAMP:20250810T000118Z
+DTSTART:20251213
+DTEND:20251214
+LOCATION:Almada Almada
+SUMMARY:São Silvestre Almada 2025
+DESCRIPTION:O Clube de Atletismo Amigos do Parque da Paz\,  e a Associaçã
+ o Desportiva O Mundo da Corrida\,  com o apoio da Câmara Municipal de Alma
+ da\,  vai realizar no próximo dia 13 de Dezembro de 2025\,  pelas 18:30 H
+ \,  uma corrida de 10 km\,  denominada "SÃO SILVESTRE DE ALMADA". Logo a 
+ seguir partirá[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-
+ almada-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-almada-2025/
+END:VEVENT
+END:VCALENDAR

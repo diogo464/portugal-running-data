@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6897e1481e1ac
+DTSTAMP:20250810T000112Z
+DTSTART:20250918T133800Z
+DTEND:20250918T133800Z
+LOCATION:Beja Beja
+SUMMARY:Light Run - Beja Jovem 2025
+DESCRIPTION:A “Light Run” é uma actvidade lúdica de promoção de est
+ ilos de vida saudáveis\,  que se realiza no âmbito da programação da Be
+ ja Jovem 2025. Os objectivos desta actvidade estão implícitos ao fomento 
+ da prática de actvidade física através da corrida ou caminhada e dos ben
+ efícios daí resultantes. Tratando-se de[..]\nhttps://www.portugalrunning.
+ com/eventos/43910/
+URL:https://www.portugalrunning.com/eventos/43910/
+END:VEVENT
+END:VCALENDAR

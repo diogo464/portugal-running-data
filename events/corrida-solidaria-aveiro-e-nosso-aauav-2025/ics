@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6897e14bbfb7b
+DTSTAMP:20250810T000115Z
+DTSTART:20250927T140900Z
+DTEND:20250927T140900Z
+LOCATION:Aveiro Aveiro
+SUMMARY:Corrida Solidária - Aveiro é Nosso | AAUAv 2025
+DESCRIPTION:No próximo dia 27 de Setembro de 2025\,  o setor Aveiro é Nos
+ so\,  da Associação Académica da Universidade de Aveiro (AAUAv)\,  dá u
+ ma nova vida à 4.ªEdição da Corrida Solidária. Com partida e chegada n
+ o Parque do Complexo Pedagógico da UA\,  o evento inclui uma corrida de 10
+  km e[..]\nhttps://www.portugalrunning.com/eventos/corrida-solidaria-aveiro
+ -e-nosso-aauav-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-aveiro-e-nosso-aauav-2025/
+END:VEVENT
+END:VCALENDAR

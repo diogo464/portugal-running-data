@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6897e14d6dc98
+DTSTAMP:20250810T000117Z
+DTSTART:20251019T134900Z
+DTEND:20251019T134900Z
+LOCATION:Portel\,  Évora Portel\,  Évora
+SUMMARY:Trail Serra de Portal 2025
+DESCRIPTION:O Grupo Desportivo de Portel é uma Associação sem fins lucra
+ tivos\,  com sede em Portel e que conta com o apoio do Município de Portel
+  e Junta de Freguesia de Portel. Promove a prova de Trail Running “IV Tra
+ il Serra de Portel” no dia 19 de Outubro de 2025.\nhttps://www.portugalru
+ nning.com/eventos/trail-serra-de-portal-2025/
+URL:https://www.portugalrunning.com/eventos/trail-serra-de-portal-2025/
+END:VEVENT
+END:VCALENDAR
