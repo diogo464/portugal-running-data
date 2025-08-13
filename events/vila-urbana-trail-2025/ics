@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:689bd5af443fd
+DTSTAMP:20250813T000047Z
+DTSTART:20251011
+DTEND:20251012
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Vila Urbana Trail 2025
+DESCRIPTION:A 8.ª edição do VILA URBANA TRAIL irá realizar-se no dia 11
+  de outubro de 2025 com as seguintes distâncias competitivas: (1) 10 Km pr
+ ova rainha;(2) Caminhada Solidária de 8 Km;(3) 500 m para os Sub-10 e Sub-
+ 12;(4) 1\, 5 km para os Sub-14;(5) 2\, 5 km para os Sub-16;(6) 3\, 5 Km[..]
+ \nhttps://www.portugalrunning.com/eventos/vila-urbana-trail-2025/
+URL:https://www.portugalrunning.com/eventos/vila-urbana-trail-2025/
+END:VEVENT
+END:VCALENDAR

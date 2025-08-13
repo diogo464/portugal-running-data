@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:689bd5aeb0408
+DTSTAMP:20250813T000046Z
+DTSTART:20260215T062100Z
+DTEND:20260215T062100Z
+LOCATION:Vila Verde\,  Braga Vila Verde\,  Braga
+SUMMARY:Corrida dos Namorados 2026
+DESCRIPTION:A Corrida dos Namorados inclui as seguintes provas: Corrida\,  
+ com cerca de 5km\,  para participantes nascidos até 2010; Caminhada\,  com
+  cerca de 5 km\,  para participantes nascidos até 2021. A Corrida dos Namo
+ rados integra o Campeonato Regional de 5km de estrada daAssociação de Atl
+ etismo de Braga.\nhttps://www.portugalrunning.com/eventos/corrida-dos-namor
+ ados-2026/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-namorados-2026/
+END:VEVENT
+END:VCALENDAR

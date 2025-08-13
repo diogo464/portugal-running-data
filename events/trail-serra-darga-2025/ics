@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:688c088a77d31
-DTSTAMP:20250801T002130Z
+UID:689bd5af38ea2
+DTSTAMP:20250813T000047Z
 DTSTART:20250926
 DTEND:20250927
 LOCATION:Viana do Castelo Viana do Castelo
 SUMMARY:Grande Trail Serra D'Arga 2025
-DESCRIPTION:Grande Trail Serra D'Arga 2025\nhttps://www.portugalrunning.com
- /eventos/trail-serra-darga-2025/
+DESCRIPTION:O Grande Trail da Serra D´Arga é organizado pela Carlos Sá N
+ ature Events®. Conta ainda com a colaboração das Câmaras Municipais de 
+ Caminha e Viana do Castelo\,  Juntas de Freguesias de Dem\,  São Lourenço
+  da Montaria\,  Estorãos\,  Arga S. João\,  Arga de cima\,  Arga de Baixo
+ \,  Amonde e Vila Praia[..]\nhttps://www.portugalrunning.com/eventos/trail-
+ serra-darga-2025/
 URL:https://www.portugalrunning.com/eventos/trail-serra-darga-2025/
 END:VEVENT
 END:VCALENDAR

@@ -4,14 +4,19 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cf761849
-DTSTAMP:20250720T222559Z
+UID:689bd5adb15de
+DTSTAMP:20250813T000045Z
 DTSTART:20250920T141800Z
-DTEND:20250920T141800Z
+DTEND:20250920T235900Z
 LOCATION:Ourém\,  Santarém Ourém\,  Santarém
 SUMMARY:Ourém Urban Trail 2025
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ourem-urban-trail-202
- 5/
+DESCRIPTION:O&nbsp;Ourém Urban Trail&nbsp;decorre a&nbsp;20 de setembro\, 
+  com partida e chegada no&nbsp;Centro de Negócios de Ourém. Infinity - Sp
+ orts & Adventure\,  by Alice Neves&nbsp;e&nbsp;Juventude Ouriense\,  com o 
+ apoio da&nbsp;Câmara Municipal de Ourém. Idade de participação Trail Ur
+ bano (15km): A partir dos 16 anos. Caminhada (8-9km): Sem limite mínimo
+  de idade\,  não recomendada a menores de[..]\nhttps://www.portugalrunnin
+ g.com/eventos/ourem-urban-trail-2025/
 URL:https://www.portugalrunning.com/eventos/ourem-urban-trail-2025/
 END:VEVENT
 END:VCALENDAR

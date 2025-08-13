@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d2bc4041
-DTSTAMP:20250720T222651Z
+UID:689bd5ae39f4a
+DTSTAMP:20250813T000046Z
 DTSTART:20250920
 DTEND:20250921
 LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
 SUMMARY:Sesimbra Night Run 2025
-DESCRIPTION:Sesimbra Night Run 2025\nhttps://www.portugalrunning.com/evento
- s/sesimbra-night-run-2025/
+DESCRIPTION: A ASSOCIAÇÃO DESPORTIVA OMUNDODACORRIDA.COM\,  organiza com
+  o apoio da Câmara Municipal de Sesimbra\,  no dia 20 de Setembro de 2025\
+ ,  pelas 21:00 horas\,  uma competição denominada "SESIMBRA NIGHT RUN". P
+ elas 21:15 horas\,  partirá a prova a correr ou andar que terá a distânc
+ ia aproximada de 5 km.\nhttps://www.portugalrunning.com/eventos/sesimbra-ni
+ ght-run-2025/
 URL:https://www.portugalrunning.com/eventos/sesimbra-night-run-2025/
 END:VEVENT
 END:VCALENDAR
