@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:689e789f9821d
+DTSTAMP:20250815T000031Z
+DTSTART:20251019
+DTEND:20251020
+LOCATION:Parque das Nações\,  Lisboa Parque das Nações\,  Lisboa
+SUMMARY:Corrida Sempre Mulher 2025 - Outubro
+DESCRIPTION:No dia 19 de Outubro venham correr ou andar 5 Km no Parque das 
+ Nações por uma boa causa apoiando a “Associação Portuguesa de Apoio �
+ � Mulher com Cancro da Mama”.Ajudem-nos a fazer a diferença nesta causa 
+ muito especial.  Contamos convosco para inundar novamente Lisboa de cor de
+  rosa!\nhttps://www.portugalrunning.com/eventos/corrida-sempre-mulher-2025-
+ outubro/
+URL:https://www.portugalrunning.com/eventos/corrida-sempre-mulher-2025-outubro/
+END:VEVENT
+END:VCALENDAR
