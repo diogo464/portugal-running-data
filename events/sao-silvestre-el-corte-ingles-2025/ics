@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68a11ba443c35
+DTSTAMP:20250817T000036Z
+DTSTART:20251214
+DTEND:20251215
+LOCATION:Lisboa Lisboa
+SUMMARY:São Silvestre El Corte Inglés 2025
+DESCRIPTION:Em 2025\,  a prova que conta com o apoio de Record vai correr
+ -se a 14 de dezembro (domingo) e com um percurso renovado\,  com partida e 
+ chegada no Saldanha\,  bem mais acessível aos novatos e também aos mais e
+ xperientes. Será uma oportunidade de ouro para apreciar e viver a magia da
+  quadra[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-el-corte
+ -ingles-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles-2025/
+END:VEVENT
+END:VCALENDAR

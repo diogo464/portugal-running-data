@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68a11ba1d8f04
+DTSTAMP:20250817T000033Z
+DTSTART:20251004
+DTEND:20251005
+LOCATION:Parque Ribeirinho do Oriente\,  Lisboa Parque Ribeirinho do Oriente\,  Lisboa
+SUMMARY:Corrida Jorge Pina 2025
+DESCRIPTION:A&nbsp;9ª edição da BNP Paribas Corrida Jorge Pina para a In
+ clusão&nbsp;realiza-se no dia&nbsp;4 de outubro\, a partir das&nbsp;17h00\
+ , &nbsp;no&nbsp;Parque Ribeirinho do Oriente\,  em Lisboa. Esta iniciativa 
+ conjunta afirma-se como um momento dedicado à promoção da&nbsp;inclusão
+ \,  da&nbsp;cidadania ativa&nbsp;e do&nbsp;bem-estar físico e mental&nbsp;
+ através da prática desportiva.\nhttps://www.portugalrunning.com/eventos/c
+ orrida-jorge-pina-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-jorge-pina-2025/
+END:VEVENT
+END:VCALENDAR

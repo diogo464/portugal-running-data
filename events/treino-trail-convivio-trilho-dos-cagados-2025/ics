@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68a11ba5af38f
+DTSTAMP:20250817T000037Z
+DTSTART:20251201
+DTEND:20251202
+LOCATION:Cartaxo\,  Santarém Cartaxo\,  Santarém
+SUMMARY:Treino Trail Convívio Trilho dos Cágados 2025
+DESCRIPTION:O 4º Treino Trail Convivio Trilho Dos Cágados realiza-se a 1 
+ de Dezembro\,  na Vila Chã de Ourique (Concelho do Cartaxo).\nhttps://www.
+ portugalrunning.com/eventos/treino-trail-convivio-trilho-dos-cagados-2025/
+URL:https://www.portugalrunning.com/eventos/treino-trail-convivio-trilho-dos-cagados-2025/
+END:VEVENT
+END:VCALENDAR

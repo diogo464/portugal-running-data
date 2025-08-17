@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68a11ba371b07
+DTSTAMP:20250817T000035Z
+DTSTART:20251220
+DTEND:20251221
+LOCATION:Seixal Seixal
+SUMMARY:São Silvestre Baía do Seixal 2025
+DESCRIPTION:A WeRun em conjunto com o Centro Cultural e Recreativo do Alto 
+ do Moinho com a parceria da Câmara Municipal Seixal\,  da Junta de Fregues
+ ias do Seixal\,  Arrentela e Paio Pires\,  Junta de Freguesia de Amora\, &n
+ bsp;Junta de Freguesia de Corroios e da Junta de Freguesia de Fernão Ferro
+ \,  irá realizar[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestr
+ e-baia-do-seixal-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-baia-do-seixal-2025/
+END:VEVENT
+END:VCALENDAR

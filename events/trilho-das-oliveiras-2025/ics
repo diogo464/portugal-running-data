@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68a11ba743f4c
+DTSTAMP:20250817T000039Z
+DTSTART:20251019T145600Z
+DTEND:20251019T145600Z
+LOCATION:Macedo de Cavaleiros\,  Bragança Macedo de Cavaleiros\,  Bragança
+SUMMARY:Trilho das Oliveiras 2025
+DESCRIPTION:Corrida em Morais\,  10h. Corrida natureza longa + corrida natu
+ reza curta + caminhada\nhttps://www.portugalrunning.com/eventos/trilho-das-
+ oliveiras-2025/
+URL:https://www.portugalrunning.com/eventos/trilho-das-oliveiras-2025/
+END:VEVENT
+END:VCALENDAR
