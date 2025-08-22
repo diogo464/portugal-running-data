@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68a7b320e5c17
+DTSTAMP:20250822T000032Z
+DTSTART:20251005
+DTEND:20251006
+LOCATION:Nadadouro\,  Caldas da Rainha Nadadouro\,  Caldas da Rainha
+SUMMARY:Trail dos Flamingos 2025
+DESCRIPTION:Todas as provas [Caminhada - 10 km\,  CãoMinhada - 10 km\,  Ki
+ ds – aproximadamente 1\, 5 km e Mini Trail de 12 km e Trail Sprint 23 km]
+ \,  partem da sede do Centro de Apoio Social do Nadadouro\,  junto ao Campo
+  de Futebol.\nhttps://www.portugalrunning.com/eventos/trail-dos-flamingos-2
+ 025/
+URL:https://www.portugalrunning.com/eventos/trail-dos-flamingos-2025/
+END:VEVENT
+END:VCALENDAR

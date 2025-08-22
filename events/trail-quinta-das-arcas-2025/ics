@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68a7b3212f538
+DTSTAMP:20250822T000033Z
+DTSTART:20251130
+DTEND:20251201
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Trail Quinta das Arcas 2025
+DESCRIPTION:Este evento será realizado no concelho de Valongo\,  na fregue
+ sia de Sobrado no dia 30 de Novembro de 2025\,  com partidas/chegadas nas i
+ nstalações da Quinta das Arcas.\nhttps://www.portugalrunning.com/eventos/
+ trail-quinta-das-arcas-2025/
+URL:https://www.portugalrunning.com/eventos/trail-quinta-das-arcas-2025/
+END:VEVENT
+END:VCALENDAR

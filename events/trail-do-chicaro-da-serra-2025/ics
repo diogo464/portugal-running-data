@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68a7b32188881
+DTSTAMP:20250822T000033Z
+DTSTART:20251116T190800Z
+DTEND:20251116T235900Z
+LOCATION:Alvaiázere\,  Leiria Alvaiázere\,  Leiria
+SUMMARY:Trail do Chicaro da Serra 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-do-chicaro-da-s
+ erra-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-chicaro-da-serra-2025/
+END:VEVENT
+END:VCALENDAR
