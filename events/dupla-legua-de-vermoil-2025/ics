@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68aba79d6b657
+DTSTAMP:20250825T000029Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:Vermoil\,  Pombal Vermoil\,  Pombal
+SUMMARY:Dupla Légua de Vermoil 2025
+DESCRIPTION:O ATLÉTICO CLUBE DE VERMOIL leva a efeito no dia 02 de no
+ vembro de 2025\,  pelas 09:30 horas\,  uma prova de estrada denominada 
+ “30ª DUPLA-LÉGUA DE VERMOIL”. \nhttps://www.portugalrunning.com/even
+ tos/dupla-legua-de-vermoil-2025/
+URL:https://www.portugalrunning.com/eventos/dupla-legua-de-vermoil-2025/
+END:VEVENT
+END:VCALENDAR

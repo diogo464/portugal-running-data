@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68aba79dec517
+DTSTAMP:20250825T000029Z
+DTSTART:20251123T065900Z
+DTEND:20251123T235900Z
+LOCATION:Granja\,  Vila Franca de Xira Granja\,  Vila Franca de Xira
+SUMMARY:Trail Aldeia da Granja 2025
+DESCRIPTION:O 2º Trail Aldeia da Granja é um evento organizado pela Equip
+ a de Atletismo Sociedade Recreativa da Granja. Este evento irá ter 3 prova
+ s distintas: Trail Longo (TL)\,  um Trail Curto (TC) e uma caminhada (CM).\
+ nhttps://www.portugalrunning.com/eventos/trail-aldeia-da-granja-2025/
+URL:https://www.portugalrunning.com/eventos/trail-aldeia-da-granja-2025/
+END:VEVENT
+END:VCALENDAR

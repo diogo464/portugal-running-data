@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68aba79c9ad50
+DTSTAMP:20250825T000028Z
+DTSTART:20251109
+DTEND:20251110
+LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+SUMMARY:Mini e Meia Maratona Abrantes 2025
+DESCRIPTION:O Município de Abrantes em parceria com Casa do Benfica em Abr
+ antes\,  leva a efeito a Mini e Meia Maratona de Abrantes\,  a realizar no 
+ dia 9 de novembro no TagusValley – Parque de Ciência e Tecnologia.\nhttp
+ s://www.portugalrunning.com/eventos/mini-e-meia-maratona-abrantes-2025/
+URL:https://www.portugalrunning.com/eventos/mini-e-meia-maratona-abrantes-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68aba79f66e99
+DTSTAMP:20250825T000031Z
+DTSTART:20251026T203800Z
+DTEND:20251026T235900Z
+LOCATION:Abela\,  Setúbal Abela\,  Setúbal
+SUMMARY:Trail Running A'Bella 2025
+DESCRIPTION:O Vº Trail Running em A’Bella é um evento organizado pelo S
+ porting Futebol Clube Abelense e tem como principal propósito percorrer tr
+ ilhos e caminhos do concelho de Santiago do Cacém. Trail curto com +/- 15k
+ m; Trail longo com +/- 23km; Caminhada com +/- 10km.\nhttps://www.portugalr
+ unning.com/eventos/trail-running-abella-2025/
+URL:https://www.portugalrunning.com/eventos/trail-running-abella-2025/
+END:VEVENT
+END:VCALENDAR

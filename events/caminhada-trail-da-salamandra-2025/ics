@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68aba79d24722
+DTSTAMP:20250825T000029Z
+DTSTART:20251108
+DTEND:20251109
+LOCATION:Penina\,  Faro Penina\,  Faro
+SUMMARY:Caminhada Trail da Salamandra 2025
+DESCRIPTION:Este Evento é uma prova de Caminhada ou Trail\,  constituído 
+ por uma caminhada Trail de 10 Kms e outra Caminhada Trail de 16 Kms\,  real
+ izados predominantemente em trilhos da Paisagem Protegida Local da Rocha da
+  Pena\,  património ambiental da nossa terra\,  caminhos rurais\,  vias de
+  terra batida\,  circundantes a Aldeia[..]\nhttps://www.portugalrunning.com
+ /eventos/caminhada-trail-da-salamandra-2025/
+URL:https://www.portugalrunning.com/eventos/caminhada-trail-da-salamandra-2025/
+END:VEVENT
+END:VCALENDAR
