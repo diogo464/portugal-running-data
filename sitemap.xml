@@ -2,7 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-08-24T18:18:59+00:00</lastmod>
+		<lastmod>2025-08-27T18:35:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-cidade-palco-de-natal-2025/</loc>
+		<lastmod>2025-08-27T18:35:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/Sao-Silvestre-Palco-de-Natal-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-nazare-2025/</loc>
+		<lastmod>2025-08-27T18:31:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/502476339_1262187629245310_6183930460690834796_n-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-do-chicaro-da-serra-2025/</loc>
@@ -5620,10 +5634,6 @@
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-mozelos-2025/</loc>
 		<lastmod>2025-01-26T17:10:03+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-cidade-palco-de-natal-2025/</loc>
-		<lastmod>2025-01-26T17:09:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/europarque-bio-run-2025/</loc>

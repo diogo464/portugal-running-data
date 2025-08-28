@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68af9c220952c
+DTSTAMP:20250828T000034Z
+DTSTART:20251109
+DTEND:20251110
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Meia Maratona Nazaré 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/meia-maratona-nazare-
+ 2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-nazare-2025/
+END:VEVENT
+END:VCALENDAR
