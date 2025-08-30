@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b23f3202e19
+DTSTAMP:20250830T000050Z
+DTSTART:20250921
+DTEND:20250922
+LOCATION:Viana do Alentejo\,  Évora Viana do Alentejo\,  Évora
+SUMMARY:Grande Prémio de Atletismo Srª D`Aires 2025
+DESCRIPTION:O Município de Viana do Alentejo com a organização do Grande
+  Prémio de Atletismo “Sr.ª D’Aires”-Memorial Luís Filipe Branco\, 
+  pretende: (i) desenvolver um evento desportivo para fomentar a prática do
+  atletismo\,  através de um histórico evento no concelho de Viana do Alen
+ tejo; (ii) dar a conhecer o nosso património\,  monumentos\, [..]\nhttps:/
+ /www.portugalrunning.com/eventos/grande-premio-de-atletismo-sra-daires-2025
+ /
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-sra-daires-2025/
+END:VEVENT
+END:VCALENDAR

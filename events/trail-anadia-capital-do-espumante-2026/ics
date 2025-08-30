@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b23f3a483f6
+DTSTAMP:20250830T000058Z
+DTSTART:20260524
+DTEND:20260525
+LOCATION:Anadia\,  Aveiro Anadia\,  Aveiro
+SUMMARY:Trail Anadia Capital do Espumante 2026
+DESCRIPTION:Trail Anadia Capital do Espumante 2026\nhttps://www.portugalrun
+ ning.com/eventos/trail-anadia-capital-do-espumante-2026/
+URL:https://www.portugalrunning.com/eventos/trail-anadia-capital-do-espumante-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b23f3667236
+DTSTAMP:20250830T000054Z
+DTSTART:20251109T150000Z
+DTEND:20251109T235900Z
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Corrida do Centro Popular dos Trabalhadores do Bairro de Carcavelos 2025
+DESCRIPTION:A segunda edição da Corrida do Centro Popular dos Trabalhador
+ es do Bairro de Carcavelos\,  em Matosinhos\,  realiza-se a 9 de novembro.\
+ nhttps://www.portugalrunning.com/eventos/corrida-do-centro-popular-dos-trab
+ alhadores-do-bairro-de-carcavelos-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-do-centro-popular-dos-trabalhadores-do-bairro-de-carcavelos-2025/
+END:VEVENT
+END:VCALENDAR

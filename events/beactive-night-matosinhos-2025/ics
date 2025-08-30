@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b23f379886d
+DTSTAMP:20250830T000055Z
+DTSTART:20250927
+DTEND:20250928
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Beactive Night Matosinhos 2025
+DESCRIPTION:Matosinhos vai juntar-se às comemorações da Semana Europeia 
+ do Desporto com a BeActive Night\,  no dia 27 de setembro.&nbsp; Com partid
+ a e chegada junto ao emblemático Mosteiro de Leça do Balio\,  esta prova 
+ gratuita terá início às 21h00 e promete encher a noite de energia\,  mov
+ imento e diversão.\nhttps://www.portugalrunning.com/eventos/beactive-night
+ -matosinhos-2025/
+URL:https://www.portugalrunning.com/eventos/beactive-night-matosinhos-2025/
+END:VEVENT
+END:VCALENDAR

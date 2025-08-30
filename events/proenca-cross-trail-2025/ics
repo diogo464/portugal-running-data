@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b23f374c657
+DTSTAMP:20250830T000055Z
+DTSTART:20251213
+DTEND:20251214
+LOCATION:Proença a Nova\,  Castelo Branco Proença a Nova\,  Castelo Branco
+SUMMARY:Proença Cross Trail 2025
+DESCRIPTION:A Organização do Proença Cross Trail – cabe à Interior Co
+ nvida Associação de Promoção e Desenvolvimento do Turismo\,  Desporto e
+  Lazer em coorganização com a empresa Horizontes Turismo Desportivo.\nhtt
+ ps://www.portugalrunning.com/eventos/proenca-cross-trail-2025/
+URL:https://www.portugalrunning.com/eventos/proenca-cross-trail-2025/
+END:VEVENT
+END:VCALENDAR

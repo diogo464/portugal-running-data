@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b23f3a197ae
+DTSTAMP:20250830T000058Z
+DTSTART:20251005T073400Z
+DTEND:20251005T073400Z
+LOCATION:Porto Porto
+SUMMARY:Corrida IPO Porto 2025
+DESCRIPTION:No dia 5 de outubro\,  às 10h00\,  todos os caminhos levam à 
+ Corrida IPO Porto. Mais do que uma prova\,  é um gesto de solidariedade qu
+ e une atletas\,  famílias e amigos por uma causa maior. Todas as inscriç�
+ �es têm carácter solidário e revertem integralmente a favor do IPO Porto
+ \,  contribuindo[..]\nhttps://www.portugalrunning.com/eventos/corrida-ipo-p
+ orto-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-ipo-porto-2025/
+END:VEVENT
+END:VCALENDAR

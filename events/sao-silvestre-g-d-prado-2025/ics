@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b23f39b2841
+DTSTAMP:20250830T000057Z
+DTSTART:20251122T062700Z
+DTEND:20251123T062700Z
+LOCATION:Vila de Prado\,  Vila Verde Vila de Prado\,  Vila Verde
+SUMMARY:São Silvestre G. D. Prado 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/sao-silvestre-g-d-pra
+ do-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-g-d-prado-2025/
+END:VEVENT
+END:VCALENDAR
