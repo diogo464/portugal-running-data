@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b43905e6a10
+DTSTAMP:20250831T115901Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:Viseu Viseu
+SUMMARY:Grande Prémio Internacional de Viseu 2025
+DESCRIPTION:Uma prova com história e tradição – 63 anos a correr ! Na 
+ manhã de domingo de 02 novembro\,  os viseenses poderão assistir e correr
+  na 63ª edição do Grande Prémio Internacional “Cidade de Viseu”\,  
+ a mais antiga prova pedestre do nosso país e por aqui\,  passaram verdadei
+ ras lendas da[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-in
+ ternacional-de-viseu-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-internacional-de-viseu-2025/
+END:VEVENT
+END:VCALENDAR

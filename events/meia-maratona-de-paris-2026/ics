@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b43902d4978
+DTSTAMP:20250831T115858Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Paris\,  França Paris\,  França
+SUMMARY:Meia Maratona de Paris 2026
+DESCRIPTION:A HOKA Semi de Paris é a corrida para todos que amam desafios!
+  Seja qual for o seu objetivo: correr asua primeira meia maratona\,  se div
+ ertir com os amigos ou bater o seu recorde pessoal. A MEIA MARA QUE DEIXA P
+ ARIS ANIMADAEm 2025\,  mais de 48.000 corredores largaram do Boulevard[..]\
+ nhttps://www.portugalrunning.com/eventos/meia-maratona-de-paris-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-paris-2026/
+END:VEVENT
+END:VCALENDAR

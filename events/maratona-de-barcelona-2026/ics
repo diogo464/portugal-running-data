@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b439026dd56
+DTSTAMP:20250831T115858Z
+DTSTART:20260315
+DTEND:20260316
+LOCATION:Barcelona\,  Espanha Barcelona\,  Espanha
+SUMMARY:Maratona de Barcelona 2026
+DESCRIPTION:Prepare-se para o novo circuito do Zurich Marató Barcelona! Em
+  breve\,  revelaremos um percurso mais rápido\,  mais central\,  monumenta
+ l e animado. Faça história.Torne-o único.Torne-o seu. Circuito totalment
+ e urbano que percorre o centro de uma cidade cosmopolita\,  aberta e activa
+ .\nhttps://www.portugalrunning.com/eventos/maratona-de-barcelona-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-de-barcelona-2026/
+END:VEVENT
+END:VCALENDAR

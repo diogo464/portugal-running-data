@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b4390385d06
+DTSTAMP:20250831T115859Z
+DTSTART:20251122
+DTEND:20251123
+LOCATION:Caldas da Rainha\,  Leiria Caldas da Rainha\,  Leiria
+SUMMARY:Corrida pela Diabetes 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-pela-diabetes
+ -2025/
+URL:https://www.portugalrunning.com/eventos/corrida-pela-diabetes-2025/
+END:VEVENT
+END:VCALENDAR

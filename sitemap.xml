@@ -2,7 +2,84 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-08-29T17:42:14+00:00</lastmod>
+		<lastmod>2025-08-31T07:22:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-paris-2026/</loc>
+		<lastmod>2025-08-31T07:22:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Meia-Maratona-de-Paris-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-barcelona-2026/</loc>
+		<lastmod>2025-08-31T07:17:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/487079737_1134509075358401_6418823007420234731_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-e-meia-maratona-madrid-2026/</loc>
+		<lastmod>2025-08-31T07:10:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/486643211_29106493365631370_2358731217252970512_n-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-pela-diabetes-2025/</loc>
+		<lastmod>2025-08-31T06:56:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/pop_8l9kh79871.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/beactive-night-matosinhos-2025/</loc>
+		<lastmod>2025-08-31T06:48:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/470x300.jpg.470x300_q95_crop_upscale-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-internacional-de-viseu-2025/</loc>
+		<lastmod>2025-08-31T06:45:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/gpiviseu25_banner.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/volta-a-silgueiros-2025/</loc>
+		<lastmod>2025-08-31T06:45:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/Volta-a-Silgueiros-2025-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-e-caminhada-clube-trilheiros-amigos-2025/</loc>
+		<lastmod>2025-08-31T06:43:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/banner-trail-trilheiros-e-amigos-2025-min-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-nova-de-santo-andre-2025/</loc>
+		<lastmod>2025-08-31T06:41:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/68af08d9eb13c_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sunset-senhora-dos-chaos-trail-2025/</loc>
+		<lastmod>2025-08-30T17:43:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/f2d862f4661791c920534881bf827a34.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-popular-esmeriz-cabecudos-2025/</loc>
+		<lastmod>2025-08-30T16:44:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/1751966712-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sousoes-trail-2025/</loc>
@@ -16,13 +93,6 @@
 		<lastmod>2025-08-29T07:38:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/950x350.jpg.950x350_q95_crop_upscale.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/beactive-night-matosinhos-2025/</loc>
-		<lastmod>2025-08-29T07:28:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/470x300.jpg.470x300_q95_crop_upscale-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1222,13 +1292,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-popular-esmeriz-cabecudos-2025/</loc>
-		<lastmod>2025-07-10T13:06:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/1751966712-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/zela-ultra-marathon-2026/</loc>
 		<lastmod>2025-07-10T13:01:34+00:00</lastmod>
 	</url>
@@ -2236,13 +2299,6 @@
 		<lastmod>2025-06-02T15:10:07+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/UTG-25-Cartaz.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sunset-senhora-dos-chaos-trail-2025/</loc>
-		<lastmod>2025-06-02T15:07:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/e1c24767f7cbcd6a0cad65604705f7a8.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6173,13 +6229,6 @@
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/ninja-ocr-police-2025/</loc>
 		<lastmod>2025-01-12T18:21:03+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/volta-a-silgueiros-2025/</loc>
-		<lastmod>2025-01-12T18:14:07+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/Volta-a-Silgueiros-2025-1.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/grande-premio-atletismo-de-viseu-2025/</loc>
