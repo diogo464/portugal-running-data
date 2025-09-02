@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b633e7974c6
+DTSTAMP:20250902T000143Z
+DTSTART:20251005
+DTEND:20251006
+LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+SUMMARY:Meia Maratona Guimarães 2025
+DESCRIPTION:A Meia Maratona Cidade Berço é um evento que se vai realizar 
+ no dia de 05 de Outubro em Guimarães. Inscreve-te nas diferentes provas ou
+  participa com voluntário na organização. Um novo conceito com uma verte
+ nte solidária e sustentável.\nhttps://www.portugalrunning.com/eventos/mei
+ a-maratona-guimaraes-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-guimaraes-2025/
+END:VEVENT
+END:VCALENDAR
