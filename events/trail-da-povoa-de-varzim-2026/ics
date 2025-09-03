@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68b78520a3c75
+DTSTAMP:20250903T000032Z
+DTSTART:20260118
+DTEND:20260119
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Trail da Póvoa de Varzim 2026
+DESCRIPTION:O TPV - TRAIL PÓVOA DE VARZIM é um evento organizado pelo Cen
+ tro Desportivo e Cultural de Navais\,  em parceria com a empresa Municipal 
+ Varzim lazer e conta com o apoio da Junta da União das Freguesias de Aguç
+ adoura e Navais e da Câmara Municipal da Póvoa de Varzim.Este evento[..]\
+ nhttps://www.portugalrunning.com/eventos/trail-da-povoa-de-varzim-2026/
+URL:https://www.portugalrunning.com/eventos/trail-da-povoa-de-varzim-2026/
+END:VEVENT
+END:VCALENDAR
