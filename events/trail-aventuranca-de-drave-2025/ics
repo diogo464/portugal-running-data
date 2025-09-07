@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68bccb44d7935
+DTSTAMP:20250907T000108Z
+DTSTART:20251004T112100Z
+DTEND:20251004T112100Z
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Trail Aventurança de Drave 2025
+DESCRIPTION:O Trail Aventurança de Drave\,  com a distância de 18km a rea
+ lizar a 4 de outubro\,  tem como local de partida e chegada a Regoufe\,  co
+ m partida às 9h30m\,  haverá uma caminhada de 8km\,  sem fins competitivo
+ s.\nhttps://www.portugalrunning.com/eventos/trail-aventuranca-de-drave-2025
+ /
+URL:https://www.portugalrunning.com/eventos/trail-aventuranca-de-drave-2025/
+END:VEVENT
+END:VCALENDAR

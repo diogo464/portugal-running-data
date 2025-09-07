@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68bccb435a82b
+DTSTAMP:20250907T000107Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:Ourique\,  Beja Ourique\,  Beja
+SUMMARY:Corrida MegaFitness 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-megafitness-2
+ 025/
+URL:https://www.portugalrunning.com/eventos/corrida-megafitness-2025/
+END:VEVENT
+END:VCALENDAR

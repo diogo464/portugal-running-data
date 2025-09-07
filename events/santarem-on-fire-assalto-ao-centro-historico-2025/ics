@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68bccb42e9e0c
+DTSTAMP:20250907T000106Z
+DTSTART:20251025T131600Z
+DTEND:20251025T235900Z
+LOCATION:Santarém Santarém
+SUMMARY:Santarém On Fire – Assalto ao Centro Histórico 2025
+DESCRIPTION:Neste evento os bombeiros irão percorrer equipados cerca de 80
+ 0 M uma elevação máxima de 115 M com o seu equipamento de proteção ind
+ ividual no menor tempo possível.\nhttps://www.portugalrunning.com/eventos/
+ santarem-on-fire-assalto-ao-centro-historico-2025/
+URL:https://www.portugalrunning.com/eventos/santarem-on-fire-assalto-ao-centro-historico-2025/
+END:VEVENT
+END:VCALENDAR

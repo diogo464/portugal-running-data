@@ -4,14 +4,16 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ce4ac872
-DTSTAMP:20250720T222540Z
-DTSTART:20250920
-DTEND:20250921
+UID:68bccb44d4010
+DTSTAMP:20250907T000108Z
+DTSTART:20251018
+DTEND:20251019
 LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
 SUMMARY:Meia Maratona Zemou 2025
-DESCRIPTION:Meia Maratona Zemou 2025\nhttps://www.portugalrunning.com/event
- os/meia-maratona-zemou-2025/
+DESCRIPTION:A Meia Maratona Zemou\,  com a distância de 22km a realizar-se
+  a 20 de outubro é a última prova docircuito e terá como local de partid
+ a e chegada a Aldeia de Tebilhão com partida às 8h00.\nhttps://www.portug
+ alrunning.com/eventos/meia-maratona-zemou-2025/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-zemou-2025/
 END:VEVENT
 END:VCALENDAR
