@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68c1bf7e8c12c
+DTSTAMP:20250910T181214Z
+DTSTART:20250920T215400Z
+DTEND:20250920T215400Z
+LOCATION:Torre de Belém\,  Lisboa Torre de Belém\,  Lisboa
+SUMMARY:Corrida Solidária pela Saúde Mental no Trabalho 2025
+DESCRIPTION:No próximo dia 20 de setembro\,  junte-se à Corrida Solidári
+ a pela Saúde Mental no Trabalho e\,  ao longo de 7 km\,  una o desporto ao
+  bem-estar!Esta iniciativa é promovida em parceria com a AlertaMente - Ass
+ ociação Nacional para a Saúde Mental\,  entidade que se dedica à promo�
+ �ão da saúde mental[..]\nhttps://www.portugalrunning.com/eventos/corrida-
+ solidaria-pela-saude-mental-no-trabalho-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-pela-saude-mental-no-trabalho-2025/
+END:VEVENT
+END:VCALENDAR

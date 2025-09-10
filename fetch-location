@@ -185,11 +185,12 @@ class GoogleGeocodingClient:
             content = response.content
             # print(f"GEOCODING|Google API content|{location}|{content}")
             data = json.loads(content)
+            print(data)
             result = data["results"][0]
             # print(f"GEOCODING|Google API result|{location}|{result}")
             return self._parse_google_response(location, result)
         except Exception as e:
-            # print(f"GEOCODING|Error|{location}|{str(e)}")
+            print(f"GEOCODING|Error|{location}|{str(e)}")
             return None
 
 
@@ -216,7 +217,11 @@ def clean_ics_location(loc: str) -> str:
     return ", ".join(segments)
 
 
-FIXUP_TABLE = {"Alcaria da Serra, Beja": "Alcaria da Serra"}
+FIXUP_TABLE = {
+    "Alcaria da Serra, Beja": "Alcaria da Serra",
+    # this seems to have been a typo in the ICS file so we just fix it here
+    "Cabeço de Vida, Fontreira": "Cabeço de Vide, Fontreira",
+}
 
 key = os.environ[ENV_GOOGLE_MAPS_API_KEY]
 client = GoogleGeocodingClient(key)

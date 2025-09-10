@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68c1bf7ea6c22
+DTSTAMP:20250910T181214Z
+DTSTART:20251005T112500Z
+DTEND:20251005T112500Z
+LOCATION:Ervedoso\,  Vale de Cambra Ervedoso\,  Vale de Cambra
+SUMMARY:Rota do Azeite e do Mel 2025
+DESCRIPTION:Um evento organizado pela Associação de Ervedoso para promove
+ r a Aldeia de Ervedoso e mostrar o que de bom tem no lugar.\nhttps://www.po
+ rtugalrunning.com/eventos/rota-do-azeite-e-do-mel-2025/
+URL:https://www.portugalrunning.com/eventos/rota-do-azeite-e-do-mel-2025/
+END:VEVENT
+END:VCALENDAR

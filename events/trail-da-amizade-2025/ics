@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68c1bf7ea2a92
+DTSTAMP:20250910T181214Z
+DTSTART:20251206
+DTEND:20251207
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Amizade 2025
+DESCRIPTION:A prova Trail da Amizade (TdA) é percorrida\,  na sua maioria\
+ ,  em trilhos técnicos\,  estradões\,  carreiros e quelhas\,  na freguesi
+ a de Santiago da Guarda. Com início e fim no centro de Santiago da Guarda\
+ ,  na Av. Vasco da Gama\,  será uma prova circular. Este evento terá as d
+ istâncias previstas de[..]\nhttps://www.portugalrunning.com/eventos/trail-
+ da-amizade-2025/
+URL:https://www.portugalrunning.com/eventos/trail-da-amizade-2025/
+END:VEVENT
+END:VCALENDAR

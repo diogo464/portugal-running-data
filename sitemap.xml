@@ -2,7 +2,63 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-09-06T12:59:43+00:00</lastmod>
+		<lastmod>2025-09-10T18:10:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-das-cegonhas-2025-2/</loc>
+		<lastmod>2025-09-10T18:10:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/pdf_-_cartaz_-_i_corrida_das_cegonhas_2025_1110-1.600x850.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-copenhaga-2025/</loc>
+		<lastmod>2025-09-10T06:02:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/463905002_1487574231991283_663157696764788822_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-solidaria-pela-saude-mental-no-trabalho-2025/</loc>
+		<lastmod>2025-09-09T21:59:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/Captura-de-ecra-2025-09-09-225333-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/torres-vedras-night-run-urban-trail-2025/</loc>
+		<lastmod>2025-09-09T21:41:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/Cartaz_NightRunUrbanTrail_Vertical-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-da-amizade-2025/</loc>
+		<lastmod>2025-09-08T11:35:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/68bcbcdcb2c39_WhatsApp_Image_2025-09-06_at_19.53.01.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/furia-trail-2025/</loc>
+		<lastmod>2025-09-08T11:32:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/pop_g79ka26839.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-eco-run-cabeco-de-vide-fronteira-2025/</loc>
+		<lastmod>2025-09-08T11:29:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/82f7256536ca368dee4d70d257383cc0.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/rota-do-azeite-e-do-mel-2025/</loc>
+		<lastmod>2025-09-08T11:27:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/banner-rota-azeite-mel-2025-min-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/hyrun-crossboxacor-edition-seia-2025/</loc>
@@ -614,13 +670,6 @@
 		<lastmod>2025-08-12T06:39:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/20251011_cartaz.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/furia-trail-2025/</loc>
-		<lastmod>2025-08-12T06:34:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/pop_ya4f946839.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2180,13 +2229,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-das-cegonhas-2025-2/</loc>
-		<lastmod>2025-06-12T09:50:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/png_-_cartaz_-_i_corrida_das_cegonhas_2025_1210-1.600x850.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/campeonato-regional-montanha-sobe-2-desce-2025/</loc>
 		<lastmod>2025-06-12T09:35:25+00:00</lastmod>
 		<image:image>
@@ -2300,13 +2342,6 @@
 		<lastmod>2025-06-07T10:09:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/2025-06-05_19-18-09_6841df61a48e7.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-eco-run-cabeco-de-vide-fronteira-2025/</loc>
-		<lastmod>2025-06-07T10:00:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/ceae77c117d68d63f732d843a9890144.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6989,13 +7024,6 @@
 		<lastmod>2024-12-14T14:10:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/675c67271195f_336464801_619164690103068_618652791596378716_n-1-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/torres-vedras-night-run-urban-trail-2025/</loc>
-		<lastmod>2024-12-14T14:07:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/pop_y34kvbn771-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
