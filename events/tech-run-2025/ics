@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68c1c2e7d4eb8
+DTSTAMP:20250910T182647Z
+DTSTART:20251109T061100Z
+DTEND:20251109T235900Z
+LOCATION:Beato\,  Lisboa Beato\,  Lisboa
+SUMMARY:Tech Run 2025
+DESCRIPTION:Organized by iOn live\,  in collaboration with 351 Startup Asso
+ ciation and Unicorn Factory Lisboa\,  Tech Run is part of Portugal Tech Wee
+ k – the country’s biggest celebration of innovation and entrepreneurshi
+ p. Whether you’re going for the 5K or the 10K\,  this isn’t just a run.
+  It’s where sport meets connection\, [..]\nhttps://www.portugalrunning.co
+ m/eventos/tech-run-2025/
+URL:https://www.portugalrunning.com/eventos/tech-run-2025/
+END:VEVENT
+END:VCALENDAR
