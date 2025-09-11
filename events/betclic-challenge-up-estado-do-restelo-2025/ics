@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68c21130cdf6b
+DTSTAMP:20250911T000048Z
+DTSTART:20250920
+DTEND:20250921
+LOCATION:Estádio do Restelo\,  Lisboa Estádio do Restelo\,  Lisboa
+SUMMARY:Betclic Challenge Up – Estado do Restelo 2025
+DESCRIPTION:Em parceria com o Clube Futebol os Belenenses\,  chegou mais um
+  desafio em inclinação! No coração de Belém\,  o Estádio do Restelo\,
+   convida-te a conquistar a subida até ao miradouro. São 260 metros curto
+ s mas intensos\,  com um declive máximo de 38%\,  desde a Avenida do Reste
+ lo até ao topo[..]\nhttps://www.portugalrunning.com/eventos/betclic-challe
+ nge-up-estado-do-restelo-2025/
+URL:https://www.portugalrunning.com/eventos/betclic-challenge-up-estado-do-restelo-2025/
+END:VEVENT
+END:VCALENDAR

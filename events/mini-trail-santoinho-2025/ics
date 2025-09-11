@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68c21131b77fa
+DTSTAMP:20250911T000049Z
+DTSTART:20251115
+DTEND:20251116
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Mini-Trail Santoinho 2025
+DESCRIPTION:Mini-trail (10km) Caminahda (10Km)\nhttps://www.portugalrunning
+ .com/eventos/mini-trail-santoinho-2025/
+URL:https://www.portugalrunning.com/eventos/mini-trail-santoinho-2025/
+END:VEVENT
+END:VCALENDAR
