@@ -2,7 +2,71 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-09-11T20:41:04+00:00</lastmod>
+		<lastmod>2025-09-12T22:56:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-comidas-dmonte-2025/</loc>
+		<lastmod>2025-09-12T22:56:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/6875072b43562_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-susana-feitor-2025/</loc>
+		<lastmod>2025-09-12T22:53:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/03/cartaz_torneio_atletismo_alcobertas_25-26-01-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/aquae-brunheiro-trail-running-2025/</loc>
+		<lastmod>2025-09-12T22:51:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/02/website-lobos-e1738752344421-2-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-summer-challenge-2025/</loc>
+		<lastmod>2025-09-12T22:49:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/pop_s48zlj9817-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grifo-24h-2025/</loc>
+		<lastmod>2025-09-12T22:47:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/Cartaz-Grifo.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-winter-challenge-s-a-vila-gale-2025/</loc>
+		<lastmod>2025-09-12T22:31:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/pop_77725rf818.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-santo-tirso-2025/</loc>
+		<lastmod>2025-09-12T22:31:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/1757495081-1-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/10km-da-amieirinha-2025/</loc>
+		<lastmod>2025-09-12T22:29:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/amazing-espite-trail-2026/</loc>
+		<lastmod>2025-09-12T22:14:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-solidaria-pela-saude-mental-no-trabalho-2025/</loc>
+		<lastmod>2025-09-12T22:12:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/Saude-mental-corrida.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/tech-run-2025/</loc>
@@ -75,13 +139,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-santo-tirso-2025/</loc>
-		<lastmod>2025-09-10T20:45:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/1757495081-1-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-ancede-baiao-2025/</loc>
 		<lastmod>2025-09-10T20:43:08+00:00</lastmod>
 		<image:image>
@@ -115,10 +172,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/1753743653-1-1.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/grande-premio-susana-feitor-2025/</loc>
-		<lastmod>2025-09-10T20:17:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/grande-premio-museu-nacional-ferroviario-2025/</loc>
@@ -163,13 +216,6 @@
 		<lastmod>2025-09-10T06:02:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/463905002_1487574231991283_663157696764788822_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-solidaria-pela-saude-mental-no-trabalho-2025/</loc>
-		<lastmod>2025-09-09T21:59:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/Captura-de-ecra-2025-09-09-225333-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -747,10 +793,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/02/688797f2b7c7e_398394288_889806245997690_4687066240563342371_n-1.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/aquae-brunheiro-trail-running-2025/</loc>
-		<lastmod>2025-08-12T06:46:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-porto-de-leixoes-2025/</loc>
@@ -1450,13 +1492,6 @@
 		<lastmod>2025-07-16T07:35:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/68762cba74bf4_cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-comidas-dmonte-2025/</loc>
-		<lastmod>2025-07-16T07:32:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/6875072b43562_cartaz-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6676,20 +6711,6 @@
 		<lastmod>2025-01-02T23:28:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/pop_bqsg4sj781-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-winter-challenge-s-a-vila-gale-2025/</loc>
-		<lastmod>2025-01-02T23:28:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/pop_77725rf818.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-summer-challenge-2025/</loc>
-		<lastmod>2025-01-02T23:27:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/pop_s48zlj9817-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

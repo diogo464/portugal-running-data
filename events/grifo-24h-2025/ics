@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68c4b4343975e
+DTSTAMP:20250913T000052Z
+DTSTART:20251115T224300Z
+DTEND:20251116T224300Z
+LOCATION:Pontinha\,  Lisboa Pontinha\,  Lisboa
+SUMMARY:Grifo 24h 2025
+DESCRIPTION:A 2ª edição do GRIFO24h\,  é uma de corrida de resistência
+  e de longa duração\,  que se realizará na Unidade de Intervenção da G
+ NR\,  em 15 e 16 de novembro de 2025. Inseridas no mesmo evento\,  decorrer
+ ão as provas de 12 horas\,  3 horas\,  Maratona Noturna\,  todas considera
+ das corridas de[..]\nhttps://www.portugalrunning.com/eventos/grifo-24h-2025
+ /
+URL:https://www.portugalrunning.com/eventos/grifo-24h-2025/
+END:VEVENT
+END:VCALENDAR
