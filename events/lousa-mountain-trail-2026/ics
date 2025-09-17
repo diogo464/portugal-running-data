@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ca8fd8be276
+DTSTAMP:20250917T103920Z
+DTSTART:20260118
+DTEND:20260119
+LOCATION:Lousa\,  Lisboa Lousa\,  Lisboa
+SUMMARY:Lousa Mountain Trail 2026
+DESCRIPTION:A Junta de Freguesia de Lousa\,  em colaboração com a entidad
+ e Trail4U irão organizar a 18 de Janeiro de 2026 pelas 09h00 horas o Lousa
+  Mountain Trail\,  em Lousa\,  concelho de Loures. O Lousa Mountain Trail �
+ � uma prova de Trail Running\,  corrida pedestre em Natureza\,  com três p
+ rovas\,  Trail[..]\nhttps://www.portugalrunning.com/eventos/lousa-mountain-
+ trail-2026/
+URL:https://www.portugalrunning.com/eventos/lousa-mountain-trail-2026/
+END:VEVENT
+END:VCALENDAR

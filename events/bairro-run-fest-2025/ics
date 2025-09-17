@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ca8fd7a4dfb
+DTSTAMP:20250917T103919Z
+DTSTART:20251026T062900Z
+DTEND:20251026T062900Z
+LOCATION:Bairro\,  Famalicão Bairro\,  Famalicão
+SUMMARY:Bairro RUN FEST 2025
+DESCRIPTION:Prova Desportiva organizada pela equipa CB RUN com o apoio da 
+ Junta de Freguesia de Bairro e da Câmara Municipal de Famalicão\,  com pa
+ rtida e chegada no Campus da Proteção Civil de Bairro.\nhttps://www.portu
+ galrunning.com/eventos/bairro-run-fest-2025/
+URL:https://www.portugalrunning.com/eventos/bairro-run-fest-2025/
+END:VEVENT
+END:VCALENDAR

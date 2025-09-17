@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ca8fdc40a9c
+DTSTAMP:20250917T103924Z
+DTSTART:20251129
+DTEND:20251130
+LOCATION:Valença Valença
+SUMMARY:Urban Trail Night Eurocidade Valença-Tui 2025
+DESCRIPTION:Com partida em Valença (Portugal) e chegada em Tui (Espanha)\,
+   esta é a prova de que as fronteiras são invisíveis e que a zona transf
+ ronteiriça é um local de passagem de povos que são historicamente próxi
+ mos. Este ano com duas distancias (8 e 16 km)\,  vem correr numa das poucas
+ [..]\nhttps://www.portugalrunning.com/eventos/urban-trail-night-eurocidade-
+ valenca-tui-2025/
+URL:https://www.portugalrunning.com/eventos/urban-trail-night-eurocidade-valenca-tui-2025/
+END:VEVENT
+END:VCALENDAR

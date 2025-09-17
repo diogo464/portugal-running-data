@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ca8fdaa7e19
+DTSTAMP:20250917T103922Z
+DTSTART:20251010
+DTEND:20251011
+LOCATION:Portugal Portugal
+SUMMARY:Corrida da Saúde Mental- Corrida Virtual 2025
+DESCRIPTION:Corrida da Saúde Mental- Corrida Virtual 2025\nhttps://www.por
+ tugalrunning.com/eventos/corrida-da-saude-mental-corrida-virtual-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-saude-mental-corrida-virtual-2025/
+END:VEVENT
+END:VCALENDAR

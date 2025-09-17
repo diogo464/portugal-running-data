@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ca8fd9d82ca
+DTSTAMP:20250917T103921Z
+DTSTART:20251130
+DTEND:20251201
+LOCATION:Lagos\,  Faro Lagos\,  Faro
+SUMMARY:Meia Maratona Lagos 2025
+DESCRIPTION:Numa organização do Olímpico Clube de Lagos\,  vai realizar-
+ se no dia 30 de Novembro de 2025 pelas 9h30\,  a 35ª Meia-Maratona Interna
+ cional de Lagos\,  Mini Meia Maratona e a Mega- Caminhada.\nhttps://www.por
+ tugalrunning.com/eventos/meia-maratona-lagos-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-lagos-2025/
+END:VEVENT
+END:VCALENDAR

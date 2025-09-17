@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ca8fdc4f258
+DTSTAMP:20250917T103924Z
+DTSTART:20251220
+DTEND:20251221
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:São Silvestre Torres Novas 2025
+DESCRIPTION:A São Silvestre Torres Novas\,  a prova jovem\,  e a Caminhada
+  de São Silvestre \,  promovidas pelo Município de Torres Novas\,  estão
+  marcadas para dia 20 de dezembro.\nhttps://www.portugalrunning.com/eventos
+ /sao-silvestre-torres-novas-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-torres-novas-2025/
+END:VEVENT
+END:VCALENDAR
