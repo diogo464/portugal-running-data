@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d11a3b41069
+DTSTAMP:20250922T094323Z
+DTSTART:20251208
+DTEND:20251209
+LOCATION:Paranhos\,  Porto Paranhos\,  Porto
+SUMMARY:Volta a Paranhos 2025
+DESCRIPTION:O Sport Comércio e Salgueiros\,  em parceria com a Eventsport\
+ ,  organiza a 68ª edição da Volta a Paranhos\,  a corrida mais antiga do
+  país. Com o objetivo de promover a prática desportiva como elemento esse
+ ncial para a saúde e qualidade de vida\,  o evento realiza-se no dia 8 de 
+ dezembro[..]\nhttps://www.portugalrunning.com/eventos/volta-a-paranhos-2025
+ /
+URL:https://www.portugalrunning.com/eventos/volta-a-paranhos-2025/
+END:VEVENT
+END:VCALENDAR

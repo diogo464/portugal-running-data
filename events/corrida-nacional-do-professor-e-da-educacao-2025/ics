@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d11a3841af8
+DTSTAMP:20250922T094320Z
+DTSTART:20251018
+DTEND:20251019
+LOCATION:Praça do Império (Belém)\,  Lisboa Praça do Império (Belém)\,  Lisboa
+SUMMARY:Corrida Nacional do Professor e da Eduçação 2025
+DESCRIPTION:A Federação Nacional dos Professores (FENPROF)\,  em parceria
+  com a Câmara Municipal de Lisboa e com a Associação de Atletismo de Lis
+ boa\,  leva a efeito a organização da 7.ª Corrida Nacional do Professor 
+ e da Educação\,  no dia 18 de Outubro de 2025. Este evento conta com um p
+ rograma abrangente[..]\nhttps://www.portugalrunning.com/eventos/corrida-nac
+ ional-do-professor-e-da-educacao-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-nacional-do-professor-e-da-educacao-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d11a3a993cd
+DTSTAMP:20250922T094322Z
+DTSTART:20251206
+DTEND:20251207
+LOCATION:Esmoriz\,  Aveiro Esmoriz\,  Aveiro
+SUMMARY:São Silvestre Cortegaça/Esmoriz 2025
+DESCRIPTION:A Academia de Boxe Vitor Sá organizará pela quarta vez a São
+  Silvestre de Cortegaça/Esmoriz\,  em atletismo.\nhttps://www.portugalrunn
+ ing.com/eventos/sao-silvestre-cortegaca-esmoriz-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-cortegaca-esmoriz-2025/
+END:VEVENT
+END:VCALENDAR
