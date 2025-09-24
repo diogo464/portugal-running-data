@@ -2,7 +2,53 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-09-21T07:06:07+00:00</lastmod>
+		<lastmod>2025-09-23T22:33:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-ermesinde-2025/</loc>
+		<lastmod>2025-09-23T22:33:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/69341b4a05db382db736ca166c0da329.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/mar-shopping-matosinhos-night-run-2025/</loc>
+		<lastmod>2025-09-23T22:27:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/evento_night_run_1_2500_2500-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/volta-a-paranhos-2025/</loc>
+		<lastmod>2025-09-23T22:19:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/Volta-a-Paranhos-2025-Header-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-pombal-2025/</loc>
+		<lastmod>2025-09-23T22:18:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-por-terras-de-fontes-e-lobos-2025/</loc>
+		<lastmod>2025-09-23T22:15:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/banner-trail-por-terras-de-fontes-e-lobos-2025-min-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilho-do-vinho-de-talha-2025/</loc>
+		<lastmod>2025-09-23T22:14:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/68d2b2139e142_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-serra-de-portel-2025/</loc>
+		<lastmod>2025-09-23T19:38:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/688b86fb4e087_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/d-ulvaria-trail-2025/</loc>
@@ -23,13 +69,6 @@
 		<lastmod>2025-09-21T06:58:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/1758273356-1-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/volta-a-paranhos-2025/</loc>
-		<lastmod>2025-09-21T06:54:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/Volta-a-Paranhos-2025-Header-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1112,13 +1151,6 @@
 		<lastmod>2025-08-09T13:56:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/6895ceab019cd_3988_cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-serra-de-portal-2025/</loc>
-		<lastmod>2025-08-09T13:52:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/688b86fb4e087_cartaz-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d334b06a288
+DTSTAMP:20250924T000048Z
+DTSTART:20251123T074800Z
+DTEND:20251123T235900Z
+LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+SUMMARY:Meia Maratona Pombal 2025
+DESCRIPTION:O Trail “Por Terras de Fontes e Lobos” disputa-se em pleno 
+ município de Vagos com partida no Pavilhão Gimnodesportivo\,  situado em 
+ Covão do Lobo. Além da prova de trail disputa-se também uma Caminhada.\n
+ https://www.portugalrunning.com/eventos/meia-maratona-pombal-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-pombal-2025/
+END:VEVENT
+END:VCALENDAR
