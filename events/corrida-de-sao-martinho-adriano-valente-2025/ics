@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d4861e14289
+DTSTAMP:20250925T000030Z
+DTSTART:20251109
+DTEND:20251110
+LOCATION:Cabeceiras de Basto\,  Braga Cabeceiras de Basto\,  Braga
+SUMMARY:Corrida de São Martinho - Adriano Valente 2025
+DESCRIPTION:A 10ª Corrida de São Martinho – Adriano Valente é organiza
+ ção do grupo de corrida Arco4Run e da Associação Festeiros do Arco\,  c
+ om o apoio da União de Freguesias de Arco de Baúlhe e Vila Nune e Camara 
+ Municipal de Cabeceiras de Basto. A prova realiza-se no dia 9 de[..]\nhttps
+ ://www.portugalrunning.com/eventos/corrida-de-sao-martinho-adriano-valente-
+ 2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-martinho-adriano-valente-2025/
+END:VEVENT
+END:VCALENDAR

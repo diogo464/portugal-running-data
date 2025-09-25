@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d48621966fe
+DTSTAMP:20250925T000033Z
+DTSTART:20260524
+DTEND:20260525
+LOCATION:Peso da Régua\,  Vila Real Peso da Régua\,  Vila Real
+SUMMARY:Meia Maratona Douro Vinhateiro 2026
+DESCRIPTION:A Meia Maratona Douro Vinhateiro realiza-se a 24 de Maio de 202
+ 5.\nhttps://www.portugalrunning.com/eventos/meia-maratona-douro-vinhateiro-
+ 2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-douro-vinhateiro-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d48622480c7
+DTSTAMP:20250925T000034Z
+DTSTART:20260705
+DTEND:20260706
+LOCATION:Praia Foz do Lizandro\,  Ericeira Praia Foz do Lizandro\,  Ericeira
+SUMMARY:Trail Summer Challenge S.A. - Vila Galé 2026
+DESCRIPTION:A 8ª edição do Trail Summer challenge S.A\,  vai realizar-se
+  no dia 5 Julho 2026\,  às 9h com inicio e terminus na praia Foz do Lizand
+ ro. Será constituído por 1 prova de caracter competitivo: Trail longo ( +
+ /- 24 Km)\,  Trail curto (+/- 15Km) e uma caminhada de lazer ([..]\nhttps:/
+ /www.portugalrunning.com/eventos/trail-summer-challenge-s-a-vila-gale-2026/
+URL:https://www.portugalrunning.com/eventos/trail-summer-challenge-s-a-vila-gale-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d48621d2a60
+DTSTAMP:20250925T000033Z
+DTSTART:20251130
+DTEND:20251201
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:Trail das Andorinhas 2025
+DESCRIPTION:Evento organizado pelo GRUPO DESPORTIVO DA GOMA\,  em parceria 
+ com o Município da Póvoa de Lanhoso. Distâncias: Trail Longo – 26KmsTr
+ ail Curto 15kmsCaminhada – 5KmsTrail Kids\nhttps://www.portugalrunning.co
+ m/eventos/trail-das-andorinhas-2025/
+URL:https://www.portugalrunning.com/eventos/trail-das-andorinhas-2025/
+END:VEVENT
+END:VCALENDAR
