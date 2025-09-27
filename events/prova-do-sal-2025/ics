@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d7292031de6
+DTSTAMP:20250927T000032Z
+DTSTART:20251026T122100Z
+DTEND:20251026T235900Z
+LOCATION:Praia dos Moinhos\,  Alcochete Praia dos Moinhos\,  Alcochete
+SUMMARY:Prova do Sal 2025
+DESCRIPTION:10 Km – Competição na areia e caminhos de terra batida deno
+ minada “Prova do Sal”. A partida será dada às 10h00 do dia 26 de Outu
+ bro 2025\,  na Praia dos Moinhos em Alcochete.\nhttps://www.portugalrunning
+ .com/eventos/prova-do-sal-2025/
+URL:https://www.portugalrunning.com/eventos/prova-do-sal-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d7292085494
+DTSTAMP:20250927T000032Z
+DTSTART:20251101T065400Z
+DTEND:20251101T065400Z
+LOCATION:Amadora\,  Lisboa Amadora\,  Lisboa
+SUMMARY:Challenge de Estrada Amadora 2025
+DESCRIPTION:O Challenge de Estrada Amadora é uma iniciativa promovida pela
+  Câmara Municipal da Amadora e a Federação Portuguesa de Atletismo\,  no
+  âmbito do Projeto Amadora Atletismo\,  com organização técnica da Asso
+ ciação de Atletismo de Lisboa. O evento\,  que terá lugar no próximo di
+ a 1 de novembro\,  destina-se a atletas de[..]\nhttps://www.portugalrunning
+ .com/eventos/challenge-de-estrada-amadora-2025/
+URL:https://www.portugalrunning.com/eventos/challenge-de-estrada-amadora-2025/
+END:VEVENT
+END:VCALENDAR
