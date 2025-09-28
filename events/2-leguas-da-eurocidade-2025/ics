@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d87aa65667b
+DTSTAMP:20250928T000038Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:Valença Valença
+SUMMARY:2 Léguas da Eurocidade 2025
+DESCRIPTION:Numa organização da Associação Desportiva Verdoejense vai r
+ ealizar-se no dia 2 de Novembro de 2025\,  uma prova de atletismo denominad
+ a «2 LÉGUAS DA EUROCIDADE. Compreende 4 eventos a decorrer em simultâneo
+ \,  com características diferentes\,  tal como de seguida enunciados: 2 L�
+ �GUAS MINI LÉGUA CAMINHADA LÉGUAZINHA\nhttps://www.portugalrunning.com/ev
+ entos/2-leguas-da-eurocidade-2025/
+URL:https://www.portugalrunning.com/eventos/2-leguas-da-eurocidade-2025/
+END:VEVENT
+END:VCALENDAR

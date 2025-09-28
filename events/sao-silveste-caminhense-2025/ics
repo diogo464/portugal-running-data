@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d87aa6a18e2
+DTSTAMP:20250928T000038Z
+DTSTART:20251213
+DTEND:20251214
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:São Silveste Caminhense 2025
+DESCRIPTION:VII São Silvestre Caminhense\,  corrida de 10k\,  realizada no
+  coração da vila de Caminha com um percurso de duas voltas completamente 
+ plano. Maioritariamente corrida em alcatrão\,  mas conta com alguns troço
+ s em paralelo. Possibilidade de participar numa Caminha de 5k.\nhttps://www
+ .portugalrunning.com/eventos/sao-silveste-caminhense-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silveste-caminhense-2025/
+END:VEVENT
+END:VCALENDAR

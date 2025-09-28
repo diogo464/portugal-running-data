@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d87aa80c11d
+DTSTAMP:20250928T000040Z
+DTSTART:20251123T130100Z
+DTEND:20251123T235900Z
+LOCATION:Monte da Franqueira\,  Barcelos Monte da Franqueira\,  Barcelos
+SUMMARY:Franqueira Adventure 2025
+DESCRIPTION:“Franqueira Adventure 2025\,  Uma Prova para Todos” é um e
+ vento organizado pelo promotor Franqueira Adventure\,  com o apoio do Munic
+ ípio de Barcelos. Este evento será realizado no Monte da Franqueira e nas
+  freguesias limítrofes\,  numa extensão aproximada de 10kms. A prova ser�
+ � composta por 2 categorias: Elite e Fun.\nhttps://www.portugalrunning.com/
+ eventos/franqueira-adventure-2025/
+URL:https://www.portugalrunning.com/eventos/franqueira-adventure-2025/
+END:VEVENT
+END:VCALENDAR

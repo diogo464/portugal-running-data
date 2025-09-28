@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68d87aa9dcc68
+DTSTAMP:20250928T000041Z
+DTSTART:20251025
+DTEND:20251026
+LOCATION:São João da Madeira\,  Aveiro São João da Madeira\,  Aveiro
+SUMMARY:GP Internacional de Atletismo Alberto Batista 2025
+DESCRIPTION:É em homenagem ao ex-atleta e treinador dos Serviços Sociais 
+ de Trabalhadores do Município de São João da Madeira \,  Alberto Batista
+ \,  que o Grande Prémio Internacional de Atletismo se realiza. Um dos even
+ tos de referência de São João da Madeira aberto à participação de tod
+ os.\nhttps://www.portugalrunning.com/eventos/gp-internacional-de-atletismo-
+ alberto-batista-2025/
+URL:https://www.portugalrunning.com/eventos/gp-internacional-de-atletismo-alberto-batista-2025/
+END:VEVENT
+END:VCALENDAR
