@@ -2,7 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-09-27T18:12:24+00:00</lastmod>
+		<lastmod>2025-09-28T21:30:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-da-europa-2026/</loc>
+		<lastmod>2025-09-28T21:30:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/06/447302248_970794408390046_4180641818801114392_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-mozelos-2025/</loc>
+		<lastmod>2025-09-28T17:10:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/banner-sao-silvestre-de-mozelos-2025-min.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trilhos-dos-casainhos-2025/</loc>
@@ -1490,13 +1504,6 @@
 		<lastmod>2025-07-23T14:33:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/EDP-Meia-Maratona-Lisboa-2026-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-da-europa-2026/</loc>
-		<lastmod>2025-07-23T14:26:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/06/447302248_970794408390046_4180641818801114392_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6296,10 +6303,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/c51a.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-mozelos-2025/</loc>
-		<lastmod>2025-01-26T17:10:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/europarque-bio-run-2025/</loc>
