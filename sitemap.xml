@@ -2,7 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-09-28T21:30:52+00:00</lastmod>
+		<lastmod>2025-09-29T13:01:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-das-cegonhas-2025/</loc>
+		<lastmod>2025-09-29T13:01:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/cartaz_-_i_corrida_das_cegonhas_2025-1.600x850.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-da-europa-2026/</loc>
@@ -3676,13 +3683,6 @@
 		<lastmod>2025-05-01T06:58:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/cartaz_corrida_d_diniz_2025_provisorio_v1-1.600x850.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-das-cegonhas-2025/</loc>
-		<lastmod>2025-05-01T06:57:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/cartaz_-_i_corrida_das_cegonhas_2025-1.600x850.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
