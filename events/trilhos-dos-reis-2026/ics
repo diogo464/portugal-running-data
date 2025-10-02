@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ddc0b501060
+DTSTAMP:20251002T000053Z
+DTSTART:20260111
+DTEND:20260112
+LOCATION:Portalegre Portalegre
+SUMMARY:Trilhos dos Reis 2026
+DESCRIPTION:Os Trilhos dos Reis serão realizados nos dias 10 e 11 de janei
+ ro de 2026 e é um evento organizado pela DAP – Associação de Desporto 
+ e Aventura de Portalegre\,  com o apoio do Município de Portalegre\,  Turi
+ smo do Alentejo\,  E.R.T.\,  Uniões de Freguesias de Sé e São Lourenço\
+ ,  Ribeira[..]\nhttps://www.portugalrunning.com/eventos/trilhos-dos-reis-20
+ 26/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-reis-2026/
+END:VEVENT
+END:VCALENDAR

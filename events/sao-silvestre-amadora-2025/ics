@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ddc0b462a90
+DTSTAMP:20251002T000052Z
+DTSTART:20251231
+DTEND:20260101
+LOCATION:Amadora\,  Lisboa Amadora\,  Lisboa
+SUMMARY:São Silvestre Amadora 2025
+DESCRIPTION:Venha correr à mais antiga prova de São Silvestre realizada e
+ m Portugal e encerre o seu ano desportivo ao mais alto nível.\nhttps://www
+ .portugalrunning.com/eventos/sao-silvestre-amadora-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-amadora-2025/
+END:VEVENT
+END:VCALENDAR

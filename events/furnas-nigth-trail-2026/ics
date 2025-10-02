@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ddc0b4f32e9
+DTSTAMP:20251002T000052Z
+DTSTART:20260530T123100Z
+DTEND:20260530T235900Z
+LOCATION:Ponta Delgada\,  Ilha de São Miguel Ponta Delgada\,  Ilha de São Miguel
+SUMMARY:Furnas Nigth Trail 2026
+DESCRIPTION:O Furnas Night Trail é um evento de Trail Running realizado na
+  ilha de São Miguel e\,  na sua 1ª e 2ª edição\,  deixou a sua marca\,
+   destacando-se pela diferença quer em termos de animação\,  percursos e
+  promover a sustentabilidade ambiental e divulgar a cultura e os territóri
+ os do concelho[..]\nhttps://www.portugalrunning.com/eventos/furnas-nigth-tr
+ ail-2026/
+URL:https://www.portugalrunning.com/eventos/furnas-nigth-trail-2026/
+END:VEVENT
+END:VCALENDAR

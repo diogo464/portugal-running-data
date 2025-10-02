@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ddc0b0ef56a
+DTSTAMP:20251002T000048Z
+DTSTART:20251231
+DTEND:20260101
+LOCATION:Alvelos\,  Braga Alvelos\,  Braga
+SUMMARY:Free Trail Águias de Alvelos | Reivellon 2025
+DESCRIPTION:A Associação Recreativa e Cultural Águias de Alvelos\,  atra
+ vés da sua Secção de Trail Running e Atletismo\, realiza no dia 31 de de
+ zembro de 2025 o IX FreeTrail Águias de Alvelos | Reivellon\,  na freguesi
+ a de Alvelos – Barcelos.Este evento é constituído por uma Caminhada de 
+ 10 km\,  respetivamente\,  e uma[..]\nhttps://www.portugalrunning.com/event
+ os/free-trail-aguias-de-alvelos-reivellon-2025/
+URL:https://www.portugalrunning.com/eventos/free-trail-aguias-de-alvelos-reivellon-2025/
+END:VEVENT
+END:VCALENDAR

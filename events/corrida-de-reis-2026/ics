@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ddc0b6537dd
+DTSTAMP:20251002T000054Z
+DTSTART:20260110
+DTEND:20260111
+LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+SUMMARY:Corrida de Reis 2026
+DESCRIPTION:A VIII Grupo CCR | Corrida de Reis 2026\,  realiza-se no dia 10
+  de janeiro de 2026\,  com a prova a ter início às 18h. E terá uma dist�
+ �ncia única de 8 quilómetros.\nhttps://www.portugalrunning.com/eventos/co
+ rrida-de-reis-2026/
+URL:https://www.portugalrunning.com/eventos/corrida-de-reis-2026/
+END:VEVENT
+END:VCALENDAR

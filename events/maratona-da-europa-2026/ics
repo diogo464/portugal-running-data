@@ -4,15 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68d9cc2b8c314
-DTSTAMP:20250929T000043Z
+UID:68ddc0b045732
+DTSTAMP:20251002T000048Z
 DTSTART:20260426
 DTEND:20260427
 LOCATION:Aveiro Aveiro
 SUMMARY:Maratona da Europa 2026
-DESCRIPTION:A Maratona da Europa tem lugar numa das mais belas cidades de P
- ortugal\,  Aveiro\,  com um percurso fascinante entre Aveiro e Ílhavo.\nht
- tps://www.portugalrunning.com/eventos/maratona-da-europa-2026/
+DESCRIPTION:A Maratona da Europa – Aveiro é uma Organização da Câmara
+  Municipal de Aveiro e da GlobalSport\,  marca comercial da GSX Portugal Ld
+ a.\,  com o apoio e envolvimento da Entidade Regional de Turismo do Centro 
+ de Portugal e da Câmara Municipal de Ílhavo. Maratona – 42\, 195 km\,  
+ para participantes nascidos[..]\nhttps://www.portugalrunning.com/eventos/ma
+ ratona-da-europa-2026/
 URL:https://www.portugalrunning.com/eventos/maratona-da-europa-2026/
 END:VEVENT
 END:VCALENDAR

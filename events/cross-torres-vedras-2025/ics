@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ddc0b2f1484
+DTSTAMP:20251002T000050Z
+DTSTART:20251102
+DTEND:20251103
+LOCATION:Parque Verde da Várzea\,  Torres Vedras Parque Verde da Várzea\,  Torres Vedras
+SUMMARY:Cross Torres Vedras 2025
+DESCRIPTION:O Cross de Cross de Torres Vedras / 43º Corta-Mato de Matos Ve
+ lhos é uma das clássicas provas de corta-mato em Portugal\,  que se reali
+ za no Parque Verde da Várzea. Esta é uma organização conjunta da Câmar
+ a Municipal de Torres Vedras\,  da União Desportiva do Oeste e do Grupo De
+ sportivo\, [..]\nhttps://www.portugalrunning.com/eventos/cross-torres-vedra
+ s-2025/
+URL:https://www.portugalrunning.com/eventos/cross-torres-vedras-2025/
+END:VEVENT
+END:VCALENDAR

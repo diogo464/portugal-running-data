@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ddc0b4eeb06
+DTSTAMP:20251002T000052Z
+DTSTART:20251207
+DTEND:20251208
+LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+SUMMARY:Trail do Sarilho 2025
+DESCRIPTION:A Secção de Ar Livre e Aventura da Associação de Solidaried
+ ade Social Sociedade Columbófila Cantanhedense (ASSSCC)\,  com o apoio do 
+ Município de Cantanhede e outros parceiros\,  vai realizar no próximo dia
+  7 de dezembro de 2025\,  o Trail do Sarilho/Cantanhede - 2025.\nhttps://ww
+ w.portugalrunning.com/eventos/trail-do-sarilho-2025/
+URL:https://www.portugalrunning.com/eventos/trail-do-sarilho-2025/
+END:VEVENT
+END:VCALENDAR

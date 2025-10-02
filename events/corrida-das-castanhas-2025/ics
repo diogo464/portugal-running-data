@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ddc0b48fff9
+DTSTAMP:20251002T000052Z
+DTSTART:20251109
+DTEND:20251110
+LOCATION:Ajuda\,  Lisboa Ajuda\,  Lisboa
+SUMMARY:Corrida das Castanhas 2025
+DESCRIPTION:Celebra o sol de São Martinho a correr ou a caminhar em Lisboa
+ ! A mítica Corrida das Castanhas está de volta!&nbsp; A edição deste an
+ o\,  proporcionará a todos os participantes de corrida e caminhada\,  uma 
+ manhã diferenteacompanhada de um convívio final com oferta de castanhas e
+  água-pé\,  a todos os que[..]\nhttps://www.portugalrunning.com/eventos/
+ corrida-das-castanhas-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-das-castanhas-2025/
+END:VEVENT
+END:VCALENDAR
