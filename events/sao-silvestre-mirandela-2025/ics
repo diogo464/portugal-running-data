@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68df122f6b39e
+DTSTAMP:20251003T000047Z
+DTSTART:20251227
+DTEND:20251228
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:São Silvestre Mirandela 2025
+DESCRIPTION:O 7º evento\,  São Silvestre de Mirandela\,  realizar-se-á n
+ o dia 27 de Dezembro de 2025 na cidade de Mirandela. O percurso de 10Km\,  
+ criado pela equipa Mirandela a Correr\,  percorre as principais ruas de Mir
+ andela\,  com destaque para a passagem por um ex-libris da cidade - Ponte V
+ elha de Mirandela.[..]\nhttps://www.portugalrunning.com/eventos/sao-silvest
+ re-mirandela-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mirandela-2025/
+END:VEVENT
+END:VCALENDAR

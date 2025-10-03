@@ -2,7 +2,35 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-10-01T07:09:49+00:00</lastmod>
+		<lastmod>2025-10-02T20:46:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/tinoni-urban-race-2025/</loc>
+		<lastmod>2025-10-02T20:46:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/68527e7c4301d_Cartaz_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos-2025/</loc>
+		<lastmod>2025-10-02T20:04:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/04/518169493_1063947019136814_6787955417418762804_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-mirandela-2025/</loc>
+		<lastmod>2025-10-02T20:03:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/46e07f56-44ac-4142-8882-d87a775330b0-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles-2025/</loc>
+		<lastmod>2025-10-02T19:53:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/proenca-cross-trail-2025/</loc>
@@ -927,13 +955,6 @@
 		<lastmod>2025-08-29T07:23:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Popl92jw69321-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles-2025/</loc>
-		<lastmod>2025-08-29T07:22:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1989,13 +2010,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos-2025/</loc>
-		<lastmod>2025-07-14T06:39:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/04/518169493_1063947019136814_6787955417418762804_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-do-farol-2025/</loc>
 		<lastmod>2025-07-14T06:32:25+00:00</lastmod>
 		<image:image>
@@ -2498,13 +2512,6 @@
 		<lastmod>2025-06-24T10:29:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/banner-nac-trail-2025-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/tinoni-urban-race-2025/</loc>
-		<lastmod>2025-06-24T10:27:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/68527e7c4301d_Cartaz_net-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
