@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e063b2f0461
+DTSTAMP:20251004T000050Z
+DTSTART:20251019
+DTEND:20251020
+LOCATION:Amesterdão\,  Países Baixos Amesterdão\,  Países Baixos
+SUMMARY:Meia Maratona de Amesterdão 2025
+DESCRIPTION:Um evento de corrida como uma grande ocasião para visitar a ca
+ pital dos Países Baixos. A Meia Maratona Mizuno é a maior meia maratona d
+ a Holanda e faz parte da Maratona de Amesterdão TCS. A meia maratona Mizun
+ o consiste num percurso circular\,  que passa pelo centro atractivo de Ames
+ terdão. O[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-am
+ esterdao-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-amesterdao-2025/
+END:VEVENT
+END:VCALENDAR

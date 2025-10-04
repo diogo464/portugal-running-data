@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d5d4a7ea
-DTSTAMP:20250720T222741Z
+UID:68e063b504543
+DTSTAMP:20251004T000053Z
 DTSTART:20251116
 DTEND:20251117
 LOCATION:Aguiar da Beira\,  Guarda Aguiar da Beira\,  Guarda
 SUMMARY:Trail do Míscaro 2025
-DESCRIPTION:Caminhada/Mini Trail 11K | Trail Curto 15K | Trail Longo 25K\nh
- ttps://www.portugalrunning.com/eventos/trail-do-miscaro-2025/
+DESCRIPTION:O Trail do Míscaro 2025 em Aguiar da Beira é um evento de cor
+ rida/trail running e caminhadana natureza\,  organizado pelo jornal +Aguiar
+  da Beira (empresa Pinto & Gonçalves – MaisComunicação e Eventos\,  Ld
+ a.)\,  com o apoio e a parceria de outras instituições e agentes locaise 
+ nacionais.A organização do evento tem[..]\nhttps://www.portugalrunning.co
+ m/eventos/trail-do-miscaro-2025/
 URL:https://www.portugalrunning.com/eventos/trail-do-miscaro-2025/
 END:VEVENT
 END:VCALENDAR

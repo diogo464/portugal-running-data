@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e063b8ce79c
+DTSTAMP:20251004T000056Z
+DTSTART:20260412
+DTEND:20260413
+LOCATION:Londres\,  Inglaterra Londres\,  Inglaterra
+SUMMARY:Meia Maratona de Londres 2026
+DESCRIPTION:A Meia Maratona de Londres oferece duas opções principais: 
+ a London Landmarks Half Marathon e a The Big Half. A London Landmarks é
+  única por ser a única meia maratona a atravessar tanto a City of London 
+ quanto Westminster\,  começando em Pall Mall e passando pelos marcos mais 
+ icónicos da capital britânica\,  incluindo Catedral de St.[..]\nhttps://
+ www.portugalrunning.com/eventos/meia-maratona-de-londres-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-londres-2026/
+END:VEVENT
+END:VCALENDAR

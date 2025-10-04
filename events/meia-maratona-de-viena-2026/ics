@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e063b63f952
+DTSTAMP:20251004T000054Z
+DTSTART:20260419
+DTEND:20260420
+LOCATION:Viena\,  Áustria Viena\,  Áustria
+SUMMARY:Meia Maratona de Viena 2026
+DESCRIPTION:A Meia Maratona de Viena faz parte do prestigiado Vienna City
+  Marathon\,  uma das maiores provas de estrada da Áustria que atrai mais d
+ e 30.000 corredores de mais de 40 países. O percurso é fácil e plano\, 
+  ideal para iniciantes e para quem procura recordes pessoais\,  começando 
+ na Wagramer Straße perto do Escritório[..]\nhttps://www.portugalrunning.c
+ om/eventos/meia-maratona-de-viena-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-viena-2026/
+END:VEVENT
+END:VCALENDAR

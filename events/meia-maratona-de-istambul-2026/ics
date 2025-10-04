@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e063b7bdbef
+DTSTAMP:20251004T000055Z
+DTSTART:20260419
+DTEND:20260420
+LOCATION:Istambul\,  Turquia Istambul\,  Turquia
+SUMMARY:Meia Maratona de Istambul 2026
+DESCRIPTION:A Meia Maratona de Istambul é uma das corridas mais espetacul
+ ares num evento de prestígio internacional com selo IAAF Gold Label. O pe
+ rcurso é totalmente plano e extremamente rápido\,  ideal para recordes 
+ pessoais\,  seguindo um formato de ida e volta pela Península Histórica�
+ �ao longo das margens do Mar de Mármara\,  Bósforo e Corno de Ouro. O
+ s corredores atravessam mais[..]\nhttps://www.portugalrunning.com/eventos/m
+ eia-maratona-de-istambul-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-istambul-2026/
+END:VEVENT
+END:VCALENDAR

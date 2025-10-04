@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e063b54b375
+DTSTAMP:20251004T000053Z
+DTSTART:20260329
+DTEND:20260330
+LOCATION:Berlim\,  Alemanha Berlim\,  Alemanha
+SUMMARY:Meia Maratona de Berlim 2026
+DESCRIPTION:A&nbsp;Generali Berlin Half Marathon&nbsp;é uma das meias mara
+ tonas mais lendárias da Europa e parte do prestigioso circuito&nbsp;SuperH
+ alfs\,  reunindo mais de 30.000 corredores na capital alemã. O percurso é
+ &nbsp;plano e extremamente rápido\,  considerado uma das provas de 21 km m
+ ais velozes do mundo\,  ideal para recordes pessoais e quebra de barreiras[
+ ..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-berlim-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-berlim-2026/
+END:VEVENT
+END:VCALENDAR

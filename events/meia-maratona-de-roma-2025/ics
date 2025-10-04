@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e063b4c97c3
+DTSTAMP:20251004T000052Z
+DTSTART:20251019
+DTEND:20251020
+LOCATION:Roma\,  Itália Roma\,  Itália
+SUMMARY:Meia Maratona de Roma 2025
+DESCRIPTION:A Wizz Air Rome Half Marathon de outubro é uma experiência 
+ extraordinária que transforma Roma numa galeria de arte ao ar livre durant
+ e 21\, 097 km. O percurso é cuidadosamente desenhado para passar pelos mar
+ cos mais emblemáticos da Cidade Eterna\,  criando um verdadeiro tour hist
+ órico e cultural único no mundo do atletismo. Com partida[..]\nhttps://ww
+ w.portugalrunning.com/eventos/meia-maratona-de-roma-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-roma-2025/
+END:VEVENT
+END:VCALENDAR
