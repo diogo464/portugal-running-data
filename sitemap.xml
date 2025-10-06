@@ -2,7 +2,77 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-10-03T02:37:21+00:00</lastmod>
+		<lastmod>2025-10-05T08:09:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa-2026/</loc>
+		<lastmod>2025-10-05T08:09:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/EDP-Meia-Maratona-Lisboa-2026-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-sidney-2026/</loc>
+		<lastmod>2025-10-05T07:37:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/449466368_891382246366428_3877378085312538223_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-chicago-2026/</loc>
+		<lastmod>2025-10-05T07:34:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/10/maratona-de-chicago-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-londres-2026/</loc>
+		<lastmod>2025-10-05T07:31:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/495148014_1072841391558094_1162197775773317896_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-berlim-2026/</loc>
+		<lastmod>2025-10-05T07:27:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/464042534_971831388322691_989348370968259322_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-boston-2026/</loc>
+		<lastmod>2025-10-05T07:17:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/473059165_1075464394626508_4349673126930785004_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-chicago-2025/</loc>
+		<lastmod>2025-10-05T07:11:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/10/maratona-de-chicago-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-toquio-2026/</loc>
+		<lastmod>2025-10-05T06:53:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/307033492_456324953189639_2869059435073511995_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-cardiff-2026/</loc>
+		<lastmod>2025-10-05T06:46:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/495574904_705198305398780_448434082202285249_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-copenhaga-2026/</loc>
+		<lastmod>2025-10-05T06:43:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/549825158_1728459581236079_394897787354138788_n.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-milao-2026/</loc>
@@ -1827,13 +1897,6 @@
 		<lastmod>2025-07-23T14:38:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/Vodafone-10k-2026-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa-2026/</loc>
-		<lastmod>2025-07-23T14:33:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/EDP-Meia-Maratona-Lisboa-2026-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -16567,13 +16630,6 @@
 		<lastmod>2023-10-24T13:36:01+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/10/maratona-de-chicago.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-de-chicago-2025/</loc>
-		<lastmod>2023-10-24T13:35:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/10/maratona-de-chicago-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

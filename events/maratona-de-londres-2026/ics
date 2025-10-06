@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e306ba89a4c
+DTSTAMP:20251006T000058Z
+DTSTART:20260426
+DTEND:20260427
+LOCATION:Londres\,  Inglaterra Londres\,  Inglaterra
+SUMMARY:Maratona de Londres 2026
+DESCRIPTION:A Maratona de Londres\,  conhecida atualmente como TCS London M
+ arathon\,  é uma das mais prestigiadas Abbott World Marathon Majors desde 
+ 1981 e considerada a prova com maior número de candidatos a vagas do mundo
+ \,  recebendo mais de 500 mil inscrições anuais para apenas 50 mil lugare
+ s. Com partida em Greenwich[..]\nhttps://www.portugalrunning.com/eventos/ma
+ ratona-de-londres-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-de-londres-2026/
+END:VEVENT
+END:VCALENDAR

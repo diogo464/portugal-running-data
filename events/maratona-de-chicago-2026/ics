@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e306b973e39
+DTSTAMP:20251006T000057Z
+DTSTART:20251012
+DTEND:20251013
+LOCATION:Chicago\,  Estados Unidos da América Chicago\,  Estados Unidos da América
+SUMMARY:Maratona de Chicago 2026
+DESCRIPTION: A Maratona de Chicago\,  disputada anualmente desde 1977\,  �
+ � uma das mais rápidas e democráticas Abbott World Marathon Majors\,  reu
+ nindo cerca de 45 mil corredores de todo o mundo num percurso maioritariame
+ nte plano que atravessa 29 bairros da terceira maior cidade dos Estados Uni
+ dos. Conhecida como "Bank of America Chicago[..]\nhttps://www.portugalrunni
+ ng.com/eventos/maratona-de-chicago-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-de-chicago-2026/
+END:VEVENT
+END:VCALENDAR

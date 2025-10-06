@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e306b727e18
+DTSTAMP:20251006T000055Z
+DTSTART:20260420
+DTEND:20260421
+LOCATION:Boston\,  Estados Unidos da América Boston\,  Estados Unidos da América
+SUMMARY:Maratona de Boston 2026
+DESCRIPTION:A Maratona de Boston é a mais antiga maratona anual do mundo\,
+   realizada pela primeira vez em 1897\,  e considerada a mais prestigiada d
+ as Abbott World Marathon Majors\,  disputada tradicionalmente na terceira s
+ egunda-feira de abril no Patriots' Day. Com partida em Hopkinton e chegada 
+ na icónica Boylston Street junto à[..]\nhttps://www.portugalrunning.com/e
+ ventos/maratona-de-boston-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-de-boston-2026/
+END:VEVENT
+END:VCALENDAR

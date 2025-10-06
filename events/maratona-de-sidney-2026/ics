@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e306bbab7e2
+DTSTAMP:20251006T000059Z
+DTSTART:20260830T064700Z
+DTEND:20260830T235900Z
+LOCATION:Sidney\,  Estados Unidos da América Sidney\,  Estados Unidos da América
+SUMMARY:Maratona de Sidney 2026
+DESCRIPTION:A Maratona de Sydney é a mais recente integrante das Abbott Wo
+ rld Marathon Majors e realiza-se no final de agosto\,  reunindo dezenas de 
+ milhares de corredores pelas zonas mais emblemáticas da cidade australiana
+ . O percurso de 42\, 195 km tem partida em North Sydney\,  atravessa a icó
+ nica Sydney Harbour Bridge e[..]\nhttps://www.portugalrunning.com/eventos/m
+ aratona-de-sidney-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-de-sidney-2026/
+END:VEVENT
+END:VCALENDAR

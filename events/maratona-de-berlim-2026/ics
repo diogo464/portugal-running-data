@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e306b5b682a
+DTSTAMP:20251006T000053Z
+DTSTART:20260927
+DTEND:20260928
+LOCATION:Berlim\,  Alemanha Berlim\,  Alemanha
+SUMMARY:Maratona de Berlim 2026
+DESCRIPTION:A Maratona de Berlim\,  conhecida atualmente como BMW Berlin Ma
+ rathon por razões de patrocínio\,  é considerada a mais rápida das Abbo
+ tt World Marathon Majors e palco de 12 recordes mundiais desde a sua criaç
+ ão em 1974\,  incluindo as marcas atuais de Eliud Kipchoge (masculino) e T
+ igist Assefa (feminino). Com partida[..]\nhttps://www.portugalrunning.com/e
+ ventos/maratona-de-berlim-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-de-berlim-2026/
+END:VEVENT
+END:VCALENDAR
