@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e4587f00cbc
+DTSTAMP:20251007T000207Z
+DTSTART:20251213
+DTEND:20251214
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:São Silvestre Gondomar 2025
+DESCRIPTION:São Silvestre Gondomar 2025\nhttps://www.portugalrunning.com/e
+ ventos/sao-silvestre-gondomar-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-gondomar-2025/
+END:VEVENT
+END:VCALENDAR

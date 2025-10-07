@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e4587e1c3b3
+DTSTAMP:20251007T000206Z
+DTSTART:20260208
+DTEND:20260209
+LOCATION:Terrugem\,  Sintra Terrugem\,  Sintra
+SUMMARY:Terrugem Trail 2026
+DESCRIPTION:Terrugem Trail 2026\nhttps://www.portugalrunning.com/eventos/te
+ rrugem-trail-2026/
+URL:https://www.portugalrunning.com/eventos/terrugem-trail-2026/
+END:VEVENT
+END:VCALENDAR
