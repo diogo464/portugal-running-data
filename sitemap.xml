@@ -2,7 +2,81 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-10-07T18:01:12+00:00</lastmod>
+		<lastmod>2025-10-08T07:32:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-atletismo-re-viver-pero-viseu-2025/</loc>
+		<lastmod>2025-10-08T07:32:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/GP-Pero-Viseu-25-Cartaz.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/prova-do-triangulo-2025/</loc>
+		<lastmod>2025-10-08T07:26:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/fe56.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-de-viana-2026/</loc>
+		<lastmod>2025-10-08T07:24:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/20260201_logo.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-praia-da-tocha-2025/</loc>
+		<lastmod>2025-10-08T07:13:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/68e3cbab8ce2a_553497388_817947020755747_3081179786503137065_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-a-do-barbas-2025/</loc>
+		<lastmod>2025-10-08T07:09:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/pop_6p3986i883.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-serrote-2026/</loc>
+		<lastmod>2025-10-08T07:07:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-gondomar-2025/</loc>
+		<lastmod>2025-10-08T07:05:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/Sao-Silvestre-Gondomar-2025-731x1024-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-de-sao-joao-da-vila-2026/</loc>
+		<lastmod>2025-10-08T07:04:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/banner-trail-sao-joao-da-vila-2026-min-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-run-real-priolo-2026/</loc>
+		<lastmod>2025-10-08T07:02:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/banner-trail-run-real-priolo-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/noctis-trail-2025/</loc>
+		<lastmod>2025-10-08T07:01:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/banner-noctis-trail-2025-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-cabeca-aldeia-natal-2025/</loc>
+		<lastmod>2025-10-08T06:59:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/68e3837a65bb3_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-guimaraes-2025/</loc>
@@ -62,13 +136,6 @@
 		<lastmod>2025-10-06T06:37:50+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/pop_cr6z1b2880-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-gondomar-2025/</loc>
-		<lastmod>2025-10-06T06:36:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/Sao-Silvestre-Gondomar-2025-731x1024-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6672,10 +6739,6 @@
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/europarque-bio-run-2025/</loc>
 		<lastmod>2025-01-26T17:07:41+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/noctis-trail-2025/</loc>
-		<lastmod>2025-01-26T17:06:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-do-viso-2025/</loc>

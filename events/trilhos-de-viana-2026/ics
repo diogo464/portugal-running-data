@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68e680ac34578
+DTSTAMP:20251008T151804Z
+DTSTART:20260201
+DTEND:20260202
+LOCATION:Meadela\,  Viana do Castelo Meadela\,  Viana do Castelo
+SUMMARY:Trilhos de Viana 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-de-viana-2026
+ /
+URL:https://www.portugalrunning.com/eventos/trilhos-de-viana-2026/
+END:VEVENT
+END:VCALENDAR
