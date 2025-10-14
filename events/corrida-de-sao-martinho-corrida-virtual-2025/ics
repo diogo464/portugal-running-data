@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ed92b00a2eb
+DTSTAMP:20251014T000048Z
+DTSTART:20251108
+DTEND:20251109
+LOCATION:Portugal Portugal
+SUMMARY:Corrida de São Martinho - Corrida Virtual 2025
+DESCRIPTION:Corrida de São Martinho - Corrida Virtual 2025\nhttps://www.po
+ rtugalrunning.com/eventos/corrida-de-sao-martinho-corrida-virtual-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-martinho-corrida-virtual-2025/
+END:VEVENT
+END:VCALENDAR

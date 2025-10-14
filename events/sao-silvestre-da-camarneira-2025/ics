@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ed92b03d6f3
+DTSTAMP:20251014T000048Z
+DTSTART:20251220T080000Z
+DTEND:20251220T080000Z
+LOCATION:Camarneira\,  Cantanhede Camarneira\,  Cantanhede
+SUMMARY:São Silvestre da Camarneira 2025
+DESCRIPTION:Corrida: ~10 km (2 pontos de água) Caminhada: 5 km (1 ponto de
+  água na meta)\nhttps://www.portugalrunning.com/eventos/sao-silvestre-da-c
+ amarneira-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-camarneira-2025/
+END:VEVENT
+END:VCALENDAR

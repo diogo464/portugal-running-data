@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ed92aee3e85
+DTSTAMP:20251014T000046Z
+DTSTART:20251123T075400Z
+DTEND:20251123T075400Z
+LOCATION:São João da Madeira\,  Aveiro São João da Madeira\,  Aveiro
+SUMMARY:Corrida dos Milagres 2025
+DESCRIPTION:A 1ª edição da 1ª Corrida dos Milagres é uma prova que per
+ corre estradas\,  caminhos e chegada no Parque da Nossa Senhora dos Milagre
+ s de São João da Madeira. A corrida tem um percurso de 5 KM.\nhttps://www
+ .portugalrunning.com/eventos/corrida-dos-milagres-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-milagres-2025/
+END:VEVENT
+END:VCALENDAR

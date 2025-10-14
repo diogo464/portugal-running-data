@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68ed92ad2055b
+DTSTAMP:20251014T000045Z
+DTSTART:20251116
+DTEND:20251117
+LOCATION:Lisboa Lisboa
+SUMMARY:Correr/Caminhar pela Diabetes 2025
+DESCRIPTION:A Direção-Geral de Saúde em parceria com a Câmara Municipal
+  de Lisboa e com o Programa Nacional para a Diabetes\,  vai no próximo mê
+ s de Novembro assinalar o mês da diabetes\,  e nada melhor que promover es
+ tilos e hábitos saudáveis na comunidade. Um evento que vai para a sua 4ª
+ [..]\nhttps://www.portugalrunning.com/eventos/correr-caminhar-pela-diabetes
+ -2025/
+URL:https://www.portugalrunning.com/eventos/correr-caminhar-pela-diabetes-2025/
+END:VEVENT
+END:VCALENDAR
