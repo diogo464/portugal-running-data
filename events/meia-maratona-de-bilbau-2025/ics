@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68f035b8f1339
+DTSTAMP:20251016T000056Z
+DTSTART:20251018T193300Z
+DTEND:20251018T193300Z
+LOCATION:Bilbau\,  Espanha Bilbau\,  Espanha
+SUMMARY:Meia Maratona de Bilbau 2025
+DESCRIPTION:A Meia Maratona de Bilbao é uma prova noturna\,  rápida e fes
+ tiva\,  disputada a 21 km pelas ruas iluminadas do centro da cidade\,  com 
+ partida no Estádio San Mamés e meta junto ao Museu Guggenheim\,  num ambi
+ ente com fogo‑de‑artifício\,  música ao vivo e milhares de espectador
+ es a incentivar os atletas[..]\nhttps://www.portugalrunning.com/eventos/mei
+ a-maratona-de-bilbau-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-bilbau-2025/
+END:VEVENT
+END:VCALENDAR

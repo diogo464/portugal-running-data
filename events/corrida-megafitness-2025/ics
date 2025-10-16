@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68bccb435a82b
-DTSTAMP:20250907T000107Z
+UID:68f035bc2205d
+DTSTAMP:20251016T000100Z
 DTSTART:20251102
 DTEND:20251103
 LOCATION:Ourique\,  Beja Ourique\,  Beja
 SUMMARY:Corrida MegaFitness 2025
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-megafitness-2
- 025/
+DESCRIPTION:A Secção de Atletismo do Ourique Desportos Clube em colabora�
+ �ão com o Município e a Junta de Freguesia de Ourique\,  irá levar a efe
+ ito\,  no dia 2 de Novembro\,  Domingo\,  pelas 10h:00min\,  a 6º Corrida 
+ MegaFitness. A 6ª Corrida MegaFitness consiste numa prova de 10km e numa c
+ aminhada de 8km.A[..]\nhttps://www.portugalrunning.com/eventos/corrida-mega
+ fitness-2025/
 URL:https://www.portugalrunning.com/eventos/corrida-megafitness-2025/
 END:VEVENT
 END:VCALENDAR

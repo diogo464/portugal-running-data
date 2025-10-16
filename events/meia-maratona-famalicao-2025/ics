@@ -4,14 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cdc4b04c
-DTSTAMP:20250720T222532Z
+UID:68f035b9e6075
+DTSTAMP:20251016T000057Z
 DTSTART:20251019
 DTEND:20251020
 LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
 SUMMARY:Meia Maratona Famalicão 2025
-DESCRIPTION:Meia Maratona Famalicão 2025\nhttps://www.portugalrunning.com/
- eventos/meia-maratona-famalicao-2025/
+DESCRIPTION:No dia 19 de outubro de 2025\,  às 09h30\,  realiza-se a 11ª 
+ Meia Maratona de Famalicão\,  a prova que promete voltar a encher as ruas 
+ da cidade com energia e entusiasmo. A partida será dada na Avenida do Bras
+ il e a meta estará instalada no Parque de Estacionamento junto ao[..]\nhtt
+ ps://www.portugalrunning.com/eventos/meia-maratona-famalicao-2025/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-famalicao-2025/
 END:VEVENT
 END:VCALENDAR

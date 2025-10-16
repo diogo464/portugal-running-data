@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cbb1959c
-DTSTAMP:20250720T222459Z
+UID:68f035b9b84a6
+DTSTAMP:20251016T000057Z
 DTSTART:20251025
 DTEND:20251026
 LOCATION:Lousã\,  Coimbra Lousã\,  Coimbra
 SUMMARY:Louzan 1000 2025
-DESCRIPTION:Louzan 1000 2025\nhttps://www.portugalrunning.com/eventos/louza
- n-1000-2025/
+DESCRIPTION:Montanha Clube\,  Secção de Trail Running\,  é a entidade or
+ ganizadora da IV edição do evento LOUZAN1000\,  que decorrera no dia 25 d
+ e outubro de 2025 na Vila da Lousã\,  independentemente das condições cl
+ imatéricas do dia\,  desde que a organização entenda que não ofereçam 
+ riscos aos participantes. A organização acompanha em[..]\nhttps://www.por
+ tugalrunning.com/eventos/louzan-1000-2025/
 URL:https://www.portugalrunning.com/eventos/louzan-1000-2025/
 END:VEVENT
 END:VCALENDAR

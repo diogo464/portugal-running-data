@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68f035bc3ba07
+DTSTAMP:20251016T000100Z
+DTSTART:20251220T004500Z
+DTEND:20251220T235900Z
+LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+SUMMARY:São Silvestre Sernancelhe 2025
+DESCRIPTION:A corrida São Silvestre realiza-se no dia 20 de dezembro de 20
+ 25 pelas 19h00\,  na histórica vila de Sernancelhe com partida e chegada n
+ o quartel dos Bombeiros Voluntários de Sernancelhe. Este evento integra um
+ a corrida com a distância de 10 km e uma caminhada com a distância de 5 k
+ m\, [..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-sernancelhe
+ -2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-sernancelhe-2025/
+END:VEVENT
+END:VCALENDAR
