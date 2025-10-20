@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68f57be0eb55e
+DTSTAMP:20251020T000136Z
+DTSTART:20251025T063600Z
+DTEND:20251025T063600Z
+LOCATION:Viseu Viseu
+SUMMARY:Ecobootcamp 2025
+DESCRIPTION:A Corrida de Obstáculos é uma prova que contempla corrida e t
+ ransposição de obstáculos de diversos tipos\,  natureza e dificuldade. A
+  prova será realizada em Viseu\,  no Parque Aquilino Ribeiro\,  e compreen
+ de um percurso com cerca de 400m de distância e 10 obstáculos\,  que colo
+ cará à prova os participantes\,  solicitando[..]\nhttps://www.portugalrun
+ ning.com/eventos/ecobootcamp-2025/
+URL:https://www.portugalrunning.com/eventos/ecobootcamp-2025/
+END:VEVENT
+END:VCALENDAR

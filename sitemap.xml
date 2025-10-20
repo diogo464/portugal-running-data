@@ -2,20 +2,87 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-10-16T21:22:56+00:00</lastmod>
+		<lastmod>2025-10-19T06:48:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-montijo-2025/</loc>
+		<lastmod>2025-10-19T06:48:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/SS-MONTIJO-02-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sesimbra-spartan-trifecta-2025/</loc>
+		<lastmod>2025-10-19T06:42:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/557627899_17900639769273426_5747934510879864579_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/hybrid-day-aveiro-2026/</loc>
+		<lastmod>2025-10-19T06:40:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/f030.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/ecobootcamp-2025/</loc>
+		<lastmod>2025-10-19T06:38:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/68f1938444886_Captura_de_ecra_2025-10-16_as_21.53.09.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-natal-paredes-2025/</loc>
+		<lastmod>2025-10-19T06:35:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/2025-10-16_19-52-27_68f13eeb30430-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-natal-2025/</loc>
+		<lastmod>2025-10-19T06:32:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-das-lezirias-2026/</loc>
+		<lastmod>2025-10-19T06:31:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/thumbnail_Xistarca_02_V02-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-bombeiros-voluntarios-alcoentre-2025/</loc>
+		<lastmod>2025-10-19T06:28:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/pop_ek5h2dk916.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-casteloes-2025/</loc>
+		<lastmod>2025-10-19T06:26:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/e815.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-b-v-folgosinho-a-matoscar-2025/</loc>
+		<lastmod>2025-10-19T06:24:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/Trail-Folgosinho-25-Cartaz.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-vendas-novas-2025/</loc>
+		<lastmod>2025-10-19T06:21:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/68efac3773ae6_4047_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-batalha-2025/</loc>
 		<lastmod>2025-10-16T21:22:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/pop_m63pv2u876-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sesimbra-spartan-trifecta-2025/</loc>
-		<lastmod>2025-10-15T22:20:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/557627899_17900639769273426_5747934510879864579_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -219,13 +286,6 @@
 		<lastmod>2025-10-13T08:15:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/68eca0d16cfe9_WhatsApp_Image_2025-10-07_at_14.33.01.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-das-lezirias-2026/</loc>
-		<lastmod>2025-10-13T08:12:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/thumbnail_Xistarca_02_V02-750x380-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1540,10 +1600,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/68a9dacc2c6a0_307946245_603120614845612_576078982234146931_n.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/grande-premio-natal-2025/</loc>
-		<lastmod>2025-08-29T06:46:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-nazare-2025/</loc>

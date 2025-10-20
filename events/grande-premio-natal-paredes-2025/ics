@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68f57be344564
+DTSTAMP:20251020T000139Z
+DTSTART:20251214T063300Z
+DTEND:20251214T063300Z
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Grande Prémio Natal - Paredes - 2025
+DESCRIPTION:Realiza-se no dia 14 de dezembro de 2025 pelas 09h30\,  na Vila
+  de Cête\,  com partidas e chegadas no Largo Senhora do Vale - Cête\,  e 
+ o tempo máximo de duração desta prova é de 2 horas.\nhttps://www.portug
+ alrunning.com/eventos/grande-premio-natal-paredes-2025/
+URL:https://www.portugalrunning.com/eventos/grande-premio-natal-paredes-2025/
+END:VEVENT
+END:VCALENDAR
