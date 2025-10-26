@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68fd64cde18b1
+DTSTAMP:20251026T000117Z
+DTSTART:20260110
+DTEND:20260111
+LOCATION:Estádio Universitário de Lisboa\,  Lisboa Estádio Universitário de Lisboa\,  Lisboa
+SUMMARY:Estafeta dos Reis 2026
+DESCRIPTION:Numa parceria com a GNR\,  vais poder correr nas instalações 
+ do antigo Posto de Comando do Movimento das Forças Armadas\,  instalado n
+ o Regimento de Engenharia nº 1 da Pontinha\,  local responsável pelas ope
+ rações militares de 25 de Abril de 1974. A Estafeta dos Reis&nbsp;é uma 
+ corrida por&nbsp;equipas de 3 elementos\,  num[..]\nhttps://www.portugalrun
+ ning.com/eventos/estafeta-dos-reis-2026/
+URL:https://www.portugalrunning.com/eventos/estafeta-dos-reis-2026/
+END:VEVENT
+END:VCALENDAR

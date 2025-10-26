@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68fd64d480481
+DTSTAMP:20251026T000124Z
+DTSTART:20251226
+DTEND:20251227
+LOCATION:Beja Beja
+SUMMARY:São Silvestre Beja 2025
+DESCRIPTION:São Silvestre Beja 2025\nhttps://www.portugalrunning.com/event
+ os/sao-silvestre-beja-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-beja-2025/
+END:VEVENT
+END:VCALENDAR

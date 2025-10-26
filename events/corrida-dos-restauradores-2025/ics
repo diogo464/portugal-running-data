@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68fd64cf6bc56
+DTSTAMP:20251026T000119Z
+DTSTART:20251130
+DTEND:20251201
+LOCATION:Fundão\,  Castelo Branco Fundão\,  Castelo Branco
+SUMMARY:Corrida dos Restauradores 2025
+DESCRIPTION:A Corrida dos Restauradores celebra uma das seculares tradiçõ
+ es do Fundão\,  a Arruada do 1.º de Dezembro. Todos os anos\,  às 00h00 
+ do dia 01 de dezembro\,  os locais reúnem-se em surdina na Praça do Munic
+ ípio e percorrem as ruas com o propósito de "correr os espanhóis"\,  num
+ a clara alusão[..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-re
+ stauradores-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-restauradores-2025/
+END:VEVENT
+END:VCALENDAR

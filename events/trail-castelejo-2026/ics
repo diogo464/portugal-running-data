@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68fd64d19e922
+DTSTAMP:20251026T000121Z
+DTSTART:20260208
+DTEND:20260209
+LOCATION:Alvados\,  Porto de Mós Alvados\,  Porto de Mós\,  Lisboa
+SUMMARY:Trail Castelejo 2026
+DESCRIPTION:Trail Castelejo 2026\nhttps://www.portugalrunning.com/eventos/t
+ rail-castelejo-2026/
+URL:https://www.portugalrunning.com/eventos/trail-castelejo-2026/
+END:VEVENT
+END:VCALENDAR

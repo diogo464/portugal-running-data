@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68fd64d19815b
+DTSTAMP:20251026T000121Z
+DTSTART:20261016
+DTEND:20261017
+LOCATION:Castanheira de Pera\,  Leiria Castanheira de Pera\,  Leiria
+SUMMARY:AXTrail 2026
+DESCRIPTION:No âmbito do AXtrail®series 2026\,  realizar-se-á nos dias 1
+ 6\,  17 e 18 de Outubro de 2026\,  a décima segunda edição do AXtrail / 
+ oitava edição do UTAX (Ultra Trail das Aldeias do Xisto). O programa incl
+ ui 4 provas de carácter competitivo (UTAX\,  TSL\,  TX e MTX - prova de in
+ iciação[..]\nhttps://www.portugalrunning.com/eventos/axtrail-2026/
+URL:https://www.portugalrunning.com/eventos/axtrail-2026/
+END:VEVENT
+END:VCALENDAR

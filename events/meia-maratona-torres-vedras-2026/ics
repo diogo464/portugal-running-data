@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68fd64d1e7329
+DTSTAMP:20251026T000121Z
+DTSTART:20260111
+DTEND:20260112
+LOCATION:Torres Vedras\,  Lisboa Torres Vedras\,  Lisboa
+SUMMARY:Meia Maratona Torres Vedras 2026
+DESCRIPTION:Em 2021 chegou um novo desafio que juntou&nbsp;mais de um milha
+ r de atletas!Em 2025\,  o mote está dado e promete juntar os apaixonados d
+ a distância dos&nbsp;21km\,  juntamente com os atletas de&nbsp;10km&nbsp;e
+  a família na caminhada de&nbsp;5km.&nbsp; Torres Vedras\,  uma zona cheia
+  de atrativos para quem gosta de&nbsp;natureza\,  história\,  desporto\,  
+ gastronomia[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-torr
+ es-vedras-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-torres-vedras-2026/
+END:VEVENT
+END:VCALENDAR

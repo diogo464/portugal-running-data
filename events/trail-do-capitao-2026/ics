@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68fd64d19c754
+DTSTAMP:20251026T000121Z
+DTSTART:20260131
+DTEND:20260201
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Trail do Capitão 2026
+DESCRIPTION:A VII edição do Trail do Capitão é uma prova que percorre t
+ rilhos e caminhos das freguesias deRebordosa\,  Vandoma e Baltar do concelh
+ o de Paredes. As duas provas de caracter competitivo:Trail de 20km e Mini-T
+ rail de 10 km (a correr ou a andar) estão abertas a maiores de idade (18an
+ os).\nhttps://www.portugalrunning.com/eventos/trail-do-capitao-2026/
+URL:https://www.portugalrunning.com/eventos/trail-do-capitao-2026/
+END:VEVENT
+END:VCALENDAR

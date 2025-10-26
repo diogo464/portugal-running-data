@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68fd64cf50db4
+DTSTAMP:20251026T000119Z
+DTSTART:20260111
+DTEND:20260112
+LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+SUMMARY:Grande Prémio Peniche a Correr 2026
+DESCRIPTION:No dia 11 de janeiro de 2025 terá lugar a 7ª edição da Corr
+ ida Peniche a Correr. Prova decorrida de aproximadamente 10 mil metros\,  r
+ ealizada no concelho de Peniche\,  mais concretamente no interior da Cidade
+  de Peniche. Esta iniciativa é promovida pela Associação Peniche a Corre
+ r e pelos Bombeiros Voluntários[..]\nhttps://www.portugalrunning.com/event
+ os/grande-premio-peniche-a-correr-2026/
+URL:https://www.portugalrunning.com/eventos/grande-premio-peniche-a-correr-2026/
+END:VEVENT
+END:VCALENDAR

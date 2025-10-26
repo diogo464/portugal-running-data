@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68fd64d276541
+DTSTAMP:20251026T000122Z
+DTSTART:20251206
+DTEND:20251207
+LOCATION:Machico\,  Madeira Machico\,  Madeira
+SUMMARY:Trail Noturno do Ludens 2025
+DESCRIPTION:De novo pelos trilhos\,  o Trail Noturno do Ludens - Trail Pela
+  Vida decorre maioritariamente na Freguesia de Machico\,  com passagem pelo
+  Caniçal tem por objetivo ser uma prova acessível a trailers experientes.
+  A prova integra o circuito “Trail Madeira” 2025/2026.\nhttps://www.por
+ tugalrunning.com/eventos/trail-noturno-do-ludens-2025/
+URL:https://www.portugalrunning.com/eventos/trail-noturno-do-ludens-2025/
+END:VEVENT
+END:VCALENDAR
