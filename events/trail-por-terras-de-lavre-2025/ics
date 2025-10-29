@@ -4,14 +4,15 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68f035bc57a08
-DTSTAMP:20251016T000100Z
+UID:69015935ad1a1
+DTSTAMP:20251029T000053Z
 DTSTART:20251116
 DTEND:20251117
 LOCATION:Lavre\,  Évora Lavre\,  Évora
 SUMMARY:Trail por Terras de Lavre 2025
-DESCRIPTION:Trail por Terras de Lavre 2025\nhttps://www.portugalrunning.com
- /eventos/trail-por-terras-de-lavre-2025/
+DESCRIPTION:A prova possui 3 percursos diferentes: Trail (+/- 17km) Mini Tr
+ ail (+/-8 Km) Caminhada (+/-8km)\nhttps://www.portugalrunning.com/eventos/t
+ rail-por-terras-de-lavre-2025/
 URL:https://www.portugalrunning.com/eventos/trail-por-terras-de-lavre-2025/
 END:VEVENT
 END:VCALENDAR

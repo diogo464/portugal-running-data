@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:690159354ca2d
+DTSTAMP:20251029T000053Z
+DTSTART:20260104
+DTEND:20260105
+LOCATION:Baltar\,  Paredes Baltar\,  Paredes
+SUMMARY:Trail dos Reis 2025
+DESCRIPTION:O III Trail dos Reis é organizado pela Associação Humanitár
+ ia dos Bombeiros Voluntários de Baltar e realizar-se-á no dia 04 de janei
+ ro de 2026\,  no quartel dos Bombeiros Voluntários de Baltar.\nhttps://www
+ .portugalrunning.com/eventos/trail-dos-reis-2025/
+URL:https://www.portugalrunning.com/eventos/trail-dos-reis-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69015935d4a4d
+DTSTAMP:20251029T000053Z
+DTSTART:20251207T075600Z
+DTEND:20251207T235900Z
+LOCATION:Perre\,  Viana do Castelo Perre\,  Viana do Castelo
+SUMMARY:Trail de Perre 2025
+DESCRIPTION:Caminhada (11Km) Trail (15Km)\nhttps://www.portugalrunning.com/
+ eventos/trail-de-perre-2025/
+URL:https://www.portugalrunning.com/eventos/trail-de-perre-2025/
+END:VEVENT
+END:VCALENDAR

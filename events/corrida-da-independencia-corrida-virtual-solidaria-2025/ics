@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69015932b330c
+DTSTAMP:20251029T000050Z
+DTSTART:20251201
+DTEND:20251202
+LOCATION:Portugal Portugal
+SUMMARY:Corrida da Independência - Corrida Virtual Solidária 2025
+DESCRIPTION:Corrida da Independência - Corrida Virtual Solidária 2025\nht
+ tps://www.portugalrunning.com/eventos/corrida-da-independencia-corrida-virt
+ ual-solidaria-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-da-independencia-corrida-virtual-solidaria-2025/
+END:VEVENT
+END:VCALENDAR
