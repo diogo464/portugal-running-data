@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69054dab7c5db
+DTSTAMP:20251101T000043Z
+DTSTART:20251207T063900Z
+DTEND:20251207T063900Z
+LOCATION:Portela\,  Tentúgal Portela\,  Tentúgal
+SUMMARY:Corrida São Silvestre - Portela 2025
+DESCRIPTION:A 1.ª Corrida São Silvestre – Portela\,  realizar-se-á no 
+ dia 7 de dezembro de 2025\,  pelas 18h00\,  com saída e chegada no Grupo C
+ énico Amador da Portela. A corrida será composta por um percurso circular
+  de 10 km e a caminhada por um percurso circular de 5 km.\nhttps://www.port
+ ugalrunning.com/eventos/corrida-sao-silvestre-portela-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-silvestre-portela-2025/
+END:VEVENT
+END:VCALENDAR
