@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69069f64af0c4
+DTSTAMP:20251102T000140Z
+DTSTART:20261025T053200Z
+DTEND:20261025T235900Z
+LOCATION:Manteigas\,  Guarda Manteigas\,  Guarda
+SUMMARY:Estrela Road Challenge 2026
+DESCRIPTION:O evento Estrela Road Challenge vai ocorrer entre 24 e 25 de Ou
+ tubro 2026 em Manteigas na Serra da Estrela.Estrela Road Challenge Uphill®
+ : prova de corrida de estrada de 21km com 1600 metros de desnível positivo
+  com partida em frente ao Município ao edifício do Município de Manteiga
+ s término na[..]\nhttps://www.portugalrunning.com/eventos/estrela-road-cha
+ llenge-2026/
+URL:https://www.portugalrunning.com/eventos/estrela-road-challenge-2026/
+END:VEVENT
+END:VCALENDAR

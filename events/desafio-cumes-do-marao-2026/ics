@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69069f65e99ff
+DTSTAMP:20251102T000141Z
+DTSTART:20260926
+DTEND:20260927
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Desafio Cumes do Marão 2026
+DESCRIPTION:A aldeia de Ansiães é a base do desafio aqui proposto e todas
+  as suas corridas serão circulares\,  cominício e fim no Lugar do Eido\, 
+  doravante designada de Aldeia Cumes (41.25009\,  -7.95410). Serão 4corrid
+ as competitivas (50k\,  30k\,  20K e 13K).\nhttps://www.portugalrunning.com
+ /eventos/desafio-cumes-do-marao-2026/
+URL:https://www.portugalrunning.com/eventos/desafio-cumes-do-marao-2026/
+END:VEVENT
+END:VCALENDAR

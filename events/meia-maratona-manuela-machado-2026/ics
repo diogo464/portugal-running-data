@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69069f65b485f
+DTSTAMP:20251102T000141Z
+DTSTART:20260125
+DTEND:20260126
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Meia Maratona Manuela Machado 2026
+DESCRIPTION:A prova será realizada no dia 25 de janeiro de 2026\,  com pa
+ rtida às 10h30\,  percorrendo uma distância oficial de 21.095 metros (
+ meia maratona)\,  de acordo com as normas da Federação Portuguesa de Atl
+ etismo (FPA).\nhttps://www.portugalrunning.com/eventos/meia-maratona-manuel
+ a-machado-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-manuela-machado-2026/
+END:VEVENT
+END:VCALENDAR

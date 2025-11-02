@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69069f68abeaf
+DTSTAMP:20251102T000144Z
+DTSTART:20260502
+DTEND:20260503
+LOCATION:Louriçal do Campo\,  Castelo Branco Louriçal do Campo\,  Castelo Branco
+SUMMARY:Ultra Trilhos da Gardunha 2026
+DESCRIPTION:O UTG\,  é um evento de trail running\,  composto por uma cami
+ nhada e por 4 percursos circulares de 12k\,  18k\,  32k e 50k\,  que percor
+ rem estradas florestais\,  trilhos\,  caminhos romanos\,  levadas\,  ribeir
+ as\,  zonas históricas\,  ruas de aldeias e os pontos mais altos da Serra 
+ da Gardunha. Grande parte dos percursos[..]\nhttps://www.portugalrunning.co
+ m/eventos/ultra-trilhos-da-gardunha-2026/
+URL:https://www.portugalrunning.com/eventos/ultra-trilhos-da-gardunha-2026/
+END:VEVENT
+END:VCALENDAR
