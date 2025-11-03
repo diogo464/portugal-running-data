@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6907f0c70ce42
+DTSTAMP:20251103T000111Z
+DTSTART:20251207T134600Z
+DTEND:20251207T134600Z
+LOCATION:Cinfães\,  Viseu Cinfães\,  Viseu
+SUMMARY:Por todos Nós 2025
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/por-todos-nos-2025/
+URL:https://www.portugalrunning.com/eventos/por-todos-nos-2025/
+END:VEVENT
+END:VCALENDAR

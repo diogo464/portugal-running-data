@@ -4,17 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cc86110f
-DTSTAMP:20250720T222512Z
+UID:6907f0d1658ce
+DTSTAMP:20251103T000121Z
 DTSTART:20251102
 DTEND:20251103
 LOCATION:Porto Porto
 SUMMARY:Maratona Porto 2025
-DESCRIPTION:A EDP Maratona do Porto com os seus 20 anos de vida\,  inicia a
-  sua campanha de divulgação\,  com vista à 21ª. Edição\,  em 2025 a 2
-  de novembro\,  com início às 8h00\,  e tal como no passado\,  pretendemo
- s fazer desta EDP Maratona do Porto\,  um evento de referência nacional[..
- ]\nhttps://www.portugalrunning.com/eventos/maratona-porto-2025/
+DESCRIPTION:Resultados 2025 A EDP Maratona do Porto com os seus 20 anos de 
+ vida\,  inicia a sua campanha de divulgação\,  com vista à 21ª. Ediçã
+ o\,  em 2025 a 2 de novembro\,  com início às 8h00\,  e tal como no passa
+ do\,  pretendemos fazer desta EDP Maratona do Porto\,  um evento de[..]\nht
+ tps://www.portugalrunning.com/eventos/maratona-porto-2025/
 URL:https://www.portugalrunning.com/eventos/maratona-porto-2025/
 END:VEVENT
 END:VCALENDAR
