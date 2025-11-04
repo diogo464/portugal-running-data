@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69094231e790d
+DTSTAMP:20251104T000049Z
+DTSTART:20251206
+DTEND:20251207
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:São Silvestre Vitor Baptista 2025
+DESCRIPTION: A 5ª São Silvestre Vitor Baptista realiza-se no dia 6 de De
+ zembro na Lourinhã. Prova aberta ao desporto adaptado. A prova realiza-se 
+ em sistema de circuito nas ruas da Vila da Lourinhã.\nhttps://www.portugal
+ running.com/eventos/sao-silvestre-vitor-baptista-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vitor-baptista-2025/
+END:VEVENT
+END:VCALENDAR
