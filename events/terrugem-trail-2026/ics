@@ -4,14 +4,19 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68e4587e1c3b3
-DTSTAMP:20251007T000206Z
-DTSTART:20260208
-DTEND:20260209
+UID:690d36d3944dc
+DTSTAMP:20251107T000123Z
+DTSTART:20260301
+DTEND:20260302
 LOCATION:Terrugem\,  Sintra Terrugem\,  Sintra
 SUMMARY:Terrugem Trail 2026
-DESCRIPTION:Terrugem Trail 2026\nhttps://www.portugalrunning.com/eventos/te
- rrugem-trail-2026/
+DESCRIPTION:A prova&nbsp;9º Terrugem Trail&nbsp;tem como objetivo proporci
+ onar aos atletas novas experiências e sensações em trilhos distintos\,  
+ valorização e divulgação do território e promoção da nossa região. 
+ Este evento irá decorrer no dia&nbsp;01 março de 2026\,  organizado pela&
+ nbsp;ABIT - Associação Recreativa de Bicicletas de Terrugem. O&nbsp;Trail
+  Longo e Trail Curto&nbsp;são ainda[..]\nhttps://www.portugalrunning.com/e
+ ventos/terrugem-trail-2026/
 URL:https://www.portugalrunning.com/eventos/terrugem-trail-2026/
 END:VEVENT
 END:VCALENDAR

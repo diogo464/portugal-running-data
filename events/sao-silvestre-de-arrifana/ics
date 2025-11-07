@@ -4,14 +4,16 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d137ab25
-DTSTAMP:20250720T222627Z
+UID:690d36d674df8
+DTSTAMP:20251107T000126Z
 DTSTART:20251214T135000Z
-DTEND:20251214T135000Z
+DTEND:20251214T235900Z
 LOCATION:Arrifana\,  Santa Maria da Feira Arrifana\,  Santa Maria da Feira
 SUMMARY:São Silvestre de Arrifana
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-arri
- fana/
+DESCRIPTION:A primeira edição da São Silvestre de Arrifana\,  com partid
+ a e chegada no Largo Manuel José Pereira\,  em Arrifana a 14 de dezembro p
+ elas 18h.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-arrifan
+ a/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-arrifana/
 END:VEVENT
 END:VCALENDAR

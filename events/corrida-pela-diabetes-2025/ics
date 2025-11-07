@@ -4,14 +4,19 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b4390385d06
-DTSTAMP:20250831T115859Z
+UID:690d36ccec3a2
+DTSTAMP:20251107T000116Z
 DTSTART:20251122
 DTEND:20251123
 LOCATION:Caldas da Rainha\,  Leiria Caldas da Rainha\,  Leiria
 SUMMARY:Corrida pela Diabetes 2025
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-pela-diabetes
- -2025/
+DESCRIPTION:A prova denominada&nbsp;“Corrida pela Diabetes”\,  é organ
+ izada pela&nbsp;Associação Cultural Desportiva e Recreativa Arneirense&nb
+ sp;em conjunto com a&nbsp;Unidade Local de Saúde do Oeste\,  em coorganiza
+ ção com a Recorde Pessoal\,  com o apoio da&nbsp;Câmara Municipal de Cal
+ das da Rainha. Será realizada no dia&nbsp;22 de novembro de 2025&nbsp;inde
+ pendentemente das condições climatéricas do dia desde[..]\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-pela-diabetes-2025/
 URL:https://www.portugalrunning.com/eventos/corrida-pela-diabetes-2025/
 END:VEVENT
 END:VCALENDAR

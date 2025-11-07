@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68fd64d480481
-DTSTAMP:20251026T000124Z
+UID:690d36d6a0bb5
+DTSTAMP:20251107T000126Z
 DTSTART:20251226
 DTEND:20251227
 LOCATION:Beja Beja
 SUMMARY:São Silvestre Beja 2025
-DESCRIPTION:São Silvestre Beja 2025\nhttps://www.portugalrunning.com/event
- os/sao-silvestre-beja-2025/
+DESCRIPTION:A São Silvestre é um evento de carácter desportivo\,  comuni
+ tário e solidário\,  promovido e organizadopela Câmara Municipal de Beja
+  e que se realizará no próximo dia 26 de dezembro. Esta iniciativacontar�
+ � com a colaboração técnica e de arbitragem da Associação de Atletismo
+  de Beja e o apoiode vários parceiros e[..]\nhttps://www.portugalrunning.c
+ om/eventos/sao-silvestre-beja-2025/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-beja-2025/
 END:VEVENT
 END:VCALENDAR
