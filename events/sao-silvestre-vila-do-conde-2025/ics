@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:690fd9f058119
+DTSTAMP:20251109T000152Z
+DTSTART:20251220
+DTEND:20251221
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:São Silvestre Vila do Conde 2025
+DESCRIPTION:Realiza-se no dia 20 de dezembro de 2025\,  pelas 18h\,  a prov
+ a começa e acaba nos Jardins da Avenida Júlio Graça. O tempo máximo de 
+ duração desta prova é de 2 horas.\nhttps://www.portugalrunning.com/event
+ os/sao-silvestre-vila-do-conde-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vila-do-conde-2025/
+END:VEVENT
+END:VCALENDAR
