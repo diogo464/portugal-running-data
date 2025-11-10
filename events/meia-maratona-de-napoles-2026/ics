@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69112b32aa7fc
+DTSTAMP:20251110T000050Z
+DTSTART:20260222T000000Z
+DTEND:20260222T000000Z
+LOCATION:Nápoles\,  Itália Nápoles\,  Itália
+SUMMARY:Meia Maratona de Nápoles 2026
+DESCRIPTION:A Meia Maratona de Nápoles 2026 (oficialmente Napoli City Ha
+ lf Marathon) realiza-se no dia 22 de fevereiro de 2026 e é considerada a
+  meia maratona mais rápida de Itália. O percurso de 21\, 097 km é prat
+ icamente plano e rápido\,  ideal para bater recordes pessoais. A corrida i
+ nicia-se na Piazza Tecchio e segue ao longo da costa mediterrânea\,  ofe
+ recendo[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-napol
+ es-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-napoles-2026/
+END:VEVENT
+END:VCALENDAR

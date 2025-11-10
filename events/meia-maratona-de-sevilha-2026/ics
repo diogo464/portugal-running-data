@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69112b366dbe9
+DTSTAMP:20251110T000054Z
+DTSTART:20260125
+DTEND:20260126
+LOCATION:Sevilha\,  Espanha Sevilha\,  Espanha
+SUMMARY:Meia Maratona de Sevilha 2026
+DESCRIPTION:A Meia Maratona de Sevilha (Medio Maratón de Sevilla) realiz
+ a-se no dia 25 de janeiro de 2026 e é conhecida como a meia maratona ma
+ is plana da Europa\,  ideal para alcançar recordes pessoais. O percurso de
+  21\, 097 km tem partida e chegada no Paseo de las Delicias\,  às 9h00\
+ ,  e passa por monumentos icónicos como o Rio Guadalquivir\, [..]\nhttps:/
+ /www.portugalrunning.com/eventos/meia-maratona-de-sevilha-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-sevilha-2026/
+END:VEVENT
+END:VCALENDAR

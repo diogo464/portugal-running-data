@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69112b308f68f
+DTSTAMP:20251110T000048Z
+DTSTART:20260523T002800Z
+DTEND:20260523T002800Z
+LOCATION:Gotemburgo\,  Suécia Gotemburgo\,  Suécia
+SUMMARY:Meia Maratona de Gotemburgo 2026
+DESCRIPTION:O Göteborgsvarvet (Meia Maratona de Gotemburgo) realiza-se n
+ o dia 23 de maio de 2026 e é a maior meia maratona do mundo\,  atraindo
+  mais de 62.000 corredores e 200.000 espectadores. O percurso de 21\, 09
+ 7 km tem partida e chegada no histórico Slottsskogsvallen Athletic Arena\
+ ,  atravessando duas pontes com vistas espetaculares do arquipélago e do p
+ orto da cidade\,  passando pela[..]\nhttps://www.portugalrunning.com/evento
+ s/meia-maratona-de-gotemburgo-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-gotemburgo-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69112b329d155
+DTSTAMP:20251110T000050Z
+DTSTART:20260620
+DTEND:20260621
+LOCATION:Tromsø\,  Noruega Tromsø\,  Noruega
+SUMMARY:Meia Maratona do Sol da Meia Noite 2026
+DESCRIPTION:A Midnight Sun Marathon (Maratona do Sol da Meia-Noite) reali
+ za-se no dia 20 de junho de 2026 em Tromsø\,  Noruega\,  a 69°N de lat
+ itude\,  sendo a maratona certificada pela AIMS mais a norte do mundo. Esta
+  corrida única oferece a experiência rara de correr à meia-noite com o s
+ ol ainda no horizonte\,  durante o solstício[..]\nhttps://www.portugalrunn
+ ing.com/eventos/meia-maratona-do-sol-da-meia-noite-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-sol-da-meia-noite-2026/
+END:VEVENT
+END:VCALENDAR
