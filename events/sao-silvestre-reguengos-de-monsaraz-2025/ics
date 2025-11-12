@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6913ce380d45f
+DTSTAMP:20251112T000056Z
+DTSTART:20251213
+DTEND:20251214
+LOCATION:Reguengos de Monsaraz\,  Évora Reguengos de Monsaraz\,  Évora
+SUMMARY:São Silvestre Reguengos de Monsaraz 2025
+DESCRIPTION:Esta iniciativa é organizada pela Junta de Freguesia de Reguen
+ gos de Monsaraz. A 5ª São Silvestre de Reguengos de Monsaraz será compos
+ ta por um percurso de 10 kms para Corrida.O início e términus do percurso
+ \,  será na Praça da Liberdade.\nhttps://www.portugalrunning.com/eventos/
+ sao-silvestre-reguengos-de-monsaraz-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-reguengos-de-monsaraz-2025/
+END:VEVENT
+END:VCALENDAR
