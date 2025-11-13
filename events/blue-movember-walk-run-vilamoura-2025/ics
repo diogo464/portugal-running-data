@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69151fdd50e1f
+DTSTAMP:20251113T000133Z
+DTSTART:20251129
+DTEND:20251130
+LOCATION:Vilamoura\,  Faro Vilamoura\,  Faro
+SUMMARY:Blue Movember - Walk & Run Vilamoura 2025
+DESCRIPTION:A Caminhada Solidária “Movember - Walk&Run Vilamoura” é o
+ rganizada pela Free Challenge\,  com o apoio da Inframoura\,  Vilamoura Wor
+ ld e Associação Oncológica do Algarve\,  e tem como principal objetivo s
+ ensibilizar a população para a importância da prevenção e do diagnóst
+ ico precoce do cancro da próstata. Existem duas opções de percurso:●[.
+ .]\nhttps://www.portugalrunning.com/eventos/blue-movember-walk-run-vilamour
+ a-2025/
+URL:https://www.portugalrunning.com/eventos/blue-movember-walk-run-vilamoura-2025/
+END:VEVENT
+END:VCALENDAR

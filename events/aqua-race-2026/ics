@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69151fde34e57
+DTSTAMP:20251113T000134Z
+DTSTART:20260503
+DTEND:20260504
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:Aqua Race 2026
+DESCRIPTION:O AQUA RACE é um evento desportivo\,  que consiste numa prova 
+ de Trail Running e caminhada\,  com vários percursos aquáticos e de cará
+ ter técnico como progressão e passagem em linhas de água e pequenos açu
+ des\,  sem recurso à natação\,  que complementam a corrida Trail no seu 
+ modo geral.Trata-se de um[..]\nhttps://www.portugalrunning.com/eventos/aqua
+ -race-2026/
+URL:https://www.portugalrunning.com/eventos/aqua-race-2026/
+END:VEVENT
+END:VCALENDAR

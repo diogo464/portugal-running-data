@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69151fdec4210
+DTSTAMP:20251113T000134Z
+DTSTART:20260101
+DTEND:20260102
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Pro Runners Magazine (Virtual) 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-pro-runners-m
+ agazine-virtual-2026/
+URL:https://www.portugalrunning.com/eventos/corrida-pro-runners-magazine-virtual-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69151fe06abd9
+DTSTAMP:20251113T000136Z
+DTSTART:20251208
+DTEND:20251209
+LOCATION:Seide\,  Vila Nova de Famalicão Seide\,  Vila Nova de Famalicão
+SUMMARY:São Silvestre Seide 2025
+DESCRIPTION:A São Silvestre de Seide é uma prova de atletismo de carácte
+ r competitivo\,  percorrida maioritariamente em estrada de asfalto pelas ru
+ as da União de Freguesias de Seide com uma distância aproximada de 8 km.\
+ nhttps://www.portugalrunning.com/eventos/sao-silvestre-seide-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-seide-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69151fdef416d
+DTSTAMP:20251113T000134Z
+DTSTART:20251213T070700Z
+DTEND:20251213T235900Z
+LOCATION:Vila Flor\,  Bragança Vila Flor\,  Bragança
+SUMMARY:São Silvestre de Vila Flor 2025
+DESCRIPTION:A Câmara Municipal de Vila Flor com o apoio do Clube de Ciclis
+ mo de Vila Flor\,  realizará no próximo dia 21 de dezembro a sua 1º São
+  Silvestre de Vila Flor. Destina-se a atletas de ambos os sexos\,  federado
+ s ou populares\,  desde o escalão de Benjamins a Veteranos.\nhttps://www.p
+ ortugalrunning.com/eventos/sao-silvestre-de-vila-flor-2025/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-flor-2025/
+END:VEVENT
+END:VCALENDAR
