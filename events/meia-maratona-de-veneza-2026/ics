@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6916714bbe245
+DTSTAMP:20251114T000115Z
+DTSTART:20261025T232600Z
+DTEND:20261025T232600Z
+LOCATION:Veneza\,  Itália Veneza\,  Itália
+SUMMARY:Meia Maratona de Veneza 2026
+DESCRIPTION:A Meia Maratona de Veneza (Venice Half Marathon) realiza-se n
+ o dia 25 de outubro e faz parte do evento Wizz Air Venicemarathon\,  que in
+ clui também a maratona completa (42 km) e a prova de 10 km.\nhttps://www.p
+ ortugalrunning.com/eventos/meia-maratona-de-veneza-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-veneza-2026/
+END:VEVENT
+END:VCALENDAR

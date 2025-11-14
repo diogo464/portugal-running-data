@@ -2,7 +2,49 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-11-12T19:06:56+00:00</lastmod>
+		<lastmod>2025-11-13T23:35:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-haia-2026/</loc>
+		<lastmod>2025-11-13T23:35:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/497835394_1288261823305908_4579928795940354794_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-veneza-2026/</loc>
+		<lastmod>2025-11-13T23:29:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/571277079_1207329728092983_2818216195728762963_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-madrid-movistar-2026/</loc>
+		<lastmod>2025-11-13T23:16:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/486414779_1070115401828721_6682850743086918356_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-e-meia-maratona-madrid-2026/</loc>
+		<lastmod>2025-11-13T23:15:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/486643211_29106493365631370_2358731217252970512_n-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-flor-2025/</loc>
+		<lastmod>2025-11-13T12:08:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/6914534ab0625_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-winter-challenge-s-a-vila-gale-2025/</loc>
+		<lastmod>2025-11-13T08:30:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/pop_77725rf818.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-solidario-do-25-2025/</loc>
@@ -51,13 +93,6 @@
 		<lastmod>2025-11-12T18:10:25+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/6914b6319c1a1_cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-flor-2025/</loc>
-		<lastmod>2025-11-12T18:07:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/6914534ab0625_cartaz-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -142,13 +177,6 @@
 		<lastmod>2025-11-10T17:16:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/Cartaz-Sao-Silvestre-Leiria-25-.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-madrid-movistar-2026/</loc>
-		<lastmod>2025-11-09T17:20:29+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/486414779_1070115401828721_6682850743086918356_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1528,13 +1556,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-e-meia-maratona-madrid-2026/</loc>
-		<lastmod>2025-10-03T02:31:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/486643211_29106493365631370_2358731217252970512_n-1-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-berlim-2026/</loc>
 		<lastmod>2025-10-03T02:30:13+00:00</lastmod>
 		<image:image>
@@ -2144,13 +2165,6 @@
 		<lastmod>2025-09-12T22:47:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/Cartaz-Grifo.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-winter-challenge-s-a-vila-gale-2025/</loc>
-		<lastmod>2025-09-12T22:31:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/pop_77725rf818.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
