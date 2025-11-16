@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6919143fb3285
+DTSTAMP:20251116T000103Z
+DTSTART:20260117T142800Z
+DTEND:20260117T142800Z
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail da Filigrana 2026
+DESCRIPTION:O regresso do Trail da Filigrana é uma excelente oportunidade 
+ para voltar aos trilhos de uma prova que deixou grandes memórias a quem pa
+ rticipou nas primeiras quatro edições.\nhttps://www.portugalrunning.com/e
+ ventos/trail-da-filigrana-2026/
+URL:https://www.portugalrunning.com/eventos/trail-da-filigrana-2026/
+END:VEVENT
+END:VCALENDAR
