@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:691dd4d3d22ec
+DTSTAMP:20251119T143147Z
+DTSTART:20260501
+DTEND:20260502
+LOCATION:Seia\,  Guarda Seia\,  Guarda
+SUMMARY:Oh Meu Deus 2026
+DESCRIPTION:O&nbsp;Oh Meu Deus by UTMB 2026&nbsp;é a primeira prova portug
+ uesa a integrar o prestigiado circuito UTMB World Series\,  realizando-se d
+ e&nbsp;1 a 3 de maio de 2026&nbsp;em Seia. Na sua 15.ª edição\,  a prova
+  atravessa as Serras da Estrela\,  Açor e Lousã\,  passando por Aldeias d
+ o Xisto e Aldeias Históricas do[..]\nhttps://www.portugalrunning.com/event
+ os/oh-meu-deus-2026/
+URL:https://www.portugalrunning.com/eventos/oh-meu-deus-2026/
+END:VEVENT
+END:VCALENDAR

@@ -2,13 +2,90 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-11-16T15:37:29+00:00</lastmod>
+		<lastmod>2025-11-19T11:13:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/oh-meu-deus-2026/</loc>
+		<lastmod>2025-11-19T11:13:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/559281008_1247813864053342_2206001363602512162_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-da-covilha-2025/</loc>
+		<lastmod>2025-11-19T07:36:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/Sao-Silvetre-Covilha-2025-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-de-viana-2026/</loc>
+		<lastmod>2025-11-19T07:28:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/20260201_logo.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-jobra-vila-da-branca-2025/</loc>
+		<lastmod>2025-11-19T07:28:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/banner-sao-silvestre-da-branca-2025-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-braga-2025/</loc>
+		<lastmod>2025-11-19T07:27:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/200x100.jpg.200x0_q95-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-dos-reis-marinhais-2026/</loc>
+		<lastmod>2025-11-19T07:25:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/691ca1bf74ede_Marinhais_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/estafeta-do-ambiente-2025-2/</loc>
+		<lastmod>2025-11-19T07:21:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/Banner-1-750x380-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-sporting-2025/</loc>
-		<lastmod>2025-11-16T15:37:29+00:00</lastmod>
+		<lastmod>2025-11-17T14:28:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/Corrida-do-Sporting-2025-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/Dados-2025-Corrida-do-Sporing-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-vila-real-2026/</loc>
+		<lastmod>2025-11-17T08:51:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/20260103_cartaz-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/minho-e-lima-trail-2026/</loc>
+		<lastmod>2025-11-17T08:51:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/20260301_Cartaz-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sky-race-montejunto-2026-verao/</loc>
+		<lastmod>2025-11-17T08:35:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-por-terras-de-fontes-e-lobos-2025/</loc>
+		<lastmod>2025-11-17T08:33:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/banner-trail-por-terras-de-fontes-e-lobos-2025_Rev20250927-min-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1447,13 +1524,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trilhos-de-viana-2026/</loc>
-		<lastmod>2025-10-08T07:24:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/20260201_logo.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-praia-da-tocha-2025/</loc>
 		<lastmod>2025-10-08T07:13:19+00:00</lastmod>
 		<image:image>
@@ -2064,13 +2134,6 @@
 		<lastmod>2025-09-23T22:19:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/Volta-a-Paranhos-2025-Header-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-por-terras-de-fontes-e-lobos-2025/</loc>
-		<lastmod>2025-09-23T22:15:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/banner-trail-por-terras-de-fontes-e-lobos-2025-min-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3134,10 +3197,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/Corrida-da-Republica-2025-Header-1.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-jobra-vila-da-branca-2025/</loc>
-		<lastmod>2025-07-31T12:32:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-ponta-delgada-2025/</loc>
@@ -8973,10 +9032,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/banner-ss-lagoa-2024-min.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-braga-2025/</loc>
-		<lastmod>2024-11-30T19:27:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-matosinhos-mar-de-desporto-2025/</loc>

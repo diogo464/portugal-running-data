@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:691dd4d7d4a1d
+DTSTAMP:20251119T143151Z
+DTSTART:20260517
+DTEND:20260518
+LOCATION:Montejunto\,  Cadaval Montejunto\,  Cadaval
+SUMMARY:Sky Race Montejunto 2026 Verão
+DESCRIPTION:&nbsp;\nhttps://www.portugalrunning.com/eventos/sky-race-montej
+ unto-2026-verao/
+URL:https://www.portugalrunning.com/eventos/sky-race-montejunto-2026-verao/
+END:VEVENT
+END:VCALENDAR

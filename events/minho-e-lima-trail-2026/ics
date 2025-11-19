@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:691dd4d631e94
+DTSTAMP:20251119T143150Z
+DTSTART:20260301
+DTEND:20260302
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Minho e Lima Trail 2026
+DESCRIPTION:Minho e Lima Trail 2026\nhttps://www.portugalrunning.com/evento
+ s/minho-e-lima-trail-2026/
+URL:https://www.portugalrunning.com/eventos/minho-e-lima-trail-2026/
+END:VEVENT
+END:VCALENDAR
