@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69224eaaa3731
+DTSTAMP:20251123T000042Z
+DTSTART:20260502
+DTEND:20260503
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:Aqua Race Kids 2026
+DESCRIPTION:O AQUA RACE KIDS é uma prova de Trail Running\,  com vários p
+ ercursos lúdicos envolvendo o meio aquático para crianças com idades com
+ preendidas entre os 6 e os 12 anos. Trata-se de um evento que visa a dar a 
+ conhecer aos mais novos o desporto que é o Trail\,  introduzido[..]\nhttps
+ ://www.portugalrunning.com/eventos/aqua-race-kids-2026/
+URL:https://www.portugalrunning.com/eventos/aqua-race-kids-2026/
+END:VEVENT
+END:VCALENDAR

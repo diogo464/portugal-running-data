@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69224eab9089e
+DTSTAMP:20251123T000043Z
+DTSTART:20260502
+DTEND:20260503
+LOCATION:Barrosas\,  Faro Barrosas\,  Faro
+SUMMARY:Caminhada Trail dos Budas 2026
+DESCRIPTION:O Trail / Caminhada dos BUDAS é um evento sem o espírito de c
+ ompetição\,  sem tempos e nem classificações é organizado por várias 
+ entidades: O Grupo de Caminhadas Algarvio “Escalfadinhos Marafados”\,  
+ Associação Recreativa das Barrosas\,  Sport Club Benafim\,  Associação 
+ Recreativa Unidos pela Penina e Junta de Freguesia de Benafim\,  Junta[..]\
+ nhttps://www.portugalrunning.com/eventos/caminhada-trail-dos-budas-2026/
+URL:https://www.portugalrunning.com/eventos/caminhada-trail-dos-budas-2026/
+END:VEVENT
+END:VCALENDAR

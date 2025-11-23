@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69224eaa916ce
+DTSTAMP:20251123T000042Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Amesterdão\,  Países Baixos Amesterdão\,  Países Baixos
+SUMMARY:Meia Maratona de Amesterdão 2026
+DESCRIPTION:A Meia Maratona de Amesterdão 2026 faz parte do evento TCS Ams
+ terdam Marathon\,  que ocorrerá nos dias 17 e 18 de outubro de 2026. O per
+ curso da meia maratona é relativamente plano\,  com um traçado que passa 
+ por locais emblemáticos como o Vondelpark e a margem do rio Amstel\,  prop
+ orcionando[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-am
+ esterdao-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-amesterdao-2026/
+END:VEVENT
+END:VCALENDAR
