@@ -2,7 +2,56 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-11-22T19:30:19+00:00</lastmod>
+		<lastmod>2025-11-23T20:58:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-gondomar-2025/</loc>
+		<lastmod>2025-11-23T20:58:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/Sao-Silvestre-2025-Header-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-real-da-tapada-da-mafra-2026/</loc>
+		<lastmod>2025-11-23T18:45:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/pop_407f84j922.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-nova-de-tazem-2025/</loc>
+		<lastmod>2025-11-23T18:40:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/SSILVESTRE_VNT_25_Cartaz.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-porta-do-giao-2026/</loc>
+		<lastmod>2025-11-23T18:36:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/38bc.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-rota-do-castro-2025-2/</loc>
+		<lastmod>2025-11-23T18:34:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/rotacrasto26_banner.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-off-road-da-barreira-2026/</loc>
+		<lastmod>2025-11-23T18:29:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/pop_s00757z896.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/aqua-race-kids-2026/</loc>
+		<lastmod>2025-11-23T16:31:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/69147293c4f16_AQUARACE_KIDS_net-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-amesterdao-2026/</loc>
@@ -23,13 +72,6 @@
 		<lastmod>2025-11-22T19:15:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/banner-trail-trilhos-sao-martinho-2026-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/aqua-race-kids-2026/</loc>
-		<lastmod>2025-11-22T19:14:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/69147293c4f16_AQUARACE_KIDS_net-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1589,13 +1631,6 @@
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-do-serrote-2026/</loc>
 		<lastmod>2025-10-08T07:07:35+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-gondomar-2025/</loc>
-		<lastmod>2025-10-08T07:05:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/Sao-Silvestre-Gondomar-2025-731x1024-1.webp</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-de-sao-joao-da-vila-2026/</loc>

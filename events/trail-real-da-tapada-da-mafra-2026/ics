@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6923a032bfa94
+DTSTAMP:20251124T000050Z
+DTSTART:20250419T162700Z
+DTEND:20250419T235900Z
+LOCATION:Tapada Nacional de Mafra\,  Mafra Tapada Nacional de Mafra\,  Mafra
+SUMMARY:Trail da Tapada Real de Mafra 2026
+DESCRIPTION:A TRAIL4U e a TAPADA NACIONAL DE MAFRA vão organizar a 19 de A
+ bril de 2026\,  o Trail da Tapada Real em Mafra\,  concelho de Mafra. O Tra
+ il da Tapada Real é uma prova de Trail Running\,  corrida pedestre em natu
+ reza\,  com 3 provas: Trail Longo (TL)\,  Trail Curto (TC)[..]\nhttps://www
+ .portugalrunning.com/eventos/trail-real-da-tapada-da-mafra-2026/
+URL:https://www.portugalrunning.com/eventos/trail-real-da-tapada-da-mafra-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6923a035ab259
+DTSTAMP:20251124T000053Z
+DTSTART:20260215
+DTEND:20260216
+LOCATION:Leiria Leiria
+SUMMARY:Trail Off-Road da Barreira 2026
+DESCRIPTION:O&nbsp;Clube de Atletismo da Barreira&nbsp;organiza no dia&nbsp
+ ;15 de Fevereiro de 2026 o 12º Trail Off-Road da Barreira. O evento é com
+ posto por duas provas competitivas: Trail Sprint 20Km - Percurso com cerca 
+ de +/-20km de dificuldade média. Mini-Trail 12K - Percurso com cerca de +/
+ -12km de dificuldade média baixa.\nhttps://www.portugalrunning.com/eventos
+ /trail-off-road-da-barreira-2026/
+URL:https://www.portugalrunning.com/eventos/trail-off-road-da-barreira-2026/
+END:VEVENT
+END:VCALENDAR
