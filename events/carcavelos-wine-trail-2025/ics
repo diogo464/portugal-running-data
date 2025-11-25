@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6924f1ba2e7f5
+DTSTAMP:20251125T000058Z
+DTSTART:20251207T000000Z
+DTEND:20251207T235900Z
+LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+SUMMARY:Carcavelos Wine Trail 2025
+DESCRIPTION:Depois do sucesso da primeira edição\,  está de volta a corr
+ ida mais saborosa e cheia de paisagens deslumbrantes! Prepare-se para perco
+ rrer trilhos únicos entre vinhas e história\,  celebrando o famoso vinho 
+ de Carcavelos.\nhttps://www.portugalrunning.com/eventos/carcavelos-wine-tra
+ il-2025/
+URL:https://www.portugalrunning.com/eventos/carcavelos-wine-trail-2025/
+END:VEVENT
+END:VCALENDAR
