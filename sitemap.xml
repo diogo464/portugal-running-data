@@ -2,7 +2,35 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-11-24T20:41:50+00:00</lastmod>
+		<lastmod>2025-11-25T20:16:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos-2025/</loc>
+		<lastmod>2025-11-25T20:16:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/04/518169493_1063947019136814_6787955417418762804_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/tracn4-elands-marathon-2026/</loc>
+		<lastmod>2025-11-25T19:52:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/465266433_555504300697913_2746357983749055676_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-cascais-2026/</loc>
+		<lastmod>2025-11-25T08:29:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/577902238_1276477207858259_514240636561524862_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-cascais-2025/</loc>
+		<lastmod>2025-11-25T08:28:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/10/462413915_969956508510332_6420402772304734290_n.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/a-tua-prova-aqui/</loc>
@@ -1941,13 +1969,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos-2025/</loc>
-		<lastmod>2025-10-02T20:04:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/04/518169493_1063947019136814_6787955417418762804_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles-2025/</loc>
 		<lastmod>2025-10-02T19:53:17+00:00</lastmod>
 		<image:image>
@@ -2849,13 +2870,6 @@
 		<lastmod>2025-08-21T08:22:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/pop_l4d6in9899.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-cascais-2026/</loc>
-		<lastmod>2025-08-21T08:17:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/535463757_1206284101544237_2103729516923452727_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -7754,13 +7768,6 @@
 		<lastmod>2025-02-08T14:54:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/02/banner-trail-pombal-sico-2025-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-cascais-2025/</loc>
-		<lastmod>2025-02-08T14:52:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/10/462413915_969956508510332_6420402772304734290_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

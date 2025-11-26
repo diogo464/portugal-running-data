@@ -4,18 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68a7b31f15d91
-DTSTAMP:20250822T000031Z
-DTSTART:20260208
-DTEND:20260209
+UID:6926433e970b4
+DTSTAMP:20251126T000102Z
+DTSTART:20260201
+DTEND:20260202
 LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
 SUMMARY:Meia Maratona Cascais 2026
-DESCRIPTION:A Montepio Meia Maratona de Cascais\, &nbsp;powered by&nbsp;Mon
- tepio Associação Mutualista\,  é um evento organizado pela HMS Sports e 
- realiza-se a 7 e 8 de fevereiro de 2026. Engloba a Meia Maratona (21\, 0975
-  km)\,  a Corrida de 10 Km\,  os 5 Km de Cascais e a Corrida das Crianças.
-  Tem a Baía[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-cas
- cais-2026/
+DESCRIPTION:A Montepio Meia Maratona de Cascais\,  powered by Montepio Asso
+ ciação Mutualista\,  é um evento organizado pela HMS Sports e realiza-se
+  a 31 janeiro e 1 fevereiro de 2026. Engloba a Meia Maratona (21\, 0975 km)
+ \,  a Corrida de 10 Km\,  os 5 Km de Cascais e a Corrida das Crianças. A[.
+ .]\nhttps://www.portugalrunning.com/eventos/meia-maratona-cascais-2026/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-cascais-2026/
 END:VEVENT
 END:VCALENDAR
