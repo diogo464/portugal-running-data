@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:692a37ad78de8
+DTSTAMP:20251129T000045Z
+DTSTART:20260419
+DTEND:20260420
+LOCATION:Alenquer\,  Lisboa Alenquer\,  Lisboa
+SUMMARY:Spt Trail Serra Galega 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/spt-trail-serra-galeg
+ a-2026/
+URL:https://www.portugalrunning.com/eventos/spt-trail-serra-galega-2026/
+END:VEVENT
+END:VCALENDAR

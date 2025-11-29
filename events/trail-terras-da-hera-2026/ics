@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:692a37ae71de4
+DTSTAMP:20251129T000046Z
+DTSTART:20260315
+DTEND:20260316
+LOCATION:Ereira\,  Cartaxo Ereira\,  Cartaxo
+SUMMARY:Trail Terras da Hera 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-terras-da-hera-
+ 2026/
+URL:https://www.portugalrunning.com/eventos/trail-terras-da-hera-2026/
+END:VEVENT
+END:VCALENDAR
