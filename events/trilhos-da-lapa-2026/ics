@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6930cf36cc3a5
+DTSTAMP:20251204T000054Z
+DTSTART:20260322
+DTEND:20260323
+LOCATION:Mendiga\,  Porto de Mós Mendiga\,  Porto de Mós
+SUMMARY:Trilhos da Lapa 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-da-lapa-2026/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-lapa-2026/
+END:VEVENT
+END:VCALENDAR

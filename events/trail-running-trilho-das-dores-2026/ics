@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6930cf3698960
+DTSTAMP:20251204T000054Z
+DTSTART:20260329
+DTEND:20260330
+LOCATION:Abitureiras\,  Santarém Abitureiras\,  Santarém
+SUMMARY:Trail Running Trilho das Dores 2026
+DESCRIPTION:Trail Running Trilho das Dores 2026\nhttps://www.portugalrunnin
+ g.com/eventos/trail-running-trilho-das-dores-2026/
+URL:https://www.portugalrunning.com/eventos/trail-running-trilho-das-dores-2026/
+END:VEVENT
+END:VCALENDAR

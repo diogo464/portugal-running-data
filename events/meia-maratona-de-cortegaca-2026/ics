@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6930cf32de121
+DTSTAMP:20251204T000050Z
+DTSTART:20260510
+DTEND:20260511
+LOCATION:Praia De Cortegaça\,  Aveiro Praia De Cortegaça\,  Aveiro
+SUMMARY:Meia Maratona de Cortegaça 2026
+DESCRIPTION:A Meia-Maratona de Cortegaça liga as praias de Cortegaça e do
+  Furadouro. Esta é uma das provas mais emblemáticas do calendário do atl
+ etismo de estrada e corre-se num percurso praticamente plano\,  ladeado de 
+ paisagens naturais únicas.\nhttps://www.portugalrunning.com/eventos/meia-m
+ aratona-de-cortegaca-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-cortegaca-2026/
+END:VEVENT
+END:VCALENDAR

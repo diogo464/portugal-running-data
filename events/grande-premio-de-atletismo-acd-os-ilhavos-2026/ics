@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6930cf3505b45
+DTSTAMP:20251204T000053Z
+DTSTART:20260125
+DTEND:20260126
+LOCATION:Ílhavo\,  Aveiro Ílhavo\,  Aveiro
+SUMMARY:Grande Prémio de Atletismo ACD Os Ilhavos 2026
+DESCRIPTION:A Associação Cultural e Desportiva "Os Ílhavos" organiza uma
+  das mais clássicas provas de estrada da região de Aveiro em parceria com
+  o Município de Ílhavo.\nhttps://www.portugalrunning.com/eventos/grande-p
+ remio-de-atletismo-acd-os-ilhavos-2026/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-acd-os-ilhavos-2026/
+END:VEVENT
+END:VCALENDAR

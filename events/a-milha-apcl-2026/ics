@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6930cf321fb49
+DTSTAMP:20251204T000050Z
+DTSTART:20260111T185600Z
+DTEND:20260111T235900Z
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:A Milha APCL 2026
+DESCRIPTION:A APCL (Associação de Paralisia Cerebral de Lisboa) e CJAP (C
+ entro José Azeredo de Perdigão)\,  Odivelas\,  em parceria com a Câmara 
+ Municipal de Odivelas\,  organiza a prova de atletismo “2ª Corrida Soli
+ dária: A Milha APCL"\,  no dia 11 de janeiro de 2026\,  entre as 9h30 e a
+ s 12h30\,  integrada no 14º aniversário[..]\nhttps://www.portugalrunning.
+ com/eventos/a-milha-apcl-2026/
+URL:https://www.portugalrunning.com/eventos/a-milha-apcl-2026/
+END:VEVENT
+END:VCALENDAR

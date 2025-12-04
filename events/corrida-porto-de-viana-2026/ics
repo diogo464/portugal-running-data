@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6930cf33afbee
+DTSTAMP:20251204T000051Z
+DTSTART:20260613
+DTEND:20260614
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Corrida Porto de Viana 2026
+DESCRIPTION:A APDL – Administração dos Portos do Douro\,  Leixões e Vi
+ ana do Castelo\,  da Eventsport e do Centro de Cultura e Desporto da APDL\,
+   organizam a 4ª edição da Corrida Porto de Viana\,  com a finalidade de
+  estimular a prática desportiva como elemento da promoção da saúde e da
+  qualidade[..]\nhttps://www.portugalrunning.com/eventos/corrida-porto-de-vi
+ ana-2026/
+URL:https://www.portugalrunning.com/eventos/corrida-porto-de-viana-2026/
+END:VEVENT
+END:VCALENDAR
