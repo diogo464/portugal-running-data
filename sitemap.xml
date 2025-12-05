@@ -2,20 +2,87 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-12-03T06:16:35+00:00</lastmod>
+		<lastmod>2025-12-04T14:24:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/a-tua-prova-aqui/</loc>
+		<lastmod>2025-12-04T14:24:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/destaque.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/galhofa-trail-2026/</loc>
+		<lastmod>2025-12-04T14:15:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/589878278_122093796933150316_1011875549024781248_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-running-almourol-a-vista-2026/</loc>
+		<lastmod>2025-12-04T13:51:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/pop_79i6737923-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/a-ultima-corrida-do-ano-2025/</loc>
+		<lastmod>2025-12-04T07:37:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/Popn6xg2j2337-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/gpa-de-grandola-circuito-jose-afonso-2026/</loc>
+		<lastmod>2025-12-04T07:34:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/GRANDOLA-013-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/betclic-challenge-up-2025-monsanto/</loc>
+		<lastmod>2025-12-04T07:33:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/BETCLIC-CHALLENGE-UP-MONSANTO-03-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-da-lapa-2026/</loc>
+		<lastmod>2025-12-04T07:30:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/pop_i9oc241899-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-running-trilho-dos-dinossauros-2026/</loc>
+		<lastmod>2025-12-04T07:29:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/pop_57f9xac927.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-sao-silvestre-dos-madeiros-2025/</loc>
+		<lastmod>2025-12-04T07:26:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/MADEIROS2025-Cartaz.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/gp-atletismo-nossa-senhora-da-conceicao-2025/</loc>
-		<lastmod>2025-12-03T06:16:35+00:00</lastmod>
+		<lastmod>2025-12-04T07:24:35+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/GP-Conceicao-25-Cartaz.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trilhos-da-lapa-2026/</loc>
-		<lastmod>2025-12-03T06:12:29+00:00</lastmod>
+		<loc>https://www.portugalrunning.com/eventos/trail-das-amendoeiras-2026/</loc>
+		<lastmod>2025-12-04T07:23:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/cesar-trail-2026/</loc>
+		<lastmod>2025-12-04T07:22:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/pop_i9oc241899-1.jpg</image:loc>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/banner-cesar-trail-2026-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -51,13 +118,6 @@
 		<lastmod>2025-12-03T05:54:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/pop_76s0985926.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/galhofa-trail-2026/</loc>
-		<lastmod>2025-12-03T05:52:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/galhofa_trail26_banner.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -173,13 +233,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-running-almourol-a-vista-2026/</loc>
-		<lastmod>2025-11-28T18:57:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/pop_79i6737923-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-terras-da-hera-2026/</loc>
 		<lastmod>2025-11-28T18:55:03+00:00</lastmod>
 		<image:image>
@@ -272,13 +325,6 @@
 		<lastmod>2025-11-25T08:28:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/10/462413915_969956508510332_6420402772304734290_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/a-tua-prova-aqui/</loc>
-		<lastmod>2025-11-24T20:41:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/unnamed-4.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

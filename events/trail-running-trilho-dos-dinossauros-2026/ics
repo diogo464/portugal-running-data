@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693220c022ae4
+DTSTAMP:20251205T000104Z
+DTSTART:20260222
+DTEND:20260223
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:Trail Running Trilho dos Dinossauros 2026
+DESCRIPTION:A 8ª edição do Trilho dos Dinossauros será realizado no dia
+  22 de Fevereiro de 2026\,  com partida e chegada na Praia da Areia Branca 
+ / Foz coordenadas 39°15'51.90"N 9°20'04.68"W\,  com início previsto para
+  as 09H00 para as provas principais.Trata-se de um evento misto com três d
+ istâncias de trail e[..]\nhttps://www.portugalrunning.com/eventos/trail-ru
+ nning-trilho-dos-dinossauros-2026/
+URL:https://www.portugalrunning.com/eventos/trail-running-trilho-dos-dinossauros-2026/
+END:VEVENT
+END:VCALENDAR

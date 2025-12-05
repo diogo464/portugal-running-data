@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693220bcc0f67
+DTSTAMP:20251205T000100Z
+DTSTART:20251220
+DTEND:20251221
+LOCATION:Castelo Branco Castelo Branco
+SUMMARY:Corrida São Silvestre dos Madeiros 2025
+DESCRIPTION:A 11ª Corrida S. Silvestre dos Madeiros é uma organização d
+ a Associação Cultural Recreativa e Desportiva do Bairro do Cansado\,  com
+  o apoio da equipa ABCansadoTrail e incluirá a passagem por 3 madeiros (ma
+ deiro do Cansado\,  madeiro da Sé e madeiro do Espírito Santo).\nhttps://
+ www.portugalrunning.com/eventos/corrida-sao-silvestre-dos-madeiros-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-silvestre-dos-madeiros-2025/
+END:VEVENT
+END:VCALENDAR
