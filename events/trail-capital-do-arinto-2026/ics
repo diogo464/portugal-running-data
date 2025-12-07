@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6934c3bc93def
+DTSTAMP:20251207T000100Z
+DTSTART:20260412T060200Z
+DTEND:20260412T235900Z
+LOCATION:Bucelas\,  Loures Bucelas\,  Loures
+SUMMARY:Trail Capital do Arinto 2026
+DESCRIPTION:O Trail Capital do Arinto é um evento desportivo de caráter l
+ údico e competitivo que tem por objetivo divulgar e promover não só a pr
+ ática desportiva\,  em especial na modalidade de trail running\,  mas tamb
+ ém as localidades onde decorre o evento. É um evento organizado pela Asso
+ ciação Desportiva Trilhos do[..]\nhttps://www.portugalrunning.com/eventos
+ /trail-capital-do-arinto-2026/
+URL:https://www.portugalrunning.com/eventos/trail-capital-do-arinto-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6934c3ba7365b
+DTSTAMP:20251207T000058Z
+DTSTART:20260110
+DTEND:20260111
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Grande Corrida da Água 2026
+DESCRIPTION:A Associação de Atletismo do Algarve e a Câmara Municipal de
+  Faro\,  com o apoio da FAGAR\,  vão realizar na Cidade de Faro\,  o 54º 
+ Grande Prémio dos Reis integrando o Campeonato Regional de Estrada\,  no d
+ ia 10 de janeiro de 2026 (Sábado)\,  decorrendo também a 9ª Edição da 
+ Grande[..]\nhttps://www.portugalrunning.com/eventos/grande-corrida-da-agua-
+ 2026/
+URL:https://www.portugalrunning.com/eventos/grande-corrida-da-agua-2026/
+END:VEVENT
+END:VCALENDAR
