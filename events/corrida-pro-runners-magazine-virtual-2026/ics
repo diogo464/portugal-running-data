@@ -4,14 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69151fdec4210
-DTSTAMP:20251113T000134Z
+UID:693766da063b6
+DTSTAMP:20251209T000130Z
 DTSTART:20260101
 DTEND:20260102
 LOCATION:Portugal Portugal
 SUMMARY:Corrida Pro Runners Magazine (Virtual) 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-pro-runners-m
- agazine-virtual-2026/
+DESCRIPTION:As corridas virtuais são eventos não competitivos\,  organiza
+ dos pela plataforma acorrer.pt\,  com oobjetivo de promover a atividade fí
+ sica\,  a ligação entre participantes e a partilha no seio da suacomunida
+ de de atletas.\nhttps://www.portugalrunning.com/eventos/corrida-pro-runners
+ -magazine-virtual-2026/
 URL:https://www.portugalrunning.com/eventos/corrida-pro-runners-magazine-virtual-2026/
 END:VEVENT
 END:VCALENDAR

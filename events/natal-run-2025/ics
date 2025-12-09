@@ -4,13 +4,14 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6930cf347bf62
-DTSTAMP:20251204T000052Z
+UID:693766dac1fa2
+DTSTAMP:20251209T000130Z
 DTSTART:20251221T054200Z
-DTEND:20251221T054200Z
+DTEND:20251221T235900Z
 LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
 SUMMARY:Natal Run 2025
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/natal-run-2025/
+DESCRIPTION:Partida: Jardim Municipal Inserido no evento "Natal Rio Maior 2
+ 025"\nhttps://www.portugalrunning.com/eventos/natal-run-2025/
 URL:https://www.portugalrunning.com/eventos/natal-run-2025/
 END:VEVENT
 END:VCALENDAR

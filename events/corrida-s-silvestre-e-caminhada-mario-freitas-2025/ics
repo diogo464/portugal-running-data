@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693766db65f2b
+DTSTAMP:20251209T000131Z
+DTSTART:20251227T053900Z
+DTEND:20251227T235900Z
+LOCATION:Portimão\,  Faro Portimão\,  Faro
+SUMMARY:Corrida São Silvestre e Caminhada Mário Freitas 2025
+DESCRIPTION:A Corrida São Silvestre e Caminhada Mário de Freitas será or
+ ganizada pela Secção Desportiva dos Bombeiros de Portimão. A prova será
+  realizada no dia 27 de dezembro de 2025 na Cidade de Portimão com início
+  pelas 20h00.\nhttps://www.portugalrunning.com/eventos/corrida-s-silvestre-
+ e-caminhada-mario-freitas-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-s-silvestre-e-caminhada-mario-freitas-2025/
+END:VEVENT
+END:VCALENDAR

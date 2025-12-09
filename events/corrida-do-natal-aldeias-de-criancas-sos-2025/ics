@@ -4,14 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69224ea8c9e51
-DTSTAMP:20251123T000040Z
+UID:693766d9b3182
+DTSTAMP:20251209T000129Z
 DTSTART:20251225
 DTEND:20251226
 LOCATION:Portugal Portugal
 SUMMARY:Corrida do Natal - Aldeias de Crianças SOS 2025
-DESCRIPTION:Corrida do Natal - Aldeias de Crianças SOS 2025\nhttps://www.p
- ortugalrunning.com/eventos/corrida-do-natal-aldeias-de-criancas-sos-2025/
+DESCRIPTION:As corridas virtuais são eventos não competitivos\,  organiza
+ dos pela plataforma acorrer.pt\,  com oobjetivo de promover a atividade fí
+ sica\,  a ligação entre participantes e a partilha no seio da suacomunida
+ de de atletas.\nhttps://www.portugalrunning.com/eventos/corrida-do-natal-al
+ deias-de-criancas-sos-2025/
 URL:https://www.portugalrunning.com/eventos/corrida-do-natal-aldeias-de-criancas-sos-2025/
 END:VEVENT
 END:VCALENDAR

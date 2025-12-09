@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693766ddb4ab6
+DTSTAMP:20251209T000133Z
+DTSTART:20251227T163600Z
+DTEND:20251227T235900Z
+LOCATION:Loriga\,  Seia Loriga\,  Seia
+SUMMARY:São Silvestre da Loriga 2025
+DESCRIPTION:A 37ª Corrida de S. Silvestre da Vila de Loriga\,  realiza-se 
+ no dia 27 de dezembro de 2025.\nhttps://www.portugalrunning.com/eventos/sao
+ -silvestre-da-loriga-2025-2/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-loriga-2025-2/
+END:VEVENT
+END:VCALENDAR
