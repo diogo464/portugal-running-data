@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693a09df1a22a
+DTSTAMP:20251211T000135Z
+DTSTART:20260222
+DTEND:20260223
+LOCATION:Silgueiros\,  Viseu Silgueiros\,  Viseu
+SUMMARY:Silgueiros Trail 2026
+DESCRIPTION:A Organização do II Silgueiros Trail\,  é uma organização 
+ da equipe Silgueiros Runners\,  com acoorganização da Associação Passil
+ gueirense\,  e da Junta de Freguesia de Silgueiros.Colaboram ainda\,  a Câ
+ mara Municipal de Viseu\,  a Escola EB D. Luís do Loureiro e as Associaç�
+ �esde Silgueiros. 2026\,  contará com a partida e chegada em[..]\nhttps://
+ www.portugalrunning.com/eventos/silgueiros-trail/
+URL:https://www.portugalrunning.com/eventos/silgueiros-trail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693a09ddefb93
+DTSTAMP:20251211T000133Z
+DTSTART:20260110
+DTEND:20260111
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Grande Prémio dos Reis - Matosinhos 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-dos-rei
+ s-matosinhos/
+URL:https://www.portugalrunning.com/eventos/grande-premio-dos-reis-matosinhos/
+END:VEVENT
+END:VCALENDAR

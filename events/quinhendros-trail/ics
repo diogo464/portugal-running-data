@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693a09de52184
+DTSTAMP:20251211T000134Z
+DTSTART:20260322
+DTEND:20260323
+LOCATION:Quinhendros\,  Montemor-o-Velho Quinhendros\,  Montemor-o-Velho
+SUMMARY:Quinhendros Trail 2026
+DESCRIPTION:Organizado pela&nbsp;ACDRS QUINHENDROS\,  o&nbsp;QUINHENDROS TR
+ AIL 2026&nbsp;pretende afirmar-se como uma prova de referência no&nbsp;Cir
+ cuito Distrital de Trail Running de Coimbra&nbsp;a realizar-se em&nbsp;22 d
+ e março de 2026. Inclui o&nbsp;MINI TRAIL 12K\, &nbsp;TRAIL CURTO 16K&nbsp
+ ;(Circuito ADAC) e a&nbsp;CAMINHADA 10K\,  permitindo percorrer zonas emble
+ máticas de Quinhendros e Montemor-o-Velho.\nhttps://www.portugalrunning.co
+ m/eventos/quinhendros-trail/
+URL:https://www.portugalrunning.com/eventos/quinhendros-trail/
+END:VEVENT
+END:VCALENDAR

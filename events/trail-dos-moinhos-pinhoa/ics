@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693a09df3de71
+DTSTAMP:20251211T000135Z
+DTSTART:20260419
+DTEND:20260420
+LOCATION:Pinhôa\,  Lourinhã Pinhôa\,  Lourinhã
+SUMMARY:Trail dos Moinhos - Pinhôa 2026
+DESCRIPTION:Trail dos Moinhos - Pinhôa 2026\nhttps://www.portugalrunning.c
+ om/eventos/trail-dos-moinhos-pinhoa/
+URL:https://www.portugalrunning.com/eventos/trail-dos-moinhos-pinhoa/
+END:VEVENT
+END:VCALENDAR
