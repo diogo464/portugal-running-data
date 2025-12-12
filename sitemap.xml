@@ -2,7 +2,97 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-12-10T23:30:57+00:00</lastmod>
+		<lastmod>2025-12-11T11:39:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-budapeste/</loc>
+		<lastmod>2025-12-11T11:39:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/SPAR-MARATON-2.-3-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-barreiro/</loc>
+		<lastmod>2025-12-11T07:49:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/cartazfinal_ss_barreiro_2025-1.600x850.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-do-sol-da-meia-noite-2026/</loc>
+		<lastmod>2025-12-11T07:45:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/12/arrangementmsm.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-murcia-2026-copy/</loc>
+		<lastmod>2025-12-11T07:44:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/494753106_1224496726350063_1701478593268774712_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa-2026/</loc>
+		<lastmod>2025-12-11T07:42:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/EDP-Meia-Maratona-Lisboa-2026-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-budapeste/</loc>
+		<lastmod>2025-12-11T06:48:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/565695577_1266305545542031_3407271038771417793_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/piodao-trail/</loc>
+		<lastmod>2025-12-11T06:37:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/cartaz_final2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-piodao-2025/</loc>
+		<lastmod>2025-12-11T06:35:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/07/cartaz_2025.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/lap50-ultra-trail-by-rotary-famalicao/</loc>
+		<lastmod>2025-12-11T06:34:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/2f7d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/</loc>
+		<lastmod>2025-12-11T06:31:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/500308721_1092987182863529_8974878735482405954_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/Percurso-10k-Lisboa-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles-2025/</loc>
+		<lastmod>2025-12-11T06:25:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Percurso-10k.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-valencia/</loc>
+		<lastmod>2025-12-11T06:19:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/469233983_1018549400313535_1606145931305039633_n.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-fim-da-europa/</loc>
@@ -23,13 +113,6 @@
 		<lastmod>2025-12-10T23:28:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/pop_lt1y008929.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/lap50-ultra-trail-by-rotary-famalicao/</loc>
-		<lastmod>2025-12-10T23:26:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/2f7d.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -465,13 +548,6 @@
 		<lastmod>2025-11-28T18:09:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/46e07f56-44ac-4142-8882-d87a775330b0-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles-2025/</loc>
-		<lastmod>2025-11-28T18:07:55+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -931,13 +1007,6 @@
 		<lastmod>2025-11-09T00:47:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/486643211_29106493365631370_2358731217252970512_n-1-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-do-sol-da-meia-noite-2026/</loc>
-		<lastmod>2025-11-09T00:38:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/12/arrangementmsm.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2156,13 +2225,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa-2026/</loc>
-		<lastmod>2025-10-05T08:09:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/EDP-Meia-Maratona-Lisboa-2026-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-de-chicago-2026/</loc>
 		<lastmod>2025-10-05T07:34:22+00:00</lastmod>
 		<image:image>
@@ -2475,13 +2537,6 @@
 		<lastmod>2025-10-01T05:51:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/banner-furnas-night-trail-2026-min-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa-2025/</loc>
-		<lastmod>2025-10-01T05:46:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/500308721_1092987182863529_8974878735482405954_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4316,13 +4371,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-barreiro-2025/</loc>
-		<lastmod>2025-07-06T19:44:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/cartazfinal_ss_barreiro_2025-1.600x850.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/backyard-ultra-benquerencas-2025/</loc>
 		<lastmod>2025-07-06T19:42:41+00:00</lastmod>
 		<image:image>
@@ -5543,13 +5591,6 @@
 		<lastmod>2025-05-04T17:20:49+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/cartaz134184_grande.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-piodao-2026/</loc>
-		<lastmod>2025-05-04T17:18:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/cartaz_final2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -7562,13 +7603,6 @@
 		<lastmod>2025-02-16T18:03:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/02/Caramulo-Magic-Trail-2025-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-piodao-2025/</loc>
-		<lastmod>2025-02-16T17:51:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/07/cartaz_2025.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

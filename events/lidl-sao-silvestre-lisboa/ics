@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693b5b3cd0899
+DTSTAMP:20251212T000100Z
+DTSTART:20251227
+DTEND:20251228
+LOCATION:Lisboa Lisboa
+SUMMARY:Lidl São Silvestre Lisboa 2025
+DESCRIPTION:A 27 de dezembro de 2025\, &nbsp;corremos ao ritmo da Capital. 
+ A Lidl São Silvestre de Lisboa volta a dar um brilho ainda mais especial �
+ �s ruas de Lisboa. Corrida 10 Km - Percurso Partida&nbsp;na Av. da Liberdad
+ e - Praça dos Restauradores – Praça D. Pedro IV (Rossio) – Rua do[..]
+ \nhttps://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/
+URL:https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/
+END:VEVENT
+END:VCALENDAR

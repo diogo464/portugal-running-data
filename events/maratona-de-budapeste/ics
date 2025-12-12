@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693b5b3c57347
+DTSTAMP:20251212T000100Z
+DTSTART:20261011T064100Z
+DTEND:20261011T235900Z
+LOCATION:Budapeste\,  Hungria Budapeste\,  Hungria
+SUMMARY:Maratona de Budapeste 2026
+DESCRIPTION:A Maratona de Budapeste de 2026 está prevista para o fim de se
+ mana de 10 e 11 de Outubro\,  com a prova rainha a realizar-se no domingo\,
+   dia 11. Este evento é conhecido por ser um verdadeiro festival de corrid
+ a que aproveita o agradável "Verão índio" húngaro\,  oferecendo tempera
+ turas ideais[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-budap
+ este/
+URL:https://www.portugalrunning.com/eventos/maratona-de-budapeste/
+END:VEVENT
+END:VCALENDAR

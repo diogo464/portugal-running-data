@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693b5b3fbd399
+DTSTAMP:20251212T000103Z
+DTSTART:20260906T064100Z
+DTEND:20260906T064100Z
+LOCATION:Budapeste\,  Hungria Budapeste\,  Hungria
+SUMMARY:Meia Maratona de Budapeste 2026
+DESCRIPTION:A Wizz Air Meia Maratona de Budapeste não é apenas uma corrid
+ a de 21\, 097 km; é uma experiência de sightseeing que transforma a capit
+ al húngara numa pista de atletismo vibrante\,  oferecendo um dos percursos
+  mais belos e rápidos da Europa Central. O percurso é notoriamente plano 
+ e rápido\,  ideal para[..]\nhttps://www.portugalrunning.com/eventos/meia-m
+ aratona-de-budapeste/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-budapeste/
+END:VEVENT
+END:VCALENDAR
