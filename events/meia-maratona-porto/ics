@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693dfe3475b72
+DTSTAMP:20251214T000052Z
+DTSTART:20260913
+DTEND:20260914
+LOCATION:Porto Porto
+SUMMARY:Meia Maratona Porto 2026
+DESCRIPTION:Resultados 2025 A Hyundai Meia Maratona do Porto regressa a 13 
+ de setembro de 2026\,  reafirmando-se como uma das provas mais rápidas e c
+ énicas do calendário nacional. Com partida e chegada na Av. de Dom Carlos
+  I\,  junto ao Passeio Alegre\,  o percurso plano de 21 km desenrola-se qua
+ se inteiramente[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-
+ porto/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-porto/
+END:VEVENT
+END:VCALENDAR

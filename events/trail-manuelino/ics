@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693dfe36a7ded
+DTSTAMP:20251214T000054Z
+DTSTART:20260201
+DTEND:20260202
+LOCATION:Abiul\,  Pombal Abiul\,  Pombal
+SUMMARY:Trail Manuelino 2026
+DESCRIPTION:O&nbsp;Trail Manuelino 2026&nbsp;é um evento desportivo que in
+ tegra&nbsp;3 provas competitivas de Trail e uma caminhada\,  organizado pel
+ a&nbsp;Associação SicóTrilhos\,  conta com a colaboração do Município
+  de Pombal\,  da Junta de Freguesia de Abiul\,  entre outros patrocinadores
+  e apoiantes. A 5ª edição realizar-se-á nos dias 31 de janeiro e 1 d
+ e fevereiro de 2026\,  em[..]\nhttps://www.portugalrunning.com/eventos/trai
+ l-manuelino/
+URL:https://www.portugalrunning.com/eventos/trail-manuelino/
+END:VEVENT
+END:VCALENDAR

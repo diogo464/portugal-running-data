@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693dfe372b82a
+DTSTAMP:20251214T000055Z
+DTSTART:20260125
+DTEND:20260126
+LOCATION:Rio de Loba\,  Viseu Rio de Loba\,  Viseu
+SUMMARY:Trail da Loba 2026
+DESCRIPTION:O 8º Trail da Loba será realizado no dia 25/01/2026 em Rio de
+  Loba – Viseu. Este evento é organizado pela Junta de Freguesia de Rio d
+ e Loba\,  em parceria com o Centro Social Cultural Recreativo e Desportivo 
+ Leões da Beira e tem como objetivo promover a práticada atividade física
+ \, [..]\nhttps://www.portugalrunning.com/eventos/trail-da-loba/
+URL:https://www.portugalrunning.com/eventos/trail-da-loba/
+END:VEVENT
+END:VCALENDAR
