@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:693f4fca36b34
+DTSTAMP:20251215T000114Z
+DTSTART:20201011
+DTEND:20201012
+LOCATION:Lisboa Lisboa
+SUMMARY:Maratona de Lisboa
+DESCRIPTION:A EDP Maratona de Lisboa oferece-lhe a oportunidade de percorre
+ r a estrada costeira de Cascais\,  Oeiras\,  Estoril\,  oferecendo-lhe uma 
+ das vistas mais pitorescas e belas. Não perca esta oportunidade\nhttps://w
+ ww.portugalrunning.com/eventos/maratona-de-lisboa-2020/
+URL:https://www.portugalrunning.com/eventos/maratona-de-lisboa-2020/
+END:VEVENT
+END:VCALENDAR
