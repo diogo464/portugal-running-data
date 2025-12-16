@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6940a142d48a0
+DTSTAMP:20251216T000106Z
+DTSTART:20260110
+DTEND:20260111
+LOCATION:Setúbal Setúbal
+SUMMARY:São Silvestre Sado 2026
+DESCRIPTION:A São Silvestre do Sado\,  em Setúbal\,  volta a sair para a 
+ rua\,  nos primeiros dias do ano de 2026. Na sua 27ª edição\,  a prova t
+ erá a distância de 10 Km irá iniciar-se-á às 18 horas\,  com partida e
+  chegada em Praias do Sado. Venha participar e aventurar-se por[..]\nhttps:
+ //www.portugalrunning.com/eventos/sao-silvestre-sado/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-sado/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6940a1444df64
+DTSTAMP:20251216T000108Z
+DTSTART:20251227T145200Z
+DTEND:20251227T235900Z
+LOCATION:Vieira do Minho\,  Braga Vieira do Minho\,  Braga
+SUMMARY:São Silvestre Vieira do Minho 2026
+DESCRIPTION:A São Silvestre é uma organização da Câmara Municipal de V
+ ieira do Minho.Uma das mais míticas provas de fim de ano\,  onde o desport
+ o se alia ao convívio e lazer. Com partida e chegada na Praça Dr. Guilher
+ me de Abreu\,  frente à Câmara Municipal de Vieira do Minho\,  a prova[..
+ ]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-vieira-do-minho/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vieira-do-minho/
+END:VEVENT
+END:VCALENDAR
