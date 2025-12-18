@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6943448682497
+DTSTAMP:20251218T000214Z
+DTSTART:20260605
+DTEND:20260606
+LOCATION:Ourém\,  Santarém Ourém\,  Santarém
+SUMMARY:Ultra Caminhos do Tejo 2026
+DESCRIPTION:A Associação Desportiva O Mundo da Corrida.com\,  com o Apoio
+  da Câmara Municipal de Ourém\,  realiza nos dias 5 e 6 de junho de 2026 
+ a  "XIX Ultra Maratona Caminhos do Tejo"\,  com  uma distância de 144 km
+  e uma de 58 km.  A partida da "XIX Ultra Maratona Caminhos[..]\nhttps://w
+ ww.portugalrunning.com/eventos/ultra-caminhos-do-tejo/
+URL:https://www.portugalrunning.com/eventos/ultra-caminhos-do-tejo/
+END:VEVENT
+END:VCALENDAR

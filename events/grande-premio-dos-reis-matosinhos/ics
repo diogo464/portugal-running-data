@@ -4,14 +4,16 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:693a09ddefb93
-DTSTAMP:20251211T000133Z
+UID:69434480cf780
+DTSTAMP:20251218T000208Z
 DTSTART:20260110
 DTEND:20260111
 LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
 SUMMARY:Grande Prémio dos Reis - Matosinhos 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-dos-rei
- s-matosinhos/
+DESCRIPTION:Prova de estrada\,  incluída no Plano de Atividades dos Grupos
+ /Equipa (G/E) de Atletismo e Desporto Adaptado da CLDE – Porto numa coorg
+ anização com a ANDDI e APPACDM – Matosinhos e Câmara de Matosinhos.\nh
+ ttps://www.portugalrunning.com/eventos/grande-premio-dos-reis-matosinhos/
 URL:https://www.portugalrunning.com/eventos/grande-premio-dos-reis-matosinhos/
 END:VEVENT
 END:VCALENDAR

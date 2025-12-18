@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694344839e551
+DTSTAMP:20251218T000211Z
+DTSTART:20251228T044700Z
+DTEND:20251228T044700Z
+LOCATION:Vila Nova de Paiva\,  Viseu Vila Nova de Paiva\,  Viseu
+SUMMARY:Caminhada\, Trail solidario Amigos do Pelo 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/caminhadatrail-solida
+ rio-amigos-do-pelo-2026/
+URL:https://www.portugalrunning.com/eventos/caminhadatrail-solidario-amigos-do-pelo-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6943448726932
+DTSTAMP:20251218T000215Z
+DTSTART:20260208
+DTEND:20260209
+LOCATION:Alvados\,  Porto de Mós Alvados\,  Porto de Mós\,  Lisboa
+SUMMARY:Trail Castelejo 2026
+DESCRIPTION:A prova é organizada pela&nbsp;Trilho do Castelejo - Associaç
+ ão de Aventura de Alvados. A prova realiza-se no dia&nbsp;08 de Fevereiro 
+ de 2026\,  com início pelas 09H00&nbsp;e término pelas 15H00. O Trail Cas
+ telejo 2026 é constituído por 2 provas (K10\,  K20).\nhttps://www.portuga
+ lrunning.com/eventos/trail-castelejo/
+URL:https://www.portugalrunning.com/eventos/trail-castelejo/
+END:VEVENT
+END:VCALENDAR

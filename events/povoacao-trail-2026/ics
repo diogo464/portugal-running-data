@@ -4,13 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d007ba51
-DTSTAMP:20250720T222608Z
+UID:694344846eb48
+DTSTAMP:20251218T000212Z
 DTSTART:20260315
 DTEND:20260316
 LOCATION:Povoação\,  Açores Povoação\, Açores
 SUMMARY:Povoação Trail 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/povoacao-trail-2026/
+DESCRIPTION:A prova “Povoação Trail” tem como objetivo proporcionar a
+ os atletas novas experiências e sensações em trilhos distintos.Este even
+ to irá decorrer no dia 15 de março de 2026\,  organizado pelo Clube de Pr
+ aticantes de Atletismo HL Runners Club\,  em parceria com o Município da P
+ ovoação\,  e inclui as vertentes de “Trail[..]\nhttps://www.portugalrun
+ ning.com/eventos/povoacao-trail-2026/
 URL:https://www.portugalrunning.com/eventos/povoacao-trail-2026/
 END:VEVENT
 END:VCALENDAR

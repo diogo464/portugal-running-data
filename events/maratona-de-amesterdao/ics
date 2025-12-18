@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6943447f085d0
+DTSTAMP:20251218T000207Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Amesterdão\,  Países Baixos Amesterdão\,  Países Baixos
+SUMMARY:Maratona de Amesterdão 2026
+DESCRIPTION:A Maratona de Amesterdão é conhecida por ser uma das maratona
+ s mais rápidas e planas do mundo\,  ideal para quem procura bater recordes
+  pessoais (PB). O percurso leva os corredores através de cenários icónic
+ os\,  incluindo a passagem pelo famoso Rijksmuseum\,  trechos longos e sere
+ nos ao longo do rio Amstel e[..]\nhttps://www.portugalrunning.com/eventos/m
+ aratona-de-amesterdao/
+URL:https://www.portugalrunning.com/eventos/maratona-de-amesterdao/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6943448845b26
+DTSTAMP:20251218T000216Z
+DTSTART:20260117T144300Z
+DTEND:20260117T235900Z
+LOCATION:A dos Cunhados e Maceira\,  Torres Vedras A dos Cunhados e Maceira\,  Torres Vedras
+SUMMARY:Canicross Espaço Animal 2026
+DESCRIPTION:Esta prova é organizada pela Espaço Animal em parceria com o 
+ CAP – Clube Académico de Penafirme\,  com o Apoio da Câmara Municipal d
+ e Torres Vedras\,  Junta de Freguesia de A-dos-Cunhados\,  Clínica Veterin
+ ária da Vigia\,  Restaurante “O Camelo”\,  Non-Stop Dogwear\,  bem com
+ o de outras entidades e empresas locais. Este evento[..]\nhttps://www.portu
+ galrunning.com/eventos/canicross-espaco-animal/
+URL:https://www.portugalrunning.com/eventos/canicross-espaco-animal/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69434482c9be6
+DTSTAMP:20251218T000210Z
+DTSTART:20260301T165500Z
+DTEND:20260301T235900Z
+LOCATION:Reigoso\,  Oliveira de Frades Reigoso\,  Oliveira de Frades
+SUMMARY:Corrida Solidária Reigoso 2026
+DESCRIPTION:Bombeiros Voluntários de Oliveira de Frades com a colaboraçã
+ o da equipa dos reumáticos vai organizar uma corrida solidária no dia 1 d
+ e março de 2026\,  com corrida de 15km e caminhada de 7km.\nhttps://www.po
+ rtugalrunning.com/eventos/corrida-solidaria-reigoso/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-reigoso/
+END:VEVENT
+END:VCALENDAR

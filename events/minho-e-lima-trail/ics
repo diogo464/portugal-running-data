@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6943448452783
+DTSTAMP:20251218T000212Z
+DTSTART:20260301
+DTEND:20260302
+LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+SUMMARY:Minho e Lima Trail 2026
+DESCRIPTION:A “IX Minho e Lima Trail” é um evento organizado pela Asso
+ ciação Minho e Lima Trail\,  com o apoio e colaboração do Município de
+  Ponte de Lima\,  das Juntas de Freguesia de Arca e Ponte de Lima\,  Fornel
+ os e Queijada\,  Boalhosa\,  Serdedelo\,  Ribeira e Fontão e com o apoio d
+ e[..]\nhttps://www.portugalrunning.com/eventos/minho-e-lima-trail/
+URL:https://www.portugalrunning.com/eventos/minho-e-lima-trail/
+END:VEVENT
+END:VCALENDAR

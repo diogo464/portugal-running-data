@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69434482ca189
+DTSTAMP:20251218T000210Z
+DTSTART:20261011T051100Z
+DTEND:20261011T051100Z
+LOCATION:Atenas\,  Grécia Atenas\,  Grécia
+SUMMARY:Maratona de Atenas 2026
+DESCRIPTION:Na maratona de Atenas o percurso recria o trajeto original do s
+ oldado Fidípides\,  começando na cidade de Maratona e terminando em Atena
+ s. É considerada uma das maratonas de estrada mais difíceis do mundo\,  d
+ evido a uma subida contínua e exigente que se estende sensivelmente do qui
+ lómetro 10 ao 31\,  testando[..]\nhttps://www.portugalrunning.com/eventos/
+ maratona-de-atenas/
+URL:https://www.portugalrunning.com/eventos/maratona-de-atenas/
+END:VEVENT
+END:VCALENDAR
