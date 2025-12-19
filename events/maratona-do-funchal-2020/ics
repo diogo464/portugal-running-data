@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694495bb1ea9e
+DTSTAMP:20251219T000059Z
+DTSTART:20200119
+DTEND:20200120
+LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+SUMMARY:Maratona do Funchal 2020
+DESCRIPTION:RESULTADOS A Meia Maratona do Funchal vai decorrer no dia 19 de
+  Janeiro\,  com a presença esperada de muitos visitantes que vão alegrar 
+ as ruas do Funchal nessa manhã de Domingo. Conta com a distância de Marat
+ ona\,  Meia Maratona e Mini Maratona. A organização está a cabo da Asso
+ ciação de Atletismo[..]\nhttps://www.portugalrunning.com/eventos/maratona
+ -do-funchal-2020/
+URL:https://www.portugalrunning.com/eventos/maratona-do-funchal-2020/
+END:VEVENT
+END:VCALENDAR

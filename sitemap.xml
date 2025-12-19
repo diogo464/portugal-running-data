@@ -2,20 +2,62 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-12-17T05:32:46+00:00</lastmod>
+		<lastmod>2025-12-18T20:03:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-lagoa/</loc>
+		<lastmod>2025-12-18T20:03:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/Pop536yseu342-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/mahfra-nature-trail-2/</loc>
+		<lastmod>2025-12-18T19:57:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/pop_gibo0pp931.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-do-funchal/</loc>
+		<lastmod>2025-12-18T19:55:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/maratona-do-funchal-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-do-funchal-2020/</loc>
+		<lastmod>2025-12-18T19:55:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/57272112_2025661887561938_3596748485757501440_o.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/nelas-trail-running/</loc>
+		<lastmod>2025-12-18T19:52:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/6943df155955e_CARTAZ_NELAS_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/zut-zebra-ultra-trail/</loc>
+		<lastmod>2025-12-18T19:37:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/120251130_215955_ZebraultratrailCartaz2-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/salto-nature-trail/</loc>
+		<lastmod>2025-12-18T07:30:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/Salto-Trail-10-voucher-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/ultra-caminhos-do-tejo/</loc>
 		<lastmod>2025-12-17T05:32:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/cartaz3-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-do-funchal-2/</loc>
-		<lastmod>2025-12-17T05:26:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/maratona-do-funchal-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -156,13 +198,6 @@
 		<lastmod>2025-12-15T20:27:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/banner-ss-sado-2026-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/salto-nature-trail/</loc>
-		<lastmod>2025-12-15T14:05:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/Salto_Nature_Trail_26_Cartaz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1164,13 +1199,6 @@
 		<lastmod>2025-11-11T08:09:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/Cabanao-Trail-26-Cartaz.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/zut-zebra-ultra-trail-2026/</loc>
-		<lastmod>2025-11-11T08:07:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/12025118_125336_ZebraultratrailCartaz.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -31124,13 +31152,6 @@
 		<lastmod>2020-02-20T13:36:42+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2020/02/banner-funchal-marathon-2021-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-do-funchal/</loc>
-		<lastmod>2020-02-20T13:25:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/57272112_2025661887561938_3596748485757501440_o.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

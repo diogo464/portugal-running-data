@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694495ba5cb26
+DTSTAMP:20251219T000058Z
+DTSTART:20241229
+DTEND:20241230
+LOCATION:Lagoa\,  Faro Lagoa\,  Faro
+SUMMARY:São Silvestre de Lagoa 2026
+DESCRIPTION:A corrida São Silvestre de Lagoa\,  prova organizada pela Asso
+ ciação Académica da Bela Vista\,  com sede na Urbanização da Bela Vist
+ a\,  Centro Comercial da Bela Vista\,  Lote P17\,  Loja P\,  8400-656 Lagoa
+ \,  e conta com o apoio da Câmara Municipal de Lagoa\,  e será realizada 
+ no dia 4 de dezembro[..]\nhttps://www.portugalrunning.com/eventos/sao-silve
+ stre-de-lagoa/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-lagoa/
+END:VEVENT
+END:VCALENDAR

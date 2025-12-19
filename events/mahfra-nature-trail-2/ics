@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694495bb8de4c
+DTSTAMP:20251219T000059Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:Mahfra Nature Trail 2026
+DESCRIPTION:A Trail4U irá organizar a 08 de março de 2026 pelas 09h00 hor
+ as o Mahfra Nature Trail\,  em Mafra\,  concelho de Mafra. O Mahfra Nature 
+ Trail é uma prova de Trail Running\,  corrida pedestre em Natureza\,  com 
+ três provas\,  Trail Longo (TL) K24\,  Trail Curto (TC) 13 e Caminhada. Co
+ m[..]\nhttps://www.portugalrunning.com/eventos/mahfra-nature-trail-2/
+URL:https://www.portugalrunning.com/eventos/mahfra-nature-trail-2/
+END:VEVENT
+END:VCALENDAR
