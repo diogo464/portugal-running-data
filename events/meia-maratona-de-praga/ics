@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6945e7316e134
+DTSTAMP:20251220T000049Z
+DTSTART:20260328
+DTEND:20260329
+LOCATION:Praga\,  República Checa Praga\,  República Checa
+SUMMARY:Meia Maratona de Praga 2026
+DESCRIPTION:A Meia Maratona de Praga é uma prova que faz parte do circuito
+  SuperHalfs - onde entram seias das mais importantes meias maratonas da Eur
+ opa.\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-praga/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-praga/
+END:VEVENT
+END:VCALENDAR
