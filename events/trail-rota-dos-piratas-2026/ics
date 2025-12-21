@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694738bc28847
+DTSTAMP:20251221T000100Z
+DTSTART:20260517T015400Z
+DTEND:20260517T015400Z
+LOCATION:Ribamar\,  Lourinhã Ribamar\,  Lourinhã
+SUMMARY:Trail Rota dos Piratas 2026
+DESCRIPTION:Trail Longo 30K | D+ 1500mTrail Curto 17K | D+ 900mMini Trail 1
+ 2K | D+ 600mCaminhada 10K | D+ 400m\nhttps://www.portugalrunning.com/evento
+ s/trail-rota-dos-piratas-2026/
+URL:https://www.portugalrunning.com/eventos/trail-rota-dos-piratas-2026/
+END:VEVENT
+END:VCALENDAR

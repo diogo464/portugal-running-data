@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694738bb9eca5
+DTSTAMP:20251221T000059Z
+DTSTART:20260530T123800Z
+DTEND:20260530T123800Z
+LOCATION:Estocolmo\,  Suécia Estocolmo\,  Suécia
+SUMMARY:Maratona de Estocolmo 2026
+DESCRIPTION:Considerada por muitos uma das maratonas mais bonitas do mundo\
+ ,  a prova de Estocolmo atravessa as várias ilhas que compõem a capital s
+ ueca. O percurso oferece vistas deslumbrantes sobre o mar Báltico e a arqu
+ itetura nórdica\,  culminando numa chegada épica no Estádio Olímpico de
+  1912\,  onde o ambiente histórico transporta[..]\nhttps://www.portugalrun
+ ning.com/eventos/maratona-de-estocolmo/
+URL:https://www.portugalrunning.com/eventos/maratona-de-estocolmo/
+END:VEVENT
+END:VCALENDAR

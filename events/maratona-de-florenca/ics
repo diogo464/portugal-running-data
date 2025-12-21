@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694738bcc6bfb
+DTSTAMP:20251221T000100Z
+DTSTART:20261129T124400Z
+DTEND:20261129T124400Z
+LOCATION:Florença\,  Itália Florença\,  Itália
+SUMMARY:Maratona de Florença 2026
+DESCRIPTION:Florença é\,  essencialmente\,  uma maratona através de um m
+ useu a céu aberto. O percurso serpenteia pelas ruas estreitas e praças re
+ nascentistas da cidade\,  passando pela Piazza del Duomo e atravessando a i
+ cónica Ponte Vecchio. Correr aqui é aliar o desafio físico à contempla�
+ �ão artística\,  num traçado maioritariamente plano e rápido.[..]\nhttp
+ s://www.portugalrunning.com/eventos/maratona-de-florenca/
+URL:https://www.portugalrunning.com/eventos/maratona-de-florenca/
+END:VEVENT
+END:VCALENDAR

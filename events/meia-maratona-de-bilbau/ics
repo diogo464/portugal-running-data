@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694738b9ee755
+DTSTAMP:20251221T000057Z
+DTSTART:20261017T123300Z
+DTEND:20261017T123300Z
+LOCATION:Bilbau\,  Espanha Bilbau\,  Espanha
+SUMMARY:Meia Maratona de Bilbau 2026
+DESCRIPTION:Bilbau oferece uma das experiências mais vibrantes do calendá
+ rio europeu com a sua corrida noturna. A prova começa ao final da tarde\, 
+  permitindo aos corredores atravessarem a cidade sob as luzes artificiais\,
+   passando por ícones como o Museu Guggenheim. É um festival de luz\,  m�
+ �sica e fogo de artifício que[..]\nhttps://www.portugalrunning.com/eventos
+ /meia-maratona-de-bilbau/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-bilbau/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694738be0ce64
+DTSTAMP:20251221T000102Z
+DTSTART:20261025T125800Z
+DTEND:20261025T125800Z
+LOCATION:Frankfurt\,  Alemanha Frankfurt\,  Alemanha
+SUMMARY:Maratona de Frankfurt 2026
+DESCRIPTION:Conhecida como a "Maratona do Skyline"\,  Frankfurt é famosa p
+ elo seu percurso extremamente rápido\,  ideal para quem procura bater o re
+ corde pessoal. A cidade dos negócios transforma-se para acolher milhares d
+ e atletas num traçado plano que atravessa os arranha-céus modernos e as z
+ onas históricas junto ao rio Meno. O ponto[..]\nhttps://www.portugalrunnin
+ g.com/eventos/maratona-de-frankfurt/
+URL:https://www.portugalrunning.com/eventos/maratona-de-frankfurt/
+END:VEVENT
+END:VCALENDAR
