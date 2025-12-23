@@ -2,7 +2,35 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-12-21T13:31:22+00:00</lastmod>
+		<lastmod>2025-12-22T07:26:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-rota-das-estevas/</loc>
+		<lastmod>2025-12-22T07:26:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/6943e2aeb389d_Cartaz_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-nova-de-santo-andre/</loc>
+		<lastmod>2025-12-22T07:21:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/6926cf092d157_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-braga-2025/</loc>
+		<lastmod>2025-12-22T07:01:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/200x100.jpg.200x0_q95-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-dos-reis-moita/</loc>
+		<lastmod>2025-12-22T06:49:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/post__21reis26_1_2500_2500.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-avis/</loc>
@@ -1031,13 +1059,6 @@
 		<lastmod>2025-11-19T07:28:01+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/banner-sao-silvestre-da-branca-2025-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-braga-2025/</loc>
-		<lastmod>2025-11-19T07:27:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/200x100.jpg.200x0_q95-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3376,13 +3397,6 @@
 		<lastmod>2025-08-31T06:43:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/banner-trail-trilheiros-e-amigos-2025-min-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-nova-de-santo-andre-2025/</loc>
-		<lastmod>2025-08-31T06:41:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/68af08d9eb13c_cartaz-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

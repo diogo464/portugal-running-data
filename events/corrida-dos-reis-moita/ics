@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6949dbb86fa9a
+DTSTAMP:20251223T000056Z
+DTSTART:20260110
+DTEND:20260111
+LOCATION:Moita\,  Setúbal Moita\,  Setúbal
+SUMMARY:Corrida dos Reis Moita 2026
+DESCRIPTION:A Câmara Municipal da Moita e a União de Freguesias do Gaio-R
+ osário e Sarilhos Pequenos\,  irão organizar no próximo dia 10 de janeir
+ o de 2026\,  a 21ª Corrida dos Reis integrada no Torneio das Coletividades
+  do Município da Moita em Atletismo – ATLETISMOITA – Podem participar 
+ nestas Provas atletas federados[..]\nhttps://www.portugalrunning.com/evento
+ s/corrida-dos-reis-moita/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-moita/
+END:VEVENT
+END:VCALENDAR
