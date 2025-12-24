@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694b2d4a228f0
+DTSTAMP:20251224T000114Z
+DTSTART:20261107
+DTEND:20261108
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:Trail Demónios do Lizandro 2026
+DESCRIPTION:O V Trail Demónios do Lizandro irá realizar-se nos dias 6 e 7
+ de Novembro de 2026 com o objectivo de promover a actividade física e dar 
+ a conhecer os maravilhosos trilhos desta zona \,  tendo a partida e chegada
+  em Santa Susana.A prova tem certificação ITRA \,  pontuável para o[..]\
+ nhttps://www.portugalrunning.com/eventos/trail-demonios-do-lizandro/
+URL:https://www.portugalrunning.com/eventos/trail-demonios-do-lizandro/
+END:VEVENT
+END:VCALENDAR

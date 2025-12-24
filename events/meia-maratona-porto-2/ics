@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694b2d4847a1e
+DTSTAMP:20251224T000112Z
+DTSTART:20250914
+DTEND:20250915
+LOCATION:Porto Porto
+SUMMARY:Meia Maratona Porto 2025
+DESCRIPTION:Resultados Realiza-se no dia 14 de setembro de 2025 pelas 9h00\
+ ,  na Cidade do Porto\,  a Hyundai Meia Maratona Internacional do Porto\,  
+ na qual se integrará uma Mini Maratona\,  sem fins competitivos\,  e o tem
+ po máximo de duração desta prova é de 3 horas. Serão duas as corridas:
+  uma Mini[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-porto-
+ 2/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-porto-2/
+END:VEVENT
+END:VCALENDAR

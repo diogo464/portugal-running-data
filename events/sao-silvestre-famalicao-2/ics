@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694b2d498f2a6
+DTSTAMP:20251224T000113Z
+DTSTART:20251223
+DTEND:20251224
+LOCATION:Vila Nova de Famalicão\,  Braga Vila Nova de Famalicão\,  Braga
+SUMMARY:São Silvestre Famalicão 2025
+DESCRIPTION:A São Silvestre de Famalicão é uma das corridas mais emblem�
+ �ticas do calendário desportivo minhoto\,  reunindo milhares de atletas e 
+ entusiastas num ambiente festivo e de celebração do desporto. Realiza-se 
+ nas ruas iluminadas de Vila Nova de Famalicão\,  oferecendo uma prova de 1
+ 0 km e uma caminhada de 4 km\, [..]\nhttps://www.portugalrunning.com/evento
+ s/sao-silvestre-famalicao-2/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-famalicao-2/
+END:VEVENT
+END:VCALENDAR

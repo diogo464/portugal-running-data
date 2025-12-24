@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694b2d4797595
+DTSTAMP:20251224T000111Z
+DTSTART:20260419
+DTEND:20260420
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Caixa 2026
+DESCRIPTION:Marca já na tua agenda\,  no dia 19 de abril de 2026 contamos 
+ com a tua presença e da tua família para mais uma edição da Corrida Cai
+ xa!\nhttps://www.portugalrunning.com/eventos/corrida-caixa/
+URL:https://www.portugalrunning.com/eventos/corrida-caixa/
+END:VEVENT
+END:VCALENDAR

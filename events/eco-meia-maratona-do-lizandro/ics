@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694b2d46848fc
+DTSTAMP:20251224T000110Z
+DTSTART:20260621
+DTEND:20260622
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:Eco Meia Maratona do Lizandro 2026
+DESCRIPTION:A 2ª Edição da Eco Meia Maratona do Lizandro irá realizar-s
+ e no dia 21 de Junho de 2026. A 2ª Eco Meia Maratona do Lizandro será con
+ stituída por 2 provas de caráter competitivo e uma caminhada de lazer. Ec
+ o Meia Maratona ( 21\, 120 Kms ) Eco Mini Maratona ( 12[..]\nhttps://www.po
+ rtugalrunning.com/eventos/eco-meia-maratona-do-lizandro/
+URL:https://www.portugalrunning.com/eventos/eco-meia-maratona-do-lizandro/
+END:VEVENT
+END:VCALENDAR
