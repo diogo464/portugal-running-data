@@ -4,17 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cdcc4743
-DTSTAMP:20250720T222532Z
-DTSTART:20200119
-DTEND:20200120
+UID:694c7ebc65c19
+DTSTAMP:20251225T000100Z
+DTSTART:20260125
+DTEND:20260126
 LOCATION:Viana do Castelo Viana do Castelo
-SUMMARY:Meia Maratona Manuela Machado
-DESCRIPTION:1) A prova realiza-se no dia 19 de Janeiro de 2020\,  pelas 10:
- 30 horas e terá uma distância de 21.095 metros (distância oficial – FP
- A). 2) A prova será aberta a todos os atletas federados e não federados. 
- 3) A Mini - Maratona e Caminhada serão abertas a atletas de[..]\nhttps://w
- ww.portugalrunning.com/eventos/meia-maratona-manuela-machado/
+SUMMARY:Meia Maratona Manuela Machado 2026
+DESCRIPTION:A 25 de janeiro de 2026\,  Viana do Castelo transforma-se na ca
+ pital do atletismo com a 27.ª Meia Maratona Manuela Machado. Conhecida ca
+ rinhosamente como a 'Prova dos Recordes'\,  este evento oferece um percurso
+ &nbsp;100% plano e ribeirinho\,  desenhado para quem quer baixar tempos aos
+  21km. É a oportunidade perfeita para começares o[..]\nhttps://www.portug
+ alrunning.com/eventos/meia-maratona-manuela-machado/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-manuela-machado/
 END:VEVENT
 END:VCALENDAR
