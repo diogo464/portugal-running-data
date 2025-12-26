@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:694dd03ebc5bb
+DTSTAMP:20251226T000102Z
+DTSTART:20260125
+DTEND:20260126
+LOCATION:Marateca Marateca\,  Setúbal
+SUMMARY:São Silvestre Trilhos da Marateca 2026
+DESCRIPTION:A competição “São Silvestre Trilhos de Marateca 2026” co
+ nsiste numa prova de corrida a pé e numa caminhada desportiva (sem classif
+ icação) em que os participantes são desafiados a percorrerem trajetos na
+ s aldeias de Águas de Moura e Bairro Margaça e nos terrenos rurais nas su
+ as imediações. É organizada pela Câmara[..]\nhttps://www.portugalrunnin
+ g.com/eventos/sao-silvestre-trilhos-da-marateca-2/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-trilhos-da-marateca-2/
+END:VEVENT
+END:VCALENDAR
