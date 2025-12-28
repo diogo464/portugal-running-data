@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695073414cda7
+DTSTAMP:20251228T000105Z
+DTSTART:20260322
+DTEND:20260323
+LOCATION:Salvaterra de Magos\,  Santarém Salvaterra de Magos\,  Santarém
+SUMMARY:12KM Salvaterra de Magos 2026
+DESCRIPTION:O “ACS – Amigos da Corrida de Salvaterra”\,  organiza no 
+ dia 22 de Março de 2026\,  pelas 10h00\,  a corrida “XXIV 12 Km Salva
+ terra Prova Professor António Lopes”\,  a “6ª Mini-Corrida 5km Ferna
+ ndo José Andrade” e a 18ª “Caminhada Mexa-se por nós”.\nhttps://ww
+ w.portugalrunning.com/eventos/12km-salvaterra-de-magos/
+URL:https://www.portugalrunning.com/eventos/12km-salvaterra-de-magos/
+END:VEVENT
+END:VCALENDAR
