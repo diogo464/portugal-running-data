@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6953164563975
+DTSTAMP:20251230T000109Z
+DTSTART:20250201
+DTEND:20250202
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail Santa Iria 2026
+DESCRIPTION:A Associação Branzelo Ativo propõe-se organizar\,  com data 
+ prevista para 1 de fevereiro 2026\,  a 12ª ediçãodo Trail Santa Iria. Tr
+ ail Longo 23km Trail Curto 13km Caminhada 10km\nhttps://www.portugalrunning
+ .com/eventos/trail-santa-iria/
+URL:https://www.portugalrunning.com/eventos/trail-santa-iria/
+END:VEVENT
+END:VCALENDAR

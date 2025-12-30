@@ -2,7 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2025-12-28T16:01:24+00:00</lastmod>
+		<lastmod>2025-12-29T13:10:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-santa-iria/</loc>
+		<lastmod>2025-12-29T13:10:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/597816930_1486466946820089_1758545889251971035_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-de-ano-novo-esposende/</loc>
+		<lastmod>2025-12-29T12:42:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/470858355_577647025222527_7867352633613672959_n.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto/</loc>
@@ -9463,13 +9477,6 @@
 		<lastmod>2024-12-29T05:41:20+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/07/452629772_10161591695769819_3730168350428538994_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-de-ano-novo-esposende-2025/</loc>
-		<lastmod>2024-12-28T19:33:07+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/470858355_577647025222527_7867352633613672959_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
