@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695467d05a4e7
+DTSTAMP:20251231T000120Z
+DTSTART:20260920
+DTEND:20260921
+LOCATION:Viseu Viseu
+SUMMARY:Meia Maratona Viseu 2026
+DESCRIPTION:Meia Maratona Viseu 2026\nhttps://www.portugalrunning.com/event
+ os/meia-maratona-viseu/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-viseu/
+END:VEVENT
+END:VCALENDAR

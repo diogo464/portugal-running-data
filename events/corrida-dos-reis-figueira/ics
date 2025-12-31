@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695467cebbe7c
+DTSTAMP:20251231T000118Z
+DTSTART:20260117
+DTEND:20260118
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:Corrida dos Reis - Figueira 2026
+DESCRIPTION:Percurso certificado e homologado pela World Athletics\,  Feder
+ ação Portuguesa de Atletismo e que consta no calendário Mundial de Corri
+ das de Estrada da World Athletics\,  designada por Corrida dos Reis Figueir
+ a da Foz. Do evento faz parte uma caminhada com cerca de 6km sem classifica
+ ção.\nhttps://www.portugalrunning.com/eventos/corrida-dos-reis-figueira/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-figueira/
+END:VEVENT
+END:VCALENDAR

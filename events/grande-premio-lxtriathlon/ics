@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695467ced651e
+DTSTAMP:20251231T000118Z
+DTSTART:20260419T082800Z
+DTEND:20260419T082800Z
+LOCATION:Lisboa Lisboa
+SUMMARY:Grande Prémio LxTriathlon 2026
+DESCRIPTION:O GRANDE PRÉMIO LXTRIATHLON é um evento de atletismo organi
+ zado pelo Lxtriathlon – Clube de Triatlo de Lisboa\,  com apoio da Câma
+ ra Municipal de Lisboa\,  Junta de Freguesia de Santa Clara e Associação 
+ de Atletismo de Lisboa. A iniciativa\,  integra uma Meia Maratona\,  uma co
+ rrida de 10km\,  uma caminhada de 3 km e[..]\nhttps://www.portugalrunning.c
+ om/eventos/grande-premio-lxtriathlon/
+URL:https://www.portugalrunning.com/eventos/grande-premio-lxtriathlon/
+END:VEVENT
+END:VCALENDAR

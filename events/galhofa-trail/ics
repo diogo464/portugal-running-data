@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695467cad9c31
+DTSTAMP:20251231T000114Z
+DTSTART:20260125T054900Z
+DTEND:20260125T235900Z
+LOCATION:Arcas\,  Macedo de Cavaleiros Arcas\,  Macedo de Cavaleiros
+SUMMARY:Galhofa Trail 2026
+DESCRIPTION:A Freguesia de Arcas\,  em Macedo de Cavaleiros\,  vai receber 
+ o Galhofa Trail\,  com uma corrida de 12 km e caminhada de 6 km\,  pelo me
+ io da natureza e pela aldeia. O evento decorre no mesmo fim de semana que a
+  Galhofa de Arcas\,  uma tradição ancestral dedicada aos Caretos.\nhttps
+ ://www.portugalrunning.com/eventos/galhofa-trail/
+URL:https://www.portugalrunning.com/eventos/galhofa-trail/
+END:VEVENT
+END:VCALENDAR

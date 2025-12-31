@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695467cfe37de
+DTSTAMP:20251231T000119Z
+DTSTART:20201108
+DTEND:20201109
+LOCATION:Porto Porto
+SUMMARY:Maratona do Porto
+DESCRIPTION:Maratona do Porto\nhttps://www.portugalrunning.com/eventos/mara
+ tona-do-porto-2020/
+URL:https://www.portugalrunning.com/eventos/maratona-do-porto-2020/
+END:VEVENT
+END:VCALENDAR

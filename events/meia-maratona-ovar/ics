@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695467cf1a832
+DTSTAMP:20251231T000119Z
+DTSTART:20261005
+DTEND:20261006
+LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+SUMMARY:Meia Maratona Ovar 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/meia-maratona-ovar/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-ovar/
+END:VEVENT
+END:VCALENDAR

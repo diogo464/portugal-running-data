@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695467cebde60
+DTSTAMP:20251231T000118Z
+DTSTART:20260517
+DTEND:20260518
+LOCATION:Sanxenxo\,  Espanha Sanxenxo\,  Espanha
+SUMMARY:Meia Maratona Entre Rías 2026
+DESCRIPTION:A Media Maratón Entre Rías é uma experiência única que une
+  as localidades de Sanxenxo e O Grove\,  no coração das Rías Baixas gale
+ gas. O percurso de 21.097 metros é famoso pela sua beleza cénica incompar
+ ável\,  desenrolando-se quase na totalidade à beira-mar\,  com a espetacu
+ lar Praia da Lanzada como pano[..]\nhttps://www.portugalrunning.com/eventos
+ /meia-maratona-entre-rias/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-entre-rias/
+END:VEVENT
+END:VCALENDAR

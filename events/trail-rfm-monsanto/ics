@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695467cf892ff
+DTSTAMP:20251231T000119Z
+DTSTART:20260315
+DTEND:20260316
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Trail RFM Monsanto 2026
+DESCRIPTION:A RFM em parceria com Ganhardestak e com o apoio do Municipio d
+ e Lisboa organizam\,  no próximo dia 15 de março de 2026\,  a 4.ª ediç�
+ �o do Trail RFM Monsanto percorrido por caminhos e trilhos dentro do Parque
+  Florestal do Monsanto. O mesmo é composto por um Trail Longo de[..]\nhttp
+ s://www.portugalrunning.com/eventos/trail-rfm-monsanto/
+URL:https://www.portugalrunning.com/eventos/trail-rfm-monsanto/
+END:VEVENT
+END:VCALENDAR

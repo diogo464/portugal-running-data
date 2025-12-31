@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695467cf13311
+DTSTAMP:20251231T000119Z
+DTSTART:20260412
+DTEND:20260413
+LOCATION:Vigo\,  Espanha Vigo\,  Espanha
+SUMMARY:Meia Maratona Vigo Bayona 2026
+DESCRIPTION:A Meia Maratona Vigo-Baiona\,  carinhosamente apelidada de Vig-
+ Bay\,  é uma das provas de estrada mais carismáticas e participadas da Ga
+ liza\,  sendo um destino de eleição para centenas de corredores portugues
+ es. O percurso de 21.097 metros une a vibrante cidade de Vigo à histórica
+  vila de Baiona\,  desenrolando-se quase inteiramente junto[..]\nhttps://ww
+ w.portugalrunning.com/eventos/meia-maratona-vigo-bayona/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-vigo-bayona/
+END:VEVENT
+END:VCALENDAR
