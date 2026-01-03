@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882fd2e922
+DTSTAMP:20260103T024621Z
+DTSTART:20260208
+DTEND:20260209
+LOCATION:Alvaiázere\,  Leiria Alvaiázere\,  Leiria
+SUMMARY:Rota Olho do Tordo 2026
+DESCRIPTION:A V Rota do Olho do tordo\,  sob organização da Câmara Munic
+ ipal de Alvaiázere\,  pretende afirmar-se como uma prova de desporto e laz
+ er\,  sem carácter competitivo\,  na vertente de corrida [Trail Running]\,
+   a realizar por percursos e trilhos envolventes à nascente do Olho do Tor
+ do. A quinta edição realiza-se no[..]\nhttps://www.portugalrunning.com/ev
+ entos/rota-olho-do-tordo/
+URL:https://www.portugalrunning.com/eventos/rota-olho-do-tordo/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882fc3142e
+DTSTAMP:20260103T024620Z
+DTSTART:20260926
+DTEND:20260927
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Corrida Beactive Night Matosinhos 2026
+DESCRIPTION:Corrida Beactive Night Matosinhos 2026\nhttps://www.portugalrun
+ ning.com/eventos/corrida-beactive-night-matosinhos/
+URL:https://www.portugalrunning.com/eventos/corrida-beactive-night-matosinhos/
+END:VEVENT
+END:VCALENDAR

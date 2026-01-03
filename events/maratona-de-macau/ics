@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882fb15e16
+DTSTAMP:20260103T024619Z
+DTSTART:20261206T080500Z
+DTEND:20261206T080500Z
+LOCATION:Macau Macau
+SUMMARY:Maratona de Macau 2026
+DESCRIPTION:A Maratona Internacional de Macau é um dos eventos desportivos
+  mais emblemáticos da Ásia\,  unindo o desafio atlético de alto nível a
+ o cenário fascinante do Património Mundial da UNESCO. O percurso oferece 
+ uma experiência visual única\,  atravessando as ruas históricas de Macau
+ \,  as imponentes pontes sobre o mar e os[..]\nhttps://www.portugalrunning.
+ com/eventos/maratona-de-macau/
+URL:https://www.portugalrunning.com/eventos/maratona-de-macau/
+END:VEVENT
+END:VCALENDAR

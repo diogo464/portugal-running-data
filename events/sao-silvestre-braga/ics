@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882fe9c8d7
+DTSTAMP:20260103T024622Z
+DTSTART:20261227
+DTEND:20261228
+LOCATION:Braga Braga
+SUMMARY:São Silvestre Braga 2026
+DESCRIPTION:Resultados 2025\nhttps://www.portugalrunning.com/eventos/sao-si
+ lvestre-braga/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-braga/
+END:VEVENT
+END:VCALENDAR

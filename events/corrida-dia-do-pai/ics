@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882feacd79
+DTSTAMP:20260103T024622Z
+DTSTART:20260315
+DTEND:20260316
+LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+SUMMARY:Corrida Dia do Pai 2026
+DESCRIPTION:A 22.ª Corrida Mimosa Dia do Pai realiza-se a 15 de março de 
+ 2026\,  às 9h00\,  no Queimódromo\,  no Parque da Cidade do Porto. O even
+ to inclui uma corrida de 10 km\,  uma caminhada de 5 km aberta a todas as i
+ dades e a Kids Race\,  destinada a crianças até[..]\nhttps://www.portugal
+ running.com/eventos/corrida-dia-do-pai/
+URL:https://www.portugalrunning.com/eventos/corrida-dia-do-pai/
+END:VEVENT
+END:VCALENDAR

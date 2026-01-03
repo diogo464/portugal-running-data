@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882fbc0754
+DTSTAMP:20260103T024619Z
+DTSTART:20260524
+DTEND:20260525
+LOCATION:Porto Porto
+SUMMARY:Corrida da Mulher 2026
+DESCRIPTION:Corrida da Mulher 2026\nhttps://www.portugalrunning.com/eventos
+ /corrida-da-mulher-porto/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-porto/
+END:VEVENT
+END:VCALENDAR

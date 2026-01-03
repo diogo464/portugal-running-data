@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882fe7a627
+DTSTAMP:20260103T024622Z
+DTSTART:20260321T082000Z
+DTEND:20260321T082000Z
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Europarque Meia Maratona Santa Maria da Feira 2026
+DESCRIPTION:A Europarque Meia Maratona 2026 é organizada pela Feira Viva C
+ ultura e Desporto\,  E.M.\,  em parceria com a Câmara Municipal de Santa M
+ aria da Feira. O evento integra quatro atividades: Meia MaratonaTroféu EUR
+ OPARQUE RunningCaminhada (não competitiva)Junior Run (prova infantil)\nhtt
+ ps://www.portugalrunning.com/eventos/meia-maratona-santa-maria-da-feira/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-santa-maria-da-feira/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882fd80cf0
+DTSTAMP:20260103T024621Z
+DTSTART:20260412
+DTEND:20260413
+LOCATION:Porto Porto
+SUMMARY:Vitalis Kids Challenge by Hyundai - 1ª Etapa 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/vitalis-kids-challeng
+ e-by-hyundai/
+URL:https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai/
+END:VEVENT
+END:VCALENDAR

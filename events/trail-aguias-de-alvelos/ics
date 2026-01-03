@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882fd037d6
+DTSTAMP:20260103T024621Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Alvelos\,  Braga Alvelos\,  Braga
+SUMMARY:Trail Águias de Alvelos 2026
+DESCRIPTION:Trail Águias de Alvelos 2026\nhttps://www.portugalrunning.com/
+ eventos/trail-aguias-de-alvelos/
+URL:https://www.portugalrunning.com/eventos/trail-aguias-de-alvelos/
+END:VEVENT
+END:VCALENDAR

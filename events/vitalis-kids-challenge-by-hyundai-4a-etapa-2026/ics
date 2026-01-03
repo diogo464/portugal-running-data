@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695883004844f
+DTSTAMP:20260103T024624Z
+DTSTART:20260712
+DTEND:20260713
+LOCATION:Porto Porto
+SUMMARY:Vitalis Kids Challenge by Hyundai - 4ª Etapa 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/vitalis-kids-challeng
+ e-by-hyundai-4a-etapa-2026/
+URL:https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai-4a-etapa-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882f915982
+DTSTAMP:20260103T024617Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:Meia Maratona Famalicão 2026
+DESCRIPTION:Meia Maratona Famalicão 2026\nhttps://www.portugalrunning.com/
+ eventos/meia-maratona-famalicao-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-famalicao-2026/
+END:VEVENT
+END:VCALENDAR

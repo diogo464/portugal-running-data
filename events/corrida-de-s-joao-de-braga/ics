@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882f74726f
+DTSTAMP:20260103T024615Z
+DTSTART:20260621
+DTEND:20260622
+LOCATION:Braga Braga
+SUMMARY:Corrida de S. João de Braga 2026
+DESCRIPTION:Corrida de S. João de Braga 2026\nhttps://www.portugalrunning.
+ com/eventos/corrida-de-s-joao-de-braga/
+URL:https://www.portugalrunning.com/eventos/corrida-de-s-joao-de-braga/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882f9f0e9a
+DTSTAMP:20260103T024617Z
+DTSTART:20260718
+DTEND:20260719
+LOCATION:Esposende\,  Braga Esposende\,  Braga
+SUMMARY:Esposende Marginal à Noite 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/esposende-marginal-a-
+ noite/
+URL:https://www.portugalrunning.com/eventos/esposende-marginal-a-noite/
+END:VEVENT
+END:VCALENDAR

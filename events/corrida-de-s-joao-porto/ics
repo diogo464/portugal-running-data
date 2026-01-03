@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695882fc90002
+DTSTAMP:20260103T024620Z
+DTSTART:20250614
+DTEND:20250615
+LOCATION:Porto Porto
+SUMMARY:Corrida de S. João - Porto 2026
+DESCRIPTION:Corrida de S. João - Porto 2026\nhttps://www.portugalrunning.c
+ om/eventos/corrida-de-s-joao-porto/
+URL:https://www.portugalrunning.com/eventos/corrida-de-s-joao-porto/
+END:VEVENT
+END:VCALENDAR
