@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695aff504e2c6
+DTSTAMP:20260105T000120Z
+DTSTART:20260215
+DTEND:20260216
+LOCATION:Fornos de Algodres\,  Guarda Fornos de Algodres\,  Guarda
+SUMMARY:Trail dos Bombeiros - Fornos de Algodres 2026
+DESCRIPTION:O ”IV TRAIL DOS BOMBEIROS - COMANDANTE “ZÉ ANTÓNIO” é 
+ um trail\,  organizado pelos Bombeiros Voluntários de Fornos de Algodres\,
+   com o apoio técnico da “AVCAT-Associação Vila Chã Aldeia Trail de P
+ ortugal” a realizar no dia 15 de fevereiro de 2026\,  em Fornos de Algodr
+ es.Este trail faz parte do “Circuito[..]\nhttps://www.portugalrunning.com
+ /eventos/trail-dos-bombeiros-fornos-de-algodres/
+URL:https://www.portugalrunning.com/eventos/trail-dos-bombeiros-fornos-de-algodres/
+END:VEVENT
+END:VCALENDAR
