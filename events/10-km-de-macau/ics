@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695c50e474c87
+DTSTAMP:20260106T000140Z
+DTSTART:20260315T080500Z
+DTEND:20260315T235900Z
+LOCATION:Macau Macau
+SUMMARY:10 km de Macau 2026
+DESCRIPTION:A 10km de Macau\,  oficialmente designada como Sands China Maca
+ o International 10K\,  é um dos eventos desportivos anuais mais emblemáti
+ cos da região\,  organizado pelo Instituto do Desporto e pela Sands China.
+  Realizada habitualmente no mês de março\,  a prova atrai milhares de cor
+ redores locais e internacionais\,  oferecendo um percurso cénico[..]\nhttp
+ s://www.portugalrunning.com/eventos/10-km-de-macau/
+URL:https://www.portugalrunning.com/eventos/10-km-de-macau/
+END:VEVENT
+END:VCALENDAR

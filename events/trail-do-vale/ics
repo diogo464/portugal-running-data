@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695c50e784fcd
+DTSTAMP:20260106T000143Z
+DTSTART:20260517
+DTEND:20260518
+LOCATION:Vale Venteiro\,  Tomar Vale Venteiro\,  Tomar
+SUMMARY:Trail do Vale 2026
+DESCRIPTION:Trail do Vale - Tomar\,   irá realizar a 5ª edição dia 17 
+ de maio de 2026 com as seguintes distâncias: caminhada 10km\,  mini trail 
+ 13km\,  trail Curto 18km\,  Trail longo 33km.\nhttps://www.portugalrunning.
+ com/eventos/trail-do-vale/
+URL:https://www.portugalrunning.com/eventos/trail-do-vale/
+END:VEVENT
+END:VCALENDAR

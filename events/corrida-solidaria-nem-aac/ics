@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695c50e83312b
+DTSTAMP:20260106T000144Z
+DTSTART:20260411
+DTEND:20260412
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida Solidária NEM/AAC 2026
+DESCRIPTION:A V Corrida Solidária é um evento desportivo organizado pelo 
+ Núcleo de Estudantes de Medicina da Associação Académica de Coimbra (NE
+ M/AAC)\,  com o apoio da Câmara Municipal de Coimbra\,  da Associação Ac
+ adémica de Coimbra e da Recorde Pessoal\,  responsável pela organização
+  técnica do evento.&nbsp; Prova\,  Distância\,  Data\,  Local Serão real
+ izados[..]\nhttps://www.portugalrunning.com/eventos/corrida-solidaria-nem-a
+ ac/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-nem-aac/
+END:VEVENT
+END:VCALENDAR

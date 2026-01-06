@@ -4,17 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69531642dccf4
-DTSTAMP:20251230T000106Z
-DTSTART:20250111
-DTEND:20250112
+UID:695c50e7b5298
+DTSTAMP:20260106T000143Z
+DTSTART:20260117
+DTEND:20260118
 LOCATION:Esposende\,  Braga Esposende\,  Braga
-SUMMARY:Corrida de Ano Novo Esposende 2025
-DESCRIPTION:A VII Corrida de Ano Novo realiza-se no dia 11 de janeiro 2025.
- O programa é constituído pela Kids Run de 1 609 m\,  por uma Caminhada de
-  8 Km e uma Corrida 10 Km.As provas terão início na rua Santa Maria dos A
- njos (Largo Rodrigues Sampaio) terminando no mesmo local.\nhttps://www.port
- ugalrunning.com/eventos/corrida-de-ano-novo-esposende/
+SUMMARY:Corrida de Ano Novo Esposende 2026
+DESCRIPTION:A Câmara Municipal de Esposende vai organizar no dia 17 de jan
+ eiro a VIII Corrida de Ano Novo. O programa é constituído pela Kids Run d
+ e 1 609 e 800 m\,  por uma Caminhada de 8 Km e uma Corrida 10 Km. As provas
+  terão início no Largo Rodrigues Sampaio\, [..]\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-de-ano-novo-esposende/
 URL:https://www.portugalrunning.com/eventos/corrida-de-ano-novo-esposende/
 END:VEVENT
 END:VCALENDAR

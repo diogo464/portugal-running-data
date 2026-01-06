@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695c50e4e5f92
+DTSTAMP:20260106T000140Z
+DTSTART:20260315T111600Z
+DTEND:20260315T235900Z
+LOCATION:Guarda Guarda
+SUMMARY:Guarda Trail Running 2026
+DESCRIPTION:A organização do Guarda Trail Running é da responsabilidade 
+ do Clube de Montanhismo da Guarda. O Guarda Trail Running é um evento de c
+ orrida em montanha que integra três provas: um Trail Longo (aprox. 30km); 
+ um Trail Curto (aprox. 15km) e um Mini-Trail (aprox. 10km).\nhttps://www.po
+ rtugalrunning.com/eventos/guarda-trail-running/
+URL:https://www.portugalrunning.com/eventos/guarda-trail-running/
+END:VEVENT
+END:VCALENDAR

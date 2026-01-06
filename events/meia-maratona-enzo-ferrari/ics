@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695c50e724a3b
+DTSTAMP:20260106T000143Z
+DTSTART:20260329T124400Z
+DTEND:20260329T235900Z
+LOCATION:Maranello\,  Itália Maranello\,  Itália
+SUMMARY:Meia Maratona Enzo Ferrari 2026
+DESCRIPTION:A Mezza Maratona d’Italia\,  frequentemente associada ao Memo
+ rial Enzo Ferrari\,  é uma das corridas de estrada mais emblemáticas de I
+ tália\,  ligando tradicionalmente as localidades de Maranello e Carpi\,  n
+ a região da Emilia-Romagna. Realizada habitualmente no mês de outubro\,  
+ a prova é famosa pelo seu percurso rápido e descendente\,  que atravessa[
+ ..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-enzo-ferrari/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-enzo-ferrari/
+END:VEVENT
+END:VCALENDAR
