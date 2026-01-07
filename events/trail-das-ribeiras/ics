@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25b54858
+DTSTAMP:20260107T000131Z
+DTSTART:20260426T230700Z
+DTEND:20260426T235900Z
+LOCATION:Telhado\,  Penacova Telhado\,  Penacova
+SUMMARY:Trail das Ribeiras 2026
+DESCRIPTION:A participação no Trail das Ribeiras na sua prova (19km)\,  s
+ ó é permitida a atletas com idade igual ou superior a 18 anos.No Trail (1
+ 4Km) / Caminhada (10km)\,  como incentivo à prática da modalidade\,  é p
+ ermitida a participação de jovens a partir dos 16 anos.\nhttps://www.port
+ ugalrunning.com/eventos/trail-das-ribeiras/
+URL:https://www.portugalrunning.com/eventos/trail-das-ribeiras/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25a8eec6
+DTSTAMP:20260107T000130Z
+DTSTART:20260322
+DTEND:20260323
+LOCATION:Moura\,  Beja Moura\,  Beja
+SUMMARY:Lynxrace Moura 2026
+DESCRIPTION:A LYNX MOURA é a nossa prova alentejana. Começa e acaba no Ca
+ stelo de Moura e passa por trilhosinspiradores da paisagem raiana e os atle
+ tas vão ser testados ao longo de um percurso que passa porolivais\,  trilh
+ os íngremes\,  uma ribeira\,  uma cascata e piscina.Esta LYNX também é u
+ ma etapa da[..]\nhttps://www.portugalrunning.com/eventos/lynxrace-moura/
+URL:https://www.portugalrunning.com/eventos/lynxrace-moura/
+END:VEVENT
+END:VCALENDAR

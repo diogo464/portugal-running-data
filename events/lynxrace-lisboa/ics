@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da2595fd15
+DTSTAMP:20260107T000129Z
+DTSTART:20260517
+DTEND:20260518
+LOCATION:Lisboa Lisboa
+SUMMARY:Lynxrace Lisboa 2026
+DESCRIPTION:A LYNX LISBOA 2026 realiza-se domingo\,  17 de Maio\,  no Parqu
+ e da Quinta de Santo António\,  noRestelo\,  ao lado do Externato São Jos
+ é.Esta LYNXRACE foi desenhada para ser executada em DUPLAS. Os atletas pod
+ erão inscrever-se emequipas MASCULINAS\,  FEMININAS E MISTAS.Vão percorre
+ r um percurso único (1 volta) de 7km e ultrapassar[..]\nhttps://www.portug
+ alrunning.com/eventos/lynxrace-lisboa/
+URL:https://www.portugalrunning.com/eventos/lynxrace-lisboa/
+END:VEVENT
+END:VCALENDAR

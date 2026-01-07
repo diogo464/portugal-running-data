@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da258833d1
+DTSTAMP:20260107T000128Z
+DTSTART:20260329
+DTEND:20260330
+LOCATION:Avenida Machado Santos\,  Lisboa Avenida Machado Santos\,  Lisboa
+SUMMARY:Corrida do Benfica 2026
+DESCRIPTION:A 18ª Corrida do Benfica António Leitão é organizada pelo S
+ port Lisboa e Benfica\,  sob a direção técnica da Prof. Ana Oliveira. DA
+ TA\,  HORA\,  LOCALDia 29 de março de 2026\,  domingo\,  às:10h30\,  18ª
+  Corrida do Benfica António Leitão\,  10km\,  com partida na Avenida Mach
+ ado Santos (junto ao Estádio da Luz)[..]\nhttps://www.portugalrunning.com/
+ eventos/corrida-do-benfica/
+URL:https://www.portugalrunning.com/eventos/corrida-do-benfica/
+END:VEVENT
+END:VCALENDAR

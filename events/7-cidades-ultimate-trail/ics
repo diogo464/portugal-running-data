@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da2583679f
+DTSTAMP:20260107T000128Z
+DTSTART:20260523
+DTEND:20260524
+LOCATION:Ilha de São Miguel\,  Açores Ilha de São Miguel\,  Açores
+SUMMARY:7 Cidades Ultimate Trail 2026
+DESCRIPTION:O evento “7 Cidades Ultimate Trail” (7CUT) é composto por 
+ 5 provas: O 7CUT40 é uma prova de caráter competitivo\,  destinada a maio
+ res de 18 anos e tem uma quilometragem de 42\, 4 km com 2390 m de desnível
+  positivo e negativo. A partida será dada às 07h00m do dia 23[..]\nhttps:
+ //www.portugalrunning.com/eventos/7-cidades-ultimate-trail/
+URL:https://www.portugalrunning.com/eventos/7-cidades-ultimate-trail/
+END:VEVENT
+END:VCALENDAR

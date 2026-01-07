@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da257cb160
+DTSTAMP:20260107T000127Z
+DTSTART:20260628T184500Z
+DTEND:20260628T235900Z
+LOCATION:Paço de Sousa\,  Penafiel Paço de Sousa\,  Penafiel
+SUMMARY:Corrida do Egas Moniz 2026
+DESCRIPTION:A associação Futebol Clube de Paço de Sousa organizam a 3.ª
+  edição Corrida Egas Moniz que tem a finalidade de estimular a prática d
+ esportiva como elemento da promoção da saúde e da qualidade de vida e ta
+ mbém promover corrida Matinal pela Freguesia de Paço de Sousa. Realiza-se
+  no dia 28[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-egas-mon
+ iz/
+URL:https://www.portugalrunning.com/eventos/corrida-do-egas-moniz/
+END:VEVENT
+END:VCALENDAR

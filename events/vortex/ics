@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25cd442b
+DTSTAMP:20260107T000132Z
+DTSTART:20260228T183900Z
+DTEND:20260228T183900Z
+LOCATION:Faro Faro\,  Portugal
+SUMMARY:Vortex 2026
+DESCRIPTION:O VORTEX é descrito como um "redemoinho de energia" que liga o
+  fitness\,  a diversão e as pessoas. É uma experiência de fitness híbri
+ do onde o treino\,  a competição e a comunidade se encontram. A competiç
+ ão consiste em 8 rondas. Cada ronda começa com uma corrida de 800 metros 
+ e[..]\nhttps://www.portugalrunning.com/eventos/vortex/
+URL:https://www.portugalrunning.com/eventos/vortex/
+END:VEVENT
+END:VCALENDAR

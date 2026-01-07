@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25b6e706
+DTSTAMP:20260107T000131Z
+DTSTART:20260510
+DTEND:20260511
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Trail Bem Viver 2026
+DESCRIPTION:O TRAIL BEM VIVER é organizado pelo Grupo Desportivo de Magrel
+ os\,  em parceria com a Junta de Freguesia de Bem Viver e a Câmara Municip
+ al do Marco de Canaveses.O evento será realizado no dia e 10 de maio de 20
+ 26\,  no Alto da Forca em Magrelos\,  na freguesia de Bem[..]\nhttps://www.
+ portugalrunning.com/eventos/trail-bem-viver-2026/
+URL:https://www.portugalrunning.com/eventos/trail-bem-viver-2026/
+END:VEVENT
+END:VCALENDAR

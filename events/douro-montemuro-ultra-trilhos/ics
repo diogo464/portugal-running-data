@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25924678
+DTSTAMP:20260107T000129Z
+DTSTART:20260607
+DTEND:20260608
+LOCATION:Cinfães Cinfães
+SUMMARY:Douro Montemuro Ultra Trilhos 2026
+DESCRIPTION:O Douro Montemuro Ultra Trilhos (DMUT) é um evento desportivo 
+ de trail running da responsabilidade organizativa da Associação Desportiv
+ a Cinfães a Correr\,  associação sem fins lucrativos\,  com sede no Muni
+ cípio de Cinfães\,  que se realizará nos dias 6 e 7 de junho de 2026. É
+  uma prova certificada pela Associação[..]\nhttps://www.portugalrunning.c
+ om/eventos/douro-montemuro-ultra-trilhos/
+URL:https://www.portugalrunning.com/eventos/douro-montemuro-ultra-trilhos/
+END:VEVENT
+END:VCALENDAR

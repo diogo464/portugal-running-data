@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da258587a4
+DTSTAMP:20260107T000128Z
+DTSTART:20260110T080200Z
+DTEND:20260110T080200Z
+LOCATION:Albergaria-a-Velha\,  Aveiro Albergaria-a-Velha\,  Aveiro
+SUMMARY:Caminhada e Corrida Nocturna dos Reis 2026
+DESCRIPTION:Caminhada e Corrida dos Reis 2026 realiza-se na cidade de Alber
+ garia-a-Velha (Aveiro\,  Portugal)\,  sendo um dos eventos desportivos mais
+  participados da região. O percurso é de estrada (urbano) e de caráter n
+ oturno\,  composto habitualmente por uma corrida competitiva de 12 km e uma
+  caminhada não competitiva.\nhttps://www.portugalrunning.com/eventos/camin
+ hada-e-corrida-nocturna-dos-reis/
+URL:https://www.portugalrunning.com/eventos/caminhada-e-corrida-nocturna-dos-reis/
+END:VEVENT
+END:VCALENDAR

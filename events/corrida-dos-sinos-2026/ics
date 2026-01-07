@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25a62c8f
+DTSTAMP:20260107T000130Z
+DTSTART:20260329
+DTEND:20260330
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:Corrida dos Sinos 2026
+DESCRIPTION:A Corrida dos Sinos e a MiniCorrida/Caminhada dos Sininhos são
+  organizadas pela Associação dos Amigos do Atletismo de Mafra em colabora
+ ção com a Câmara Municipal de Mafra\,  Junta de Freguesia de Mafra e Esc
+ ola das Armas. Corrida dos Sinos - 15 km MiniCorrida/Caminhada dos Sininhos
+  - 6\, 5 km\nhttps://www.portugalrunning.com/eventos/corrida-dos-sinos-2026
+ /
+URL:https://www.portugalrunning.com/eventos/corrida-dos-sinos-2026/
+END:VEVENT
+END:VCALENDAR

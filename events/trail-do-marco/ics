@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25c8e67d
+DTSTAMP:20260107T000132Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Marco de Canaveses\,  Porto Marco de Canaveses\,  Porto
+SUMMARY:Trail do Marco 2026
+DESCRIPTION:O Trail do Marco regressa em 2026 para a sua 5.ª edição\,  c
+ onsolidando-se como um evento de referência no Norte de Portugal.O evento 
+ é organizado pela Associação Trail do Marco.Esta edição apresenta uma 
+ grande novidade: a introdução da distância Ultra. O evento é composto p
+ or 3 provas competitivas e uma[..]\nhttps://www.portugalrunning.com/eventos
+ /trail-do-marco/
+URL:https://www.portugalrunning.com/eventos/trail-do-marco/
+END:VEVENT
+END:VCALENDAR

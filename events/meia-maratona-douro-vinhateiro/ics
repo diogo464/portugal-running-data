@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da2589f4d3
+DTSTAMP:20260107T000128Z
+DTSTART:20260524
+DTEND:20260525
+LOCATION:Peso da Régua\,  Vila Real Peso da Régua\,  Vila Real
+SUMMARY:Meia Maratona Douro Vinhateiro 2026
+DESCRIPTION:A Meia Maratona Douro Vinhateiro\,  amplamente reconhecida como
+  "a corrida mais bela do mundo"\,  realiza-se anualmente no mês de maio\, 
+  tendo como coração a cidade do Peso da&nbsp;Régua\,  em Portugal. Esta 
+ prova de estrada desenrola-se ao longo das margens do rio Douro\,  oferecen
+ do aos atletas a distância principal de 21[..]\nhttps://www.portugalrunnin
+ g.com/eventos/meia-maratona-douro-vinhateiro/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-douro-vinhateiro/
+END:VEVENT
+END:VCALENDAR

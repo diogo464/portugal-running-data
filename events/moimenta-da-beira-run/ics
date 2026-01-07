@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25a3d76e
+DTSTAMP:20260107T000130Z
+DTSTART:20260329T202100Z
+DTEND:20260329T202100Z
+LOCATION:Moimenta da Beira\,  Viseu Moimenta da Beira\,  Viseu
+SUMMARY:Moimenta da Beira Run 2026
+DESCRIPTION:O Clube Desportivo de Leomil\,  com a colaboração do Municíp
+ io de Moimenta da Beira\, Junta de Freguesia de Cabaços\,  Associação de
+  Caça e Pesca - Os Lobos de Cabaços\,  Associação deAtletismo de Viseu 
+ (AAV) e Federação Portuguesa de Atletismo (FPA)\,  vai realizar no próxi
+ mo dia29 de março de 2026\,  a 4.ª[..]\nhttps://www.portugalrunning.com/e
+ ventos/moimenta-da-beira-run/
+URL:https://www.portugalrunning.com/eventos/moimenta-da-beira-run/
+END:VEVENT
+END:VCALENDAR

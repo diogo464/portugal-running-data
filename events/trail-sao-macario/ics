@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25da2eb5
+DTSTAMP:20260107T000133Z
+DTSTART:20261114
+DTEND:20261115
+LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+SUMMARY:Trail São Macário 2026
+DESCRIPTION:O GTT.SPS - Grupo Todo Terreno de São Pedro do Sul vai realiza
+ r a 9ª Edição do SÃO MACÁRIO ULTRA TRAIL (SMUT)\,  nos próximos dias 
+ 14 e 15 de Novembro de 2026\,  em Sul (Escola Primária de Sul) em São Ped
+ ro do Sul. O evento incluiu 4 provas: o ULTRA[..]\nhttps://www.portugalrunn
+ ing.com/eventos/trail-sao-macario/
+URL:https://www.portugalrunning.com/eventos/trail-sao-macario/
+END:VEVENT
+END:VCALENDAR

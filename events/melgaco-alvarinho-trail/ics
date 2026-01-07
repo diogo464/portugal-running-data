@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25928ce3
+DTSTAMP:20260107T000129Z
+DTSTART:20260315
+DTEND:20260316
+LOCATION:Melgaço\,  Viana do Castelo Melgaço\,  Viana do Castelo
+SUMMARY:Melgaço Alvarinho Trail 2026
+DESCRIPTION:O 11º Melgaço Alvarinho Trail / Quintas de Melgaço (MAT) é 
+ organizado pela Melsport E.M.\,  com apoio da C.M. de Melgaço\,  Associaç
+ ão Trail Running de Portugal\,  Associação de Atletismo de Viana do Cast
+ elo e Associação Humanitária dos Bombeiros Voluntários de Melgaço. Ser
+ á realizada no dia 15 de março de 2026.[..]\nhttps://www.portugalrunning.
+ com/eventos/melgaco-alvarinho-trail/
+URL:https://www.portugalrunning.com/eventos/melgaco-alvarinho-trail/
+END:VEVENT
+END:VCALENDAR

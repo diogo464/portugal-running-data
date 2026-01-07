@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25a495cb
+DTSTAMP:20260107T000130Z
+DTSTART:20260418T175200Z
+DTEND:20260418T235900Z
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Maratona Filhos da Freita 2026
+DESCRIPTION:A Confraria Trotamontes em parceria com a Câmara de Arouca vai
+  realizar a 3ªEdição da Maratona Filhos da Freita\,  que decorrerá a 18
+  de abril de 2026 (sábado)\,  em Arouca. A Maratona Filhos da Freita será
+  constituída por duas provas e uma caminhada:●Provas de 42km e 21km● C
+ aminhada 10km A[..]\nhttps://www.portugalrunning.com/eventos/maratona-filho
+ s-da-freita/
+URL:https://www.portugalrunning.com/eventos/maratona-filhos-da-freita/
+END:VEVENT
+END:VCALENDAR

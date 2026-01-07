@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25cc9949
+DTSTAMP:20260107T000132Z
+DTSTART:20260412
+DTEND:20260413
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Trail Santa Luzia 2026
+DESCRIPTION:Prova designada Trail Santa Luzia (TSL)\,  sendo no ano 2026 a 
+ sua 12.ª Edição\,  nas versões: Trail Longo: 30 km Trail Sprint: 18 km 
+ Mini Trail: 15 km Caminhada: 10 km\nhttps://www.portugalrunning.com/eventos
+ /trail-santa-luzia/
+URL:https://www.portugalrunning.com/eventos/trail-santa-luzia/
+END:VEVENT
+END:VCALENDAR

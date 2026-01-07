@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25a57f5f
+DTSTAMP:20260107T000130Z
+DTSTART:20260517
+DTEND:20260518
+LOCATION:Vila Nova de Paiva\,  Viseu Vila Nova de Paiva\,  Viseu
+SUMMARY:Demo Trail 2026
+DESCRIPTION:O Demo Trail visa proporcionar uma experiência desportiva de q
+ ualidade nos trilhos do concelho de Vila Nova de Paiva.Este evento será co
+ mposto por 3 provas distintas e uma caminhada: Trail Ultra Médio (45 km)Tr
+ ail Sprint (24 km)Trail Curto (15 km)Caminhada (9 km)s\nhttps://www.portuga
+ lrunning.com/eventos/demo-trail/
+URL:https://www.portugalrunning.com/eventos/demo-trail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25ace9a9
+DTSTAMP:20260107T000130Z
+DTSTART:20260716
+DTEND:20260717
+LOCATION:Proença a Nova  Proença-a-Nova
+SUMMARY:Pt281 Ultramarathon 2026
+DESCRIPTION:A PT281® Ultramarathon é uma coorganização da Horizontes Tu
+ rismo Desportivo e Viagens e a Associação Interior Convida. A prova reali
+ zar-se-á nos dias 16 a 19 de julho de 2026.\nhttps://www.portugalrunning.c
+ om/eventos/pt281-ultramarathon/
+URL:https://www.portugalrunning.com/eventos/pt281-ultramarathon/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da258f1c94
+DTSTAMP:20260107T000128Z
+DTSTART:20261127
+DTEND:20261128
+LOCATION:Vila Gerês\,  Braga Vila Gerês\,  Braga
+SUMMARY:Gerês Extreme Marathon 2026
+DESCRIPTION:A Gerês Extreme Marathon é amplamente considerada a maratona 
+ de estrada mais dura e exigente de Portugal (e uma das mais desafiantes da 
+ Europa)\,  devido ao seu desnível acumulado extremamente elevado. Realizad
+ a no cenário único do Parque Nacional da Peneda-Gerês\,  com partida e c
+ hegada na Vila do Gerês (Terras de[..]\nhttps://www.portugalrunning.com/ev
+ entos/geres-extreme-marathon/
+URL:https://www.portugalrunning.com/eventos/geres-extreme-marathon/
+END:VEVENT
+END:VCALENDAR

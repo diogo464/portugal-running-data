@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:695da25d71f36
+DTSTAMP:20260107T000133Z
+DTSTART:20260329
+DTEND:20260330
+LOCATION:Coimbra Coimbra
+SUMMARY:Trilhos das Azenhas 2026
+DESCRIPTION:O TRILHOS DAS AZENHAS é organizado pela Roda Dianteira BTT. A 
+ Roda Dianteira BTT é umaentidade\,  que tem como principal objetivo promov
+ er e desenvolveratividades desportivas de aventura associadas à natureza. 
+ O âmbito da sua ação passa pelapromoção de atividades de cariz ambient
+ al\,  social e cultural.O TRILHOS DAS AZENHAS é um[..]\nhttps://www.portug
+ alrunning.com/eventos/trilhos-das-azenhas/
+URL:https://www.portugalrunning.com/eventos/trilhos-das-azenhas/
+END:VEVENT
+END:VCALENDAR
