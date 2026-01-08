@@ -2,7 +2,40 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-01-06T22:26:09+00:00</lastmod>
+		<lastmod>2026-01-07T06:48:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/estafeta-alcanena-rio-maior/</loc>
+		<lastmod>2026-01-07T06:48:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/Estafeta-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai/</loc>
+		<lastmod>2026-01-07T06:43:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-de-s-joao-de-braga/</loc>
+		<lastmod>2026-01-07T06:42:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-beactive-night/</loc>
+		<lastmod>2026-01-07T06:31:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-noturno-sra-da-guia/</loc>
+		<lastmod>2026-01-07T06:29:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/2026-01-07_01-51-19_695dbc1790091-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-ribeira-de-limas/</loc>
+		<lastmod>2026-01-07T06:27:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/695dba57d37a1_Captura_de_ecra_2026-01-07_as_01.43.37.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-do-marco/</loc>
@@ -434,18 +467,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/950x350px.jpg.950x350_q95_crop_upscale-1.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai/</loc>
-		<lastmod>2026-01-02T11:42:50+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-beactive-night-matosinhos/</loc>
-		<lastmod>2026-01-02T11:41:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-de-s-joao-de-braga/</loc>
-		<lastmod>2026-01-02T11:40:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-da-mulher-porto/</loc>
