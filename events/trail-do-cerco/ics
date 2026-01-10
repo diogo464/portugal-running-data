@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696196c32c398
+DTSTAMP:20260110T000107Z
+DTSTART:20260913
+DTEND:20260914
+LOCATION:Celorico da Beira\,  Guarda Celorico da Beira\,  Guarda
+SUMMARY:Trail do Cerco 2026
+DESCRIPTION:O ”IV TRAIL DO CERCO” é um trail\,  organizado pelo Muníc
+ ipio de Celorico da Beira\,  com o apoio técnico da “AVCAT-Associação 
+ Vila Chã Aldeia Trail de Portugal” a realizar no dia 13 de setembro de 2
+ 026\,  em Celorico da Beira. Este trail faz parte do “Circuito de Trail d
+ a Beira[..]\nhttps://www.portugalrunning.com/eventos/trail-do-cerco/
+URL:https://www.portugalrunning.com/eventos/trail-do-cerco/
+END:VEVENT
+END:VCALENDAR

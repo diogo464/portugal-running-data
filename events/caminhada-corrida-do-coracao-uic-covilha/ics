@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696196c46bbe5
+DTSTAMP:20260110T000108Z
+DTSTART:20260131T081500Z
+DTEND:20260131T081500Z
+LOCATION:Covilhã\,  Castelo Branco Covilhã\,  Castelo Branco
+SUMMARY:Caminhada / Corrida do Coração - UIC Covilhã 2026
+DESCRIPTION:A "Caminhada / Corrida do Coração" é um evento de lazer e se
+ nsibilização para a saúde\,  promovido pela Unidade de Intervenção Car
+ diovascular da ULS Cova da Beira\,  que celebra o 2º aniversário nesta da
+ ta. Local de Partida e Chegada: Parque Multiusos Duppigheim - Boidobra.Hor�
+ �rio: Concentração às 9h e partida às[..]\nhttps://www.portugalrunning.
+ com/eventos/caminhada-corrida-do-coracao-uic-covilha/
+URL:https://www.portugalrunning.com/eventos/caminhada-corrida-do-coracao-uic-covilha/
+END:VEVENT
+END:VCALENDAR

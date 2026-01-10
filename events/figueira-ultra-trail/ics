@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696196c185d3e
+DTSTAMP:20260110T000105Z
+DTSTART:20260404T085100Z
+DTEND:20260404T085100Z
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:Figueira Ultra Trail 2026
+DESCRIPTION:A associação Talentos Objetivos – Clube de Enduro e Recreio
+  irá promover\,  com o apoio da junta de freguesia de Buarcos e da Câmara
+  Municipal da Figueira da Foz\,  o Figueira Ultra Trail. Será realizada no
+  dia 4 de abril de 2026 independentemente das condições climatéricas e q
+ ue o organizador[..]\nhttps://www.portugalrunning.com/eventos/figueira-ultr
+ a-trail/
+URL:https://www.portugalrunning.com/eventos/figueira-ultra-trail/
+END:VEVENT
+END:VCALENDAR

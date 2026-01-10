@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696196c533d2d
+DTSTAMP:20260110T000109Z
+DTSTART:20260711
+DTEND:20260712
+LOCATION:Figueiró da Granja\,  Guarda Figueiró da Granja\,  Guarda
+SUMMARY:Trilhos do Castro de Santiago Sunset Edition 2026
+DESCRIPTION:O ”IV TRILHOS CASTRO DE SANTIAGO-SUNSET EDITION” é um trai
+ l\,  organizado pela “AVCAT-Associação Vila Chã Aldeia Trail de Portug
+ al” a realizar no dia 11 de julho de 2026\,  em Figueiró da Granja - For
+ nos deAlgodres. Este trail faz parte do “Circuito de Trail da Beira Alta 
+ - VI(r)VER BEIRA ALTA”[..]\nhttps://www.portugalrunning.com/eventos/trilh
+ os-do-castro-de-santiago-sunset-edition/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-castro-de-santiago-sunset-edition/
+END:VEVENT
+END:VCALENDAR
