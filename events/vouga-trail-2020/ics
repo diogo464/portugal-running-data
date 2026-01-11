@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6962e8270cd7c
+DTSTAMP:20260111T000039Z
+DTSTART:20200112
+DTEND:20200113
+LOCATION:Sever do Vouga\,  Aveiro Sever do Vouga\,  Aveiro
+SUMMARY:Vouga Trail 2020
+DESCRIPTION:A Associação Aztrail\,  em parceria com o Município de Sever
+  de Vouga\,  organizará a segunda edição Vouga Trail\,  dividida nos eve
+ ntos Vouga Ultra Trail\,  Vouga Trail Longo\,  Vouga Trail Curto\,  Vouga C
+ aminhada e Vouga Kids. Vem estrear-te num dos novos e mais surpreendentes e
+ ventos do ano\,  preenchidos pela paisagem florestal[..]\nhttps://www.portu
+ galrunning.com/eventos/vouga-trail-2020/
+URL:https://www.portugalrunning.com/eventos/vouga-trail-2020/
+END:VEVENT
+END:VCALENDAR

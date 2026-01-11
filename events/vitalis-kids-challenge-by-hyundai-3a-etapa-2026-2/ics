@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6962e826a8880
+DTSTAMP:20260111T000038Z
+DTSTART:20260503
+DTEND:20260504
+LOCATION:Porto Porto
+SUMMARY:Vitalis Kids Challenge by Hyundai - 3ª Etapa 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/vitalis-kids-challeng
+ e-by-hyundai-3a-etapa-2026-2/
+URL:https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai-3a-etapa-2026-2/
+END:VEVENT
+END:VCALENDAR

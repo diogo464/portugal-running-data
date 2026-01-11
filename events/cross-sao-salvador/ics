@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6962e824721bb
+DTSTAMP:20260111T000036Z
+DTSTART:20260222T145000Z
+DTEND:20260222T235900Z
+LOCATION:Pinhal da Murteira\,  Ílhavo Pinhal da Murteira\,  Ílhavo
+SUMMARY:Cross São Salvador 2026
+DESCRIPTION:A Junta de Freguesia de São Salvador (Ílhavo) e a Associaçã
+ o Cultural e Desportiva Os Ílhavos organizam em conjunto e levam a efeito 
+ no dia 22 de fevereiro de 2026\,  o IV Cross S.Salvador - Os Ílhavos\,  pe
+ las 9h30\,  no Parque de Merendas da Vista Alegre.\nhttps://www.portugalrun
+ ning.com/eventos/cross-sao-salvador/
+URL:https://www.portugalrunning.com/eventos/cross-sao-salvador/
+END:VEVENT
+END:VCALENDAR

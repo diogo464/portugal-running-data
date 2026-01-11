@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6962e8245af4f
+DTSTAMP:20260111T000036Z
+DTSTART:20260315T155600Z
+DTEND:20260315T235900Z
+LOCATION:Tavira\,  Faro Tavira\,  Faro
+SUMMARY:MOVE.Tavira 2026
+DESCRIPTION:A 18.ª edição do MOVE.Tavira\,  iniciativa solidária promov
+ ida pela Associação Oncológica do Algarve &nbsp;em colaboração com a C
+ âmara Municipal de Tavira\,  a União de Freguesias de Tavira e a Tavirave
+ rde\,  irá decorrer no próximo 15 de março de 2026\,  tendo como local d
+ e partida a Praça da República\,  em Tavira.&nbsp;&nbsp;[..]\nhttps://www
+ .portugalrunning.com/eventos/move-tavira/
+URL:https://www.portugalrunning.com/eventos/move-tavira/
+END:VEVENT
+END:VCALENDAR

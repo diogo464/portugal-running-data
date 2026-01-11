@@ -2,7 +2,86 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-01-09T08:54:24+00:00</lastmod>
+		<lastmod>2026-01-10T14:49:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vouga-trail/</loc>
+		<lastmod>2026-01-10T14:49:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/539414397_1372418941552370_1954746449015731382_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vouga-trail-2020/</loc>
+		<lastmod>2026-01-10T14:49:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/74531976_2468484863363381_3452168590810152960_o.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/move-tavira/</loc>
+		<lastmod>2026-01-10T06:12:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/MOVE-2026-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/h-clash-2026/</loc>
+		<lastmod>2026-01-10T06:00:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-fpf/</loc>
+		<lastmod>2026-01-10T05:59:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/Corrida-FPF-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai-3a-etapa-2026-2/</loc>
+		<lastmod>2026-01-10T05:55:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-obidos/</loc>
+		<lastmod>2026-01-10T05:49:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/cartaz141334_grande-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-de-s-joao-de-braga/</loc>
+		<lastmod>2026-01-10T05:47:03+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai/</loc>
+		<lastmod>2026-01-10T05:46:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-do-chocolate/</loc>
+		<lastmod>2026-01-10T05:45:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/cartaz128638_grande-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-do-entrudono/</loc>
+		<lastmod>2026-01-10T05:43:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/69611bc52ec94_cartaz_trilho_do_Entrudono_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/mangualde-trail-desafio-dos-santos-2026/</loc>
+		<lastmod>2026-01-10T05:40:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/695fa5f3e4430_cartaz_mangualde_trail_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/cross-sao-salvador/</loc>
+		<lastmod>2026-01-10T05:38:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/banner-cross-os-ilhavos-2026-min.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/figueira-ultra-trail/</loc>
@@ -112,14 +191,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/Estafeta-1.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai/</loc>
-		<lastmod>2026-01-07T06:43:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-de-s-joao-de-braga/</loc>
-		<lastmod>2026-01-07T06:42:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-beactive-night/</loc>
@@ -386,13 +457,6 @@
 		<lastmod>2026-01-06T08:09:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/574846367_1436647891796158_1280545578915015048_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vouga-trail-2/</loc>
-		<lastmod>2026-01-06T07:52:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/539414397_1372418941552370_1954746449015731382_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3441,13 +3505,6 @@
 		<lastmod>2025-10-03T01:42:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/CORRIDA-AGUA-043-750x380-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-obidos-2026/</loc>
-		<lastmod>2025-10-03T01:38:29+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/cartaz141334_grande-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -32991,13 +33048,6 @@
 		<lastmod>2020-01-05T19:16:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/1-tp-prctr.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vouga-trail/</loc>
-		<lastmod>2020-01-05T19:15:27+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/74531976_2468484863363381_3452168590810152960_o.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

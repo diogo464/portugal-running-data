@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6962e824a7a92
+DTSTAMP:20260111T000036Z
+DTSTART:20260517T055600Z
+DTEND:20260517T055600Z
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corrida FPF 2026
+DESCRIPTION:A&nbsp;Corrida FPF\,  organizada pela Federação Portuguesa de
+  Futebol\,  realiza-se a&nbsp;17 de maio 2026\,  com partida na Av. Pierre 
+ Coubertain - em frente à Praça da Maratona e chegada na Pista de Honra do
+  Centro Desportivo Nacional do Jamor. A iniciativa conta com a corrida de 1
+ 0 km e caminhada de[..]\nhttps://www.portugalrunning.com/eventos/corrida-fp
+ f/
+URL:https://www.portugalrunning.com/eventos/corrida-fpf/
+END:VEVENT
+END:VCALENDAR

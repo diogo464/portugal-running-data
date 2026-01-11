@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6962e8249533c
+DTSTAMP:20260111T000036Z
+DTSTART:20260321
+DTEND:20260322
+LOCATION:Óbidos\,  Leiria Óbidos\,  Leiria
+SUMMARY:Corrida do Chocolate 2026
+DESCRIPTION:A Empresa Municipal “Óbidos Criativa” (OC) organiza em par
+ ceria com a Câmara Municipal de Óbidos (CMO)\,  o Clube de Atletismo de �
+ �bidos (CAOB) e a GanharDestak\,  no dia 21 de março de 2026\,  uma compet
+ ição denominada “VII CORRIDA DO CHOCOLATE”\,  integrando ainda a “V
+ I CAMINHADA DO CHOCOLATE”\,  ambas com partida[..]\nhttps://www.portugalr
+ unning.com/eventos/corrida-do-chocolate/
+URL:https://www.portugalrunning.com/eventos/corrida-do-chocolate/
+END:VEVENT
+END:VCALENDAR
