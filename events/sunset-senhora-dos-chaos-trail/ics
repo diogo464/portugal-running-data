@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6964399e9218b
+DTSTAMP:20260112T000030Z
+DTSTART:20260502T092000Z
+DTEND:20260502T235900Z
+LOCATION:Valongo\,  Porto Valongo\,  Porto
+SUMMARY:Sunset Senhora dos Chãos Trail 2026
+DESCRIPTION:O Sunset Sra dos Chãos Trail é organizado pela TOG – Associ
+ ação Running Team e será realizado no dia02 de maio de 2026\,  no espaç
+ o envolvente à capela da Nossa Senhora dos Chãos\,  em Valongo\, independ
+ entemente das condições climatéricas do dia\,  desde que a organização
+  entenda que não constituam risco aos[..]\nhttps://www.portugalrunning.com
+ /eventos/sunset-senhora-dos-chaos-trail/
+URL:https://www.portugalrunning.com/eventos/sunset-senhora-dos-chaos-trail/
+END:VEVENT
+END:VCALENDAR
