@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69658b2292fa4
+DTSTAMP:20260113T000034Z
+DTSTART:20260606T202400Z
+DTEND:20260606T202400Z
+LOCATION:Sabugosa\,  Tondela Sabugosa\,  Tondela
+SUMMARY:StepUp Trail - Nossa Senhora do Pranto 2026
+DESCRIPTION:O StepUp Trail: Nossa Senhora do Pranto é um evento desportivo
+  de carácter competitivo e recreativo que decorrerá a 06 de junho de 2026
+ \,  com partida às 09:00h\,  no Parque Abel Lacerda\,  Sabugosa - Tondela.
+  Trail - 15 km Mini Trail - 10 km Caminhada - 8 km\nhttps://www.portugalrun
+ ning.com/eventos/stepup-trail-nossa-senhora-do-pranto/
+URL:https://www.portugalrunning.com/eventos/stepup-trail-nossa-senhora-do-pranto/
+END:VEVENT
+END:VCALENDAR

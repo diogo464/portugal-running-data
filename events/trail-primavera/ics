@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69658b21771eb
+DTSTAMP:20260113T000033Z
+DTSTART:20260322
+DTEND:20260323
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:Trail Primavera 2026
+DESCRIPTION:O 7º TRAIL DA PRIMAVERA é um evento de natureza desportiva\, 
+  onde o valor das refeições reverterá na totalidade para a Associação 
+ de Bem Estar das Ademas. Este evento terá três distâncias: Trail Curto\,
+   Trail Longo e Caminhada.\nhttps://www.portugalrunning.com/eventos/trail-p
+ rimavera/
+URL:https://www.portugalrunning.com/eventos/trail-primavera/
+END:VEVENT
+END:VCALENDAR

@@ -2,7 +2,70 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-01-11T07:53:00+00:00</lastmod>
+		<lastmod>2026-01-12T21:19:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/lusiadas-g-p-do-atlantico-serafim-martins/</loc>
+		<lastmod>2026-01-12T21:19:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/GP-ATLANTICO-2025-03-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-rota-do-varosa/</loc>
+		<lastmod>2026-01-12T21:11:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6964e4cf625b3_VAROSA_26.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sunset-senhora-dos-chaos-trail/</loc>
+		<lastmod>2026-01-12T21:08:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/7aab30523e3214ea487017c56c5a7fe0-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/laac-trail/</loc>
+		<lastmod>2026-01-12T21:08:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/banner-laac-trail-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/stepup-trail-nossa-senhora-do-pranto/</loc>
+		<lastmod>2026-01-12T20:28:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/695f8d4fd843e_Cartaz_StepUp_Trail_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-da-boa-viagem/</loc>
+		<lastmod>2026-01-12T20:15:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/695fd779762a9_4099_cartaz_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-primavera/</loc>
+		<lastmod>2026-01-12T20:12:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/695e4ee221941_Cartaz_Trail_Primavera_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-da-tomina-2/</loc>
+		<lastmod>2026-01-12T20:10:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6964e17a477a0_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/move-tavira/</loc>
+		<lastmod>2026-01-12T19:41:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/614357015_1318892523608899_7558086361495714475_n-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-fpf/</loc>
@@ -16,13 +79,6 @@
 		<lastmod>2026-01-11T07:52:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/sunset-senhora-dos-chaos-trail/</loc>
-		<lastmod>2026-01-11T07:51:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/7aab30523e3214ea487017c56c5a7fe0-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/vouga-trail/</loc>
 		<lastmod>2026-01-10T14:49:59+00:00</lastmod>
 		<image:image>
@@ -34,13 +90,6 @@
 		<lastmod>2026-01-10T14:49:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/74531976_2468484863363381_3452168590810152960_o.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/move-tavira/</loc>
-		<lastmod>2026-01-10T06:12:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/MOVE-2026-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

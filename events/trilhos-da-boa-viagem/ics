@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69658b2205ce7
+DTSTAMP:20260113T000034Z
+DTSTART:20260426
+DTEND:20260427
+LOCATION:Moita\,  Setúbal Moita\,  Setúbal
+SUMMARY:Trilhos da Boa Viagem 2026
+DESCRIPTION:A organização desta prova é da responsabilidade do Grupo Peg
+ ada Ribeirinha\,  em parceria com as Juntas de Freguesias da Moita e Alhos 
+ Vedros e Câmara Municipal da Moita . Distâncias:- Trail 23 Km’s- Trail 
+ 12 Km’s- Caminhada 10 Km’s- Kids 500 metros\nhttps://www.portugalrunnin
+ g.com/eventos/trilhos-da-boa-viagem/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-boa-viagem/
+END:VEVENT
+END:VCALENDAR
