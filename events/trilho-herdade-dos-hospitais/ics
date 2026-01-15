@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69682e1db3ee1
+DTSTAMP:20260115T000029Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Montemor-o-Novo\,  Évora Montemor-o-Novo\,  Évora
+SUMMARY:Trilho Herdade dos Hospitais 2026
+DESCRIPTION:A organização\,  vai realizar o 5º Trilho Herdade dos Hospit
+ ais\,  o qual vai decorrer em Montemor-o-Novo\,  na Herdade dos Hospitais\,
+   no local onde no dia anterior se realizou um Raid Equestre Internacional.
+ Esta prova contará com percursos que combinam corrida com superação de o
+ bstáculos naturais e arquitectónicos\,  dentro da Herdade dos[..]\nhttps:
+ //www.portugalrunning.com/eventos/trilho-herdade-dos-hospitais/
+URL:https://www.portugalrunning.com/eventos/trilho-herdade-dos-hospitais/
+END:VEVENT
+END:VCALENDAR

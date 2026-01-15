@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69682e1a214ca
+DTSTAMP:20260115T000026Z
+DTSTART:20260214
+DTEND:20260215
+LOCATION:Portugal Portugal
+SUMMARY:Corrida Virtual de São Valentim - APAV - 2026
+DESCRIPTION:O Dorsal e restantes dados de participação serão enviados pr
+ óximo da data da realização do evento. No final do teu percurso deverás
+  enviar comprovativo&nbsp;- foto/screenshot de aplicação (telemóvel\,  s
+ martwatch\,  ...)onde tenhas indicado a distância percorrida; tempo (dura�
+ �ão) e nome/foto do participante.\nhttps://www.portugalrunning.com/eventos
+ /corrida-virtual-de-sao-valentim-apav/
+URL:https://www.portugalrunning.com/eventos/corrida-virtual-de-sao-valentim-apav/
+END:VEVENT
+END:VCALENDAR

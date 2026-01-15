@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69682e1a9fb73
+DTSTAMP:20260115T000026Z
+DTSTART:20260510T141800Z
+DTEND:20260510T235900Z
+LOCATION:Góis\,  Coimbra Góis\,  Coimbra
+SUMMARY:Góis Trail 2026
+DESCRIPTION:O GÓIS TRAIL é um evento de trail running que terá este ano 
+ a sua 3ªedição. Com o slogan ENTRE A SERRA E O CEIRA\,  um trail que pro
+ cura mostrar a todos os participantes a natureza envolvente do vale do rio 
+ ceira com as suas serras em redor.É um evento[..]\nhttps://www.portugalrun
+ ning.com/eventos/gois-trail/
+URL:https://www.portugalrunning.com/eventos/gois-trail/
+END:VEVENT
+END:VCALENDAR

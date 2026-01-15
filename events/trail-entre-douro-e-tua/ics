@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69682e1db454a
+DTSTAMP:20260115T000029Z
+DTSTART:20260913T121900Z
+DTEND:20260913T235900Z
+LOCATION:Carrazeda de Ansiães\,  Bragança Carrazeda de Ansiães\,  Bragança
+SUMMARY:Trail entre Douro e Tua 2026
+DESCRIPTION:O evento TRAIL ENTRE DOURO E TUA é organizado pelo Clube Despo
+ rtivo Entre Douro e Tua. Colaboram o Município de Carrazeda de Ansiães\, 
+  a Junta de Freguesia Carrazeda de Ansiães\,  a Junta de Freguesia de Cast
+ anheiro do Norte\,  a Junta de Freguesia de Linhares e a Junta de Freguesia
+  Parambos.[..]\nhttps://www.portugalrunning.com/eventos/trail-entre-douro-e
+ -tua/
+URL:https://www.portugalrunning.com/eventos/trail-entre-douro-e-tua/
+END:VEVENT
+END:VCALENDAR
