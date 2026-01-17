@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696ad1270eeb9
+DTSTAMP:20260117T000039Z
+DTSTART:20260419T055600Z
+DTEND:20260419T055600Z
+LOCATION:Arrabal\,  Leiria Arrabal\,  Leiria
+SUMMARY:Trail Bairro Anjos 2026
+DESCRIPTION:4ª Edição do Trail Bairro dos Anjos é um evento organizado 
+ pela Associação Desportiva\,  Cultural e Recreativa do Bairro dos Anjos -
+  Leiria\,  que se realiza no dia 19 de abril de 2026. Este evento tem o apo
+ io da Câmara Municipal de Leiria e da Junta de Freguesia do Arrabal.[..]\n
+ https://www.portugalrunning.com/eventos/trail-bairro-anjos/
+URL:https://www.portugalrunning.com/eventos/trail-bairro-anjos/
+END:VEVENT
+END:VCALENDAR

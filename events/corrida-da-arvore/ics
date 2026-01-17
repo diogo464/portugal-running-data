@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696ad1246a629
+DTSTAMP:20260117T000036Z
+DTSTART:20260228
+DTEND:20260301
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Corrida da Árvore 2026
+DESCRIPTION:Lançada em 1993\,  a “Corrida da Árvore” é uma prova his
+ tórica\,  no coração verde de Lisboa\,  amiga do ambiente e que este ano
+  alcança um marco histórico\,  a 31ª edição.\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-da-arvore/
+URL:https://www.portugalrunning.com/eventos/corrida-da-arvore/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696ad1262ad9d
+DTSTAMP:20260117T000038Z
+DTSTART:20260215
+DTEND:20260216
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida dos Namorados - Lisboa - 2026
+DESCRIPTION:Um percurso de 10km\,  no Instituto Superior de Agronomia\, &nb
+ sp;unidos num só objetivo… passar a meta em conjunto! Não importa o rit
+ mo\,  o importante é compartilhar o prazer da atividade física\,  num amb
+ iente de natureza e envolvidos por uma atmosfera de romantismo e cumplicida
+ de.&nbsp;A classificação da vertente casais é feita por[..]\nhttps://www
+ .portugalrunning.com/eventos/corrida-dos-namorados-lisboa/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-namorados-lisboa/
+END:VEVENT
+END:VCALENDAR

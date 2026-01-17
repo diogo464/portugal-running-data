@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696ad1256176e
+DTSTAMP:20260117T000037Z
+DTSTART:20260207T055400Z
+DTEND:20260208T055400Z
+LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+SUMMARY:Ocr 4All Experience Weekend 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ocr-4all-experience-w
+ eekend/
+URL:https://www.portugalrunning.com/eventos/ocr-4all-experience-weekend/
+END:VEVENT
+END:VCALENDAR

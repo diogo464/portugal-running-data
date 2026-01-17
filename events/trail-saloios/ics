@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696ad127e3ba3
+DTSTAMP:20260117T000039Z
+DTSTART:20260531T052900Z
+DTEND:20260531T052900Z
+LOCATION:Ventosa\,  Torres Vedras Ventosa\,  Torres Vedras
+SUMMARY:Trail Saloios 2026
+DESCRIPTION:O 1ºTrail Saloios apresenta-se com duas categorias de trail ru
+ nning\,  com distâncias de 18 kms\,  13 kms e uma categoria de caminhada d
+ e apróximadamente 6 kms.Organizado pela secção de BTT da A.C.D.R. Arneir
+ os\,  este evento só se torna possível com o apoio destas entidades\,  e 
+ dos grandes e fiéis parceiros\, [..]\nhttps://www.portugalrunning.com/even
+ tos/trail-saloios/
+URL:https://www.portugalrunning.com/eventos/trail-saloios/
+END:VEVENT
+END:VCALENDAR

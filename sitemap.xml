@@ -2,11 +2,92 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-01-14T07:45:11+00:00</lastmod>
+		<lastmod>2026-01-16T05:57:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-bairro-anjos/</loc>
+		<lastmod>2026-01-16T05:57:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/ocr-4all-experience-weekend/</loc>
+		<lastmod>2026-01-16T05:56:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/2026-01-14_23-59-55_69682dfb667f4-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-da-arvore/</loc>
+		<lastmod>2026-01-16T05:53:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/ARVORE-2026-021-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-do-carnaval-rio-tinto/</loc>
+		<lastmod>2026-01-16T05:51:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pt_1768317056-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-dos-namorados-lisboa/</loc>
+		<lastmod>2026-01-16T05:42:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/12/NAMORADOS-023-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-dos-namorados-vila-verde/</loc>
+		<lastmod>2026-01-16T05:41:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/2025-08-06_13-16-54_689347b6b7726-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/passos-sra-da-graca/</loc>
+		<lastmod>2026-01-16T05:39:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pop_16c33k3912.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-da-marginal/</loc>
+		<lastmod>2026-01-16T05:37:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pt_1768385158-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-do-carnaval-lousada/</loc>
+		<lastmod>2026-01-16T05:33:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/carnaval_200x100.jpg.200x0_q95.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-de-ano-novo-esposende/</loc>
+		<lastmod>2026-01-16T05:32:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/POSTCNOVO26_2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-saloios/</loc>
+		<lastmod>2026-01-16T05:31:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6968bcb7657e1_Cartaz_TrailSaloios_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-lagoa-da-pateira/</loc>
+		<lastmod>2026-01-16T05:27:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6967b68fd274b_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-virtual-de-sao-valentim-apav/</loc>
-		<lastmod>2026-01-14T07:45:11+00:00</lastmod>
+		<lastmod>2026-01-16T05:25:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/696620dc8ff33_4153_cartaz-cartaz_218.jpg</image:loc>
 		</image:image>
@@ -37,13 +118,6 @@
 		<lastmod>2026-01-14T07:31:51+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/9f93.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-do-carnaval-rio-tinto/</loc>
-		<lastmod>2026-01-14T07:28:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pt_1768317056-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -649,13 +723,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-de-ano-novo-esposende/</loc>
-		<lastmod>2026-01-05T13:43:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/POSTCNOVO26_2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/3-leguas-do-nabao/</loc>
 		<lastmod>2026-01-05T12:42:47+00:00</lastmod>
 		<image:image>
@@ -819,13 +886,6 @@
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-braga/</loc>
 		<lastmod>2026-01-02T08:41:04+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-do-carnaval-lousada/</loc>
-		<lastmod>2026-01-02T08:38:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/carnaval_200x100.jpg.200x0_q95.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-das-vindimas/</loc>
@@ -4678,13 +4738,6 @@
 		<lastmod>2025-08-12T06:31:27+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Banner_site_CABB-scaled-1-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-dos-namorados-2026/</loc>
-		<lastmod>2025-08-12T06:25:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/2025-08-06_13-16-54_689347b6b7726-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

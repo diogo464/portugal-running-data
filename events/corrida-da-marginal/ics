@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696ad12431136
+DTSTAMP:20260117T000036Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Corrida da Marginal 2026
+DESCRIPTION:Realiza-se no dia 8 de março de 2026 pelas 10h\,  a prova come
+ ça e acaba na Av. Brasil em Vila do Conde e faz o retorno na Av. Dos Banho
+ s na Póvoa de Varzim\,  junto ao Desportivo da Póvoa\,  o tempo máximo d
+ e duração desta prova é de 2 horas.\nhttps://www.portugalrunning.com/eve
+ ntos/corrida-da-marginal/
+URL:https://www.portugalrunning.com/eventos/corrida-da-marginal/
+END:VEVENT
+END:VCALENDAR
