@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696c22ac9a382
+DTSTAMP:20260118T000044Z
+DTSTART:20260404
+DTEND:20260405
+LOCATION:Caldas de São Jorge\,  Santa Maria da Feira Caldas de São Jorge\,  Santa Maria da Feira
+SUMMARY:Trilhos Termais 2026
+DESCRIPTION:Os Trilhos Termais é um evento desportivo com vários percurso
+ s de trail running. É um evento com cariz competitivo e uma caminhada com 
+ cariz recreativo que permitirá aos participantes partir da vila termal de 
+ Caldas de São Jorge e percorrer trilhos de beleza extrema do concelho de S
+ anta Maria da[..]\nhttps://www.portugalrunning.com/eventos/trilhos-termais/
+URL:https://www.portugalrunning.com/eventos/trilhos-termais/
+END:VEVENT
+END:VCALENDAR

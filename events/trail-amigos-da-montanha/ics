@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696c22ab37b48
+DTSTAMP:20260118T000043Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Trail Amigos da Montanha 2026
+DESCRIPTION:Venha participar na clássica prova de trail de Barcelos que te
+ m sido uma das referências da zona Norte do país. Com várias distâncias
+  disponíveis e com a partida e chegada no Centro Histórico de Barcelos\, 
+  o cenário ficará uma vez mais montado para o receber com a dignidade que
+  merece.[..]\nhttps://www.portugalrunning.com/eventos/trail-amigos-da-monta
+ nha/
+URL:https://www.portugalrunning.com/eventos/trail-amigos-da-montanha/
+END:VEVENT
+END:VCALENDAR

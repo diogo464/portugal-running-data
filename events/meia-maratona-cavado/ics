@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696c22ac22c71
+DTSTAMP:20260118T000044Z
+DTSTART:20260412
+DTEND:20260413
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Meia Maratona Cávado 2026
+DESCRIPTION:Se juntarmos o rio\,  o mar e a zona rural\,  as tradições\, 
+  a cultura e o artesanato\,  com uma população que está habituada\,  gos
+ ta e sabe receber\,  que é ativa em participar\,  conviver e bem viver\,  
+ com o hábito de assistir e aplaudir eventos desportivos e culturais\,  é 
+ fácil constatar[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona
+ -cavado/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-cavado/
+END:VEVENT
+END:VCALENDAR

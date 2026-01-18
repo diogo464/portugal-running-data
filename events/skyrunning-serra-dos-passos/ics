@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696c22ab408f0
+DTSTAMP:20260118T000043Z
+DTSTART:20260426
+DTEND:20260427
+LOCATION:Mirandela\,  Bragança Mirandela\,  Bragança
+SUMMARY:Skyrunning Serra dos Passos 2026
+DESCRIPTION:O evento\,  Skyrace® Serra dos Passos\,  realizar-se-á no dia
+  26 de Abril de 2026 na localidade dos Passos\,  Mirandela.O percurso\,  cr
+ iado pela equipa Mirandela a Correr\,  percorre as belas Serra dos Passos (
+ 940m) e Serra de Santa Comba (1002m)\,  onde podem ser avistadas as magníf
+ icas paisagens transmontanas.O evento é coorganizado[..]\nhttps://www.port
+ ugalrunning.com/eventos/skyrunning-serra-dos-passos/
+URL:https://www.portugalrunning.com/eventos/skyrunning-serra-dos-passos/
+END:VEVENT
+END:VCALENDAR

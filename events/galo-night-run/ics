@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:696c22a9a75f2
+DTSTAMP:20260118T000041Z
+DTSTART:20260718
+DTEND:20260719
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Galo Night Run 2026
+DESCRIPTION:A noite mais luminosa do ano está de volta. Diz lá se não é
+  de ficar aos pulos de alegria saber que vamos voltar a viver uma noite ass
+ im! A noite mais luminosa do ano está de volta e\,  claro\,  sempre com mu
+ itas surpresas. Inscrições no site dos Amigos da[..]\nhttps://www.portuga
+ lrunning.com/eventos/galo-night-run/
+URL:https://www.portugalrunning.com/eventos/galo-night-run/
+END:VEVENT
+END:VCALENDAR
