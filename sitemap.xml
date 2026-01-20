@@ -2,25 +2,46 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-01-18T19:33:54+00:00</lastmod>
+		<lastmod>2026-01-19T13:45:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/a-tua-prova-aqui/</loc>
+		<lastmod>2026-01-19T13:45:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/destaque.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/12-kms-manteigas-penhas-douradas/</loc>
+		<lastmod>2026-01-19T13:44:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/12km-Manteigas-26-Cartaz.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/gois-trail/</loc>
+		<lastmod>2026-01-19T13:43:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/2026-01-14_00-52-05_6966e8b5e9356-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-das-cantarinhas/</loc>
-		<lastmod>2026-01-18T19:33:54+00:00</lastmod>
+		<lastmod>2026-01-19T13:43:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/598855150_1202044832025770_2427522185532706750_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos/</loc>
-		<lastmod>2026-01-17T20:58:05+00:00</lastmod>
+		<loc>https://www.portugalrunning.com/eventos/corrida-4-estacoes-coimbrashopping/</loc>
+		<lastmod>2026-01-19T13:43:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/615139007_1543174411145348_3305043829383780806_n-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-4-estacoes-coimbrashopping/</loc>
-		<lastmod>2026-01-17T19:47:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/613011559_1540875708041885_8350125392162944479_n-1.jpg</image:loc>
-		</image:image>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos/</loc>
+		<lastmod>2026-01-17T20:58:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/geres-extreme-marathon/</loc>
@@ -324,13 +345,6 @@
 		<lastmod>2026-01-14T07:41:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/2026-01-14_00-52-05_6966e8b5e9356-1-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/gois-trail/</loc>
-		<lastmod>2026-01-14T07:38:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/2026-01-14_00-52-05_6966e8b5e9356-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -838,13 +852,6 @@
 		<lastmod>2026-01-06T07:47:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/romehalfmarathon-header-1-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/12-kms-manteigas-penhas-douradas/</loc>
-		<lastmod>2026-01-06T07:05:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/12km-Manteigas-26-Cartaz.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1918,13 +1925,6 @@
 		<lastmod>2025-12-06T09:19:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/pop_rq76g8g900-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/a-tua-prova-aqui/</loc>
-		<lastmod>2025-12-04T14:24:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/destaque.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
