@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6970172a6f223
+DTSTAMP:20260121T000042Z
+DTSTART:20260322
+DTEND:20260323
+LOCATION:Nespereira\,  Gouveia Nespereira\,  Gouveia
+SUMMARY:Corrida e Caminhada Festa do Porco Nespereira 2026
+DESCRIPTION:A Junta de Freguesia de Nespereira irá realizar o V Caminhada 
+ e Corrida Festa do Porco\,  que consistirá numa prova com cerca de 15km e 
+ numa caminhada com cerca de 8km.A prova\,  terá partida e chegada em frent
+ e à Junta de Freguesia - https://maps.app.goo.gl/5Pc74Kk5PFPErZyb7Haverá 
+ ainda almoço\,  opcional e pago à[..]\nhttps://www.portugalrunning.com/ev
+ entos/corrida-e-caminhada-festa-do-porco-nespereira/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-festa-do-porco-nespereira/
+END:VEVENT
+END:VCALENDAR

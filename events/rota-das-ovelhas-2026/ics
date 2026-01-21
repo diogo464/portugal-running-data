@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6970172b9ada7
+DTSTAMP:20260121T000043Z
+DTSTART:20260403T233200Z
+DTEND:20260403T233200Z
+LOCATION:Lajeosa do Dão\,  Viseu Lajeosa do Dão\,  Viseu
+SUMMARY:Rota das Ovelhas 2026
+DESCRIPTION:A Rota das Ovelhas é um evento organizado pelo Grupo Cultural 
+ Recreativo e Desportivo Mocidade Vinhalense\,  abreviadamente designado por
+  MV em parceria com a Junta de Freguesia de Lajeosa do Dão e a Câmara Mun
+ icipal de Tondela. O principal objectivo deste evento é a promoção da pr
+ ática desportiva\,  o contacto[..]\nhttps://www.portugalrunning.com/evento
+ s/rota-das-ovelhas-2026/
+URL:https://www.portugalrunning.com/eventos/rota-das-ovelhas-2026/
+END:VEVENT
+END:VCALENDAR
