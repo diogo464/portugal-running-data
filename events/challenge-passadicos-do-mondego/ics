@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697168b64cd0b
+DTSTAMP:20260122T000054Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Videmonte\,  Guarda Videmonte\,  Guarda
+SUMMARY:Challenge Passadiços do Mondego 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/challenge-passadicos-
+ do-mondego/
+URL:https://www.portugalrunning.com/eventos/challenge-passadicos-do-mondego/
+END:VEVENT
+END:VCALENDAR

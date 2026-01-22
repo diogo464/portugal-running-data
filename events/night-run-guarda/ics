@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697168b78aace
+DTSTAMP:20260122T000055Z
+DTSTART:20260718T082600Z
+DTEND:20260718T235900Z
+LOCATION:Guarda Guarda
+SUMMARY:Night Run Guarda 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/night-run-guarda/
+URL:https://www.portugalrunning.com/eventos/night-run-guarda/
+END:VEVENT
+END:VCALENDAR

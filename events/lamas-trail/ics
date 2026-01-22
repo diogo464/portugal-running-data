@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697168b7718c4
+DTSTAMP:20260122T000055Z
+DTSTART:20260503
+DTEND:20260504
+LOCATION:Lamas\,  Viseu Lamas\,  Viseu
+SUMMARY:Lamas Trail 2026
+DESCRIPTION:Comissão de Festas de Lamas Ferreira de Aves.O evento é compo
+ sto por três percursos:Trail de 22 km (aprox.);Mini Trail 13 km (aprox.);C
+ aminhada 13 km (aprox.).\nhttps://www.portugalrunning.com/eventos/lamas-tra
+ il/
+URL:https://www.portugalrunning.com/eventos/lamas-trail/
+END:VEVENT
+END:VCALENDAR

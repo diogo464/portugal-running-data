@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697168b764881
+DTSTAMP:20260122T000055Z
+DTSTART:20260314T124500Z
+DTEND:20260314T235900Z
+LOCATION:Seia\,  Guarda Seia\,  Guarda
+SUMMARY:Hyrun 2026
+DESCRIPTION:O HYRUN é um evento de corrida + estações funcionais em dupl
+ as (masculinas\,  femininas oumistas). O objetivo é completar todo o circu
+ ito no menor tempo possível. A prova segue asequência oficial de 8 km de 
+ corrida intercalados com 8 estações\,  pela ordem: SkiErg → Sled Push�
+ � Sled Pull → Burpee[..]\nhttps://www.portugalrunning.com/eventos/hyrun/
+URL:https://www.portugalrunning.com/eventos/hyrun/
+END:VEVENT
+END:VCALENDAR

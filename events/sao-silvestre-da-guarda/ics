@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697168b8587b1
+DTSTAMP:20260122T000056Z
+DTSTART:20261213T070900Z
+DTEND:20261213T235900Z
+LOCATION:Guarda Guarda
+SUMMARY:São Silvestre da Guarda 2026
+DESCRIPTION:Resultados 2025\nhttps://www.portugalrunning.com/eventos/sao-si
+ lvestre-da-guarda/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-guarda/
+END:VEVENT
+END:VCALENDAR

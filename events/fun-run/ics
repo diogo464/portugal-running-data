@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697168b669f26
+DTSTAMP:20260122T000054Z
+DTSTART:20260215T225500Z
+DTEND:20260215T225500Z
+LOCATION:Guarda Guarda
+SUMMARY:Fun Run 2026
+DESCRIPTION:Estão abertas as inscrições para a Fun Run – A Corrida mai
+ s Divertida do Ano! Desafie a família\,  e os amigos e participe nesta ini
+ ciativa na manhã de 15 de fevereiro\,  domingo gordo. A correr ou a caminh
+ ar\,  a Fun Run vai voltar a animar as ruas e espaços verdes[..]\nhttps://
+ www.portugalrunning.com/eventos/fun-run/
+URL:https://www.portugalrunning.com/eventos/fun-run/
+END:VEVENT
+END:VCALENDAR
