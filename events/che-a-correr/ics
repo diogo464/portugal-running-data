@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6972ba1ab3c23
+DTSTAMP:20260123T000026Z
+DTSTART:20260322T084900Z
+DTEND:20260322T235900Z
+LOCATION:Mora\,  Évora Mora\,  Évora
+SUMMARY:Che a Correr 2026
+DESCRIPTION:A IIª EDIÇÃO CHE A CORRER é um evento de natureza desportiv
+ a\,  que visa promover o desporto ehábitos de vida saudáveis. O evento é
+  uma organização conjunta entre a AA CHE Morense\,  a CâmaraMunicipal de
+  Mora e a Junta de Freguesia de Mora.\nhttps://www.portugalrunning.com/even
+ tos/che-a-correr/
+URL:https://www.portugalrunning.com/eventos/che-a-correr/
+END:VEVENT
+END:VCALENDAR

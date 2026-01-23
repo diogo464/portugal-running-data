@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6972ba1cd51cf
+DTSTAMP:20260123T000028Z
+DTSTART:20260927T170600Z
+DTEND:20260927T235900Z
+LOCATION:Ameal\,  Coimbra Ameal\,  Coimbra
+SUMMARY:Meia Maratona Ameal 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/meia-maratona-ameal/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-ameal/
+END:VEVENT
+END:VCALENDAR

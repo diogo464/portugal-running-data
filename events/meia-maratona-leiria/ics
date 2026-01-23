@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6972ba1b098eb
+DTSTAMP:20260123T000027Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Leiria Leiria
+SUMMARY:Meia Maratona Leiria 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/meia-maratona-leiria/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-leiria/
+END:VEVENT
+END:VCALENDAR
