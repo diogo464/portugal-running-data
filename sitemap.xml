@@ -2,7 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-01-22T19:35:26+00:00</lastmod>
+		<lastmod>2026-01-23T07:03:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-obidos/</loc>
+		<lastmod>2026-01-23T07:03:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/cartaz141334_grande-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-azeite-porca-de-murca/</loc>
+		<lastmod>2026-01-23T07:02:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/696e247d4eddf_Cartaz_azeite_porca_de_murca_net-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/che-a-correr/</loc>
@@ -28,13 +42,6 @@
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-bracara-augusta-2026/</loc>
 		<lastmod>2026-01-21T23:21:00+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-azeite-porca-de-murca/</loc>
-		<lastmod>2026-01-21T23:18:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/696e247d4eddf_Cartaz_azeite_porca_de_murca_net-cartaz_460.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-mineiro/</loc>
@@ -364,13 +371,6 @@
 		<lastmod>2026-01-17T14:41:40+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/EDP-Meia-Maratona-Lisboa-2026-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-obidos/</loc>
-		<lastmod>2026-01-17T14:40:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/cartaz141334_grande-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
