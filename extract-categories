@@ -35,6 +35,7 @@ CLASS_TO_CATEGORIES = {
     "event_type-skyrunning": [CATEGORY_RUN],
     "event_type-corridas-inferior-10": [CATEGORY_RUN],
     "event_type-kids": [CATEGORY_KIDS],
+    "event_type-canicross": [CATEGORY_RUN],
     # ignored
     "ajde_events": [],
     "type-ajde_events": [],

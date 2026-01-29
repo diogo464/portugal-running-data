@@ -47,6 +47,7 @@ CLASS_TO_CIRCUITS = {
     "event_type-corridas-inferior-10": [],
     "event_type-corrida": [],
     "event_type-kids": [],
+    "event_type-canicross": [],
     "event_type-caminhada": [],
     "ajde_events": [],
     "type-ajde_events": [],
