@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b097649b50
+DTSTAMP:20260129T071710Z
+DTSTART:20260329
+DTEND:20260330
+LOCATION:Vidigueira\,  Beja Vidigueira\,  Beja
+SUMMARY:Trilho dos Cogumelos 2026
+DESCRIPTION:Este evento é organizado pela Câmara Municipal de Vidigueira
+  com o apoio da Junta de Freguesia de Selmes e da Associação de Atlet
+ ismo de Beja.\nhttps://www.portugalrunning.com/eventos/trilho-dos-cogumelos
+ /
+URL:https://www.portugalrunning.com/eventos/trilho-dos-cogumelos/
+END:VEVENT
+END:VCALENDAR

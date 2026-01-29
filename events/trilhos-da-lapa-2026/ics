@@ -4,13 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:693220bfdef01
-DTSTAMP:20251205T000103Z
+UID:697b09764a941
+DTSTAMP:20260129T071710Z
 DTSTART:20260322
 DTEND:20260323
 LOCATION:Mendiga\,  Porto de Mós Mendiga\,  Porto de Mós
 SUMMARY:Trilhos da Lapa 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-da-lapa-2026/
+DESCRIPTION:A&nbsp;Associação Recreativa\,  Cultural e Desportiva da Mend
+ iga&nbsp;leva a cabo a organização da&nbsp;5ª Edição dos “Trilhos da
+  Lapa”\,  evento a realizar-se no dia&nbsp;21 e 22 de março de 2026. O e
+ vento realizar-se-á na aldeia da Mendiga\,  concelho de Porto de Mós\,  
+ na União de Freguesias de Arrimal e Mendiga e conta com[..]\nhttps://www.p
+ ortugalrunning.com/eventos/trilhos-da-lapa-2026/
 URL:https://www.portugalrunning.com/eventos/trilhos-da-lapa-2026/
 END:VEVENT
 END:VCALENDAR

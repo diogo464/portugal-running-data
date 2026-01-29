@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b097718c8a
+DTSTAMP:20260129T071711Z
+DTSTART:20260315T090900Z
+DTEND:20260315T090900Z
+LOCATION:Famalicão\,  Braga Famalicão\,  Braga
+SUMMARY:Campeonato Concelhio Trail Famalicão 2026
+DESCRIPTION:O Campeonato Concelhio de Trail é uma iniciativa das Associaç
+ ões de Vila Nova de Famalicão que promovem Provas de Trail Running no ter
+ ritório Famalicense.\nhttps://www.portugalrunning.com/eventos/campeonato-c
+ oncelhio-trail-famalicao/
+URL:https://www.portugalrunning.com/eventos/campeonato-concelhio-trail-famalicao/
+END:VEVENT
+END:VCALENDAR

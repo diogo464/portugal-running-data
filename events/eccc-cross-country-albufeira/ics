@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b0977b100e
+DTSTAMP:20260129T071711Z
+DTSTART:20260208
+DTEND:20260209
+LOCATION:Albufeira\,  Faro Albufeira\,  Faro
+SUMMARY:ECCC Cross Country Albufeira 2026
+DESCRIPTION:A Taça dos Clubes Campeões Europeus de Corta-Mato regressa a 
+ Portugal e traz a Albufeira a elite do cross europeu. Este prestigiado even
+ to reúne os melhores clubes do continente\,  proporcionando um espetáculo
+  de alto nível competitivo num percurso reconhecido internacionalmente pel
+ a sua qualidade e exigência. Uma oportunidade única para viver[..]\nhttps
+ ://www.portugalrunning.com/eventos/eccc-cross-country-albufeira/
+URL:https://www.portugalrunning.com/eventos/eccc-cross-country-albufeira/
+END:VEVENT
+END:VCALENDAR

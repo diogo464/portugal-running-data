@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b097630c66
+DTSTAMP:20260129T071710Z
+DTSTART:20260321
+DTEND:20260322
+LOCATION:Lisboa Lisboa
+SUMMARY:Trail Linhas de Torres 2026
+DESCRIPTION:O evento “Trail Linhas de Torres ” é uma corrida maioritar
+ iamente de trail e com alguns percursos em estrada\,  realizada pela primei
+ ra vez em 2013\,  para homenagear todos aqueles que construíram e defender
+ am o sistema defensivo\,  património turístico-militar de Portugal\,  con
+ hecido como Linhas de Torres\,  inserido nos concelhos de Arruda dos[..]\n
+ https://www.portugalrunning.com/eventos/trail-linhas-de-torres-2026/
+URL:https://www.portugalrunning.com/eventos/trail-linhas-de-torres-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b0976dfd85
+DTSTAMP:20260129T071710Z
+DTSTART:20260419T091600Z
+DTEND:20260419T091600Z
+LOCATION:Castelo de Vide\,  Portalegre Castelo de Vide\,  Portalegre
+SUMMARY:Castelo de Vide Sky Race 2026
+DESCRIPTION:O TURRES TRAIL CLUBE  \,  com o apoio da Câmara Municipal de
+  Castelo de Vide \,  vai realizar no próximo dia 18 e 19 de Abril de 2026\
+ ,  um evento denominado " Castelo de Vide Sky Race 2026   ".  No dia 
+ 18 vai se realizar uma corrida de SkySprint com uma subida à Senhora[..]\n
+ https://www.portugalrunning.com/eventos/castelo-de-vide-sky-race/
+URL:https://www.portugalrunning.com/eventos/castelo-de-vide-sky-race/
+END:VEVENT
+END:VCALENDAR

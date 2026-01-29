@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:696ad1256176e
-DTSTAMP:20260117T000037Z
+UID:697b09771b807
+DTSTAMP:20260129T071711Z
 DTSTART:20260207T055400Z
-DTEND:20260208T055400Z
+DTEND:20260207T235900Z
 LOCATION:Loures\,  Lisboa Loures\,  Lisboa
 SUMMARY:Ocr 4All Experience Weekend 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ocr-4all-experience-w
- eekend/
+DESCRIPTION:O projeto&nbsp;“OCR 4ALL WEEKEND”\,  promovido pela FPOCR �
+ �� Federação Portuguesa de Corridas de Obstáculos\,  tem como objetivo p
+ rincipal a promoção e dinamização da modalidade de Corridas de Obstácu
+ los (OCR) em Portugal\,  incluindo a população de todas as idades. Desde 
+ a sua primeira edição em 2021\,  este projeto permitiu realizar treinos[.
+ .]\nhttps://www.portugalrunning.com/eventos/ocr-4all-experience-weekend/
 URL:https://www.portugalrunning.com/eventos/ocr-4all-experience-weekend/
 END:VEVENT
 END:VCALENDAR

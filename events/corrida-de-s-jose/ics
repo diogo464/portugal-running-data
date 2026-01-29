@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b0976e28f3
+DTSTAMP:20260129T071710Z
+DTSTART:20260321
+DTEND:20260322
+LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+SUMMARY:Corrida de S. José 2026
+DESCRIPTION:Pontua para o CAMPEONATO REGIONAL DE ESTRADA. Prova de Estrada
+ \,  licenciada pela ASSOCIAÇÃO ATLETISMO DE BRAGA.Com prova competitiva 1
+ 0kms e provas Jóvens. Com partida e chegada no Largo Eng. Armando Rodrigue
+ s – Póvoa de Lanhoso. Evento organizado pelo Grupo Desportivo da Goma\, 
+  em parceria com o Município da Póvoa de Lanhoso\, [..]\nhttps://www.port
+ ugalrunning.com/eventos/corrida-de-s-jose/
+URL:https://www.portugalrunning.com/eventos/corrida-de-s-jose/
+END:VEVENT
+END:VCALENDAR

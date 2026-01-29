@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b09761a833
+DTSTAMP:20260129T071710Z
+DTSTART:20260607T192800Z
+DTEND:20260607T192800Z
+LOCATION:Fornos de Algodres\,  Guarda Fornos de Algodres\,  Guarda
+SUMMARY:Meia Maratona do Vale do Mondego 2026
+DESCRIPTION:No dia 7 de junho\,  o coração do Vale do Mondego será palco
+  de uma prova única que alia desporto\,  natureza e património. A Meia Ma
+ ratona do Vale do Mondego convida atletas e amantes da corrida a percorrer 
+ um trajeto envolvente entre Fornos de Algodres e Celorico da Beira\,  num[.
+ .]\nhttps://www.portugalrunning.com/eventos/meia-maratona-do-vale-do-mondeg
+ o/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-vale-do-mondego/
+END:VEVENT
+END:VCALENDAR

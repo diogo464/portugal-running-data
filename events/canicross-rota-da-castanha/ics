@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b0974c3151
+DTSTAMP:20260129T071708Z
+DTSTART:20260314
+DTEND:20260315
+LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+SUMMARY:Canicross "Rota da Castanha" 2026
+DESCRIPTION:Este evento é organizado pela Câmara Municipal de Sernancelhe
+ \,  com o apoio de outras entidades e empresas locais e pretende dinamizar 
+ a prática desportiva na região\,  nomeadamente do mushing\,  trazendo ao 
+ concelho de Sernancelhe\,  atletas nacionais e estrangeiros para que se pos
+ sa divulgar\,  desenvolver e partilhar a experiência desta modalidade.\nht
+ tps://www.portugalrunning.com/eventos/canicross-rota-da-castanha/
+URL:https://www.portugalrunning.com/eventos/canicross-rota-da-castanha/
+END:VEVENT
+END:VCALENDAR

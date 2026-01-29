@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b097578c13
+DTSTAMP:20260129T071709Z
+DTSTART:20260322T085900Z
+DTEND:20260322T235900Z
+LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+SUMMARY:Corrida da Primavera de Guimarães 2026
+DESCRIPTION:A Corrida da Primavera integra a Festa da Primavera\,  uma inic
+ iativa do Laboratório da Paisagem com o apoio do Município de Guimarães\
+ ,  que celebra a chegada da nova estação através do desporto\,  da natur
+ eza e da sustentabilidade. Após uma primeira edição de grande sucesso em
+  2025\,  com inscrições esgotadas e[..]\nhttps://www.portugalrunning.com/
+ eventos/corrida-da-primavera-de-guimaraes/
+URL:https://www.portugalrunning.com/eventos/corrida-da-primavera-de-guimaraes/
+END:VEVENT
+END:VCALENDAR

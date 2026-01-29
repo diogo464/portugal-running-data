@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b097633837
+DTSTAMP:20260129T071710Z
+DTSTART:20260510
+DTEND:20260511
+LOCATION:Viseu Viseu
+SUMMARY:Grande Prémio Internacional de Viseu 2026
+DESCRIPTION:Uma prova com história e tradição – 64 anos a correr ! Na 
+ manhã de domingo de 10 de maio\,  os viseenses poderão assistir e correr 
+ na 64ª edição do Grande Prémio Internacional “Cidade de Viseu”\,  a
+  mais antiga prova pedestre do nosso país e por aqui\,  passaram verdadeir
+ as lendas[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-intern
+ acional-de-viseu/
+URL:https://www.portugalrunning.com/eventos/grande-premio-internacional-de-viseu/
+END:VEVENT
+END:VCALENDAR

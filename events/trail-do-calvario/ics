@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697b09764988c
+DTSTAMP:20260129T071710Z
+DTSTART:20260503T233400Z
+DTEND:20260503T235900Z
+LOCATION:Ruivães\,  Vila Nova de Famalicão Ruivães\,  Vila Nova de Famalicão
+SUMMARY:Trail do Calvário 2026
+DESCRIPTION:O Trail do Calvário é organizado pela ADA 365 Running Project
+ \,  em parceria com a Junta de Freguesia de Ruivães\,  integrando o Campeo
+ nato Concelhio de Trail de Famalicão e o Campeonato Regional de Trail da 
+ Associação de Atletismo de Braga.\nhttps://www.portugalrunning.com/evento
+ s/trail-do-calvario/
+URL:https://www.portugalrunning.com/eventos/trail-do-calvario/
+END:VEVENT
+END:VCALENDAR
