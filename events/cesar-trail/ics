@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97c669620
+DTSTAMP:20260201T000110Z
+DTSTART:20260215
+DTEND:20260216
+LOCATION:Cesar\,  Oliveira de Azeméis Cesar\,  Oliveira de Azeméis
+SUMMARY:Cesar Trail 2026
+DESCRIPTION:A Villa Cesari\,  é o organizador do III CESAR TRAIL em parcer
+ ia com o Município de Oliveira de Azeméis.. A corrida e a caminhada terã
+ o partida e chegada na casa Gastronomia\,  em Cesar\,  percorrendo trilhos 
+ e caminhos dos concelhos de Cesar\,  Fajões\,  Macieira de Sarnes e Noguei
+ ra do Cravo.\nhttps://www.portugalrunning.com/eventos/cesar-trail/
+URL:https://www.portugalrunning.com/eventos/cesar-trail/
+END:VEVENT
+END:VCALENDAR

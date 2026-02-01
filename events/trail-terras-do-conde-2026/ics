@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97c852b91
+DTSTAMP:20260201T000112Z
+DTSTART:20260419
+DTEND:20260420
+LOCATION:Castelo de Paiva\,  Aveiro Castelo de Paiva\,  Aveiro
+SUMMARY:Trail Terras do Conde 2026
+DESCRIPTION:Trail Terras do Conde 2026\nhttps://www.portugalrunning.com/eve
+ ntos/trail-terras-do-conde-2026/
+URL:https://www.portugalrunning.com/eventos/trail-terras-do-conde-2026/
+END:VEVENT
+END:VCALENDAR

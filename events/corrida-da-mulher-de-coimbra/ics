@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97c5c88a1
+DTSTAMP:20260201T000109Z
+DTSTART:20260502T051600Z
+DTEND:20260502T051600Z
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida da Mulher de Coimbra 2026
+DESCRIPTION:A Corrida da Mulher de Coimbra é um evento de corrida e caminh
+ ada de 5 km\,  que se realiza em Coimbra\,  com o objetivo de homenagear a 
+ mulher através do desporto e da participação ativa. Aberta a mulheres e 
+ homens\,  a prova promove um ambiente inclusivo\,  acessível e pensado par
+ a[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-mulher-de-coimbra
+ /
+URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-de-coimbra/
+END:VEVENT
+END:VCALENDAR

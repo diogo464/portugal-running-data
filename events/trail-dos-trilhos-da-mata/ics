@@ -4,18 +4,19 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d65dc933
-DTSTAMP:20250720T222749Z
-DTSTART:20200119
-DTEND:20200120
+UID:697e97c697f36
+DTSTAMP:20260201T000110Z
+DTSTART:20260125
+DTEND:20260126
 LOCATION:Milagres\,  Leiria Milagres\,  Leiria
-SUMMARY:Trail dos Trilhos da Mata
-DESCRIPTION:Sob organização do clube – Associação Desportiva e Recrea
- tiva da Mata realiza-se a 19 de janeiro de 2020 a terceira edição do Trai
- l dos Trilhos da Mata\,  uma prova Trail Running que percorrerá percursos 
- e trilhos na freguesia dos Milagres\,  no concelho de Leiria. A prova é co
- nstituída por Trail[..]\nhttps://www.portugalrunning.com/eventos/trail-dos
- -trilhos-da-mata/
+SUMMARY:Trail dos Trilhos da Mata 2026
+DESCRIPTION:A&nbsp;Associação Desportiva e Recreativa da Mata&nbsp;realiz
+ ará no dia&nbsp;25 de janeiro de 2026&nbsp;a&nbsp;oitava edição do Trail
+  dos Trilhos da Mata. Caminhada de 9 km sem carácter competitivo. Campeon
+ ato Distrital Trail Sprint – ADAL\,  prova de aproximadamente 22 km que p
+ ercorrerá percursos e trilhos na freguesia dos Milagres\,  Bidoeira de Cim
+ a e Souto[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-trilhos-da
+ -mata/
 URL:https://www.portugalrunning.com/eventos/trail-dos-trilhos-da-mata/
 END:VEVENT
 END:VCALENDAR

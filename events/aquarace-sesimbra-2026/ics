@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97c02c779
+DTSTAMP:20260201T000104Z
+DTSTART:20260510
+DTEND:20260511
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Aquarace Sesimbra 2026
+DESCRIPTION:O AQUARACE SESIMBRA\,  ocorre a 10 de Maio é uma atividade de 
+ promoção da atividade física\,  disciplina de treino e espírito de equi
+ pa. Será realizado em equipas de 2 elementos que têm de efetuar 2 percurs
+ os\,  sendo 10 km em corrida com algum desnível + 5km de canoagem. No tota
+ l\, [..]\nhttps://www.portugalrunning.com/eventos/aquarace-sesimbra-2026/
+URL:https://www.portugalrunning.com/eventos/aquarace-sesimbra-2026/
+END:VEVENT
+END:VCALENDAR

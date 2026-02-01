@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97c64e9b8
+DTSTAMP:20260201T000110Z
+DTSTART:20260301T231900Z
+DTEND:20260301T235900Z
+LOCATION:Santuário de Nossa Senhora do Sameiro\,  Braga Santuário de Nossa Senhora do Sameiro\,  Braga
+SUMMARY:Trail Bracara Augusta 2026
+DESCRIPTION:O Trail Braga Augusta é organizado pelo Clube de Orientação 
+ do Minho\,  com sede em Braga\,  no dia 1 de março de 2026\,  sendo consti
+ tuído por duas provas competitivas (Trail Curto e Mini-Trai)\,  assim como
+  uma caminhada\,  sem carácter competitivo.\nhttps://www.portugalrunning.c
+ om/eventos/trail-bracara-augusta/
+URL:https://www.portugalrunning.com/eventos/trail-bracara-augusta/
+END:VEVENT
+END:VCALENDAR

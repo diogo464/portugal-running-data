@@ -4,17 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d5918a56
-DTSTAMP:20250720T222737Z
-DTSTART:20200125
-DTEND:20200126
+UID:697e97c668d84
+DTSTAMP:20260201T000110Z
+DTSTART:20260131
+DTEND:20260201
 LOCATION:Paredes\,  Porto Paredes\,  Porto
-SUMMARY:Trail do Capitão
-DESCRIPTION:O Grupo Desportivo da Portela\,  com o apoio da Câmara Municip
- al de Paredes\,  da Junta de Freguesia de Rebordosa e da Associação Amigo
- s do Trail\,  vai organizar\,  no dia 25 de janeiro de 2020\,  o II Trail d
- o Capitão\,  uma prova que percorre trilhos e caminhos das freguesias de R
- ebordosa\, [..]\nhttps://www.portugalrunning.com/eventos/trail-do-capitao/
+SUMMARY:Trail do Capitão 2026
+DESCRIPTION:A VII edição do Trail do Capitão é uma prova que percorre t
+ rilhos e caminhos das freguesias deRebordosa\,  Vandoma e Baltar do concelh
+ o de Paredes. As duas provas de caracter competitivo:Trail de 20km e Mini-T
+ rail de 10 km (a correr ou a andar) estão abertas a maiores de idade (18an
+ os).\nhttps://www.portugalrunning.com/eventos/trail-do-capitao/
 URL:https://www.portugalrunning.com/eventos/trail-do-capitao/
 END:VEVENT
 END:VCALENDAR

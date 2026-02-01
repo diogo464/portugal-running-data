@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97ca3a246
+DTSTAMP:20260201T000114Z
+DTSTART:20260208
+DTEND:20260209
+LOCATION:Valezim\,  Guarda Valezim\,  Guarda
+SUMMARY:Trail Valezim Aldeia Desporto 2026
+DESCRIPTION:O 5º Trail Valezim Aldeia Desporto\,  é um evento competitivo
+ \,  amador\,  da modalidade de Trail Running\,  realizado numa das encostas
+  da Serra da Estrela e é organizado pela Associação Vallecinus Cultura e
+  Desporto – AVACD.O 5º Trail Valezim Aldeia Desporto será realizado no 
+ dia 08 de Fevereiro de 2026 e[..]\nhttps://www.portugalrunning.com/eventos/
+ trail-valezim-aldeia-desporto/
+URL:https://www.portugalrunning.com/eventos/trail-valezim-aldeia-desporto/
+END:VEVENT
+END:VCALENDAR

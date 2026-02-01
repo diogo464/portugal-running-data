@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97c8e18e3
+DTSTAMP:20260201T000112Z
+DTSTART:20260516T151500Z
+DTEND:20260516T235900Z
+LOCATION:São João de Ver\,  Santa Maria da Feira São João de Ver\,  Santa Maria da Feira
+SUMMARY:Corrida Malapeira 2026
+DESCRIPTION:O 2 º Grande Prémio de Atletismo "CORRIDA MALAPEIRA"\,  a rea
+ lizar na Vila de São João de Ver\,  no dia 16 de Maio 2026 é composto po
+ r duas provas\,  uma corrida 10 km e uma caminhada de 5km.\nhttps://www.por
+ tugalrunning.com/eventos/corrida-malapeira/
+URL:https://www.portugalrunning.com/eventos/corrida-malapeira/
+END:VEVENT
+END:VCALENDAR

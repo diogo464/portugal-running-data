@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97c1b15b7
+DTSTAMP:20260201T000105Z
+DTSTART:20260418
+DTEND:20260419
+LOCATION:Mondim de Basto\,  Vila Real Mondim de Bastos Vila Real
+SUMMARY:Grande Trail Fisgas de Ermelo 2026
+DESCRIPTION:Será realizado nos dias 18 e 19 de abril\,  com partida na Ald
+ eia de Ermelo e chegada em Mondim de Basto\,  independentemente das condiç
+ ões climatéricas do dia\,  desde que a organização entenda que não ofe
+ reçam risco aos participantes.Paralelamente ao evento haverá a ExpoFisgas
+  – uma exposição de material de desporto.[..]\nhttps://www.portugalrunn
+ ing.com/eventos/grande-trail-fisgas-de-ermelo/
+URL:https://www.portugalrunning.com/eventos/grande-trail-fisgas-de-ermelo/
+END:VEVENT
+END:VCALENDAR

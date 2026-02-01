@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97c620391
+DTSTAMP:20260201T000110Z
+DTSTART:20260208
+DTEND:20260209
+LOCATION:Torres Vedras Torres Vedras
+SUMMARY:Sky Race Socorro e Archeira 2026
+DESCRIPTION:Partida e chegada na Associação cultural\,  recreativa e desp
+ ortiva Furadouro com algumas alterações aos percursos 22 km com 1500 D+ ;
+  17 km com 1200 D+ ; 12 km com 850 D+.\nhttps://www.portugalrunning.com/eve
+ ntos/sky-race-socorro-e-archeira/
+URL:https://www.portugalrunning.com/eventos/sky-race-socorro-e-archeira/
+END:VEVENT
+END:VCALENDAR

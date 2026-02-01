@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97caba5ae
+DTSTAMP:20260201T000114Z
+DTSTART:20260125
+DTEND:20260126
+LOCATION:Alter do Chão\,  Portalegre Alter do Chão\,  Portalegre
+SUMMARY:Trail do Cavalo 2026
+DESCRIPTION:O 8º Trail do Cavalo é uma corrida pedestre em Natureza\,  co
+ m o mínimo de percurso pavimentado/alcatroado\,  que não deverá exceder 
+ 20% do percurso total\,  em vários ambientes (serra\,  montanha\,  alta mo
+ ntanha\,  planície etc.) e terrenos (estradão\,  caminho florestal\,  tri
+ lho\,  single track\,  etc.)\,  idealmente – mas não obrigatoriamente �
+ � em[..]\nhttps://www.portugalrunning.com/eventos/trail-do-cavalo-2/
+URL:https://www.portugalrunning.com/eventos/trail-do-cavalo-2/
+END:VEVENT
+END:VCALENDAR

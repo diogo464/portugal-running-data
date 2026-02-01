@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:697e97c669edc
+DTSTAMP:20260201T000110Z
+DTSTART:20260808
+DTEND:20260809
+LOCATION:Aldeia do Bispo\,  Sabugal Aldeia do Bispo\,  Sabugal
+SUMMARY:Trail da Raia 2026
+DESCRIPTION:O Trail da Raia é um evento de trail running transfronteiriço
+  com percursos elaborados por caminhos rurais e pelos trilhos utilizados ou
+ trora pelos contrabandistas de Portugal e Espanha. Integram este evento\,  
+ quatro provas competitivas : - Ultra Trail de 45\, 3  km\,  1.270 D+ (Cir
+ cuito Nacional de Trail - ATRP)\, - Trail Longo[..]\nhttps://www.portugalru
+ nning.com/eventos/trail-da-raia/
+URL:https://www.portugalrunning.com/eventos/trail-da-raia/
+END:VEVENT
+END:VCALENDAR
