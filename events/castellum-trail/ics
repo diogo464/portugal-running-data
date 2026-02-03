@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69813ab621acf
+DTSTAMP:20260203T000054Z
+DTSTART:20260517
+DTEND:20260518
+LOCATION:Condeixa-a-Nova\,  Coimbra Condeixa-a-Nova\,  Coimbra
+SUMMARY:Castellum Trail 2026
+DESCRIPTION:Sob organização do Centro Cultural e Recreativo de Alcabidequ
+ e / Vikings Trail Runners\,  com o apoio institucional da Câmara Municipal
+  de Condeixa-a-Nova e da União das Freguesias de Condeixa-a-Velha e Condei
+ xa-a-Nova\,  entre outras instituições locais de relevo\,  realiza-se a 1
+ 7 de maio de 2026 a VIII edição do Castellum Trail[..]\nhttps://www.portu
+ galrunning.com/eventos/castellum-trail/
+URL:https://www.portugalrunning.com/eventos/castellum-trail/
+END:VEVENT
+END:VCALENDAR

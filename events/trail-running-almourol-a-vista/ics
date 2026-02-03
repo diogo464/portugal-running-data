@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69813ab160d99
+DTSTAMP:20260203T000049Z
+DTSTART:20260301
+DTEND:20260302
+LOCATION:Vila Nova da Barquinha\,  Santarém Vila Nova da Barquinha\,  Santarém
+SUMMARY:Trail Running Almourol à Vista 2026
+DESCRIPTION:O percurso Trail Longo terá a distância aproximada de 31 km\,
+   com desnível D+900 (previsível)\,  passando pelo Trilho Panorâmico do 
+ Tejo e junto ao Castelo de Almourol\,  deslocando-se ao longo do Rio Tejo. 
+ É uma prova dirigida a atletas experientes. Esta distância integra o cale
+ ndário do Troféu 3 Rios Trail[..]\nhttps://www.portugalrunning.com/evento
+ s/trail-running-almourol-a-vista/
+URL:https://www.portugalrunning.com/eventos/trail-running-almourol-a-vista/
+END:VEVENT
+END:VCALENDAR

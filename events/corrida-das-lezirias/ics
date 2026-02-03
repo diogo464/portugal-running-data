@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69813aab4bd2c
+DTSTAMP:20260203T000043Z
+DTSTART:20260301
+DTEND:20260302
+LOCATION:Vila Franca de Xira\,  Lisboa Vila Franca de Xira\,  Lisboa
+SUMMARY:Corrida das Lezírias 2026
+DESCRIPTION:A mítica e adorada Corrida das Lezírias celebra a 31ª ediç�
+ �o em 2026! Vila Franca de Xira volta a ser\,  no dia&nbsp;01&nbsp;de març
+ o 2026\,  o palco da tradicional&nbsp;Corrida das Lezírias&nbsp;que\,  anu
+ almente\,  reúne na cidade milhares de atletas e amantes do desporto\,  or
+ iundos de todo o país. Poderás participar na prova[..]\nhttps://www.portu
+ galrunning.com/eventos/corrida-das-lezirias/
+URL:https://www.portugalrunning.com/eventos/corrida-das-lezirias/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69813aab23932
+DTSTAMP:20260203T000043Z
+DTSTART:20260307
+DTEND:20260308
+LOCATION:Lousã\,  Coimbra Lousã\,  Coimbra
+SUMMARY:LouzanTrail 2026
+DESCRIPTION:O Montanha Clube\,  Secção de Trail Running\,  é a entidade 
+ organizadora do Louzantrail\,  que decorre nos dias 6\,  7 e 8 de março de
+  2026 na Vila da Lousã. A organização acompanha permanentemente a evolu�
+ �ão das condições meteorológicas e pode suspender ou anular a prova a q
+ ualquer momento\,  caso o[..]\nhttps://www.portugalrunning.com/eventos/louz
+ antrail/
+URL:https://www.portugalrunning.com/eventos/louzantrail/
+END:VEVENT
+END:VCALENDAR

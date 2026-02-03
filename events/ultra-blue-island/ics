@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69813ab108650
+DTSTAMP:20260203T000049Z
+DTSTART:20260501
+DTEND:20260502
+LOCATION:Ilha do Faial\,  Açores Ilha do Faial\,  Açores
+SUMMARY:Ultra Blue Island 2026
+DESCRIPTION:O Ultra Blue Island® é um evento que ocorre na Ilha do Faial 
+ e é uma iniciativa da Azores Trail Run®. Oevento é organizado com a ajud
+ a de residentes e entusiastas do trail-running e conta com o apoio daCâmar
+ a Municipal da Horta e do Governo dos Açores O Ultra Blue[..]\nhttps://www
+ .portugalrunning.com/eventos/ultra-blue-island/
+URL:https://www.portugalrunning.com/eventos/ultra-blue-island/
+END:VEVENT
+END:VCALENDAR

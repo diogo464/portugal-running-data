@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69813ab3e5d6f
+DTSTAMP:20260203T000051Z
+DTSTART:20260419T171600Z
+DTEND:20260419T235900Z
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Trail Santa Apolónia 2026
+DESCRIPTION:O Trail Santa Apolónia é um evento organizado pela Comissão 
+ de Festas de Santa Apolónia\,  com o propósito de angariar fundos para as
+  Festas de Santa Apolónia em Agosto. Conta com o apoio da Junta de Fregues
+ ia e da Câmara Municipal de Vila do Conde\,  bem como com a autorização[
+ ..]\nhttps://www.portugalrunning.com/eventos/trail-santa-apolonia/
+URL:https://www.portugalrunning.com/eventos/trail-santa-apolonia/
+END:VEVENT
+END:VCALENDAR

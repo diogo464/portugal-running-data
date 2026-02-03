@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69813ab3f253d
+DTSTAMP:20260203T000051Z
+DTSTART:20260301T103400Z
+DTEND:20260301T235900Z
+LOCATION:Pavia\,  Évora Pavia\,  Évora
+SUMMARY:Anta Trail de Pavia 2026
+DESCRIPTION:Anta Trail de Pavia é uma prova de Trail Running que se realiz
+ ará na localidade de Pavia\,  Terra de Poetas e Pintores. Percorrerá os t
+ rilhos do Neolítico existentes\,  e as exigentes margens da ribeirade Tera
+ . Trata-se de um evento com três distâncias de Trail e uma de caminhada e
+ m terrenos[..]\nhttps://www.portugalrunning.com/eventos/anta-trail-de-pavia
+ /
+URL:https://www.portugalrunning.com/eventos/anta-trail-de-pavia/
+END:VEVENT
+END:VCALENDAR

@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:693a09df3de71
-DTSTAMP:20251211T000135Z
+UID:69813aaf428d9
+DTSTAMP:20260203T000047Z
 DTSTART:20260419
 DTEND:20260420
 LOCATION:Pinhôa\,  Lourinhã Pinhôa\,  Lourinhã
 SUMMARY:Trail dos Moinhos - Pinhôa 2026
-DESCRIPTION:Trail dos Moinhos - Pinhôa 2026\nhttps://www.portugalrunning.c
- om/eventos/trail-dos-moinhos-pinhoa/
+DESCRIPTION:É uma organização do Sporting Clube Moitense em parceria com
+  a Junta de Freguesia de Moita dos Ferreiros e com o apoio da Câmara Munic
+ ipal da Lourinhã\,  Moinho do Boneco e varias associações e instituiçõ
+ es da freguesia\,  com o objetivo fomentar a prática da atividade física 
+ e estilo de vida[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-moi
+ nhos-pinhoa/
 URL:https://www.portugalrunning.com/eventos/trail-dos-moinhos-pinhoa/
 END:VEVENT
 END:VCALENDAR
