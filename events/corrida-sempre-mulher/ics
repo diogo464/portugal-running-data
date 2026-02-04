@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c6f938a7
-DTSTAMP:20250720T222343Z
-DTSTART:20200329
-DTEND:20200330
+UID:69828c26cde3f
+DTSTAMP:20260204T000038Z
+DTSTART:20250406
+DTEND:20250407
 LOCATION:Praça dos Restauradores\,  Lisboa Praça dos Restauradores\,  Lisboa
-SUMMARY:Corrida Sempre Mulher 2020
-DESCRIPTION:A Associação Portuguesa de Apoio à Mulher com Cancro da Mama
- \,  em parceria com a Câmara Municipal de Lisboa e com o apoio técnico da
-  Sports High Performance e da Azores Sports Leader\,  promove a 15.ª ediç
- ão da Corrida Sempre Mulher cuja receita reverte a favor da Associação 
- Portuguesa de Apoio[..]\nhttps://www.portugalrunning.com/eventos/corrida-se
- mpre-mulher/
+SUMMARY:Corrida Sempre Mulher 2026
+DESCRIPTION:No dia 12 Abril 2026 junte-se a nós e venha andar ou correr 5
+ km por uma boa causa. Inscreva-se já e passe uma manhã inesquecível e s
+ audável! Poderá participar na Corrida de Competição (exclusiva para m
+ ulheres) ou então na Caminhada | Corrida de Lazer (participação aberta
+  a todos).Porque o Cancro da Mama não é exclusivo das[..]\nhttps://www.po
+ rtugalrunning.com/eventos/corrida-sempre-mulher/
 URL:https://www.portugalrunning.com/eventos/corrida-sempre-mulher/
 END:VEVENT
 END:VCALENDAR

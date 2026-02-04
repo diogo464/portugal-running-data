@@ -4,14 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:695882fbc0754
-DTSTAMP:20260103T024619Z
+UID:69828c2616ea0
+DTSTAMP:20260204T000038Z
 DTSTART:20260524
 DTEND:20260525
 LOCATION:Porto Porto
-SUMMARY:Corrida da Mulher 2026
-DESCRIPTION:Corrida da Mulher 2026\nhttps://www.portugalrunning.com/eventos
- /corrida-da-mulher-porto/
+SUMMARY:Corrida da Mulher - Porto - 2026
+DESCRIPTION:20.ª EDP Corrida da Mulher realiza-se no dia 24 de maio de 202
+ 6\,  às 09h30\,  na cidade do Porto\,  com partida e chegada na Alameda da
+ s Antas.&nbsp; A prova é composta por uma corrida e caminhada de 5 km\,  a
+ berta a todas as classes etárias\,  destinada a atletas federadas e[..]\nh
+ ttps://www.portugalrunning.com/eventos/corrida-da-mulher-porto/
 URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-porto/
 END:VEVENT
 END:VCALENDAR

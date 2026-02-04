@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69828c296eb5d
+DTSTAMP:20260204T000041Z
+DTSTART:20260606T100600Z
+DTEND:20260606T235900Z
+LOCATION:Santa Cruz das Flores\,  Açores Santa Cruz das Flores\,  Açores
+SUMMARY:Meia Maratona Atlântico Ocidental 2026
+DESCRIPTION:A Meia Maratona do Atlântico Ocidental realiza-se no dia 6 de 
+ junho de 2026\,  com início previsto paraas 09h00m (nove horas). O evento 
+ vai estar dividido em 5 diferentes provas das quais: Caminhada 5K – prova
+  de promoção. Meia Maratona – prova principal; Ocean 10K – prova secu
+ ndária; RUN 5K[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-
+ atlantico-ocidental/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-atlantico-ocidental/
+END:VEVENT
+END:VCALENDAR
