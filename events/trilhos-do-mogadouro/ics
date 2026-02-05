@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6983ddb8b28ef
+DTSTAMP:20260205T000056Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Mogadouro\,  Bragança Mogadouro\,  Bragança
+SUMMARY:Trilhos do Mogadouro 2026
+DESCRIPTION:O Município de Mogadouro organiza no dia 08 de março de 2026\
+ ,  em colaboração com a Associação de Atletismo de Bragança\,  um Trai
+ l com características de montanha e uma caminhada em natureza denominado X
+ XII TRILHOS DE MOGADOURO – AMENDOEIRAS EM FLOR.Em simultâneo realizam-se
+  as CORRIDAS JOVENS – MOGADOURO 2026\,  para[..]\nhttps://www.portugalrun
+ ning.com/eventos/trilhos-do-mogadouro/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-mogadouro/
+END:VEVENT
+END:VCALENDAR
