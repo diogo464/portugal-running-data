@@ -2,7 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-02-04T22:42:07+00:00</lastmod>
+		<lastmod>2026-02-05T22:26:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-do-carnaval-rio-tinto/</loc>
+		<lastmod>2026-02-05T22:26:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pt_1768317056-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/last-man-standing/</loc>
+		<lastmod>2026-02-05T21:53:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/banner-last-man-standing-2026-min.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trilhos-do-mogadouro/</loc>
@@ -416,13 +430,6 @@
 		<lastmod>2026-01-31T06:51:42+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/2025-08-06_13-16-54_689347b6b7726-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-do-carnaval-rio-tinto/</loc>
-		<lastmod>2026-01-31T06:51:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pt_1768317056-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2734,13 +2741,6 @@
 		<lastmod>2025-12-10T22:52:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/692ec6c7df470_cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/last-man-standing/</loc>
-		<lastmod>2025-12-10T12:46:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/banner-last-man-standing-2026-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
