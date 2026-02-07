@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698687f159afc
+DTSTAMP:20260207T003145Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Calheta\,  Madeira Calheta\,  Madeira
+SUMMARY:Trail da Calheta 2026
+DESCRIPTION:O “Trail da Calheta” é um evento de trail running\,  que d
+ ecorre integralmente no concelho da Calheta e que integra duas provas pontu
+ áveis para o ranking do CIRCUITO TRAIL MADEIRA\,  época 2025-26.\nhttps:/
+ /www.portugalrunning.com/eventos/trail-da-calheta/
+URL:https://www.portugalrunning.com/eventos/trail-da-calheta/
+END:VEVENT
+END:VCALENDAR

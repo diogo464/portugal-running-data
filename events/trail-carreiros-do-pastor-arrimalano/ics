@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698687f165766
+DTSTAMP:20260207T003145Z
+DTSTART:20261122
+DTEND:20261123
+LOCATION:Arrimal\,  Porto de Mós Arrimal\,  Porto de Mós
+SUMMARY:Trail Carreiros do Pastor Arrimalano 2026
+DESCRIPTION:Trail Carreiros do Pastor Arrimalano 2026\nhttps://www.portugal
+ running.com/eventos/trail-carreiros-do-pastor-arrimalano/
+URL:https://www.portugalrunning.com/eventos/trail-carreiros-do-pastor-arrimalano/
+END:VEVENT
+END:VCALENDAR

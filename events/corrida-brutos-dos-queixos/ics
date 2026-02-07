@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698687ee4e629
+DTSTAMP:20260207T003142Z
+DTSTART:20260610T185100Z
+DTEND:20260610T235900Z
+LOCATION:Turquel\,  Alcobaça Turquel\,  Alcobaça
+SUMMARY:Corrida Brutos dos Queixos 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-brutos-dos-qu
+ eixos/
+URL:https://www.portugalrunning.com/eventos/corrida-brutos-dos-queixos/
+END:VEVENT
+END:VCALENDAR

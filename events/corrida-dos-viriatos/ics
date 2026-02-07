@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698687ef5ad3d
+DTSTAMP:20260207T003143Z
+DTSTART:20260315
+DTEND:20260316
+LOCATION:Viseu Viseu
+SUMMARY:Corrida dos Viriatos 2026
+DESCRIPTION:No âmbito das Comemorações do Dia do Regimento Infantaria 14
+ \,  a Corrida dos Viriatos do presente ano\,  será de âmbito solidário\,
+   em que os bens alimentares\,  reverterão para instituições de solidari
+ edade social da cidade. Este é um desafio onde pode participar individualm
+ ente ou por equipas. O evento possui 2 categorias[..]\nhttps://www.portugal
+ running.com/eventos/corrida-dos-viriatos/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-viriatos/
+END:VEVENT
+END:VCALENDAR

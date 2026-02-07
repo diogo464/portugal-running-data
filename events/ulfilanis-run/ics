@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698687f238f2d
+DTSTAMP:20260207T003146Z
+DTSTART:20260412T150900Z
+DTEND:20260412T235900Z
+LOCATION:Fiães\,  Santa Maria da Feira Fiães\,  Santa Maria da Feira
+SUMMARY:Ulfilanis Run 2026
+DESCRIPTION:A 7ª ULFILANIS-RUN é um evento a realizar no dia 12 de abril 
+ de 2026\,  organizado pela Junta de Freguesia de Fiães e o Fiães Sport Cl
+ ube - Seção de Running em parceria com a Câmara Municipal de Santa Maria
+  da Feira.É um evento desportivo com duas vertentes\,  uma Corrida[..]\nht
+ tps://www.portugalrunning.com/eventos/ulfilanis-run/
+URL:https://www.portugalrunning.com/eventos/ulfilanis-run/
+END:VEVENT
+END:VCALENDAR
