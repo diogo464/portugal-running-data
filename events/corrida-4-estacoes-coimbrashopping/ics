@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c5368fd
-DTSTAMP:20260201T000109Z
-DTSTART:20260215
-DTEND:20260216
+UID:698a751e82d3e
+DTSTAMP:20260210T000030Z
+DTSTART:20260301
+DTEND:20260302
 LOCATION:Coimbra Coimbra
 SUMMARY:Corrida 4 Estações CoimbraShopping 2026
 DESCRIPTION:A Corrida 4 Estações CoimbraShopping 2026 (Edição de Invern
  o) é um evento de estrada clássico que se realiza na histórica cidade de
-  Coimbra\,  Portugal. A prova está confirmada para o dia 15 de fevereiro e
-  oferece como distâncias principais os competitivos 10 km e uma caminhada 
- de 5 km. O[..]\nhttps://www.portugalrunning.com/eventos/corrida-4-estacoes-
- coimbrashopping/
+  Coimbra\,  Portugal. A prova está confirmada para o dia 1 de março (nova
+  data) e oferece como distâncias principais os competitivos 10 km e uma ca
+ minhada de 5[..]\nhttps://www.portugalrunning.com/eventos/corrida-4-estacoe
+ s-coimbrashopping/
 URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-coimbrashopping/
 END:VEVENT
 END:VCALENDAR

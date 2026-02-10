@@ -2,7 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-02-06T14:19:36+00:00</lastmod>
+		<lastmod>2026-02-09T13:42:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-4-estacoes-coimbrashopping/</loc>
+		<lastmod>2026-02-09T13:42:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/629336229_1567545888708200_3823761789408151432_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-cidade-de-estarreja/</loc>
+		<lastmod>2026-02-09T13:37:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/banner-gp-atletismo-estarreja-2026_Rev20260205-min.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-de-montanha-vila-cha-monte/</loc>
@@ -206,13 +220,6 @@
 		<lastmod>2026-02-02T13:55:44+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/690cc2d6242fc_Cartaz_Pavia_net-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/grande-premio-cidade-de-estarreja/</loc>
-		<lastmod>2026-02-02T13:55:17+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/banner-gp-atletismo-estarreja-2026-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -571,13 +578,6 @@
 		<lastmod>2026-01-31T06:49:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/pop_s00757z896.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-4-estacoes-coimbrashopping/</loc>
-		<lastmod>2026-01-31T06:49:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/615139007_1543174411145348_3305043829383780806_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
