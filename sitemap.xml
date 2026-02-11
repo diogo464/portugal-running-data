@@ -2,7 +2,49 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-02-09T13:42:27+00:00</lastmod>
+		<lastmod>2026-02-10T06:05:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-obidos/</loc>
+		<lastmod>2026-02-10T06:05:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/cartaz141334_grande-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilho-da-burra/</loc>
+		<lastmod>2026-02-10T06:05:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/2025-10-26_09-45-22_68fdedb2234f3-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/last-woman-coura/</loc>
+		<lastmod>2026-02-10T06:01:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/e803.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-atletismo-vila-de-mozelos-2026/</loc>
+		<lastmod>2026-02-10T06:00:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/banner-gp-atletismo-vila-de-mozelos-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/caminhada-corrida-do-coracao-uic-covilha/</loc>
+		<lastmod>2026-02-10T05:58:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6978ee40d20aa_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/kc-race-challenge/</loc>
+		<lastmod>2026-02-10T05:56:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/698a0d63a8f06_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-4-estacoes-coimbrashopping/</loc>
@@ -693,13 +735,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/caminhada-corrida-do-coracao-uic-covilha/</loc>
-		<lastmod>2026-01-31T06:44:11+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/695e719e6d091_Cartaz_CorridaCoracao_net-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-manuelino/</loc>
 		<lastmod>2026-01-31T06:43:56+00:00</lastmod>
 		<image:image>
@@ -977,13 +1012,6 @@
 		<lastmod>2026-01-27T05:00:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/banner-eccc-cross-country-2026_Rev20260125-min.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/grande-premio-atletismo-vila-de-mozelos-2026/</loc>
-		<lastmod>2026-01-27T05:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/banner-gp-atletismo-vila-de-mozelos-2026-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1284,13 +1312,6 @@
 		<lastmod>2026-01-24T08:45:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-obidos/</loc>
-		<lastmod>2026-01-23T07:03:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/cartaz141334_grande-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/che-a-correr/</loc>
 		<lastmod>2026-01-22T19:35:26+00:00</lastmod>
 		<image:image>
@@ -1362,13 +1383,6 @@
 		<lastmod>2026-01-21T07:00:07+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/696e503bbf507_Festa_porco_2026_net-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/last-woman-coura/</loc>
-		<lastmod>2026-01-20T23:49:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/e803.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -34621,20 +34635,6 @@
 		<lastmod>2019-12-07T13:16:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/2733_1_DTL-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-das-andorinhas/</loc>
-		<lastmod>2019-12-06T15:42:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/2839_2_DTL.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-gondomar/</loc>
-		<lastmod>2019-12-06T15:42:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/2808_2_DTL.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698bc6abafff9
+DTSTAMP:20260211T000043Z
+DTSTART:20260411T055400Z
+DTEND:20260411T055400Z
+LOCATION:Beja Beja
+SUMMARY:Kc Race Challenge 2026
+DESCRIPTION:A KC Race Challenge é uma prova de obstáculos para equipas de
+  três participantes\,  com um percursoigual ou superior a 8 km. Esta inici
+ ativa é organizada no próximo dia 11 de abril pelo Kettclub emparceria co
+ m a Câmara Municipal de Beja.A prova inclui obstáculos que exigem força\
+ ,  suspensão\,  precisão e[..]\nhttps://www.portugalrunning.com/eventos/k
+ c-race-challenge/
+URL:https://www.portugalrunning.com/eventos/kc-race-challenge/
+END:VEVENT
+END:VCALENDAR

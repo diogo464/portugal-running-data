@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698bc6ae3fe0c
+DTSTAMP:20260211T000046Z
+DTSTART:20260307T132500Z
+DTEND:20260307T235900Z
+LOCATION:Vila Boa\,  Castro Daire Vila Boa\,  Castro Daire
+SUMMARY:Trilho da Burra 2026
+DESCRIPTION:A Câmara Municipal de Castro Daire e a ADCR de Vila Boa organi
+ zam\,  no dia 7 de março de 2026\,  na localidade de Vila Boa\,  em colabo
+ ração com a Junta de Freguesia de Mões e Associação de Atletismo de Vi
+ seu\,  o 5º TRILHO DA BURRA\,  corrida pedestre em natureza aberta[..]\nht
+ tps://www.portugalrunning.com/eventos/trilho-da-burra/
+URL:https://www.portugalrunning.com/eventos/trilho-da-burra/
+END:VEVENT
+END:VCALENDAR
