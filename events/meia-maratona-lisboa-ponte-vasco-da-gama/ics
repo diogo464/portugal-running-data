@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698e77ef50167
+DTSTAMP:20260213T010135Z
+DTSTART:20261011
+DTEND:20261012
+LOCATION:Lisboa Lisboa
+SUMMARY:Meia Maratona Lisboa 2026 - Ponte Vasco da Gama
+DESCRIPTION:A Hyundai Meia Maratona de Lisboa 2026 (também conhecida como 
+ a Meia Maratona da Ponte Vasco da Gama) realiza-se na cidade de Lisboa\,  P
+ ortugal\,  com a sua próxima edição confirmada para o dia 11 de outubro 
+ de 2026. Trata-se de uma prova de estrada de renome internacional\,  que of
+ erece as[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-lisboa-
+ ponte-vasco-da-gama/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-lisboa-ponte-vasco-da-gama/
+END:VEVENT
+END:VCALENDAR

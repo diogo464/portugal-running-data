@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698e77ecb9fdd
+DTSTAMP:20260213T010132Z
+DTSTART:20260614
+DTEND:20260615
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:Meia Maratona na Areia Analice Silva 2026
+DESCRIPTION:A Associação Desportiva O Mundo da Corrida\,  organiza com o 
+ apoio da Câmara Municipal de Almada no dia 14 de Junho de 2026\,  pelas 8:
+ 30 horas\,  uma competição denominada "XVII MEIA MARATONA NA AREIA ANALIC
+ E SILVA"\,  a efetuar na Costa da Caparica - Nova Praia. Pelas 8:45 horas t
+ erá início[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-na-
+ areia-analice-silva-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-na-areia-analice-silva-2026/
+END:VEVENT
+END:VCALENDAR

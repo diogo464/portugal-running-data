@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698e77ed8f624
+DTSTAMP:20260213T010133Z
+DTSTART:20260530
+DTEND:20260531
+LOCATION:Benedita\,  Alcobaça Benedita\,  Alcobaça
+SUMMARY:Grande Prémio da Benedita 2026
+DESCRIPTION:O 8º Grande Prémio da Benedita é uma tradicional prova de at
+ letismo de estrada que percorre as ruas da vila da Benedita\,  em Alcobaça
+ \,  Portugal\,  estando a sua próxima edição agendada para o dia 30 de m
+ aio de 2026. Organizado pelo Grupo Regional de Folclore da Benedita com o a
+ poio[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-da-benedita
+ /
+URL:https://www.portugalrunning.com/eventos/grande-premio-da-benedita/
+END:VEVENT
+END:VCALENDAR

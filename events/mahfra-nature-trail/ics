@@ -4,16 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cbedca3b
-DTSTAMP:20250720T222502Z
-DTSTART:20230305
-DTEND:20230306
+UID:698e77ec98108
+DTSTAMP:20260213T010132Z
+DTSTART:20260308
+DTEND:20260309
 LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
-SUMMARY:Mahfra Nature Trail
-DESCRIPTION:Mahfra Nature Trail a 05 de Março de 2023 em Mafra Local da pa
- rtida:Parque Desportivo Municipal Eng.º Ministro dos SantosAv. Dr. Francis
- co Sá Carneiro2640-486 Mafra Organização:Trilho Perdido Eventos e Trail4
- U\nhttps://www.portugalrunning.com/eventos/mahfra-nature-trail/
+SUMMARY:Mahfra Nature Trail 2026
+DESCRIPTION:A Trail4U irá organizar a 08 de março de 2026 pelas 09h00 hor
+ as o Mahfra Nature Trail\,  em Mafra\,  concelho de Mafra. O Mahfra Nature 
+ Trail é uma prova de Trail Running\,  corrida pedestre em Natureza\,  com 
+ três provas\,  Trail Longo (TL) K24\,  Trail Curto (TC) 13 e Caminhada. Co
+ m[..]\nhttps://www.portugalrunning.com/eventos/mahfra-nature-trail/
 URL:https://www.portugalrunning.com/eventos/mahfra-nature-trail/
 END:VEVENT
 END:VCALENDAR

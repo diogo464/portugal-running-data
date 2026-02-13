@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698e77ec50a41
+DTSTAMP:20260213T010132Z
+DTSTART:20260418
+DTEND:20260419
+LOCATION:Setúbal Setúbal
+SUMMARY:Alegro Meia Maratona de Setúbal 2026
+DESCRIPTION:A Alegro Meia Maratona de Setúbal é uma das provas mais emble
+ máticas do calendário nacional\,  decorrendo na cidade de Setúbal\,  Por
+ tugal. O evento oferece um percurso misto que combina a adrenalina da estra
+ da urbana com a beleza natural da Serra da Arrábida\,  proporcionando pass
+ agens deslumbrantes junto ao Rio Sado. Para[..]\nhttps://www.portugalrunnin
+ g.com/eventos/alegro-meia-maratona-de-setubal/
+URL:https://www.portugalrunning.com/eventos/alegro-meia-maratona-de-setubal/
+END:VEVENT
+END:VCALENDAR

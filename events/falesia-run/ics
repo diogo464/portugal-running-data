@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:698e77ee2b511
+DTSTAMP:20260213T010134Z
+DTSTART:20260307
+DTEND:20260308
+LOCATION:Albufeira\,  Faro Albufeira\,  Faro
+SUMMARY:Falésia Run 2026
+DESCRIPTION:Numa co-organização da Free Challenge\,  AP Hotels & Resorts\
+ ,  realiza-se no dia 07 de Março de 2026\,  a FALÉSIA RUN. Com início ag
+ endado para as 16h00 horas\,  nas Açoteias\,  com partida e chegada no Vic
+ toria Sport & Beach Hotel\,  nas distâncias de 6 e 11kms.\nhttps://www.por
+ tugalrunning.com/eventos/falesia-run/
+URL:https://www.portugalrunning.com/eventos/falesia-run/
+END:VEVENT
+END:VCALENDAR
