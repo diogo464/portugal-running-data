@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69910ca280db5
+DTSTAMP:20260215T000034Z
+DTSTART:20260301T221800Z
+DTEND:20260301T221800Z
+LOCATION:Coimbra Coimbra
+SUMMARY:Caminhada e Corrida da Universidade de Coimbra 2026
+DESCRIPTION:No próximo dia 1 de março de 2026\,  a Universidade de Coimbr
+ a promove a primeira Caminhada e Corrida da UC. Este é um evento desportiv
+ o\,  solidário e sustentável\,  desenhado para incentivar estilos de vida
+  saudáveis em toda a comunidade académica e no público em geral.\nhttps:
+ //www.portugalrunning.com/eventos/caminhada-e-corrida-da-universidade-de-co
+ imbra/
+URL:https://www.portugalrunning.com/eventos/caminhada-e-corrida-da-universidade-de-coimbra/
+END:VEVENT
+END:VCALENDAR

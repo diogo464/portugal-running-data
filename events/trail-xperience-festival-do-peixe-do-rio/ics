@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69910ca322603
+DTSTAMP:20260215T000035Z
+DTSTART:20260308T092500Z
+DTEND:20260308T235900Z
+LOCATION:Alandroal\,  Évora Alandroal\,  Évora
+SUMMARY:Trail Xperience Festival do Peixe do Rio 2026
+DESCRIPTION:Este evento\,  que decorre no dia 8 de março\,  é organizado 
+ pela Associação AlandroalUnited em parceria com o Município de Alandroal
+ \,  tem um caracter não competitivoe as inscrições no site acorrer.pt de
+ correm até dia 4 de março. O evento\,  que não tem como objetivo ser uma
+  caminhada\,  mas sim corrida[..]\nhttps://www.portugalrunning.com/eventos/
+ trail-xperience-festival-do-peixe-do-rio/
+URL:https://www.portugalrunning.com/eventos/trail-xperience-festival-do-peixe-do-rio/
+END:VEVENT
+END:VCALENDAR

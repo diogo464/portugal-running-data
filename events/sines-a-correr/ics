@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69910ca397c67
+DTSTAMP:20260215T000035Z
+DTSTART:20260926
+DTEND:20260927
+LOCATION:Sines\,  Setúbal Sines\,  Setúbal
+SUMMARY:Sines a Correr 2026
+DESCRIPTION:A 26 de setembro de 2026\,  temos encontro marcado em Sines. A 
+ HMS Sports e a Câmara Municipal de Sines promovem a segunda edição do Si
+ nes a Correr. O evento engloba a corrida de 10 km e a caminhada de 5 km\,  
+ numa manhã dedicada à prática desportiva.\nhttps://www.portugalrunning.c
+ om/eventos/sines-a-correr/
+URL:https://www.portugalrunning.com/eventos/sines-a-correr/
+END:VEVENT
+END:VCALENDAR

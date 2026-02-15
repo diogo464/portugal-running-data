@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69910ca109b1b
+DTSTAMP:20260215T000033Z
+DTSTART:20260913T154500Z
+DTEND:20260913T235900Z
+LOCATION:Benedita\,  Alcobaça Benedita\,  Alcobaça
+SUMMARY:Meia Maratona da Benedita 2026
+DESCRIPTION:Depois do sucesso na 1ª edição experimental\,  a&nbsp; 2ª e
+ dição da&nbsp;MEIA MARATONA DA BENEDITA&nbsp;chega a 13 de setembro 2026!
+  Esta será mais uma das ETAPAS do&nbsp;circuito nacional Road Warriors\,  
+ com melhorias no percurso e a promessa de certificação das distâncias. S
+ erá certamente um percurso para guerreiros\,  que cruza o coração[..]\nh
+ ttps://www.portugalrunning.com/eventos/meia-maratona-da-benedita-2/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-da-benedita-2/
+END:VEVENT
+END:VCALENDAR

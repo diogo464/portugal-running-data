@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69910ca411fd2
+DTSTAMP:20260215T000036Z
+DTSTART:20260919
+DTEND:20260920
+LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+SUMMARY:Sesimbra Night Run 2026
+DESCRIPTION:A ASSOCIAÇÃO DESPORTIVA OMUNDODACORRIDA.COM\,  organiza com o
+  apoio da Câmara Municipal de Sesimbra\,  no dia 19 de Setembro de 2026\, 
+  pelas 20 horas\,  uma competição denominada "SESIMBRA NIGHT RUN". A part
+ ida dos 5 km competitivos a correr ou andar será dada às 20H e a partida 
+ dos 10km será às[..]\nhttps://www.portugalrunning.com/eventos/sesimbra-ni
+ ght-run/
+URL:https://www.portugalrunning.com/eventos/sesimbra-night-run/
+END:VEVENT
+END:VCALENDAR
