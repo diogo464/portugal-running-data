@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6993afa2b3dd4
+DTSTAMP:20260217T000034Z
+DTSTART:20260719
+DTEND:20260720
+LOCATION:Melides - Tróia Melides - Tróia
+SUMMARY:Corrida Atlântica 2026
+DESCRIPTION:A CORRIDA ATLÂNTICA COMPORTA – TRÓIA é uma organização d
+ o Município de Grândola e vai decorrer a 12ª edição no dia 19 de julho
+  de 2026\,  na costa atlântica do concelho de Grândola. A Corrida Atlânt
+ ica Comporta – Tróia\,  decorrerá num percurso com uma extensão aproxi
+ mada de 15 km\,  todos[..]\nhttps://www.portugalrunning.com/eventos/corrida
+ -atlantica/
+URL:https://www.portugalrunning.com/eventos/corrida-atlantica/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6993afa205715
+DTSTAMP:20260217T000034Z
+DTSTART:20260419
+DTEND:20260420
+LOCATION:Praia da Saúde\,  Costa da Caparica Praia da Saúde\,  Costa da Caparica
+SUMMARY:Corre Praia 2026
+DESCRIPTION:A Área de Gestão Desportiva do Clube de Campismo do Concelho 
+ de Almada\,  irá realizar no próximo dia 19 de Abril de 2026\,  pelas 9h3
+ 0 o CORREPRAIA\,  num percurso compreendido entre a Praia da Saúde\,  Font
+ e da Telha\,  Praia da Saúde num total de 15km. O Mini CORREPRAIA\,  percu
+ rso compreendido[..]\nhttps://www.portugalrunning.com/eventos/corre-praia/
+URL:https://www.portugalrunning.com/eventos/corre-praia/
+END:VEVENT
+END:VCALENDAR

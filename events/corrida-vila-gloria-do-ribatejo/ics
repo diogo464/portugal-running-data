@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6993afa27e299
+DTSTAMP:20260217T000034Z
+DTSTART:20260501
+DTEND:20260502
+LOCATION:Salvaterra de Magos\,  Santarém Salvaterra de Magos\,  Santarém
+SUMMARY:Corrida Vila Glória do Ribatejo 2026
+DESCRIPTION:A XI Corrida Vila Glória do Ribatejo\,  será realizada no dia
+  1 de Maio 2026\,  na vila de Glória do Ribatejo\,  pertencente ao concelh
+ o de Salvaterra de Magos\,  distrito de Santarém. A prova será constituí
+ da por: - Corrida de 10km; - Minicorrida de 5 Km; e - Caminhada de 5km.\nht
+ tps://www.portugalrunning.com/eventos/corrida-vila-gloria-do-ribatejo/
+URL:https://www.portugalrunning.com/eventos/corrida-vila-gloria-do-ribatejo/
+END:VEVENT
+END:VCALENDAR

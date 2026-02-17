@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6993afa196ac8
+DTSTAMP:20260217T000033Z
+DTSTART:20260614
+DTEND:20260615
+LOCATION:Belas\,  Sintra Belas\,  Sintra
+SUMMARY:Belas Cross Trail 2026
+DESCRIPTION:O V Belas Cross Trail é organizado pela Associação Free Runn
+ ers. É um evento que percorre os estradões e trilhos da Quinta da Fonteir
+ eira e do Belas Clube de Campo e Serra do Casal de Cambra\,  num cenário n
+ atural merecedor de ser conhecido.\nhttps://www.portugalrunning.com/eventos
+ /belas-cross-trail/
+URL:https://www.portugalrunning.com/eventos/belas-cross-trail/
+END:VEVENT
+END:VCALENDAR
