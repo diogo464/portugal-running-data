@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6996529f58358
+DTSTAMP:20260219T000031Z
+DTSTART:20260329
+DTEND:20260330
+LOCATION:Machico\,  Madeira Machico\,  Madeira
+SUMMARY:Trail do Ludens Machico 2026
+DESCRIPTION:O “XIII TRAIL DO LUDENS MACHICO” é promovido pelo Ludens C
+ lube de Machico. O evento que integra duas provas\,  o Trail Longo do Luden
+ s – 26\, 300km/1690D+ e o Trail Curto do Ludens com cerca de 15 km/800D+.
+ \nhttps://www.portugalrunning.com/eventos/trail-do-ludens-machico/
+URL:https://www.portugalrunning.com/eventos/trail-do-ludens-machico/
+END:VEVENT
+END:VCALENDAR
