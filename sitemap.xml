@@ -2,13 +2,45 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-02-18T23:04:42+00:00</lastmod>
+		<lastmod>2026-02-19T20:01:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/memorial-jose-militao/</loc>
+		<lastmod>2026-02-19T20:01:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/barreiro-machada-trail-noturno/</loc>
+		<lastmod>2026-02-19T19:57:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/BARREIRO-TRAIL-021-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-solidaria-exide-suanfarma-e-hit/</loc>
+		<lastmod>2026-02-19T19:55:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Corrida-Solidaria-2026-01-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-das-pontes/</loc>
+		<lastmod>2026-02-19T19:53:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/pop_p6le169951.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-da-liberdade-maia/</loc>
-		<lastmod>2026-02-18T23:04:42+00:00</lastmod>
+		<lastmod>2026-02-19T19:48:50+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/pt_1771403827.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/gp-atletismo-rebordosa-2026/</loc>
+		<lastmod>2026-02-19T19:48:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/966f8176f69138305fd19cd4e2c1e5f9.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1978,14 +2010,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai-3a-etapa-2026-2/</loc>
-		<lastmod>2026-01-10T05:55:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai/</loc>
-		<lastmod>2026-01-10T05:46:33+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-do-chocolate/</loc>
 		<lastmod>2026-01-10T05:45:40+00:00</lastmod>
 		<image:image>
@@ -2437,14 +2461,6 @@
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-de-s-joao-porto/</loc>
 		<lastmod>2026-01-02T11:21:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai-4a-etapa-2026/</loc>
-		<lastmod>2026-01-02T11:17:19+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vitalis-kids-challenge-by-hyundai-3a-etapa-2026/</loc>
-		<lastmod>2026-01-02T11:16:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-da-rota-do-sal/</loc>
@@ -34631,13 +34647,6 @@
 		<lastmod>2019-12-18T13:10:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/xxi-grande-premio-atletismo-logo_500x500_521972_582571.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vales-de-vimioso-trailrun/</loc>
-		<lastmod>2019-12-17T09:27:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/vales-vimioso-trailrun-cartaz_1057x835_530210_592364.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

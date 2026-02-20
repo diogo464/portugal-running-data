@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6997a41ce1504
+DTSTAMP:20260220T000028Z
+DTSTART:20260411T134500Z
+DTEND:20260411T235900Z
+LOCATION:Castanheira do Ribatejo\,  Vila Franca de Xira Castanheira do Ribatejo\,  Vila Franca de Xira
+SUMMARY:Corrida Solidária Exide\,  Suanfarma e Hit 2026
+DESCRIPTION:A Corrida Solidária é um evento promovido pelas empresas Exid
+ e Technologies\,  Hit Kagome e Suanfarma Cipan\,  com o objetivo de unir a 
+ comunidade em torno de uma causa: apoiar os Bombeiros da Castanheira do Rib
+ atejo. Todo o valor das inscrições reverterá integralmente a favor desta
+  instituição essencial\,  que diariamente protege[..]\nhttps://www.portug
+ alrunning.com/eventos/corrida-solidaria-exide-suanfarma-e-hit/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-exide-suanfarma-e-hit/
+END:VEVENT
+END:VCALENDAR
