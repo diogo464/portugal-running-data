@@ -2,7 +2,28 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-02-19T20:01:57+00:00</lastmod>
+		<lastmod>2026-02-20T22:53:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-solidaria-nem-aac/</loc>
+		<lastmod>2026-02-20T22:53:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pop_22u3226910-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-cavado/</loc>
+		<lastmod>2026-02-20T19:17:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/615144798_1343639434229531_3617412275636593962_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-luso-bussaco/</loc>
+		<lastmod>2026-02-20T07:46:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/4572025117_193948_Bbb290a9A33a448AAa955Cd90de04f07-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/memorial-jose-militao/</loc>
@@ -699,13 +720,6 @@
 		<lastmod>2026-02-02T13:37:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/02/67a5cabcde626_logo_conde.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-cavado/</loc>
-		<lastmod>2026-02-02T12:27:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/615144798_1343639434229531_3617412275636593962_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2343,13 +2357,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-solidaria-nem-aac/</loc>
-		<lastmod>2026-01-05T20:58:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pop_22u3226910.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-sport-arronches-e-benfica/</loc>
 		<lastmod>2026-01-05T20:56:40+00:00</lastmod>
 		<image:image>
@@ -3671,13 +3678,6 @@
 		<lastmod>2025-11-08T10:44:35+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/pop_0779861920.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trilhos-luso-bussaco-2026/</loc>
-		<lastmod>2025-11-08T10:39:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/4572025117_193948_Bbb290a9A33a448AAa955Cd90de04f07-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

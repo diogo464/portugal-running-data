@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6998f5a2cdd7f
+DTSTAMP:20260221T000034Z
+DTSTART:20260510
+DTEND:20260511
+LOCATION:Luso\,  Aveiro Luso\,  Aveiro
+SUMMARY:Trilhos Luso Bussaco 2026
+DESCRIPTION:O evento&nbsp;8.º Trilhos Luso Bussaco&nbsp;é organizado pela
+ &nbsp;Associação Trilhos Luso Bussaco\,  com o apoio da Câmara Municipal
+  da Mealhada\,  Junta de Freguesia do Luso e Fundação Mata do Bussaco. Re
+ aliza-se na Serra do Bussaco\,  incluindo passagem pela&nbsp;Mata Nacional\
+ , &nbsp;Palace Bussaco\, &nbsp;Fonte Fria&nbsp;e&nbsp;Cruz Alta\,  oferecen
+ do aos participantes paisagens naturais únicas.\nhttps://www.portugalrunni
+ ng.com/eventos/trilhos-luso-bussaco/
+URL:https://www.portugalrunning.com/eventos/trilhos-luso-bussaco/
+END:VEVENT
+END:VCALENDAR
