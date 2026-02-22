@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699a471e33fe2
+DTSTAMP:20260222T000030Z
+DTSTART:20260425
+DTEND:20260426
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida da Liberdade Lisboa 2026
+DESCRIPTION:No dia 25 Abril\,  a alegria e a festa colectiva saem mais uma 
+ vez à rua. O desejo e o prazer da participação mantêm viva a “Corrida
+  da Liberdade” e a sua simbologia\,  nesse dia em que saudamos os 52 anos
+  da Revolução dos Cravos! A PRAÇA dos RESTAURADORES irá[..]\nhttps://ww
+ w.portugalrunning.com/eventos/corrida-da-liberdade-lisboa/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-lisboa/
+END:VEVENT
+END:VCALENDAR

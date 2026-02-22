@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699a472101117
+DTSTAMP:20260222T000033Z
+DTSTART:20260501
+DTEND:20260502
+LOCATION:Ourique\,  Beja Ourique\,  Beja
+SUMMARY:Trilhos da Cola 2026
+DESCRIPTION:Na sua terceira edição\,  os Trilhos da Cola trarão ao Alent
+ ejo uma prova que visitará Castro da Cola\,  em Ourique\,  com duas distâ
+ ncias competitivas e uma caminhada.\nhttps://www.portugalrunning.com/evento
+ s/trilhos-da-cola/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-cola/
+END:VEVENT
+END:VCALENDAR
