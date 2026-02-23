@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98b1533c2
+DTSTAMP:20260223T000049Z
+DTSTART:20260410T152500Z
+DTEND:20260410T235900Z
+LOCATION:Vila Verde\,  Braga Vila Verde\,  Braga
+SUMMARY:Iberica Backyard Ultra Masters 2026
+DESCRIPTION:Prova de backyard ultra\,  apenas disponível para atletas com 
+ os seguintes requisitos minimos (resultados obtidos em 2025):Homens: 24 vol
+ tas ou maisMulheres: 20 voltas ou maisEstarão disponíveis 70 vagas\nhttps
+ ://www.portugalrunning.com/eventos/iberica-backyard-ultra-masters/
+URL:https://www.portugalrunning.com/eventos/iberica-backyard-ultra-masters/
+END:VEVENT
+END:VCALENDAR

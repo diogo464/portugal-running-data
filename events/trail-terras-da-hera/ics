@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98b1e9f03
+DTSTAMP:20260223T000049Z
+DTSTART:20260315
+DTEND:20260316
+LOCATION:Ereira\,  Cartaxo Ereira\,  Cartaxo
+SUMMARY:Trail Terras da Hera 2026
+DESCRIPTION:Organizado pela Casa do Povo da Ereira no Cartaxo\,  o 4° Trai
+ l “Terras da Hera” vai realizar-se no dia 15 de março de 2026\,  com o
+  apoio da União de Freguesias Ereira e Lapa e Município do Cartaxo. Com e
+ sta prova pretende-se dinamizar a nossa freguesia e dar a conhecer[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-terras-da-hera/
+URL:https://www.portugalrunning.com/eventos/trail-terras-da-hera/
+END:VEVENT
+END:VCALENDAR

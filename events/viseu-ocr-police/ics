@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98b28768a
+DTSTAMP:20260223T000050Z
+DTSTART:20260718
+DTEND:20260719
+LOCATION:Viseu Viseu
+SUMMARY:OCR Police Viseu 2026
+DESCRIPTION:A Viseu OCR Police realiza-se no dia 18 de Julho de 2026. Certa
+ mente\,  Viseu será palco de um desafio rápido e divertido\,  onde mais i
+ mportante do que vencer é a superação individual ou com uma equipa de am
+ igos! A prova terá um percurso de 5 km com dezenas de obstáculos.[..]\nht
+ tps://www.portugalrunning.com/eventos/viseu-ocr-police/
+URL:https://www.portugalrunning.com/eventos/viseu-ocr-police/
+END:VEVENT
+END:VCALENDAR

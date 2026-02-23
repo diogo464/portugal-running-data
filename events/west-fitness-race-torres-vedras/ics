@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98b251636
+DTSTAMP:20260223T000050Z
+DTSTART:20260418T065100Z
+DTEND:20260419T065100Z
+LOCATION:Torres Vedras\,  Lisboa Torres Vedras\,  Lisboa
+SUMMARY:West Fitness Race - Torres Vedras 2026
+DESCRIPTION:Local: Pavilhão Multiusos de Torres Vedras Data: 18 e 19 Abril
+  2026 Conceito: Uma competição que combina fitness funcional e endurance.
+  Objetivo: Completar todo o percurso no menor tempo possível. Formatos de 
+ Prova: - RACE (Full): 8 km de corrida total\,  intercalada com 8 estações
+  de exercícios. - SPRINT: 4[..]\nhttps://www.portugalrunning.com/eventos/w
+ est-fitness-race-torres-vedras/
+URL:https://www.portugalrunning.com/eventos/west-fitness-race-torres-vedras/
+END:VEVENT
+END:VCALENDAR

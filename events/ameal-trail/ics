@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98ad3df1a
+DTSTAMP:20260223T000045Z
+DTSTART:20260412
+DTEND:20260413
+LOCATION:Ameal\,  Coimbra Ameal\,  Coimbra
+SUMMARY:Ameal Trail 2026
+DESCRIPTION:O Ameal Trail \,  contextualiza-se na vontade de dar a possibil
+ idade a todos os atletas de poderusufruir dos trilhos da nossa aldeia\,  nu
+ m percurso desenhado em 2022. Desta forma o AmealTrail é um trail desenhad
+ o de atleta para atletas e pretende dinamizar a aldeia do Ameal comuma prov
+ a desportiva.\nhttps://www.portugalrunning.com/eventos/ameal-trail/
+URL:https://www.portugalrunning.com/eventos/ameal-trail/
+END:VEVENT
+END:VCALENDAR

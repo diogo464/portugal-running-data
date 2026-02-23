@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98b0e5372
+DTSTAMP:20260223T000048Z
+DTSTART:20260412
+DTEND:20260413
+LOCATION:Redondo\,  Évora Redondo\,  Évora
+SUMMARY:Trail do Texugo 2026
+DESCRIPTION:O Trail do Texugo é uma prova de Trail Running\,  corrida pede
+ stre em Natureza\,  com quatro distâncias\,  Trail Ultra (TU) K46+ \,  Tra
+ il Longo (TL) K30+ \,  Trail Sprint/Jovem (TS) K15+ e Iniciação ao Trail 
+ (I) K10. A prova terá início e fim na Aldeia da Serra D'Ossa percorrendo 
+ trilhos\, [..]\nhttps://www.portugalrunning.com/eventos/trail-do-texugo/
+URL:https://www.portugalrunning.com/eventos/trail-do-texugo/
+END:VEVENT
+END:VCALENDAR

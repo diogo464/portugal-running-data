@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98ac66e66
+DTSTAMP:20260223T000044Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Mozelos\,  Aveiro Mozelos\,  Aveiro
+SUMMARY:Grande Prémio Atletismo da JAM 2026
+DESCRIPTION:O Grande Prémio de Atletismo Vila de Mozelos é um tradicional
+  momento de reunião dos muitos participantes de corrida da região de Avei
+ ro e do concelho de Santa Maria da Feira\,  organizado pela 25ª vez. Regre
+ sse ou venha experimentar pela primeira vez este evento.\nhttps://www.portu
+ galrunning.com/eventos/grande-premio-atletismo-vila-de-mozelos/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-vila-de-mozelos/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98ad5a50a
+DTSTAMP:20260223T000045Z
+DTSTART:20260412
+DTEND:20260413
+LOCATION:Vila Real Vila Real
+SUMMARY:Meia Maratona Vila Real 2026
+DESCRIPTION:A VIII Meia Maratona de Vila Real está a cargo da Associação
+  de Atletismo de Vila Real\,  em coorganização com a Câmara Municipal de
+  Vila Real\,  sendo promovida pela EXCELLUS\,  Unipessoal Lda. Eventos:Meia
+  Maratona - Distância de 21\, 097 km (distância oficial)\,  para particip
+ antes com 18 anos ou mais à data.Mini[..]\nhttps://www.portugalrunning.com
+ /eventos/meia-maratona-vila-real/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-vila-real/
+END:VEVENT
+END:VCALENDAR

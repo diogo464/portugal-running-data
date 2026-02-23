@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98b23d012
+DTSTAMP:20260223T000050Z
+DTSTART:20260326
+DTEND:20260327
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Ultra Trail do Marão 2026
+DESCRIPTION:O Ultra Trail do Marão\,  é um evento desportivo de trail run
+ ning em estado genuíno daresponsabilidade co-organizativa da Associação 
+ Desportiva Marão Trail e da SavageNatur Events®\,  eque se realizará nos
+  dias 26\,  27\,  28 e 29 de Março de 2026.A Serra do Marão será o palco
+  maior desta fantástica aventura[..]\nhttps://www.portugalrunning.com/even
+ tos/ultra-trail-do-marao/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-do-marao/
+END:VEVENT
+END:VCALENDAR

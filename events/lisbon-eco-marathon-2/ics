@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98acc1b3c
+DTSTAMP:20260223T000044Z
+DTSTART:20260412
+DTEND:20260413
+LOCATION:Parque Eduardo Sétimo\,  Lisboa Parque Eduardo Sétimo\,  Lisboa
+SUMMARY:Lisbon Eco Marathon 2026
+DESCRIPTION:Dia 12 de Abril de 2026\,  vem correr na natureza no coração 
+ da cidade de Lisboa! O Parque Florestal de Monsanto\,  o maior dentro de um
+ a cidade europeia\,  espera por ti! O mítico Parque Eduardo VII acolherá 
+ a partida dos 42k\,  21k\,  13k e Caminhada\,  numa jornada de plena comunh
+ ão[..]\nhttps://www.portugalrunning.com/eventos/lisbon-eco-marathon-2/
+URL:https://www.portugalrunning.com/eventos/lisbon-eco-marathon-2/
+END:VEVENT
+END:VCALENDAR

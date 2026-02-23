@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98ad3caa8
+DTSTAMP:20260223T000045Z
+DTSTART:20260418
+DTEND:20260419
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Flavius Challenge OCR 2026
+DESCRIPTION:O “CAMPEONATO NACIONAL OCR 2026” é um evento organizado pe
+ lo promotor “FLAVIUS CHALLENGE OCR”\,  a Federação Portuguesa de Corr
+ idas de Obstáculos e o Município de Chaves. O evento abrange 2 disciplina
+ s: OCR3KM e OCR12KM\,  nas vagas Campeonato Nacional de OCR e Flavius Chall
+ enge – Competição. Para a vaga Open haverá[..]\nhttps://www.portugalru
+ nning.com/eventos/flavius-challenge-ocr/
+URL:https://www.portugalrunning.com/eventos/flavius-challenge-ocr/
+END:VEVENT
+END:VCALENDAR

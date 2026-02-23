@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699b98aee3e68
+DTSTAMP:20260223T000046Z
+DTSTART:20260328T055900Z
+DTEND:20260328T235900Z
+LOCATION:Ota\,  Lisboa Ota\,  Lisboa
+SUMMARY:H.Clash 2026
+DESCRIPTION:Nos dias 28 e 29 de março de 2026\,  a Base Aérea de Ota vai 
+ transformar-se no palco de um dos eventos desportivos mais intensos do ano:
+  o H.Clash. Inspirado no formato Hyrox\,  este desafio combina corrida\,  f
+ orça e resistência num ambiente único e desafiante\,  onde atletas de to
+ dos os[..]\nhttps://www.portugalrunning.com/eventos/h-clash/
+URL:https://www.portugalrunning.com/eventos/h-clash/
+END:VEVENT
+END:VCALENDAR
