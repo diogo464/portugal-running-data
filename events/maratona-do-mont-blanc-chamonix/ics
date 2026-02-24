@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699cea1c8ebfc
+DTSTAMP:20260224T000028Z
+DTSTART:20260625T132000Z
+DTEND:20260628T132000Z
+LOCATION:Chamonix\,  França Chamonix\,  França
+SUMMARY:Maratona do Mont-Blanc (Chamonix) 2026
+DESCRIPTION:A Maratona Marathon do Mont-Blanc é um dos eventos de trail ru
+ nning mais prestigiados do mundo\,  realizado anualmente no mês de junho e
+ m Chamonix\,  França. Composto por diversas provas de terreno de montanha 
+ técnico\,  o evento oferece distâncias que vão desde o emblemático Mara
+ tona (42 km) e o exigente 90[..]\nhttps://www.portugalrunning.com/eventos/m
+ aratona-do-mont-blanc-chamonix/
+URL:https://www.portugalrunning.com/eventos/maratona-do-mont-blanc-chamonix/
+END:VEVENT
+END:VCALENDAR
