@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699e3ba1ce089
+DTSTAMP:20260225T000033Z
+DTSTART:20260301T211500Z
+DTEND:20260301T211500Z
+LOCATION:Salamanca\,  Espanha Salamanca\,  Espanha
+SUMMARY:Meia Maratona de Salamanca 2026
+DESCRIPTION:A Meia Maratona Cidade de Salamanca é uma das provas de estrad
+ a mais emblemáticas de Castela e Leão\,  Espanha\,  realizando-se anualme
+ nte no mês de março (com a edição de 2026 confirmada para o dia 1 de ma
+ rço). O evento foca-se na distância única de 21\, 097 km\,  percorrendo 
+ um traçado urbano[..]\nhttps://www.portugalrunning.com/eventos/meia-marato
+ na-de-salamanca/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-salamanca/
+END:VEVENT
+END:VCALENDAR

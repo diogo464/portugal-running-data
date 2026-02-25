@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699e3ba159ec3
+DTSTAMP:20260225T000033Z
+DTSTART:20260308
+DTEND:20260309
+LOCATION:Portugal Portugal
+SUMMARY:Corrida da Mulher - Corrida Virtual 2026
+DESCRIPTION:A corrida é virtual\,  podendo ser realizada em qualquer local
+  (rua\,  trilho\,  passadeira\,  etc.). Há três distâncias oficiais: 5km
+ \,  10km e 21km. O percurso é livre\,  desde que a distância seja cumprid
+ a.\nhttps://www.portugalrunning.com/eventos/corrida-da-mulher-corrida-virtu
+ al/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mulher-corrida-virtual/
+END:VEVENT
+END:VCALENDAR

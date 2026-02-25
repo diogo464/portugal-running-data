@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699e3ba16c1f9
+DTSTAMP:20260225T000033Z
+DTSTART:20260404T222000Z
+DTEND:20260404T222000Z
+LOCATION:Terrugem\,  Elvas Terrugem\,  Elvas
+SUMMARY:Aleluias Trail 2026
+DESCRIPTION:Na manhã de 04 de abril de 2026\,  a Terrugem acorda com uma e
+ nergia especial. É dia de Aleluias — uma das tradições mais marcantes 
+ e identitárias da aldeia. À meia-noite do Sábado de Aleluia\,  os sinos 
+ anunciam a Ressurreição e as ruas enchemse de vida. O som dos chocalhos[.
+ .]\nhttps://www.portugalrunning.com/eventos/aleluias-trail/
+URL:https://www.portugalrunning.com/eventos/aleluias-trail/
+END:VEVENT
+END:VCALENDAR

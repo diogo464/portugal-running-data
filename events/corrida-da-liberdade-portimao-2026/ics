@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699e3ba087a49
+DTSTAMP:20260225T000032Z
+DTSTART:20260425T202300Z
+DTEND:20260425T235900Z
+LOCATION:Portimão\,  Faro Portimão\,  Faro
+SUMMARY:Corrida da Liberdade Portimão 2026
+DESCRIPTION:A Câmara Municipal de Portimão promove\,  a Corrida da Liberd
+ ade Portimão\,  com partida e chegada na Zona Ribeirinha de Portimão.\nht
+ tps://www.portugalrunning.com/eventos/corrida-da-liberdade-portimao-2026/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-portimao-2026/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699e3ba391fcf
+DTSTAMP:20260225T000035Z
+DTSTART:20260418T222300Z
+DTEND:20260418T222300Z
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:Topo Simulation 2026
+DESCRIPTION:A TOPO SIMULATION é uma competição híbrida de endurance e f
+ orça\,  que combina corrida com estações funcionais padronizadas.\nhttps
+ ://www.portugalrunning.com/eventos/topo-simulation/
+URL:https://www.portugalrunning.com/eventos/topo-simulation/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699e3ba107fc9
+DTSTAMP:20260225T000033Z
+DTSTART:20260301T212000Z
+DTEND:20260301T212000Z
+LOCATION:Auch\,  França Auch\,  França
+SUMMARY:Meia Maratona Le Souffle du Gers 2026
+DESCRIPTION:A Meia Maratona Le Souffle du Gers é um prestigiado evento de 
+ corrida de estrada que se realiza anualmente na cidade de Auch (região da 
+ Occitânia)\,  França. Com a sua próxima edição confirmada para o dia 1
+  de março de 2026 (tradicionalmente realizada em março)\,  a prova é fam
+ osa por[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-le-souff
+ le-du-gers/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-le-souffle-du-gers/
+END:VEVENT
+END:VCALENDAR

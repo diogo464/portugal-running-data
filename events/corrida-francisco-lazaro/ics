@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:699e3ba44b9ac
+DTSTAMP:20260225T000036Z
+DTSTART:20260418
+DTEND:20260419
+LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
+SUMMARY:Corrida Francisco Lázaro 2026
+DESCRIPTION:A mítica corrida organizada pela Junta de Freguesia de Benfica
+  e pelo Clube Futebol Benfica está de volta. Correr por ruas emblemáticas
+  e poder também respirar o ar puro de Monsanto\,  são alguns dos atrativo
+ s desta corrida que este ano contará\,  também\,  com uma festa no pós-p
+ rova! Para quem não[..]\nhttps://www.portugalrunning.com/eventos/corrida-f
+ rancisco-lazaro/
+URL:https://www.portugalrunning.com/eventos/corrida-francisco-lazaro/
+END:VEVENT
+END:VCALENDAR

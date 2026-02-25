@@ -2,7 +2,95 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-02-23T13:33:00+00:00</lastmod>
+		<lastmod>2026-02-24T22:38:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-nossa-senhora-das-neves/</loc>
+		<lastmod>2026-02-24T22:38:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/7ed4.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-francisco-lazaro/</loc>
+		<lastmod>2026-02-24T22:37:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/LAZARO-2026-021-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-cabouqueiro/</loc>
+		<lastmod>2026-02-24T22:35:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/pop_6t3oknu921.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/alegro-meia-maratona-de-setubal/</loc>
+		<lastmod>2026-02-24T22:32:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/631641730_1490126713121893_5256823562069953489_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-da-liberdade-portimao-2026/</loc>
+		<lastmod>2026-02-24T22:26:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/topo-simulation/</loc>
+		<lastmod>2026-02-24T22:24:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/banner-topo-simulation-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/aleluias-trail/</loc>
+		<lastmod>2026-02-24T22:22:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/699c690a44cfe_Cartaz_Aleluia-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-do-super-pai-virtual-2026/</loc>
+		<lastmod>2026-02-24T22:20:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/699c46a8ad9c5_4214_cartaz2_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-da-mulher-corrida-virtual/</loc>
+		<lastmod>2026-02-24T22:17:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/699c40cea1212_4213_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-le-souffle-du-gers/</loc>
+		<lastmod>2026-02-24T21:21:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Souffle-du-Gers-2026-300.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-salamanca/</loc>
+		<lastmod>2026-02-24T21:17:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/540079232_1326845549446759_1502280681735684713_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/neg-run/</loc>
+		<lastmod>2026-02-24T20:40:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/699c6a74e49cd_cartaz_negrun2026_novadata-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-fim-da-europa/</loc>
+		<lastmod>2026-02-24T16:18:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/banner-corrida-fim-europa-2026-min.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-de-sevilha/</loc>
@@ -128,13 +216,6 @@
 		<lastmod>2026-02-22T07:50:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/banner-gp-atletismo-estarreja-2026-min-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/alegro-meia-maratona-de-setubal/</loc>
-		<lastmod>2026-02-22T07:50:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/631641730_1490126713121893_5256823562069953489_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -289,13 +370,6 @@
 		<lastmod>2026-02-22T07:44:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/1-15.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/neg-run/</loc>
-		<lastmod>2026-02-22T07:43:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/6979e263a2edb_cartaz_negrun_2026_net-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1225,13 +1299,6 @@
 		<lastmod>2026-02-02T12:10:54+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/20260517_cartaz.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-fim-da-europa/</loc>
-		<lastmod>2026-02-02T12:07:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/banner-corrida-fim-europa-2026-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -34577,76 +34644,6 @@
 		<lastmod>2019-12-20T19:04:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/460-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corta-mato-de-barcelos/</loc>
-		<lastmod>2019-12-20T18:38:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/Amigos_da_Montanha_Atletismo_Corta_Mato_de_Barcelo.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-meda-de-douros/</loc>
-		<lastmod>2019-12-20T18:34:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/meda-mouros-trail-logo-2019_500x500_517611_577252.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-100-solidaria-da-povoa-de-lanhoso/</loc>
-		<lastmod>2019-12-20T18:17:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/sao-silvestre-povoa-lanhoso-logo_500x500_524108_585166.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-almada/</loc>
-		<lastmod>2019-12-20T15:36:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/2794_nuria_DTL.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-sao-silvestre-solidaria-constancia/</loc>
-		<lastmod>2019-12-20T14:52:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/banner-ss-solidaria-constancia-brigmec-2019-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-da-batalha/</loc>
-		<lastmod>2019-12-20T14:51:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/2838_1_DTL.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-torres-novas/</loc>
-		<lastmod>2019-12-20T14:50:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/sao-silvestre-torres-novas-logo-2019_500x500_515642_574942.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/grande-premio-peniche-a-correr/</loc>
-		<lastmod>2019-12-20T14:45:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/2828_2_DTL-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-figueira-da-foz/</loc>
-		<lastmod>2019-12-19T13:39:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/2849_2_DTL-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/1o-trail-puro-duro/</loc>
-		<lastmod>2019-12-18T23:30:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/1-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
