@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ad83094b538
+DTSTAMP:20260308T140913Z
+DTSTART:20260607
+DTEND:20260608
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Santo António 2026 - Lisboa
+DESCRIPTION:A Lidl Corrida de Santo António é um dos eventos desportivos 
+ mais emblemáticos das Festas de Lisboa\,  realizando-se na zona histórica
+  de Belém\,  Lisboa (Portugal). A prova decorre integralmente em estrada\,
+   num percurso plano e rápido junto ao Rio Tejo\,  oferecendo as distânci
+ as de 10 km (corrida) e 4 km[..]\nhttps://www.portugalrunning.com/eventos/c
+ orrida-santo-antonio-lisboa/
+URL:https://www.portugalrunning.com/eventos/corrida-santo-antonio-lisboa/
+END:VEVENT
+END:VCALENDAR

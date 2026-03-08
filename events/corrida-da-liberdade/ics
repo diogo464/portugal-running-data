@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ad830919727
+DTSTAMP:20260308T140913Z
+DTSTART:20250425T094300Z
+DTEND:20250425T235900Z
+LOCATION:Custóias\,  Matosinhos Custóias\,  Matosinhos
+SUMMARY:Corrida da Liberdade Custóias 2026
+DESCRIPTION:A Junta de freguesia de Custóias\,  com o apoio da Associaçã
+ o de Atletismo do Porto\,  no próximo dia 25 de abril\,  organiza a 47ª E
+ dição da Corrida da Liberdade integrada nas comemorações do 52º Aniver
+ sário da Revolução dos Cravos\,  com partida e chegada no Largo do Souto
+  – Custóias.\nhttps://www.portugalrunning.com/eventos/corrida-da-liberda
+ de/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade/
+END:VEVENT
+END:VCALENDAR

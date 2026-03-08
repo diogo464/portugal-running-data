@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ad8309e623a
+DTSTAMP:20260308T140913Z
+DTSTART:20260517
+DTEND:20260518
+LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
+SUMMARY:Trail do Mouro - Alcobertas 2026
+DESCRIPTION:O evento conta com a organização do Agrupamento de Escuteiros
+  1187 de Alcobertas em conjunto com a Junta de Freguesia de Alcobertas\,  i
+ nserido nas comemorações da elevação de Alcobertas a Vila. O Trail de A
+ lcobertas é uma Prova de TrailRunning\,  realizada em troços rurais e flo
+ restais\,  por trilhos sinalizados\,  em[..]\nhttps://www.portugalrunning.c
+ om/eventos/trail-do-mouro-alcobertas/
+URL:https://www.portugalrunning.com/eventos/trail-do-mouro-alcobertas/
+END:VEVENT
+END:VCALENDAR

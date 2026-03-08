@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ad830a1deb5
+DTSTAMP:20260308T140914Z
+DTSTART:20260411T162200Z
+DTEND:20260411T235900Z
+LOCATION:São Sebastião Da Giesteira\,  Évora São Sebastião da Giesteira\,  Évora
+SUMMARY:Color Run David Garcia 2026
+DESCRIPTION:A Color Run David Garcia é uma prova vibrante que se realiza e
+ m São Sebastião da Giesteira (Évora)\,  Portugal\,  caracterizada por um
+  terreno maioritariamente de estrada e caminhos rurais fáceis. Com uma dis
+ tância única de aproximadamente 5 km\,  o evento ocorre habitualmente no 
+ mês de abril (com a edição de[..]\nhttps://www.portugalrunning.com/event
+ os/color-run-david-garcia/
+URL:https://www.portugalrunning.com/eventos/color-run-david-garcia/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ad830a053af
+DTSTAMP:20260308T140914Z
+DTSTART:20260614T225800Z
+DTEND:20260614T235900Z
+LOCATION:Telhadela\,  Albergaria-a-Velha Telhadela\,  Albergaria-a-Velha
+SUMMARY:Telhadela Trail 2026
+DESCRIPTION:TELHADELA TRAIL – II Edição\,  a prova que mostrou Telhadel
+ a de um ângulo diferente está de volta. A premissa mantém-se promover a 
+ prática desportiva em geral e o gosto pelo desporto na Natureza. Vai perco
+ rrer os trilhos de Telhadela e da freguesia de Ribeira de Fráguas.\nhttps:
+ //www.portugalrunning.com/eventos/telhadela-trail/
+URL:https://www.portugalrunning.com/eventos/telhadela-trail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ad830a2b3fe
+DTSTAMP:20260308T140914Z
+DTSTART:20260322
+DTEND:20260323
+LOCATION:Praia da Falésia\,  Albufeira Praia da Falésia\,  Albufeira
+SUMMARY:EPIC Sana Beach Run 2026
+DESCRIPTION:Numa co-organização da Free Challenge\,  EPIC SANA Algarve\, 
+  realiza-se no dia 22 de Março de 2026\,  a EPIC SANA Beach Run. Com iníc
+ io agendado para as 10h00 horas\,  com partida na Praia da Falésia e chega
+ da no EPIC SANA Algarve\,  nas distâncias de 5 e 10 kms.\nhttps://www.port
+ ugalrunning.com/eventos/epic-sana-beach-run/
+URL:https://www.portugalrunning.com/eventos/epic-sana-beach-run/
+END:VEVENT
+END:VCALENDAR

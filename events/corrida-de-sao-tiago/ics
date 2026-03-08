@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ad8309c2d87
+DTSTAMP:20260308T140913Z
+DTSTART:20260621
+DTEND:20260622
+LOCATION:Rio Meão\,  Santa Maria da Feira Rio Meão\,  Santa Maria da Feira
+SUMMARY:Corrida de São Tiago 2026
+DESCRIPTION:A Junta de Freguesia de Rio Meão\,  realizará mais uma ediç�
+ �o da Corrida de São Tiago\,  corrida destinada a atletas federados e não
+  federados aberta a todas as idades\,  sendo uma competição regida pelas 
+ diretrizes da FPA e da World Athletics.\nhttps://www.portugalrunning.com/ev
+ entos/corrida-de-sao-tiago/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-tiago/
+END:VEVENT
+END:VCALENDAR

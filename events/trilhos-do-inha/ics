@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ad830a0c700
+DTSTAMP:20260308T140914Z
+DTSTART:20260610T222100Z
+DTEND:20260610T222100Z
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Trilhos do Inha 2026
+DESCRIPTION:O Trilhos do Inha é organizado pelo Canedo Futebol Clube\,  é
+  constituído por Trail Curto de 14 kms e caminhada de 8 kms. A prova terá
+  início e fim no Estádio das Valadas\,  freguesia de Canedo\,  e percorre
+ rá trilhos junto às margens do Rio Inha e seus afluentes.\nhttps://www.po
+ rtugalrunning.com/eventos/trilhos-do-inha/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-inha/
+END:VEVENT
+END:VCALENDAR

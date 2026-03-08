@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ad830a04604
+DTSTAMP:20260308T140914Z
+DTSTART:20260531
+DTEND:20260601
+LOCATION:Santuário de Nossa Senhora do Sameiro\,  Braga Santuário de Nossa Senhora do Sameiro\,  Braga
+SUMMARY:Trail RFM Braga 2026
+DESCRIPTION:A RFM e a GanharDestak\,  com o apoio do Município de Braga\, 
+  organizam no próximo dia 31 de maio\,  a 3ª edição do Trail RFM Braga 
+ percorrido por caminhos e trilhos no Sameiro. Composto por um Trail Longo 1
+ 7K+\,  um Trail Curto 10K+\,  uma Caminhada 10K+ e uma Cãominhada 6K\, [..
+ ]\nhttps://www.portugalrunning.com/eventos/trail-rfm-braga/
+URL:https://www.portugalrunning.com/eventos/trail-rfm-braga/
+END:VEVENT
+END:VCALENDAR

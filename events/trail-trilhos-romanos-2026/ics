@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ad830a061fa
+DTSTAMP:20260308T140914Z
+DTSTART:20260531
+DTEND:20260601
+LOCATION:Bárrio\,  Alcobaça Bárrio\,  Alcobaça
+SUMMARY:Trail Trilhos Romanos 2026
+DESCRIPTION:Trail Trilhos Romanos 2026\nhttps://www.portugalrunning.com/eve
+ ntos/trail-trilhos-romanos-2026/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-romanos-2026/
+END:VEVENT
+END:VCALENDAR
