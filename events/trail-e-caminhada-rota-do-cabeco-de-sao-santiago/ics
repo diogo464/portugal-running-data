@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dca7e2d
+DTSTAMP:20260315T100724Z
+DTSTART:20260412
+DTEND:20260413
+LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+SUMMARY:Trail e Caminhada "Rota do Cabeço de São Santiago" 2026
+DESCRIPTION:A 5ª Edição do Trail e Caminhada “Rota do Cabeço de São 
+ Tiago” é organizada pela Associação de Melhoramentos da Freguesia de E
+ scurquela e o Município de Sernancelhe\,  no dia 12 de abril de 2026\,  na
+  freguesia de Escurquela. A concentração será junto ao largo da igreja d
+ e Escurquela\,  local[..]\nhttps://www.portugalrunning.com/eventos/trail-e-
+ caminhada-rota-do-cabeco-de-sao-santiago/
+URL:https://www.portugalrunning.com/eventos/trail-e-caminhada-rota-do-cabeco-de-sao-santiago/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d95f777
+DTSTAMP:20260315T100721Z
+DTSTART:20260329
+DTEND:20260330
+LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+SUMMARY:Corrida dos Sinos 2026
+DESCRIPTION:A 42.ª Corrida dos Sinos é uma das provas de estrada mais car
+ ismáticas e antigas de Portugal\,  realizando-se na vila de Mafra (distrit
+ o de Lisboa). Agendada para o dia 29 de março de 2026\,  a prova é disput
+ ada em terreno de asfalto e oferece a distância principal e competitiva de
+ [..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-sinos/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-sinos/
+END:VEVENT
+END:VCALENDAR

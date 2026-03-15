@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dcd87eb
+DTSTAMP:20260315T100724Z
+DTSTART:20260425T094300Z
+DTEND:20260425T235900Z
+LOCATION:Custóias\,  Matosinhos Custóias\,  Matosinhos
+SUMMARY:Corrida da Liberdade Custóias 2026
+DESCRIPTION:A 47ª Corrida da Liberdade de Custóias é uma das provas de e
+ strada mais antigas e emblemáticas de Portugal\,  realizada anualmente a 2
+ 5 de abril em Custóias\,  Matosinhos. O evento decorre em terreno asfálti
+ co\,  com partida e chegada no histórico Largo do Souto\,  oferecendo uma 
+ corrida principal de 10 km\, [..]\nhttps://www.portugalrunning.com/eventos/
+ corrida-da-liberdade-custoias/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-custoias/
+END:VEVENT
+END:VCALENDAR

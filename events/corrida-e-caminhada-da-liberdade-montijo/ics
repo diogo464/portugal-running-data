@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d94575d
+DTSTAMP:20260315T100721Z
+DTSTART:20260425
+DTEND:20260426
+LOCATION:Montijo\,  Setúbal Montijo\,  Setúbal
+SUMMARY:Corrida da Liberdade Montijo 2026
+DESCRIPTION:A 12ª Corrida da Liberdade do Montijo é uma prova de atletism
+ o de estrada celebrada no Montijo\,  Portugal\,  agendada para o dia 25 de 
+ abril de 2026. Organizada pela Câmara Municipal do Montijo\,  a prova tem 
+ como palco central a Praça da República\,  onde ocorrem a partida e a che
+ gada.[..]\nhttps://www.portugalrunning.com/eventos/corrida-e-caminhada-da-l
+ iberdade-montijo/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-da-liberdade-montijo/
+END:VEVENT
+END:VCALENDAR

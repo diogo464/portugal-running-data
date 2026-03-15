@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684ddbe3fc
+DTSTAMP:20260315T100725Z
+DTSTART:20260426T221200Z
+DTEND:20260426T221200Z
+LOCATION:Aldeias\,  Armamar Aldeias\,  Armamar
+SUMMARY:Aldeias Douro Trail 2026
+DESCRIPTION:A organização do Trail e Caminhada é da responsabilidade da 
+ junta de freguesia de Aldeias. A concentração será na área de lazer da 
+ freguesia de Aldeias\,  local onde funcionará a logística associada ao ev
+ ento\,  nomeadamente secretariado\,  partida e chegada. Foi adotada a denom
+ inação Aldeias Douro Trail e terá lugar a[..]\nhttps://www.portugalrunni
+ ng.com/eventos/aldeias-douro-trail/
+URL:https://www.portugalrunning.com/eventos/aldeias-douro-trail/
+END:VEVENT
+END:VCALENDAR

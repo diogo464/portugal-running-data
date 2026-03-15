@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dfb6081
+DTSTAMP:20260315T100727Z
+DTSTART:20260711
+DTEND:20260712
+LOCATION:Alcobaça\,  Leiria Alcobaça\,  Leiria
+SUMMARY:Runset Alcobaça 2026
+DESCRIPTION:O Runset Alcobaça 2026 é um dinâmico evento de trail urbano 
+ realizado na histórica cidade de Alcobaça\,  Portugal\,  com a sua próxi
+ ma edição prevista para o mês de julho (tradicionalmente no segundo sáb
+ ado do mês). A prova principal apresenta uma distância de aproximadamente
+  12 km\,  sendo acompanhada por uma Mini[..]\nhttps://www.portugalrunning.c
+ om/eventos/runset-alcobaca/
+URL:https://www.portugalrunning.com/eventos/runset-alcobaca/
+END:VEVENT
+END:VCALENDAR

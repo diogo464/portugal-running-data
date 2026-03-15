@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d92dda4
+DTSTAMP:20260315T100721Z
+DTSTART:20260501
+DTEND:20260502
+LOCATION:Tramagal\,  Abrantes Tramagal\,  Abrantes
+SUMMARY:10Km de Tramagal 2026
+DESCRIPTION:A 7ª Edição dos 10 Km de Tramagal é uma das provas de atlet
+ ismo mais emblemáticas do concelho de Abrantes\,  Santarém\,  Portugal\, 
+  com data marcada para o dia 1 de maio de 2026. Realizada tradicionalmente 
+ no feriado do Dia do Trabalhador\,  a prova decorre num terreno de estrada 
+ através de[..]\nhttps://www.portugalrunning.com/eventos/10km-de-tramagal/
+URL:https://www.portugalrunning.com/eventos/10km-de-tramagal/
+END:VEVENT
+END:VCALENDAR

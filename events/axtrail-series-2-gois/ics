@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d914742
+DTSTAMP:20260315T100721Z
+DTSTART:20260419T061900Z
+DTEND:20260419T235900Z
+LOCATION:Góis\,  Coimbra Góis\,  Coimbra
+SUMMARY:AXtrail Series #2 GÓIS 2026
+DESCRIPTION:O AXtrail Series #2 Góis 2026 é a segunda etapa do prestigiad
+ o circuito de trail running que percorre o território das Aldeias do Xisto
+ \,  estando agendada para o dia 19 de abril de 2026\,  em Ponte do Sótão\
+ ,  Góis (Portugal). Este evento de montanha oferece um percurso técnico e
+  desafiante\, [..]\nhttps://www.portugalrunning.com/eventos/axtrail-series-
+ 2-gois/
+URL:https://www.portugalrunning.com/eventos/axtrail-series-2-gois/
+END:VEVENT
+END:VCALENDAR

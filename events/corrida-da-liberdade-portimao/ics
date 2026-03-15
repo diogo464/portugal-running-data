@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dedc667
+DTSTAMP:20260315T100726Z
+DTSTART:20260425T202300Z
+DTEND:20260425T235900Z
+LOCATION:Portimão\,  Faro Portimão\,  Faro
+SUMMARY:Corrida da Liberdade Portimão 2026
+DESCRIPTION:A Corrida da Liberdade Portimão é um evento desportivo de est
+ rada realizado anualmente no dia 25 de abril em Portimão\,  no Algarve\,  
+ Portugal\,  celebrando os valores da Revolução dos Cravos. A prova decorr
+ e tipicamente em terreno plano e asfáltico ao longo da Zona Ribeirinha de 
+ Portimão\,  oferecendo distâncias de 10[..]\nhttps://www.portugalrunning.
+ com/eventos/corrida-da-liberdade-portimao/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-portimao/
+END:VEVENT
+END:VCALENDAR

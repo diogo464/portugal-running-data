@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d88caf8
+DTSTAMP:20260315T100720Z
+DTSTART:20260628T151100Z
+DTEND:20260628T235900Z
+LOCATION:Rio de Moinhos\,  Évora Rio de Moinhos\,  Évora
+SUMMARY:Corrida / Caminhada Memorial João Maltez 2026
+DESCRIPTION:A III Corrida / Caminhada Memorial João Maltez é um evento de
+ sportivo com uma profunda carga emocional e solidária\,  realizado entre a
+ s localidades de Rio de Moinhos (Borba) e Glória (Estremoz)\,  em Portugal
+ . Agendada para o dia 28 de junho de 2026\,  a prova de estrada oferece dis
+ tâncias de 10[..]\nhttps://www.portugalrunning.com/eventos/corrida-caminha
+ da-memorial-joao-maltez/
+URL:https://www.portugalrunning.com/eventos/corrida-caminhada-memorial-joao-maltez/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d8ee77d
+DTSTAMP:20260315T100720Z
+DTSTART:20260501
+DTEND:20260502
+LOCATION:Trofa\,  Porto Trofa\,  Porto
+SUMMARY:Estafeta das Azenhas by Team Lantemil 2026
+DESCRIPTION:A Estafeta das Azenhas by Team Lantemil é um evento desportivo
+  único realizado na Trofa\,  Portugal\,  especificamente no Parque das Aze
+ nhas. Diferenciando-se das provas individuais convencionais\,  este evento 
+ foca-se no formato de estafetas em estrada e caminhos de parque\,  onde equ
+ ipas de quatro elementos (masculinas\,  femininas ou mistas) percorrem uma[
+ ..]\nhttps://www.portugalrunning.com/eventos/estafeta-das-azenhas-by-team-l
+ antemil/
+URL:https://www.portugalrunning.com/eventos/estafeta-das-azenhas-by-team-lantemil/
+END:VEVENT
+END:VCALENDAR

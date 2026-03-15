@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684db8d93a
+DTSTAMP:20260315T100723Z
+DTSTART:20260510
+DTEND:20260511
+LOCATION:Beja Beja
+SUMMARY:Corrida Cidade de Beja - 10km Fernando Mamede 2026
+DESCRIPTION:A Corrida Cidade de Beja - 10km Fernando Mamede é uma das prov
+ as de atletismo mais emblemáticas da região do Alentejo\,  realizada na c
+ idade de Beja\,  Portugal. Com um percurso predominantemente de estrada\,  
+ o evento oferece uma distância competitiva de 10 km e uma caminhada solid�
+ �ria de 7\, 5 km\,  ocorrendo[..]\nhttps://www.portugalrunning.com/eventos/
+ corrida-cidade-de-beja-10km-fernando-mamede/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-beja-10km-fernando-mamede/
+END:VEVENT
+END:VCALENDAR

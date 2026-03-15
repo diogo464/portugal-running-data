@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684ddef35c
+DTSTAMP:20260315T100725Z
+DTSTART:20260516
+DTEND:20260517
+LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+SUMMARY:Corrida da Cidade | Vendas Novas 2026
+DESCRIPTION:A 31.ª Corrida da Cidade de Vendas Novas é um evento desporti
+ vo de referência realizado em Vendas Novas\,  Portugal\,  com a próxima e
+ dição agendada para o dia 16 de maio de 2026. Esta prova de estrada perco
+ rre as ruas planas da cidade alentejana e oferece distâncias de 10 km (a[.
+ .]\nhttps://www.portugalrunning.com/eventos/corrida-da-cidade-vendas-novas/
+URL:https://www.portugalrunning.com/eventos/corrida-da-cidade-vendas-novas/
+END:VEVENT
+END:VCALENDAR

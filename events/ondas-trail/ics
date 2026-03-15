@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dd13080
+DTSTAMP:20260315T100725Z
+DTSTART:20260531T073400Z
+DTEND:20260531T073400Z
+LOCATION:Marinha das Ondas\,  Figueira da Foz Marinha das Ondas\,  Figueira da Foz
+SUMMARY:Ondas Trail 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ondas-trail/
+URL:https://www.portugalrunning.com/eventos/ondas-trail/
+END:VEVENT
+END:VCALENDAR

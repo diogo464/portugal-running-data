@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dea692e
+DTSTAMP:20260315T100726Z
+DTSTART:20260912
+DTEND:20260913
+LOCATION:Castro Marim\,  Faro Castro Marim\,  Faro
+SUMMARY:Meia Maratona do Concelho de Castro Marim 2026
+DESCRIPTION:A 17ª Meia Maratona do Concelho de Castro Marim é uma prova d
+ e atletismo de estrada que se realiza na localidade de Altura\,  concelho d
+ e Castro Marim\,  no Algarve\,  Portugal. Agendada para o dia 12 de setembr
+ o de 2026\,  a prova decorre num percurso maioritariamente plano de 21\, 09
+ 7 km\,  desenhado[..]\nhttps://www.portugalrunning.com/eventos/meia-maraton
+ a-do-concelho-de-castro-marim/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-concelho-de-castro-marim/
+END:VEVENT
+END:VCALENDAR

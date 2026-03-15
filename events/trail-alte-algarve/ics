@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dceeacd
+DTSTAMP:20260315T100724Z
+DTSTART:20260425
+DTEND:20260426
+LOCATION:Alte\,  Loulé Alte\,  Loulé
+SUMMARY:Trail Alte Algarve 2026
+DESCRIPTION:O 10.º TRAIL ALTE Algarve é promovido e organizado pela Escol
+ a Profissional de Alte e realiza-se no dia 25 de abril. O Trail / Caminhada
+ s é constituído pelos seguintes níveis: Trail 14 km; Caminhada 14 km; Ca
+ minhada 10 km; Caminhada 8 km.\nhttps://www.portugalrunning.com/eventos/tra
+ il-alte-algarve/
+URL:https://www.portugalrunning.com/eventos/trail-alte-algarve/
+END:VEVENT
+END:VCALENDAR

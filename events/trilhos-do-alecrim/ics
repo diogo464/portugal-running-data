@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dedace2
+DTSTAMP:20260315T100726Z
+DTSTART:20260503
+DTEND:20260504
+LOCATION:Porto de Mós Porto de Mós
+SUMMARY:Trilhos do Alecrim 2026
+DESCRIPTION:Os Trilhos do Alecrim 2026 são uma prova de trail running de r
+ eferência na região de Leiria\,  organizada pelo Grupo Recreativo e Despo
+ rtivo de Serro Ventoso\,  no concelho de Porto de Mós\,  Portugal. Agendad
+ a para o dia 3 de maio de 2026\,  a prova desenrola-se em pleno coração d
+ o Parque[..]\nhttps://www.portugalrunning.com/eventos/trilhos-do-alecrim/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-alecrim/
+END:VEVENT
+END:VCALENDAR

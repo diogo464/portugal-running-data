@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684def07bd
+DTSTAMP:20260315T100726Z
+DTSTART:20260510
+DTEND:20260511
+LOCATION:Alcobaça\,  Leiria Alcobaça\,  Leiria
+SUMMARY:Palmilhar A Freguesia 2026
+DESCRIPTION:O evento Palmilhar a Freguesia 2026 é uma iniciativa de trail 
+ running e convívio comunitário que se realiza na freguesia de Évora de A
+ lcobaça\,  no concelho de Alcobaça\,  Portugal. Agendada para o dia 10 de
+  maio de 2026\,  a prova foca-se num terreno de trilhos naturais\,  caminho
+ s rurais e estradões\, [..]\nhttps://www.portugalrunning.com/eventos/palmi
+ lhar-a-freguesia/
+URL:https://www.portugalrunning.com/eventos/palmilhar-a-freguesia/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d9a6ed4
+DTSTAMP:20260315T100721Z
+DTSTART:20260425
+DTEND:20260426
+LOCATION:Cabeceiras de Basto\,  Braga Cabeceiras de Basto\,  Braga
+SUMMARY:Corrida da Liberdade - Cabeceiras de Basto 2026
+DESCRIPTION:A Corrida da Liberdade em Cabeceiras de Basto é uma emblemáti
+ ca prova de atletismo de estrada realizada anualmente no distrito de Braga\
+ ,  Portugal. Com a sua próxima edição confirmada para o dia 25 de abril 
+ de 2026\,  o evento celebra os valores da liberdade com um percurso princip
+ al de 13[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-liberdade-
+ cabeceiras-de-basto-2/
+URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-cabeceiras-de-basto-2/
+END:VEVENT
+END:VCALENDAR

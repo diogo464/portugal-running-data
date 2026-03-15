@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d92de0a
+DTSTAMP:20260315T100721Z
+DTSTART:20260315T191000Z
+DTEND:20260315T191000Z
+LOCATION:Vila Real de Santo António\,  Faro Vila Real de Santo António\,  Faro
+SUMMARY:Campeonato Nacional de 5km 2026
+DESCRIPTION:No dia 15 de Março de 2026\,  Vila Real de Santo António rece
+ be o Campeonato Nacional de 5 km em Estrada\,  organizado pela Federação 
+ Portuguesa de Atletismo. A competição reúne alguns dos melhores atletas 
+ nacionais nas várias categorias\,  num circuito rápido e certificado no c
+ oração da cidade pombalina. O evento[..]\nhttps://www.portugalrunning.com
+ /eventos/campeonato-nacional-de-5km/
+URL:https://www.portugalrunning.com/eventos/campeonato-nacional-de-5km/
+END:VEVENT
+END:VCALENDAR

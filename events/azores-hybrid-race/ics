@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dc2bf19
+DTSTAMP:20260315T100724Z
+DTSTART:20261017T191500Z
+DTEND:20261018T191500Z
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:Azores Hybrid Race 2026
+DESCRIPTION:A Azores Hybrid Race – Singles é uma competição de fitness
+  híbrido que combina corrida e estações funcionais\,  seguindo rigorosam
+ ente os standards oficiais HYROX. Este documento regula exclusivamente as c
+ ategorias individuais (Singles).\nhttps://www.portugalrunning.com/eventos/a
+ zores-hybrid-race/
+URL:https://www.portugalrunning.com/eventos/azores-hybrid-race/
+END:VEVENT
+END:VCALENDAR

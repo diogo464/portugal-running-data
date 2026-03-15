@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d9d7f12
+DTSTAMP:20260315T100721Z
+DTSTART:20260509T223600Z
+DTEND:20260509T223600Z
+LOCATION:Herdade do Freixo do Meio\,  Foros de Vale Figueira Herdade do Freixo do Meio\,  Foros de Vale Figueira
+SUMMARY:Sunset Trail Foros de Vale Figueira 2026
+DESCRIPTION:SUNSET TRAIL pretende ser um evento de Trail /caminhada organiz
+ ado pela Paróquia de Foros de Vale Figueira. Este será um evento de Trail
+  e caminhada com três distâncias distintas por caminhos do Montado na Her
+ dade do Freixo do Meio situada em Foros de Vale Figueira.\nhttps://www.port
+ ugalrunning.com/eventos/sunset-trail-foros-de-vale-figueira/
+URL:https://www.portugalrunning.com/eventos/sunset-trail-foros-de-vale-figueira/
+END:VEVENT
+END:VCALENDAR

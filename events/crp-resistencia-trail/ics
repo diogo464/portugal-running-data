@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dcc005f
+DTSTAMP:20260315T100724Z
+DTSTART:20261031T171600Z
+DTEND:20261031T171600Z
+LOCATION:Benedita\,  Alcobaça Benedita\,  Alcobaça
+SUMMARY:CRP Resistência Trail 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/crp-resistencia-trail
+ /
+URL:https://www.portugalrunning.com/eventos/crp-resistencia-trail/
+END:VEVENT
+END:VCALENDAR

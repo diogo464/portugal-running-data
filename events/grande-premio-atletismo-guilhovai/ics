@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dc775c5
+DTSTAMP:20260315T100724Z
+DTSTART:20260503
+DTEND:20260504
+LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+SUMMARY:Grande Prémio Atletismo Guilhovai 2026
+DESCRIPTION:O 5º Grande Prémio de Atletismo de Guilhovai e Campeonato Nac
+ ional dos 10 Km em Estrada da ANDDI irá disputar-se no dia 03 de maio de 2
+ 026 nas ruas de Guilhovai e Sande\,  freguesia de S. João de Ovar\,  com i
+ nício e meta instalada junto à sede do Grupo Desportivo[..]\nhttps://www.
+ portugalrunning.com/eventos/grande-premio-atletismo-guilhovai/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-guilhovai/
+END:VEVENT
+END:VCALENDAR

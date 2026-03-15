@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d975ded
+DTSTAMP:20260315T100721Z
+DTSTART:20260516
+DTEND:20260517
+LOCATION:Foz do Arelho\,  Caldas da Rainha Foz do Arelho\,  Caldas da Rainha
+SUMMARY:Grande Prémio Atletismo Foz do Arelho 2026
+DESCRIPTION:O 3º Grande Prémio de Atletismo Foz do Arelho é uma prova de
+  atletismo de estrada que terá lugar na vila da Foz do Arelho\,  Caldas da
+  Rainha (Portugal)\,  no dia 16 de maio de 2026. O evento apresenta um perc
+ urso rápido e plano ao longo da Avenida do Mar[..]\nhttps://www.portugalru
+ nning.com/eventos/grande-premio-atletismo-foz-do-arelho/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-foz-do-arelho/
+END:VEVENT
+END:VCALENDAR

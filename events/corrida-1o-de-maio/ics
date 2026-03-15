@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684d7be66c
+DTSTAMP:20260315T100719Z
+DTSTART:20260501
+DTEND:20260502
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida 1º de Maio 2026
+DESCRIPTION:A Corrida Internacional 1º de Maio 2026 é uma das provas de e
+ strada mais carismáticas de Lisboa\,  Portugal\,  celebrada anualmente no 
+ Dia do Trabalhador. Com a sua próxima edição confirmada para o dia 1 de 
+ maio de 2026\,  o evento é promovido pela União dos Sindicatos de Lisboa 
+ (CGTP-IN) e[..]\nhttps://www.portugalrunning.com/eventos/corrida-1o-de-maio
+ /
+URL:https://www.portugalrunning.com/eventos/corrida-1o-de-maio/
+END:VEVENT
+END:VCALENDAR

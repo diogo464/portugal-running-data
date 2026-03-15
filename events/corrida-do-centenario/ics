@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684dc76da3
+DTSTAMP:20260315T100724Z
+DTSTART:20260920T191900Z
+DTEND:20260920T191900Z
+LOCATION:Silveira\,  Torres Vedras Silveira\,  Torres Vedras
+SUMMARY:Corrida do Centenário 2026
+DESCRIPTION:No âmbito das comemorações do Centenário da Freguesia da Si
+ lveira (1926–2026)\,  será realizada uma Corrida de 10 km\,  uma iniciat
+ iva que pretende assinalar esta data histórica através da promoção do d
+ esporto\,  da saúde e do espírito de comunidade. A prova irá decorrer na
+  freguesia da Silveira\,  com um percurso pensado[..]\nhttps://www.portugal
+ running.com/eventos/corrida-do-centenario/
+URL:https://www.portugalrunning.com/eventos/corrida-do-centenario/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69b684df7b5f8
+DTSTAMP:20260315T100727Z
+DTSTART:20260524T195800Z
+DTEND:20260524T235900Z
+LOCATION:Antas\,  Penalva do Castelo Antas\,  Penalva do Castelo
+SUMMARY:Trail das Antas 2026
+DESCRIPTION:O Trilho das Antas (ou Trilhos das Antas) é um evento de trail
+  running e pedestrianismo que percorre a freguesia de Antas\,  em Penalva d
+ o Castelo\,  Portugal. A edição de 2026 está confirmada para o dia 24 de
+  maio\,  inserindo-se na dinâmica rede de percursos pedestres e eventos de
+  natureza[..]\nhttps://www.portugalrunning.com/eventos/trail-das-antas/
+URL:https://www.portugalrunning.com/eventos/trail-das-antas/
+END:VEVENT
+END:VCALENDAR
