@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a31dea30
+DTSTAMP:20260320T110625Z
+DTSTART:20260419T172000Z
+DTEND:20260419T235900Z
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:Trilhos do Pelourinho 2026
+DESCRIPTION:Os Trilhos do Pelourinho 2026\,  organizados pela secção de a
+ tletismo do Futebol Clube Alvaladense\,  terão lugar na vila histórica de
+  Alvalade\,  no concelho de Santiago do Cacém (Setúbal)\,  no mês de Abr
+ il. O evento percorre trilhos ribeirinhos e caminhos rurais da bacia do Sad
+ o\,  oferecendo as distâncias competitivas de 24[..]\nhttps://www.portugal
+ running.com/eventos/trilhos-do-pelourinho/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-pelourinho/
+END:VEVENT
+END:VCALENDAR

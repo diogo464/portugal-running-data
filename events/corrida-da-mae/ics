@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a3032a46
+DTSTAMP:20260320T110624Z
+DTSTART:20260503
+DTEND:20260504
+LOCATION:Parque Ribeirinho do Oriente\,  Lisboa Parque Ribeirinho do Oriente\,  Lisboa
+SUMMARY:Corrida da Mãe 2026
+DESCRIPTION:A Corrida da Mãe 2026 realiza-se no dia 3 de maio de 2026 (dom
+ ingo)\,  com partida e chegada no magnífico Parque Ribeirinho do Oriente\,
+   em Lisboa. Esta prova de estrada\,  predominantemente plana\,  celebra a 
+ sua 4ª edição como uma homenagem solidária a todas as mães\,  percorre
+ ndo a zona oriental da[..]\nhttps://www.portugalrunning.com/eventos/corrida
+ -da-mae/
+URL:https://www.portugalrunning.com/eventos/corrida-da-mae/
+END:VEVENT
+END:VCALENDAR

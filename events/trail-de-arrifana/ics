@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a2ff3f15
+DTSTAMP:20260320T110623Z
+DTSTART:20260726T223900Z
+DTEND:20260726T235900Z
+LOCATION:Arrifana\,  Santa Maria da Feira Arrifana\,  Santa Maria da Feira
+SUMMARY:Trail de Arrifana 2026
+DESCRIPTION:O 1º Trail de Arrifana\,  vai ser um evento emocionante em que
+  o desporto e a natureza se unem para proporcionar uma experiência inesque
+ civel.Oferecemos duas opções para todos os gostos: um trail de 15k e uma 
+ Caminhada de 7k para aqueles que preferem desfrutar do ambiente natural com
+  os amigos[..]\nhttps://www.portugalrunning.com/eventos/trail-de-arrifana/
+URL:https://www.portugalrunning.com/eventos/trail-de-arrifana/
+END:VEVENT
+END:VCALENDAR

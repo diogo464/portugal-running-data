@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a2e9518c
+DTSTAMP:20260320T110622Z
+DTSTART:20260502T222900Z
+DTEND:20260502T235900Z
+LOCATION:Vila Nova de Santo André\,  Santiago do Cacém Vila Nova de Santo André\,  Santiago do Cacém
+SUMMARY:Meia Maratona do Concelho de Santiago 2026
+DESCRIPTION:A Câmara Municipal de Santiago do Cacém\,  com o apoio da Jun
+ ta Freguesia de Santo André e de associações desportivas do Município\,
+   define os seguintes objetivos para a 2ª edição da Meia Maratona do Con
+ celho de Santiago\,  a realizar em Vila Nova de Santo André: A 2ª ediçã
+ o da Meia[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-do-con
+ celho-de-santiago/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-concelho-de-santiago/
+END:VEVENT
+END:VCALENDAR

@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69ad830964920
-DTSTAMP:20260308T140913Z
+UID:69bd2a2d0253b
+DTSTAMP:20260320T110621Z
 DTSTART:20260627
 DTEND:20260628
 LOCATION:Peniche\,  Leiria Peniche\,  Leiria
 SUMMARY:Corrida das Fogueiras 2026
-DESCRIPTION:Antes de te inscreveres nesta prova propular\,  lembra-te que 2
- \, 5€ da tua inscrição vão directamente para a Federação Portuguesa 
- de Atletismo (FPA)\,  sem que esta justifique este valor para o corredor po
- pular. Existe uma ação em curso contra esta medida que podes ver aqui: Re
- vogação da Licença Obrigatória nas Competições[..]\nhttps://www.portu
- galrunning.com/eventos/corrida-das-fogueiras/
+DESCRIPTION:Esta corrida atrai tanto atletas profissionais como amadores\, 
+  e é também uma atração turística\,  atraindo participantes de várias
+  partes do país e até mesmo do exterior. Além da corrida principal\,  h�
+ � também outras categorias\,  como a Mini Corrida das Fogueiras\,  destina
+ da a crianças e jovens. A Corrida das Fogueiras em[..]\nhttps://www.portug
+ alrunning.com/eventos/corrida-das-fogueiras/
 URL:https://www.portugalrunning.com/eventos/corrida-das-fogueiras/
 END:VEVENT
 END:VCALENDAR

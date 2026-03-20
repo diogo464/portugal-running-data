@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a3331626
+DTSTAMP:20260320T110627Z
+DTSTART:20260321
+DTEND:20260322
+LOCATION:Esposende\,  Braga Esposende\,  Braga
+SUMMARY:Trail Esposende 2026
+DESCRIPTION:O X Trail de Esposende (também conhecido como Trail Galaico) r
+ ealiza-se nos dias 21 e 22 de março de 2026\,  na cidade de Esposende\,  P
+ ortugal. Esta prova de trail running percorre os trilhos técnicos e cénic
+ os da Arriba Fóssil de Esposende\,  oferecendo percursos que misturam cami
+ nhos florestais\,  single tracks\,  passagens[..]\nhttps://www.portugalrunn
+ ing.com/eventos/trail-esposende/
+URL:https://www.portugalrunning.com/eventos/trail-esposende/
+END:VEVENT
+END:VCALENDAR

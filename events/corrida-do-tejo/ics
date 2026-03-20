@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a2e31420
+DTSTAMP:20260320T110622Z
+DTSTART:20260913
+DTEND:20260914
+LOCATION:Algés\,  Oeiras Algés\,  Oeiras
+SUMMARY:Corrida do Tejo 2026
+DESCRIPTION:A 44.ª edição da Corrida do Tejo está prevista para o dia 1
+ 3 setembro de 2026 mantendo-se como uma das provas de estrada mais emblemá
+ ticas e antigas de Portugal. Realizada no concelho de Oeiras\,  a prova des
+ enrola-se num percurso de 10 km inteiramente em estrada\,  ligando Algés �
+ � Praia da[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-tejo/
+URL:https://www.portugalrunning.com/eventos/corrida-do-tejo/
+END:VEVENT
+END:VCALENDAR

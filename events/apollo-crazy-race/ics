@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a3162216
+DTSTAMP:20260320T110625Z
+DTSTART:20260517T172900Z
+DTEND:20260517T172900Z
+LOCATION:Braga Braga
+SUMMARY:Apollo Crazy Race 2026
+DESCRIPTION:A Apollo Crazy Race é uma corrida de trail com obstáculos\,  
+ organizada em São Mamede Este\,  Braga\,  com o objetivo de promover o des
+ porto\,  o espírito de superação e o contacto com a natureza. A Prova te
+ rá aproximadamente 12\, 5 km com 15 obstáculos ao longo do percurso. O pe
+ rcurso decorre[..]\nhttps://www.portugalrunning.com/eventos/apollo-crazy-ra
+ ce/
+URL:https://www.portugalrunning.com/eventos/apollo-crazy-race/
+END:VEVENT
+END:VCALENDAR

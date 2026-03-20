@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a3585819
+DTSTAMP:20260320T110629Z
+DTSTART:20261025T091200Z
+DTEND:20261025T235900Z
+LOCATION:Mangualde\,  Viseu Mangualde\,  Viseu
+SUMMARY:Mangualde Trail - Desafio dos Santos 2026
+DESCRIPTION:O Mangualde Trail – Desafio dos Santos é uma prova de trail 
+ running promovida pelo Montanha Clube Mangualde\,  em parceria com o Munic�
+ �pio de Mangualde\,  integrada na programação da tradicional Feira dos Sa
+ ntos — um dos eventos culturais e populares mais emblemáticos da região
+ . O evento tem como objetivo a[..]\nhttps://www.portugalrunning.com/eventos
+ /mangualde-trail-desafio-dos-santos/
+URL:https://www.portugalrunning.com/eventos/mangualde-trail-desafio-dos-santos/
+END:VEVENT
+END:VCALENDAR

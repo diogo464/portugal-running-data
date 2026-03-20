@@ -4,14 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b097757766
-DTSTAMP:20260129T071711Z
+UID:69bd2a2daadc0
+DTSTAMP:20260320T110621Z
 DTSTART:20260711
 DTEND:20260712
 LOCATION:Esposende\,  Braga Esposende\,  Braga
 SUMMARY:Esposende Marginal à Noite 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/esposende-marginal-a-
- noite/
+DESCRIPTION:O Esposende Marginal à Noite 2026 realiza-se a 11 de julho de 
+ 2026\,  em Esposende. É uma prova de estrada noturna\,  com percurso plano
+  em asfalto ao longo da marginal\,  incluindo uma corrida de 8 km e uma cam
+ inhada. A característica única é o ambiente festivo junto à foz do[..]\
+ nhttps://www.portugalrunning.com/eventos/esposende-marginal-a-noite/
 URL:https://www.portugalrunning.com/eventos/esposende-marginal-a-noite/
 END:VEVENT
 END:VCALENDAR

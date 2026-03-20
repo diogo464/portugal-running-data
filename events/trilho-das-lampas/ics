@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a33ccec3
+DTSTAMP:20260320T110627Z
+DTSTART:20260509
+DTEND:20260510
+LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+SUMMARY:Trilho das Lampas 2026
+DESCRIPTION:O Trilho das Lampas 2026 é uma prova de trail running que se r
+ ealiza anualmente em São João das Lampas\,  no concelho de Sintra\,  Port
+ ugal. O evento decorre habitualmente no dia 9 de maio e é caracterizado pe
+ lo seu formato único de "trail ao pôr-do-sol"\,  com a partida a ocorrer[
+ ..]\nhttps://www.portugalrunning.com/eventos/trilho-das-lampas/
+URL:https://www.portugalrunning.com/eventos/trilho-das-lampas/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a2e48fed
+DTSTAMP:20260320T110622Z
+DTSTART:20260523
+DTEND:20260524
+LOCATION:Alcochete\,  Setúbal Alcochete\,  Setúbal
+SUMMARY:Salinas Sunset - Corrida e Caminhada 2026
+DESCRIPTION:O VII Salinas Sunset - Corrida e Caminhada realiza-se no dia 23
+  de maio de 2026 (sábado)\,  com partida junto ao Fórum Cultural de Alcoc
+ hete. Esta prova de estrada oferece um cenário privilegiado junto ao Rio T
+ ejo e às salinas locais\,  caracterizando-se por um percurso em asfalto\, 
+  maioritariamente plano e[..]\nhttps://www.portugalrunning.com/eventos/sali
+ nas-sunset-corrida-e-caminhada/
+URL:https://www.portugalrunning.com/eventos/salinas-sunset-corrida-e-caminhada/
+END:VEVENT
+END:VCALENDAR

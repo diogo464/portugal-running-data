@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a2e64702
+DTSTAMP:20260320T110622Z
+DTSTART:20260705
+DTEND:20260706
+LOCATION:Almargem do Bispo\,  Sintra Almargem do Bispo\,  Sintra
+SUMMARY:Iron Trail 2026
+DESCRIPTION:O 4º Iron Trail é uma prova de trail running desafiante que s
+ e realiza na freguesia de Zibreira\,  Torres Novas (Portugal)\,  estando a 
+ sua próxima edição agendada para o mês de maio de 2026. O evento percor
+ re um terreno misto de trilhos técnicos\,  caminhos florestais e zonas de 
+ pé-posto típicas[..]\nhttps://www.portugalrunning.com/eventos/iron-trail/
+URL:https://www.portugalrunning.com/eventos/iron-trail/
+END:VEVENT
+END:VCALENDAR

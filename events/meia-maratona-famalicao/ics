@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a31dcdae
+DTSTAMP:20260320T110625Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:Meia Maratona Famalicão 2026
+DESCRIPTION:A Meia Maratona Famalicão 2026 (oficialmente Q8 Meia Maratona 
+ de Famalicão) realiza-se em Vila Nova de Famalicão no dia 18 de outubro\,
+   apresentando um percurso de estrada predominantemente plano e rápido\,  
+ ideal para a obtenção de recordes pessoais. O evento oferece as distânci
+ as de 21\, 1 km e uma corrida/caminhada de[..]\nhttps://www.portugalrunning
+ .com/eventos/meia-maratona-famalicao/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-famalicao/
+END:VEVENT
+END:VCALENDAR

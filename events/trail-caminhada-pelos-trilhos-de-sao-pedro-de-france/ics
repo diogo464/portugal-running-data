@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a2e63ee7
+DTSTAMP:20260320T110622Z
+DTSTART:20260531
+DTEND:20260601
+LOCATION:Casal de Esporão\,  Viseu Casal de Esporão\,  Viseu
+SUMMARY:Trail & Caminhada "Pelos Trilhos de São Pedro de France" 2026
+DESCRIPTION:O Trail & Caminhada "Pelos Trilhos de São Pedro de France" 202
+ 6 está previsto para o dia 31 de maio de 2026 (domingo)\,  com base na per
+ iodicidade anual (realizando-se habitualmente no primeiro domingo de junho 
+ ou último de maio). O evento tem lugar no Casal de Esporão\,  Viseu\,  se
+ ndo organizado[..]\nhttps://www.portugalrunning.com/eventos/trail-caminhada
+ -pelos-trilhos-de-sao-pedro-de-france/
+URL:https://www.portugalrunning.com/eventos/trail-caminhada-pelos-trilhos-de-sao-pedro-de-france/
+END:VEVENT
+END:VCALENDAR

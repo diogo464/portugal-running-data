@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a3362b80
+DTSTAMP:20260320T110627Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Alcobaça Alcobaça
+SUMMARY:Trail Monges de Cister 2026
+DESCRIPTION:O Trail Monges de Cister 2026 realiza-se a 18 de outubro de 202
+ 6\,  com partida e chegada no quartel dos Bombeiros Voluntários de Alcoba�
+ �a. Este evento solidário\,  cuja receita reverte para a corporação de b
+ ombeiros\,  percorre trilhos técnicos e caminhos rurais que circundam a hi
+ stórica cidade de Alcobaça. A prova[..]\nhttps://www.portugalrunning.com/
+ eventos/trail-monges-de-cister/
+URL:https://www.portugalrunning.com/eventos/trail-monges-de-cister/
+END:VEVENT
+END:VCALENDAR

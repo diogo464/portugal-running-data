@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a32192a2
+DTSTAMP:20260320T110626Z
+DTSTART:20260524
+DTEND:20260525
+LOCATION:Anadia\,  Aveiro Anadia\,  Aveiro
+SUMMARY:Trail Anadia Capital do Espumante 2026
+DESCRIPTION:O Trail Anadia Capital do Espumante 2026 é um evento de trail 
+ running de referência na região da Bairrada\,  em Portugal\,  com a sua 5
+ .ª edição confirmada para o dia 24 de maio de 2026. Organizado pelo Club
+ e Saca Trilhos Anadia\,  o percurso atravessa os trilhos técnicos e as enc
+ ostas[..]\nhttps://www.portugalrunning.com/eventos/trail-anadia-capital-do-
+ espumante/
+URL:https://www.portugalrunning.com/eventos/trail-anadia-capital-do-espumante/
+END:VEVENT
+END:VCALENDAR

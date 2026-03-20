@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a2dc62c9
+DTSTAMP:20260320T110621Z
+DTSTART:20260510
+DTEND:20260511
+LOCATION:Setúbal Setúbal
+SUMMARY:Corrida Porto de Setúbal 2026
+DESCRIPTION:A Corrida do Porto de Setúbal 2026 é um evento desportivo de 
+ estrada que se realiza na cidade de Setúbal\,  Portugal\,  habitualmente n
+ o dia 10 e maio. A prova oferece as distâncias de 10 km (corrida cronometr
+ ada) e uma caminhada de 5 km\,  ambas com partida e chegada no emblemático
+ [..]\nhttps://www.portugalrunning.com/eventos/corrida-porto-de-setubal/
+URL:https://www.portugalrunning.com/eventos/corrida-porto-de-setubal/
+END:VEVENT
+END:VCALENDAR

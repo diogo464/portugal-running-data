@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a33c83c8
+DTSTAMP:20260320T110627Z
+DTSTART:20260531T061300Z
+DTEND:20260531T235900Z
+LOCATION:Parque Keil do Amaral\,  Monsanto Parque Keil do Amaral\,  Monsanto
+SUMMARY:Corrida pela Saúde Mental Rotary 2026
+DESCRIPTION:A Corrida pela Saúde Mental Rotary é um evento de estrada e c
+ aminhada solidária realizado na cidade de Coimbra\,  Portugal\,  com a sua
+  próxima edição agendada para o mês de maio de 2026. Organizada pelo Ro
+ tary Club de Coimbra-Saúde\,  a prova desenrola-se habitualmente num percu
+ rso plano e acessível ao longo[..]\nhttps://www.portugalrunning.com/evento
+ s/corrida-pela-saude-mental-rotary-distrito/
+URL:https://www.portugalrunning.com/eventos/corrida-pela-saude-mental-rotary-distrito/
+END:VEVENT
+END:VCALENDAR

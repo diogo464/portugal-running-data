@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a3193ff6
+DTSTAMP:20260320T110625Z
+DTSTART:20260705
+DTEND:20260706
+LOCATION:Rio Mau\,  Penafiel Rio Mau\,  Penafiel
+SUMMARY:Poço Negro Trail 2026
+DESCRIPTION:O Poço Negro Trail 2026 é um evento de trail running que atin
+ ge a sua 9.ª edição\,  realizando-se na freguesia de Rio Mau\,  concelho
+  de Penafiel\,  no Norte de Portugal. A prova está confirmada para o dia 5
+  de julho de 2026 e destaca-se pelo seu cariz solidário\,  com as[..]\nhtt
+ ps://www.portugalrunning.com/eventos/poco-negro-trail/
+URL:https://www.portugalrunning.com/eventos/poco-negro-trail/
+END:VEVENT
+END:VCALENDAR

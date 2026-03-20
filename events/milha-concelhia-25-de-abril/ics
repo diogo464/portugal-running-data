@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a2e63a20
+DTSTAMP:20260320T110622Z
+DTSTART:20260425
+DTEND:20260426
+LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+SUMMARY:Milha Concelhia 25 de Abril 2026
+DESCRIPTION:A Milha Concelhia 25 de Abril 2026 realiza-se no dia 25 de abri
+ l de 2026 (sábado)\,  em Oliveira de Azeméis. Este evento de atletismo de
+  estrada é uma das competições de referência na região de Aveiro\,  ce
+ lebrando o Dia da Liberdade através do desporto. A prova principal consist
+ e na distância[..]\nhttps://www.portugalrunning.com/eventos/milha-concelhi
+ a-25-de-abril/
+URL:https://www.portugalrunning.com/eventos/milha-concelhia-25-de-abril/
+END:VEVENT
+END:VCALENDAR

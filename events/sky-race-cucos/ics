@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69bd2a2e4ca89
+DTSTAMP:20260320T110622Z
+DTSTART:20260610
+DTEND:20260611
+LOCATION:Cucos\,  Torres Vedras Cucos\,  Torres Vedras\,  Lisboa
+SUMMARY:Sky Race Cucos 2026
+DESCRIPTION:Sky Race Cucos 2026\nhttps://www.portugalrunning.com/eventos/sk
+ y-race-cucos/
+URL:https://www.portugalrunning.com/eventos/sky-race-cucos/
+END:VEVENT
+END:VCALENDAR
