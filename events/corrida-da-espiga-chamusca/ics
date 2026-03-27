@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66eda51c6e
+DTSTAMP:20260327T114946Z
+DTSTART:20260510T131800Z
+DTEND:20260510T235900Z
+LOCATION:Chamusca\,  Santarém Chamusca\,  Santarém
+SUMMARY:Corrida da Espiga - Chamusca 2026
+DESCRIPTION:A I Corrida da Espiga – Chamusca\,  é uma prova de atletismo
+  popular\,  de celebração dasFestas da Ascensão\,  ocasião de enorme si
+ mbolismo para as gentes chamusquenses e que atraianualmente visitantes de t
+ odo o país. Nesta celebração contemplamos toda a família\,  integrandoa
+ s provas jovens\,  com uma prova popular pelos campos da[..]\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-da-espiga-chamusca/
+URL:https://www.portugalrunning.com/eventos/corrida-da-espiga-chamusca/
+END:VEVENT
+END:VCALENDAR

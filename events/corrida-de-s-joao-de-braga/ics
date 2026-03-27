@@ -4,14 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a31939dd
-DTSTAMP:20260320T110625Z
+UID:69c66ed9af580
+DTSTAMP:20260327T114945Z
 DTSTART:20260621
 DTEND:20260622
 LOCATION:Braga Braga
-SUMMARY:Corrida de S. João de Braga 2026
-DESCRIPTION:Corrida de S. João de Braga 2026\nhttps://www.portugalrunning.
- com/eventos/corrida-de-s-joao-de-braga/
+SUMMARY:Corrida S. João de Braga 2026
+DESCRIPTION:A Corrida de S. João de Braga 2026 celebra-se a 21 de junho de
+  2026\,  com partida e chegada na Avenida Central\,  em Braga. Este evento 
+ emblemático de estrada faz parte das festividades sanjoaninas da cidade\, 
+  oferecendo uma Corrida de 10 km cronometrada e uma Caminhada de 5 km sem[.
+ .]\nhttps://www.portugalrunning.com/eventos/corrida-de-s-joao-de-braga/
 URL:https://www.portugalrunning.com/eventos/corrida-de-s-joao-de-braga/
 END:VEVENT
 END:VCALENDAR

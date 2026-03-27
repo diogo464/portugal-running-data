@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66eda22a99
+DTSTAMP:20260327T114946Z
+DTSTART:20260517
+DTEND:20260518
+LOCATION:Ferreira do Alentejo\,  Beja Ferreira do Alentejo\,  Beja
+SUMMARY:Sunrise Trail Running Ferreira do Alentejo 2026
+DESCRIPTION:O Sunrise Trail Running Ferreira do Alentejo 2026 realiza-se no
+  dia 17 de maio de 2026\,  em Ferreira do Alentejo\,  distrito de Beja. Org
+ anizado pela associação SINGArunners\,  o evento destaca-se por percorrer
+  os trilhos típicos do Baixo Alentejo\,  caracterizados por terrenos predo
+ minantemente rurais com estradões e zonas de cultivo. A[..]\nhttps://www.p
+ ortugalrunning.com/eventos/sunrise-trail-running-ferreira-do-alentejo/
+URL:https://www.portugalrunning.com/eventos/sunrise-trail-running-ferreira-do-alentejo/
+END:VEVENT
+END:VCALENDAR

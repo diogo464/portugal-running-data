@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66edba02f6
+DTSTAMP:20260327T114947Z
+DTSTART:20260328T121200Z
+DTEND:20260328T121200Z
+LOCATION:Ilha de São Jorge\,  Açores Ilha de São Jorge\,  Açores
+SUMMARY:Rosais Trail Run 2026
+DESCRIPTION:O Rosais Trail Run 2026 realiza-se no dia 28 de março de 2026\
+ ,  na freguesia de Rosais\,  concelho de Velas\,  na deslumbrante Ilha de S
+ ão Jorge\,  nos Açores. Este evento de trail running (terreno técnico de
+  trilhos de ilha\,  pastagens e arribas) foca-se essencialmente numa distâ
+ ncia de aproximadamente 12\, 6 km[..]\nhttps://www.portugalrunning.com/even
+ tos/rosais-trail-run/
+URL:https://www.portugalrunning.com/eventos/rosais-trail-run/
+END:VEVENT
+END:VCALENDAR

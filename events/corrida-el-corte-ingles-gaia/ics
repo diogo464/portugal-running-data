@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66ed9debc5
+DTSTAMP:20260327T114945Z
+DTSTART:20260530T181900Z
+DTEND:20260530T181900Z
+LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+SUMMARY:Corrida EL Corte Inglês 2026
+DESCRIPTION:A Corrida 20 anos El Corte Inglés Gaia Porto realiza-se no dia
+  30 de maio de 2026\,  com partida e chegada na Zona Pedonal de Canidelo (j
+ unto ao rio)\,  em Vila Nova de Gaia. Este evento de estrada celebra as dua
+ s décadas de presença da marca na região\,  oferecendo uma[..]\nhttps://
+ www.portugalrunning.com/eventos/corrida-el-corte-ingles-gaia/
+URL:https://www.portugalrunning.com/eventos/corrida-el-corte-ingles-gaia/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66eda089ae
+DTSTAMP:20260327T114946Z
+DTSTART:20260628T152300Z
+DTEND:20260628T235900Z
+LOCATION:Paredes\,  Porto Paredes\,  Porto
+SUMMARY:Corrida Dar Vida a Paredes 2026
+DESCRIPTION:A 2.ª edição da Corrida Dar Vida a Paredes realiza-se no dia
+  28 de junho de 2026\,  com centro nevrálgico no Parque José Guilherme\, 
+  em Paredes (Porto). O evento\,  de cariz solidário e desportivo\,  aprese
+ nta um percurso de estrada com três variantes: uma Corrida de 10 km cronom
+ etrada\,  uma Corrida[..]\nhttps://www.portugalrunning.com/eventos/corrida-
+ dar-vida-a-paredes/
+URL:https://www.portugalrunning.com/eventos/corrida-dar-vida-a-paredes/
+END:VEVENT
+END:VCALENDAR

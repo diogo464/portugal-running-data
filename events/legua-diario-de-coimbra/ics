@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66ed9af386
+DTSTAMP:20260327T114945Z
+DTSTART:20260704T125400Z
+DTEND:20260704T125400Z
+LOCATION:Coimbra Coimbra
+SUMMARY:Légua Diário de Coimbra 2026
+DESCRIPTION:A 27.ª Légua Diário de Coimbra 2026 realiza-se no dia 4 de j
+ ulho de 2026 (dia do feriado municipal)\,  em Coimbra. Esta prova clássica
+  de estrada\,  que regressou em 2025 após um interregno de 17 anos\,  dese
+ nrola-se num percurso de asfalto com uma distância oficial de 5 km (uma l�
+ �gua)\, [..]\nhttps://www.portugalrunning.com/eventos/legua-diario-de-coimb
+ ra/
+URL:https://www.portugalrunning.com/eventos/legua-diario-de-coimbra/
+END:VEVENT
+END:VCALENDAR

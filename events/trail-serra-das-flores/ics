@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66eda1b3ff
+DTSTAMP:20260327T114946Z
+DTSTART:20260531
+DTEND:20260601
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail Serra das Flores 2026
+DESCRIPTION:O Trail Serra das Flores 2026 realiza-se na localidade de Gondo
+ mar\,  no distrito do Porto\,  percorrendo trilhos técnicos e montanhosos 
+ da Serra das Flores e montes adjacentes. Previsto para o mês de maio (espe
+ cificamente a 31 de maio de 2026)\,  o evento O TSF – TRAIL SERRA DAS FLO
+ RES\,  é[..]\nhttps://www.portugalrunning.com/eventos/trail-serra-das-flor
+ es/
+URL:https://www.portugalrunning.com/eventos/trail-serra-das-flores/
+END:VEVENT
+END:VCALENDAR

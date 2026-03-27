@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b06a54c
-DTSTAMP:20260223T000048Z
+UID:69c66eda9a792
+DTSTAMP:20260327T114946Z
 DTSTART:20250614
 DTEND:20250615
 LOCATION:Porto Porto
 SUMMARY:Corrida de S. João 2026
-DESCRIPTION:Corrida de S. João 2026\nhttps://www.portugalrunning.com/event
- os/corrida-de-s-joao-porto/
+DESCRIPTION:A Continental Corrida de S. João 2026 está agendada para o di
+ a 14 de junho de 2026\,  com início às 9h00\,  na emblemática cidade de 
+ Vila Nova de Gaia. Este evento desportivo de prestígio\,  que celebra as f
+ estividades sanjoaninas\,  terá como cenário principal a Zona Pedonal de 
+ Canidelo\,  proporcionando um[..]\nhttps://www.portugalrunning.com/eventos/
+ corrida-de-s-joao-porto/
 URL:https://www.portugalrunning.com/eventos/corrida-de-s-joao-porto/
 END:VEVENT
 END:VCALENDAR

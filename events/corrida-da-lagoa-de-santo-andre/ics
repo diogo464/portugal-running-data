@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66ed86639f
+DTSTAMP:20260327T114944Z
+DTSTART:20260711
+DTEND:20260712
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:Corrida da Lagoa de Santo André 2026
+DESCRIPTION:A mítica 29.ª Corrida da Lagoa de Santo André realiza-se no 
+ dia 11 de julho de 2026\,  com partida e chegada no Cruzeiro da Costa de Sa
+ nto André\,  em Vila Nova de Santo André (Santiago do Cacém). O evento\,
+   que percorre terrenos de estrada e caminhos adjacentes à reserva natural
+ \, [..]\nhttps://www.portugalrunning.com/eventos/corrida-da-lagoa-de-santo-
+ andre/
+URL:https://www.portugalrunning.com/eventos/corrida-da-lagoa-de-santo-andre/
+END:VEVENT
+END:VCALENDAR

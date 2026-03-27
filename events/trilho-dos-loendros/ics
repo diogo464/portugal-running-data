@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66edac63cf
+DTSTAMP:20260327T114946Z
+DTSTART:20260524T190300Z
+DTEND:20260524T235900Z
+LOCATION:Campia\,  Vouzela Campia\,  Vouzela
+SUMMARY:Trilho dos Loendros 2026
+DESCRIPTION:O Trilho dos Loendros 2026 realiza-se no dia 24 de maio\,  na f
+ reguesia de Campia (Vouzela)\,  marcando o arranque da segunda edição do 
+ circuito Vouzela Epic Trails. O evento oferece percursos de trail running c
+ om distâncias de 10 km (Trail Curto) e 20 km (Trail Longo)\,  além de uma
+  caminhada\, [..]\nhttps://www.portugalrunning.com/eventos/trilho-dos-loend
+ ros/
+URL:https://www.portugalrunning.com/eventos/trilho-dos-loendros/
+END:VEVENT
+END:VCALENDAR

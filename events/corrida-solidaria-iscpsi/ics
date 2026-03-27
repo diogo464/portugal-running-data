@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66eda064f0
+DTSTAMP:20260327T114946Z
+DTSTART:20260516T203700Z
+DTEND:20260516T235900Z
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Solidária ISCPSI 2026
+DESCRIPTION:A 2.ª Corrida Solidária ISCPSI está de regresso a Lisboa no 
+ próximo dia&nbsp;16 de maio de 2026\,  com um propósito claro:&nbsp;angar
+ iar fundos a favor da Associação Amigas do Peito\,  reforçando o comprom
+ isso com a prevenção\,  o apoio e a sensibilização na área da saúde. 
+ Sob o mote&nbsp;“Correr pela Proteção\,  Correr[..]\nhttps://www.portug
+ alrunning.com/eventos/corrida-solidaria-iscpsi/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-iscpsi/
+END:VEVENT
+END:VCALENDAR

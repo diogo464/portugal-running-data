@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66eda2207a
+DTSTAMP:20260327T114946Z
+DTSTART:20260607
+DTEND:20260608
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:Trail da Boa Viagem 2026
+DESCRIPTION:O IV Trail da Boa Viagem realiza-se no dia 7 de junho de 2026 e
+ m Contige\,  Sátão (Viseu). Este evento de trail running percorre os tril
+ hos técnicos e caminhos rurais da região de Sátão\,  oferecendo habitua
+ lmente três distâncias: Trail \,  Mini-Trail e uma Caminhada . A sua cara
+ cterística única é[..]\nhttps://www.portugalrunning.com/eventos/trail-da
+ -boa-viagem/
+URL:https://www.portugalrunning.com/eventos/trail-da-boa-viagem/
+END:VEVENT
+END:VCALENDAR

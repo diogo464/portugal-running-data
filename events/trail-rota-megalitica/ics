@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66eda3c4d7
+DTSTAMP:20260327T114946Z
+DTSTART:20260501
+DTEND:20260502
+LOCATION:Évora Évora
+SUMMARY:Trail Rota Megalitica 2026
+DESCRIPTION:O IV Trail Rota Megalítica 2026 realiza-se no dia 1 de maio de
+  2026 (sexta-feira\,  feriado)\,  na localidade de Nossa Senhora de Guadalu
+ pe\,  concelho de Évora. Organizado pelo Grupo Desportivo e Recreativo de 
+ Guadalupe\,  o evento percorre trilhos técnicos e caminhos rurais caracter
+ ísticos da planície alentejana\,  passando por importantes monumentos[..]
+ \nhttps://www.portugalrunning.com/eventos/trail-rota-megalitica/
+URL:https://www.portugalrunning.com/eventos/trail-rota-megalitica/
+END:VEVENT
+END:VCALENDAR

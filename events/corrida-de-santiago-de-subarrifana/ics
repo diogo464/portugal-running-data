@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69c66eda1ea98
+DTSTAMP:20260327T114946Z
+DTSTART:20260607T230900Z
+DTEND:20260607T235900Z
+LOCATION:Santiago de Subarrifana\,  Penafiel Santiago de Subarrifana\,  Penafiel
+SUMMARY:Corrida de Santiago de Subarrifana 2026
+DESCRIPTION:A Corrida de Santiago de Subarrifana 2026 terá lugar no dia 7 
+ de junho de 2026 (domingo)\,  na freguesia de Santiago de Subarrifana\,  co
+ ncelho de Penafiel. Esta prova de estrada de âmbito urbano é organizada p
+ elo Centro Social Recreativo Desportivo e Cultural de Santiago de Subarrifa
+ na para comemorar o seu[..]\nhttps://www.portugalrunning.com/eventos/corrid
+ a-de-santiago-de-subarrifana/
+URL:https://www.portugalrunning.com/eventos/corrida-de-santiago-de-subarrifana/
+END:VEVENT
+END:VCALENDAR
