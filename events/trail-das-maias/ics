@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a76365fa
+DTSTAMP:20260401T142350Z
+DTSTART:20260517T065600Z
+DTEND:20260517T065600Z
+LOCATION:Cadaval\,  Vila Real Cadaval\,  Vila Real
+SUMMARY:Trail das Maias 2026
+DESCRIPTION:O Trail das Maias realiza-se a 17 de maio de 2026\,  com epicen
+ tro na aldeia do Cadaval\,  concelho de Murça. A prova foca-se na valoriza
+ ção do património natural transmontano e na celebração primaveril do f
+ lorescer das giestas que cobrem a região. Este evento técnico percorre tr
+ ilhos serranos e caminhos rurais[..]\nhttps://www.portugalrunning.com/event
+ os/trail-das-maias/
+URL:https://www.portugalrunning.com/eventos/trail-das-maias/
+END:VEVENT
+END:VCALENDAR

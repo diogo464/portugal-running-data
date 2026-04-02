@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a776bc67
+DTSTAMP:20260401T142351Z
+DTSTART:20260711
+DTEND:20260712
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Aquae Flaviae Night Running 2026
+DESCRIPTION:A 10ª edição da Aquae Flaviae Night Running está prevista p
+ ara 11 de julho de 2026\,  na cidade de Chaves. Organizada pela ADAF (Assoc
+ iação Desporto Aquae Flaviae)\,  esta corrida noturna é um dos eventos d
+ esportivos mais emblemáticos de Trás-os-Montes\,  aliando a vertente comp
+ etitiva à valorização do património histórico flaviense sob[..]\nhttps
+ ://www.portugalrunning.com/eventos/aquae-flaviae-night-running/
+URL:https://www.portugalrunning.com/eventos/aquae-flaviae-night-running/
+END:VEVENT
+END:VCALENDAR

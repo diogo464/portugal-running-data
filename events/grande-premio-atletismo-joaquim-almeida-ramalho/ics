@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a7520ca9
+DTSTAMP:20260401T142349Z
+DTSTART:20260425
+DTEND:20260426
+LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+SUMMARY:Grande Prémio Atletismo Joaquim Almeida Ramalho 2026
+DESCRIPTION:O Grande Prémio de Atletismo Joaquim Almeida Ramalho decorre a
+  25 de abril de 2026\,  em São Pedro do Sul. Organizada pela Câmara Munic
+ ipal em coorganização com a Termalistur\,  esta prova de atletismo de est
+ rada celebra o feriado da Liberdade\,  percorrendo as principais artérias 
+ do centro da cidade com distâncias[..]\nhttps://www.portugalrunning.com/ev
+ entos/grande-premio-atletismo-joaquim-almeida-ramalho/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-joaquim-almeida-ramalho/
+END:VEVENT
+END:VCALENDAR

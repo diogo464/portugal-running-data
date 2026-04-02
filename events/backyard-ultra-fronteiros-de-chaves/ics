@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a76cca6c
+DTSTAMP:20260401T142350Z
+DTSTART:20260620T152500Z
+DTEND:20260620T235900Z
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Backyard Ultra Fronteiros de Chaves 2026
+DESCRIPTION:A Backyard Ultra Fronteiros de Chaves está agendada para o dia
+  20 de junho de 2026\,  com centro de operações em Chaves\,  Vila Real. E
+ ste evento\,  organizado pela Associação Lobos do Brunheiro\,  introduz o
+  conceito de resistência extrema no Alto Tâmega\,  onde os atletas devem 
+ completar um circuito de 6\, 706[..]\nhttps://www.portugalrunning.com/event
+ os/backyard-ultra-fronteiros-de-chaves/
+URL:https://www.portugalrunning.com/eventos/backyard-ultra-fronteiros-de-chaves/
+END:VEVENT
+END:VCALENDAR

@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69c66ed9cc6b1
-DTSTAMP:20260327T114945Z
+UID:69cd2a75382a6
+DTSTAMP:20260401T142349Z
 DTSTART:20260412T130300Z
-DTEND:20260412T130300Z
+DTEND:20260412T235900Z
 LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
 SUMMARY:Grande Prémio Santo António - Fráguas 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-santo-a
- ntonio-fraguas/
+DESCRIPTION:O Grande Prémio Santo António - Fráguas ocorre a 12 de abril
+  de 2026\,  na freguesia de Fráguas\,  concelho de Rio Maior. Este evento 
+ de atletismo de estrada é uma prova tradicional do distrito de Santarém\,
+   focada na promoção do desporto federado e popular\,  integrando o calen
+ dário regional da modalidade.[..]\nhttps://www.portugalrunning.com/eventos
+ /grande-premio-santo-antonio-fraguas/
 URL:https://www.portugalrunning.com/eventos/grande-premio-santo-antonio-fraguas/
 END:VEVENT
 END:VCALENDAR

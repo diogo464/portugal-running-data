@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a74af652
+DTSTAMP:20260401T142348Z
+DTSTART:20260906
+DTEND:20260907
+LOCATION:Seixal\,  Setúbal Seixal\,  Setúbal
+SUMMARY:Corrida da Festa do Avante 2026
+DESCRIPTION:A 37ª Corrida da Festa do Avante 2026\,  previsivelmente agend
+ ada para a manhã de 6 de setembro de 2026\,  leva milhares de atletas às 
+ ruas da cidade de Amora\,  no concelho do Seixal. Este evento de Atletismo 
+ de Estrada é um verdadeiro clássico do calendário nacional\,  destacando
+ -se não só pela[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-f
+ esta-do-avante/
+URL:https://www.portugalrunning.com/eventos/corrida-da-festa-do-avante/
+END:VEVENT
+END:VCALENDAR

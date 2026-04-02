@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a73c714f
+DTSTAMP:20260401T142347Z
+DTSTART:20260509T115500Z
+DTEND:20260509T235900Z
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida 40 anos Xistarca 2026
+DESCRIPTION:Em 2026\,  celebramos um marco verdadeiramente especial: os 40 
+ anos da Xistarca. Quatro décadas dedicadas à promoção do desporto e da 
+ atividade física\,  bem como à criação de experiências memoráveis que
+  unem gerações! A&nbsp;Corrida 40 anos Xistarca&nbsp;surge como uma homen
+ agem a toda a história construída\,  mas também como um olhar[..]\nhttps
+ ://www.portugalrunning.com/eventos/corrida-40-anos-xistarca/
+URL:https://www.portugalrunning.com/eventos/corrida-40-anos-xistarca/
+END:VEVENT
+END:VCALENDAR

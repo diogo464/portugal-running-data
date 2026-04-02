@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a780daaa
+DTSTAMP:20260401T142352Z
+DTSTART:20270307
+DTEND:20270308
+LOCATION:Tóquio\,  Japão Tóquio\,  Japão
+SUMMARY:Maratona de Tóquio 2027
+DESCRIPTION:A Maratona de Tóquio\,  realizada anualmente em março\,  é u
+ ma das mais prestigiadas Abbott World Marathon Majors e a única Major asi�
+ �tica\,  reunindo cerca de 36 mil corredores selecionados por lotaria entre
+  mais de 300 mil inscrições. Com partida no Tokyo Metropolitan Government
+  Building em Shinjuku e chegada na Estação[..]\nhttps://www.portugalrunni
+ ng.com/eventos/maratona-de-toquio/
+URL:https://www.portugalrunning.com/eventos/maratona-de-toquio/
+END:VEVENT
+END:VCALENDAR

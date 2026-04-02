@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a754d284
+DTSTAMP:20260401T142349Z
+DTSTART:20260815T152500Z
+DTEND:20260815T235900Z
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Feirense Backyard Ultra 2026
+DESCRIPTION:A Feirense Backyard Ultra 2026\,  agendada para o dia 15 de ago
+ sto de 2026\,  com epicentro no Europarque em Santa Maria da Feira\,  é um
+  evento ímpar de Ultra Endurance e Trail Running. Inspirada no lendário c
+ onceito de Lazarus Lake\,  criador das míticas Maratonas Barkley\,  esta c
+ orrida convida os atletas[..]\nhttps://www.portugalrunning.com/eventos/feir
+ ense-backyard-ultra/
+URL:https://www.portugalrunning.com/eventos/feirense-backyard-ultra/
+END:VEVENT
+END:VCALENDAR

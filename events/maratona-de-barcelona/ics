@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a759a26a
+DTSTAMP:20260401T142349Z
+DTSTART:20270314
+DTEND:20270315
+LOCATION:Barcelona\,  Espanha Barcelona\,  Espanha
+SUMMARY:Maratona de Barcelona 2027
+DESCRIPTION:A Maratona de Barcelona 2027 ocorre a 14 de março de 2027\,  p
+ ercorrendo as principais avenidas da capital catalã. O evento\,  oficialme
+ nte designado Zurich Marató Barcelona 2027\,  apresenta um percurso marato
+ na Barcelona otimizado para a obtenção de recordes pessoais. As inscriç�
+ �es maratona Barcelona 2027 processam-se através do portal oficial da[..]\
+ nhttps://www.portugalrunning.com/eventos/maratona-de-barcelona/
+URL:https://www.portugalrunning.com/eventos/maratona-de-barcelona/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a75e4f92
+DTSTAMP:20260401T142349Z
+DTSTART:20260502
+DTEND:20260503
+LOCATION:Vilamoura\,  Faro Vilamoura\,  Faro
+SUMMARY:Vilamoura Nature Run 2026
+DESCRIPTION:A Vilamoura Nature Run 2026 realiza-se a 2 de maio de 2026\,  c
+ om epicentro na Marina de Vilamoura. Esta prova\,  peça fundamental no Cal
+ endário Corridas Algarve 2026. Numa co-organização da Free Challenge\,  
+ Vilamoura World e com o apoio da Junta de Freguesia de Quarteira\,  Câmara
+  Municipal de Loulé eInframoura\,  a[..]\nhttps://www.portugalrunning.com/
+ eventos/vilamoura-nature-run/
+URL:https://www.portugalrunning.com/eventos/vilamoura-nature-run/
+END:VEVENT
+END:VCALENDAR

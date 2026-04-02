@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a76e474b
+DTSTAMP:20260401T142350Z
+DTSTART:20260613
+DTEND:20260614
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:Corrida Urbana Terras de Santa Maria 2026
+DESCRIPTION:A Corrida Urbana Terras de Santa Maria realiza-se a 13 de junho
+  de 2026\,  em Santa Maria da Feira. Trata-se de um trail urbano noturno qu
+ e combina a vertente desportiva com a descoberta do património histórico 
+ local\,  integrando passagens por monumentos emblemáticos durante o percur
+ so. 📋 Dados Técnicos Nome: Corrida[..]\nhttps://www.portugalrunning.com
+ /eventos/corrida-urbana-terras-de-santa-maria/
+URL:https://www.portugalrunning.com/eventos/corrida-urbana-terras-de-santa-maria/
+END:VEVENT
+END:VCALENDAR

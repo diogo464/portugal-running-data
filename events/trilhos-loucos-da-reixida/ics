@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a7567209
+DTSTAMP:20260401T142349Z
+DTSTART:20260614
+DTEND:20260615
+LOCATION:Reixida\,  Leiria Reixida\,  Leiria
+SUMMARY:Trilhos Loucos da Reixida 2026
+DESCRIPTION:Os Trilhos Loucos da Reixida 2026 regressam para a sua 16ª edi
+ ção no dia 14 de junho de 2026\,  na localidade de Reixida\,  em Leiria. 
+ Este evento de trail running é um dos mais carismáticos da região centro
+ \,  combinando o desafio físico de trilhos técnicos com a beleza natural 
+ das[..]\nhttps://www.portugalrunning.com/eventos/trilhos-loucos-da-reixida/
+URL:https://www.portugalrunning.com/eventos/trilhos-loucos-da-reixida/
+END:VEVENT
+END:VCALENDAR

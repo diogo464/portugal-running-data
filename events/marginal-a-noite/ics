@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ce2681313e6
+DTSTAMP:20260402T081913Z
+DTSTART:20260613
+DTEND:20260614
+LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+SUMMARY:Marginal à Noite 2026
+DESCRIPTION:A Marginal à Noite 2026 regressa a Oeiras para transformar a i
+ cónica Avenida Marginal num cenário desportivo sob o luar. Já podes gara
+ ntir as tuas inscrições marginal à noite para esta prova que percorre a 
+ orla marítima num ambiente de superação e convívio. Se procuras a margi
+ nal à noite 2026[..]\nhttps://www.portugalrunning.com/eventos/marginal-a-n
+ oite/
+URL:https://www.portugalrunning.com/eventos/marginal-a-noite/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a75e6db2
+DTSTAMP:20260401T142349Z
+DTSTART:20260725
+DTEND:20260726
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:Trail Noturno de Toledo 2026
+DESCRIPTION:O Trail Noturno de Toledo - TNT 2026 é um evento desportivo em
+ ocionante que terá lugar no dia 25 de julho de 2026\,  na pitoresca aldeia
+  de Toledo\,  no concelho da Lourinhã. Esta prova de trail running noturno
+  promete desafiar os atletas sob o manto da noite\,  oferecendo uma experi�
+ �ncia[..]\nhttps://www.portugalrunning.com/eventos/trail-noturno-de-toledo/
+URL:https://www.portugalrunning.com/eventos/trail-noturno-de-toledo/
+END:VEVENT
+END:VCALENDAR

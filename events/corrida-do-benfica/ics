@@ -4,17 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d92cc9f
-DTSTAMP:20260315T100721Z
+UID:69cd2a76829a4
+DTSTAMP:20260401T142350Z
 DTSTART:20260329
 DTEND:20260330
 LOCATION:Avenida Machado Santos\,  Lisboa Avenida Machado Santos\,  Lisboa
 SUMMARY:Corrida do Benfica 2026
-DESCRIPTION:A 18.ª edição da Corrida do Benfica António Leitão realiza
- -se na cidade de Lisboa\,  Portugal\,  e é um dos eventos de atletismo de 
- estrada mais emblemáticos do país. Agendada para o último fim de semana 
- de março (28 e 29 de março de 2026)\,  a prova oferece distâncias de 10[
- ..]\nhttps://www.portugalrunning.com/eventos/corrida-do-benfica/
+DESCRIPTION:Resultados A tão aguardada corrida do benfica 2026\,  oficialm
+ ente conhecida como a 18ª Corrida António Leitão\,  está agendada para 
+ o dia 29 de março de 2026\,  com partida na emblemática Avenida Machado S
+ antos\,  junto ao Estádio da Luz em Lisboa. Este evento imperdível junta 
+ milhares de atletas para uma corrida[..]\nhttps://www.portugalrunning.com/e
+ ventos/corrida-do-benfica/
 URL:https://www.portugalrunning.com/eventos/corrida-do-benfica/
 END:VEVENT
 END:VCALENDAR

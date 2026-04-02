@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a77e9c47
+DTSTAMP:20260401T142351Z
+DTSTART:20200906
+DTEND:20200907
+LOCATION:Porto Porto
+SUMMARY:Corrida do Dragão
+DESCRIPTION:A Corrida do Dragão acontece a 25 de outubro de 2026\,  com ep
+ icentro no Estádio do Dragão\,  no Porto. Esta prova de estrada mobiliza 
+ milhares de participantes que percorrem as principais artérias em redor do
+  recinto desportivo. As inscrições para a Corrida do Dragão 2026 garante
+ m a participação num dos[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-do-dragao-2020/
+URL:https://www.portugalrunning.com/eventos/corrida-do-dragao-2020/
+END:VEVENT
+END:VCALENDAR

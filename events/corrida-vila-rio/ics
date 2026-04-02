@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a77959e3
+DTSTAMP:20260401T142351Z
+DTSTART:20260524T134500Z
+DTEND:20260524T235900Z
+LOCATION:Póvoa de Santa Iria \,  Vila Franca de Xira Póvoa de Santa Iria\,  Vila Franca de Xira
+SUMMARY:Corrida Vila Rio 2026
+DESCRIPTION:A Corrida Vila Rio realiza-se a 24 de maio de 2026\,  com epice
+ ntro no Parque Urbano da Póvoa de Santa Iria. Esta prova de estrada percor
+ re a frente ribeirinha e os passadiços do Tejo\,  integrando as inscriçõ
+ es Vila Rio num evento que alia a competição à descoberta do novo bairro
+ [..]\nhttps://www.portugalrunning.com/eventos/corrida-vila-rio/
+URL:https://www.portugalrunning.com/eventos/corrida-vila-rio/
+END:VEVENT
+END:VCALENDAR

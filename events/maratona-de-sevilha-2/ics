@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a7799bb3
+DTSTAMP:20260401T142351Z
+DTSTART:20270221
+DTEND:20270222
+LOCATION:Sevilha\,  Espanha Sevilha\,  Espanha
+SUMMARY:Maratona de Sevilha 2027
+DESCRIPTION:A Maratona de Sevilha 2027 realiza-se no dia 21 de fevereiro de
+  2027\,  percorrendo o coração histórico da capital andaluza. Esta prova
+  é amplamente reconhecida como a melhor maratona para recorde pessoal devi
+ do ao seu traçado extremamente plano e rápido. As inscrições Zurich Mar
+ atón de Sevilla costumam esgotar meses antes[..]\nhttps://www.portugalrunn
+ ing.com/eventos/maratona-de-sevilha-2/
+URL:https://www.portugalrunning.com/eventos/maratona-de-sevilha-2/
+END:VEVENT
+END:VCALENDAR

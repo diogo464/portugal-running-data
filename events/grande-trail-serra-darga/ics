@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a75b2eac
+DTSTAMP:20260401T142349Z
+DTSTART:20261002
+DTEND:20261003
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Grande Trail Serra D'Arga 2026
+DESCRIPTION:O Grande Trail da Serra d'Arga 2026 é um dos eventos de trail 
+ running mais aguardados do Alto Minho\,  agendado para o fim de semana de 2
+  a 4 de outubro de 2026\,  com epicentro no concelho de Caminha. Esta prova
+  de renome internacional desafia os atletas a explorar os[..]\nhttps://www.
+ portugalrunning.com/eventos/grande-trail-serra-darga/
+URL:https://www.portugalrunning.com/eventos/grande-trail-serra-darga/
+END:VEVENT
+END:VCALENDAR

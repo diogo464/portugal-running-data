@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ce268134314
+DTSTAMP:20260402T081913Z
+DTSTART:20260524T045600Z
+DTEND:20260524T045600Z
+LOCATION:Abragão\,  Penafiel Abragão\,  Penafiel
+SUMMARY:Trail e Caminhada Encostas do Tâmega 2026
+DESCRIPTION:As inscrições para o Trail e Caminhada Encostas do Tâmega 20
+ 26 prometem levar centenas de atletas à freguesia de Abragão\,  em Penafi
+ el\,  para uma jornada de superação física. Este trail no distrito do Po
+ rto destaca-se pelas suas paisagens moldadas pelo rio Tâmega\,  oferecendo
+  percursos que desafiam tanto iniciantes como especialistas[..]\nhttps://ww
+ w.portugalrunning.com/eventos/trail-e-caminhada-encostas-do-tamega/
+URL:https://www.portugalrunning.com/eventos/trail-e-caminhada-encostas-do-tamega/
+END:VEVENT
+END:VCALENDAR

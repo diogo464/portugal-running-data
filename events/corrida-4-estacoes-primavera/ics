@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a7681ca1
+DTSTAMP:20260401T142350Z
+DTSTART:20260517
+DTEND:20260518
+LOCATION:Avelar\,  Ansião Avelar\,  Ansião
+SUMMARY:Corrida 4 Estações Primavera 2026
+DESCRIPTION:A Corrida 4 Estações Primavera 2026 realiza-se na vila de Ave
+ lar\,  concelho de Ansião\,  assinalando o início do ciclo sazonal de com
+ petições de estrada. 📋 Dados Técnicos: Nome: Corrida 4 Estações –
+  Etapa Primavera 2026. Data: 17 de Maio de 2026 Local: Vila de Avelar\,  An
+ sião (Distrito de Leiria). Terreno/Distâncias:[..]\nhttps://www.portugalr
+ unning.com/eventos/corrida-4-estacoes-primavera/
+URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-primavera/
+END:VEVENT
+END:VCALENDAR

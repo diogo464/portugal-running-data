@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a76cb5c7
+DTSTAMP:20260401T142350Z
+DTSTART:20260829
+DTEND:20260830
+LOCATION:Lourosa\,  Santa Maria da Feira Lourosa\,  Santa Maria da Feira
+SUMMARY:Corrida Rosa 2026
+DESCRIPTION:A Corrida Rosa na Lourosa realiza-se no dia 29 de agosto de 202
+ 6 (sábado)\,  na freguesia de Lourosa\,  Santa Maria da Feira. Este evento
+  desportivo é exclusivamente feminino\,  promovendo a saúde e o bem-estar
+  através de uma prova que junta centenas de mulheres para percorrer as art
+ érias da cidade num[..]\nhttps://www.portugalrunning.com/eventos/corrida-r
+ osa/
+URL:https://www.portugalrunning.com/eventos/corrida-rosa/
+END:VEVENT
+END:VCALENDAR

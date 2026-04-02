@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a75b1bc8
+DTSTAMP:20260401T142349Z
+DTSTART:20270306
+DTEND:20270307
+LOCATION:Montalegre\,  Vila Real Montalegre\,  Vila Real
+SUMMARY:Montalegre Urban Fit 2027
+DESCRIPTION:O Montalegre Urban Fit 2027 vai invadir a vila transmontana de 
+ Montalegre no dia 6 de março de 2027\,  combinando a exigência do atletis
+ mo com a espetacularidade dos obstáculos urbanos. Trata-se de um evento de
+  OCR (Obstacle Course Racing) organizado pela Urban Fit Race\,  desenhado p
+ ara levar os atletas ao[..]\nhttps://www.portugalrunning.com/eventos/montal
+ egre-urban-fit-2/
+URL:https://www.portugalrunning.com/eventos/montalegre-urban-fit-2/
+END:VEVENT
+END:VCALENDAR

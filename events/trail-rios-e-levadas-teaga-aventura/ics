@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a75e2966
+DTSTAMP:20260401T142349Z
+DTSTART:20260913
+DTEND:20260914
+LOCATION:Oliveira de Frades Oliveira de Frades
+SUMMARY:Trail Rios e Levadas Teaga Aventura 2026
+DESCRIPTION:O Trail Rios e Levadas Teaga Aventura 2026 terá lugar no dia 1
+ 3 de setemebro de 2026\,  no concelho de Oliveira de Frades. Este evento de
+  trail running destaca-se pela sua beleza natural ímpar\,  levando os part
+ icipantes a percorrer trilhos ancestrais\,  margens de rios cristalinos e a
+ s tradicionais levadas que[..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-rios-e-levadas-teaga-aventura/
+URL:https://www.portugalrunning.com/eventos/trail-rios-e-levadas-teaga-aventura/
+END:VEVENT
+END:VCALENDAR

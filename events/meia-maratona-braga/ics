@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b097735cfd
-DTSTAMP:20260129T071711Z
+UID:69cd2a77369bc
+DTSTAMP:20260401T142351Z
 DTSTART:20260329
 DTEND:20260330
 LOCATION:Braga Braga
 SUMMARY:Meia Maratona Braga 2026
-DESCRIPTION:A Meia Maratona de Braga (oficialmente Caravela Seguros Meia Ma
- ratona de Braga) é uma prova de estrada realizada na cidade de Braga\,  Po
- rtugal. A próxima edição está confirmada para 29 de março de 2026\,  c
- om um percurso desenhado nas avenidas da cidade\,  conhecido por ser rápid
- o e plano. O evento[..]\nhttps://www.portugalrunning.com/eventos/meia-marat
- ona-braga/
+DESCRIPTION:Resultados A Meia Maratona de Braga (oficialmente Caravela Segu
+ ros Meia Maratona de Braga) é uma prova de estrada realizada na cidade de 
+ Braga\,  Portugal. A próxima edição está confirmada para 29 de março d
+ e 2026\,  com um percurso desenhado nas avenidas da cidade\,  conhecido por
+  ser rápido e plano. O[..]\nhttps://www.portugalrunning.com/eventos/meia-m
+ aratona-braga/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-braga/
 END:VEVENT
 END:VCALENDAR

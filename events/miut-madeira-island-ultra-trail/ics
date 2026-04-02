@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a77a0b59
+DTSTAMP:20260401T142351Z
+DTSTART:20260425
+DTEND:20260426
+LOCATION:Porto Moniz\,  Ilha da Madeira Porto Moniz\,  Ilha da Madeira
+SUMMARY:MIUT - Madeira Island Ultra Trail 2026
+DESCRIPTION:O MIUT - Madeira Island Ultra Trail 2026\,  agendado para o dia
+  25 de abril de 2026\,  é um dos eventos de Trail Running mais conceituado
+ s e aguardados a nível mundial\,  com partida no Porto Moniz e chegada à 
+ histórica cidade de Machico\,  na Ilha da Madeira. Esta prova épica[..]\n
+ https://www.portugalrunning.com/eventos/miut-madeira-island-ultra-trail/
+URL:https://www.portugalrunning.com/eventos/miut-madeira-island-ultra-trail/
+END:VEVENT
+END:VCALENDAR

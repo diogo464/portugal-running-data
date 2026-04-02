@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69cd2a75ca3ab
+DTSTAMP:20260401T142349Z
+DTSTART:20260418
+DTEND:20260419
+LOCATION:Setúbal Setúbal
+SUMMARY:Meia Maratona Alegro Setúbal 2026
+DESCRIPTION:A Meia Maratona Alegro Setúbal 2026 realiza-se no dia 19 de ab
+ ril\,  com partida junto ao centro comercial Alegro. O percurso desta meia 
+ maratona de setúbal 2026 liga a malha urbana aos contrafortes da Serra da 
+ Arrábida. Os atletas que participam na meia maratona setúbal encontram um
+  traçado rápido mas[..]\nhttps://www.portugalrunning.com/eventos/meia-mar
+ atona-alegro-setubal/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-alegro-setubal/
+END:VEVENT
+END:VCALENDAR

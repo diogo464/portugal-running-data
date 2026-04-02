@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ce2682051ae
+DTSTAMP:20260402T081914Z
+DTSTART:20260610T045200Z
+DTEND:20260610T045200Z
+LOCATION:Santarém Santarém
+SUMMARY:Meia Maratona Avieiros 2026
+DESCRIPTION:As inscrições para a Meia Maratona Avieiros 2026 abrem no dia
+  5 de abril\,  convidando os corredores a explorar as margens do Tejo numa 
+ experiência que une desporto e património. Organizada pelo SóRio em parc
+ eria com os Scalabis Night Runners\,  esta corrida em Santarém destaca-se 
+ pelo contacto direto com a[..]\nhttps://www.portugalrunning.com/eventos/mei
+ a-maratona-avieiros/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-avieiros/
+END:VEVENT
+END:VCALENDAR

@@ -4,17 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c529342c
-DTSTAMP:20250720T222314Z
-DTSTART:20200906
-DTEND:20200907
+UID:69cd2a7770573
+DTSTAMP:20260401T142351Z
+DTSTART:20261025
+DTEND:20261026
 LOCATION:Porto Porto
-SUMMARY:Corrida do Dragão
-DESCRIPTION:Uma corrida emblemática que nasce com o objectivo de oferecer 
- a milhares de adeptos do FC Porto a oportunidade de correr de Dragão ao Pe
- ito\,  na Cidade Invicta\,  junto ao Estádio do Dragão\,  palco de todas 
- as emoções\,  o palco dos campeões.\nhttps://www.portugalrunning.com/eve
- ntos/corrida-do-dragao/
+SUMMARY:Corrida do Dragão 2026
+DESCRIPTION:A Corrida do Dragão acontece a 25 de outubro de 2026\,  com ep
+ icentro no Estádio do Dragão\,  no Porto. Esta prova de estrada mobiliza 
+ milhares de participantes que percorrem as principais artérias em redor do
+  recinto desportivo. As inscrições para a Corrida do Dragão 2026 garante
+ m a participação num dos[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-do-dragao/
 URL:https://www.portugalrunning.com/eventos/corrida-do-dragao/
 END:VEVENT
 END:VCALENDAR

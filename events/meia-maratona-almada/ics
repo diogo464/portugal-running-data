@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ce26818e4d4
+DTSTAMP:20260402T081913Z
+DTSTART:20260510T133400Z
+DTEND:20260510T235900Z
+LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+SUMMARY:Meia Maratona Almada 2026
+DESCRIPTION:Realizada pela Câmara Municipal de Almada\,  a Meia Maratona d
+ e Almada tem como objetivo promover um estilo de vida saudável e ativo\,  
+ oferecendo a atletas amadores e profissionais a oportunidade de desafiarem 
+ os seus limites num percurso deslumbrante. Este ano\,  o trajeto passará p
+ or alguns dos pontos mais icónicos\,  como[..]\nhttps://www.portugalrunnin
+ g.com/eventos/meia-maratona-almada/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-almada/
+END:VEVENT
+END:VCALENDAR
