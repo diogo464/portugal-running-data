@@ -4,18 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a2d0253b
-DTSTAMP:20260320T110621Z
+UID:69d519f47a465
+DTSTAMP:20260407T145132Z
 DTSTART:20260627
 DTEND:20260628
 LOCATION:Peniche\,  Leiria Peniche\,  Leiria
 SUMMARY:Corrida das Fogueiras 2026
-DESCRIPTION:Esta corrida atrai tanto atletas profissionais como amadores\, 
-  e é também uma atração turística\,  atraindo participantes de várias
-  partes do país e até mesmo do exterior. Além da corrida principal\,  h�
- � também outras categorias\,  como a Mini Corrida das Fogueiras\,  destina
- da a crianças e jovens. A Corrida das Fogueiras em[..]\nhttps://www.portug
- alrunning.com/eventos/corrida-das-fogueiras/
+DESCRIPTION:⚡ Snapshot Data: 27 de junho de 2026 Local: Peniche\,  Leiria
+  Distância: 15 km e 5 km Piso: Asfalto e Calçada 📝 O Desafio Correr em
+  Peniche durante a noite exige uma leitura constante da tração no asfalto
+ \,  que frequentemente se apresenta húmido devido à proximidade do oceano
+  e à[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-fogueiras/
 URL:https://www.portugalrunning.com/eventos/corrida-das-fogueiras/
 END:VEVENT
 END:VCALENDAR

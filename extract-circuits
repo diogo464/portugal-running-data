@@ -54,6 +54,8 @@ CLASS_TO_CIRCUITS = {
     "status-publish": [],
     "has-post-thumbnail": [],
     "hentry": [],
+    "event_type-hyrox": [],
+    "event_type-ironman-triatlo": []
 }
 CLASS_IGNORE_PREFIXES = [
     "post-",

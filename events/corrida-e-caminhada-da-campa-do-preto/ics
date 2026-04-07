@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69d519f58cbe5
+DTSTAMP:20260407T145133Z
+DTSTART:20260531
+DTEND:20260601
+LOCATION:Castêlo da Maia\,  Porto Castêlo da Maia\,  Porto
+SUMMARY:Corrida e Caminhada da Campa do Preto 2026
+DESCRIPTION:⚡ Snapshot Data: 31/05/2026 Local: Gemunde\,  Maia Distância
+ : 10 km (Corrida) e 5 km (Caminhada) Piso: Asfalto 📝 O Desafio O percurs
+ o urbano em Gemunde caracteriza-se por um asfalto de elevada aderência\,  
+ permitindo uma tração constante mesmo nas zonas de curva mais fechada. O 
+ desafio principal reside na gestão do[..]\nhttps://www.portugalrunning.com
+ /eventos/corrida-e-caminhada-da-campa-do-preto/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-da-campa-do-preto/
+END:VEVENT
+END:VCALENDAR

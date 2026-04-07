@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69d519f511a01
+DTSTAMP:20260407T145133Z
+DTSTART:20260531
+DTEND:20260601
+LOCATION:Lousada\,  Porto Lousada\,  Porto
+SUMMARY:Street Cross Lustosa 2026
+DESCRIPTION:⚡ Snapshot Data: 31 de maio de 2026 Local: Alameda da Igreja\
+ ,  Lustosa\,  Lousada Distância: 10 km (Prova Principal) e Provas Jovens P
+ iso: Misto (Asfalto e Paralelos) 📝 O Desafio A prova desenrola-se pelo n
+ úcleo urbano de Lustosa\,  onde a interação com o solo é marcada pela t
+ ransição constante entre[..]\nhttps://www.portugalrunning.com/eventos/str
+ eet-cross-lustosa/
+URL:https://www.portugalrunning.com/eventos/street-cross-lustosa/
+END:VEVENT
+END:VCALENDAR

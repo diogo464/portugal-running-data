@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69d519f4d7948
+DTSTAMP:20260407T145132Z
+DTSTART:20260920
+DTEND:20260921
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:Meia Maratona Loures Odivelas 2026
+DESCRIPTION:⚡ Snapshot Data: 20/09/2026 Local: Parque Adão Barata\,  Lou
+ res (Partida e Chegada) Distância: 21\, 1 km (Meia Maratona)\,  10 km e 5 
+ km (Caminhada) Piso: Asfalto 📝 O Desafio Percorrer a ligação históric
+ a entre Loures e Odivelas exige uma gestão estratégica da tração no asf
+ alto\,  especialmente nas zonas de transição entre[..]\nhttps://www.portu
+ galrunning.com/eventos/meia-maratona-loures-odivelas/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-loures-odivelas/
+END:VEVENT
+END:VCALENDAR

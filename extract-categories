@@ -42,6 +42,8 @@ CLASS_TO_CATEGORIES = {
     "status-publish": [],
     "has-post-thumbnail": [],
     "hentry": [],
+    "event_type-hyrox": [],
+    "event_type-ironman-triatlo": [],
 }
 CLASS_IGNORE_PREFIXES = [
     "post-",

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69d519f477e01
+DTSTAMP:20260407T145132Z
+DTSTART:20260712
+DTEND:20260713
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail da Lomba 2026
+DESCRIPTION:⚡ Snapshot Data: 12 de julho de 2026 Local: Lomba\,  Gondomar
+  Distância: 18 km (Trail Longo)\,  12 km (Trail Curto) e Caminhada Piso: T
+ erra\,  Trilhos e Caminhos Rurais 📝 O Desafio O Trail da Lomba desenrola
+ -se na margem esquerda do rio Douro\,  oferecendo um terreno técnico e exi
+ gente. A interação[..]\nhttps://www.portugalrunning.com/eventos/trail-da-
+ lomba/
+URL:https://www.portugalrunning.com/eventos/trail-da-lomba/
+END:VEVENT
+END:VCALENDAR

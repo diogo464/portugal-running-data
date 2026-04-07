@@ -50,7 +50,7 @@ CLASS_TO_ORGANIZER = {
     "type-ajde_events": None,
     "status-publish": None,
     "has-post-thumbnail": None,
-    "hentry": None,
+    "hentry": None
 }
 CLASS_IGNORE_PREFIXES = [
     "post-",

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69d519f3a4428
+DTSTAMP:20260407T145131Z
+DTSTART:20260523T161300Z
+DTEND:20260523T235900Z
+LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+SUMMARY:Grande Prémio Atletismo CMA 2026
+DESCRIPTION:⚡ Snapshot Data: 23/05/2026 Local: Alcoutim\,  Algarve Distâ
+ ncia: Provas de escalão (400m a 2300m) e prova principal para Seniores/Vet
+ eranos Piso: Asfalto (Estrada) 📝 O Desafio O desafio em Alcoutim centra-
+ se na gestão da tração em percursos de estrada que\,  apesar de curtos\,
+   apresentam variações de inclinação típicas das vilas históricas[..]
+ \nhttps://www.portugalrunning.com/eventos/grande-premio-atletismo-cma/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-cma/
+END:VEVENT
+END:VCALENDAR
