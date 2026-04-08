@@ -1,6 +1,12 @@
 _default:
     just --list
 
+ci: scrape commit
+    just scrape
+    git add .
+    just commit
+    git push
+
 commit:
     ./commit-events.sh
 

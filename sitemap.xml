@@ -2,11 +2,32 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-04-07T12:24:41+00:00</lastmod>
+		<lastmod>2026-04-08T07:58:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/ironman-portugal-cascais-2026/</loc>
-		<lastmod>2026-04-07T12:24:41+00:00</lastmod>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-vila-real/</loc>
+		<lastmod>2026-04-08T07:58:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Meia-Maratona-de-Vila-Real-2026.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/</loc>
+		<lastmod>2026-04-07T17:49:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/EDP-Meia-Maratona-Lisboa-2026-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/ironman-portugal-cascais/</loc>
+		<lastmod>2026-04-07T17:39:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/torres-vedras-night-run-urban-trail/</loc>
+		<lastmod>2026-04-07T17:32:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/cartaznightrunurbantrailhorizo-ld.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/hyrox-lisboa/</loc>
@@ -2205,13 +2226,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/</loc>
-		<lastmod>2026-03-08T11:26:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/EDP-Meia-Maratona-Lisboa-2026-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-do-queijo-da-fajazinha/</loc>
 		<lastmod>2026-03-06T21:06:09+00:00</lastmod>
 		<image:image>
@@ -2493,13 +2507,6 @@
 		<lastmod>2026-02-22T07:51:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/Salto-Trail-10-voucher-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-vila-real/</loc>
-		<lastmod>2026-02-22T07:50:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Meia-Maratona-de-Vila-Real-2026.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
