@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69d8921647a03
+DTSTAMP:20260410T060054Z
+DTSTART:20260517T142200Z
+DTEND:20260517T235900Z
+LOCATION:Fajã Grande\,  Ilha das Flores\,  Fajã Grande\,  Ilha das Flores
+SUMMARY:Corrida Rafael Felizardo Rodrigues 2026
+DESCRIPTION:A Corrida e Caminhada Rafael Felizardo Rodrigues é uma prova d
+ e atletismo de estrada organizada pelo Atlético Clube Fajã Grande\,  e qu
+ e foi criada com o objetivo de homenagear o seu sócio nº1 e principal imp
+ ulsionador da criação do clube.A terceira edição decorrerá no dia 17 d
+ e maio de 2026.\nhttps://www.portugalrunning.com/eventos/corrida-rafael-fel
+ izardo-rodrigues/
+URL:https://www.portugalrunning.com/eventos/corrida-rafael-felizardo-rodrigues/
+END:VEVENT
+END:VCALENDAR

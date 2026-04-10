@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69d8921667b57
+DTSTAMP:20260410T060054Z
+DTSTART:20260927T143100Z
+DTEND:20260927T235900Z
+LOCATION:Graça do Divor\,  Évora Graça do Divor\,  Évora
+SUMMARY:Trail Os Lobos 2026
+DESCRIPTION:A prova realiza-se no dia 27 de Setembro 2026\,  com partida e 
+ chegada no campo de futebol daGraça do Divor. TRAIL – 15 KMCAMINHADA –
+  10 KM\nhttps://www.portugalrunning.com/eventos/trail-os-lobos/
+URL:https://www.portugalrunning.com/eventos/trail-os-lobos/
+END:VEVENT
+END:VCALENDAR

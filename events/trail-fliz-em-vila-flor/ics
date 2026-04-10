@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69d89216214bd
+DTSTAMP:20260410T060054Z
+DTSTART:20260517
+DTEND:20260518
+LOCATION:Vila Flor\,  Bragança Vila Flor\,  Bragança
+SUMMARY:Trail F´Liz em Vila Flor 2026
+DESCRIPTION:O Município de Vila Flor é a entidade organizadora com a cola
+ boração do Clube Azenhas Vivas do evento denominado Trail F´Liz IV que d
+ ecorrerá dia 17 de maio 2026. O Trail F´Liz IV é um evento que percorre 
+ trilhos\,  caminhos rurais e estradões do concelho de Vila Flor e é[..]\n
+ https://www.portugalrunning.com/eventos/trail-fliz-em-vila-flor/
+URL:https://www.portugalrunning.com/eventos/trail-fliz-em-vila-flor/
+END:VEVENT
+END:VCALENDAR

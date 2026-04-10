@@ -4,13 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dd13080
-DTSTAMP:20260315T100725Z
+UID:69d892153a207
+DTSTAMP:20260410T060053Z
 DTSTART:20260531T073400Z
-DTEND:20260531T073400Z
+DTEND:20260531T235900Z
 LOCATION:Marinha das Ondas\,  Figueira da Foz Marinha das Ondas\,  Figueira da Foz
 SUMMARY:Ondas Trail 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ondas-trail/
+DESCRIPTION:O&nbsp;Ondas Trail 2026&nbsp;é um evento desportivo que integr
+ a uma prova competitiva de Trail e uma caminhada. É organizado pela Junta 
+ de Freguesia de Marinha das Ondas\,  com o apoio da ADEF\,  entre outros pa
+ trocinadores e parceiros. A primeira edição realizar-se-á no dia&nbsp;31
+  de maio de 2026\,  na Marinha das Ondas\, [..]\nhttps://www.portugalrunnin
+ g.com/eventos/ondas-trail/
 URL:https://www.portugalrunning.com/eventos/ondas-trail/
 END:VEVENT
 END:VCALENDAR
