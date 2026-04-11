@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69da16624b2c5
+DTSTAMP:20260411T093738Z
+DTSTART:20260530T071000Z
+DTEND:20260530T071000Z
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Hyberic Run 2026
+DESCRIPTION:Nome do evento: Hyberic Run Data: 30 de maio de 2026 Local: Est
+ ádio municipal de Chaves&nbsp; Distâncias: 8km + 8 estações&nbsp; A Hyb
+ eric Run é um evento desportivo que se realizará no dia 30 de maio de 202
+ 6\,  em Chaves\,  e que tem como principal objetivo promover a prática de[
+ ..]\nhttps://www.portugalrunning.com/eventos/hyberic-run/
+URL:https://www.portugalrunning.com/eventos/hyberic-run/
+END:VEVENT
+END:VCALENDAR

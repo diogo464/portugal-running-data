@@ -2,7 +2,98 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-04-09T22:45:09+00:00</lastmod>
+		<lastmod>2026-04-11T08:11:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/challenge-estafetas-cpcd/</loc>
+		<lastmod>2026-04-11T08:11:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/Cartaz-CPCD-01-750x380-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-solidaria-aeist/</loc>
+		<lastmod>2026-04-11T08:08:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/03/cartaz131776_grande-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/ocr-sobral-challenge/</loc>
+		<lastmod>2026-04-11T07:42:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/69d84de26522a_Captura_de_ecra_2026-04-10_as_02.09.34.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/walking-festival-trail-jurassico/</loc>
+		<lastmod>2026-04-11T07:36:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/pop_4h9707u940.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-rota-da-hakea/</loc>
+		<lastmod>2026-04-11T07:33:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/pop_5o57551965.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-das-cerejas-luis-azevedo/</loc>
+		<lastmod>2026-04-11T07:28:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/9269.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/rota-da-broa/</loc>
+		<lastmod>2026-04-11T07:24:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/1775861462-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/al-cor-race-fun-almeirim/</loc>
+		<lastmod>2026-04-11T07:22:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/banner-al-cor-race-fun-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-de-santa-maria/</loc>
+		<lastmod>2026-04-11T07:20:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/banner-gp-lamas-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/hyberic-run/</loc>
+		<lastmod>2026-04-11T07:14:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/5575311edee155a8b406a3e754fceffe.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/uchala-que-seja-o-ultimo/</loc>
+		<lastmod>2026-04-11T07:04:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/69d8b6346a7f9_Cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/brisas-do-atlantico/</loc>
+		<lastmod>2026-04-11T07:02:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/69d771ca86738_brisas_post-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-guerreiros-do-mira/</loc>
+		<lastmod>2026-04-11T06:56:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/69d67cb8bfaca_Cartaz_TrailGuerreirosdoMira2026_net-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-rainha-dona-leonor/</loc>
@@ -93,13 +184,6 @@
 		<lastmod>2026-04-09T06:52:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/UGT-2026-021-750x380-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-de-santa-maria/</loc>
-		<lastmod>2026-04-09T06:47:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/banner-gp-lamas-2026-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69da1662c9019
+DTSTAMP:20260411T093738Z
+DTSTART:20260621
+DTEND:20260622
+LOCATION:Sobral de Monte Agraço\,  Lisboa Sobral de Monte Agraço\,  Lisboa
+SUMMARY:OCR Sobral Challenge 2026
+DESCRIPTION:A “OCR Sobral Challenge” é uma prova organizada pela FPOCR
+  – Federação Portuguesa de corridas de Obstáculos (FPOCR)\,  com o apo
+ io da Câmara Municipal do Sobral de Monte Agraço. A prova vai ser realiza
+ da no Município do Sobral de Monte Agraço\,  com início e chegada no Cen
+ tro da Vila\,  Praça[..]\nhttps://www.portugalrunning.com/eventos/ocr-sobr
+ al-challenge/
+URL:https://www.portugalrunning.com/eventos/ocr-sobral-challenge/
+END:VEVENT
+END:VCALENDAR

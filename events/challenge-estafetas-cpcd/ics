@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69da1661cb28f
+DTSTAMP:20260411T093737Z
+DTSTART:20260517T073700Z
+DTEND:20260517T235900Z
+LOCATION:Póvoa de Santa Iria \,  Vila Franca de Xira Póvoa de Santa Iria\,  Vila Franca de Xira
+SUMMARY:Challenge Estafetas CPCD 2026
+DESCRIPTION:O Centro Popular de Cultura e Desporto\,  com o apoio da Câmar
+ a Municipal de Vila Franca de Xira e da Junta de Freguesia da Póvoa de San
+ ta Iria e Forte da Casa\,  e organização técnica da Xistarca – Promoç
+ ões e Publicações Desportivas\,  Lda\,  promove no dia 17 de maio de[..]
+ \nhttps://www.portugalrunning.com/eventos/challenge-estafetas-cpcd/
+URL:https://www.portugalrunning.com/eventos/challenge-estafetas-cpcd/
+END:VEVENT
+END:VCALENDAR

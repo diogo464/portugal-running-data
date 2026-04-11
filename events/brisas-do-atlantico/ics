@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69da1661b1814
+DTSTAMP:20260411T093737Z
+DTSTART:20260610T061900Z
+DTEND:20260610T235900Z
+LOCATION:Almograve \,  Beja Almograve \,  Beja
+SUMMARY:Brisas do Atlântico 2026
+DESCRIPTION:Realiza-se no feriado de 10 de Junho\,  quarta-feira. Nesta edi
+ ção realiza-se em simultâneo o Campeonato Distrital de Meia Maratona da 
+ responsabilidade da Associação de Atletismo de Beja.\nhttps://www.portuga
+ lrunning.com/eventos/brisas-do-atlantico/
+URL:https://www.portugalrunning.com/eventos/brisas-do-atlantico/
+END:VEVENT
+END:VCALENDAR

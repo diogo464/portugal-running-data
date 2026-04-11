@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69da166258eec
+DTSTAMP:20260411T093738Z
+DTSTART:20260509
+DTEND:20260510
+LOCATION:Instituto Superior Técnico Taguspark\,  Oeiras Instituto Superior Técnico Taguspark\,  Oeiras
+SUMMARY:Corrida Solidária AEIST 2026
+DESCRIPTION:A Corrida Solidária AEIST x Nova SU é um evento desportivo e 
+ solidário que se realizará no dia 9 de maio\,  no campus do IST Taguspark
+ \,  em Oeiras. A iniciativa inclui duas modalidades — corrida de 10 km e 
+ caminhada de 5 km — estando aberta a estudantes e ao[..]\nhttps://www.por
+ tugalrunning.com/eventos/corrida-solidaria-aeist/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-aeist/
+END:VEVENT
+END:VCALENDAR
