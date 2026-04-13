@@ -2,7 +2,35 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-04-11T08:11:17+00:00</lastmod>
+		<lastmod>2026-04-12T10:40:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/lisbon-eco-marathon/</loc>
+		<lastmod>2026-04-12T10:40:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/557156500_1363998799060812_8034134027867190481_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-vila-real/</loc>
+		<lastmod>2026-04-12T10:26:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Meia-Maratona-de-Vila-Real-2026.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-cavado/</loc>
+		<lastmod>2026-04-12T10:19:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/615144798_1343639434229531_3617412275636593962_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-vigo-bayona/</loc>
+		<lastmod>2026-04-12T10:16:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/01/315430821_853578372275554_4715269450188370747_n.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/challenge-estafetas-cpcd/</loc>
@@ -100,13 +128,6 @@
 		<lastmod>2026-04-09T22:45:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/660533890_122179042676789832_513602978282621191_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/lisbon-eco-marathon/</loc>
-		<lastmod>2026-04-09T22:38:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/557156500_1363998799060812_8034134027867190481_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -226,13 +247,6 @@
 		<lastmod>2026-04-09T06:15:40+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/69d612fe78c01_Cartaz_net-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-vila-real/</loc>
-		<lastmod>2026-04-08T07:58:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Meia-Maratona-de-Vila-Real-2026.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3014,13 +3028,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-cavado/</loc>
-		<lastmod>2026-02-21T19:20:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/615144798_1343639434229531_3617412275636593962_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/24h-de-p/</loc>
 		<lastmod>2026-02-21T19:17:43+00:00</lastmod>
 		<image:image>
@@ -4505,13 +4512,6 @@
 		<lastmod>2025-12-30T11:07:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/417581640_122106442688246268_6612060858027606747_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-vigo-bayona/</loc>
-		<lastmod>2025-12-30T11:04:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/01/315430821_853578372275554_4715269450188370747_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
