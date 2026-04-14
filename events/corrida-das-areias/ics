@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69dddda6efdbe
+DTSTAMP:20260414T062438Z
+DTSTART:20260712
+DTEND:20260713
+LOCATION:São Jacinto\,  Aveiro São Jacinto\,  Aveiro
+SUMMARY:Corrida das Areias 2026
+DESCRIPTION:A&nbsp;CORRIDA DAS AREIAS&nbsp;é uma organização do Regiment
+ o de Infantaria Nº10\,  com o apoio técnico da Ria Ativa e irá decorrer 
+ no próximo dia 12 de julho de 2026\,  em São Jacinto (Aveiro)a sua 14ª e
+ dição. A prova destina-se a todos os indivíduos de qualquer nacionalidad
+ e\,  com 18 anos de idade[..]\nhttps://www.portugalrunning.com/eventos/corr
+ ida-das-areias/
+URL:https://www.portugalrunning.com/eventos/corrida-das-areias/
+END:VEVENT
+END:VCALENDAR

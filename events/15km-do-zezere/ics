@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69dddda67695a
+DTSTAMP:20260414T062438Z
+DTSTART:20260610T061600Z
+DTEND:20260610T061600Z
+LOCATION:Ferro\,  Covilhã Ferro\,  Covilhã
+SUMMARY:15Km do Zêzere 2026
+DESCRIPTION:O Rio Zêzere prepara-se para uma grande experiência desportiv
+ a\,  os&nbsp;“15km do Zêzere”. Um evento desportivo que promete inova�
+ �ão\,  emoção\,  uma distância desafiante mas com uma beleza natural\, 
+  capaz de fascinar quem aceite participar. Estamos certos que será a&nbsp;
+ 1ª Edição memorável\,  por isso garante já o teu lugar\,  as inscriç�
+ �es são&nbsp;LIMITADAS!\nhttps://www.portugalrunning.com/eventos/15km-do-z
+ ezere/
+URL:https://www.portugalrunning.com/eventos/15km-do-zezere/
+END:VEVENT
+END:VCALENDAR
