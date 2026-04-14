@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69dddf9e9faf0
+DTSTAMP:20260414T063302Z
+DTSTART:20260919T082100Z
+DTEND:20260919T235900Z
+LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+SUMMARY:Aquae Brunheiro Trail Running 2026
+DESCRIPTION:O AQUAE BRUNHEIRO TRAIL RUNNING é uma prova de Trail Running\,
+   organizada pela Associação Lobosdo Brunheiro de Chaves\,  com a colabor
+ ação do Município de Chaves\,  Associação de Atletismo de VilaReal e J
+ untas de Freguesias.Este evento decorrerá nos dias 19 e 20 de setembro de 
+ 2026\,  com partida na aldeia de[..]\nhttps://www.portugalrunning.com/event
+ os/aquae-brunheiro-trail-running/
+URL:https://www.portugalrunning.com/eventos/aquae-brunheiro-trail-running/
+END:VEVENT
+END:VCALENDAR
