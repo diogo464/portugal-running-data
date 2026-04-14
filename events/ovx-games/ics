@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69ddd9fa547c9
+DTSTAMP:20260414T060858Z
+DTSTART:20260620T060600Z
+DTEND:20260620T060600Z
+LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+SUMMARY:OVX Games 2026
+DESCRIPTION:O OVX Games — The Next Evolution of Hybrid Fitness é uma com
+ petição de hybrid fitness em formato continuous race\,  concebida para te
+ star a capacidade física\,  técnica e estratégica dos atletas através d
+ e segmentos contínuos de corrida e trabalho funcional. A prova é composta
+  por blocos sucessivos de esforço\,  seguindo[..]\nhttps://www.portugalrun
+ ning.com/eventos/ovx-games/
+URL:https://www.portugalrunning.com/eventos/ovx-games/
+END:VEVENT
+END:VCALENDAR
