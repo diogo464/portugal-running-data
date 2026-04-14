@@ -2,7 +2,35 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-04-14T06:08:30+00:00</lastmod>
+		<lastmod>2026-04-14T06:15:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-recardaes/</loc>
+		<lastmod>2026-04-14T06:15:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/gpa-recardaes26_banner.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-das-antas/</loc>
+		<lastmod>2026-04-14T06:13:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/69b0019939bd8_cartaz_trilhos_das_Antas-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-1o-de-maio-covilha/</loc>
+		<lastmod>2026-04-14T06:12:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/corrida1maio_banner_v2.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/rota-da-broa/</loc>
+		<lastmod>2026-04-14T06:09:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/1775861462-1.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/ovx-games/</loc>
@@ -86,13 +114,6 @@
 		<lastmod>2026-04-11T07:28:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/9269.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/rota-da-broa/</loc>
-		<lastmod>2026-04-11T07:24:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/1775861462-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2199,13 +2220,6 @@
 		<lastmod>2026-03-12T11:35:27+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/2024-11-29_09-43-49_67498cd5d45ea-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-das-antas/</loc>
-		<lastmod>2026-03-11T07:31:07+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/69b0019939bd8_cartaz_trilhos_das_Antas-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

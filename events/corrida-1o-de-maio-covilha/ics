@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69dddbbc6dc8c
+DTSTAMP:20260414T061628Z
+DTSTART:20260501T190800Z
+DTEND:20260501T235900Z
+LOCATION:Covilhã\,  Castelo Branco Covilhã\,  Castelo Branco
+SUMMARY:Corrida 1º de Maio - Covilhã 2026
+DESCRIPTION:No próximo dia&nbsp;1 de maio de 2026\,  a cidade da&nbsp;Covi
+ lhã&nbsp;recebe uma das provas mais emblemáticas do calendário desportiv
+ o regional. A&nbsp;Corrida de Atletismo 1º de Maio&nbsp;está de volta par
+ a celebrar o Dia Mundial do Trabalhador com energia\,  desporto e espírito
+  de união. Organizada pela&nbsp;União dos Sindicatos\,  a prova conta com
+  a[..]\nhttps://www.portugalrunning.com/eventos/corrida-1o-de-maio-covilha/
+URL:https://www.portugalrunning.com/eventos/corrida-1o-de-maio-covilha/
+END:VEVENT
+END:VCALENDAR

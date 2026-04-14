@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69dddbbced2d4
+DTSTAMP:20260414T061628Z
+DTSTART:20260531T071000Z
+DTEND:20260531T235900Z
+LOCATION:Águeda\,  Aveiro Águeda\,  Aveiro
+SUMMARY:Grande Prémio de Atletismo de Recardães 2026
+DESCRIPTION:O DESPORTIVO ATLÉTICO DE RECARDÃES em parceria com a Câmara 
+ Municipal de Águeda e a Junta de Freguesia de Recardães irá organizar no
+  próximo dia&nbsp;31 de maio de 2026\,  no lugar de Recardães – Águeda
+  o&nbsp;Grande Prémio de Atletismo de São Miguel de Recardães. O percurs
+ o da prova principal é[..]\nhttps://www.portugalrunning.com/eventos/grande
+ -premio-de-atletismo-de-recardaes/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-recardaes/
+END:VEVENT
+END:VCALENDAR
