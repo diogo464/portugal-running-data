@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69e46f7e0a46b
+DTSTAMP:20260419T060030Z
+DTSTART:20261003
+DTEND:20261004
+LOCATION:Armamar\,  Viseu Armamar\,  Viseu
+SUMMARY:Trail e Caminhada Rota da Maçã de Montanha 2026
+DESCRIPTION:A Organização do Trail e Caminhada encontra-se integrada na e
+ dição da Feira da Maçã de Montanha de 2026\,  sendo da responsabilidade
+  da Câmara Municipal de Armamar e terá lugar a 3 de outubro de 2026 às 1
+ 5h. A concentração será junto à Camara Municipal\,  local onde funciona
+ rá a logística associada[..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-e-caminhada-rota-da-maca-de-montanha/
+URL:https://www.portugalrunning.com/eventos/trail-e-caminhada-rota-da-maca-de-montanha/
+END:VEVENT
+END:VCALENDAR

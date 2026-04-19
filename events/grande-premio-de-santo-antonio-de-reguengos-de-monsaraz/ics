@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69e46f7c4c3d0
+DTSTAMP:20260419T060028Z
+DTSTART:20260614T135400Z
+DTEND:20260614T235900Z
+LOCATION:Reguengos de Monsaraz\,  Évora Reguengos de Monsaraz\,  Évora
+SUMMARY:Grande Prémio de Santo António de Reguengos de Monsaraz 2026
+DESCRIPTION:O Grande Prémio de Santo António de Reguengos de Monsaraz aco
+ ntece a 14 de Junho.\nhttps://www.portugalrunning.com/eventos/grande-premio
+ -de-santo-antonio-de-reguengos-de-monsaraz/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-santo-antonio-de-reguengos-de-monsaraz/
+END:VEVENT
+END:VCALENDAR

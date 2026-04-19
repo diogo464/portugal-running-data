@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69e46f7d3c5c3
+DTSTAMP:20260419T060029Z
+DTSTART:20260621T081300Z
+DTEND:20260621T081300Z
+LOCATION:Ourém\,  Santarém Ourém\,  Santarém
+SUMMARY:Corrida Cidade de Ourém 2026
+DESCRIPTION:A Juventude Ouriense\,  com o apoio da Câmara Municipal de Our
+ ém\,  organiza\,  no dia 21 de Junho de 2026\,  pelas 9h00\,  a 1ª ediç�
+ �o da prova denominada “Corrida Cidade de Ourém”. ● A I Corrida da C
+ idade de Ourém – Pingo Doce será realizada no dia 21 de junho de[..]\nh
+ ttps://www.portugalrunning.com/eventos/corrida-cidade-de-ourem/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-ourem/
+END:VEVENT
+END:VCALENDAR

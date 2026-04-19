@@ -4,18 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a31acda1
-DTSTAMP:20260320T110625Z
+UID:69e46f7e07845
+DTSTAMP:20260419T060030Z
 DTSTART:20260502
 DTEND:20260503
-LOCATION:Quintela de Orgens\,  Viseu Quintela de Orgens\,  Viseu
+LOCATION:Romariz\,  Santa Maria da Feira Romariz\,  Santa Maria da Feira
 SUMMARY:Trail Rota do Castro 2026
-DESCRIPTION:O VI Trail Rota do Crasto é um evento desportivo de corrida em
-  trilhos organizado pela secção de Atletismo/Trail Running da&nbsp;ASDREQ
- &nbsp;– Associação Social Desportiva Recreativa Educativa e Cultural de
-  Quintela\,  contando com o apoio de vários parceiros. A 6.ª edição do&
- nbsp;Trail da Rota do Crasto&nbsp;será semelhante à edição anterior\,  
- mantendo[..]\nhttps://www.portugalrunning.com/eventos/trail-rota-do-castro/
+DESCRIPTION:A quinta edição do Trail Rota do Castro pretende promover a p
+ rática desportiva\,  em geral\,  o desporto pela Natureza. Esta prova é o
+ rganizada pela Junta de Freguesia de Romariz em parceria com o Município d
+ e Santa Maria da Feira.\nhttps://www.portugalrunning.com/eventos/trail-rota
+ -do-castro/
 URL:https://www.portugalrunning.com/eventos/trail-rota-do-castro/
 END:VEVENT
 END:VCALENDAR

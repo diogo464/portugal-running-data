@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69e46f7d0cb1d
+DTSTAMP:20260419T060029Z
+DTSTART:20260926
+DTEND:20260927
+LOCATION:Penafirme\,  Torres Vedras Penafirme\,  Torres Vedras
+SUMMARY:Pé Firme Trail 2026
+DESCRIPTION:O Clube Académico de Penafirme convida-o a participar no Tr
+ ail Pé Firme 2026\,  um evento épico que celebra a história local\,  o d
+ esporto e a beleza natural da Zona Oeste. Nos dias 26 e 27 de Setembro\,  
+ durante a Semana Europeia do Desporto\,  prepare-se para desafiar os seus l
+ imites e viver uma experiência inesquecível[..]\nhttps://www.portugalrunn
+ ing.com/eventos/pe-firme-trail/
+URL:https://www.portugalrunning.com/eventos/pe-firme-trail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69e46f7c4b6e5
+DTSTAMP:20260419T060028Z
+DTSTART:20260912T214100Z
+DTEND:20260912T235900Z
+LOCATION:Vila Nova da Barquinha\,  Santarém Vila Nova da Barquinha\,  Santarém
+SUMMARY:Barquinha Night Run 2026
+DESCRIPTION:Marca já na tua agenda\,  no dia 12 de setembro de 2026 cont
+ amos com a tua presençae da tua família para mais uma edição da Barquin
+ ha Night Run!\nhttps://www.portugalrunning.com/eventos/barquinha-night-run/
+URL:https://www.portugalrunning.com/eventos/barquinha-night-run/
+END:VEVENT
+END:VCALENDAR

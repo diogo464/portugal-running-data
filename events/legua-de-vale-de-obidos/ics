@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69e46f7ca242e
+DTSTAMP:20260419T060028Z
+DTSTART:20260426
+DTEND:20260427
+LOCATION:Vale de Óbidos\,  Rio Maior Vale de Óbidos\,  Rio Maior
+SUMMARY:Légua de Vale de Óbidos 2026
+DESCRIPTION:A 8.ª prova “Légua de Vale de Óbidos”\,  a realizar no p
+ róximo dia 26 de abril de 2026 tem partida e a chegada na Rua da Associaç
+ ão\,  junto à ARDC Vale de Óbidos.\nhttps://www.portugalrunning.com/even
+ tos/legua-de-vale-de-obidos/
+URL:https://www.portugalrunning.com/eventos/legua-de-vale-de-obidos/
+END:VEVENT
+END:VCALENDAR
