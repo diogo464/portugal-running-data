@@ -2,7 +2,46 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-04-18T18:24:46+00:00</lastmod>
+		<lastmod>2026-04-22T23:10:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/mikkeller-world-run/</loc>
+		<lastmod>2026-04-22T23:10:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/93e1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-penedo-da-moura/</loc>
+		<lastmod>2026-04-22T23:08:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/1344.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/milha-urbana-da-cerveja/</loc>
+		<lastmod>2026-04-22T23:06:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/43ec.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-popular-da-costa-nova-do-prado/</loc>
+		<lastmod>2026-04-22T22:49:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-da-malaposta/</loc>
+		<lastmod>2026-04-22T22:47:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/6821c7cb76026_3910_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-santo-isidro-1a-edicao/</loc>
+		<lastmod>2026-04-22T22:45:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/698df57d2a957_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-francisco-lazaro/</loc>
@@ -3333,13 +3372,6 @@
 		<lastmod>2026-02-14T22:25:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/banner-caminhada-corrida-universidade-coimbra-2026-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-santo-isidro-1a-edicao/</loc>
-		<lastmod>2026-02-14T22:17:45+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/698df57d2a957_cartaz-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

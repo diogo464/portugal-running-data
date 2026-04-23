@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69e9b579ab3cc
+DTSTAMP:20260423T060025Z
+DTSTART:20260711
+DTEND:20260712
+LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+SUMMARY:Mikkeller World Run 2026
+DESCRIPTION:A 9TH Mikkeller World Beer Run 2026 realizar-se-á no próximo 
+ dia 11 de Julho de 2026 pelas 16:00h\,  com partida e chegada na zona hist�
+ �rica de Caminha. A prova é organizada pelo Atlético Clube de Caminha\,  
+ com o apoio do Município de Caminha e é parte integrante do evento ARTBEE
+ RFEST[..]\nhttps://www.portugalrunning.com/eventos/mikkeller-world-run/
+URL:https://www.portugalrunning.com/eventos/mikkeller-world-run/
+END:VEVENT
+END:VCALENDAR

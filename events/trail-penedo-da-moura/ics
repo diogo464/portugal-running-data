@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69e9b57ae7dc3
+DTSTAMP:20260423T060026Z
+DTSTART:20260711
+DTEND:20260712
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:Trail Penedo da Moura 2026
+DESCRIPTION:O Evento terá lugar na freguesia de Mogege\,  Concelho de Vila
+  Nova de Famalicão.Procura fomentar a prática de atividade desportiva ao 
+ ar livre e o contacto com a natureza\,  sensibilizando para a proteção da
+ s florestas\,  dos espaços verdes e do ambiente em geral\,  levando essa c
+ onsciência para exercício em contexto[..]\nhttps://www.portugalrunning.co
+ m/eventos/trail-penedo-da-moura/
+URL:https://www.portugalrunning.com/eventos/trail-penedo-da-moura/
+END:VEVENT
+END:VCALENDAR

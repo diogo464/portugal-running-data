@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69e9b579a8d6f
+DTSTAMP:20260423T060025Z
+DTSTART:20260627
+DTEND:20260628
+LOCATION:Costa Nova\,  Ílhavo Costa Nova\,  Ílhavo\,  Aveiro
+SUMMARY:Corrida Popular da Costa Nova do Prado 2026
+DESCRIPTION:A Corrida Popular da Costa Nova do Prado\,  realizada na pitore
+ sca Costa Nova do Prado\,  é uma prova de referência no calendário nacio
+ nal de atletismo. Com um percurso plano e rápido ao longo da Ria de Aveiro
+ \,  ligando a Costa Nova à Vagueira\,  proporciona condições ideais tant
+ o para atletas em[..]\nhttps://www.portugalrunning.com/eventos/corrida-popu
+ lar-da-costa-nova-do-prado/
+URL:https://www.portugalrunning.com/eventos/corrida-popular-da-costa-nova-do-prado/
+END:VEVENT
+END:VCALENDAR
