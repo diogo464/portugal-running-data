@@ -4,18 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69eb06ff9a713
-DTSTAMP:20260424T060031Z
+UID:69eb0c2865966
+DTSTAMP:20260424T062232Z
 DTSTART:20260426
 DTEND:20260427
 LOCATION:Aveiro Aveiro
 SUMMARY:Maratona da Europa (Aveiro) 2026
-DESCRIPTION:Percursos provas ⚡ Snapshot Data: 26 de abril de 2026 Local: 
- Aveiro Distância: 42\, 195 km (Maratona)\,  21 km (Meia Maratona)\,  10 km
-  (Mini Maratona) Piso: Asfalto 📝 O Desafio A Maratona da Europa é recon
- hecida pelo seu percurso extremamente plano\,  o que exige uma gestão rigo
- rosa da tração e do[..]\nhttps://www.portugalrunning.com/eventos/maratona
- -da-europa/
+DESCRIPTION:Aveiro prepara-se para a sua maior edição de sempre. Com mais
+  de 20.000 atletas de todo o mundo\,  a Maratona da Europa não é apenas u
+ ma corrida — é uma celebração da Região Centro. Se vais correr ou apo
+ iar\,  prepara-te para um cenário único entre os canais e a Ria.[..]\nhtt
+ ps://www.portugalrunning.com/eventos/maratona-da-europa/
 URL:https://www.portugalrunning.com/eventos/maratona-da-europa/
 END:VEVENT
 END:VCALENDAR
