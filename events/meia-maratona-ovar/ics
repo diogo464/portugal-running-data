@@ -4,13 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:696c22aec0ebc
-DTSTAMP:20260118T000046Z
+UID:69eb115911b98
+DTSTAMP:20260424T064441Z
 DTSTART:20261005
 DTEND:20261006
 LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
 SUMMARY:Meia Maratona Ovar 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/meia-maratona-ovar/
+DESCRIPTION:Correr em Ovar é correr numa das cidades mais hospitaleiras de
+  Portugal. Conhecida pelo seu percurso rápido e pela entrega total da popu
+ lação\,  a Meia Maratona de Ovar é uma prova "de culto" para os atletas 
+ federados e amadores que procuram testar a sua forma num traçado sem grand
+ es desníveis.[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-o
+ var/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-ovar/
 END:VEVENT
 END:VCALENDAR

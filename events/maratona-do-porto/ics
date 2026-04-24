@@ -4,17 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c4b059c
-DTSTAMP:20260201T000108Z
+UID:69eb1158520f6
+DTSTAMP:20260424T064440Z
 DTSTART:20261108
 DTEND:20261109
 LOCATION:Porto Porto
 SUMMARY:Maratona do Porto 2026
-DESCRIPTION:A EDP Maratona do Porto com os seus 21 anos de vida\,  inicia a
-  sua campanha de divulgação\,  com vista à 22ª. Edição\,  em 2026 a 8
-  de novembro\,  com início às 8h00\,  e tal como no passado\,  pretendemo
- s fazer desta EDP Maratona do Porto\,  um evento de referência nacional[..
- ]\nhttps://www.portugalrunning.com/eventos/maratona-do-porto/
+DESCRIPTION:Correr no Porto é sentir a alma de uma cidade que é Patrimón
+ io Mundial. Conhecida pelo seu percurso plano e rápido\,  a Maratona do Po
+ rto atrai milhares de estrangeiros que procuram aliar a performance desport
+ iva à cultura e gastronomia únicas do Norte de Portugal. 📅 Informaçõ
+ es de Última Hora Data:[..]\nhttps://www.portugalrunning.com/eventos/marat
+ ona-do-porto/
 URL:https://www.portugalrunning.com/eventos/maratona-do-porto/
 END:VEVENT
 END:VCALENDAR
