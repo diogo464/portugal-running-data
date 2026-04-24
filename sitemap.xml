@@ -2,20 +2,34 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-04-24T06:21:33+00:00</lastmod>
+		<lastmod>2026-04-24T06:32:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-douro-vinhateiro/</loc>
+		<lastmod>2026-04-24T06:32:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/Meia-Maratona-Douro-Vinhateiro-2026-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-londres/</loc>
+		<lastmod>2026-04-24T06:28:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/426393138_778111567697746_2729899511364575930_n.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-madrid-2026/</loc>
+		<lastmod>2026-04-24T06:22:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/486643211_29106493365631370_2358731217252970512_n-1-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-da-europa/</loc>
 		<lastmod>2026-04-24T06:21:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/495142467_1231633275639490_990344284196665125_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-de-londres/</loc>
-		<lastmod>2026-04-24T06:19:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/495148014_1072841391558094_1162197775773317896_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -689,13 +703,6 @@
 		<lastmod>2026-04-07T07:44:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/03/editaveis-45-750x380-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-douro-vinhateiro/</loc>
-		<lastmod>2026-04-06T22:42:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/Meia-Maratona-Douro-Vinhateiro-2026-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5554,13 +5561,6 @@
 		<lastmod>2025-11-10T21:13:17+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/07/357113686_659638572857946_5871584748587599145_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-madrid-2026/</loc>
-		<lastmod>2025-11-09T00:47:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/486643211_29106493365631370_2358731217252970512_n-1-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
