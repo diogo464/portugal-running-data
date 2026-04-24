@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb06fe9f359
+DTSTAMP:20260424T060030Z
+DTSTART:20260523
+DTEND:20260524
+LOCATION:Rio de Frades\,  Aveiro Rio de Frades\,  Aveiro
+SUMMARY:As Voltas do Impossível 2026
+DESCRIPTION:As Voltas do Impossível são uma aventura de UltraTrail\,  rea
+ lizada na Serra da Freita\,  nas imediações da povoação de Rio de Frade
+ s.O percurso tem 105 Kms (distância aproximada).A corrida está limitada a
+  15 horas.\nhttps://www.portugalrunning.com/eventos/as-voltas-do-impossivel
+ /
+URL:https://www.portugalrunning.com/eventos/as-voltas-do-impossivel/
+END:VEVENT
+END:VCALENDAR

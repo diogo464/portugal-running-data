@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb06feec590
+DTSTAMP:20260424T060030Z
+DTSTART:20260614T111400Z
+DTEND:20260614T111400Z
+LOCATION:Leiria Leiria
+SUMMARY:Fluffy Xtreme 2026
+DESCRIPTION:Prepara-te para correr\,  saltar\,  sujar-te e rir muito num pe
+ rcurso cheio de obstáculos\,  água\,  lama e desafios inesperados\,  semp
+ re lado a lado com o teu melhor amigo de quatro patas. Aqui não há pressa
+  nem competição (a não ser para ver quem se diverte mais). Cada dupla es
+ colhe o seu[..]\nhttps://www.portugalrunning.com/eventos/fluffy-xtreme/
+URL:https://www.portugalrunning.com/eventos/fluffy-xtreme/
+END:VEVENT
+END:VCALENDAR

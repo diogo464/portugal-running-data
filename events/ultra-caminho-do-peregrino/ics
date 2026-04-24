@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb070156bb0
+DTSTAMP:20260424T060033Z
+DTSTART:20260904T213300Z
+DTEND:20260904T213300Z
+LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+SUMMARY:Ultra Caminho do Peregrino 2026
+DESCRIPTION:O Ultra Caminho do Peregrino é um evento organizado pela Fundi
+ sta – Agência de Marketing Desportivo\,  que decorrerá entre os dias 4 
+ e 6 de setembro de 2026. A experiência percorre o Caminho Português Centr
+ al\,  ligando Barcelos (Portugal) a Santiago de Compostela (Espanha)\,  ao 
+ longo de aproximadamente 188 km\,  afirmando-se[..]\nhttps://www.portugalru
+ nning.com/eventos/ultra-caminho-do-peregrino/
+URL:https://www.portugalrunning.com/eventos/ultra-caminho-do-peregrino/
+END:VEVENT
+END:VCALENDAR

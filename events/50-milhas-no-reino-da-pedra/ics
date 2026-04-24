@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb06ff41cd5
+DTSTAMP:20260424T060031Z
+DTSTART:20260919T211700Z
+DTEND:20260919T211700Z
+LOCATION:Porto de Mós\,  Leiria Porto de Mós\,  Leiria
+SUMMARY:50 Milhas – No Reino da Pedra 2026
+DESCRIPTION:A prova de trail running&nbsp;50 Milhas No Reino da Pedra&nbsp;
+ \,  incluindo os 12 K trail Sprint e a caminhada do Reino da Pedra\,  é or
+ ganizada por&nbsp;Associação PMC\,  com o apoio de&nbsp;Freguesia de Alqu
+ eidão da Serra&nbsp;e do&nbsp;CCR Alqueidão da Serra. Data e Local O even
+ to realiza-se no dia&nbsp;19 Setembro 2026\,  em&nbsp;Alqueidão[..]\nhttps
+ ://www.portugalrunning.com/eventos/50-milhas-no-reino-da-pedra/
+URL:https://www.portugalrunning.com/eventos/50-milhas-no-reino-da-pedra/
+END:VEVENT
+END:VCALENDAR

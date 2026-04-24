@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb0700cff53
+DTSTAMP:20260424T060032Z
+DTSTART:20260510T211200Z
+DTEND:20260510T211200Z
+LOCATION:Coimbra Coimbra
+SUMMARY:Uma Corrida para o Futuro - Run4Future 2026
+DESCRIPTION:A&nbsp;Comissão Organizadora da Queima das Fitas 2026&nbsp;e o
+ &nbsp;Conselho Geral da Universidade de Coimbra\,  com o apoio da&nbsp;Câm
+ ara Municipal de Coimbra\,  organiza no dia&nbsp;10 de maio de 2026\,  pela
+ s 10h a&nbsp;2ª edição&nbsp;de uma prova solidária denominada&nbsp;“U
+ ma Corrida para o Futuro - Run4Future”. O local de partida será na Porta
+  Férrea e[..]\nhttps://www.portugalrunning.com/eventos/uma-corrida-para-o-
+ futuro-run4future/
+URL:https://www.portugalrunning.com/eventos/uma-corrida-para-o-futuro-run4future/
+END:VEVENT
+END:VCALENDAR

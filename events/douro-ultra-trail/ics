@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb06fe88a77
+DTSTAMP:20260424T060030Z
+DTSTART:20261009
+DTEND:20261010
+LOCATION:Peso da Régua\,  Vila Real Peso da Régua\,  Vila Real
+SUMMARY:Douro Ultra Trail 2026
+DESCRIPTION:A Nexplore Lda. é a entidade organizadora do evento denominado
+  DOURO ULTRA TRAIL®\,  de agora em diante designado DUT\,  que decorrerá 
+ nos dias 9 e 10 de Outubro de 2026. A denominação DOURO ULTRA TRAIL® é 
+ uma marca registada pertencente à entidade organizadora. O DUT é um event
+ o de Trail[..]\nhttps://www.portugalrunning.com/eventos/douro-ultra-trail/
+URL:https://www.portugalrunning.com/eventos/douro-ultra-trail/
+END:VEVENT
+END:VCALENDAR

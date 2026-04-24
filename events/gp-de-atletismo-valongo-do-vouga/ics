@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb06fec38c9
+DTSTAMP:20260424T060030Z
+DTSTART:20260613T110900Z
+DTEND:20260713T110900Z
+LOCATION:Valongo do Vouga\,  Águeda Valongo do Vouga\,  Águeda
+SUMMARY:GP de Atletismo Valongo do Vouga 2026
+DESCRIPTION:O&nbsp;1º Grande Prémio de Atletismo – Travocar – Vila de
+  Valongo do Vouga&nbsp;é organizado pela Junta de Freguesia de Valongo do 
+ Vouga\,  com o apoio de várias entidades e patrocinadores\,  destacando-se
+  a&nbsp;Travocar – Lubrificantes\,  Lda&nbsp;que dá nome à primeira edi
+ ção do evento. O evento desportivo “1º Grande Prémio de Atletismo[..]
+ \nhttps://www.portugalrunning.com/eventos/gp-de-atletismo-valongo-do-vouga/
+URL:https://www.portugalrunning.com/eventos/gp-de-atletismo-valongo-do-vouga/
+END:VEVENT
+END:VCALENDAR

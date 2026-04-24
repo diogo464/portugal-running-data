@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb06ff64ea3
+DTSTAMP:20260424T060031Z
+DTSTART:20260712T142500Z
+DTEND:20260712T235900Z
+LOCATION:Povoação da Passagem\,  Vieira de Leiria Povoação da Passagem\,  Vieira de Leiria
+SUMMARY:Cross Trail Campos do Lis 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/cross-trail-campos-do
+ -lis/
+URL:https://www.portugalrunning.com/eventos/cross-trail-campos-do-lis/
+END:VEVENT
+END:VCALENDAR

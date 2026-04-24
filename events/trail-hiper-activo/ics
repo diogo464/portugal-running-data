@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb0700d616c
+DTSTAMP:20260424T060032Z
+DTSTART:20261018T144400Z
+DTEND:20261018T235900Z
+LOCATION:Póvoa da Galega\,  Mafra Póvoa da Galega\,  Mafra
+SUMMARY:Trail Hiper-Activo 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-hiper-activo/
+URL:https://www.portugalrunning.com/eventos/trail-hiper-activo/
+END:VEVENT
+END:VCALENDAR

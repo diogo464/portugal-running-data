@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb06ff4fea5
+DTSTAMP:20260424T060031Z
+DTSTART:20260610T083500Z
+DTEND:20260610T235900Z
+LOCATION:Alcanede\,  Santarém Alcanede\,  Santarém
+SUMMARY:Convívio Adar Trail 2026
+DESCRIPTION:Data: 10 de Junho de 2026 (feriado)Local: Aldeia da Ribeira –
+  Alcanede(junto ao Centro Cultural e Recreativo de Aldeia da Ribeira)\nhttp
+ s://www.portugalrunning.com/eventos/convivio-adar-trail/
+URL:https://www.portugalrunning.com/eventos/convivio-adar-trail/
+END:VEVENT
+END:VCALENDAR

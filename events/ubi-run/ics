@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb0700eff72
+DTSTAMP:20260424T060032Z
+DTSTART:20260524T214400Z
+DTEND:20260524T214400Z
+LOCATION:Covilhã\,  Castelo Branco Covilhã\,  Castelo Branco
+SUMMARY:UBI Run 2026
+DESCRIPTION:UBI RUN – Edição “40 anos UBI” Integrada nas comemoraç
+ ões dos 40 anos da Universidade da Beira Interior em coorganização com a
+  AAUBI e com o Município da Covilhã\,  inserindo este evento na semana da
+  “Covilhã Desportiva 2026”. Um evento que conta com suporte técnico e
+ specializado da PTN – EVENTOS[..]\nhttps://www.portugalrunning.com/evento
+ s/ubi-run/
+URL:https://www.portugalrunning.com/eventos/ubi-run/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb06feeedd2
+DTSTAMP:20260424T060030Z
+DTSTART:20260508
+DTEND:20260509
+LOCATION:Almancil\,  Loulé Almancil\,  Loulé
+SUMMARY:Algarve Night Run 2026
+DESCRIPTION:Numa co-organização da Free Challenge\,  MAR Shopping Algarve
+ \,  Designer Outlet Algarve\,  realiza-se no dia 08 de maio de 2026\,  a "A
+ lgarve Night Run"\,  com a parceria da Nike e com início agendado paraàs 
+ 23h30m no Designer Outlet Algarve na freguesia Almancil\,  concelho de Loul
+ é. A competição irá decorrer no Designer[..]\nhttps://www.portugalrunni
+ ng.com/eventos/algarve-night-run/
+URL:https://www.portugalrunning.com/eventos/algarve-night-run/
+END:VEVENT
+END:VCALENDAR

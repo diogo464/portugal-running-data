@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69eb070102926
+DTSTAMP:20260424T060033Z
+DTSTART:20260607
+DTEND:20260608
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Vertical Sta Luzia 2026
+DESCRIPTION:O V Vertical Elevador de Sta. Luzia é uma prova nacional e re
+ gional\,  organizada pela Associação Trilhos de Viana\,  em estreita cola
+ boração com a Federação de Campismo e Montanhismo de Portugal. Conta ai
+ nda com o apoio da Câmara Municipal de Viana do Castelo. Será realizada n
+ o dia 07 de Junho de[..]\nhttps://www.portugalrunning.com/eventos/vertical-
+ sta-luzia/
+URL:https://www.portugalrunning.com/eventos/vertical-sta-luzia/
+END:VEVENT
+END:VCALENDAR
