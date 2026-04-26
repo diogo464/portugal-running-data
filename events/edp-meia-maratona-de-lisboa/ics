@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69edaa05d9808
+DTSTAMP:20260426T060037Z
+DTSTART:20270307
+DTEND:20270308
+LOCATION:Lisboa Lisboa
+SUMMARY:EDP Meia Maratona de Lisboa 2027
+DESCRIPTION:Resultados 2026 A EDP Meia Maratona de Lisboa é a única prova
+  portuguesa no prestigiado circuito SuperHalfs e o maior evento de corrida 
+ de Portugal\,  reunindo anualmente mais de 30 mil participantes de todo o m
+ undo numa experiência única de desporto e turismo. Realizada tradicionalm
+ ente em março\,  destaca-se pela partida[..]\nhttps://www.portugalrunning.
+ com/eventos/edp-meia-maratona-de-lisboa/
+URL:https://www.portugalrunning.com/eventos/edp-meia-maratona-de-lisboa/
+END:VEVENT
+END:VCALENDAR

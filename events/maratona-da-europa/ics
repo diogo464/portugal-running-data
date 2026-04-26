@@ -4,17 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69eb0c2865966
-DTSTAMP:20260424T062232Z
+UID:69edaa068f103
+DTSTAMP:20260426T060038Z
 DTSTART:20260426
 DTEND:20260427
 LOCATION:Aveiro Aveiro
 SUMMARY:Maratona da Europa (Aveiro) 2026
-DESCRIPTION:Aveiro prepara-se para a sua maior edição de sempre. Com mais
-  de 20.000 atletas de todo o mundo\,  a Maratona da Europa não é apenas u
- ma corrida — é uma celebração da Região Centro. Se vais correr ou apo
- iar\,  prepara-te para um cenário único entre os canais e a Ria.[..]\nhtt
- ps://www.portugalrunning.com/eventos/maratona-da-europa/
+DESCRIPTION:Resultados Maratona Europa Aveiro prepara-se para a sua maior e
+ dição de sempre. Com mais de 20.000 atletas de todo o mundo\,  a Maratona
+  da Europa não é apenas uma corrida — é uma celebração da Região Ce
+ ntro. Se vais correr ou apoiar\,  prepara-te para um cenário único entre 
+ os canais[..]\nhttps://www.portugalrunning.com/eventos/maratona-da-europa/
 URL:https://www.portugalrunning.com/eventos/maratona-da-europa/
 END:VEVENT
 END:VCALENDAR
