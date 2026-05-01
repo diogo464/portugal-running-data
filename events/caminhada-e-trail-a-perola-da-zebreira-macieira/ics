@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f4e75f62978
+DTSTAMP:20260501T174815Z
+DTSTART:20260531
+DTEND:20260601
+LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+SUMMARY:Caminhada e Trail "A Pérola da Zebreira" 2026
+DESCRIPTION:A Caminhada e Trail “A Pérola da Zebreira” são organizado
+ s pela União de Freguesias de Ferreirim e Macieira\,  Câmara Municipal de
+  Sernancelhe e Comissão de Festas de Macieira\,  no dia 31 de maio de 2026
+ \,  na freguesia de Macieira. Este evento não tem cariz competitivo\,  e t
+ em como objetivo promover[..]\nhttps://www.portugalrunning.com/eventos/cami
+ nhada-e-trail-a-perola-da-zebreira-macieira/
+URL:https://www.portugalrunning.com/eventos/caminhada-e-trail-a-perola-da-zebreira-macieira/
+END:VEVENT
+END:VCALENDAR

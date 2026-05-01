@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f4e75fdf918
+DTSTAMP:20260501T174815Z
+DTSTART:20260606
+DTEND:20260607
+LOCATION:Vila Real Vila Real
+SUMMARY:Night Run Vila Real 2026
+DESCRIPTION:Realiza-se no dia 06 de Junho de 2026\,  pelas 22h00\,  com Par
+ tida e Chegada na Avª Carvalho Araújo a 11ª Night Run Cidade de Vila Rea
+ l. Será uma corrida de 10 km\,  para atletas federados e não federados na
+ scidos em 2008 e anteriores.\nhttps://www.portugalrunning.com/eventos/night
+ -run-vila-real/
+URL:https://www.portugalrunning.com/eventos/night-run-vila-real/
+END:VEVENT
+END:VCALENDAR

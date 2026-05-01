@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f4e75fc5531
+DTSTAMP:20260501T174815Z
+DTSTART:20260621
+DTEND:20260622
+LOCATION:Lamego\,  Viseu Lamego\,  Viseu
+SUMMARY:Lamecum Trail 2026
+DESCRIPTION:O Município de Lamego em parceria com a Associação Desportiv
+ a de Avões e a Associação de Terras Dom Pedro\,  apoio de diversas entid
+ ades públicas\,  associativas e privadas\,  organizam a sexta edição do 
+ eventoLamecum Trail\,  que decorrerá no dia 21 de junho\,  na cidade de La
+ mego\,  independentemente das condições climatéricas do[..]\nhttps://www
+ .portugalrunning.com/eventos/lamecum-trail/
+URL:https://www.portugalrunning.com/eventos/lamecum-trail/
+END:VEVENT
+END:VCALENDAR

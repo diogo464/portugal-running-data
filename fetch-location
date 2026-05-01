@@ -183,7 +183,7 @@ class GoogleGeocodingClient:
             response = requests.get(url)
             response.raise_for_status()
             content = response.content
-            # print(f"GEOCODING|Google API content|{location}|{content}")
+            print(f"GEOCODING|Google API content|{location}|{content}")
             data = json.loads(content)
             print(data)
             result = data["results"][0]
@@ -221,6 +221,7 @@ FIXUP_TABLE = {
     "Alcaria da Serra, Beja": "Alcaria da Serra",
     # this seems to have been a typo in the ICS file so we just fix it here
     "Cabeço de Vida, Fontreira": "Cabeço de Vide, Fontreira",
+    "São Miguel da Carreira, Barcelos": "União das freguesias de Carreira e Fonte Coberta",
 }
 
 key = os.environ[ENV_GOOGLE_MAPS_API_KEY]

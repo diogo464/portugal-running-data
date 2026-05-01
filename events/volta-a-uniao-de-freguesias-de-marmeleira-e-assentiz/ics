@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f4e7601ebae
+DTSTAMP:20260501T174816Z
+DTSTART:20260510T130300Z
+DTEND:20260510T235900Z
+LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
+SUMMARY:Volta à União de Freguesias de Marmeleira e Assentiz 2026
+DESCRIPTION:Torneio de Atletismo das Freguesias de Rio Maior | Jorge Miguel
+  10H00 – Benjamins A Fem./Masc. – 385 m10H10 – Benjamins B Fem./Masc.
+  – 615 m10H20 – Infantis Fem./Masc. - 840 m10H30 – Iniciados/Juvenis 
+ Fem./Masc. – 1\, 68 km10H50 – Juniores/Seniores/Veteranos Fem./Masc. �
+ � 6\, 3 km13H00 - Almoço convívio (Inscrições Gratuitas |[..]\nhttps://
+ www.portugalrunning.com/eventos/volta-a-uniao-de-freguesias-de-marmeleira-e
+ -assentiz/
+URL:https://www.portugalrunning.com/eventos/volta-a-uniao-de-freguesias-de-marmeleira-e-assentiz/
+END:VEVENT
+END:VCALENDAR

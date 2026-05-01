@@ -4,13 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6972ba1b098eb
-DTSTAMP:20260123T000027Z
+UID:69f4e75f31a8e
+DTSTAMP:20260501T174815Z
 DTSTART:20261018
 DTEND:20261019
 LOCATION:Leiria Leiria
 SUMMARY:Meia Maratona Leiria 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/meia-maratona-leiria/
+DESCRIPTION:A&nbsp;MEIA MARATONA LEIRIA&nbsp;é um evento de excelência\, 
+  com dinâmicas que irão permitir momentos fantásticos. Uma prova amplame
+ nte reconhecida no panorama nacional e internacionalmente reconhecida\,  um
+  evento que para além de ser competitivo é um evento de emoções! Sintam
+ -se assim\,  todos convidados a participar e vivenciar a cidade de Leiria. 
+ O[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-leiria/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-leiria/
 END:VEVENT
 END:VCALENDAR

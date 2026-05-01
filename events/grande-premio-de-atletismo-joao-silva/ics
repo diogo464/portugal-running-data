@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f4e75fdbba1
+DTSTAMP:20260501T174815Z
+DTSTART:20260610T111400Z
+DTEND:20260610T235900Z
+LOCATION:Praia de Mira\,  Mira Praia de Mira\,  Mira
+SUMMARY:Grande Prémio de Atletismo João Silva 2026
+DESCRIPTION:O Centro Cultural da Praia de Mira\,  volta a organizar o Grand
+ e Prémio de Atletismo Concelho de Mira. O evento contará com a parceria d
+ a Câmara Municipal de Mira e da Junta de Freguesia de Praia de Mira para v
+ oltar a assumir-se como evento de referência na região\,  no segmento[..]
+ \nhttps://www.portugalrunning.com/eventos/grande-premio-de-atletismo-joao-s
+ ilva/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-joao-silva/
+END:VEVENT
+END:VCALENDAR

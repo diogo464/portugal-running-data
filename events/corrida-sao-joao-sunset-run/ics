@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f4e75fdd829
+DTSTAMP:20260501T174815Z
+DTSTART:20260627T181100Z
+DTEND:20260627T235900Z
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Corrida São João Sunset Run 2026
+DESCRIPTION:A Corrida São João Sunset Run 2026 é organizada pela Câmara
+  Municipal de Vila do Conde e Associação de Atletismo Vilacondense.\nhttp
+ s://www.portugalrunning.com/eventos/corrida-sao-joao-sunset-run/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-joao-sunset-run/
+END:VEVENT
+END:VCALENDAR

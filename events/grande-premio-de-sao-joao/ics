@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f4e75faecb0
+DTSTAMP:20260501T174815Z
+DTSTART:20260704
+DTEND:20260705
+LOCATION:Évora Évora
+SUMMARY:Grande Prémio de São João 2026
+DESCRIPTION:O XLIV Grande Prémio de São João de Atletismo 2026 realiza-s
+ e no dia 4 de julho de 2026\,  em Évora\, com partida e chegada no Complex
+ o Desportivo de Évora\nhttps://www.portugalrunning.com/eventos/grande-prem
+ io-de-sao-joao/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-sao-joao/
+END:VEVENT
+END:VCALENDAR

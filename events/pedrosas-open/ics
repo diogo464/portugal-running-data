@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f4e75fddc08
+DTSTAMP:20260501T174815Z
+DTSTART:20260719T110800Z
+DTEND:20260719T235900Z
+LOCATION:Pedrosas\,  Viseu Pedrosas\,  Viseu
+SUMMARY:Pedrosas Open 2026
+DESCRIPTION:O Trail Pedrosas Open é um evento desportivo de trail running 
+ que se realizará no dia 19 de julhode 2026.O número de participantes máx
+ imo no Trail Pedrosas Open será de 900\,  no total das 3 distâncias\, dis
+ tribuídos da seguinte forma: Trail - 150 participantes Mini Trail - 350 pa
+ rticipantes Caminhada –[..]\nhttps://www.portugalrunning.com/eventos/pedr
+ osas-open/
+URL:https://www.portugalrunning.com/eventos/pedrosas-open/
+END:VEVENT
+END:VCALENDAR

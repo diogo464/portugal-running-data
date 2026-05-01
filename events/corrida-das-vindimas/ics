@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f4e75fc3c05
+DTSTAMP:20260501T174815Z
+DTSTART:20260919
+DTEND:20260920
+LOCATION:Cartaxo\,  Santarém Cartaxo\,  Santarém
+SUMMARY:Corrida das Vindimas 2026
+DESCRIPTION:A IX CORRIDA DAS VINDIMAS – CARTAXO é organizada pelo Munic�
+ �pio do Cartaxo com o apoio da Escola de Atletismo Correr + do Cartaxo e do
+  e o Trilho dos Cágados.\nhttps://www.portugalrunning.com/eventos/corrida-
+ das-vindimas/
+URL:https://www.portugalrunning.com/eventos/corrida-das-vindimas/
+END:VEVENT
+END:VCALENDAR

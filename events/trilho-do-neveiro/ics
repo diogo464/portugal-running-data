@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f4e75fde768
+DTSTAMP:20260501T174815Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Castanheira de Pera\,  Leiria Castanheira de Pera\,  Leiria
+SUMMARY:Trilho do Neveiro 2026
+DESCRIPTION:O Trilho do Neveiro é organizado pela Prazilândia Turismo e A
+ mbiente E.M com o apoio e colaboração da Câmara Municipal de Castanheira
+  de Pera\,  União das Freguesias de Castanheira de Pera e Coentral e Bombe
+ iros Voluntários de Castanheira de Pera. Este evento pretende promover a v
+ ertente sul da Serra da[..]\nhttps://www.portugalrunning.com/eventos/trilho
+ -do-neveiro/
+URL:https://www.portugalrunning.com/eventos/trilho-do-neveiro/
+END:VEVENT
+END:VCALENDAR
