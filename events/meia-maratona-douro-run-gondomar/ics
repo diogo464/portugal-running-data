@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f59e3c6927f
+DTSTAMP:20260502T064828Z
+DTSTART:20260607
+DTEND:20260608
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Meia Maratona D´Ouro Run Gondomar 2026
+DESCRIPTION:Data: 7 de junho de 2026 Local: Valbom\,  Gondomar Distância: 
+ 21\, 1 km (Meia-Maratona)\,  10 km e 5 km Piso: Estrada (Asfalto) 📝 O De
+ safio A experiência nesta prova é marcada pela consistência da tração 
+ no asfalto liso da marginal de Valbom. O terreno apresenta uma inclinação
+  quase nula\,  permitindo a[..]\nhttps://www.portugalrunning.com/eventos/me
+ ia-maratona-douro-run-gondomar/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-douro-run-gondomar/
+END:VEVENT
+END:VCALENDAR
