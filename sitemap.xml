@@ -2,7 +2,42 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-05-02T06:16:22+00:00</lastmod>
+		<lastmod>2026-05-02T06:27:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-de-sao-joao-de-pereira/</loc>
+		<lastmod>2026-05-02T06:27:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/banner-corrida-popular-costa-nova-do-prado-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-popular-da-costa-nova-do-prado/</loc>
+		<lastmod>2026-05-02T06:27:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/banner-corrida-popular-costa-nova-do-prado-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sky-race-cucos/</loc>
+		<lastmod>2026-05-02T06:26:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/10/Pop3ha1190130-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-el-corte-ingles-gaia/</loc>
+		<lastmod>2026-05-02T06:24:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/eci_600x150.jpg.600x150_q95_crop_upscale.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-da-ascensao/</loc>
+		<lastmod>2026-05-02T06:23:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/69ea20a588295_Cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-1o-de-maio/</loc>
@@ -507,13 +542,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-da-ascensao/</loc>
-		<lastmod>2026-04-23T20:51:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/69ea20a588295_Cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-nos-trilhos-do-dao/</loc>
 		<lastmod>2026-04-23T20:47:08+00:00</lastmod>
 		<image:image>
@@ -589,10 +617,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/43ec.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-popular-da-costa-nova-do-prado/</loc>
-		<lastmod>2026-04-22T22:49:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trilhos-da-malaposta/</loc>
@@ -1059,10 +1083,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/03/editaveis-45-750x380-1.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-el-corte-ingles-gaia/</loc>
-		<lastmod>2026-04-06T19:58:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-da-lomba/</loc>
@@ -1616,10 +1636,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/69c49d6d84152_272448990_102973655631916_6230169175351274735_n.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-de-sao-joao-de-pereira/</loc>
-		<lastmod>2026-03-26T11:38:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-da-boa-viagem/</loc>
@@ -2189,13 +2205,6 @@
 		<lastmod>2026-03-19T08:35:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6956b848c9f9f_dmut_logo.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sky-race-cucos/</loc>
-		<lastmod>2026-03-19T08:35:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/10/Pop3ha1190130-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

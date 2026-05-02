@@ -4,13 +4,19 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69eb06ff39693
-DTSTAMP:20260424T060031Z
+UID:69f59992075ce
+DTSTAMP:20260502T062834Z
 DTSTART:20260517T204800Z
-DTEND:20260517T204800Z
+DTEND:20260517T235900Z
 LOCATION:Alenquer\,  Lisboa Alenquer\,  Lisboa
 SUMMARY:Corrida da Ascensão 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-da-ascensao/
+DESCRIPTION:Surge a Corrida da Ascensão\,  com o principal objetivo de con
+ tribuir para a promoção da modalidadeno nosso território\,  tornando-a n
+ uma referência\,  contribuindo ainda para o incremento da práticadesporti
+ va concelhia.A organização da Corrida sendo da responsabilidade do Munic�
+ �pio de Alenquer\,  é realizada emparceria com a Coletividade promotora de
+ sta modalidade e que[..]\nhttps://www.portugalrunning.com/eventos/corrida-d
+ a-ascensao/
 URL:https://www.portugalrunning.com/eventos/corrida-da-ascensao/
 END:VEVENT
 END:VCALENDAR
