@@ -2,7 +2,89 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-05-01T09:34:35+00:00</lastmod>
+		<lastmod>2026-05-02T06:00:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles-2025/</loc>
+		<lastmod>2026-05-02T06:00:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Percurso-10k.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto/</loc>
+		<lastmod>2026-05-02T05:58:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Captura-de-ecra-2025-11-06-025431-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Sao-Silvestre-2024-Info.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto-2025/</loc>
+		<lastmod>2026-05-02T05:57:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Captura-de-ecra-2025-11-06-025431-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Sao-Silvestre-2024-Info.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/</loc>
+		<lastmod>2026-05-02T05:56:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/452560064_875406111288305_2380562209917995650_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/Percurso-10k-Lisboa-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa-2025/</loc>
+		<lastmod>2026-05-02T05:56:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/452560064_875406111288305_2380562209917995650_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/Percurso-10k-Lisboa-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vodafone-10k/</loc>
+		<lastmod>2026-05-02T05:48:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/Vodafone-10k-2027.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vodafone-10k-2026/</loc>
+		<lastmod>2026-05-02T05:47:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/Vodafone-10k-2026-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/</loc>
+		<lastmod>2026-05-02T05:42:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/Edp-meia-maratona-lisboa.207.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/stone-race-ocr/</loc>
+		<lastmod>2026-05-02T05:36:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/hyrox-lisboa/</loc>
+		<lastmod>2026-05-02T05:33:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Hyrox-Lisboa-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/leiria-run/</loc>
@@ -28,10 +110,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/69f3c6f4c8163_321712659_509238054606726_5430968466819225350_n.webp</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/stone-race-ocr-2026/</loc>
-		<lastmod>2026-05-01T08:43:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/himalaias-trail/</loc>
@@ -273,13 +351,6 @@
 		<lastmod>2026-04-25T14:19:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/EDP-Meia-Maratona-Lisboa-2026-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/edp-meia-maratona-de-lisboa/</loc>
-		<lastmod>2026-04-25T14:18:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/Edp-meia-maratona-lisboa.207.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -903,13 +974,6 @@
 		<lastmod>2026-04-09T22:11:42+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/banner-gp-atletismo-albergaria-2026-min.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/hyrox-lisboa/</loc>
-		<lastmod>2026-04-09T22:10:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Hyrox-Lisboa-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3796,23 +3860,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/</loc>
-		<lastmod>2026-02-12T19:55:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Percurso-10k.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vodafone-10k/</loc>
-		<lastmod>2026-02-12T19:37:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/Vodafone-10k-2026-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-lisboa-2020/</loc>
 		<lastmod>2026-02-12T19:26:14+00:00</lastmod>
 		<image:image>
@@ -4640,16 +4687,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/</loc>
-		<lastmod>2026-01-27T04:53:27+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/452560064_875406111288305_2380562209917995650_n.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/Percurso-10k-Lisboa-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-manuela-machado/</loc>
 		<lastmod>2026-01-25T14:24:17+00:00</lastmod>
 		<image:image>
@@ -5091,16 +5128,6 @@
 		<lastmod>2025-12-30T00:43:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/pop_4ede78k879.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto/</loc>
-		<lastmod>2025-12-28T16:01:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Captura-de-ecra-2025-11-06-025431-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Sao-Silvestre-2024-Info.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

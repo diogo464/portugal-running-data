@@ -4,17 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69d89215e1074
-DTSTAMP:20260410T060053Z
+UID:69f5930e04e4a
+DTSTAMP:20260502T060046Z
 DTSTART:20260501T120700Z
 DTEND:20260501T235900Z
 LOCATION:Lisboa Lisboa
 SUMMARY:Hyrox Lisboa 2026
-DESCRIPTION:HYROX chega finalmente a Lisboa! Um dos eventos mais aguardados
- \,  com três dias de competição. A cidade das sete colinas\,  considerad
- a uma das mais bonitas do mundo\,  espera-te na Roxzone para definires um n
- ovo objetivo em 2026. Data: 01 a 03 de maio de 2026 Local: FIL (Feira Inter
- nacional de[..]\nhttps://www.portugalrunning.com/eventos/hyrox-lisboa/
+DESCRIPTION:Resultados HYROX chega finalmente a Lisboa! Um dos eventos mais
+  aguardados\,  com três dias de competição. A cidade das sete colinas\, 
+  considerada uma das mais bonitas do mundo\,  espera-te na Roxzone para def
+ inires um novo objetivo em 2026. Data: 01 a 03 de maio de 2026 Local: FIL (
+ Feira Internacional[..]\nhttps://www.portugalrunning.com/eventos/hyrox-lisb
+ oa/
 URL:https://www.portugalrunning.com/eventos/hyrox-lisboa/
 END:VEVENT
 END:VCALENDAR
