@@ -2,7 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-05-02T06:42:55+00:00</lastmod>
+		<lastmod>2026-05-02T08:38:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/oh-meu-deus/</loc>
+		<lastmod>2026-05-02T08:38:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/559281008_1247813864053342_2206001363602512162_n-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-douro-run-gondomar/</loc>
@@ -231,13 +238,6 @@
 		<lastmod>2026-04-30T20:02:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/69f1ea0cc9ebc_69892d5a72693_6973695a7a640_WhatsApp_Image_2026-01-23_at_12.27.17-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/oh-meu-deus/</loc>
-		<lastmod>2026-04-30T19:52:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/559281008_1247813864053342_2206001363602512162_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
