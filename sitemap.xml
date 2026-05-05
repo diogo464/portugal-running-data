@@ -2,7 +2,65 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-05-04T06:51:04+00:00</lastmod>
+		<lastmod>2026-05-04T07:45:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/</loc>
+		<lastmod>2026-05-04T07:45:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/452560064_875406111288305_2380562209917995650_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/Percurso-10k-Lisboa-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto/</loc>
+		<lastmod>2026-05-04T07:45:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Captura-de-ecra-2025-11-06-025431-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Sao-Silvestre-2024-Info.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/</loc>
+		<lastmod>2026-05-04T07:45:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Percurso-10k.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-cidade-de-gandra/</loc>
+		<lastmod>2026-05-04T07:44:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/fe9e39b7c516408cfdefdf787611a9a0.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-fernanda-ribeiro-2/</loc>
+		<lastmod>2026-05-04T07:18:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/Corrida-Fernanda-Ribeiro-2025-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/24-horas-a-correr-mem-martins-sintra/</loc>
+		<lastmod>2026-05-04T07:16:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/cartaz-v2.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/axtrail-series-3-janeiro-cima-baixo/</loc>
+		<lastmod>2026-05-04T06:54:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/69f67d092ff25_Captura_de_ecra_2026-05-02_as_23.37.23-1.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-el-corte-ingles-gaia/</loc>
@@ -16,13 +74,6 @@
 		<lastmod>2026-05-04T06:49:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/42aaf4ee22a93cf62c6add5c2844506a.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-cidade-de-gandra/</loc>
-		<lastmod>2026-05-04T06:46:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/fe9e39b7c516408cfdefdf787611a9a0.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -107,16 +158,6 @@
 		<lastmod>2026-05-02T06:08:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/</loc>
-		<lastmod>2026-05-02T06:01:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Percurso-10k.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles-2025/</loc>
 		<lastmod>2026-05-02T06:00:07+00:00</lastmod>
 		<image:image>
@@ -127,16 +168,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto/</loc>
-		<lastmod>2026-05-02T05:58:55+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Captura-de-ecra-2025-11-06-025431-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Sao-Silvestre-2024-Info.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto-2025/</loc>
 		<lastmod>2026-05-02T05:57:56+00:00</lastmod>
 		<image:image>
@@ -144,16 +175,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Sao-Silvestre-2024-Info.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/</loc>
-		<lastmod>2026-05-02T05:56:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/452560064_875406111288305_2380562209917995650_n.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/Percurso-10k-Lisboa-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

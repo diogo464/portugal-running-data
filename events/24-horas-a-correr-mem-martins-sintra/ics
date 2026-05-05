@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f9877b3693a
+DTSTAMP:20260505T060027Z
+DTSTART:20260509
+DTEND:20260510
+LOCATION:Mem Martins Mem Martins\,  Sintra
+SUMMARY:24 Horas a Correr Mem Martins – Sintra 2026
+DESCRIPTION:A VII edição Zumub 24h Run Mem Martins – Sintra\,  é uma d
+ e corrida de resistência e de longa duração\,  que se realizará em Mem 
+ Martins em 09 e 10 de maio de 2026.Inseridas no mesmo evento\,  decorrerão
+  as provas de 12 horas\,  3 horas\,  Maratona Noturna\,  sendo todas consid
+ eradas[..]\nhttps://www.portugalrunning.com/eventos/24-horas-a-correr-mem-m
+ artins-sintra/
+URL:https://www.portugalrunning.com/eventos/24-horas-a-correr-mem-martins-sintra/
+END:VEVENT
+END:VCALENDAR

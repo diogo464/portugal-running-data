@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f9877bbe580
+DTSTAMP:20260505T060027Z
+DTSTART:20260510
+DTEND:20260511
+LOCATION:Maia\,  Porto Maia\,  Porto
+SUMMARY:Corrida Fernanda Ribeiro 2026
+DESCRIPTION:A Corrida Fernanda Ribeiro regressa à cidade da Maia no dia 10
+  de maio de 2026\,  para mais uma edição de uma prova que já é uma refe
+ rência no calendário desportivo nacional. Este evento presta homenagem a 
+ Fernanda Ribeiro\,  a atleta portuguesa mais medalhada de sempre e campeã 
+ olímpica nos[..]\nhttps://www.portugalrunning.com/eventos/corrida-fernanda
+ -ribeiro-2/
+URL:https://www.portugalrunning.com/eventos/corrida-fernanda-ribeiro-2/
+END:VEVENT
+END:VCALENDAR

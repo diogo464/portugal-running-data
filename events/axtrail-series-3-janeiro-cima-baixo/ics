@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f9877b37b21
+DTSTAMP:20260505T060027Z
+DTSTART:20260530T061900Z
+DTEND:20260530T235900Z
+LOCATION:Fundão\,  Castelo Branco Fundão\,  Castelo Branco
+SUMMARY:AXtrail Series #3 Janeiro Cima / Baixo 2026
+DESCRIPTION:O AXtrail Series #2 Góis 2026 é a segunda etapa do prestigiad
+ o circuito de trail running que percorre o território das Aldeias do Xisto
+ \,  estando agendada para o dia 19 de abril de 2026\,  em Ponte do Sótão\
+ ,  Góis (Portugal). Este evento de montanha oferece um percurso técnico e
+  desafiante\, [..]\nhttps://www.portugalrunning.com/eventos/axtrail-series-
+ 3-janeiro-cima-baixo/
+URL:https://www.portugalrunning.com/eventos/axtrail-series-3-janeiro-cima-baixo/
+END:VEVENT
+END:VCALENDAR
