@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69f98e7e33263
+DTSTAMP:20260505T063022Z
+DTSTART:20260509T062300Z
+DTEND:20260509T062300Z
+LOCATION:Torre Vasco da Gama\,  Lisboa Torre Vasco da Gama\,  Lisboa
+SUMMARY:Corrida Solidária - Torre Vasco da Gama 2026
+DESCRIPTION:No próximo dia 9 de maio\,  pelas 08h30\,  junta-te a nós na 
+ Torre Vasco da Gama! O percurso será ao longo de 7 ou 4 km\,  dependendo d
+ as preferências de cada participante.\nhttps://www.portugalrunning.com/eve
+ ntos/corrida-solidaria-torre-vasco-da-gama/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-torre-vasco-da-gama/
+END:VEVENT
+END:VCALENDAR
