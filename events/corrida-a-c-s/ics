@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69fad91df01a3
+DTSTAMP:20260506T060101Z
+DTSTART:20260606
+DTEND:20260607
+LOCATION:São Brás de Alportel\,  Faro São Brás de Alportel\,  Faro
+SUMMARY:Corrida A.C.S. 2026
+DESCRIPTION:A Associação Cultural Sambrasense vai organizar a “13º Cor
+ rida ACS”\,  que terá lugar em São Brás de Alportel no dia 06 de Junho
+  de 2026\,  pelas 18:30h. Este evento que se insere nas comemorações do d
+ ia doconcelho\,  terá incluído também caminhada (a 12ª edição) às 17
+ :45h\,  e a "9ª Corrida[..]\nhttps://www.portugalrunning.com/eventos/corri
+ da-a-c-s/
+URL:https://www.portugalrunning.com/eventos/corrida-a-c-s/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69fad91f346b4
+DTSTAMP:20260506T060103Z
+DTSTART:20260607T225500Z
+DTEND:20260607T235900Z
+LOCATION:Pinheiro da Bemposta\,  Oliveira de Azeméis Pinheiro da Bemposta\,  Oliveira de Azeméis
+SUMMARY:Grande Prémio de Atletismo Paulo Ferreira 2026
+DESCRIPTION:O Grande Prémio de Atletismo Paulo Ferreira é o principal eve
+ nto do ano do Grupo Juvenil Pinheiro da Bemposta\,  que assim homenageia um
+  dos incontornáveis nomes do atletismo oliveirense.\nhttps://www.portugalr
+ unning.com/eventos/grande-premio-de-atletismo-paulo-ferreira/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-paulo-ferreira/
+END:VEVENT
+END:VCALENDAR

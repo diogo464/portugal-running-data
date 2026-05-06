@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69fad9205b890
+DTSTAMP:20260506T060104Z
+DTSTART:20260606
+DTEND:20260607
+LOCATION:Santo Amador\,  Moura Santo Amador\,  Moura
+SUMMARY:Trail entre o Rio e a Aldeia 2026
+DESCRIPTION:O 5º Trail Entre o Rio e a Aldeia será realizado nos dias 6 d
+ e junho de 2026 e é umevento organizado pela Associação em Honra de Sant
+ o Amador\,  com o apoio de váriosparceiros institucionais e privados. 07:0
+ 0h -Partida do Ultra (40 Km).08:00h - Partida do Trail (25 Km).08:15h -[..]
+ \nhttps://www.portugalrunning.com/eventos/trail-entre-o-rio-e-a-aldeia/
+URL:https://www.portugalrunning.com/eventos/trail-entre-o-rio-e-a-aldeia/
+END:VEVENT
+END:VCALENDAR

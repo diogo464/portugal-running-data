@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69fad92023d6b
+DTSTAMP:20260506T060104Z
+DTSTART:20260704
+DTEND:20260705
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:Trail do Almonda 2026
+DESCRIPTION:O TRAIL DO ALMONDA é uma prova de aventura percorrida em trilh
+ os sinalizados\,  de pé posto\,  pequenos estradões\,  ou estradas\,  em 
+ autonomia pedestre\,  visando percorrer todo o percurso no menor tempo poss
+ ível\,  a disputar a 4 de julho de 2026\,  e visando a promoção e divulg
+ ação turística e ambiental desta[..]\nhttps://www.portugalrunning.com/ev
+ entos/trail-do-almonda/
+URL:https://www.portugalrunning.com/eventos/trail-do-almonda/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69fad91fb7f78
+DTSTAMP:20260506T060103Z
+DTSTART:20261011T205500Z
+DTEND:20261011T205500Z
+LOCATION:Reguengo do Fetal\,  Batalha Reguengo do Fetal\,  Batalha
+SUMMARY:Reguengo do Fetal - Hard Trail 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/reguengo-do-fetal-har
+ d-trail/
+URL:https://www.portugalrunning.com/eventos/reguengo-do-fetal-hard-trail/
+END:VEVENT
+END:VCALENDAR
