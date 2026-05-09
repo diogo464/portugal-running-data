@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69fecd8bf1d53
+DTSTAMP:20260509T060043Z
+DTSTART:20260613
+DTEND:20260614
+LOCATION:Macedo de Cavaleiros\,  Bragança Macedo de Cavaleiros\,  Bragança
+SUMMARY:Corrida de São Pedro LPCNOR 2026
+DESCRIPTION:O Clube Atlético de Macedo de Cavaleiros e a Câmara Municipal
+  de Macedo de Cavaleiros organizam\,  no dia 13 de junho de 2026\,  em cola
+ boração com a Associação de Atletismo de Bragança\,  a 3ª Corrida de 
+ São Pedro. O evento disputa-se em percurso de asfalto\,  aberta a atletas 
+ de ambos[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-sao-pedro-
+ lpcnor/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-pedro-lpcnor/
+END:VEVENT
+END:VCALENDAR

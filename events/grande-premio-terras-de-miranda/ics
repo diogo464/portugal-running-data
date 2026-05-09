@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69fecd8bf2044
+DTSTAMP:20260509T060043Z
+DTSTART:20260628T220100Z
+DTEND:20260628T220100Z
+LOCATION:Miranda do Corvo\,  Coimbra Miranda do Corvo\,  Coimbra
+SUMMARY:Grande Prémio Terras de Miranda 2026
+DESCRIPTION:O Grande Prémio Terras de Miranda 2026 é organizado pela Asso
+ ciação Abutrica\,  com oapoio das entidades locais e enquadramento regula
+ mentar da Federação Portuguesa deAtletismo e da Associação de Atletismo
+  de Coimbra\nhttps://www.portugalrunning.com/eventos/grande-premio-terras-d
+ e-miranda/
+URL:https://www.portugalrunning.com/eventos/grande-premio-terras-de-miranda/
+END:VEVENT
+END:VCALENDAR

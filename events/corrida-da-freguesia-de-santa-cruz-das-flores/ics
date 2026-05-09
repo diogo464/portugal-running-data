@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69fecd8b10bfb
+DTSTAMP:20260509T060043Z
+DTSTART:20260605T213700Z
+DTEND:20260605T213700Z
+LOCATION:Santa Cruz das Flores\,  Ilha das Flores Santa Cruz das Flores\,  Ilha das Flores
+SUMMARY:Corrida da Freguesia de Santa Cruz das Flores 2026
+DESCRIPTION:A prova realiza-se no dia 09 de junho de 2026\,  com concentra√
+ ß√£o e partida no Parque daBoavista\,  em Santa Cruz das Flores. O evento i
+ ntegra: Corrida principal: 8 km Corrida infantil: 3 km Caminhada\nhttps://w
+ ww.portugalrunning.com/eventos/corrida-da-freguesia-de-santa-cruz-das-flore
+ s/
+URL:https://www.portugalrunning.com/eventos/corrida-da-freguesia-de-santa-cruz-das-flores/
+END:VEVENT
+END:VCALENDAR
