@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a002b53593b6
+DTSTAMP:20260510T065307Z
+DTSTART:20250914T154500Z
+DTEND:20250914T235900Z
+LOCATION:Benedita\,  Alcobaça Benedita\,  Alcobaça
+SUMMARY:Meia Maratona da Benedita
+DESCRIPTION:A primeira edição da&nbsp;MEIA MARATONA DA BENEDITA&nbsp;cheg
+ a a 14 de setembro 2025\,  para marcar o calendário desportivo com um novo
+  desafio em terras de tradição e dinamismo. Num percurso que cruza o cora
+ ção da vila com a sua envolvente natural\,  esta prova promete ser mais d
+ o que uma corrida —[..]\nhttps://www.portugalrunning.com/eventos/meia-mar
+ atona-da-benedita-2025/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-da-benedita-2025/
+END:VEVENT
+END:VCALENDAR
