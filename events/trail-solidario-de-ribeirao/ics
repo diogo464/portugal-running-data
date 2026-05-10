@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a001efecdc77
+DTSTAMP:20260510T060030Z
+DTSTART:20260719
+DTEND:20260720
+LOCATION:Ribeirão\,  Vila Nova de Famalicão Ribeirão\,  Vila Nova de Famalicão
+SUMMARY:Trail Solidário de Ribeirão 2026
+DESCRIPTION:O 8º Trail solidário de Ribeirão pretende promover a prátic
+ a desportiva e dar a conhecer os trilhos da vila de Ribeirão - V. N. Famal
+ icão\,  com um novo trajeto para descobrires Em 2026 aliamos novamente o e
+ vento a várias causas solidárias. A verba resultante das inscrições da 
+ caminhada revertem a[..]\nhttps://www.portugalrunning.com/eventos/trail-sol
+ idario-de-ribeirao/
+URL:https://www.portugalrunning.com/eventos/trail-solidario-de-ribeirao/
+END:VEVENT
+END:VCALENDAR

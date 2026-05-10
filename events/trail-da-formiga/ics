@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a001efeb214a
+DTSTAMP:20260510T060030Z
+DTSTART:20260802T075200Z
+DTEND:20260802T075200Z
+LOCATION:Louro\,  Vila Nova de Famalicão Louro\,  Vila Nova de Famalicão
+SUMMARY:Trail da Formiga 2026
+DESCRIPTION:TRAIL DA FORMIGA realiza-se no dia 02 de Agosto de 2026 no Lour
+ o – Vila Nova de Famalicão. É um evento de cariz lúdico-desportivo\,  
+ que percorrerá trilhos e caminhos rurais do concelho de Vila Nova de Famal
+ icão. A organização está a cargo da Associação BTT 9:15 Louro.\nhttps
+ ://www.portugalrunning.com/eventos/trail-da-formiga/
+URL:https://www.portugalrunning.com/eventos/trail-da-formiga/
+END:VEVENT
+END:VCALENDAR

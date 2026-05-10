@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a001eff2d285
+DTSTAMP:20260510T060031Z
+DTSTART:20260919T075600Z
+DTEND:20260919T235900Z
+LOCATION:Lemenhe\,  Vila Nova de Famalicão Lemenhe\,  Vila Nova de Famalicão
+SUMMARY:Trail Rumo Aventura 25 Anos 2026
+DESCRIPTION:Evento organizado pelo ASSOCIAÇÃO RUMO À AVENTURA\,  em parc
+ eria com os apoios institucionais aderentes e imprescindíveis na realizaç
+ ão das actividades. Trail 25º Aniversário Associação Rumo Aventura\nht
+ tps://www.portugalrunning.com/eventos/trail-rumo-aventura-25-anos/
+URL:https://www.portugalrunning.com/eventos/trail-rumo-aventura-25-anos/
+END:VEVENT
+END:VCALENDAR
