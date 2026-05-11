@@ -2,7 +2,84 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-05-10T06:52:49+00:00</lastmod>
+		<lastmod>2026-05-10T11:39:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa-2025/</loc>
+		<lastmod>2026-05-10T11:39:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/452560064_875406111288305_2380562209917995650_n.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/Percurso-10k-Lisboa-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-fernanda-ribeiro/</loc>
+		<lastmod>2026-05-10T11:32:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/Corrida-Fernanda-Ribeiro-Header-2-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/algarve-night-run/</loc>
+		<lastmod>2026-05-10T11:25:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/689290284_1286932553640800_3482649092434705379_n.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-bem-viver/</loc>
+		<lastmod>2026-05-10T11:17:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6928e8ecd2b37_300175929_493062189488407_6633718461973215367_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-internacional-de-viseu/</loc>
+		<lastmod>2026-05-10T09:57:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/gpiviseu26_banner.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-de-belem/</loc>
+		<lastmod>2026-05-10T09:56:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/POSTER-BELEM-2026-29-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-luso-bussaco/</loc>
+		<lastmod>2026-05-10T09:52:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/4572025117_193948_Bbb290a9A33a448AAa955Cd90de04f07-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-das-cantarinhas/</loc>
+		<lastmod>2026-05-10T09:46:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/598855150_1202044832025770_2427522185532706750_n-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-cortegaca/</loc>
+		<lastmod>2026-05-10T09:46:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/banner-meia-cortegaca-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/montalegre-urban-fit/</loc>
+		<lastmod>2026-05-10T06:53:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/montalegre-urban-fit-2026/</loc>
+		<lastmod>2026-05-10T06:53:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/banner-montalegre-urban-fit-2026-min.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto/</loc>
@@ -30,13 +107,6 @@
 		<lastmod>2026-05-10T06:50:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/mmbenedita_banner-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-fernanda-ribeiro/</loc>
-		<lastmod>2026-05-10T06:50:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/Corrida-Fernanda-Ribeiro-Header-2-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -246,13 +316,6 @@
 		<lastmod>2026-05-07T07:28:03+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/Maratona-de-Lisboa-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-cortegaca/</loc>
-		<lastmod>2026-05-06T05:06:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/banner-meia-cortegaca-2026-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -476,16 +539,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Sao-Silvestre-2024-Info.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa-2025/</loc>
-		<lastmod>2026-05-02T05:56:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/452560064_875406111288305_2380562209917995650_n.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/Percurso-10k-Lisboa-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -865,13 +918,6 @@
 		<lastmod>2026-04-23T20:47:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/69e8dadccfc72_Cartaz-cartaz_460.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/algarve-night-run/</loc>
-		<lastmod>2026-04-23T20:39:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/69ea1cd07d827_Cartaz-cartaz_460-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1876,10 +1922,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/montalegre-urban-fit-2/</loc>
-		<lastmod>2026-03-28T05:36:36+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-noturno-de-toledo/</loc>
 		<lastmod>2026-03-28T05:35:36+00:00</lastmod>
 		<image:image>
@@ -2541,13 +2583,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-de-belem/</loc>
-		<lastmod>2026-03-19T08:19:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/POSTER-BELEM-2026-29-750x380-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/apollo-crazy-race/</loc>
 		<lastmod>2026-03-17T17:39:58+00:00</lastmod>
 		<image:image>
@@ -2758,13 +2793,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-das-cantarinhas/</loc>
-		<lastmod>2026-03-14T19:41:11+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/598855150_1202044832025770_2427522185532706750_n-1-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-trilhos-do-ceireiro/</loc>
 		<lastmod>2026-03-14T19:41:07+00:00</lastmod>
 		<image:image>
@@ -2779,24 +2807,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-bem-viver/</loc>
-		<lastmod>2026-03-14T19:40:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6928e8ecd2b37_300175929_493062189488407_6633718461973215367_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/gois-trail/</loc>
 		<lastmod>2026-03-14T19:40:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/2026-01-14_00-52-05_6966e8b5e9356-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trilhos-luso-bussaco/</loc>
-		<lastmod>2026-03-14T19:40:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/4572025117_193948_Bbb290a9A33a448AAa955Cd90de04f07-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4155,13 +4169,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/montalegre-urban-fit/</loc>
-		<lastmod>2026-02-12T19:07:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/banner-montalegre-urban-fit-2026-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/axtrail-series-1-coentral/</loc>
 		<lastmod>2026-02-12T19:07:03+00:00</lastmod>
 		<image:image>
@@ -5000,13 +5007,6 @@
 		<lastmod>2026-01-24T09:29:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/2026-01-23_11-44-01_69735f01ce594-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/grande-premio-internacional-de-viseu/</loc>
-		<lastmod>2026-01-24T09:28:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/gpiviseu26_banner.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
