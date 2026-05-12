@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a02c3eb97f4e
+DTSTAMP:20260512T060843Z
+DTSTART:20260628
+DTEND:20260629
+LOCATION:Parque Ribeirinho do Oriente\,  Lisboa Parque Ribeirinho do Oriente\,  Lisboa
+SUMMARY:Corrida INCM 2026
+DESCRIPTION:A Imprensa Nacional – Casa da Moeda (INCM) irá realizar a �
+ �VI Corrida INCM”\,  no dia 28&nbsp;de Junho no Parque Ribeirinho do Orie
+ nte - Marvila\,  a partir das 09:00h\,  com a organização Técnica da Wer
+ un. A “VI Corrida INCM” é um evento de natureza desportiva e tem como 
+ objetivo incentivar[..]\nhttps://www.portugalrunning.com/eventos/corrida-in
+ cm/
+URL:https://www.portugalrunning.com/eventos/corrida-incm/
+END:VEVENT
+END:VCALENDAR
