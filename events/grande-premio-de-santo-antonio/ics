@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a02c68de7f36
+DTSTAMP:20260512T061957Z
+DTSTART:20260620
+DTEND:20260621
+LOCATION:Torres Novas\,  Santarém Torres Novas\,  Santarém
+SUMMARY:Grande Prémio de Santo António 2026
+DESCRIPTION:O 47º Grande Prémio de S. António em atletismo a realizar no
+  dia 20 de Junho de 2026 pelas 17h00m\,  tem como entidade organizadora\,  
+ a União Desportiva e Recreativa da Zona Alta\nhttps://www.portugalrunning.
+ com/eventos/grande-premio-de-santo-antonio/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-santo-antonio/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a02c68f476fd
+DTSTAMP:20260512T061959Z
+DTSTART:20260712T063200Z
+DTEND:20260712T235900Z
+LOCATION:Pederneira\,  Serra de Tomar Pederneira\,  Serra de Tomar
+SUMMARY:TMZ - Trail Mãos do Zêzere 2026
+DESCRIPTION:O TMZ – Trail Mãos do Zêzere é um evento de trail running 
+ organizado pela Junta de Freguesia de Serra e Clube de Trilhos Mãos do Zê
+ zere que irá decorrer no dia 12 de julho de 2026\,  no concelho de Tomar e
+  que integra 2 provas competitivas (minitrail de 13km[..]\nhttps://www.port
+ ugalrunning.com/eventos/tmz-trail-maos-do-zezere/
+URL:https://www.portugalrunning.com/eventos/tmz-trail-maos-do-zezere/
+END:VEVENT
+END:VCALENDAR
