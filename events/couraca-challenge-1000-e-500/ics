@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a02c20838263
+DTSTAMP:20260512T060040Z
+DTSTART:20260627T054800Z
+DTEND:20260627T054800Z
+LOCATION:Coimbra Coimbra
+SUMMARY:Couraça Challenge 1000 e 500 2026
+DESCRIPTION:A prova Couraça Challenge 1000 e 500 é um evento desportivo q
+ ue consiste numa competição de atletismo em meio urbano\,  realizada na c
+ idade de Coimbra\,  no seu centro histórico\,  desafiando os participantes
+  a completar várias subidas na emblemática Couraça de Lisboa\,  num perc
+ urso exigente\nhttps://www.portugalrunning.com/eventos/couraca-challenge-10
+ 00-e-500/
+URL:https://www.portugalrunning.com/eventos/couraca-challenge-1000-e-500/
+END:VEVENT
+END:VCALENDAR
