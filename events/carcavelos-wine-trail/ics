@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a04138f2dc39
+DTSTAMP:20260513T060047Z
+DTSTART:20260523T230000Z
+DTEND:20260524T225900Z
+LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+SUMMARY:Carcavelos Wine Trail 2026
+DESCRIPTION:A CONFRARIA DOS ENÓFILOS DO VINHO DE CARCAVELOS\,  que\,  com 
+ a colaboração da GANHAR DESTAK\,  e com o excepcional apoio dos municípi
+ os de Cascais e Oeiras – bem como de duas Uniões de Freguesia: Carcavelo
+ s/ Parede\,  e Oeiras\,  Paço de Arcos e Caxias\,  se aventurou a organiza
+ r o 3º CARCAVELOS WINE[..]\nhttps://www.portugalrunning.com/eventos/carca
+ velos-wine-trail/
+URL:https://www.portugalrunning.com/eventos/carcavelos-wine-trail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a04139065f82
+DTSTAMP:20260513T060048Z
+DTSTART:20260808
+DTEND:20260809
+LOCATION:Rossas\,  Arouca Rossas\,  Arouca
+SUMMARY:Grande Prémio de Atletismo de Rossas 2026
+DESCRIPTION:O Grande Prémio de Atletismo de Rossas vai em 2026 para a sua 
+ 47ª edição\,  em Arouca. Aberto a toda a família\,  com prémios monet�
+ �rios para a vertente competitiva.\nhttps://www.portugalrunning.com/eventos
+ /grande-premio-de-atletismo-de-rossas/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-rossas/
+END:VEVENT
+END:VCALENDAR

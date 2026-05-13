@@ -2,7 +2,60 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-05-12T06:44:40+00:00</lastmod>
+		<lastmod>2026-05-13T05:59:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-queijo-da-fajazinha/</loc>
+		<lastmod>2026-05-13T05:59:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/699ec1cedd015_Cartaz-TQF-2026-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-nazare/</loc>
+		<lastmod>2026-05-13T05:21:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/581857663_1411425374321534_6737261055931691491_n.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-trilhos-romanos/</loc>
+		<lastmod>2026-05-13T05:18:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/pop_3swk41b922.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/carcavelos-wine-trail/</loc>
+		<lastmod>2026-05-13T05:16:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/CWT2026_BannerSite-3-scaled-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vieirafit-race/</loc>
+		<lastmod>2026-05-13T04:54:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a020dd667102_304783281_515321560593764_5235185364709045942_n-1-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/couraca-challenge-1000-e-500/</loc>
+		<lastmod>2026-05-12T07:01:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/zegama-trail/</loc>
+		<lastmod>2026-05-12T07:01:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a020dd667102_304783281_515321560593764_5235185364709045942_n-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-rossas/</loc>
+		<lastmod>2026-05-12T07:01:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/banner-gp-atletismo-de-rossas-2026-min.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-de-valencia-2026/</loc>
@@ -40,20 +93,6 @@
 		<lastmod>2026-05-12T06:38:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/20260725.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vianafit-race/</loc>
-		<lastmod>2026-05-12T06:35:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a020dd667102_304783281_515321560593764_5235185364709045942_n-1-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/zegama-trail-2026/</loc>
-		<lastmod>2026-05-12T06:31:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a020dd667102_304783281_515321560593764_5235185364709045942_n-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -106,13 +145,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-rossas-2026/</loc>
-		<lastmod>2026-05-12T05:54:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/banner-gp-atletismo-de-rossas-2026-min.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/prova-do-bodo/</loc>
 		<lastmod>2026-05-12T05:52:53+00:00</lastmod>
 	</url>
@@ -122,10 +154,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/banner-meia-maratona-parques-passadicos-2026-min.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/couraca-challenge-1000-e-500/</loc>
-		<lastmod>2026-05-12T05:49:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-dos-gambuzinos/</loc>
@@ -1434,13 +1462,6 @@
 		<lastmod>2026-04-09T22:38:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2019/12/68815925_2330202063762532_2726739492005216256_o.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-trilhos-romanos-2026/</loc>
-		<lastmod>2026-04-09T22:18:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/pop_3swk41b922.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3488,13 +3509,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-do-queijo-da-fajazinha/</loc>
-		<lastmod>2026-03-06T21:06:09+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/699ec1cedd015_Cartaz-TQF-2026-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-manuelino/</loc>
 		<lastmod>2026-03-03T22:33:34+00:00</lastmod>
 		<image:image>
@@ -5249,13 +5263,6 @@
 		<lastmod>2026-01-17T14:47:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/589917307_18079544168135696_8487572213434060227_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-nazare/</loc>
-		<lastmod>2026-01-17T14:47:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/502476339_1262187629245310_6183930460690834796_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

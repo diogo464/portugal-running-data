@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a041391634e1
+DTSTAMP:20260513T060049Z
+DTSTART:20260531
+DTEND:20260601
+LOCATION:Bárrio\,  Alcobaça Bárrio\,  Alcobaça
+SUMMARY:Trail Trilhos Romanos 2026
+DESCRIPTION:A&nbsp;Associação Trilhos Romanos&nbsp;em colaboração com a
+ &nbsp;Junta de Freguesia do Bárrio e a Câmara Municipal de Alcobaça\,  n
+ o próximo dia&nbsp;31 de Maio de 2026\,  levará a cabo a organização da
+ &nbsp;5ª edição do Trail Trilhos Romanos\,  inserida nas&nbsp;festividad
+ es do aniversário da freguesia. O evento contará com duas provas competit
+ ivas\,  um&nbsp;Trail Sprint de[..]\nhttps://www.portugalrunning.com/evento
+ s/trail-trilhos-romanos/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-romanos/
+END:VEVENT
+END:VCALENDAR
