@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a056510cff30
+DTSTAMP:20260514T060048Z
+DTSTART:20261003T054100Z
+DTEND:20261003T054100Z
+LOCATION:Canas de Senhorim \,  Viseu Canas de Senhorim \,  Viseu
+SUMMARY:Trail do Paimouro 2026
+DESCRIPTION:O evento "Trail do Paimouro" é organizado pela Associação De
+ sportiva e Cultural Anti Social Social Run Club\,  com o apoio da Junta de 
+ Freguesia de Canas de Senhorim e da Câmara Municipal de Nelas.A prova real
+ iza-se no dia 03 de outubro de 2026\,  em Canas de Senhorim\,  concelho de 
+ Nelas.[..]\nhttps://www.portugalrunning.com/eventos/trail-do-paimouro/
+URL:https://www.portugalrunning.com/eventos/trail-do-paimouro/
+END:VEVENT
+END:VCALENDAR

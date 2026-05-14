@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a05650ec4833
+DTSTAMP:20260514T060046Z
+DTSTART:20260628T053500Z
+DTEND:20260628T053500Z
+LOCATION:Sever do Vouga\,  Aveiro Sever do Vouga\,  Aveiro
+SUMMARY:Corrida do Mirtilo 2026
+DESCRIPTION:A corrida do mirtilo é uma corrida popular\,  organizada pela 
+ Câmara Municipal de Sever do Vouga. A corrida é um evento inserido na pro
+ gramação da Feira do Mirtilo 2026 Tem a extensão de aproximadamente 10km
+  e destina-se a todos com idade igual ou superior a 18 anos à data de[..]\
+ nhttps://www.portugalrunning.com/eventos/corrida-do-mirtilo/
+URL:https://www.portugalrunning.com/eventos/corrida-do-mirtilo/
+END:VEVENT
+END:VCALENDAR

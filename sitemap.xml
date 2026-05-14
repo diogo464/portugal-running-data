@@ -2,7 +2,67 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-05-13T06:08:49+00:00</lastmod>
+		<lastmod>2026-05-14T05:54:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/milha-urbana-de-santo-tirso/</loc>
+		<lastmod>2026-05-14T05:54:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/216_LOGO1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-paimouro/</loc>
+		<lastmod>2026-05-14T05:43:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a0309f69ee43_Cartaz_Paimouro-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-sr-daflicao/</loc>
+		<lastmod>2026-05-14T05:39:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a02f9fb4de18_Cartaz_Aflicao-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/tmz-trail-maos-do-zezere/</loc>
+		<lastmod>2026-05-14T05:37:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/718d3b5618e4a32eb5a2a667445b2dbd.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-do-mirtilo/</loc>
+		<lastmod>2026-05-14T05:37:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a01c4188d171_Cartaz_mirtilo_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-montes-da-chainca/</loc>
+		<lastmod>2026-05-14T05:34:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/cross-trail-solidario-f-c-belenenses/</loc>
+		<lastmod>2026-05-14T05:32:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pop_a7ws4s5914.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vieirafit-race/</loc>
+		<lastmod>2026-05-14T05:31:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a020dd667102_304783281_515321560593764_5235185364709045942_n-1-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-por-terras-do-adufe/</loc>
+		<lastmod>2026-05-13T18:17:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/LOGO_-_Trail_Por_Terras_do_Adufe-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-cortegaca/</loc>
@@ -37,13 +97,6 @@
 		<lastmod>2026-05-13T05:16:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/CWT2026_BannerSite-3-scaled-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vieirafit-race/</loc>
-		<lastmod>2026-05-13T04:54:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a020dd667102_304783281_515321560593764_5235185364709045942_n-1-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -128,13 +181,6 @@
 		<lastmod>2026-05-12T06:18:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/1778415532-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/tmz-trail-maos-do-zezere/</loc>
-		<lastmod>2026-05-12T06:15:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/718d3b5618e4a32eb5a2a667445b2dbd.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5152,13 +5198,6 @@
 		<lastmod>2026-01-24T09:03:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pop_3sdb176913-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/cross-trail-solidario-f-c-belenenses/</loc>
-		<lastmod>2026-01-24T09:03:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/pop_8o13uw4914.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
