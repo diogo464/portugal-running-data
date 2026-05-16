@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a08aba0c0cfd
+DTSTAMP:20260516T173840Z
+DTSTART:20260808T062800Z
+DTEND:20260808T062800Z
+LOCATION:Parque do Cerejal\,  Góis Parque do Cerejal\,  Góis
+SUMMARY:Góis Challenge 2026
+DESCRIPTION:O Góis Challenge é uma prova disputada em equipas de 4 elemen
+ tos\,  pensada para ser vivida em conjunto\,  do primeiro ao último moment
+ o. Este ano\,  a grande novidade é o formato RACE. A tua equipa sai à hor
+ a marcada e terão de completar a prova o mais rápido possível. O[..]\nht
+ tps://www.portugalrunning.com/eventos/gois-challenge/
+URL:https://www.portugalrunning.com/eventos/gois-challenge/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a08aba05aa35
+DTSTAMP:20260516T173840Z
+DTSTART:20261108T074800Z
+DTEND:20261108T235900Z
+LOCATION:Freixianda\,  Ourém Freixianda\,  Ourém
+SUMMARY:Fúria Trail 2026
+DESCRIPTION:A&nbsp;Associação Cultural e Recreativa Vale do Nabão (ACRVN
+ )\, com o apoio do&nbsp;Município de Ourém e Junta de Freguesia de Freixi
+ anda\, &nbsp;Ribeira do Fárrio e Formigais\, restantes patrocinadores prop
+ õem-se a realizar este evento para promover e divulgar a Região do Vale d
+ o Nabão\,  bem como a fomentação de hábitos saudáveis junto das popula
+ ções locais.[..]\nhttps://www.portugalrunning.com/eventos/furia-trail/
+URL:https://www.portugalrunning.com/eventos/furia-trail/
+END:VEVENT
+END:VCALENDAR

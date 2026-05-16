@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a08aba1856ab
+DTSTAMP:20260516T173841Z
+DTSTART:20260621
+DTEND:20260622
+LOCATION:Sines\,  Setúbal Sines\,  Setúbal
+SUMMARY:Corrida do Porto de Sines 2026
+DESCRIPTION:A Administração dos Portos de Sines e do Algarve\,  S.A. (APS
+ )\,  com o apoio do GrupoDesportivo e Cultural da APS (GDCAPS)\,  promover�
+ � a realização da "Corrida do Portode Sines" no dia 21 de junho de 2026\,
+   pelas 9h00. O evento\,  integrado nas comemoraçõesdo Dia do Porto de Si
+ nes\,  contará com[..]\nhttps://www.portugalrunning.com/eventos/corrida-do
+ -porto-de-sines/
+URL:https://www.portugalrunning.com/eventos/corrida-do-porto-de-sines/
+END:VEVENT
+END:VCALENDAR

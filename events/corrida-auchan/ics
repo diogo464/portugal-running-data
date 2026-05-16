@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a08ab9fe9995
+DTSTAMP:20260516T173839Z
+DTSTART:20260919
+DTEND:20260920
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corrida Auchan 2026
+DESCRIPTION:A Corrida Auchan celebra a 13ª edição a 19 de setembro de 20
+ 26 com a Corrida de 10 Km\,  Caminhada de 5 Km\,  Corrida Rik&Rok\,  Pet Fr
+ iendly e muitas modalidades desportivas para experimentarem.\nhttps://www.p
+ ortugalrunning.com/eventos/corrida-auchan/
+URL:https://www.portugalrunning.com/eventos/corrida-auchan/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a08aba2049ad
+DTSTAMP:20260516T173842Z
+DTSTART:20261101T071900Z
+DTEND:20261101T235900Z
+LOCATION:Aeródromo Militar de Tancos\,  Vila Nova de Barquinha Aeródromo Militar de Tancos\,  Vila Nova de Barquinha
+SUMMARY:Corrida dos Paraquedistas 2026
+DESCRIPTION:Este evento desportivo proporciona uma experiência única\,  r
+ epleta de aventura e história\,  com dois percursos disponíveis: uma corr
+ ida de 10 km e uma caminhada de 5 km. A prova terá lugar no dia&nbsp;01 de
+ &nbsp;novembro de 2026\,  às 10h00\,  na Base Militar de Tancos. Os partic
+ ipantes poderão escolher entre a corrida[..]\nhttps://www.portugalrunning.
+ com/eventos/corrida-dos-paraquedistas/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-paraquedistas/
+END:VEVENT
+END:VCALENDAR

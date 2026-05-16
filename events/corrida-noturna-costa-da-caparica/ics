@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a08ab9fd3d29
+DTSTAMP:20260516T173839Z
+DTSTART:20260711
+DTEND:20260712
+LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+SUMMARY:Corrida Noturna Costa da Caparica 2026
+DESCRIPTION:Dia&nbsp;11 de Julho\,  vais correr ou caminhar pelo paredão d
+ a Caparica e pelos extensos areais.No final\,  para compensar o teu esforç
+ o vais ter direito à tão famosa “Olhaaa a bolinha!“ Não fiques em ca
+ sa! O&nbsp;desafio está lançado… correr 10km ou correr/caminhar 5km e a
+ inda aplaudir os mais pequenos na Kids[..]\nhttps://www.portugalrunning.com
+ /eventos/corrida-noturna-costa-da-caparica/
+URL:https://www.portugalrunning.com/eventos/corrida-noturna-costa-da-caparica/
+END:VEVENT
+END:VCALENDAR
