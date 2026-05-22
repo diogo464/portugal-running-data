@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a0ff145e124e
+DTSTAMP:20260522T060141Z
+DTSTART:20261004T021000Z
+DTEND:20261004T021000Z
+LOCATION:Grimancelos\,  Barcelos Grimancelos\,  Barcelos
+SUMMARY:Trail A.D.C. Grimancelos 2026
+DESCRIPTION:A Associação Desportiva e Cultural de Grimancelos realiza no 
+ dia 4 de Outubro  de 2026 pelas 9h a 1ª edição do Trail A.D.C. Grimance
+ los \,  evento que tem como finalidade a dinamização da localidade do pon
+ to de vista desportivo e social.\nhttps://www.portugalrunning.com/eventos/t
+ rail-a-d-c-grimancelos/
+URL:https://www.portugalrunning.com/eventos/trail-a-d-c-grimancelos/
+END:VEVENT
+END:VCALENDAR

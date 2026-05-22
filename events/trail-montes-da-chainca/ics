@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a056510e6a45
-DTSTAMP:20260514T060048Z
+UID:6a0ff146ee5d4
+DTSTAMP:20260522T060142Z
 DTSTART:20260704T053300Z
-DTEND:20260704T053300Z
+DTEND:20260704T235900Z
 LOCATION:Chainça\,  Leiria Chainça\,  Leiria
 SUMMARY:1ª edição do Trail Montes da Chainça 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-montes-da-chain
- ca/
+DESCRIPTION:A&nbsp;1.ª edição do Trail Montes da Chainça&nbsp;é um eve
+ nto de trail running organizado pela&nbsp;Comissão de Festas da Chainça 2
+ 026\,  com o apoio da&nbsp;Junta de Freguesia da União das Freguesias de S
+ anta Catarina da Serra e Chainça\,  enquadrado nas vertentes de Trail e Mi
+ ni-Trail\,  com o objetivo de promover o desporto[..]\nhttps://www.portugal
+ running.com/eventos/trail-montes-da-chainca/
 URL:https://www.portugalrunning.com/eventos/trail-montes-da-chainca/
 END:VEVENT
 END:VCALENDAR

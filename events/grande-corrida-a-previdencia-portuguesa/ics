@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a0ff144b62f2
+DTSTAMP:20260522T060140Z
+DTSTART:20261018T020300Z
+DTEND:20261018T020300Z
+LOCATION:Coimbra Coimbra
+SUMMARY:Grande Corrida A Previdência Portuguesa 2026
+DESCRIPTION:A GRANDE CORRIDA A PREVIDÊNCIA PORTUGUESA - 3ª edição é um
+ a organização conjunta d’A Previdência Portuguesa (APP) e do Clube de 
+ Veteranos de Atletismo de Coimbra (CluVe)\,  com colaboração da Associaç
+ ão Distrital de Atletismo de Coimbra (ADAC) e da Escola Superior Agrária 
+ de Coimbra (ESAC)\,  com trajetos de 600\,  1200[..]\nhttps://www.portugalr
+ unning.com/eventos/grande-corrida-a-previdencia-portuguesa/
+URL:https://www.portugalrunning.com/eventos/grande-corrida-a-previdencia-portuguesa/
+END:VEVENT
+END:VCALENDAR

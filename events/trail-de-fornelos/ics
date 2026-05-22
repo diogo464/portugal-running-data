@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a0ff145cc569
+DTSTAMP:20260522T060141Z
+DTSTART:20260610T020000Z
+DTEND:20260610T020000Z
+LOCATION:Fafe\,  Braga Fafe\,  Braga
+SUMMARY:Trail de Fornelos 2026
+DESCRIPTION:XI Trail de Fornelos “Pelas margens do rio Vizela” é compo
+ sto por um trail com a distância aproximada de 15km\,  o mini trail de 8km
+  e a caminhada de 5km.\nhttps://www.portugalrunning.com/eventos/trail-de-fo
+ rnelos/
+URL:https://www.portugalrunning.com/eventos/trail-de-fornelos/
+END:VEVENT
+END:VCALENDAR

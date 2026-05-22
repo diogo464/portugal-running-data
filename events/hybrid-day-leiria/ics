@@ -4,13 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a2e34eb6
-DTSTAMP:20260320T110622Z
+UID:6a0ff143e46f1
+DTSTAMP:20260522T060139Z
 DTSTART:20260717T083200Z
 DTEND:20260717T235900Z
 LOCATION:Leiria Leiria
 SUMMARY:HYBRID DAY Leiria 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/hybrid-day-leiria/
+DESCRIPTION:Nos dias 17 e 18 de julho de 2026\,  o Hybrid Day regressa ao e
+ mblemático Estádio Municipal de Leiria para um novo capítulo de intensid
+ ade e superação. Depois da edição memorável de 2025\,  voltamos a este
+  palco icónico para dois dias de pura energia\,  espírito competitivo e c
+ omunidade. Atletas de[..]\nhttps://www.portugalrunning.com/eventos/hybrid-d
+ ay-leiria/
 URL:https://www.portugalrunning.com/eventos/hybrid-day-leiria/
 END:VEVENT
 END:VCALENDAR

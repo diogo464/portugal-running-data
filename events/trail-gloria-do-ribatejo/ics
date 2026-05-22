@@ -4,19 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d72c2e14
-DTSTAMP:20250720T222802Z
-DTSTART:20200426
-DTEND:20200427
-LOCATION:Glória do Ribatejo\,  Santarém Glória do Ribatejo\,  Santarém
-SUMMARY:Trail Glória do Ribatejo
-DESCRIPTION:Limite de Inscrições: Trail Longo -30k - 250 inscritos confir
- mados Trail Curto - 18k - 250 inscritos confirmados Caminhada - 200 inscrit
- os confirmados Localidade: Glória do Ribatejo (concelho de Salvaterra de M
- agos) Secretariado: Pavilhão Municipal Meta: Pavilhão Municipal Banhos: 
- Pavilhão Municipal Almoços: Associação de Caçadores (a 200mt do Pavilh
- ão Municipal) -[..]\nhttps://www.portugalrunning.com/eventos/trail-gloria-
- do-ribatejo/
+UID:6a0ff1467e51b
+DTSTAMP:20260522T060142Z
+DTSTART:20261101
+DTEND:20261102
+LOCATION:Salvaterra de Magos\,  Santarém Salvaterra de Magos\,  Santarém
+SUMMARY:Trail Glória do Ribatejo 2026
+DESCRIPTION:A XII edição do Trail Glória do Ribatejo – Desafia o trilh
+ o irá realizar-se no dia 1 de Novembro de 2026. À semelhança da edição
+  anterior\,  a prova continuará a integrar e a ser uma das provas pontuáv
+ eis para o “Circuito de Trail do Ribatejo – CTR” e para o[..]\nhttps:
+ //www.portugalrunning.com/eventos/trail-gloria-do-ribatejo/
 URL:https://www.portugalrunning.com/eventos/trail-gloria-do-ribatejo/
 END:VEVENT
 END:VCALENDAR

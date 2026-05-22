@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a0ff1446f238
+DTSTAMP:20260522T060140Z
+DTSTART:20260711T021400Z
+DTEND:20260711T021400Z
+LOCATION:Lousada\,  Porto Lousada\,  Porto
+SUMMARY:Lousada Night Run 2026
+DESCRIPTION:A&nbsp;Lousada Night Run&nbsp;é uma corrida de estrada em ambi
+ ente noturno\,  desenhada para quem gosta de competir\,  correr rápido e v
+ iver uma experiência diferente no centro da vila de Lousada. O percurso at
+ ravessa o centro urbano e o Circuito Internacional de Lousada\,  num ambien
+ te noturno pensado para ritmo e performance.\nhttps://www.portugalrunning.c
+ om/eventos/lousada-night-run/
+URL:https://www.portugalrunning.com/eventos/lousada-night-run/
+END:VEVENT
+END:VCALENDAR

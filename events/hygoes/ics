@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a0ff1434ecc4
+DTSTAMP:20260522T060139Z
+DTSTART:20260912T020600Z
+DTEND:20260912T235900Z
+LOCATION:Góis\,  Coimbra Góis\,  Coimbra
+SUMMARY:Hygoes 2026
+DESCRIPTION:A prova é realizada em formato inspirado no modelo competitivo
+  Hyrox\,  exclusivamente na categoria Open Duplas.\nhttps://www.portugalrun
+ ning.com/eventos/hygoes/
+URL:https://www.portugalrunning.com/eventos/hygoes/
+END:VEVENT
+END:VCALENDAR

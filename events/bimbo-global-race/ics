@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a0ff1431ffe6
+DTSTAMP:20260522T060139Z
+DTSTART:20260927
+DTEND:20260928
+LOCATION:Lisboa Lisboa
+SUMMARY:Bimbo Global Race 2026
+DESCRIPTION:O Ursinho Bimbo nasce com o Grupo Bimbo\,  acompanhando-o sempr
+ e\,  assando cada fatia de pão\,  cada biscoito\,  cada alimento\,  lado a
+  lado.O seu propósito é o mesmo\,  colocar em cada grão de farinha a von
+ tade de alimentar um mundo melhor. Dessa mesma forma\,  nasceu a&nbsp;Bimbo
+  Global Race\,  em busca de[..]\nhttps://www.portugalrunning.com/eventos/bi
+ mbo-global-race/
+URL:https://www.portugalrunning.com/eventos/bimbo-global-race/
+END:VEVENT
+END:VCALENDAR

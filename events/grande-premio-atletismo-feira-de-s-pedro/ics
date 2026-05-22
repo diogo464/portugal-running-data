@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a0ff14662d9d
+DTSTAMP:20260522T060142Z
+DTSTART:20260628
+DTEND:20260629
+LOCATION:Chamusca\,  Santarém Chamusca\,  Santarém
+SUMMARY:Grande Prémio Atletismo - Feira de S. Pedro 2026
+DESCRIPTION:A União de Freguesias da Parreira e do Chouto e a Câmara Muni
+ cipal da Chamuscaorganizam uma prova de Atletismo denominada 40.º GRANDE P
+ RÉMIO ATLETISMO - FEIRA DE S. PEDRO\,  para ser realizada no Chouto\,  no 
+ dia 28 de junho do corrente ano\,  a partir das 09:30 horas.\nhttps://www.p
+ ortugalrunning.com/eventos/grande-premio-atletismo-feira-de-s-pedro/
+URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-feira-de-s-pedro/
+END:VEVENT
+END:VCALENDAR
