@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1536ffae841
+DTSTAMP:20260526T060031Z
+DTSTART:20260704T222300Z
+DTEND:20260704T235900Z
+LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+SUMMARY:Milha da Cerveja 2026
+DESCRIPTION:A Associação Moinho de Vermoim vai realizar no dia 4 de julho
+  a VI Milha da Cerveja. São 1609 metros\,  dando 4 voltas ao Parque dos Lo
+ ureiros\,  com o prazer de beber uma cerveja no início de cada volta. A pr
+ ova pode ser realizada em modo individual ou em estafeta[..]\nhttps://www.p
+ ortugalrunning.com/eventos/milha-da-cerveja/
+URL:https://www.portugalrunning.com/eventos/milha-da-cerveja/
+END:VEVENT
+END:VCALENDAR
