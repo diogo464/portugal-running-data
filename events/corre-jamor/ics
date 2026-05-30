@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d15660c3
+DTSTAMP:20260530T060053Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corre Jamor 2026
+DESCRIPTION:O Corre Jamor by Saúde Prime é organizado pelo Clube Olímpic
+ o de Oeiras\,  em parceria com o Centro Desportivo Nacional do Jamor\,  a C
+ âmara Municipal de Oeiras e o Instituto Português do Desporto e Juventude
+ \,  e com o apoio técnico da HMS Sports Consulting\,  Lda.\nhttps://www.po
+ rtugalrunning.com/eventos/corre-jamor/
+URL:https://www.portugalrunning.com/eventos/corre-jamor/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d18293cd
+DTSTAMP:20260530T060056Z
+DTSTART:20260711
+DTEND:20260712
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Sintra Trail Monte da Lua 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/sintra-trail-monte-da
+ -lua/
+URL:https://www.portugalrunning.com/eventos/sintra-trail-monte-da-lua/
+END:VEVENT
+END:VCALENDAR

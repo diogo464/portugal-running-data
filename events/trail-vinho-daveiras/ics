@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d181a2ee
+DTSTAMP:20260530T060056Z
+DTSTART:20260920T125100Z
+DTEND:20260920T235900Z
+LOCATION:Aveiras de Cima\,  Azambuja Aveiras de Cima\,  Azambuja
+SUMMARY:Trail Vinho d'Aveiras 2026
+DESCRIPTION:A Junta de Freguesia de Aveiras de Cima e a Câmara Municipal d
+ e Azambuja organizam\,  no próximo dia 20 de setembro de 2026\,  a 2ª edi
+ ção do "Trail do Vinho D’ Aveiras". A prova\,  está integrada no “Ci
+ rcuito do Torricado – Azambuja Trail Running” de 2026\,  sendo a tercei
+ ra prova[..]\nhttps://www.portugalrunning.com/eventos/trail-vinho-daveiras/
+URL:https://www.portugalrunning.com/eventos/trail-vinho-daveiras/
+END:VEVENT
+END:VCALENDAR

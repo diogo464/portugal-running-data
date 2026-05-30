@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d162a36d
+DTSTAMP:20260530T060054Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+SUMMARY:Corrida Multicare Vitality 2026
+DESCRIPTION:Este é um evento familiar\,  que tem como objetivo promover a 
+ atividade física para uma vida mais saudável em todas as idades. Porque a
+  saúde começa na prevenção e nas nossas rotinas diárias. No final\,  g
+ anha a sua saúde e ganha quem mais precisa. O valor da sua inscrição rev
+ erte[..]\nhttps://www.portugalrunning.com/eventos/corrida-multicare-vitalit
+ y/
+URL:https://www.portugalrunning.com/eventos/corrida-multicare-vitality/
+END:VEVENT
+END:VCALENDAR

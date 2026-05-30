@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d16bfe96
+DTSTAMP:20260530T060054Z
+DTSTART:20261201
+DTEND:20261202
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Cascais Corrida de Natal 2026
+DESCRIPTION:Estamos de volta a 1 de dezembro de 2025!A correr ou a caminhar
+  5 km\,  estaremos juntos a promover a inclusão!\nhttps://www.portugalrunn
+ ing.com/eventos/cascais-corrida-de-natal/
+URL:https://www.portugalrunning.com/eventos/cascais-corrida-de-natal/
+END:VEVENT
+END:VCALENDAR

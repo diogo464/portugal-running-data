@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d1717508
+DTSTAMP:20260530T060055Z
+DTSTART:20260726
+DTEND:20260727
+LOCATION:Mondim de Basto\,  Vila Real Mondim de Bastos Vila Real
+SUMMARY:Corrida S.Tiago 2026
+DESCRIPTION:Corrida - 12kms: para atletas federados e não federados nascid
+ os em 2006 e anteriores.Caminhada - 8km: destinadas a todas as classes etá
+ rias e sem fins competitivos.\nhttps://www.portugalrunning.com/eventos/corr
+ ida-s-tiago/
+URL:https://www.portugalrunning.com/eventos/corrida-s-tiago/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d17707e0
+DTSTAMP:20260530T060055Z
+DTSTART:20261005
+DTEND:20261006
+LOCATION:Palmela\,  Setúbal Palmela\,  Setúbal
+SUMMARY:Corrida Volkswagen 2026
+DESCRIPTION:A Corrida Volkswagen abrirá de novo as portas de uma das maior
+ es fábricas do país\,  onde todos os participantes podem usufruir do rest
+ rito espaço da fábrica que mais influencia a produção automóvel em Por
+ tugal. Não perca a oportunidade.\nhttps://www.portugalrunning.com/eventos/
+ corrida-volkswagen/
+URL:https://www.portugalrunning.com/eventos/corrida-volkswagen/
+END:VEVENT
+END:VCALENDAR

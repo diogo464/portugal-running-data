@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d1734c3f
+DTSTAMP:20260530T060055Z
+DTSTART:20260628T212500Z
+DTEND:20260628T235900Z
+LOCATION:Alpiarça\,  Santarém Alpiarça\,  Santarém
+SUMMARY:Mini e Meia Maratona de Alpiarça 2026
+DESCRIPTION:O Município de Alpiarça e a Junta de Freguesia de Alpiarça e
+ stão empenhados na organização da 3.aMini e Meia-Maratona de Alpiarça �
+ �� Terra de Melão\,  na manhã de domingo\,  28 de junho de 2026. Este eve
+ nto realizar-se-á nos moldes das edições anteriores\,  apenas com a alte
+ ração do local do evento;[..]\nhttps://www.portugalrunning.com/eventos/mi
+ ni-e-meia-maratona-de-alpiarca/
+URL:https://www.portugalrunning.com/eventos/mini-e-meia-maratona-de-alpiarca/
+END:VEVENT
+END:VCALENDAR

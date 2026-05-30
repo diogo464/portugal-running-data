@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d17e5ea4
+DTSTAMP:20260530T060055Z
+DTSTART:20260705
+DTEND:20260706
+LOCATION:Mação\,  Santarém Mação\,  Santarém
+SUMMARY:Trail das Zagaias 2026
+DESCRIPTION:O Trail das Zagaias é uma organização da Associação BTZ Ma
+ ção e ACR Chão de Codes\,  com o apoio e colaboração da Câmara Munici
+ pal de Mação.Realiza-se no dia 5 de Julho de 2026 em Mação e será cons
+ tituído por um Trail com cerca de 18 kms.\nhttps://www.portugalrunning.com
+ /eventos/trail-das-zagaias/
+URL:https://www.portugalrunning.com/eventos/trail-das-zagaias/
+END:VEVENT
+END:VCALENDAR

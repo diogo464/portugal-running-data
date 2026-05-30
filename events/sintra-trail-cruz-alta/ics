@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d17a3e44
+DTSTAMP:20260530T060055Z
+DTSTART:20261101
+DTEND:20261102
+LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+SUMMARY:Sintra Trail - Cruz Alta 2026
+DESCRIPTION:A Câmara Municipal de Sintra organiza a 1 de novembro de 2026\
+ ,  pelas 8h15\,  o Sintra Trail Cruz Alta. A segunda edição do evento é 
+ composta por duas provas competitivas e uma caminhada.\nhttps://www.portuga
+ lrunning.com/eventos/sintra-trail-cruz-alta/
+URL:https://www.portugalrunning.com/eventos/sintra-trail-cruz-alta/
+END:VEVENT
+END:VCALENDAR

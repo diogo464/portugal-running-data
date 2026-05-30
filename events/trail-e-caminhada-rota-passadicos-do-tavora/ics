@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d17a9b9d
+DTSTAMP:20260530T060055Z
+DTSTART:20260705
+DTEND:20260706
+LOCATION:Vila da Ponte\,  Viseu Vila da Ponte\,  Viseu
+SUMMARY:Trail e Caminhada "Rota Passadiços do Távora" 2026
+DESCRIPTION:A 4º Edição do Trail e Caminhada “Rota Passadiços do Táv
+ ora” é organizada pelo Núcleo Desportivo e Cultural de Vila da Ponte e 
+ pela Câmara Municipal de Sernancelhe\,  com o apoio da Junta de Freguesia 
+ de Vila da Ponte\,  Escola Profissional de Sernancelhe\,  Runners Sernancel
+ he Terra da Castanha e Bombeiros[..]\nhttps://www.portugalrunning.com/event
+ os/trail-e-caminhada-rota-passadicos-do-tavora/
+URL:https://www.portugalrunning.com/eventos/trail-e-caminhada-rota-passadicos-do-tavora/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d16b13f5
+DTSTAMP:20260530T060054Z
+DTSTART:20261122
+DTEND:20261123
+LOCATION:Évora Évora
+SUMMARY:Meia Maratona Évora 2026
+DESCRIPTION:Évora\,  capital de distrito de grande relevância e cheia de 
+ História para contar\,  mas também local de uma Meia-Maratona que promete
+  agitar a prática desportiva. Venha participar na distância principal\,  
+ ou na distância de 10 quilómetros\,  senão percorra as ruas a caminhar.\
+ nhttps://www.portugalrunning.com/eventos/meia-maratona-evora/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-evora/
+END:VEVENT
+END:VCALENDAR

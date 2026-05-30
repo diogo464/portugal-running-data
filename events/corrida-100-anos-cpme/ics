@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a1a7d15e21f5
+DTSTAMP:20260530T060053Z
+DTSTART:20261018T233000Z
+DTEND:20261018T233000Z
+LOCATION:Rossio\,  Lisboa Rossio\,  Lisboa
+SUMMARY:Corrida 100 anos CPME 2026
+DESCRIPTION:A Caixa de Previdência do Ministério da Educação celebra 10
+ 0 anos em 2026 e convida-o a fazer parte desta data histórica! Para assina
+ lar um século de dedicação\,  proximidade e compromisso com a comunidade
+  educativa\,  realizaremos uma manhã desportiva muito especial\,  no cora�
+ �ão de Lisboa\,  com partida e chegada no Rossio\, [..]\nhttps://www.portu
+ galrunning.com/eventos/corrida-100-anos-cpme/
+URL:https://www.portugalrunning.com/eventos/corrida-100-anos-cpme/
+END:VEVENT
+END:VCALENDAR
