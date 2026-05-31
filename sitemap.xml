@@ -2,7 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-05-30T04:06:56+00:00</lastmod>
+		<lastmod>2026-05-30T08:12:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-da-nazare-2022/</loc>
+		<lastmod>2026-05-30T08:12:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2022/08/295860728_5386209644795497_1514920470563325322_n.png-1.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/ecotur-skymarathon-porto-moniz/</loc>
@@ -30328,13 +30335,6 @@
 		<lastmod>2022-10-10T08:57:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2022/10/pop_hv2ls22536.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-da-nazare-2022/</loc>
-		<lastmod>2022-10-10T08:54:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2022/08/295860728_5386209644795497_1514920470563325322_n.png</image:loc>
 		</image:image>
 	</url>
 	<url>
