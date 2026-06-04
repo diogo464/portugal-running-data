@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a21148c2ae3b
+DTSTAMP:20260604T060044Z
+DTSTART:20260620
+DTEND:20260621
+LOCATION:Soure\,  Coimbra Soure\,  Coimbra
+SUMMARY:Corrida 4 Estações Verão Soure 2026
+DESCRIPTION:A Associação Desportiva 4 Estações\,  com o apoio da Câmar
+ a Municipal de Soure\,  vai realizar a etapa do Verão do Circuito de Corri
+ da 4 Estações Portugal na localidade de Soure dia 20 de junho. Este event
+ o consiste numa corrida de atletismo de estrada com a distância de 10 km c
+ om[..]\nhttps://www.portugalrunning.com/eventos/corrida-4-estacoes-verao-so
+ ure/
+URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-verao-soure/
+END:VEVENT
+END:VCALENDAR

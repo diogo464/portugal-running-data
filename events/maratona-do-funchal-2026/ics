@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a21148cf3a43
-DTSTAMP:20260604T060044Z
-DTSTART:20270131
-DTEND:20270201
+UID:6a21148d936d9
+DTSTAMP:20260604T060045Z
+DTSTART:20260117
+DTEND:20260118
 LOCATION:Funchal\,  Madeira Funchal\,  Madeira
-SUMMARY:Maratona do Funchal 2027
+SUMMARY:Maratona do Funchal 2026
 DESCRIPTION:A Maratona do Funchal é organizada pela Associação de Atleti
  smo da Região Autónoma da Madeira com o apoio de instituições públicas
   e privadas.Neste evento\,  a organização oferece três distâncias aos p
  articipantes: a Maratona do Funchal com 42.195 metros; a Meia Maratona do F
  unchal com 21.097\, 5 metros; e a Mini Maratona[..]\nhttps://www.portugalru
- nning.com/eventos/maratona-do-funchal/
-URL:https://www.portugalrunning.com/eventos/maratona-do-funchal/
+ nning.com/eventos/maratona-do-funchal-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-do-funchal-2026/
 END:VEVENT
 END:VCALENDAR
