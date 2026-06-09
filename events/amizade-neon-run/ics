@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a27ac00ba783
+DTSTAMP:20260609T060032Z
+DTSTART:20260717T153800Z
+DTEND:20260717T235900Z
+LOCATION:Santiago da Guarda\,  Ansião Santiago da Guarda\,  Ansião
+SUMMARY:Amizade Néon Run 2026
+DESCRIPTION:Diferente da tradicional Néon Run\,  a Amizade Néon Run terá
+  lugar num cenário espetacular de trilhos demontanha\,  oferecendo aos par
+ ticipantes um ambiente natural e deslumbrante para explorar à noite. Esta 
+ prova é desenhada para ser uma festa sem caráter competitivo celebração
+ .\nhttps://www.portugalrunning.com/eventos/amizade-neon-run/
+URL:https://www.portugalrunning.com/eventos/amizade-neon-run/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a27ac005991e
+DTSTAMP:20260609T060032Z
+DTSTART:20260808T064600Z
+DTEND:20260808T064600Z
+LOCATION:Sequeirô\,  Santo Tirso Sequeirô\,  Santo Tirso
+SUMMARY:Milha Cerveja – A.R. Sequeirô 2026
+DESCRIPTION:Numa organização da Associação Recreativa de Sequeirô.A 1.
+ ª MILHA DA CERVEJA – A.R. SEQUEIRÔ - OS DESTEMIDOS\,  tem de ser consid
+ erada por todos como uma prova de convívio.Todos devem beber com moderaç�
+ �o. MILHA INDIVIDUAL - O PARTICIPANTE FAZ AS 4 VOLTAS DO PERCURSO\,  TOTALI
+ ZANDO 1609 MTSMILHA ESTAFETA - CADA UM[..]\nhttps://www.portugalrunning.com
+ /eventos/milha-cerveja-a-r-sequeiro/
+URL:https://www.portugalrunning.com/eventos/milha-cerveja-a-r-sequeiro/
+END:VEVENT
+END:VCALENDAR

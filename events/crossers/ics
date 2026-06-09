@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a27abffbff77
+DTSTAMP:20260609T060031Z
+DTSTART:20261018T035100Z
+DTEND:20261018T235900Z
+LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+SUMMARY:Crossers 2026
+DESCRIPTION:Esta primeira edição surge em parceria estratégica com a Urb
+ an Obstacles\,  aproveitando a experiência organizativa\,  a estrutura log
+ ística e a comunidade já existente\,  embora mantendo uma identidade pró
+ pria e diferenciadora. O objetivo é criar uma experiência acessível tant
+ o a atletas OCR como a participantes do segmento hybrid fitness\,  promoven
+ do um[..]\nhttps://www.portugalrunning.com/eventos/crossers/
+URL:https://www.portugalrunning.com/eventos/crossers/
+END:VEVENT
+END:VCALENDAR

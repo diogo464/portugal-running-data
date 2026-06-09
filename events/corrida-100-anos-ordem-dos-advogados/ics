@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a27ac005832d
+DTSTAMP:20260609T060032Z
+DTSTART:20260920T063500Z
+DTEND:20260920T063500Z
+LOCATION:Parque Keil do Amaral\,  Monsanto Parque Keil do Amaral\,  Monsanto
+SUMMARY:Corrida 100 anos Ordem dos Advogados 2026
+DESCRIPTION:Entre na corrida dos 100 anos da Ordem dos Advogados!&nbsp;Cele
+ bre o Centenário em movimento e junte-se a esta prova especial\,  com corr
+ ida de 10 km e caminhada de 5 km\,  aberta a advogados\,  juristas\,  opera
+ dores da justiça\,  famílias e amigos.Uma oportunidade para assinalar est
+ a data histórica com energia\,  saúde\,  convívio[..]\nhttps://www.portu
+ galrunning.com/eventos/corrida-100-anos-ordem-dos-advogados/
+URL:https://www.portugalrunning.com/eventos/corrida-100-anos-ordem-dos-advogados/
+END:VEVENT
+END:VCALENDAR

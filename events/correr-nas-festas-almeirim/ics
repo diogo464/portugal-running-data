@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a27abffcc730
+DTSTAMP:20260609T060031Z
+DTSTART:20260626T064200Z
+DTEND:20260626T064200Z
+LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+SUMMARY:Correr nas Festas - Almeirim 2026
+DESCRIPTION:A Câmara Municipal de Almeirim\,  organiza uma atividade pedes
+ tre designada “CORRER NAS FESTAS 2026” com um percurso de estrada\,  co
+ m a distância aproximada de 10.000 metros\,  no dia 26 de junho de 2026\, 
+  às 19h45 com hora limite da conclusão da prova às 21h30.\nhttps://www.p
+ ortugalrunning.com/eventos/correr-nas-festas-almeirim/
+URL:https://www.portugalrunning.com/eventos/correr-nas-festas-almeirim/
+END:VEVENT
+END:VCALENDAR

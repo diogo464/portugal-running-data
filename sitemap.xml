@@ -2,7 +2,77 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-06-03T06:53:45+00:00</lastmod>
+		<lastmod>2026-06-05T10:25:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/correr-fontao/</loc>
+		<lastmod>2026-06-05T10:25:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/20260801_CorrerFontao.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/amizade-neon-run/</loc>
+		<lastmod>2026-06-05T10:25:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/1749248837-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/milha-cerveja-a-r-sequeiro/</loc>
+		<lastmod>2026-06-05T06:50:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/1780525942-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/correr-nas-festas-almeirim/</loc>
+		<lastmod>2026-06-05T06:45:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/pop_423y7o2980.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-do-endovelico/</loc>
+		<lastmod>2026-06-05T06:41:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/pop_vv6ekvr978.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-caminhada-lusical/</loc>
+		<lastmod>2026-06-05T06:39:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/pop_6ihem69967.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-100-anos-ordem-dos-advogados/</loc>
+		<lastmod>2026-06-05T06:37:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/100-ANOS-ORDEM-DOS-ADVOGADOS-03-750x380-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/prova-resistencia-terrantez-trail-team/</loc>
+		<lastmod>2026-06-05T06:20:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/6a1e94cf7c557_Terrantez_cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/crossers/</loc>
+		<lastmod>2026-06-05T06:18:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/banner-crossers-extreme-fitness-challenges-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-chapeleiro/</loc>
+		<lastmod>2026-06-05T06:17:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/06/banner-trail-do-chapeleiro-2025-min.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-do-funchal/</loc>
@@ -83,13 +153,6 @@
 		<lastmod>2026-05-30T03:58:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/pop_w87rmlu977.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/crossers-extreme-fitness-challenges/</loc>
-		<lastmod>2026-05-30T03:52:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/banner-crossers-extreme-fitness-challenges-2026-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

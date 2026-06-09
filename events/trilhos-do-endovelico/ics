@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a27ac017f2cb
+DTSTAMP:20260609T060033Z
+DTSTART:20261129
+DTEND:20261130
+LOCATION:Alandroal\,  Évora Alandroal\,  Évora
+SUMMARY:Trilhos do Endovélico 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-do-endovelico
+ /
+URL:https://www.portugalrunning.com/eventos/trilhos-do-endovelico/
+END:VEVENT
+END:VCALENDAR

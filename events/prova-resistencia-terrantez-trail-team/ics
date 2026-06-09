@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a27ac00aa57b
+DTSTAMP:20260609T060032Z
+DTSTART:20261029
+DTEND:20261030
+LOCATION:Mira de Aire\,  Minde Mira de Aire\,  Minde
+SUMMARY:Prova Resistência Terrantêz Trail Team 2026
+DESCRIPTION:Esta prova designada de “2ª Prova de Resistência Terrantêz
+  Trail Team” terá uma duração de 3 horas e é organizada pela equipa d
+ e Trail running “Terrantêz Trail Team”\,  representando a secção “
+ Natura Minde” da Casa do Povo de Minde. A prova irá desenrolar-se no Par
+ que Natural da Serra de Aire[..]\nhttps://www.portugalrunning.com/eventos/p
+ rova-resistencia-terrantez-trail-team/
+URL:https://www.portugalrunning.com/eventos/prova-resistencia-terrantez-trail-team/
+END:VEVENT
+END:VCALENDAR
