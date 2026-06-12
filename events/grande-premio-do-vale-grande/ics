@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a2ba08e02eb5
+DTSTAMP:20260612T060046Z
+DTSTART:20261005
+DTEND:20261006
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:Grande Prémio do Vale Grande 2026
+DESCRIPTION:A Associação Vale Grande e a Câmara Municipal de Odivelas\, 
+  com a colaboração da Polícia de Segurança Pública\,  dos Bombeiros Vo
+ luntários da Pontinha e da WeRun promovem\,  no próximo dia 5 de Outubro 
+ de 2026\,  pelas 09:45 Horas\,  uma prova de atletismo de estrada\,  design
+ ada por Grande Prémio do Vale[..]\nhttps://www.portugalrunning.com/eventos
+ /grande-premio-do-vale-grande/
+URL:https://www.portugalrunning.com/eventos/grande-premio-do-vale-grande/
+END:VEVENT
+END:VCALENDAR

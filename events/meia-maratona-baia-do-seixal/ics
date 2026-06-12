@@ -4,17 +4,14 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:696c22a94fca8
-DTSTAMP:20260118T000041Z
-DTSTART:20260322
-DTEND:20260323
+UID:6a2ba08e35221
+DTSTAMP:20260612T060046Z
+DTSTART:20270321
+DTEND:20270322
 LOCATION:Seixal Seixal
-SUMMARY:Meia Maratona Baía do Seixal 2026
-DESCRIPTION:No dia 22 de março de 2026\,  ao longo da baía das cidades do
-  Seixal e Amora\,  vai ter lugar um evento desportivo denominado MEIA MARAT
- ONA BAÍA DO SEIXAL\,  composto por 3 distâncias distintas: Meia Maratona 
- Baía do Seixal – 21\, 097 Km Prova 10 Km Caminhada/Corrida - 5 km Prova[
- ..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-baia-do-seixal/
+SUMMARY:Meia Maratona Baía do Seixal 2027
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/meia-maratona-baia-do
+ -seixal/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-baia-do-seixal/
 END:VEVENT
 END:VCALENDAR

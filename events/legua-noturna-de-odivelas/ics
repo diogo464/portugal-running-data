@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a2ba08e35a2e
+DTSTAMP:20260612T060046Z
+DTSTART:20260710
+DTEND:20260711
+LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+SUMMARY:Légua Noturna de Odivelas 2026
+DESCRIPTION: A prova “23ª LÉGUA NOTURNA DE ODIVELAS” irá realizar
+ -se no dia 10 de julho (sexta-feira) pelas 21h00 e integra o Circuito de A
+ tletismo “Odivelas a Mexer”\,   uma organização da Câmara Municipa
+ l de Odivelas e da Junta de Freguesia de Odivelas.\nhttps://www.portugalr
+ unning.com/eventos/legua-noturna-de-odivelas/
+URL:https://www.portugalrunning.com/eventos/legua-noturna-de-odivelas/
+END:VEVENT
+END:VCALENDAR

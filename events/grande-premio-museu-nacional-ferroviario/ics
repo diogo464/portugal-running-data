@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a2ba08e88705
+DTSTAMP:20260612T060046Z
+DTSTART:20260920T125300Z
+DTEND:20260920T235900Z
+LOCATION:Entroncamento\,  Santarém Entroncamento\,  Santarém
+SUMMARY:Grande Prémio Museu Nacional Ferroviário 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-museu-n
+ acional-ferroviario/
+URL:https://www.portugalrunning.com/eventos/grande-premio-museu-nacional-ferroviario/
+END:VEVENT
+END:VCALENDAR

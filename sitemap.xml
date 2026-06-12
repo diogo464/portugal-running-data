@@ -2,7 +2,67 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-06-05T10:25:41+00:00</lastmod>
+		<lastmod>2026-06-11T14:52:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/oeiras-trail/</loc>
+		<lastmod>2026-06-11T14:52:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/cartaz154776_grande.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-das-trevas-2026/</loc>
+		<lastmod>2026-06-11T14:49:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/1780950671-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-museu-nacional-ferroviario/</loc>
+		<lastmod>2026-06-11T14:46:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/prime-hybrid-espinho-fitness-racing/</loc>
+		<lastmod>2026-06-11T14:43:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/0922b653222d6eeaa6d67eb9a9ba6e36.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/castelo-de-vide-sky-race/</loc>
+		<lastmod>2026-06-11T14:37:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/Popz3o95s8149.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-baia-do-seixal/</loc>
+		<lastmod>2026-06-11T06:48:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/mm27_page-0001-1.600x850.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-do-vale-grande/</loc>
+		<lastmod>2026-06-11T06:45:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/cartaz_1-1.600x850.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/biorace-challenge/</loc>
+		<lastmod>2026-06-11T06:43:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/banner-biorace-estarreja-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/legua-noturna-de-odivelas/</loc>
+		<lastmod>2026-06-11T06:43:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/cartaz_le_gua_noturna_odivelas_2026-1.600x850.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/correr-fontao/</loc>
@@ -5592,13 +5652,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/castelo-de-vide-sky-race/</loc>
-		<lastmod>2026-01-24T09:19:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/Popp92f8il149-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/campeonato-concelhio-trail-famalicao/</loc>
 		<lastmod>2026-01-24T09:11:57+00:00</lastmod>
 		<image:image>
@@ -5728,13 +5781,6 @@
 		<lastmod>2026-01-17T14:44:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/69548f241d445_417432958_10230892047034446_3592941240637602673_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-baia-do-seixal/</loc>
-		<lastmod>2026-01-17T14:42:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/cartaz_mm_seixal_2025-1.600x850.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
