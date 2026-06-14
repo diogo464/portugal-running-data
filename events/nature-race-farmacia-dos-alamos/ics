@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a2e4397054b6
+DTSTAMP:20260614T060055Z
+DTSTART:20260920T231400Z
+DTEND:20260920T235900Z
+LOCATION:Nossa Senhora de Machede\,  Évora Nossa Senhora de Machede\,  Évora
+SUMMARY:Nature Race - Farmácia dos Álamos 2026
+DESCRIPTION:A 4ª Nature Race - Farmácia dos Álamos será realizado no di
+ a 20 de setembro de 2026\,  sendo constituído por 4 modalidades: *Corrida 
+ Longa com a distância aproximada de 18km\,  ±400 m de desnível positivo.
+  Dificuldade de 3 pontos (de 1 a 5)*Corrida Curta com a distância aproxima
+ da de 12km\, [..]\nhttps://www.portugalrunning.com/eventos/nature-race-farm
+ acia-dos-alamos/
+URL:https://www.portugalrunning.com/eventos/nature-race-farmacia-dos-alamos/
+END:VEVENT
+END:VCALENDAR

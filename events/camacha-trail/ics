@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a2e439553d91
+DTSTAMP:20260614T060053Z
+DTSTART:20260802
+DTEND:20260803
+LOCATION:Camacha\,  Madeira Camacha\,  Madeira
+SUMMARY:Camacha Trail 2026
+DESCRIPTION:O “Camacha Trail” é um evento de Trail Running\,  que ocor
+ re na Freguesia da Camacha\,  Santa Cruz\,  na ilha da Madeira. As provas a
+ presentam-se em formato circular e integram o Circuito Regional “Trail Ma
+ deira” 2025/2026 da AARAM - Associação de Atletismo da Região Autónom
+ a da Madeira.\nhttps://www.portugalrunning.com/eventos/camacha-trail/
+URL:https://www.portugalrunning.com/eventos/camacha-trail/
+END:VEVENT
+END:VCALENDAR
