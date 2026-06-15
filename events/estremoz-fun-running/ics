@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a2f950d3aa38
+DTSTAMP:20260615T060045Z
+DTSTART:20260705T070900Z
+DTEND:20260705T235900Z
+LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+SUMMARY:Estremoz Fun Running 2026
+DESCRIPTION:As inscrições para o Estremoz Fun Running 2026 já se encontr
+ am oficialmente abertas. O evento\,  integrado no programa da Feira Interna
+ cional do Desporto de Estremoz (FIDMOZ)\,  vai realizar-se no dia 5 de julh
+ o\,  com início agendado para as 18h00 no Parque de Feiras e Exposições 
+ de Estremoz. A iniciativa propõe[..]\nhttps://www.portugalrunning.com/even
+ tos/estremoz-fun-running/
+URL:https://www.portugalrunning.com/eventos/estremoz-fun-running/
+END:VEVENT
+END:VCALENDAR

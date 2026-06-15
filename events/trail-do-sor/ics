@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a2f950dc94a9
+DTSTAMP:20260615T060045Z
+DTSTART:20260906
+DTEND:20260907
+LOCATION:Ponte de Sor\,  Portalegre Ponte de Sor\,  Portalegre
+SUMMARY:Trail do Sor 2026
+DESCRIPTION:A Associação Clube de Atletismo Trail Runners da Ponte vai 
+ realizar no dia 06 de setembro de 2026 o “XIII TRAIL DO SOR”\,  na Cida
+ de de Ponte de Sor\,  Distrito de Portalegre\,  Alto Alentejo\,  com o Apoi
+ o do Município de Ponte de Sor\,  da União de Freguesias de Ponte de Sor\
+ ,  Vale[..]\nhttps://www.portugalrunning.com/eventos/trail-do-sor/
+URL:https://www.portugalrunning.com/eventos/trail-do-sor/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a2f950c51380
+DTSTAMP:20260615T060044Z
+DTSTART:20260711T144700Z
+DTEND:20260711T235900Z
+LOCATION:Celorico de Basto\,  Braga Celorico de Basto\,  Braga
+SUMMARY:Corrida das Trevas 2026
+DESCRIPTION:. A 1.ª Corrida das Trevas realiza-se no dia 11 de julho de 20
+ 26\,  e é organizada pela Associação Motólicos Agilde. O evento consist
+ e numa corrida de obstáculos com aproximadamente 10 km de extensão e difi
+ culdade média/alta. O percurso será constituído por trilhos\,  passagens
+  em água\,  lama e diversos obstáculos[..]\nhttps://www.portugalrunning.c
+ om/eventos/corrida-das-trevas/
+URL:https://www.portugalrunning.com/eventos/corrida-das-trevas/
+END:VEVENT
+END:VCALENDAR
