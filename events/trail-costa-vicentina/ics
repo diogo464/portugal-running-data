@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a33898d4230b
+DTSTAMP:20260618T060045Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+SUMMARY:Trail Costa Vicentina 2026
+DESCRIPTION:A natureza volta a desafiar-te! No próximo dia 8 de novembro d
+ e 2026\,  realiza-se a 10.ª edição do Trail Costa Vicentina\,  uma prova
+  de referência do trail running nacional que percorre alguns dos mais belo
+ s trilhos da região entre Santiago do Cacém\,  Cercal do Alentejo\,  Sone
+ ga e Porto Covo\,  integrados[..]\nhttps://www.portugalrunning.com/eventos/
+ trail-costa-vicentina/
+URL:https://www.portugalrunning.com/eventos/trail-costa-vicentina/
+END:VEVENT
+END:VCALENDAR

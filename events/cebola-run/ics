@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a33898b93188
+DTSTAMP:20260618T060043Z
+DTSTART:20260906T172700Z
+DTEND:20260906T235900Z
+LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
+SUMMARY:Cebola Run 2026
+DESCRIPTION:A Cebola Run é organizada pela Câmara Municipal de Rio Maior 
+ e pela Desmor\,  EM\,  SA.\nhttps://www.portugalrunning.com/eventos/cebola-
+ run/
+URL:https://www.portugalrunning.com/eventos/cebola-run/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a33898beafbc
+DTSTAMP:20260618T060043Z
+DTSTART:20260726T162700Z
+DTEND:20260726T162700Z
+LOCATION:Lapa do Lobo\,  Viseu Lapa do Lobo\,  Viseu
+SUMMARY:Corrida Cristiano Pereira 2026
+DESCRIPTION:A 1.a Corrida Cristiano Pereira é organizada pela Fundação d
+ a Lapa do Lobo com o apoio da Associação Desportiva e Cultural Anti Socia
+ l Social Run Club. A 1.a Corrida Cristiano Pereira realiza-se no dia 26 de 
+ Julho de 2026\,  na Lapa do Lobo\,  com partida e chegada na Lapa do[..]\nh
+ ttps://www.portugalrunning.com/eventos/corrida-cristiano-pereira/
+URL:https://www.portugalrunning.com/eventos/corrida-cristiano-pereira/
+END:VEVENT
+END:VCALENDAR
