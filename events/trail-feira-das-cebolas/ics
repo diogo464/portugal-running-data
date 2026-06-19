@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a34db1f42dee
+DTSTAMP:20260619T060103Z
+DTSTART:20260830
+DTEND:20260831
+LOCATION:Gondidelos\,  Vila Nova de Famalicão Gondidelos\,  Vila Nova de Famalicão
+SUMMARY:Trail Feira das Cebolas 2026
+DESCRIPTION:O 9º Trail Feira das Cebolas é uma prova desportiva integrada
+  na centenária Feira das Cebolas e Mostra comunitária de Gondifelos\, Vil
+ a Nova de Famalicão\,  que pretende promover a prática desportiva junto d
+ a comunidade. Com início e chegada no parque de lazer de Gondifelos o Trai
+ l Feira das Cebolas conta com[..]\nhttps://www.portugalrunning.com/eventos/
+ trail-feira-das-cebolas/
+URL:https://www.portugalrunning.com/eventos/trail-feira-das-cebolas/
+END:VEVENT
+END:VCALENDAR

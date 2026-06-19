@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a34db1e7e831
+DTSTAMP:20260619T060102Z
+DTSTART:20261101
+DTEND:20261102
+LOCATION:Arraiolos\,  Évora Arraiolos\,  Évora
+SUMMARY:Trail da Empada 2026
+DESCRIPTION:O Trail da Empada é uma prova de Trail Running\,  corrida pede
+ stre em Natureza\,  com duas distâncias\,  TrailSprint (TS) K21+/-\,  Mini
+  Trail (MT) K15+/-\,  Caminhada 8Km e Trail Kids.As provas terão início n
+ a praça do Município em Arraiolos e terminam no pavilhão multiusos tamb�
+ �m emArraiolos\,  percorrendo trilhos\,  estradões\,  caminhos florestais\
+ , [..]\nhttps://www.portugalrunning.com/eventos/trail-da-empada/
+URL:https://www.portugalrunning.com/eventos/trail-da-empada/
+END:VEVENT
+END:VCALENDAR

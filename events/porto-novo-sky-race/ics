@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a34db1e9c5c6
+DTSTAMP:20260619T060102Z
+DTSTART:20261018T233000Z
+DTEND:20261018T235900Z
+LOCATION:Porto Novo\,  Torres Vedras Porto Novo\,  Torres Vedras
+SUMMARY:Porto Novo Sky Race 2026
+DESCRIPTION:O nosso evento na zona de Porto Novo e Maceira  vai para a 10�
+ � edição como o nosso lema é " Nasceu para Criar Desafios " em 2026 com
+  uma nova designação e percurso PORTO NOVO SKY RACE 2026.\nhttps://www.p
+ ortugalrunning.com/eventos/porto-novo-sky-race/
+URL:https://www.portugalrunning.com/eventos/porto-novo-sky-race/
+END:VEVENT
+END:VCALENDAR

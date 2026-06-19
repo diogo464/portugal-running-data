@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a34db1fe7877
+DTSTAMP:20260619T060103Z
+DTSTART:20260906
+DTEND:20260907
+LOCATION:Vila Nova de Cerveira\,  Vila Nova de Castelo Vila Nova de Cerveira\,  Vila Nova de Castelo
+SUMMARY:Ultra Trail de Cerveira 2026
+DESCRIPTION:O Ultra Trail de Cerveira é constituído por duas provas e uma
+  Caminhada\,  com início e fim em Vila Nova de Cerveira: a. O Trail Longo\
+ ,  de caráter competitivo\,  tem início no dia 6 de setembro de 2026\,  �
+ �s 8:30 horas\,  com ±38km de distância e 2240 metros de desnível[..]\nh
+ ttps://www.portugalrunning.com/eventos/ultra-trail-de-cerveira/
+URL:https://www.portugalrunning.com/eventos/ultra-trail-de-cerveira/
+END:VEVENT
+END:VCALENDAR

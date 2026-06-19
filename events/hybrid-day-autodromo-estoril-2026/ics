@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a34db1fb025c
+DTSTAMP:20260619T060103Z
+DTSTART:20260822T083200Z
+DTEND:20260822T235900Z
+LOCATION:Autódromo do Estoril\,  Lisboa Autódromo do Estoril\,  Lisboa
+SUMMARY:HYBRID DAY Autódromo do Estoril 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/hybrid-day-autodromo-
+ estoril-2026/
+URL:https://www.portugalrunning.com/eventos/hybrid-day-autodromo-estoril-2026/
+END:VEVENT
+END:VCALENDAR

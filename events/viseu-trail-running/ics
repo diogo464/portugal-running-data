@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a34db1fd17d0
+DTSTAMP:20260619T060103Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Viseu Viseu
+SUMMARY:Viseu Trail Running 2026
+DESCRIPTION:O VISEU TRAIL RUNNING (VTR26) realiza-se em 8 de novembro de 20
+ 26; A 9ª Edição do VISEU TRAIL RUNNING será constituída por três prov
+ as: › TRAIL CURTO (TC) — (Circuito Nacional de Trail Sprint); › TRAIL
+  LONGO (TL) — (Circuito Nacional de Trail) › ULTRA TRAIL MÉDIO (UTM) �
+ �� (Circuito[..]\nhttps://www.portugalrunning.com/eventos/viseu-trail-runni
+ ng/
+URL:https://www.portugalrunning.com/eventos/viseu-trail-running/
+END:VEVENT
+END:VCALENDAR

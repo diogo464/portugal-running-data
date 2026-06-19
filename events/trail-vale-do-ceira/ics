@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a34db1fb343d
+DTSTAMP:20260619T060103Z
+DTSTART:20260927
+DTEND:20260928
+LOCATION:Coimbra Coimbra
+SUMMARY:Trail Vale do Ceira 2026
+DESCRIPTION:O Trail Vale do Ceira\,  adiante designado por TVC\,  é um eve
+ nto de corrida em trilhos com o objetivo depercorrer determinada distância
+  ultrapassando os obstáculos naturais do terreno e enfrentar as suasadvers
+ idades no menor tempo possível.A prova desenrola-se na Freguesia de Ceira 
+ e zonas adjacentes.\nhttps://www.portugalrunning.com/eventos/trail-vale-do-
+ ceira/
+URL:https://www.portugalrunning.com/eventos/trail-vale-do-ceira/
+END:VEVENT
+END:VCALENDAR
