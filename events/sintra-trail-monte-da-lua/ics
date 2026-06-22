@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d18293cd
-DTSTAMP:20260530T060056Z
+UID:6a377e0dd10dc
+DTSTAMP:20260621T060045Z
 DTSTART:20260711
 DTEND:20260712
 LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
 SUMMARY:Sintra Trail Monte da Lua 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/sintra-trail-monte-da
- -lua/
+DESCRIPTION:A&nbsp;11 de julho de 2026\,  Sintra volta a receber o&nbsp;Sin
+ tra Trail Monte da Lua\,  um desafio noturno no coração de um dos locais 
+ mais emblemáticos de Portugal. Descubra a magia da serra de Sintra num per
+ curso urbano que cruza ruas\,  vielas\,  escadas\,  monumentos\,  jardins e
+  trilhos.\nhttps://www.portugalrunning.com/eventos/sintra-trail-monte-da-lu
+ a/
 URL:https://www.portugalrunning.com/eventos/sintra-trail-monte-da-lua/
 END:VEVENT
 END:VCALENDAR

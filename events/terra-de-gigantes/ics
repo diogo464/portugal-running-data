@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a377e0dacfa7
+DTSTAMP:20260621T060045Z
+DTSTART:20270114
+DTEND:20270115
+LOCATION:Seia\,  Guarda Seia\,  Guarda
+SUMMARY:Terra de Gigantes 2027
+DESCRIPTION:A Terra de Gigantes é uma coorganização da Horizontes Turism
+ o Desportivo e Viagens e daAssociação Interior Convida.A edição de 2027
+  realizar-se-á entre 14 e 17 de janeiro de 2027\,  com partida às 11h00 n
+ a Torreda Serra da Estrela.\nhttps://www.portugalrunning.com/eventos/terra-
+ de-gigantes/
+URL:https://www.portugalrunning.com/eventos/terra-de-gigantes/
+END:VEVENT
+END:VCALENDAR

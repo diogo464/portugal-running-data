@@ -4,16 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d72dddf8
-DTSTAMP:20250720T222802Z
-DTSTART:20221009
-DTEND:20221010
+UID:6a377e0e32fe3
+DTSTAMP:20260621T060046Z
+DTSTART:20261011
+DTEND:20261012
 LOCATION:Esmolfe\,  Viseu Esmolfe\,  Viseu
-SUMMARY:Trail Maça Bravo de Esmolfe
-DESCRIPTION:ORGANIZAÇÃO do Município de Penalva do Castelo e Junta de Fr
- eguesia de Esmolfe. O evento é composto por três percursos:Trail Longo de
-  18 km (aprox.);Trail Curto 12 km (aprox.);Caminhada 9 Km (aprox.).\nhttps:
- //www.portugalrunning.com/eventos/trail-maca-bravo-de-esmolfe/
+SUMMARY:Trail Maça Bravo de Esmolfe 2026
+DESCRIPTION:O trail Maça Bravo de Esmolfe é organizado pelo Município de
+  Penalva do Castelo e Junta de Freguesia de Esmolfe e vai ocorrer no dia 11
+  de outubro. O evento é composto por três percursos:-Trail Longo de 21 km
+  (aprox.); D+ 700 (aprox.)- Trail Curto 15 km (aprox.); D+ 500[..]\nhttps:/
+ /www.portugalrunning.com/eventos/trail-maca-bravo-de-esmolfe/
 URL:https://www.portugalrunning.com/eventos/trail-maca-bravo-de-esmolfe/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a377e0e6acaf
+DTSTAMP:20260621T060046Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Ilha do Pico\,  Açores Ilha do Pico\,  Açores
+SUMMARY:VB Trail Run 2026
+DESCRIPTION:O “VILA BALEEIRA TRAIL RUN” é um evento de Trail Running 
+ que percorre trilhos e caminhos no concelho das Lajes do Pico - Ilha do Pic
+ o\,  enquadrado nas vertentes de Trail (30 KM)\,  Trail Sprint (18 Km) Trai
+ l Curto (10 Km) e Caminhada (8 Km). A prova dos 30 kms[..]\nhttps://www.por
+ tugalrunning.com/eventos/vb-trail-run/
+URL:https://www.portugalrunning.com/eventos/vb-trail-run/
+END:VEVENT
+END:VCALENDAR
