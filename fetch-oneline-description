@@ -5,7 +5,7 @@ import json
 import requests
 
 KEY = os.environ["OPENROUTER_KEY"]
-MODEL = "anthropic/claude-3.5-haiku"
+MODEL = "anthropic/claude-haiku-4.5"
 
 SYSTEM_PROMPT = """És um assistente especializado em condensar descrições de eventos de corrida em resumos de uma linha em português de Portugal. Deves extrair e resumir apenas a informação mais importante e relevante da descrição fornecida.
 
