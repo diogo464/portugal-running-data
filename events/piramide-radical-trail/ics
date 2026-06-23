@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a3ab217134a6
+DTSTAMP:20260623T161935Z
+DTSTART:20261017T072600Z
+DTEND:20261017T072600Z
+LOCATION:São Martinho da Gandra\,  Ponte de Lima São Martinho da Gandra\,  Ponte de Lima
+SUMMARY:Pirâmide Radical Trail 2026
+DESCRIPTION:1º Trail e Caminhada da Pirãmide Radical Clube.\nhttps://www.
+ portugalrunning.com/eventos/piramide-radical-trail/
+URL:https://www.portugalrunning.com/eventos/piramide-radical-trail/
+END:VEVENT
+END:VCALENDAR

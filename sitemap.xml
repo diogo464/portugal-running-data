@@ -2,7 +2,46 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-06-22T16:38:53+00:00</lastmod>
+		<lastmod>2026-06-23T07:29:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/piramide-radical-trail/</loc>
+		<lastmod>2026-06-23T07:29:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/4dc5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/santa-maria-trail-smat/</loc>
+		<lastmod>2026-06-23T07:22:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/6a394e5ff2bc8_597865141_1213478457411987_1706950302365584865_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/santa-maria-trail-smat-2026/</loc>
+		<lastmod>2026-06-23T07:21:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/68c145b08d4c1_Captura_de_ecra_2025-09-10_as_10.31.24.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-da-trofa/</loc>
+		<lastmod>2026-06-23T07:20:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/2026-06-22_15-52-59_6a394c4b79abf.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-fatima/</loc>
+		<lastmod>2026-06-23T07:18:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/a-encosta/</loc>
+		<lastmod>2026-06-23T07:17:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/pop_ekx5j30970.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-maca-bravo-de-esmolfe/</loc>
@@ -5652,13 +5691,6 @@
 		<lastmod>2026-01-31T06:45:42+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/b850dcd60a6866025a06fad2da98adaf-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/santa-maria-trail-smat/</loc>
-		<lastmod>2026-01-31T06:45:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/68c145b08d4c1_Captura_de_ecra_2025-09-10_as_10.31.24.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

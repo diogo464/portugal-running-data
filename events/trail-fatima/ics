@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a3ab2170f0a0
+DTSTAMP:20260623T161935Z
+DTSTART:20261025
+DTEND:20261026
+LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+SUMMARY:Trail Fátima 2026
+DESCRIPTION:A prova&nbsp;13º Trail de Fátima&nbsp;tem como objetivo propo
+ rcionar aos atletas novas experiências e sensações em trilhos distintos\
+ ,  valorização e divulgação do território e promoção da nossa regiã
+ o. Temos ainda o intuito de promover e dar a conhecer alguns dos locais do 
+ Centro de Trail de Fátima. Este evento irá decorrer[..]\nhttps://www.port
+ ugalrunning.com/eventos/trail-fatima/
+URL:https://www.portugalrunning.com/eventos/trail-fatima/
+END:VEVENT
+END:VCALENDAR
