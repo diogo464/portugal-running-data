@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a3cc40d45f30
+DTSTAMP:20260625T060045Z
+DTSTART:20260718
+DTEND:20260719
+LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+SUMMARY:Corrida Festas de Loures 2026
+DESCRIPTION:A&nbsp;Câmara Municipal de Loures\,  com a colaboração da Po
+ lícia Municipal de Loures\,  PSP\,  Bombeiros Voluntários de Loures\,  Mo
+ vimento Associativo do Concelho de Loures e com o apoio técnico da Xistarc
+ a\,  promove no dia&nbsp;18 de Julho de 2026\,  com início às&nbsp;21h30\
+ ,  uma prova de atletismo em estrada\,  destinada a atletas federados[..]\n
+ https://www.portugalrunning.com/eventos/corrida-festas-de-loures/
+URL:https://www.portugalrunning.com/eventos/corrida-festas-de-loures/
+END:VEVENT
+END:VCALENDAR

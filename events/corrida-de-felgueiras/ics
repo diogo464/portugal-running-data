@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a3cc40bb29bc
+DTSTAMP:20260625T060043Z
+DTSTART:20260718
+DTEND:20260719
+LOCATION:Felgueiras\,  Porto Felgueiras\,  Porto
+SUMMARY:Corrida de Felgueiras 2026
+DESCRIPTION:O Município de Felgueiras leva a efeito\,  no dia 18 de julho 
+ de 2026\,  provas de atletismo (Corridas Jovens - Corrida 10 Km e Prova em 
+ Cadeira de Rodas) - no centro da Cidade de Felgueiras denominada “Corrida
+  de Felgueiras 2026 - Campeonato Regional de Fundo”\,  com previsão de i
+ nício[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-felgueiras/
+URL:https://www.portugalrunning.com/eventos/corrida-de-felgueiras/
+END:VEVENT
+END:VCALENDAR

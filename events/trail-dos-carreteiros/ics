@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a3cc40c38324
+DTSTAMP:20260625T060044Z
+DTSTART:20261004
+DTEND:20261005
+LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+SUMMARY:Trail dos Carreteiros 2026
+DESCRIPTION:No próximo dia 4 de outubro de 2026\,  a mítica vila de Roriz
+ \,  em Santo Tirso\,  volta a ser o palco de um dos eventos de trail mais a
+ utênticos e desafiantes da região. O Trail dos Carreteiros convida-te a c
+ alçar as sapatilhas e a recuar no tempo\,  correndo ou caminhando[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-dos-carreteiros/
+URL:https://www.portugalrunning.com/eventos/trail-dos-carreteiros/
+END:VEVENT
+END:VCALENDAR
