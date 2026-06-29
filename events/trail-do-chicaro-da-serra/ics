@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a420a1217cd9
+DTSTAMP:20260629T060050Z
+DTSTART:20261121T190800Z
+DTEND:20261121T235900Z
+LOCATION:Alvaiázere\,  Leiria Alvaiázere\,  Leiria
+SUMMARY:Trail do Chícaro da Serra 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-do-chicaro-da-s
+ erra/
+URL:https://www.portugalrunning.com/eventos/trail-do-chicaro-da-serra/
+END:VEVENT
+END:VCALENDAR

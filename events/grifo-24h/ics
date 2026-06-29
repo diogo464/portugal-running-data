@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a420a103b855
+DTSTAMP:20260629T060048Z
+DTSTART:20261114T224300Z
+DTEND:20261114T235900Z
+LOCATION:Pontinha\,  Lisboa Pontinha\,  Lisboa
+SUMMARY:Grifo 24h 2026
+DESCRIPTION:A III edição da GRIFO24h\,  é uma de corrida de resistência
+  e de longa duração\,  que se realizará na Unidade de Intervenção da G
+ NR\,  em 14 e 15 de novembro de 2026. Inseridas no mesmo evento\,  decorrer
+ ão as provas de 12 horas\,  3 horas\,  Maratona Noturna\,  provas que apel
+ am à[..]\nhttps://www.portugalrunning.com/eventos/grifo-24h/
+URL:https://www.portugalrunning.com/eventos/grifo-24h/
+END:VEVENT
+END:VCALENDAR

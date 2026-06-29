@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a420a122b3c6
+DTSTAMP:20260629T060050Z
+DTSTART:20261017
+DTEND:20261018
+LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+SUMMARY:Trail Vicentino Noturno 2026
+DESCRIPTION:A V edição do Trail Vicentino Noturno by Oliveira Pneus é um
+  evento de Trail Running\,  com carácter competitivo e lúdico\,  que perc
+ orre trilhos e caminhos do concelho de Ponta Delgada e Ribeira Grande\,  de
+ signadamente\,  nas freguesias de São Vicente Ferreira\,  Capelas\,  Santo
+  António\,  Santa Bárbara\,  Remédios e Ajuda da[..]\nhttps://www.portug
+ alrunning.com/eventos/trail-vicentino-noturno/
+URL:https://www.portugalrunning.com/eventos/trail-vicentino-noturno/
+END:VEVENT
+END:VCALENDAR
