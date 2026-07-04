@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a48a1886f421
+DTSTAMP:20260704T060040Z
+DTSTART:20260802T081700Z
+DTEND:20260802T081700Z
+LOCATION:Lousa\,  Loures Lousa\,  Loures
+SUMMARY:Extreme PDL 2026
+DESCRIPTION:O desafio está lançado e as inscrições para a Extreme PDL 2
+ 026\,  no próximo dia 2 de agosto\, &nbsp; já estão abertas! Escolhe ent
+ re o Trail de 15K ou a Caminhada de 6K e vem descobrir alguns dos mais belo
+ s trilhos de Ponte de Lousa e da região envolvente. Escolhe entre[..]\nhtt
+ ps://www.portugalrunning.com/eventos/extreme-pdl/
+URL:https://www.portugalrunning.com/eventos/extreme-pdl/
+END:VEVENT
+END:VCALENDAR
