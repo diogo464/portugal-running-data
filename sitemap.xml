@@ -2,7 +2,28 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-07-03T08:21:28+00:00</lastmod>
+		<lastmod>2026-07-05T15:32:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/gp-de-atletismo-valongo-do-vouga/</loc>
+		<lastmod>2026-07-05T15:32:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/travocar26_banner.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/night-urban-trail-vales-de-vimioso/</loc>
+		<lastmod>2026-07-05T14:15:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/fbb9.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/hybrid-day-autodromo-estoril/</loc>
+		<lastmod>2026-07-05T13:35:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/9658.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/extreme-pdl/</loc>
@@ -178,13 +199,6 @@
 		<lastmod>2026-06-20T16:34:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2022/08/630500d7669ca_cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/hybrid-day-autodromo-estoril/</loc>
-		<lastmod>2026-06-20T16:34:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/9658.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -525,13 +539,6 @@
 		<lastmod>2026-06-14T05:48:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/650198133_917748970985496_3104954714900254468_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/night-urban-trail-vales-de-vimioso/</loc>
-		<lastmod>2026-06-12T17:06:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/fbb9.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2288,13 +2295,6 @@
 		<lastmod>2026-04-23T11:15:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/fluffy26_banner.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/gp-de-atletismo-valongo-do-vouga/</loc>
-		<lastmod>2026-04-23T11:12:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/travocar26_banner.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
