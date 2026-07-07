@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4c960f1c829
+DTSTAMP:20260707T060047Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Manteigas\,  Guarda Manteigas\,  Guarda
+SUMMARY:Trilhos do Burel 2026
+DESCRIPTION:A 7.ª edição dos Trilhos do Burel realiza-se no dia 8 de nov
+ embro de 2026\,  em Manteigas\,  na Serra da Estrela. Os Trilhos do Burel\,
+   são organizados por ManteigasbyHeart\,  com o apoio e colaboração da C
+ âmara Municipal de Manteigas\,  pelas quatro freguesias de Manteigas (Vale
+  de Amoreira\,  Sameiro\,  São Pedro[..]\nhttps://www.portugalrunning.com/
+ eventos/trilhos-do-burel/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-burel/
+END:VEVENT
+END:VCALENDAR

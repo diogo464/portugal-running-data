@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4c960d395fa
+DTSTAMP:20260707T060045Z
+DTSTART:20261128T170800Z
+DTEND:20261128T235900Z
+LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+SUMMARY:São Silvestre Cidade Palco de Natal 2026
+DESCRIPTION:A 2ª São Silvestre “Cidade Palco de Natal”\,  a realizar 
+ na cidade de Santa Maria da Feira\,  é composta por duas provas\,  uma cor
+ rida 10 km e uma caminhada de 5km.Esta São Silvestre será cercada por uma
+  variedade de atrações na área ao redor do percurso\,  incluindo uma des
+ lumbrante iluminação[..]\nhttps://www.portugalrunning.com/eventos/sao-sil
+ vestre-cidade-palco-de-natal/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-cidade-palco-de-natal/
+END:VEVENT
+END:VCALENDAR

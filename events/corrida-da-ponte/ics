@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4c960c74ca6
+DTSTAMP:20260707T060044Z
+DTSTART:20261011
+DTEND:20261012
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Corrida da Ponte 2026
+DESCRIPTION:A Corrida da Ponte é organizada pelo CAOV- Clube de Atletismo 
+ Olimpico Vianense\,  econtacom o apoio imprescindível da Camara Municipal 
+ de Viana do Castelo\,  decorreráno dia 11de outubro de 2026\,  em Viana do
+  Castelo.\nhttps://www.portugalrunning.com/eventos/corrida-da-ponte/
+URL:https://www.portugalrunning.com/eventos/corrida-da-ponte/
+END:VEVENT
+END:VCALENDAR

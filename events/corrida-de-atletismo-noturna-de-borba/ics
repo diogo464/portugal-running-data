@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4c960d05aa4
+DTSTAMP:20260707T060045Z
+DTSTART:20260813T181100Z
+DTEND:20260813T235900Z
+LOCATION:Borba\,  Évora Borba\,  Évora
+SUMMARY:Corrida de Atletismo Noturna de Borba 2026
+DESCRIPTION:A 11.ª edição da Prova de Atletismo\,  a exemplo das ediçõ
+ es anteriores\,  o percurso será urbano\,  sendo o circuito definido pelas
+  ruas da cidade de Borba.Será uma prova organizada pela Junta de Freguesia
+  da Matriz de Borba\,  com o apoio do Município de Borba e o apoio técnic
+ o da Associação[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-a
+ tletismo-noturna-de-borba/
+URL:https://www.portugalrunning.com/eventos/corrida-de-atletismo-noturna-de-borba/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4c960d49dd8
+DTSTAMP:20260707T060045Z
+DTSTART:20261011
+DTEND:20261012
+LOCATION:Praia da Barra\,  Ílhavo Praia da Barra\,  Ílhavo
+SUMMARY:Corrida do Farol 2026
+DESCRIPTION:A Corrida do Farol é uma uma co-organização do Município de
+  Ílhavo e a empresa NT Wellness Sports Solutions\,  prova mista onde a are
+ ia e alcatrão se unem.\nhttps://www.portugalrunning.com/eventos/corrida-do
+ -farol/
+URL:https://www.portugalrunning.com/eventos/corrida-do-farol/
+END:VEVENT
+END:VCALENDAR

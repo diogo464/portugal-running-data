@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4c960cdd4cc
+DTSTAMP:20260707T060044Z
+DTSTART:20260809T092400Z
+DTEND:20260809T092400Z
+LOCATION:Ilha do Pico\,  Açores Ilha do Pico\,  Açores
+SUMMARY:Nutri Chicharro Trail Run 2026
+DESCRIPTION:O Nutri Chicharro Trail é um evento desportivo organizado pela
+  Nutrishape Lda\,  em colaboração com a Câmara Municipal das Lajes do Pi
+ co\,  a Junta de Freguesia da Ribeirinha do Pico e a Elevate – Azores Fit
+ ness Center\,  realizado na freguesias da Ribeirinha\,  Ilha do Pico. A pro
+ va é aberta a[..]\nhttps://www.portugalrunning.com/eventos/nutri-chicharro
+ -trail-run/
+URL:https://www.portugalrunning.com/eventos/nutri-chicharro-trail-run/
+END:VEVENT
+END:VCALENDAR

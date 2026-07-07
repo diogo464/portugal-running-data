@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4c960d0178b
+DTSTAMP:20260707T060045Z
+DTSTART:20261011T133600Z
+DTEND:20261011T235900Z
+LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+SUMMARY:Milha da Cegonha 2026
+DESCRIPTION:A prova realiza‑se no dia 11 de outubro\,  na Lourinhã\,  se
+ ndo integrada no Circuito de Milhas da AAL&nbsp;e com medição oficial da 
+ Federação Portuguesa de Atletismo. Esta prova integra o circuito de Milha
+ s da Associação de Atletismo de Lisboa.\nhttps://www.portugalrunning.com/
+ eventos/milha-da-cegonha/
+URL:https://www.portugalrunning.com/eventos/milha-da-cegonha/
+END:VEVENT
+END:VCALENDAR

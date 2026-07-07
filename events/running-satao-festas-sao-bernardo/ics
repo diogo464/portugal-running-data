@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4c960f4bece
+DTSTAMP:20260707T060047Z
+DTSTART:20260816
+DTEND:20260817
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:Running Satão Festas São Bernardo 2026
+DESCRIPTION:O IX Running das Festas de São Bernardo é uma corrida e uma c
+ aminhada de estrada\,  organizada pela Câmara Municipal de Sátão\,  que 
+ se caracteriza por um percurso de dificuldade moderada\,  realizado na Vila
+  de Sátão e arredores\,  atraindo atletas regulares\,  que procuram a sua
+  superação e corredores moderados e[..]\nhttps://www.portugalrunning.com/
+ eventos/running-satao-festas-sao-bernardo/
+URL:https://www.portugalrunning.com/eventos/running-satao-festas-sao-bernardo/
+END:VEVENT
+END:VCALENDAR

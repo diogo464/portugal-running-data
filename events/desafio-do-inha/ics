@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4c960ee2f78
+DTSTAMP:20260707T060046Z
+DTSTART:20260906T123200Z
+DTEND:20260906T235900Z
+LOCATION:Parque de Lazer do Mirante\,  Canedo Parque de Lazer do Mirante\,  Canedo
+SUMMARY:Desafio do Inha 2026
+DESCRIPTION:O “Desafio do Inha”\,  é uma prova composta por 3 modalida
+ des desportivas\,  Btt\,  Canoagem e Corrida.A participação é feita em e
+ quipas de dois elementos\,  todos os elementos fazem as 3 modalidades.O gra
+ nde objetivo será o da superação pessoal e o fomentar do espírito de eq
+ uipa e entreajuda.Os duros vão querer[..]\nhttps://www.portugalrunning.com
+ /eventos/desafio-do-inha/
+URL:https://www.portugalrunning.com/eventos/desafio-do-inha/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4c960db42d3
+DTSTAMP:20260707T060045Z
+DTSTART:20261018T090600Z
+DTEND:20261018T235900Z
+LOCATION:São Pedro de Peneferrim\,  Sintra São Pedro de Peneferrin\,  Sintra
+SUMMARY:Trail do Bom Despacho 2026
+DESCRIPTION:A Associação Cultural e Recreativa - ATEPS\,  irá organizar\
+ ,  a 18 de Outubro de 2026\,  pelas 09h00\,  a 3ª edição Trail do Bom De
+ spacho em São Pedro de Peneferrim\,  concelho de Sintra. O Trail do Bom De
+ spacho 2026 é uma prova de TrailRunning\,  corrida pedestre em natureza\, 
+  com três provas\, [..]\nhttps://www.portugalrunning.com/eventos/trail-do-
+ bom-despacho/
+URL:https://www.portugalrunning.com/eventos/trail-do-bom-despacho/
+END:VEVENT
+END:VCALENDAR
