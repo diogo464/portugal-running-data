@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f3926b0569
+DTSTAMP:20260709T060110Z
+DTSTART:20260919
+DTEND:20260920
+LOCATION:Parque Ribeirinho do Oriente\,  Lisboa Parque Ribeirinho do Oriente\,  Lisboa
+SUMMARY:Corrida Jorge Pina 2026
+DESCRIPTION:A&nbsp;10ª&nbsp;edição da BNP Paribas Corrida Jorge Pina par
+ a a Inclusão&nbsp;realiza-se no dia&nbsp;19&nbsp;de setembro\, a partir da
+ s&nbsp;16h00\, &nbsp;no&nbsp;Parque Ribeirinho do Oriente\,  em Lisboa. Est
+ a iniciativa conjunta afirma-se como um momento dedicado à promoção da&n
+ bsp;inclusão\,  da&nbsp;cidadania ativa&nbsp;e do&nbsp;bem-estar físico e
+  mental&nbsp;através da prática desportiva. Num final de tarde à beira T
+ ejo\,  esta edição convida-te[..]\nhttps://www.portugalrunning.com/evento
+ s/corrida-jorge-pina/
+URL:https://www.portugalrunning.com/eventos/corrida-jorge-pina/
+END:VEVENT
+END:VCALENDAR

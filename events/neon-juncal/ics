@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f39257ddea
+DTSTAMP:20260709T060109Z
+DTSTART:20260904T153800Z
+DTEND:20260904T235900Z
+LOCATION:Juncal\,  Porto de Mós Juncal\,  Porto de Mós
+SUMMARY:Neon Juncal 2026
+DESCRIPTION:A&nbsp;Junta de Freguesia do Juncal&nbsp;vai realizar no próxi
+ mo dia&nbsp;4 de setembro 2026&nbsp;(sexta-feira) um evento denominado "NEO
+ N JUNCAL" inserido nas Festas do Freguês\,  com o apoio da Câmara Municip
+ al de Porto de Mós e a Coorganização da Recorde Pessoal. A&nbsp;NEON JUN
+ CAL&nbsp;é um evento de&nbsp;caminhada&nbsp;(não competitiva) de 5km\,  c
+ om muita música\,  animação[..]\nhttps://www.portugalrunning.com/eventos
+ /neon-juncal/
+URL:https://www.portugalrunning.com/eventos/neon-juncal/
+END:VEVENT
+END:VCALENDAR

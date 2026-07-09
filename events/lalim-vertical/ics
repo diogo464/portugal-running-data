@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f392698a7e
+DTSTAMP:20260709T060110Z
+DTSTART:20260926T143800Z
+DTEND:20260926T235900Z
+LOCATION:Lamego\,  Viseu Lamego\,  Viseu
+SUMMARY:Lalim Vertical 2026
+DESCRIPTION:O Lalim Vertical é uma prova inserida no circuito lamecum trai
+ l\,  tetem como princípios a oferta de uma prova diferente. Para isso alé
+ m da prova de trail disponibiliza-se um prova para as crianças.\nhttps://w
+ ww.portugalrunning.com/eventos/lalim-vertical/
+URL:https://www.portugalrunning.com/eventos/lalim-vertical/
+END:VEVENT
+END:VCALENDAR

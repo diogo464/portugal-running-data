@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f392495d30
+DTSTAMP:20260709T060108Z
+DTSTART:20261122T175100Z
+DTEND:20261122T235900Z
+LOCATION:Bocal\,  Mafra Bocal\,  Mafra
+SUMMARY:Bocal Trail Run 2026
+DESCRIPTION:O evento é planeado\,  organizado e produzido pela MSTT Trail 
+ Team Associação\,  vulgarmente conhecida apenas por MSTT. A 2ª edição 
+ do BTR II – BOCAL TRAIL RUN será composta por 3 provas competitivas:- Tr
+ ail Longo com cerca de 23 km\,  ( cerca de 1100 D+ ) com inicio previsto pa
+ ra[..]\nhttps://www.portugalrunning.com/eventos/bocal-trail-run/
+URL:https://www.portugalrunning.com/eventos/bocal-trail-run/
+END:VEVENT
+END:VCALENDAR

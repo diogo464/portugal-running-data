@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f392726c78
+DTSTAMP:20260709T060111Z
+DTSTART:20261025
+DTEND:20261026
+LOCATION:Bagunte\,  Vila do Conde Bagunte\,  Vila do Conde
+SUMMARY:Trilhos da Cividade 2026
+DESCRIPTION:O Trail Curto irá decorrer no dia 25 de outubro de 2026 (Domin
+ go) pelas 9h15\,  iniciando no largo de Santana\,  freguesia de Bagunte\,  
+ concelho de Vila do Conde. O Trail Longo irá decorrer igualmente no dia 25
+  de Outubro de 2026 (Domingo) pelas 9h00\,  iniciando no Largo de Santana\,
+   freguesia[..]\nhttps://www.portugalrunning.com/eventos/trilhos-da-cividad
+ e/
+URL:https://www.portugalrunning.com/eventos/trilhos-da-cividade/
+END:VEVENT
+END:VCALENDAR

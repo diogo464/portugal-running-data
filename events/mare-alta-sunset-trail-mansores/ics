@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f3927a6055
+DTSTAMP:20260709T060111Z
+DTSTART:20260829T111400Z
+DTEND:20260829T235900Z
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Maré Alta Sunset Trail Mansores 2026
+DESCRIPTION:Seja bem-vindo(a) a uma experiência única de trail running\, 
+  onde cada quilómetro conta uma história e cada trilho revela um pedaço 
+ de natureza quase intocada. Esta prova percorre caminhos que estiveram ador
+ mecidos durante mais de 40 anos\,  agora reabertos para os verdadeiros aman
+ tes do trail. Com um percurso desenhado por[..]\nhttps://www.portugalrunnin
+ g.com/eventos/mare-alta-sunset-trail-mansores/
+URL:https://www.portugalrunning.com/eventos/mare-alta-sunset-trail-mansores/
+END:VEVENT
+END:VCALENDAR

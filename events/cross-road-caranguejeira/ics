@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d163531a
-DTSTAMP:20260530T060054Z
-DTSTART:20260705
-DTEND:20260706
+UID:6a4f3924eefec
+DTSTAMP:20260709T060108Z
+DTSTART:20260802
+DTEND:20260803
 LOCATION:Caranguejeira\,  Leiria Caranguejeira\,  Leiria
 SUMMARY:Cross Road - Caranguejeira 2026
-DESCRIPTION:A organização promove a prova Cross Road\,  um evento de corr
- ida que combina segmentos de estrada (asfalto) e trilhos naturais\,  propor
- cionando um desafio técnico e variado aos participantes. A prova destina-s
- e a atletas federados e não federados e pretende promover a prática do at
- letismo em ambiente misto\,  conciliando corrida em[..]\nhttps://www.portug
- alrunning.com/eventos/cross-road-caranguejeira/
+DESCRIPTION:EVENTO ADIADO para o dia 2 de AGOSTO de 2026 A organização pr
+ omove a prova Cross Road\,  um evento de corrida que combina segmentos de e
+ strada (asfalto) e trilhos naturais\,  proporcionando um desafio técnico e
+  variado aos participantes. A prova destina-se a atletas federados e não f
+ ederados e pretende promover[..]\nhttps://www.portugalrunning.com/eventos/c
+ ross-road-caranguejeira/
 URL:https://www.portugalrunning.com/eventos/cross-road-caranguejeira/
 END:VEVENT
 END:VCALENDAR

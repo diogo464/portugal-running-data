@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f39278eaeb
+DTSTAMP:20260709T060111Z
+DTSTART:20261011
+DTEND:20261012
+LOCATION:Coimbra Coimbra
+SUMMARY:Eco Meia Maratona de Coimbra 2026
+DESCRIPTION:A Associação Desportiva 4 Estações\,  com o apoio da Câmaa
+ r Municipal Coimbra e União daas Freguesias Santa Clara Castelo Viegas\,  
+ vai realizar a a Corrida de 10km Eco\,  dia 11 de outubro de 2026. Este eve
+ nto consiste numa corrida de atletismo na natureza sem dificuldades técnic
+ as num percurso totalmente plano[..]\nhttps://www.portugalrunning.com/event
+ os/eco-meia-maratona-de-coimbra/
+URL:https://www.portugalrunning.com/eventos/eco-meia-maratona-de-coimbra/
+END:VEVENT
+END:VCALENDAR

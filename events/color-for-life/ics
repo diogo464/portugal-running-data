@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f39251c29f
+DTSTAMP:20260709T060109Z
+DTSTART:20260808T100500Z
+DTEND:20260808T235900Z
+LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+SUMMARY:Color For Life 2026
+DESCRIPTION:A 2ª Edição do COLOR FOR LIFE – Vive a Cores! é organizad
+ a pela Cruz Vermelha Portuguesa – Delegação de Vila do Conde –\,  com
+  o apoio da Câmara Municipal de Vila do Conde e diversos parceiros locais.
+  Esta iniciativa integra uma campanha de angariação de fundos destinada a
+  apoiar[..]\nhttps://www.portugalrunning.com/eventos/color-for-life/
+URL:https://www.portugalrunning.com/eventos/color-for-life/
+END:VEVENT
+END:VCALENDAR

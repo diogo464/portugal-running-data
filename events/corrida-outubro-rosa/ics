@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f392512923
+DTSTAMP:20260709T060109Z
+DTSTART:20261010T051600Z
+DTEND:20261010T235900Z
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida Outubro Rosa 2026
+DESCRIPTION:Em 2026\,  a Liga Portuguesa Contra o Cancro – Núcleo Region
+ al do Centro dá um novo passo nesta missão com a primeira edição em Por
+ tugal da Corrida “Outubro Rosa”\,  no dia 10 de outubro\,  tendo como p
+ alco a cidade de Coimbra.Mais do que uma corrida\,  esta é uma iniciativa 
+ de[..]\nhttps://www.portugalrunning.com/eventos/corrida-outubro-rosa/
+URL:https://www.portugalrunning.com/eventos/corrida-outubro-rosa/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f3926b628c
+DTSTAMP:20260709T060110Z
+DTSTART:20260906T043900Z
+DTEND:20260906T043900Z
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Passos com Propósito 2026
+DESCRIPTION:A prova Passos com Propósito é um evento desportivo e solidá
+ rio\,  é composto por um corrida de 9km e uma caminhada de 4km.\nhttps://w
+ ww.portugalrunning.com/eventos/passos-com-proposito/
+URL:https://www.portugalrunning.com/eventos/passos-com-proposito/
+END:VEVENT
+END:VCALENDAR

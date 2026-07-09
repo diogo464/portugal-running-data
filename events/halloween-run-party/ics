@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a4f3924abab5
+DTSTAMP:20260709T060108Z
+DTSTART:20261031
+DTEND:20261101
+LOCATION:Estádio Universitário de Lisboa\,  Lisboa Estádio Universitário de Lisboa\,  Lisboa
+SUMMARY:Halloween Run Party 2026
+DESCRIPTION:No dia&nbsp;31 de outubro 2026\,  o Parque da Paz\,  em Almada\
+ ,  será o palco para a&nbsp;11ª Halloween Night Run!Um evento único\,  c
+ om boa disposição e muita alegria. Mascara-te a rigor\,  corre o mais rá
+ pido que puderes e prepara-te para os sustos… Quem te avisa\,  teu amigo 
+ é!\nhttps://www.portugalrunning.com/eventos/halloween-run-party/
+URL:https://www.portugalrunning.com/eventos/halloween-run-party/
+END:VEVENT
+END:VCALENDAR
