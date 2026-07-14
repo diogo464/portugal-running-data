@@ -54,6 +54,7 @@ CLASS_IGNORE_PREFIXES = [
     "event_type_3-",
     "event_type_4-",
     "event_type_5-",
+    "event_type-estafetas",
 ]
 
 for slug in sys.argv[1:]:
