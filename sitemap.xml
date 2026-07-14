@@ -2,7 +2,126 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-07-09T05:33:15+00:00</lastmod>
+		<lastmod>2026-07-14T10:36:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/</loc>
+		<lastmod>2026-07-14T10:36:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Percurso-10k.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-outubro-rosa/</loc>
+		<lastmod>2026-07-14T10:11:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/banner-corrida-outubro-rosa-2026_Rev20260708-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/gois-challenge/</loc>
+		<lastmod>2026-07-14T09:35:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/Design-sem-nome-15-NFIT-Box-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-dos-galos/</loc>
+		<lastmod>2026-07-12T17:47:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/dfe0c492f88899c32c4c990a01f5dfb4.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/ultra-trail-serra-de-grandola/</loc>
+		<lastmod>2026-07-12T17:46:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/Cartaz-com-distancias-e-Inscricoes-abertas.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-da-ladeia-2026/</loc>
+		<lastmod>2026-07-12T17:40:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/PHOTO-2026-07-05-09-52-50-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-de-felgueiras-regional-de-estrada/</loc>
+		<lastmod>2026-07-12T17:37:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/1782212465-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-de-sao-romao/</loc>
+		<lastmod>2026-07-12T17:34:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/cartaz_final-3.600x850.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-atletismo-de-la-salette/</loc>
+		<lastmod>2026-07-12T17:33:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-torres-vedras/</loc>
+		<lastmod>2026-07-09T06:14:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/CARTAZ-MMTV-2027-03-750x380-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-das-empresas/</loc>
+		<lastmod>2026-07-09T06:14:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/c4f49dc7b508dc7963746f2f81594ece.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-torres-vedras-2026/</loc>
+		<lastmod>2026-07-09T06:14:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/MMTV-2026-12-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/europarque-bio-run/</loc>
+		<lastmod>2026-07-09T06:13:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/banner-europarque-bio-run-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/bocal-trail-run/</loc>
+		<lastmod>2026-07-09T06:13:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/pop_o5ei5oa985.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-coimbra/</loc>
+		<lastmod>2026-07-09T06:12:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/banner-sscoimbra-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/cascais-oeiras/</loc>
+		<lastmod>2026-07-09T06:09:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/MEIA-MARATONA-DA-MARGINAL-041-750x380-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trofeu-ctr-viver-santarem/</loc>
+		<lastmod>2026-07-09T06:06:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/pop_3k5fpi8983.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/eco-meia-maratona-de-coimbra/</loc>
@@ -61,13 +180,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-torres-vedras-2/</loc>
-		<lastmod>2026-07-09T05:09:36+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/CARTAZ-MMTV-2027-03-750x380-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/halloween-run-party/</loc>
 		<lastmod>2026-07-09T05:08:03+00:00</lastmod>
 		<image:image>
@@ -110,13 +222,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/bocal-trail-run/</loc>
-		<lastmod>2026-07-09T04:56:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/pop_o5ei5oa985.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trilho-dos-arneiros/</loc>
 		<lastmod>2026-07-09T04:54:09+00:00</lastmod>
 		<image:image>
@@ -149,20 +254,6 @@
 		<lastmod>2026-07-09T04:47:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/banner-ss-arrifana-2025-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-coimbra-2026/</loc>
-		<lastmod>2026-07-09T04:46:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/banner-sscoimbra-2026-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-outubro-rosa/</loc>
-		<lastmod>2026-07-09T04:44:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/banner-corrida-outubro-rosa-2026_Rev20260708-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -223,13 +314,6 @@
 		<lastmod>2026-07-06T09:26:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/6a47929f89bc7_Cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/europarque-bio-run/</loc>
-		<lastmod>2026-07-06T09:13:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/banner-europarque-bio-run-2026-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -311,13 +395,6 @@
 		<lastmod>2026-07-03T08:10:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/Museu.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trofeu-ctr-viver-santarem/</loc>
-		<lastmod>2026-06-30T07:02:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/pop_3k5fpi8983.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1578,13 +1655,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/gois-challenge/</loc>
-		<lastmod>2026-05-16T06:30:03+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/Design-sem-nome-15-NFIT-Box-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/pe-firme-trail/</loc>
 		<lastmod>2026-05-16T06:12:34+00:00</lastmod>
 		<image:image>
@@ -2044,16 +2114,6 @@
 		<lastmod>2026-05-05T06:26:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/IMG_1377.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/</loc>
-		<lastmod>2026-05-04T07:45:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Percurso-10k.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -6422,13 +6482,6 @@
 		<lastmod>2026-01-17T14:41:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/banner-europarque-meia-maratona-2026_Rev20251230-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-torres-vedras/</loc>
-		<lastmod>2026-01-17T14:39:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/MMTV-2026-12-750x380-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

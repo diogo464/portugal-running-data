@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a5616ad37fba
+DTSTAMP:20260714T105957Z
+DTSTART:20261108T060700Z
+DTEND:20261108T060700Z
+LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+SUMMARY:Cascais Oeiras 2026
+DESCRIPTION:No dia&nbsp;8 de novembro\,  aceita o desafio e faz parte da&nb
+ sp;Cascais Oeiras Lisboa\,  um evento que reúne história\,  espírito de 
+ superação e um dos percursos mais emblemáticos do país.Entre a beleza d
+ a costa\,  a proximidade do mar e as margens do Rio Tejo\,  cada quilómetr
+ o convida-te a viver uma experiência[..]\nhttps://www.portugalrunning.com/
+ eventos/cascais-oeiras/
+URL:https://www.portugalrunning.com/eventos/cascais-oeiras/
+END:VEVENT
+END:VCALENDAR
