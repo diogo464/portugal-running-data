@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a605c9bdd750
+DTSTAMP:20260722T060059Z
+DTSTART:20260920
+DTEND:20260921
+LOCATION:Montelavar\,  Sintra Montelavar\,  Sintra
+SUMMARY:Corrida da Filarmonia 2026
+DESCRIPTION:A Sociedade Filarmónica Boa União Montelavarense vai realizar
+  no domingo\,  dia 20 de Setembro de 2026\,  pelas 10:00 horas\,  um evento
+  desportivo de Atletismo\,  designado por VII Corrida da Filarmonia. A Corr
+ ida da Filarmonia é composta por I corrida (de carácter competitivo) de +
+ /-10000 metros.\nhttps://www.portugalrunning.com/eventos/corrida-da-filarmo
+ nia/
+URL:https://www.portugalrunning.com/eventos/corrida-da-filarmonia/
+END:VEVENT
+END:VCALENDAR

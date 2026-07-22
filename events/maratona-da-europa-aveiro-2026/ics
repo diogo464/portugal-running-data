@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a605c9cb1a12
+DTSTAMP:20260722T060100Z
+DTSTART:20260426
+DTEND:20260427
+LOCATION:Aveiro Aveiro
+SUMMARY:Maratona da Europa (Aveiro) 2026
+DESCRIPTION:Resultados em Directo Resultados 1º Dia da Maratona Europa Ave
+ iro prepara-se para a sua maior edição de sempre. Com mais de 20.000 atle
+ tas de todo o mundo\,  a Maratona da Europa não é apenas uma corrida — 
+ é uma celebração da Região Centro. Se vais correr ou apoiar\,  prepara-
+ te para[..]\nhttps://www.portugalrunning.com/eventos/maratona-da-europa-ave
+ iro-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-da-europa-aveiro-2026/
+END:VEVENT
+END:VCALENDAR
