@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae2057948
+DTSTAMP:20260723T060104Z
+DTSTART:20260927
+DTEND:20260928
+LOCATION:Frazão\,  Paços de Ferreira Frazão\,  Paços de Ferreira
+SUMMARY:Trail dos Moinhos 2026
+DESCRIPTION:A sétima edição do Trail dos Moinhos e a décima primeira ed
+ ição do Caminhando terão início no próximo dia 27 de Setembro no lugar
+  de Moinhos na freguesia de Frazão\,  do concelho de Paços de Ferreira.As
+  três provas que compõem o evento\,  serão realizadas pelos belos locais
+  do nosso concelho.[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-
+ moinhos/
+URL:https://www.portugalrunning.com/eventos/trail-dos-moinhos/
+END:VEVENT
+END:VCALENDAR

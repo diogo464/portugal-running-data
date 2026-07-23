@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae2055b51
+DTSTAMP:20260723T060104Z
+DTSTART:20261004T063700Z
+DTEND:20261004T235900Z
+LOCATION:Rans\,  Penafiel Rans\,  Penafiel
+SUMMARY:Trail Vale de Rans 2026
+DESCRIPTION:O Trail Quinta Vale de Rans é uma prova que percorre trilhos e
+  caminhos da freguesia de Rans.A Caminhada será aberta a menores desde que
+  acompanhados por uma pessoa maior de idade\,  o Mini-Trail está aberto a 
+ maiores de 16 anos e o Trail será aberto apenas a maiores de[..]\nhttps://
+ www.portugalrunning.com/eventos/trail-vale-de-rans/
+URL:https://www.portugalrunning.com/eventos/trail-vale-de-rans/
+END:VEVENT
+END:VCALENDAR

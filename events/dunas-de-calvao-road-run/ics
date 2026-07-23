@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae1dc9c83
+DTSTAMP:20260723T060101Z
+DTSTART:20260802
+DTEND:20260803
+LOCATION:Vagos\,  Aveiro Vagos\,  Aveiro
+SUMMARY:Dunas de Calvão Road Run 2026
+DESCRIPTION:O&nbsp;Dunas de Calvão – Road Run 2026&nbsp;realiza-se no di
+ a 02 de agosto de 2026\,  afirmando-se como um evento desportivo\,  recreat
+ ivo e comunitário\,  organizado pela Dunas de Calvão – Associação Des
+ portiva e Recreativa de Calvão\,  em coorganização com a Junta de Fregue
+ sia de Calvão\,  integrado nas comemorações do 93.º aniversário da[..]
+ \nhttps://www.portugalrunning.com/eventos/dunas-de-calvao-road-run/
+URL:https://www.portugalrunning.com/eventos/dunas-de-calvao-road-run/
+END:VEVENT
+END:VCALENDAR

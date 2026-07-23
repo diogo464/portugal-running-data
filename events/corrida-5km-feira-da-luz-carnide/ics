@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae1b89426
+DTSTAMP:20260723T060059Z
+DTSTART:20260912T074000Z
+DTEND:20260912T074000Z
+LOCATION:Carnide\,  Lisboa Carnide\,  Lisboa
+SUMMARY:Corrida 5km Feira da Luz Carnide 2026
+DESCRIPTION:Pela primeira vez\,  a mítica&nbsp;Feira da Luz&nbsp;em Carnid
+ e\,  recebe a&nbsp;Corrida 5km Feira da Luz Carnide\,  um evento que junta 
+ desporto\,  convívio e a energia de uma das mais antigas e emblemáticas f
+ eiras de Portugal. Num ambiente único\,  onde a história e a tradição s
+ e cruzam com a vida da freguesia\, [..]\nhttps://www.portugalrunning.com/ev
+ entos/corrida-5km-feira-da-luz-carnide/
+URL:https://www.portugalrunning.com/eventos/corrida-5km-feira-da-luz-carnide/
+END:VEVENT
+END:VCALENDAR

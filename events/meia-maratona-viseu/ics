@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:696c22ab526b2
-DTSTAMP:20260118T000043Z
+UID:6a61ae1ed0d86
+DTSTAMP:20260723T060102Z
 DTSTART:20260920
 DTEND:20260921
 LOCATION:Viseu Viseu
 SUMMARY:Meia Maratona Viseu 2026
-DESCRIPTION:Meia Maratona Viseu 2026\nhttps://www.portugalrunning.com/event
- os/meia-maratona-viseu/
+DESCRIPTION:Meia Maratona de Viseu 2026 - Viseu ⚡ Snapshot Data: Setembro
+  de 2026 (Data a confirmar pela organização) Local: Viseu\,  Distrito de 
+ Viseu Distância: 21\, 097 km (com provas complementares de 10 km e Caminha
+ da) Piso: Asfalto / Pavimento Urbano 📝 O Desafio O percurso urbano desen
+ ha-se sobre um piso maioritariamente[..]\nhttps://www.portugalrunning.com/e
+ ventos/meia-maratona-viseu/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-viseu/
 END:VEVENT
 END:VCALENDAR

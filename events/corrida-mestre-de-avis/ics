@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae1b9c6c9
+DTSTAMP:20260723T060059Z
+DTSTART:20260815
+DTEND:20260816
+LOCATION:Avis\,  Portalegre Avis\,  Portalegre
+SUMMARY:Corrida Mestre de Avis 2026
+DESCRIPTION:Integrado nas&nbsp;Festas da Batalha\,  organizadas pelo&nbsp;M
+ unicípio da Batalha\,  realiza-se no dia&nbsp;15 de agosto de 2026\, &nbsp
+ ;na Batalha\,  mais uma edição da&nbsp;Prova de Atletismo “Mestre de Av
+ is”\,  a Prova de Atletismo “Batalha Jovem”&nbsp;e uma caminhada de a
+ cordo com o seguinte: As provas são abertas a todos os atletas que desejam
+  participar\,  filiados[..]\nhttps://www.portugalrunning.com/eventos/corrid
+ a-mestre-de-avis/
+URL:https://www.portugalrunning.com/eventos/corrida-mestre-de-avis/
+END:VEVENT
+END:VCALENDAR

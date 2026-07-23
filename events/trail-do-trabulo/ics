@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae1f0ccfe
+DTSTAMP:20260723T060103Z
+DTSTART:20261122
+DTEND:20261123
+LOCATION:Satão\,  Viseu Satão\,  Viseu
+SUMMARY:Trail do Trabulo 2026
+DESCRIPTION:O Trail do Trabulo é um evento de trail running organizado pel
+ a Município do Sátão\,  que irádecorrer no concelho deste e que integra
+  duas provas: Trail (25km) e Mini Trail (15km)\,  contandoainda com uma cam
+ inhada de 11km.\nhttps://www.portugalrunning.com/eventos/trail-do-trabulo/
+URL:https://www.portugalrunning.com/eventos/trail-do-trabulo/
+END:VEVENT
+END:VCALENDAR

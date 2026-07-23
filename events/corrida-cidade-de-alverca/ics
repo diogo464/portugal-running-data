@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae1cb34d7
+DTSTAMP:20260723T060100Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Alverca Alverca\,  Lisboa
+SUMMARY:Corrida Cidade de Alverca 2026
+DESCRIPTION:A Associação Portugal Talentus\,  com o apoio da Câmara Muni
+ cipal de Vila Franca de Xira\,  da Junta de Freguesia de Alverca do Ribatej
+ o e Sobralinho e da Força Aérea Portuguesa e OGMA\,  promove a realizaç�
+ �o da 9ª Corrida Cidade de Alverca\,  no dia 15 de novembro de 2026.No c
+ ontexto do evento\,  realizar-se-á[..]\nhttps://www.portugalrunning.com/ev
+ entos/corrida-cidade-de-alverca/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-alverca/
+END:VEVENT
+END:VCALENDAR

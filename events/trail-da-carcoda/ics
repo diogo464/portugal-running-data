@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae1ecf684
+DTSTAMP:20260723T060102Z
+DTSTART:20261129T081300Z
+DTEND:20261129T081300Z
+LOCATION:Carvalhais\,  São Pedro do Sul Carvalhais\,  São Pedro do Sul
+SUMMARY:Trail da Cárcoda 2026
+DESCRIPTION:O&nbsp;Trail da Cárcoda\,  a realizar em Carvalhais (concelho 
+ de São Pedro do Sul)\,  é um evento desportivo que convida atletas e aman
+ tes da natureza a explorar os trilhos desafiantes da&nbsp;Serra da Arada. I
+ nspirado na emblemática Rota da Cárcoda\,  o percurso atravessa paisagens
+  naturais únicas\,  zonas florestais e locais de grande[..]\nhttps://www.p
+ ortugalrunning.com/eventos/trail-da-carcoda/
+URL:https://www.portugalrunning.com/eventos/trail-da-carcoda/
+END:VEVENT
+END:VCALENDAR

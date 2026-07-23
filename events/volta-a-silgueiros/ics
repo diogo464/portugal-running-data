@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae1f74c47
+DTSTAMP:20260723T060103Z
+DTSTART:20261011
+DTEND:20261012
+LOCATION:Silgueiros\,  Viseu Silgueiros\,  Viseu
+SUMMARY:Volta a Silgueiros 2026
+DESCRIPTION:A Volta a Silgueiros\,  é uma “corrida mítica de estrada\, 
+  no Berço do Dão”\,  uma organização da Associação Social\,  Despor
+ tiva\,  Cultural e Recreativa de Silgueiros\,  que termina um ALMOÇO conv�
+ �vio com TODOS os atletas\,  amigos e familiares\,  uma cortesia da organiz
+ ação. O principal objetivos é proporcionar momentos de lazer e[..]\nhttp
+ s://www.portugalrunning.com/eventos/volta-a-silgueiros/
+URL:https://www.portugalrunning.com/eventos/volta-a-silgueiros/
+END:VEVENT
+END:VCALENDAR

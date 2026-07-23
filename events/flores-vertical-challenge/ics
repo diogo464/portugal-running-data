@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae1e07cc7
+DTSTAMP:20260723T060102Z
+DTSTART:20260822T060200Z
+DTEND:20260822T060200Z
+LOCATION:Santa Cruz das Flores\,  Açores Santa Cruz das Flores\,  Açores
+SUMMARY:Flores Vertical Challenge 2026
+DESCRIPTION:O Flores Vertical Challenge é uma prova desportiva organizada 
+ pela Câmara Municipal de Santa Cruzdas Flores. O percurso apresenta as seg
+ uintes características: Inclinação Média: 18\, 5% Distância: 1\, 20 km
+  Desnível Positivo: 222 metros Desnível Negativo: 0 metros\nhttps://www.p
+ ortugalrunning.com/eventos/flores-vertical-challenge/
+URL:https://www.portugalrunning.com/eventos/flores-vertical-challenge/
+END:VEVENT
+END:VCALENDAR

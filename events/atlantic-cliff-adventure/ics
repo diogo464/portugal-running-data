@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae1bd05ef
+DTSTAMP:20260723T060059Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Charneca\,  Cascais Charneca\,  Cascais
+SUMMARY:Atlantic Cliff Adventure 2026
+DESCRIPTION:A Associação Recreativa da Charneca e com o apoio da Camara M
+ unicipal de Cascais irão organizar a 16 de Novembro de 2025 pelas 09h00 ho
+ ras o Atlantic Cliff Adventure\,  na Charneca\,  concelho de Cascais. O Atl
+ antic Cliff Adventure é uma proa de TrailRunning\,  corrida pedestre em Na
+ tureza\,  com três provas\, [..]\nhttps://www.portugalrunning.com/eventos/
+ atlantic-cliff-adventure/
+URL:https://www.portugalrunning.com/eventos/atlantic-cliff-adventure/
+END:VEVENT
+END:VCALENDAR

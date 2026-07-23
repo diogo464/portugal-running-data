@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a61ae1fd6267
+DTSTAMP:20260723T060103Z
+DTSTART:20261010
+DTEND:20261011
+LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+SUMMARY:Trail da Ladeia 2026
+DESCRIPTION:O 11º Trail da Ladeia - Solarshop realizar-se-á nos dias 10 e
+  11 de outubro de 2026 em Alvorge\, Concelho de Ansião\,  Distrito de Leir
+ ia.O evento é organizado pelo Centro Social Cultural e Recreativo de Alvor
+ ge\,  e conta com acolaboração do Município de Ansião\,  da Junta de Fr
+ eguesia do Alvorge\,  entre[..]\nhttps://www.portugalrunning.com/eventos/tr
+ ail-da-ladeia/
+URL:https://www.portugalrunning.com/eventos/trail-da-ladeia/
+END:VEVENT
+END:VCALENDAR

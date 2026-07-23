@@ -4,14 +4,19 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69eb06ff6de07
-DTSTAMP:20260424T060031Z
+UID:6a61ae1c82d1a
+DTSTAMP:20260723T060100Z
 DTSTART:20260808
 DTEND:20260809
 LOCATION:Praia da Vieira\,  Marinha Grande Praia da Vieira\,  Marinha Grande
 SUMMARY:Corrida e Caminhada da Praia da Vieira 2026
-DESCRIPTION:Corrida e Caminhada da Praia da Vieira 2026\nhttps://www.portug
- alrunning.com/eventos/corrida-e-caminhada-da-praia-da-vieira/
+DESCRIPTION:O&nbsp;Industrial Desportivo Vieirense&nbsp;leva a efeito no pr
+ óximo dia&nbsp;08 de Agosto de 2026\,  a&nbsp;Corrida e Caminhada da Praia
+  da Vieira\,  competição englobada no&nbsp;circuito de meio-fundo da Asso
+ ciação Distrital de Atletismo de Leiria (ADAL). Programa – Local / Hora
+  O evento terá a partida e chegada na Avenida Marginal\,  junto à Homenag
+ em[..]\nhttps://www.portugalrunning.com/eventos/corrida-e-caminhada-da-prai
+ a-da-vieira/
 URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-da-praia-da-vieira/
 END:VEVENT
 END:VCALENDAR
