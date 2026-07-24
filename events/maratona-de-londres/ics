@@ -4,17 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69fecd8c1e5fd
-DTSTAMP:20260509T060044Z
-DTSTART:20260426
-DTEND:20260427
+UID:6a62ff98a84b9
+DTSTAMP:20260724T060056Z
+DTSTART:20270424
+DTEND:20270425
 LOCATION:Londres\,  Inglaterra Londres\,  Inglaterra
-SUMMARY:Maratona de Londres 2026
-DESCRIPTION:A TCS London Marathon é muito mais do que uma corrida; é o di
- a em que Londres se transforma na maior festa de rua do planeta. Este domin
- go\,  26 de abril de 2026\,  quer sejas um corredor ou um espectador\,  aqu
- i tens tudo o que precisas de saber para aproveitar[..]\nhttps://www.portug
- alrunning.com/eventos/maratona-de-londres/
+SUMMARY:Maratona de Londres 2027
+DESCRIPTION:Snapshot Data: 24 e 25 de abril de 2027 Local: Londres (Partida
+  em Greenwich Park / Blackheath\,  Chegada no The Mall) Distância: 42\, 19
+ 5 km Piso: Asfalto urbano maioritariamente liso com passagens em calçada d
+ e paralelepípedo suave e juntas metálicas em pontes 📝 O Desafio O perc
+ urso arranca nos amplos espaços[..]\nhttps://www.portugalrunning.com/event
+ os/maratona-de-londres/
 URL:https://www.portugalrunning.com/eventos/maratona-de-londres/
 END:VEVENT
 END:VCALENDAR

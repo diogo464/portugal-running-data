@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a62ff99c8f69
+DTSTAMP:20260724T060057Z
+DTSTART:20270419
+DTEND:20270420
+LOCATION:Boston\,  Estados Unidos da América Boston\,  Estados Unidos da América
+SUMMARY:Maratona de Boston 2027
+DESCRIPTION:⚡ Snapshot Data: 19 de abril de 2027 Local: Região Metropoli
+ tana de Boston / Hopkinton a Boston (Partida em Hopkinton / Chegada na Boyl
+ ston Street) Distância: 42\, 195 km Piso: Asfalto rodoviário contínuo co
+ m tramas de granito e paralelepípedos pontuais nas interseções urbanas c
+ entrais 📝 O Desafio O traçado ponto-a-ponto inicia-se[..]\nhttps://www.
+ portugalrunning.com/eventos/maratona-de-boston/
+URL:https://www.portugalrunning.com/eventos/maratona-de-boston/
+END:VEVENT
+END:VCALENDAR

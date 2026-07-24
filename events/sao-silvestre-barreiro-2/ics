@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a62ff99ab1c0
+DTSTAMP:20260724T060057Z
+DTSTART:20261201
+DTEND:20261202
+LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+SUMMARY:São Silvestre Barreiro 2026
+DESCRIPTION:A 6ª Edição da Barreiro São Silvestre será organizada pela
+  Associação Corridacessível\,  contará com uma corrida de 10km e uma ca
+ minhada de 6km.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-barr
+ eiro-2/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-barreiro-2/
+END:VEVENT
+END:VCALENDAR

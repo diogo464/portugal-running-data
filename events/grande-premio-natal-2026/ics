@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a62ff9a65668
+DTSTAMP:20260724T060058Z
+DTSTART:20261220
+DTEND:20261221
+LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
+SUMMARY:Grande Prémio Natal 2026
+DESCRIPTION:Ver Resultados 2025\nhttps://www.portugalrunning.com/eventos/gr
+ ande-premio-natal-2026/
+URL:https://www.portugalrunning.com/eventos/grande-premio-natal-2026/
+END:VEVENT
+END:VCALENDAR
