@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a6997027e983
+DTSTAMP:20260729T060034Z
+DTSTART:20261010T140900Z
+DTEND:20261010T235900Z
+LOCATION:Aveiro Aveiro
+SUMMARY:Corrida Solidária - Aveiro é Nosso | AAUAv 2026
+DESCRIPTION:A 5.ª Corrida Solidária é uma iniciativa promovida pela Asso
+ ciação Académica da Universidade de Aveiro\,  através dos setores Aveir
+ o é Nosso e Desporto e Bem-Estar\,  com o objetivo de promover hábitos de
+  vida saudáveis\,  incentivar a prática de atividade física e apoiar uma
+  causa solidária. A organização conta com o[..]\nhttps://www.portugalrun
+ ning.com/eventos/corrida-solidaria-aveiro-e-nosso-aauav/
+URL:https://www.portugalrunning.com/eventos/corrida-solidaria-aveiro-e-nosso-aauav/
+END:VEVENT
+END:VCALENDAR

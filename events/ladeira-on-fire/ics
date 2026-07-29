@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a699703c0cac
+DTSTAMP:20260729T060035Z
+DTSTART:20261114T132300Z
+DTEND:20261114T132300Z
+LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+SUMMARY:Ladeira on Fire 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/ladeira-on-fire/
+URL:https://www.portugalrunning.com/eventos/ladeira-on-fire/
+END:VEVENT
+END:VCALENDAR

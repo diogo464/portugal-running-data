@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a6997029164a
+DTSTAMP:20260729T060034Z
+DTSTART:20260802T180800Z
+DTEND:20260802T235900Z
+LOCATION:Tavira\,  Faro Tavira\,  Faro
+SUMMARY:Corrida Mar Azul 2026
+DESCRIPTION:A Câmara Municipal de Tavira organiza\,  no dia 2 de agosto de
+  2026 a XXXV Corrida Mar Azul\,  prova totalmente corrida na areia.\nhttps:
+ //www.portugalrunning.com/eventos/corrida-mar-azul/
+URL:https://www.portugalrunning.com/eventos/corrida-mar-azul/
+END:VEVENT
+END:VCALENDAR

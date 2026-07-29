@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a699705a0880
+DTSTAMP:20260729T060037Z
+DTSTART:20260824T132000Z
+DTEND:20260824T235900Z
+LOCATION:Chamonix\,  França Chamonix\,  França
+SUMMARY:UTMB Mont-Blanc 2026
+DESCRIPTION:Acompanhamento ao Vivo: UTMB Live ⚡ Snapshot Data: 24 a 30 de
+  agosto de 2026 Local: Chamonix-Mont-Blanc\,  Alta Savoia (França) / Itál
+ ia / Suíça Distâncias: 171 km (UTMB)\,  148 km (TDS)\,  101 km (CCC)\,  
+ 57 km (OCC)\,  300 km (PTL)\,  40 km (MCC)\,  15 km (ETC) Piso: Trilhos alp
+ inos\,  tartereiras[..]\nhttps://www.portugalrunning.com/eventos/utmb-mont-
+ blanc/
+URL:https://www.portugalrunning.com/eventos/utmb-mont-blanc/
+END:VEVENT
+END:VCALENDAR

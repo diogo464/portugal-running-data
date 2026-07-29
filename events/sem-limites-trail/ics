@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a69970597fe0
+DTSTAMP:20260729T060037Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Amarante\,  Porto Amarante\,  Porto
+SUMMARY:Sem Limites Trail 2026
+DESCRIPTION:O Sem Limtes Trail Fridão através da sua secção deTrail Run
+ ning será realizado no dia 18 de Outubro de 2026. Trail Longo\,  com a dis
+ tância aproximada de 31kmTrail Curto com a distância aproximada de 17kmCa
+ minhada com a distância aproximada de 12 km. .\nhttps://www.portugalrunnin
+ g.com/eventos/sem-limites-trail/
+URL:https://www.portugalrunning.com/eventos/sem-limites-trail/
+END:VEVENT
+END:VCALENDAR

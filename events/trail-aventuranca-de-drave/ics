@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a6997059a851
+DTSTAMP:20260729T060037Z
+DTSTART:20261003T112100Z
+DTEND:20261003T235900Z
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Trail Aventurança de Drave 2026
+DESCRIPTION:2ª Trail Aventurança de Drave\,  com a distância de 18km a r
+ ealizar a 3 de outubro\,  este evento tem comolocal de partida e chegada a 
+ Regoufe\,  com partida às 9h30m\,  haverá uma caminhada de 10km\,  sem fi
+ nscompetitivos\nhttps://www.portugalrunning.com/eventos/trail-aventuranca-d
+ e-drave/
+URL:https://www.portugalrunning.com/eventos/trail-aventuranca-de-drave/
+END:VEVENT
+END:VCALENDAR

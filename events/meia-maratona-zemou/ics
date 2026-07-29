@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a699703b103f
+DTSTAMP:20260729T060035Z
+DTSTART:20261017
+DTEND:20261018
+LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+SUMMARY:Meia Maratona Zemou 2026
+DESCRIPTION:3ª prova do circuito\,  a Meia Maratona Zemou\,  com a distân
+ cia de 22km a realizar-se a 17 de outubro\,  esta é a última prova do cir
+ cuito e terá como local de partida e chegada a Aldeia de Tebilhão com par
+ tida às 8h00\,  haverá uma caminhada de 8km.\nhttps://www.portugalrunning
+ .com/eventos/meia-maratona-zemou/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-zemou/
+END:VEVENT
+END:VCALENDAR

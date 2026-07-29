@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a6997036da4f
+DTSTAMP:20260729T060035Z
+DTSTART:20260827T131400Z
+DTEND:20260827T131400Z
+LOCATION:Ilha do Pico\,  Açores Ilha do Pico\,  Açores
+SUMMARY:Baleeiros Hybrid Games 2026
+DESCRIPTION:O Baleeiros Hybrid Games é uma competição de fitness híbrid
+ o integrada na Semanados Baleeiros\,  organizada com o objetivo de promover
+  o desporto\,  a superação pessoal ehomenagear a tradição baleeira das 
+ Lajes do Pico.\nhttps://www.portugalrunning.com/eventos/baleeiros-hybrid-ga
+ mes/
+URL:https://www.portugalrunning.com/eventos/baleeiros-hybrid-games/
+END:VEVENT
+END:VCALENDAR

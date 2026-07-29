@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a69970267431
+DTSTAMP:20260729T060034Z
+DTSTART:20261101
+DTEND:20261102
+LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+SUMMARY:Corrida da Água 2026
+DESCRIPTION:Em parceria com a EPAL e a CM-Lisboa\,  este evento imperdível
+  inclui uma experiência única de corrida e caminhada pelo majestoso Aqued
+ uto das Águas Livres\, um Monumento Nacional desde 1910 e um feito notáve
+ l da engenharia hidráulica.\nhttps://www.portugalrunning.com/eventos/corri
+ da-da-agua/
+URL:https://www.portugalrunning.com/eventos/corrida-da-agua/
+END:VEVENT
+END:VCALENDAR
