@@ -2,7 +2,126 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-07-28T16:42:32+00:00</lastmod>
+		<lastmod>2026-08-01T06:00:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-corrida-ano-novo-2/</loc>
+		<lastmod>2026-08-01T06:00:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/AF_SM_CAN26_Banner_Site_Xistarca-750x380-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/tor-em-movimento-feira/</loc>
+		<lastmod>2026-08-01T06:00:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/6a68d16f57004_Cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/milha-cerveja-a-r-sequeiro/</loc>
+		<lastmod>2026-08-01T05:50:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/1780525942-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-cidade-de-faro/</loc>
+		<lastmod>2026-08-01T05:49:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/Pop47m8d30358.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-barcelos/</loc>
+		<lastmod>2026-08-01T05:48:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/5466ba2d1a3aee28100f8f04809b7392.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-aves-em-movimento-reclamos/</loc>
+		<lastmod>2026-08-01T05:44:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/cf88cd267da1215827aeabe53c5cb852.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/tarouca-last-man-standing/</loc>
+		<lastmod>2026-08-01T05:41:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/a2cd44a7da4e0fd25cae9cdb03063978.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-dolorosa-de-moldes/</loc>
+		<lastmod>2026-08-01T05:38:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/87054d95931ae66125e202da7101e0f0.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-aventuranca-de-drave/</loc>
+		<lastmod>2026-08-01T05:37:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/3cd8112ff6fbb08b80d89179f1008600.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sierre-zinal/</loc>
+		<lastmod>2026-08-01T05:34:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/616820195_1687952355864835_7967392529322040894_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/ladeira-on-fire/</loc>
+		<lastmod>2026-08-01T05:27:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/pop_oc0497c983.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/mini-e-meia-maratona-abrantes/</loc>
+		<lastmod>2026-08-01T05:22:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/pop_x81z9rn995.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/a-corrida-mais-pintas-ao-por-do-sol-quiaoss/</loc>
+		<lastmod>2026-08-01T05:20:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/banner-corrida-mais-pintas-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-da-raposa/</loc>
+		<lastmod>2026-08-01T05:14:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/6a6a17dc3efcd_Cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/the-meat-run/</loc>
+		<lastmod>2026-08-01T05:08:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/6a6c5ef006de5_Cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/a-tua-prova-aqui/</loc>
+		<lastmod>2026-07-31T13:43:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/destaque.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-jose-costa/</loc>
+		<lastmod>2026-07-30T13:57:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/6a689020c35c6_Cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-ovar/</loc>
@@ -65,13 +184,6 @@
 		<lastmod>2026-07-28T14:31:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/ladeira-on-fire/</loc>
-		<lastmod>2026-07-28T13:24:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/pop_0ec0z0k983.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/linhas-de-torres-100/</loc>
 		<lastmod>2026-07-28T13:22:44+00:00</lastmod>
 	</url>
@@ -115,20 +227,6 @@
 		<lastmod>2026-07-28T07:47:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/Pop7e78697357.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-aventuranca-de-drave/</loc>
-		<lastmod>2026-07-28T07:45:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/3cd8112ff6fbb08b80d89179f1008600.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-dolorosa-de-moldes/</loc>
-		<lastmod>2026-07-28T07:41:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/87054d95931ae66125e202da7101e0f0.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1351,13 +1449,6 @@
 		<lastmod>2026-06-19T05:24:25+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/215_logo.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/milha-cerveja-a-r-sequeiro/</loc>
-		<lastmod>2026-06-19T05:22:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/1780525942-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2739,13 +2830,6 @@
 		<lastmod>2026-05-04T06:49:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/42aaf4ee22a93cf62c6add5c2844506a.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/a-tua-prova-aqui/</loc>
-		<lastmod>2026-05-03T06:53:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/destaque.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

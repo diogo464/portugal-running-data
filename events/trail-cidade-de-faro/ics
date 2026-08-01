@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a6d8b9930227
+DTSTAMP:20260801T060057Z
+DTSTART:20261101T105200Z
+DTEND:20261101T235900Z
+LOCATION:Estoi\,  Faro Estoi\,  Faro
+SUMMARY:Trail Cidade de Faro 2026
+DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-cidade-de-faro/
+URL:https://www.portugalrunning.com/eventos/trail-cidade-de-faro/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a6d8b9716cb9
+DTSTAMP:20260801T060055Z
+DTSTART:20260905T051800Z
+DTEND:20260905T051800Z
+LOCATION:Praia de Quiaos\,  Figueira da Foz Praia de Quiaos\,  Figueira da Foz
+SUMMARY:A corrida mais pintas (ao pôr do sol) 2026
+DESCRIPTION:A corrida mais pintas é um evento desportivo de carácter incl
+ usivo\,  concebido para ser acessível a todos. O percurso pode ser realiza
+ do a corrinhar (correr ou caminhar)\,  não assumindo qualquer vertente com
+ petitiva ou classificativa\,  sendo apenas para a diversão pura. O percurs
+ o será pela praia de Quiaios e Murtinheira e[..]\nhttps://www.portugalrunn
+ ing.com/eventos/a-corrida-mais-pintas-ao-por-do-sol-quiaoss/
+URL:https://www.portugalrunning.com/eventos/a-corrida-mais-pintas-ao-por-do-sol-quiaoss/
+END:VEVENT
+END:VCALENDAR

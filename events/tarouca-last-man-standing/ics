@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a6d8b9933bad
+DTSTAMP:20260801T060057Z
+DTSTART:20260920
+DTEND:20260921
+LOCATION:Tarouca\,  Viseu Tarouca\,  Viseu
+SUMMARY:Tarouca Last Man Standing 2026
+DESCRIPTION:“Last Man Standing (Último Vence) - Trail” é uma corrida 
+ onde todos chegam ao fim\,  mas apenas um pode vencer! No início de cada v
+ olta\,  todos estão novamente em 1o lugar. Um evento que junta\,  trail\, 
+  superação e convívio num desafio que cada um coloca a si mesmo.\nhttps:
+ //www.portugalrunning.com/eventos/tarouca-last-man-standing/
+URL:https://www.portugalrunning.com/eventos/tarouca-last-man-standing/
+END:VEVENT
+END:VCALENDAR

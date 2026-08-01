@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a6d8b990c464
+DTSTAMP:20260801T060057Z
+DTSTART:20260822T050600Z
+DTEND:20260822T050600Z
+LOCATION:Viseu Viseu
+SUMMARY:The Meat Run 2026
+DESCRIPTION:A The Meat Run 2026 é organizada pela I9LAFÕES \,  em parceri
+ a com o Viriathvs Runner Viseu. O Omeutalho acredita que uma alimentação 
+ de qualidade e um estilo de vida saudável caminham lado a lado. Foi com es
+ se propósito que nasceu a The Meat Run\,  um evento que une desporto\, [..
+ ]\nhttps://www.portugalrunning.com/eventos/the-meat-run/
+URL:https://www.portugalrunning.com/eventos/the-meat-run/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a6d8b997cff6
+DTSTAMP:20260801T060057Z
+DTSTART:20260730T135300Z
+DTEND:20260730T135300Z
+LOCATION:Moimenta de Maceira Dão\,  Mangualde Moimenta de Maceira Dão\,  Mangualde
+SUMMARY:Trail Jose Costa 2026
+DESCRIPTION:O evento é composto por três percursos:Trail Longo de 22 km (
+ aproх.);Trail Curto 11 km (aprox.);Caminhada 8 Km (aprox.);\nhttps://www.p
+ ortugalrunning.com/eventos/trail-jose-costa/
+URL:https://www.portugalrunning.com/eventos/trail-jose-costa/
+END:VEVENT
+END:VCALENDAR

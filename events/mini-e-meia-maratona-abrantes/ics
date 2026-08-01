@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a6d8b98c5294
+DTSTAMP:20260801T060056Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+SUMMARY:Mini e Meia Maratona Abrantes 2026
+DESCRIPTION:O Município de Abrantes em parceria com Casa do Benfica em Abr
+ antes\,  leva a efeito a Mini e Meia Maratona de Abrantes\,  a realizar no 
+ dia 8 de novembro no TagusValley – Parque de Ciência e Tecnologia.\nhttp
+ s://www.portugalrunning.com/eventos/mini-e-meia-maratona-abrantes/
+URL:https://www.portugalrunning.com/eventos/mini-e-meia-maratona-abrantes/
+END:VEVENT
+END:VCALENDAR
