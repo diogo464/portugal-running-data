@@ -2,7 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-08-01T06:02:46+00:00</lastmod>
+		<lastmod>2026-08-01T10:05:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/cebola-run/</loc>
+		<lastmod>2026-08-01T10:05:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/banner-cebola-run-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/20-kms-de-almeirim/</loc>
+		<lastmod>2026-08-01T09:57:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/milha-cerveja-a-r-sequeiro/</loc>
@@ -1385,10 +1396,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/20-kms-de-almeirim/</loc>
-		<lastmod>2026-06-20T16:03:05+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-do-algarve/</loc>
 		<lastmod>2026-06-20T15:43:13+00:00</lastmod>
 		<image:image>
@@ -1589,13 +1596,6 @@
 		<lastmod>2026-06-17T07:28:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/banner-trail-trilheiros-e-amigos-2026-min.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/cebola-run/</loc>
-		<lastmod>2026-06-17T07:27:07+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/banner-cebola-run-2026-min.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
