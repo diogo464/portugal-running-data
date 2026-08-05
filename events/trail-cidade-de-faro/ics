@@ -4,13 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a6d8b9930227
-DTSTAMP:20260801T060057Z
+UID:6a73ba90af5eb
+DTSTAMP:20260805T223456Z
 DTSTART:20261101T105200Z
 DTEND:20261101T235900Z
 LOCATION:Estoi\,  Faro Estoi\,  Faro
 SUMMARY:Trail Cidade de Faro 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-cidade-de-faro/
+DESCRIPTION:O II Trail Cidade de Faro regressa no dia 1 de novembro de 2026
+  a Estói Click to open side panel for more information \,  desafiando os a
+ tletas pelos cerros e caminhos rurais da freguesia através de um Trail Lon
+ go de 32 km\,  Trail Sprint de 22 km\,  Mini Trail[..]\nhttps://www.portuga
+ lrunning.com/eventos/trail-cidade-de-faro/
 URL:https://www.portugalrunning.com/eventos/trail-cidade-de-faro/
 END:VEVENT
 END:VCALENDAR

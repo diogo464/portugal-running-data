@@ -2,11 +2,50 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-08-05T22:19:29+00:00</lastmod>
+		<lastmod>2026-08-05T22:32:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/mini-e-meia-maratona-abrantes/</loc>
+		<lastmod>2026-08-05T22:32:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/pop_x81z9rn995.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sierre-zinal/</loc>
+		<lastmod>2026-08-05T22:31:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/616820195_1687952355864835_7967392529322040894_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-barcelos/</loc>
+		<lastmod>2026-08-05T22:30:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/5466ba2d1a3aee28100f8f04809b7392.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/20-kms-de-almeirim/</loc>
+		<lastmod>2026-08-05T22:29:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/cebola-run/</loc>
+		<lastmod>2026-08-05T22:28:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/banner-cebola-run-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-cidade-de-faro/</loc>
+		<lastmod>2026-08-05T22:26:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/Pop47m8d30358.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-4-estacoes-outono-condeixa/</loc>
-		<lastmod>2026-08-05T22:19:29+00:00</lastmod>
+		<lastmod>2026-08-05T22:22:20+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/745357154_1981525242504102_1766335651698346922_n.webp</image:loc>
 		</image:image>
@@ -95,28 +134,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/cebola-run/</loc>
-		<lastmod>2026-08-01T10:05:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/banner-cebola-run-2026-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/20-kms-de-almeirim/</loc>
-		<lastmod>2026-08-01T09:57:40+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/milha-cerveja-a-r-sequeiro/</loc>
 		<lastmod>2026-08-01T06:02:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/1780525942-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-barcelos/</loc>
-		<lastmod>2026-08-01T06:01:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/5466ba2d1a3aee28100f8f04809b7392.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -131,13 +152,6 @@
 		<lastmod>2026-08-01T06:00:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/6a68d16f57004_Cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-cidade-de-faro/</loc>
-		<lastmod>2026-08-01T05:49:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/Pop47m8d30358.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -169,24 +183,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/sierre-zinal/</loc>
-		<lastmod>2026-08-01T05:34:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/616820195_1687952355864835_7967392529322040894_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/ladeira-on-fire/</loc>
 		<lastmod>2026-08-01T05:27:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/pop_oc0497c983.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/mini-e-meia-maratona-abrantes/</loc>
-		<lastmod>2026-08-01T05:22:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/pop_x81z9rn995.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

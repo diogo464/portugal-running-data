@@ -4,18 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a6d8b9891d76
-DTSTAMP:20260801T060056Z
+UID:6a73ba8f707c9
+DTSTAMP:20260805T223455Z
 DTSTART:20261205
 DTEND:20261206
 LOCATION:Barcelos\,  Braga Barcelos\,  Braga
-SUMMARY:São Silvestre Barcelos 2026 - Braga
-DESCRIPTION:⚡ Snapshot Data: 5 de dezembro de 2026 Local: Barcelos (Distr
- ito de Braga) Distância: 10 km (Corrida) / 5 km (Caminhada) / Várias dist
- âncias (Crianças) Piso: Asfalto e pavê urbano (troço histórico) 📝 O
-  Desafio O percurso urbano desenha-se pelas artérias da cidade de Barcelos
- \,  combinando avenidas largas de asfalto[..]\nhttps://www.portugalrunning.
- com/eventos/sao-silvestre-barcelos/
+SUMMARY:São Silvestre Barcelos 2026
+DESCRIPTION:A São Silvestre de Barcelos regressa no dia 19 de dezembro de 
+ 2026 para animar as ruas do Minho com uma corrida de 10 km e uma caminhada 
+ de 5 km em piso de asfalto e calçada urbana. O percurso exige uma leitura 
+ atenta do relevo no centro histórico\,  combinando[..]\nhttps://www.portug
+ alrunning.com/eventos/sao-silvestre-barcelos/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-barcelos/
 END:VEVENT
 END:VCALENDAR
