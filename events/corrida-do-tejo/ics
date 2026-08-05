@@ -4,17 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d1610068
-DTSTAMP:20260530T060054Z
+UID:6a739e360c217
+DTSTAMP:20260805T203358Z
 DTSTART:20260913
 DTEND:20260914
 LOCATION:Algés\,  Oeiras Algés\,  Oeiras
 SUMMARY:Corrida do Tejo 2026
-DESCRIPTION:⚡ Snapshot da Prova Data: 13 de Setembro de 2026 Local: Algé
- s (Partida) – Oeiras (Chegada) Distância: 10km Lineares Piso: Asfalto (E
- strada) 📝 O Desafio A Corrida do Tejo 2026 é a prova ideal para quem pr
- ocura bater o seu recorde pessoal nos 10km em estrada. O percurso\,  que un
- e[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-tejo/
+DESCRIPTION:Agendada para 13 de setembro de 2026\,  a histórica Corrida do
+  Tejo convida os participantes a enfrentar um percurso linear de 10 km entr
+ e Algés e Oeiras\,  com toda a extensão desenhada sobre o asfalto da embl
+ emática Avenida Marginal. Esta clássica prova de estrada exige uma gestã
+ o rigorosa do ritmo[..]\nhttps://www.portugalrunning.com/eventos/corrida-do
+ -tejo/
 URL:https://www.portugalrunning.com/eventos/corrida-do-tejo/
 END:VEVENT
 END:VCALENDAR

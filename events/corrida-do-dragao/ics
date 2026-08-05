@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cd2a7770573
-DTSTAMP:20260401T142351Z
-DTSTART:20261025
-DTEND:20261026
+UID:6a739e35c296d
+DTSTAMP:20260805T203357Z
+DTSTART:20261018
+DTEND:20261019
 LOCATION:Porto Porto
 SUMMARY:Corrida do Dragão 2026
-DESCRIPTION:A Corrida do Dragão acontece a 25 de outubro de 2026\,  com ep
- icentro no Estádio do Dragão\,  no Porto. Esta prova de estrada mobiliza 
- milhares de participantes que percorrem as principais artérias em redor do
-  recinto desportivo. As inscrições para a Corrida do Dragão 2026 garante
- m a participação num dos[..]\nhttps://www.portugalrunning.com/eventos/cor
- rida-do-dragao/
+DESCRIPTION:⚡ Snapshot: Data: 18 de outubro de 2026 Local: Estádio do Dr
+ agão\,  Porto Distância: 10 km (Corrida) e 5 km (Caminhada) Piso: Asfalto
+  (Urbana) 📝 O Desafio: O percurso desenrola-se pelas principais artéria
+ s em redor do recinto desportivo na Cidade Invicta\,  exigindo atenção co
+ nstante à geometria do asfalto e às[..]\nhttps://www.portugalrunning.com/
+ eventos/corrida-do-dragao/
 URL:https://www.portugalrunning.com/eventos/corrida-do-dragao/
 END:VEVENT
 END:VCALENDAR

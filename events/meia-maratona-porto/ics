@@ -4,18 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a02c208a1d50
-DTSTAMP:20260512T060040Z
+UID:6a739e3688bcc
+DTSTAMP:20260805T203358Z
 DTSTART:20260913
 DTEND:20260914
 LOCATION:Porto Porto
 SUMMARY:Meia Maratona Porto 2026
-DESCRIPTION:Título: Meia Maratona do Porto 2026 - Porto ⚡ Snapshot: Data
- : 13de setembro de 2026 Local: Porto e Vila Nova de Gaia Distância: 21\, 0
- 97 km Piso: Asfalto 📝 O Desafio: O percurso da Meia Maratona do Porto of
- erece uma experiência de corrida caracterizada por uma superfície de asfa
- lto predominantemente plana[..]\nhttps://www.portugalrunning.com/eventos/me
- ia-maratona-porto/
+DESCRIPTION:Agendada para 20 de setembro de 2026\,  a Meia Maratona do Port
+ o convida os participantes a percorrer as margens do rio Douro e as pontes 
+ emblemáticas da Invicta num percurso rápido de 21\, 1 km em asfalto. Esta
+  clássica prova exige uma gestão rigorosa do ritmo ao longo de troços pl
+ anos[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-porto/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-porto/
 END:VEVENT
 END:VCALENDAR
