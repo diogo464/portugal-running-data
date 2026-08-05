@@ -4,18 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a739e35c296d
-DTSTAMP:20260805T203357Z
+UID:6a73b778d70fd
+DTSTAMP:20260805T222144Z
 DTSTART:20261018
 DTEND:20261019
 LOCATION:Porto Porto
 SUMMARY:Corrida do Dragão 2026
-DESCRIPTION:⚡ Snapshot: Data: 18 de outubro de 2026 Local: Estádio do Dr
- agão\,  Porto Distância: 10 km (Corrida) e 5 km (Caminhada) Piso: Asfalto
-  (Urbana) 📝 O Desafio: O percurso desenrola-se pelas principais artéria
- s em redor do recinto desportivo na Cidade Invicta\,  exigindo atenção co
- nstante à geometria do asfalto e às[..]\nhttps://www.portugalrunning.com/
- eventos/corrida-do-dragao/
+DESCRIPTION:A 7ª edição da Corrida do Dragão regressa no dia 18 de outu
+ bro de 2026\,  convocando milhares de participantes para a emblemática zon
+ a em redor do Estádio do Dragão Click to open side panel for more informa
+ tion no Porto\,  com uma corrida de 10 km e uma caminhada de 5[..]\nhttps:/
+ /www.portugalrunning.com/eventos/corrida-do-dragao/
 URL:https://www.portugalrunning.com/eventos/corrida-do-dragao/
 END:VEVENT
 END:VCALENDAR
