@@ -2,7 +2,39 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-08-05T22:32:17+00:00</lastmod>
+		<lastmod>2026-08-05T22:47:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-ovar/</loc>
+		<lastmod>2026-08-05T22:47:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/banner-mm-ovar-2026-min.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-natal/</loc>
+		<lastmod>2026-08-05T22:46:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-barcelos/</loc>
+		<lastmod>2026-08-05T22:44:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/5466ba2d1a3aee28100f8f04809b7392.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-montes-saloios/</loc>
+		<lastmod>2026-08-05T22:43:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/6a7051f27fc89_Cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-4-estacoes-outono-condeixa/</loc>
+		<lastmod>2026-08-05T22:41:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/745357154_1981525242504102_1766335651698346922_n.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/mini-e-meia-maratona-abrantes/</loc>
@@ -16,13 +48,6 @@
 		<lastmod>2026-08-05T22:31:07+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/616820195_1687952355864835_7967392529322040894_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-barcelos/</loc>
-		<lastmod>2026-08-05T22:30:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/5466ba2d1a3aee28100f8f04809b7392.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -44,13 +69,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-4-estacoes-outono-condeixa/</loc>
-		<lastmod>2026-08-05T22:22:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/745357154_1981525242504102_1766335651698346922_n.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-e-caminhada-da-praia-da-vieira/</loc>
 		<lastmod>2026-08-05T22:13:27+00:00</lastmod>
 		<image:image>
@@ -62,13 +80,6 @@
 		<lastmod>2026-08-05T22:11:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/571237034_1404843844975841_7555573362784807482_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-montes-saloios/</loc>
-		<lastmod>2026-08-05T22:10:29+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/6a7051f27fc89_Cartaz-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -225,13 +236,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-ovar/</loc>
-		<lastmod>2026-07-28T16:42:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/banner-mm-ovar-2026-min.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-de-berlim/</loc>
 		<lastmod>2026-07-28T16:41:01+00:00</lastmod>
 		<image:image>
@@ -279,10 +283,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/banner-desafio-nos-arrozais-2026-min.webp</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/grande-premio-natal/</loc>
-		<lastmod>2026-07-28T14:31:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/linhas-de-torres-100/</loc>

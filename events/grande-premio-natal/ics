@@ -4,14 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a699705942b3
-DTSTAMP:20260729T060037Z
+UID:6a73bd9e8b923
+DTSTAMP:20260805T224758Z
 DTSTART:20261220
 DTEND:20261221
 LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
 SUMMARY:Grande Prémio Natal 2026
-DESCRIPTION:Ver Resultados 2025\nhttps://www.portugalrunning.com/eventos/gr
- ande-premio-natal/
+DESCRIPTION:O Grande Prémio do Natal regressa em dezembro de 2026 às art�
+ �rias da capital portuguesa\,  reunindo participantes para uma corrida de 1
+ 0 km e uma caminhada de 5 km em piso de asfalto urbano. O percurso é famos
+ o pela sua rápida extensão em descida e falsos planos\,  exigindo uma lei
+ tura[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-natal/
 URL:https://www.portugalrunning.com/eventos/grande-premio-natal/
 END:VEVENT
 END:VCALENDAR
