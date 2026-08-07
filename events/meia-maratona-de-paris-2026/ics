@@ -4,18 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff9934993
-DTSTAMP:20260724T060057Z
+UID:6a75749019611
+DTSTAMP:20260807T060048Z
 DTSTART:20270307
 DTEND:20270308
 LOCATION:Paris\,  França Paris\,  França
 SUMMARY:Meia Maratona de Paris 2027
-DESCRIPTION:Meia Maratona de Paris 2027 - Ilha de França ⚡ Snapshot Data
- : 7 de março de 2027 Local: Paris (Partida na Place de la République / Ch
- egada na Place de la Bastille) Distância: 21\, 097 km Piso: Asfalto urbano
-  regular com passagens pontuais em lajetas de granito e paralelepípedo sua
- ve 📝[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-paris
- -2026/
+DESCRIPTION:Agendada para o dia 8 de março de 2026 em Paris\,  França\,  
+ a Harmonie Mutuelle Meia Maratona de Paris desafia os atletas com o percurs
+ o mítico de 21\, 097 km sobre um piso de asfalto plano e contínuo. O tra�
+ �ado desenha-se a partir do Bois de Vincennes em direção ao coração[..]
+ \nhttps://www.portugalrunning.com/eventos/meia-maratona-de-paris-2026/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-de-paris-2026/
 END:VEVENT
 END:VCALENDAR

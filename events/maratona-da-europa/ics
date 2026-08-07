@@ -4,17 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a605c9c31849
-DTSTAMP:20260722T060100Z
+UID:6a75748f02aad
+DTSTAMP:20260807T060047Z
 DTSTART:20270425
 DTEND:20270426
 LOCATION:Aveiro Aveiro
 SUMMARY:Maratona da Europa (Aveiro) 2027
-DESCRIPTION:Aveiro prepara-se para a sua maior edição de sempre. Com mais
-  de 20.000 atletas de todo o mundo\,  a Maratona da Europa não é apenas u
- ma corrida — é uma celebração da Região Centro. Se vais correr ou apo
- iar\,  prepara-te para um cenário único entre os canais e a Ria.[..]\nhtt
- ps://www.portugalrunning.com/eventos/maratona-da-europa/
+DESCRIPTION:Agendada para os dias 24 e 25 de abril de 2027 em Aveiro\,  a M
+ aratona da Europa desafia os participantes com percursos de 42 km\,  21 km\
+ ,  10 km e 5 km. Disputada num circuito plano sobre asfalto contínuo\,  a 
+ prova atravessa os canais urbanos da cidade e estende-se em[..]\nhttps://ww
+ w.portugalrunning.com/eventos/maratona-da-europa/
 URL:https://www.portugalrunning.com/eventos/maratona-da-europa/
 END:VEVENT
 END:VCALENDAR

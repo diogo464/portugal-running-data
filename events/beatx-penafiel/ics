@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a75748e720ca
+DTSTAMP:20260807T060046Z
+DTSTART:20260905T084300Z
+DTEND:20260905T235900Z
+LOCATION:Penafiel\,  Porto Penafiel\,  Porto
+SUMMARY:Beatx Penafiel 2026
+DESCRIPTION:A prova consiste em 1 km de corrida seguido por 1 exercício\, 
+  num total de 8 km de corrida e 8 estações diferentes de exercícios.\nht
+ tps://www.portugalrunning.com/eventos/beatx-penafiel/
+URL:https://www.portugalrunning.com/eventos/beatx-penafiel/
+END:VEVENT
+END:VCALENDAR

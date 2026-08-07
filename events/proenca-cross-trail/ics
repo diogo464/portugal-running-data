@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a757491ea59d
+DTSTAMP:20260807T060049Z
+DTSTART:20261205
+DTEND:20261206
+LOCATION:Proença a Nova\,  Castelo Branco Proença a Nova\,  Castelo Branco
+SUMMARY:Proença Cross Trail 2026
+DESCRIPTION:Agendado para os dias 4 e 5 de dezembro de 2026 em Proença-a-N
+ ova\,  o Proença Cross Trail desafia os participantes com percursos de 15 
+ km\,  25 km e 45 km desenhados no coração da Beira Baixa. A corrida combi
+ na troços de piso firme e estradões florestais com rampas acentuadas e[..
+ ]\nhttps://www.portugalrunning.com/eventos/proenca-cross-trail/
+URL:https://www.portugalrunning.com/eventos/proenca-cross-trail/
+END:VEVENT
+END:VCALENDAR

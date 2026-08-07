@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a757490db6af
+DTSTAMP:20260807T060048Z
+DTSTART:20261010T143300Z
+DTEND:20261010T235900Z
+LOCATION:Carregal do Sal\,  Viseu Carregal do Sal\,  Viseu
+SUMMARY:Grande Prémio de Atletismo 3 Santos Populares 2026
+DESCRIPTION:O Grupo Desportivo “3 Santos Populares” leva a efeito no di
+ a 4 de outubro de 2026 o XXVIII Grande Prémio de Atletismo 3 Santos Popula
+ res / 3ª Corrida da Esperança Aristides De Sousa Mendes.\nhttps://www.por
+ tugalrunning.com/eventos/grande-premio-de-atletismo-3-santos-populares/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-3-santos-populares/
+END:VEVENT
+END:VCALENDAR

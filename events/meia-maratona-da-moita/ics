@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a75749006431
+DTSTAMP:20260807T060048Z
+DTSTART:20261004
+DTEND:20261005
+LOCATION:Moita\,  Setúbal Moita\,  Setúbal
+SUMMARY:Meia Maratona da Moita 2026
+DESCRIPTION:Agendada para o dia 4 de outubro de 2026 com partida na Avenida
+  Marginal da Moita\,  a Meia Maratona Ribeirinha da Moita desafia os atleta
+ s com os percursos de 21\, 097 km e uma Mini Caminhada de 7 km. O traçado 
+ urbano e plano estende-se sobre asfalto contínuo ao longo da[..]\nhttps://
+ www.portugalrunning.com/eventos/meia-maratona-da-moita/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-da-moita/
+END:VEVENT
+END:VCALENDAR

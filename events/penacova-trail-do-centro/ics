@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a75749050658
+DTSTAMP:20260807T060048Z
+DTSTART:20250907
+DTEND:20250908
+LOCATION:Penacova\,  Coimbra  Bombeiros Voluntários de Penacova
+SUMMARY:Penacova Trail do Centro 2026
+DESCRIPTION:Agendado para os dias 5 e 6 de setembro de 2026 com ponto focal
+  na Praia Fluvial do Reconquinho\,  em Penacova\,  o Penacova Trail do Cent
+ ro desafia os atletas com percursos de 46 km\,  31 km\,  16 km\,  um prólo
+ go de 2 km e caminhada. O traçado desenha-se sobre os[..]\nhttps://www.por
+ tugalrunning.com/eventos/penacova-trail-do-centro/
+URL:https://www.portugalrunning.com/eventos/penacova-trail-do-centro/
+END:VEVENT
+END:VCALENDAR

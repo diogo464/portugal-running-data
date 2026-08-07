@@ -4,18 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69fecd8c60abd
-DTSTAMP:20260509T060044Z
+UID:6a75749064a84
+DTSTAMP:20260807T060048Z
 DTSTART:20261129
 DTEND:20261130
 LOCATION:Lisboa Lisboa
 SUMMARY:Meia Maratona Descobrimentos 2026
-DESCRIPTION:Data: 29 de novembro de 2026 Local: Belém\,  Lisboa Distância
- : 21 km (Meia Maratona)\,  10 km e 4 km (Caminhada) Piso: Asfalto (Estrada)
-  📝 O Desafio O percurso da Meia Maratona Descobrimentos é reconhecido p
- ela sua linearidade e inclinação praticamente nula\,  desenrolando-se int
- egralmente junto à linha de água do Rio[..]\nhttps://www.portugalrunning.
- com/eventos/meia-maratona-descobrimentos/
+DESCRIPTION:Agendada para o dia 6 de dezembro de 2026 em Lisboa\,  a Meia M
+ aratona dos Descobrimentos desafia os participantes com percursos de 21 km\
+ ,  10 km e uma caminhada de 5 km ao longo da zona ribeirinha de Belém. O t
+ raçado desenha-se sobre um piso de asfalto contínuo e plano[..]\nhttps://
+ www.portugalrunning.com/eventos/meia-maratona-descobrimentos/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos/
 END:VEVENT
 END:VCALENDAR

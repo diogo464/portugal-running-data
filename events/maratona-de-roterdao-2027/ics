@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff9a9836a
-DTSTAMP:20260724T060058Z
+UID:6a757491560d2
+DTSTAMP:20260807T060049Z
 DTSTART:20270411T224100Z
-DTEND:20270411T224100Z
+DTEND:20270411T235900Z
 LOCATION:Roterdão\,  Países Baixos Roterdão\,  Países Baixos
 SUMMARY:Maratona de Roterdão 2027
-DESCRIPTION:⚡ Snapshot Data: 11 de abril de 2027 Local: Roterdão (Partid
- a junto à Ponte Erasmus / Chegada na emblemática av. Coolsingel) Distânc
- ia: 42\, 195 km (disponíveis também distâncias complementares como 10\, 
- 55 km e corridas jovens) Piso: Asfalto urbano ultra-regular e contínuo\,  
- com passagens em lajetas modernas de granito e secções pontuais[..]\nhttp
- s://www.portugalrunning.com/eventos/maratona-de-roterdao-2027/
+DESCRIPTION:Agendada para os dias 10 e 11 de abril de 2027 em Roterdão\,  
+ nos Países Baixos\,  a NN Marathon Rotterdam desafia os participantes com 
+ a distância clássica de 42\, 195 km\,  acompanhada por provas paralelas d
+ e 10 km e caminhadas urbanas. O traçado desenha-se sobre um piso de asfalt
+ o plano e[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-roterdao
+ -2027/
 URL:https://www.portugalrunning.com/eventos/maratona-de-roterdao-2027/
 END:VEVENT
 END:VCALENDAR

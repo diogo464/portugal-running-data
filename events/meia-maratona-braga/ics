@@ -4,14 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff9985985
-DTSTAMP:20260724T060057Z
+UID:6a757491ebe7e
+DTSTAMP:20260807T060049Z
 DTSTART:20270328
 DTEND:20270329
 LOCATION:Braga Braga
 SUMMARY:Meia Maratona Braga 2027
-DESCRIPTION:Resultados 2026\nhttps://www.portugalrunning.com/eventos/meia-m
- aratona-braga/
+DESCRIPTION:A Meia Maratona de Braga 2027\,  prevista para se realizar na c
+ idade de Braga em data a confirmar pela organização\,  desafia os atletas
+  num circuito urbano de 21 km sobre um piso contínuo em asfalto. O traçad
+ o desenha-se pelas avenidas largas e artérias históricas bracarenses\,  o
+ ferecendo uma altimetria maioritariamente plana[..]\nhttps://www.portugalru
+ nning.com/eventos/meia-maratona-braga/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-braga/
 END:VEVENT
 END:VCALENDAR
