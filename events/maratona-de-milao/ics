@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a76c60484ab2
+DTSTAMP:20260808T060036Z
+DTSTART:20270404
+DTEND:20270405
+LOCATION:Milão\,  Itália Milão\,  Itália
+SUMMARY:Maratona de Milão 2027
+DESCRIPTION:A realizar-se no dia 4 de abril de 2027 em Milão\,  a icónica
+  Maratona de Milão convida os participantes a enfrentarem uma distância d
+ e 42\, 195 km num traçado puramente urbano e asfaltado. O percurso plano e
+  com poucas oscilações de relevo garante uma tração excelente no alcatr
+ ão\,  facilitando uma gestão[..]\nhttps://www.portugalrunning.com/eventos
+ /maratona-de-milao/
+URL:https://www.portugalrunning.com/eventos/maratona-de-milao/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a76c60285a72
+DTSTAMP:20260808T060034Z
+DTSTART:20260807T105500Z
+DTEND:20260807T105500Z
+LOCATION:Madalena do Pico\,  Açores Madalena do Pico\,  Açores
+SUMMARY:FitupTrail 2026
+DESCRIPTION:O “Fitup Trail “é um evento de trail running e caminhada\,
+   organizado pelo ginásio Fitup\,  quepercorre canadas\,  caminhos e curra
+ is de vinha dos toledos na na Madalena do Pico – Açores\, enquadrado nas
+  vertentes Family Trail 5km\,  Mini Trail e caminhada de 10km e Sprint Trai
+ l de18km.\nhttps://www.portugalrunning.com/eventos/fituptrail/
+URL:https://www.portugalrunning.com/eventos/fituptrail/
+END:VEVENT
+END:VCALENDAR

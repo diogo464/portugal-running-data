@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a76c60525555
+DTSTAMP:20260808T060037Z
+DTSTART:20261011T145600Z
+DTEND:20261011T235900Z
+LOCATION:Macedo de Cavaleiros\,  Bragança Macedo de Cavaleiros\,  Bragança
+SUMMARY:Trilho das Oliveiras Morais 2026
+DESCRIPTION:O Trilho das Oliveiras regressa a 11 de outubro de 2026 na embl
+ emática aldeia de Morais\,  no concelho de Macedo de Cavaleiros\,  propond
+ o uma imersão total pelas paisagens rurais e serranas do nordeste transmon
+ tano. O percurso combina piso macio em terra batida\,  caminhos agrícolas 
+ e breves troços de asfalto\,  exigindo[..]\nhttps://www.portugalrunning.co
+ m/eventos/trilho-das-oliveiras-morais/
+URL:https://www.portugalrunning.com/eventos/trilho-das-oliveiras-morais/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a76c604c3094
+DTSTAMP:20260808T060036Z
+DTSTART:20261011
+DTEND:20261012
+LOCATION:Vila Verde\,  Braga Vila Verde\,  Braga
+SUMMARY:Trail Vale do Homem 2026
+DESCRIPTION:O Trail Vale do Homem desenrola-se ao longo dos trilhos acident
+ ados e margens ribeirinhas do concelho de Vila Verde\,  no distrito de Brag
+ a. Realiza-se a 11 de outubro\,  o evento desafia os atletas em percursos d
+ e 24 km e 14 km (além de caminhada)\,  caracterizados pela alternância co
+ nstante entre terra[..]\nhttps://www.portugalrunning.com/eventos/trail-vale
+ -do-homem/
+URL:https://www.portugalrunning.com/eventos/trail-vale-do-homem/
+END:VEVENT
+END:VCALENDAR

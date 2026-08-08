@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699cea1be8875
-DTSTAMP:20260224T000027Z
+UID:6a76c6053afe2
+DTSTAMP:20260808T060037Z
 DTSTART:20260221
 DTEND:20260222
 LOCATION:Sevilha\,  Espanha Sevilha\,  Espanha
 SUMMARY:Maratona de Sevilha 2027
-DESCRIPTION:A Zurich Maratón de Sevilla 2027 realiza-se na cidade de Sevil
- ha\,  Espanha\,  com a sua próxima edição confirmada para o dia 21 de fe
- vereiro de 2027. Trata-se de uma prova de estrada com a distância clássic
- a de 42\, 195 km\,  sendo amplamente reconhecida pela comunidade atlética 
- global. Realizada anualmente no mês[..]\nhttps://www.portugalrunning.com/e
- ventos/maratona-de-sevilha/
+DESCRIPTION:A Maratona de Sevilha regressa a 21 de fevereiro de 2027 à cid
+ ade de Sevilha\,  Espanha\,  desafiando os atletas a percorrer a distância
+  de 42\, 195 km sobre um asfalto de excelente aderência. Conhecida por ofe
+ recer um relevo incrivelmente plano e longas retas que favorecem uma veloci
+ dade constante\,  a prova decorre[..]\nhttps://www.portugalrunning.com/even
+ tos/maratona-de-sevilha/
 URL:https://www.portugalrunning.com/eventos/maratona-de-sevilha/
 END:VEVENT
 END:VCALENDAR

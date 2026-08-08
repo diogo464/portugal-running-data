@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a76c604c1074
+DTSTAMP:20260808T060036Z
+DTSTART:20261004T094500Z
+DTEND:20261004T235900Z
+LOCATION:Carris\,  Évora de Alcobaça Carris\,  Évora de Alcobaça
+SUMMARY:Trilhos do Lobo 2026
+DESCRIPTION:A 3ª Edição dos Trilhos do Lobo regressa no dia 04 de outubr
+ o de 2026 a Carris\,  Évora de Alcobaça\,  propondo um desafio desafiante
+  em plena natureza com percursos de Trail (12 km) e Caminhada (8 km). O tra
+ jeto em terra batida e caminhos rústicos exige boa aderência e tração[.
+ .]\nhttps://www.portugalrunning.com/eventos/trilhos-do-lobo-2026/
+URL:https://www.portugalrunning.com/eventos/trilhos-do-lobo-2026/
+END:VEVENT
+END:VCALENDAR

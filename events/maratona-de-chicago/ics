@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a76c603580aa
+DTSTAMP:20260808T060035Z
+DTSTART:20261011
+DTEND:20261012
+LOCATION:Chicago\,  Estados Unidos da América Chicago\,  Estados Unidos da América
+SUMMARY:Maratona de Chicago 2026
+DESCRIPTION:A emblemática Maratona de Chicago decorre no dia 11 de outubro
+  de 2026 nas largas avenidas de Chicago\,  desafiando os participantes a pe
+ rcorrerem os 42\, 195 km num traçado de asfalto predominantemente plano e 
+ propício a uma gestão de ritmo regular e veloz. A excelente aderência do
+  piso urbano alia-se a[..]\nhttps://www.portugalrunning.com/eventos/maraton
+ a-de-chicago/
+URL:https://www.portugalrunning.com/eventos/maratona-de-chicago/
+END:VEVENT
+END:VCALENDAR
