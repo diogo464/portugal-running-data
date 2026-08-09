@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a78178d8999b
+DTSTAMP:20260809T060045Z
+DTSTART:20261011T141200Z
+DTEND:20261011T141200Z
+LOCATION:Munique\,  Alemanha Munique\,  Alemanha
+SUMMARY:Maratona de Munique 2026
+DESCRIPTION:Com data marcada para 11 de outubro de 2026 em Munique\,  a ic√
+ ≥nica Maratona de Munique oferece percursos de 42 km\,  21 km e 10 km sobre
+  um firme e veloz tapete de asfalto que atravessa a cidade. O desafio no te
+ rreno √© pautado por uma inclina√ß√£o praticamente nula\,  o[..]\nhttps://w
+ ww.portugalrunning.com/eventos/maratona-de-munique/
+URL:https://www.portugalrunning.com/eventos/maratona-de-munique/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a78178de7f2c
+DTSTAMP:20260809T060045Z
+DTSTART:20270502
+DTEND:20270503
+LOCATION:Praga\,  República Checa Praga\,  República Checa
+SUMMARY:Maratona de Praga 2027
+DESCRIPTION:A Maratona de Praga decorre no dia 2 de maio de 2027\,  desafia
+ ndo os participantes a percorrerem a emblemática distância de 42\, 195 km
+  pelas zonas históricas da capital da República Checa\,  num percurso int
+ egralmente urbano caracterizado pela sua superfície predominantemente em a
+ sfalto firme\,  intervalada por alguns setores de empedrado clássico[..]\n
+ https://www.portugalrunning.com/eventos/maratona-de-praga/
+URL:https://www.portugalrunning.com/eventos/maratona-de-praga/
+END:VEVENT
+END:VCALENDAR

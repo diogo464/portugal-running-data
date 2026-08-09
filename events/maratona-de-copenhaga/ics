@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a78178c08876
+DTSTAMP:20260809T060044Z
+DTSTART:20260920
+DTEND:20260921
+LOCATION:Copenhaga\,  Dinamarca Copenhaga\,  Dinamarca
+SUMMARY:Maratona de Copenhaga 2027
+DESCRIPTION:A Maratona de Copenhaga\,  agendada para 9 de maio de 2027\,  d
+ esafia os atletas ao longo de 42\, 195 km de piso de asfalto predominanteme
+ nte liso e veloz no coração da capital dinamarquesa. O trajeto urbano des
+ enrola-se por avenidas largas e secções ribeirinhas que podem apresentar 
+ exposição a ventos laterais\,  exigindo[..]\nhttps://www.portugalrunning.
+ com/eventos/maratona-de-copenhaga/
+URL:https://www.portugalrunning.com/eventos/maratona-de-copenhaga/
+END:VEVENT
+END:VCALENDAR

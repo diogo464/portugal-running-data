@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a78178d31167
+DTSTAMP:20260809T060045Z
+DTSTART:20261108T135200Z
+DTEND:20261108T135200Z
+LOCATION:Málaga\,  Espanha Málaga\,  Espanha
+SUMMARY:Maratona de Málaga 2026
+DESCRIPTION:Agendada para 8 de novembro de 2026 na cidade de Málaga\,  est
+ a prova convida os participantes a percorrerem os 42\, 195 km (ou a meia di
+ stância de 21\, 097 km) sobre um piso de asfalto bastante rápido e com ex
+ celente aderência. A ausência de grandes inclinações e a ampla tração
+  oferecida pelo[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-ma
+ laga/
+URL:https://www.portugalrunning.com/eventos/maratona-de-malaga/
+END:VEVENT
+END:VCALENDAR

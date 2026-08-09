@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a78178b1fe3a
+DTSTAMP:20260809T060043Z
+DTSTART:20270411T141700Z
+DTEND:20270411T141700Z
+LOCATION:Zurique\,  Suíça Zurique\,  Suíça
+SUMMARY:Maratona de Zurique 2027
+DESCRIPTION:Com encontro marcado para o dia 11 de abril de 2027\,  as ruas 
+ e margens de Zurique\,  na Suíça\,  recebem a clássica Maratona de Zuriq
+ ue\,  apresentando distâncias de 42 km\,  21 km e 10 km. O traçado\,  des
+ envolvido totalmente em asfalto\,  desenrola-se maioritariamente ao longo d
+ o Lago de Zurique\,  proporcionando[..]\nhttps://www.portugalrunning.com/ev
+ entos/maratona-de-zurique/
+URL:https://www.portugalrunning.com/eventos/maratona-de-zurique/
+END:VEVENT
+END:VCALENDAR

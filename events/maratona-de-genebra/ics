@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a78178cc1e51
+DTSTAMP:20260809T060044Z
+DTSTART:20270508T141700Z
+DTEND:20270509T141700Z
+LOCATION:Genebra\,  Suíça Genebra\,  Suíça
+SUMMARY:Maratona de Genebra 2027
+DESCRIPTION:A Generali Genève Marathon realiza-se a 9 de maio de 2027 em G
+ enebra\,  na Suíça\,  e oferece um percurso de 42\, 195 km integralmente 
+ em estrada de asfalto. O traçado apresenta um relevo predominantemente pla
+ no e fluído\,  sendo ideal para manter um ritmo de progressão constante s
+ obre uma superfície muito regular\, [..]\nhttps://www.portugalrunning.com/
+ eventos/maratona-de-genebra/
+URL:https://www.portugalrunning.com/eventos/maratona-de-genebra/
+END:VEVENT
+END:VCALENDAR

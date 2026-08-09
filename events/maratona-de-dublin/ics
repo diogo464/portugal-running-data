@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a78178c6ce6d
+DTSTAMP:20260809T060044Z
+DTSTART:20261025T140200Z
+DTEND:20261025T140200Z
+LOCATION:Dublin\,  Irlanda Dublin\,  Irlanda
+SUMMARY:Maratona de Dublin 2026
+DESCRIPTION:A Maratona de Dublin\,  agendada para 25 de outubro de 2026\,  
+ leva os participantes a percorrer os 42\, 195 km pelas históricas ruas de 
+ asfalto da capital irlandesa. O traçado urbano\,  que atravessa as famosas
+  vias georgianas e a vasta planície do Phoenix Park\,  exige uma gestão d
+ e ritmo atenta devido[..]\nhttps://www.portugalrunning.com/eventos/maratona
+ -de-dublin/
+URL:https://www.portugalrunning.com/eventos/maratona-de-dublin/
+END:VEVENT
+END:VCALENDAR

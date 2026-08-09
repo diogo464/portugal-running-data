@@ -2,7 +2,150 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-08-07T15:12:17+00:00</lastmod>
+		<lastmod>2026-08-09T05:17:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-e-caminhada-rota-passadicos-do-tavora/</loc>
+		<lastmod>2026-08-09T05:17:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a16d6fcd7060_Cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-lisboa-ponte-vasco-da-gama/</loc>
+		<lastmod>2026-08-09T05:14:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Meia-Maratona-de-Lisboa-2026-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/ing-night-marathon-half-marathon-luxembourg/</loc>
+		<lastmod>2026-08-09T05:06:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/472804361_940915684802088_7208921135050133500_n.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-huelva/</loc>
+		<lastmod>2026-08-09T05:02:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/467552596_538757762397419_6682930293129497924_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/carreira-pedestre-popular-de-santiago/</loc>
+		<lastmod>2026-08-09T04:58:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/4079775740559770335.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-elvas-badajoz/</loc>
+		<lastmod>2026-08-09T04:48:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/758778746_1028348373386804_6254514607751567830_n.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-elvas-badajoz-2025/</loc>
+		<lastmod>2026-08-09T04:42:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/580181093_1235253155315203_8330304309551301240_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/</loc>
+		<lastmod>2026-08-08T16:44:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Percurso-10k.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-varsovia/</loc>
+		<lastmod>2026-08-08T14:31:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/710556773_1549992573161794_8736418783882893878_n.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-genebra/</loc>
+		<lastmod>2026-08-08T14:26:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/c3143cc1-87a4-478a-be8e-e384a4dff17b.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-zurique/</loc>
+		<lastmod>2026-08-08T14:26:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/web_zuerich_MarathonZurich_wide_01.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-munique/</loc>
+		<lastmod>2026-08-08T14:17:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/GENERALI-MUNCHEN-MARATHON-22-2.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-veneza/</loc>
+		<lastmod>2026-08-08T14:10:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/571277079_1207329728092983_2818216195728762963_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-veneza-2026/</loc>
+		<lastmod>2026-08-08T14:10:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/571277079_1207329728092983_2818216195728762963_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-dublin/</loc>
+		<lastmod>2026-08-08T14:05:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/482987475_1064546902371869_5931766081117765900_n.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-san-sebastian/</loc>
+		<lastmod>2026-08-08T14:00:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/477882519_688207356893506_1918162131233852687_n.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-malaga/</loc>
+		<lastmod>2026-08-08T13:55:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-copenhaga/</loc>
+		<lastmod>2026-08-08T13:51:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/717699749_1000080622407981_3833092405401651298_n-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-praga/</loc>
+		<lastmod>2026-08-08T13:50:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/313105958_8308587509183322_4288819184076801358_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-praga-2026/</loc>
+		<lastmod>2026-08-08T13:40:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/313105958_8308587509183322_4288819184076801358_n.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-de-milao/</loc>
@@ -535,16 +678,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-lisboa-ponte-vasco-da-gama/</loc>
-		<lastmod>2026-08-03T11:52:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Meia-Maratona-de-Lisboa-2026-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2022/12/Meia-Maratona-de-Lisboa-2023-Percurso.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-budapeste/</loc>
 		<lastmod>2026-08-02T19:20:26+00:00</lastmod>
 		<image:image>
@@ -746,13 +879,6 @@
 		<lastmod>2026-07-23T22:39:54+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/04/414943039_782309053935820_7412116319697848059_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-praga-2026/</loc>
-		<lastmod>2026-07-23T22:37:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Meia-Maratona-de-Prague-2026-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1202,16 +1328,6 @@
 		<lastmod>2026-07-15T22:27:14+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/maraton-nocturno-bilbao-D7A4010-c-EDP-Bilbao-Marathon-Night.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/</loc>
-		<lastmod>2026-07-14T10:36:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/cartaz138424_grande-1-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Percurso-10k.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2245,13 +2361,6 @@
 		<lastmod>2026-05-29T23:12:24+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/banner-corrida-centro-popular-trabalhadores-do-bairro-de-carcavelos-2026-min.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-e-caminhada-rota-passadicos-do-tavora/</loc>
-		<lastmod>2026-05-29T23:09:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a16d6fcd7060_Cartaz-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -7830,13 +7939,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-veneza-2026/</loc>
-		<lastmod>2025-11-13T23:29:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/571277079_1207329728092983_2818216195728762963_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-madrid-movistar-2026/</loc>
 		<lastmod>2025-11-13T23:16:18+00:00</lastmod>
 		<image:image>
@@ -7890,13 +7992,6 @@
 		<lastmod>2025-11-12T18:04:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/69149c8a42c8e_Blue_Movember_net-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-elvas-badajoz/</loc>
-		<lastmod>2025-11-12T08:35:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/580181093_1235253155315203_8330304309551301240_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

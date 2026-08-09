@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a78178ac57ff
+DTSTAMP:20260809T060042Z
+DTSTART:20270508T050300Z
+DTEND:20270508T050300Z
+LOCATION:Cidade do Luxemburgo\,  Luxemburgo Cidade do Luxemburgo\,  Luxemburgo
+SUMMARY:ING Night Marathon & Half Marathon Luxembourg
+DESCRIPTION:A 8 de maio de 2027\,  a Cidade do Luxemburgo acolhe o ING Nigh
+ t Marathon & Half Marathon\,  desafiando os participantes em distâncias de
+  42\, 2 km e 21\, 1 km num traçado noturno totalmente urbano. O percurso a
+ presenta um piso misto de asfalto e algumas zonas de empedrado\,  exigindo 
+ especial atenção[..]\nhttps://www.portugalrunning.com/eventos/ing-night-m
+ arathon-half-marathon-luxembourg/
+URL:https://www.portugalrunning.com/eventos/ing-night-marathon-half-marathon-luxembourg/
+END:VEVENT
+END:VCALENDAR

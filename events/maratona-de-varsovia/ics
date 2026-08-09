@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a78178a18d4c
+DTSTAMP:20260809T060042Z
+DTSTART:20260927T142800Z
+DTEND:20260927T142800Z
+LOCATION:Varsóvia\,  Polónia Varsóvia\,  Polónia
+SUMMARY:Maratona de Varsóvia 2026
+DESCRIPTION:A Maratona de Varsóvia\,  agendada para 27 de setembro de 2026
+ \,  oferece aos participantes a oportunidade de percorrer 42\, 195 km ou 10
+  km pelas artérias históricas e modernas da capital da Polónia. O desafi
+ o desenvolve-se num traçado marcadamente plano em asfalto\,  cruzando pont
+ es majestosas e alguns setores históricos com pavimentos[..]\nhttps://www.
+ portugalrunning.com/eventos/maratona-de-varsovia/
+URL:https://www.portugalrunning.com/eventos/maratona-de-varsovia/
+END:VEVENT
+END:VCALENDAR

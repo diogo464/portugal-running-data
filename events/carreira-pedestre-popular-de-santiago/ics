@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a781789519e6
+DTSTAMP:20260809T060041Z
+DTSTART:20261025T044900Z
+DTEND:20261025T044900Z
+LOCATION:Santiago de Compostela\,  Espanha Santiago de Compostela\,  Espanha
+SUMMARY:Carreira Pedestre Popular de Santiago 2026
+DESCRIPTION:A 47ª Carreira Pedestre Popular de Santiago regressa às ruas 
+ de Santiago de Compostela a 25 de outubro de 2026\,  oferecendo um percurso
+  vibrante de 10 km sobre estrada e empedrado histórico. Este desafio urban
+ o exige uma leitura atenta do alcatrão e das superfícies antigas do centr
+ o da cidade\,  onde[..]\nhttps://www.portugalrunning.com/eventos/carreira-p
+ edestre-popular-de-santiago/
+URL:https://www.portugalrunning.com/eventos/carreira-pedestre-popular-de-santiago/
+END:VEVENT
+END:VCALENDAR
