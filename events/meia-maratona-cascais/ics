@@ -4,18 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697fe9212ecdb
-DTSTAMP:20260202T000033Z
-DTSTART:20260201
-DTEND:20260202
+UID:6a79690520c85
+DTSTAMP:20260810T060037Z
+DTSTART:20270206
+DTEND:20270207
 LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
-SUMMARY:Meia Maratona Cascais 2026
-DESCRIPTION:Resultados 21k Resultados 10k Resultados 5k Prepara-te para cor
- rer com o Atlântico como companhia na&nbsp;Montepio Meia Maratona de Casca
- is 2026. Nota Importante:&nbsp;Devido às Eleições Presidenciais\,  a pro
- va foi antecipada para o dia&nbsp;1 de Fevereiro (Domingo). O percurso cont
- inua igual: partida na Baía\,  passagem épica pela Estrada do Guincho e c
- hegada[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-cascais/
+SUMMARY:Meia Maratona Cascais 2027
+DESCRIPTION:A Montepio Meia Maratona de Cascais realiza-se a 6 e 7 de fever
+ eiro de 2027\,  tendo a emblemática Baía de Cascais como palco de partida
+  e chegada para percorrer a espetacular linha de costa do distrito de Lisbo
+ a. Com opções competitivas de 5 km\,  10 km e a clássica distância[..]\
+ nhttps://www.portugalrunning.com/eventos/meia-maratona-cascais/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-cascais/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a796906598f6
+DTSTAMP:20260810T060038Z
+DTSTART:20261004
+DTEND:20261005
+LOCATION:Cardiff\,  Reino Unido Cardiff\,  Reino Unido
+SUMMARY:Meia Maratona de Cardiff 2026
+DESCRIPTION:A Meia Maratona de Cardiff\,  agendada para o dia 4 de outubro 
+ de 2026 na capital do País de Gales\,  propõe um traçado rápido e essen
+ cialmente plano de 21\, 0975 km sobre piso de asfalto liso. O percurso\,  t
+ otalmente desenhado em ambiente urbano e fechado à circulação automóvel
+ \,  oferece uma excelente[..]\nhttps://www.portugalrunning.com/eventos/meia
+ -maratona-de-cardiff/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-cardiff/
+END:VEVENT
+END:VCALENDAR

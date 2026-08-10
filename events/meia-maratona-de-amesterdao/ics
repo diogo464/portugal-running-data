@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a7969051b385
+DTSTAMP:20260810T060037Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Amesterdão\,  Países Baixos Amesterdão\,  Países Baixos
+SUMMARY:Meia Maratona de Amesterdão 2026
+DESCRIPTION:A Meia Maratona de Amesterdão\,  agendada para o dia 18 de out
+ ubro de 2026\,  oferece aos participantes a oportunidade de percorrer 21\, 
+ 097 km sobre o rápido asfalto da capital dos Países Baixos\,  na região 
+ da Holanda do Norte. Com um traçado notavelmente plano e largas avenidas q
+ ue garantem uma aderência[..]\nhttps://www.portugalrunning.com/eventos/mei
+ a-maratona-de-amesterdao/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-amesterdao/
+END:VEVENT
+END:VCALENDAR

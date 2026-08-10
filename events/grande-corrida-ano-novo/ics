@@ -4,17 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:695467ca83420
-DTSTAMP:20251231T000114Z
-DTSTART:20260104
-DTEND:20260105
+UID:6a7969051eb34
+DTSTAMP:20260810T060037Z
+DTSTART:20270103
+DTEND:20270104
 LOCATION:Praça do Comércio\,  Lisboa Praça do Comércio\,  Lisboa
-SUMMARY:Grande Corrida Ano Novo 2026
-DESCRIPTION:Com partida e chegada na icónica Praça do Comércio\,  em Li
- sboa!Se um dos teus desejos é começar a correr em 2026\,  esta prova ser�
- � o teu primeiro desafio. Praça do Comércio&nbsp;| Lisboa » Kids Race 40
- 0m |&nbsp;09h30» Corrida 10km |&nbsp;10h00» Caminhada 5km&nbsp;| 10h05\nh
- ttps://www.portugalrunning.com/eventos/grande-corrida-ano-novo/
+SUMMARY:Grande Corrida Ano Novo 2027
+DESCRIPTION:Se um dos teus desejos é começar a correr em 2027\,  esta pro
+ va será o teu primeiro desafio! Com partida e chegada na icónica&nbsp;Pra
+ ça do Comércio\,  em Lisboa!&nbsp;Um percurso inigualável com passagem p
+ elas ruas e praças mais icónicas de Lisboa\,  onde destacamos a Rua do Ou
+ ro\,  Rua da Prata\,  Martim[..]\nhttps://www.portugalrunning.com/eventos/g
+ rande-corrida-ano-novo/
 URL:https://www.portugalrunning.com/eventos/grande-corrida-ano-novo/
 END:VEVENT
 END:VCALENDAR

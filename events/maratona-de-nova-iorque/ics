@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a7969070b235
+DTSTAMP:20260810T060039Z
+DTSTART:20261101
+DTEND:20261102
+LOCATION:Nova Iorque. Estados Unidos da América Nova Iorque\,  Estados Unidos da América
+SUMMARY:Maratona de Nova Iorque 2026
+DESCRIPTION:No dia 1 de novembro de 2026\,  a icónica Maratona de Nova Ior
+ que desafia os participantes a percorrer os emblemáticos 42\, 195 km de as
+ falto através dos cinco bairros da metrópole de Nova Iorque. Este desafio
+  urbano testa a adaptação a um relevo ondulante\,  com especial destaque 
+ para a tração e[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-
+ nova-iorque/
+URL:https://www.portugalrunning.com/eventos/maratona-de-nova-iorque/
+END:VEVENT
+END:VCALENDAR

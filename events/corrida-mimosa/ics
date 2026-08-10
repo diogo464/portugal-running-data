@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a79690530ee8
+DTSTAMP:20260810T060037Z
+DTSTART:20270516T160400Z
+DTEND:20270516T160400Z
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Mimosa 2027
+DESCRIPTION:A Corrida Mimosa Pela Vida 2027 desenrola-se no dia 16 de maio 
+ pelas vias ribeirinhas de Lisboa\,  apresentando um traçado inteiramente p
+ lano de 5 km em piso de asfalto liso. O trajeto flui linearmente desde Sant
+ os até à icónica Torre de Belém\,  assegurando uma excelente tração e
+  aderência que facilitam[..]\nhttps://www.portugalrunning.com/eventos/corr
+ ida-mimosa/
+URL:https://www.portugalrunning.com/eventos/corrida-mimosa/
+END:VEVENT
+END:VCALENDAR

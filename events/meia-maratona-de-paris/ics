@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a7969050fc7d
+DTSTAMP:20260810T060037Z
+DTSTART:20270307
+DTEND:20270308
+LOCATION:Paris\,  França Paris\,  França
+SUMMARY:Meia Maratona de Paris 2027
+DESCRIPTION:A Meia Maratona de Paris regressa no dia 7 de março de 2027 à
+ s ruas da capital francesa\,  desafiando os corredores a percorrerem 21\, 0
+ 97 km num traçado vibrante. O percurso urbano\,  partindo e terminando em 
+ locais emblemáticos de Paris\,  é marcado por longas retas de asfalto lis
+ o que convidam a[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona
+ -de-paris/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-paris/
+END:VEVENT
+END:VCALENDAR

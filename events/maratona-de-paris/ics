@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a7969077daa3
+DTSTAMP:20260810T060039Z
+DTSTART:20270411T215900Z
+DTEND:20270411T235900Z
+LOCATION:Paris\,  França Paris\,  França
+SUMMARY:Maratona de Paris 2027
+DESCRIPTION:Agendada para o dia 11 de abril de 2027 em Paris\,  França\,  
+ a Schneider Electric Maratona de Paris desafia os participantes a percorrer
+  a distância mítica de 42\, 195 km num circuito predominantemente urbano 
+ sobre piso de asfalto macio e troços pontuais de pavimento em paralelos. C
+ om partida na icónica Avenida[..]\nhttps://www.portugalrunning.com/eventos
+ /maratona-de-paris/
+URL:https://www.portugalrunning.com/eventos/maratona-de-paris/
+END:VEVENT
+END:VCALENDAR

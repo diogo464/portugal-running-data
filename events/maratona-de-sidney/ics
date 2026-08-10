@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a79690642729
+DTSTAMP:20260810T060038Z
+DTSTART:20260830T064700Z
+DTEND:20260830T235900Z
+LOCATION:Sidney\,  Austrália Sidney\,  Austrália
+SUMMARY:Maratona de Sidney 2026
+DESCRIPTION:No dia 30 de agosto de 2026\,  a vibrante cidade de Sydney acol
+ he a icónica Maratona de Sidney\,  um desafio contínuo de 42\, 195 km dis
+ putado sobre o asfalto. O traçado proporciona uma verdadeira imersão no r
+ elevo urbano\,  onde a aderência firme do piso citadino exige uma boa gest
+ ão do andamento[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-s
+ idney/
+URL:https://www.portugalrunning.com/eventos/maratona-de-sidney/
+END:VEVENT
+END:VCALENDAR

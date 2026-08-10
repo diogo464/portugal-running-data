@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a796906b8cda
+DTSTAMP:20260810T060038Z
+DTSTART:20261206
+DTEND:20261207
+LOCATION:Valência\,  Espanha Valência\,  Espanha
+SUMMARY:Maratona de Valência 2026
+DESCRIPTION:A Maratona de Valência de 2026\,  com data marcada para 6 de d
+ ezembro\,  convida os atletas a percorrer a emblemática distância de 42\,
+  195 km pelas largas avenidas de asfalto da icónica cidade costeira espanh
+ ola. Este percurso urbano é mundialmente reconhecido pela ausência de inc
+ linações severas\,  oferecendo um relevo plano e[..]\nhttps://www.portuga
+ lrunning.com/eventos/maratona-de-valencia/
+URL:https://www.portugalrunning.com/eventos/maratona-de-valencia/
+END:VEVENT
+END:VCALENDAR

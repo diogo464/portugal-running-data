@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a796908624d0
+DTSTAMP:20260810T060040Z
+DTSTART:20261025T232600Z
+DTEND:20261025T235900Z
+LOCATION:Veneza\,  Itália Veneza\,  Itália
+SUMMARY:Meia Maratona de Veneza 2026
+DESCRIPTION:A 25 de outubro de 2026\,  a incomparável cidade de Veneza aco
+ lhe uma extraordinária Meia Maratona\,  desafiando os participantes ao lon
+ go de 21\, 097 km que misturam o asfalto contínuo de Mestre com a calçada
+  e o empedrado histórico da ilha principal. O traçado\,  envolto na suave
+  brisa da lagoa e[..]\nhttps://www.portugalrunning.com/eventos/meia-maraton
+ a-de-veneza/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-veneza/
+END:VEVENT
+END:VCALENDAR

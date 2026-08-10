@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a7969060eb98
+DTSTAMP:20260810T060038Z
+DTSTART:20261003T093400Z
+DTEND:20261003T235900Z
+LOCATION:Praia de Mira\,  Mira Praia de Mira\,  Mira
+SUMMARY:Iron Loop - Mira 2026
+DESCRIPTION:O Iron Loop - Mira 2026 realiza-se no dia 3 de outubro de 2026\
+ ,  na Praia de Mira\,  propondo um desafio de resistência por equipas num 
+ percurso total de 80 km disputado em circuito fechado. O traçado decorre s
+ obre piso pavimentado e caminhos pedonais completamente planos junto à pra
+ ia fluvial[..]\nhttps://www.portugalrunning.com/eventos/iron-loop-mira/
+URL:https://www.portugalrunning.com/eventos/iron-loop-mira/
+END:VEVENT
+END:VCALENDAR

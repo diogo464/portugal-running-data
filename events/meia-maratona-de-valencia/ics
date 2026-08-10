@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:693b5b3ca310f
-DTSTAMP:20251212T000100Z
+UID:6a7969080b311
+DTSTAMP:20260810T060040Z
 DTSTART:20261025
 DTEND:20261026
 LOCATION:Valência\,  Espanha Valência\,  Espanha
 SUMMARY:Meia Maratona de Valência 2026
-DESCRIPTION:A Meia Maratona de Valência (Valencia Half Marathon) é uma me
- ia maratona realizada na cidade de Valência\,  em Espanha. É uma das meia
- s maratonas mais renomeadas da Europa e atrai corredores de todo o mundo. O
-  percurso da Meia Maratona de Valência é conhecido por ser rápido e plan
- o\,  o[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-valenc
- ia/
+DESCRIPTION:A Meia Maratona de Valência\,  agendada para 25 de outubro de 
+ 2026\,  leva os participantes a percorrer 21 km em asfalto pelas vias mais 
+ emblemáticas de Valência\,  Espanha. Com um traçado notavelmente plano e
+  largas avenidas que garantem uma excelente tração\,  o relevo quase nulo
+  e as retas intermináveis permitem[..]\nhttps://www.portugalrunning.com/ev
+ entos/meia-maratona-de-valencia/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-de-valencia/
 END:VEVENT
 END:VCALENDAR

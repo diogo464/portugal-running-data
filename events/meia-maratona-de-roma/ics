@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a7969079adc7
+DTSTAMP:20260810T060039Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Roma\,  Itália Roma\,  Itália
+SUMMARY:Meia Maratona de Roma (Wizz Air) 2026
+DESCRIPTION:A Meia Maratona de Roma (Wizz Air) regressa no dia 18 de outubr
+ o de 2026 para oferecer uma experiência ímpar num traçado de 21\, 097 km
+  através do asfalto milenar de Roma\,  Itália. O percurso desafia os part
+ icipantes com uma gestão de ritmo ritmada ao longo de vias emblemáticas\,
+   combinando suaves[..]\nhttps://www.portugalrunning.com/eventos/meia-marat
+ ona-de-roma/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-roma/
+END:VEVENT
+END:VCALENDAR
