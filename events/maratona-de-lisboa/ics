@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a11428d62472
-DTSTAMP:20260523T060045Z
+UID:6a7aba76c4c78
+DTSTAMP:20260811T060022Z
 DTSTART:20261010
 DTEND:20261011
 LOCATION:Lisboa Lisboa
 SUMMARY:Maratona de Lisboa 2026
-DESCRIPTION:A Maratona de Lisboa 2026 terá lugar no dia 10 de outubro de 2
- 026\,  com uma partida espetacular na zona de Cascais/Carcavelos e chegada 
- ao coração de Lisboa. Este evento de estrada é um dos mais prestigiados 
- do calendário internacional\,  oferecendo aos atletas a oportunidade de co
- rrer 42 quilómetros com[..]\nhttps://www.portugalrunning.com/eventos/marat
- ona-de-lisboa/
+DESCRIPTION:A 10 de outubro de 2026\,  a EDP Maratona de Lisboa desafia os 
+ corredores ao longo de 42\, 195 km num percurso costeiro e ribeirinho que l
+ iga Carcavelos à Praça do Comércio. O asfalto rápido e predominantement
+ e plano proporciona uma excelente tração\,  enquanto a constante exposiç
+ ão aos ventos marítimos e à[..]\nhttps://www.portugalrunning.com/eventos
+ /maratona-de-lisboa/
 URL:https://www.portugalrunning.com/eventos/maratona-de-lisboa/
 END:VEVENT
 END:VCALENDAR
