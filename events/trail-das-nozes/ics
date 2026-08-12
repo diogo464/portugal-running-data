@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a7c0c06d5e20
+DTSTAMP:20260812T060038Z
+DTSTART:20261025
+DTEND:20261026
+LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+SUMMARY:Trail das Nozes 2026
+DESCRIPTION:O Trail das Nozes 2026 regressa aos trilhos de Gondomar no dia 
+ 25 de outubro de 2026\,  oferecendo um verdadeiro teste à resistência no 
+ distrito do Porto. Com distâncias de 25 km e 10 km\,  além de uma caminha
+ da\,  o percurso desenrola-se por terrenos irregulares onde a tração é f
+ undamental[..]\nhttps://www.portugalrunning.com/eventos/trail-das-nozes/
+URL:https://www.portugalrunning.com/eventos/trail-das-nozes/
+END:VEVENT
+END:VCALENDAR
