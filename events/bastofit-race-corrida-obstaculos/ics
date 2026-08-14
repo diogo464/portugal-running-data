@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a7eaef9caf29
+DTSTAMP:20260814T060025Z
+DTSTART:20261004T061800Z
+DTEND:20261004T235900Z
+LOCATION:Cabeceiras de Basto\,  Braga Cabeceiras de Basto\,  Braga
+SUMMARY:Bastofit Race Corrida Obstaculos 2026
+DESCRIPTION:A BastoFit Race é um desafio intenso de obstáculos urbanos pe
+ las ruas de Cabeceiras de Basto\,  combinando a corrida numa mistura de asf
+ alto e calçada com transições rápidas para estruturas desafiantes. Cond
+ uzidos pelo relevo da vila\,  os participantes terão de gerir o ritmo de f
+ orma consistente perante constantes alterações de[..]\nhttps://www.portug
+ alrunning.com/eventos/bastofit-race-corrida-obstaculos/
+URL:https://www.portugalrunning.com/eventos/bastofit-race-corrida-obstaculos/
+END:VEVENT
+END:VCALENDAR

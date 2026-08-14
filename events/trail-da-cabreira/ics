@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:6a7eaefb375a4
+DTSTAMP:20260814T060027Z
+DTSTART:20261010T062700Z
+DTEND:20261010T235900Z
+LOCATION:Vieira do Minho\,  Braga Vieira do Minho\,  Braga
+SUMMARY:Trail da Cabreira 2026
+DESCRIPTION:No dia 10 de outubro de 2026\,  os trilhos acidentados de Vieir
+ a do Minho recebem o Trail da Cabreira\,  que desafia os atletas com percur
+ sos de 14 km e 28 km marcados por fortes declives técnicos. A constante in
+ teração com o relevo irregular e a procura por tração em superfícies[.
+ .]\nhttps://www.portugalrunning.com/eventos/trail-da-cabreira/
+URL:https://www.portugalrunning.com/eventos/trail-da-cabreira/
+END:VEVENT
+END:VCALENDAR

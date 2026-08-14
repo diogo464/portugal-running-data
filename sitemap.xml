@@ -2,20 +2,94 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-08-11T08:25:45+00:00</lastmod>
+		<lastmod>2026-08-13T06:47:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-da-cabreira/</loc>
+		<lastmod>2026-08-13T06:47:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/8b9b.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/bastofit-race-corrida-obstaculos/</loc>
+		<lastmod>2026-08-13T06:47:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/20261004_cartaz.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-noturno-valongo/</loc>
+		<lastmod>2026-08-13T06:47:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/68a9dacc2c6a0_307946245_603120614845612_576078982234146931_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-dos-reis-bencao-do-atleta/</loc>
+		<lastmod>2026-08-13T06:47:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/pop_48zd8ld988.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-vitor-baptista/</loc>
+		<lastmod>2026-08-13T06:46:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/imagem.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-guimaraes/</loc>
+		<lastmod>2026-08-13T06:42:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/banner-meia_maratona-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/last-man-n-s-dos-remedios/</loc>
+		<lastmod>2026-08-13T06:38:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/6a7c23a7eb481_Cartaz_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/backyard-ultra-by-coimbratrail/</loc>
+		<lastmod>2026-08-13T06:35:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/6a79abd7751db_Cartaz-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-decathlon/</loc>
+		<lastmod>2026-08-13T06:32:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-dos-reis-bencao-do-atleta-2026/</loc>
+		<lastmod>2026-08-13T06:23:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/pop_4ede78k879.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-das-nozes/</loc>
+		<lastmod>2026-08-13T06:16:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/d5e8762aa4c9b8febd751a24c5442af1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-noturno-valongo-2025/</loc>
+		<lastmod>2026-08-13T06:15:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/68a9dacc2c6a0_307946245_603120614845612_576078982234146931_n.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/vila-urbana-trail/</loc>
 		<lastmod>2026-08-11T08:25:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/20261010_cartaz.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-das-nozes/</loc>
-		<lastmod>2026-08-11T07:15:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/d5e8762aa4c9b8febd751a24c5442af1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -7520,13 +7594,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-dos-reis-bencao-do-atleta/</loc>
-		<lastmod>2025-12-30T00:43:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/pop_4ede78k879.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-praia-da-tocha/</loc>
 		<lastmod>2025-12-27T19:21:20+00:00</lastmod>
 		<image:image>
@@ -9700,13 +9767,6 @@
 		<lastmod>2025-08-29T07:23:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/Popl92jw69321-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-noturno-valongo-2025/</loc>
-		<lastmod>2025-08-29T06:51:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/68a9dacc2c6a0_307946245_603120614845612_576078982234146931_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
