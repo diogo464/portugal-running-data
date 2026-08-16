@@ -4,18 +4,18 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7eaefa868b1
-DTSTAMP:20260814T060026Z
+UID:6a8151f69a33d
+DTSTAMP:20260816T060022Z
 DTSTART:20261005
 DTEND:20261006
 LOCATION:Guimarães\,  Braga Guimarães\,  Braga
-SUMMARY:Meia Maratona Guimarães 2026
-DESCRIPTION:A Meia Maratona de Guimarães desenrola-se a 5 de outubto nas h
- istóricas ruas da cidade berço de Portugal\,  oferecendo um desafio ímpa
- r em 21\, 097 km de asfalto e empedrado. O traçado exige atenção às con
- stantes mudanças de inclinação e à necessidade de gerir bem a passada n
- as curvas estreitas e[..]\nhttps://www.portugalrunning.com/eventos/meia-mar
- atona-guimaraes/
+SUMMARY:Meia Maratona Cidade Berço 2026
+DESCRIPTION:A Meia Maratona Cidade Berço em Guimarães desenrola-se a 5 de
+  outubto nas históricas ruas da cidade berço de Portugal\,  oferecendo um
+  desafio ímpar em 21\, 097 km de asfalto e empedrado. O traçado exige ate
+ nção às constantes mudanças de inclinação e à necessidade de gerir b
+ em a passada nas curvas[..]\nhttps://www.portugalrunning.com/eventos/meia-m
+ aratona-guimaraes/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-guimaraes/
 END:VEVENT
 END:VCALENDAR

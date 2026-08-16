@@ -4,17 +4,17 @@ PRODID:-//eventon.com NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7aba760e1e3
-DTSTAMP:20260811T060022Z
+UID:6a8151f698cd6
+DTSTAMP:20260816T060022Z
 DTSTART:20261108
 DTEND:20261109
 LOCATION:Porto Porto
 SUMMARY:Maratona do Porto 2026
-DESCRIPTION:A Maratona do Porto regressa no dia 8 de novembro de 2026 para 
- desafiar milhares de atletas na marginal da Invicta\,  ao longo de 42\, 195
-  km\,  10 km e 6 km disputados inteiramente em asfalto. O traçado plano co
- nvida a impor um ritmo constante e fluido à beira-mar e ao[..]\nhttps://ww
- w.portugalrunning.com/eventos/maratona-do-porto/
+DESCRIPTION:Sobre a Maratona do Porto 2026 A Maratona do Porto regressa no 
+ dia 8 de novembro de 2026 para desafiar milhares de atletas na marginal da 
+ Invicta\,  ao longo de 42\, 195 km\,  10 km e 6 km disputados inteiramente 
+ em asfalto. O traçado plano convida a impor um ritmo constante[..]\nhttps:
+ //www.portugalrunning.com/eventos/maratona-do-porto/
 URL:https://www.portugalrunning.com/eventos/maratona-do-porto/
 END:VEVENT
 END:VCALENDAR
