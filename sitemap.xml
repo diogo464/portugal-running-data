@@ -2,13 +2,59 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-08-15T17:00:13+00:00</lastmod>
+		<lastmod>2026-08-17T21:16:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-do-porto/</loc>
-		<lastmod>2026-08-15T17:00:13+00:00</lastmod>
+		<loc>https://www.portugalrunning.com/eventos/maratona-porto/</loc>
+		<lastmod>2026-08-17T21:16:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/mp26_site_maratona.jpg.950x400_q95_crop_upscale-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/mini-maratona-de-lisboa-2025/</loc>
+		<lastmod>2026-08-17T20:51:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/8k-edp-2025-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto/</loc>
+		<lastmod>2026-08-17T10:06:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/</loc>
+		<lastmod>2026-08-17T10:04:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/Edp-meia-maratona-lisboa.207.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-lisboa-ponte-vasco-da-gama/</loc>
+		<lastmod>2026-08-17T10:02:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Meia-Maratona-de-Lisboa-2026-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/madeira-ultra-trail-miut/</loc>
+		<lastmod>2026-08-17T09:45:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/503610427_1128874145940446_3547304439347914948_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-porto/</loc>
+		<lastmod>2026-08-17T09:41:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/590735689_1369913925181018_697148875186855471_n-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-porto-2024/</loc>
+		<lastmod>2026-08-17T08:29:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/11/411458101_702775368616207_8854643943784723458_n.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -318,13 +364,6 @@
 		<lastmod>2026-08-09T05:17:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/05/6a16d6fcd7060_Cartaz-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-lisboa-ponte-vasco-da-gama/</loc>
-		<lastmod>2026-08-09T05:14:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/Meia-Maratona-de-Lisboa-2026-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -886,13 +925,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-porto/</loc>
-		<lastmod>2026-08-05T12:58:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/12/590735689_1369913925181018_697148875186855471_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-do-tejo/</loc>
 		<lastmod>2026-08-05T10:40:35+00:00</lastmod>
 		<image:image>
@@ -1129,13 +1161,6 @@
 		<lastmod>2026-07-23T22:31:44+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/03/mp25_site_maratona.jpg.950x400_q95_crop_upscale.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/madeira-ultra-trail-miut/</loc>
-		<lastmod>2026-07-23T22:31:09+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/503610427_1128874145940446_3547304439347914948_n-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3212,13 +3237,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto/</loc>
-		<lastmod>2026-05-10T06:52:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/11/Sao-Silvestre-2024-Info.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-do-porto-2019/</loc>
 		<lastmod>2026-05-10T06:52:36+00:00</lastmod>
 		<image:image>
@@ -3516,13 +3534,6 @@
 		<lastmod>2026-05-02T05:47:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/07/Vodafone-10k-2026-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/</loc>
-		<lastmod>2026-05-02T05:42:36+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/Edp-meia-maratona-lisboa.207.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -14357,13 +14368,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-porto-2024/</loc>
-		<lastmod>2025-02-09T08:05:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2023/11/411458101_702775368616207_8854643943784723458_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-terras-do-conde-2025/</loc>
 		<lastmod>2025-02-08T16:28:15+00:00</lastmod>
 		<image:image>
@@ -15168,13 +15172,6 @@
 		<lastmod>2025-01-08T18:36:11+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2024/12/6749d54b16c6b_cartaz-cartaz_460-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/mini-maratona-de-lisboa-2025/</loc>
-		<lastmod>2025-01-06T07:36:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/01/8k-edp-2025-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

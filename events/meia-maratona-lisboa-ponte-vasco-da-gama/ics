@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a78178b8f71c
-DTSTAMP:20260809T060043Z
+UID:48921-0@www.portugalrunning.com
+DTSTAMP:20260818T060025Z
 DTSTART:20261011
 DTEND:20261012
 LOCATION:Lisboa Lisboa
 SUMMARY:Meia Maratona Lisboa 2026 - Ponte Vasco da Gama
-DESCRIPTION:Se correr sobre o Rio Tejo faz parte da tua lista de desejos\, 
-  a Luso Meia Maratona é a tua oportunidade. Realizada em outubro\,  esta p
- rova oferece uma das partidas mais impressionantes do mundo\,  diretamente 
- sobre a Ponte Vasco da Gama\,  proporcionando uma vista panorâmica única 
- sobre Lisboa e o[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona
- -lisboa-ponte-vasco-da-gama/
+DESCRIPTION:Sobre a Hyundai Meia Maratona de Lisboa 2026 A Hyundai Meia Mar
+ atona de Lisboa - Ponte Vasco da Gama\,  agendada para o dia 11 de outubro 
+ de 2026\,  oferece a oportunidade ímpar de percorrer 21\, 1 km sobre as á
+ guas do rio Tejo. A prova começa com a imponente travessia da[..]\nhttps:/
+ /www.portugalrunning.com/eventos/meia-maratona-lisboa-ponte-vasco-da-gama/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-lisboa-ponte-vasco-da-gama/
 END:VEVENT
 END:VCALENDAR

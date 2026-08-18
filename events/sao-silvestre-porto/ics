@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a002b544f868
-DTSTAMP:20260510T065308Z
+UID:47647-0@www.portugalrunning.com
+DTSTAMP:20260818T060026Z
 DTSTART:20261220
 DTEND:20261221
 LOCATION:Porto Porto
 SUMMARY:São Silvestre Porto 2026
-DESCRIPTION:Resultados 2025 Em 2025: A clássica\,  a intemporal\,  a que f
- echa o ano com chave de ouro: está de volta a Lidl S. Silvestre Cidade do 
- Porto! Dia 28 de dezembro\,  às 18h00\,  todos os caminhos vão dar à Ave
- nida dos Aliados para celebrar a 31ª edição desta festa da[..]\nhttps://
- www.portugalrunning.com/eventos/sao-silvestre-porto/
+DESCRIPTION:Sobre a São Silvestre do Porto 2026 A São Silvestre do Porto 
+ 2026 traz o espírito festivo às ruas da Invicta no dia 20 de dezembro de 
+ 2026\,  com partida e chegada na emblemática Avenida dos Aliados. Seja nos
+  exigentes 10 km de corrida ou nos 5 km de caminhada\, [..]\nhttps://www.po
+ rtugalrunning.com/eventos/sao-silvestre-porto/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-porto/
 END:VEVENT
 END:VCALENDAR
