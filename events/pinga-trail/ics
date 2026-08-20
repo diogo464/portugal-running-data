@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60518-0@www.portugalrunning.com
+DTSTAMP:20260820T060024Z
+DTSTART:20261206
+DTEND:20261207
+LOCATION:Arruda dos Vinhos\,   Lisboa Arruda dos Vinhos\,   Lisboa
+SUMMARY:Pinga Trail 2026
+DESCRIPTION:Sobre a 9ª Edição do Pinga Trail 2026 A 9ª Edição do Ping
+ a Trail\,  a realizar-se no dia 6 de dezembro de 2026\,  leva os aventureir
+ os a desbravar os terrenos irregulares e as paisagens de Arruda dos Vinhos.
+  Com opções de 23 km\,  16 km e uma caminhada de 10[..]\nhttps://www.port
+ ugalrunning.com/eventos/pinga-trail/
+URL:https://www.portugalrunning.com/eventos/pinga-trail/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60528-0@www.portugalrunning.com
+DTSTAMP:20260820T060023Z
+DTSTART:20261025
+DTEND:20261026
+LOCATION:Aldeia das Dez\,   Oliveira do Hospital Aldeia das Dez\,   Oliveira do Hospital
+SUMMARY:Colcurinho Epic Trail 2026
+DESCRIPTION:Sobre a Colcurinho Epic Trail 2026 A 25 de outubro de 2026\,  o
+  Colcurinho Epic Trail regressa ao Santuário de Nossa Senhora das Preces\,
+   em Aldeia das Dez (Oliveira do Hospital)\,  desafiando os atletas com dis
+ tâncias de 25 km\,  13 km e uma caminhada de 12 km em plena Serra[..]\nhtt
+ ps://www.portugalrunning.com/eventos/colcurinho-epic-trail/
+URL:https://www.portugalrunning.com/eventos/colcurinho-epic-trail/
+END:VEVENT
+END:VCALENDAR

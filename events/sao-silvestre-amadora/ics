@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d179233c
-DTSTAMP:20260530T060055Z
+UID:45197-0@www.portugalrunning.com
+DTSTAMP:20260820T060023Z
 DTSTART:20261231
 DTEND:20270101
-LOCATION:Amadora\,  Lisboa Amadora\,  Lisboa
+LOCATION:Amadora\,   Lisboa Amadora\,   Lisboa
 SUMMARY:São Silvestre Amadora 2026
-DESCRIPTION:Resultados 2025 Com a distância clássica de 10 km\,  a prova 
- é famosa pela sua exigência técnica. O traçado urbano pela cidade da Am
- adora não perdoa\,  destacando-se a mítica Subida do Comando\,  que testa
-  o esforço e a resiliência de todos os participantes. É um percurso onde
-  a gestão do[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-am
- adora/
+DESCRIPTION:Sobre a São Silvestre da Amadora 2026 A mítica São Silvestre
+  da Amadora regressa a 31 de dezembro para fechar o ano com a sua exigente 
+ e clássica prova de 10 KM. O traçado urbano é amplamente conhecido pelo 
+ constante desafio de relevo\,  onde a famosa e dura Subida dos[..]\nhttps:/
+ /www.portugalrunning.com/eventos/sao-silvestre-amadora/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-amadora/
 END:VEVENT
 END:VCALENDAR

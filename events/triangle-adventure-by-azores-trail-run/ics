@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60525-0@www.portugalrunning.com
+DTSTAMP:20260820T060024Z
+DTSTART:20261023
+DTEND:20261024
+LOCATION:Açores Açores
+SUMMARY:Triangle Adventure by Azores Trail Run 2026
+DESCRIPTION:Sobre a Triangle Adventure by Azores Trail Run® 2026 A Triangl
+ e Adventure by Azores Trail Run® 2026 leva-o numa travessia épica de trê
+ s dias pelas ilhas do Pico\,  São Jorge e Faial\,  cobrindo um total de ap
+ roximadamente 90 km de trilhos vulcânicos e paisagens dramáticas. Prepare
+ -se para gerir o ritmo[..]\nhttps://www.portugalrunning.com/eventos/triangl
+ e-adventure-by-azores-trail-run/
+URL:https://www.portugalrunning.com/eventos/triangle-adventure-by-azores-trail-run/
+END:VEVENT
+END:VCALENDAR

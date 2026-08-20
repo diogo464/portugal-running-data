@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60522-0@www.portugalrunning.com
+DTSTAMP:20260820T060023Z
+DTSTART:20261025
+DTEND:20261026
+LOCATION:Alhandra\,  Vila Franca de Xira Alhandra\,  Vila Franca de Xira
+SUMMARY:Corrida Cimpor 2026
+DESCRIPTION:Sobre a Corrida Cimpor 2026 A 6ª edição da Corrida Cimpor 20
+ 26 regressa no dia 25 de outubro de 2026\,  desenhando-se ao longo das marg
+ ens lisas de Alhandra\,  em Vila Franca de Xira. Com distâncias de 10km\, 
+  4km e uma prova infantil\,  o percurso é de asfalto e piso ribeirinho[..]
+ \nhttps://www.portugalrunning.com/eventos/corrida-cimpor/
+URL:https://www.portugalrunning.com/eventos/corrida-cimpor/
+END:VEVENT
+END:VCALENDAR

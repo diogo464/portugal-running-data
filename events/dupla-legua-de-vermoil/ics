@@ -1,19 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff9a4950c
-DTSTAMP:20260724T060058Z
+UID:54922-0@www.portugalrunning.com
+DTSTAMP:20260820T060022Z
 DTSTART:20261101
 DTEND:20261102
-LOCATION:Vermoil\,  Pombal Vermoil\,  Pombal
+LOCATION:Vermoil\,   Pombal Vermoil\,   Pombal
 SUMMARY:Dupla Légua de Vermoil 2026
-DESCRIPTION:O ATLÉTICO CLUBE DE VERMOIL leva a efeito no dia 01 de no
- vembro de 2026\,  uma prova de estrada denominada “31ª DUPLA-LÉGUA DE
-  VERMOIL”. \nhttps://www.portugalrunning.com/eventos/dupla-legua-de-verm
- oil/
+DESCRIPTION:Sobre a 31ª Dupla-Légua de Vermoil 2026 A 31ª Dupla-Légua d
+ e Vermoil\,  a realizar-se no dia 1 de novembro de 2026\,  desafia os atlet
+ as no coração do concelho de Pombal com uma prova de estrada de 10 km de 
+ puro alcatrão. O traçado permite uma gestão de ritmo consistente\,  onde
+ [..]\nhttps://www.portugalrunning.com/eventos/dupla-legua-de-vermoil/
 URL:https://www.portugalrunning.com/eventos/dupla-legua-de-vermoil/
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b2221c3
-DTSTAMP:20260223T000050Z
-DTSTART:20260315
-DTEND:20260316
-LOCATION:Fanhões\,  Loures Fanhões\,  Loures
-SUMMARY:Trilhos dos Calceteiros 2026
-DESCRIPTION:Os Trilhos dos Calceteiros são organizados pela Associação F
- AZ-TE AOS TRILHOS! e conta com oforte apoio da Junta de Freguesia de Fanhõ
- es. São igualmente parceiros neste evento\,  os BombeirosVoluntários de F
- anhões e o Clube de Caçadores de Fanhões. Irá realizar-se no dia 15 de 
- março de2026 e\,  nesta edição\,  integra[..]\nhttps://www.portugalrunni
- ng.com/eventos/trilhos-dos-calceteiros/
+UID:60502-0@www.portugalrunning.com
+DTSTAMP:20260820T060026Z
+DTSTART:20270314
+DTEND:20270315
+LOCATION:Fanhões\,   Loures Fanhões\,   Loures
+SUMMARY:Trilhos dos Calceteiros 2027
+DESCRIPTION:Sobre a Trilhos dos Calceteiros 2027 No dia 14 de março de 202
+ 7\,  a típica vila de Fanhões\,  no concelho de Loures\,  será o palco d
+ e mais uma edição dos Trilhos dos Calceteiros\,  apresentando desafios de
+  aproximadamente 31 km\,  17 km e 10 km. O percurso desenrola-se por caminh
+ os saloios[..]\nhttps://www.portugalrunning.com/eventos/trilhos-dos-calcete
+ iros/
 URL:https://www.portugalrunning.com/eventos/trilhos-dos-calceteiros/
 END:VEVENT
 END:VCALENDAR

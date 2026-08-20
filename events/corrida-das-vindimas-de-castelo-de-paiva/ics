@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60531-0@www.portugalrunning.com
+DTSTAMP:20260820T060022Z
+DTSTART:20260920T102100Z
+DTEND:20260920T102100Z
+LOCATION:Castelo de Paiva\,   Aveiro Castelo de Paiva\,   Aveiro
+SUMMARY:Corrida das Vindimas de Castelo de Paiva 2026
+DESCRIPTION:Sobre a XVIII Corrida das Vindimas de Castelo de Paiva 2026 A X
+ VIII Corrida das Vindimas de Castelo de Paiva realiza-se a 20 de setembro d
+ e 2026\,  oferecendo aos participantes a oportunidade de percorrer 14 km\, 
+  ou 7 km (mini corrida e caminhada) num envolvente cenário de montanha. O 
+ traçado[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-vindimas-
+ de-castelo-de-paiva/
+URL:https://www.portugalrunning.com/eventos/corrida-das-vindimas-de-castelo-de-paiva/
+END:VEVENT
+END:VCALENDAR

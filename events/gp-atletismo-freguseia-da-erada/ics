@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60515-0@www.portugalrunning.com
+DTSTAMP:20260820T060023Z
+DTSTART:20260920
+DTEND:20260921
+LOCATION:Erada\,   Covilhã Erada\,   Covilhã
+SUMMARY:GP Atletismo Freguseia da Erada 2026
+DESCRIPTION:Sobre o 5º GP Atletismo "Freguesia da Erada" 2026 O 5º GP de 
+ Atletismo "Freguesia da Erada" decorre no dia 20 de setembro de 2026\,  na 
+ pitoresca aldeia da Erada\,  no concelho da Covilhã. Com percursos de corr
+ ida e caminhada em piso de asfalto e empedrado local\,  o traçado exige[..
+ ]\nhttps://www.portugalrunning.com/eventos/gp-atletismo-freguseia-da-erada/
+URL:https://www.portugalrunning.com/eventos/gp-atletismo-freguseia-da-erada/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:60534-0@www.portugalrunning.com
+DTSTAMP:20260820T060024Z
+DTSTART:20261003T191400Z
+DTEND:20261003T235900Z
+LOCATION:Figueiró dos Vinhos\,   Leiria Figueiró dos Vinhos\,   Leiria
+SUMMARY:Night Run Urbano 2026
+DESCRIPTION:Sobre a Night Run 2026 A Night Run de Figueiró dos Vinhos\,  a
+ gendada para 3 de outubro de 2026\,  oferece um verdadeiro desafio noturno 
+ com percursos de 10 km e 6 km. A prova desenrola-se sobre um terreno divers
+ ificado que cruza asfalto\,  calçada\,  terra batida e escadarias\,  exigi
+ ndo constante adaptação[..]\nhttps://www.portugalrunning.com/eventos/nigh
+ t-run-urbano/
+URL:https://www.portugalrunning.com/eventos/night-run-urbano/
+END:VEVENT
+END:VCALENDAR

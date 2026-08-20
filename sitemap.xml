@@ -2,7 +2,112 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-08-18T12:20:27+00:00</lastmod>
+		<lastmod>2026-08-19T19:57:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-feira-das-cebolas/</loc>
+		<lastmod>2026-08-19T19:57:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/84b0.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-amadora/</loc>
+		<lastmod>2026-08-19T13:44:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/775260510_1702889138506512_4712170033551400304_n.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/night-run-urbano/</loc>
+		<lastmod>2026-08-19T10:32:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/759676792_1368935208755368_9100400685141065371_n.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-das-vindimas-de-castelo-de-paiva/</loc>
+		<lastmod>2026-08-19T10:24:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/vidimas.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/colcurinho-epic-trail/</loc>
+		<lastmod>2026-08-19T10:15:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/54c17fe1492fa663d4cdecf61a56c244.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/triangle-adventure-by-azores-trail-run/</loc>
+		<lastmod>2026-08-19T10:13:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/209aae8c54e0d82d0ce0965fa5d7a39a.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-cimpor/</loc>
+		<lastmod>2026-08-19T10:11:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/CIMPOR-2026-04-750x380-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/dupla-legua-de-vermoil/</loc>
+		<lastmod>2026-08-19T10:08:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/pop_4dp4kh4982.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/pinga-trail/</loc>
+		<lastmod>2026-08-19T10:03:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/pop_10y23791000.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/gp-atletismo-freguseia-da-erada/</loc>
+		<lastmod>2026-08-19T10:01:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/gpa-erada26_banner.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/legua-diario-de-coimbra-2026-1/</loc>
+		<lastmod>2026-08-19T09:44:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/banner-legua-diario-coimbra-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/legua-diario-de-coimbra/</loc>
+		<lastmod>2026-08-19T09:43:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/banner-legua-diario-coimbra-2026-min.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-dos-calceteiros/</loc>
+		<lastmod>2026-08-19T09:35:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6952f58d24673_CARTAZ_2026_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-dos-calceteiros-2026/</loc>
+		<lastmod>2026-08-19T09:16:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6952f58d24673_CARTAZ_2026_net-cartaz_460.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/fituptrail/</loc>
+		<lastmod>2026-08-19T09:14:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/6a735d86a38b6_Cartaz-cartaz_460-1.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-ipo-porto/</loc>
@@ -542,13 +647,6 @@
 		<lastmod>2026-08-07T14:52:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2022/11/306780755_453755366779783_6669253230259471057_n.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/fituptrail/</loc>
-		<lastmod>2026-08-07T13:09:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/08/6a735d86a38b6_Cartaz-cartaz_460-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1231,13 +1329,6 @@
 		<lastmod>2026-07-23T12:51:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/08/539414397_1372418941552370_1954746449015731382_n-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/dupla-legua-de-vermoil/</loc>
-		<lastmod>2026-07-23T12:49:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/pop_4dp4kh4982.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2223,13 +2314,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-feira-das-cebolas/</loc>
-		<lastmod>2026-06-19T04:45:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/06/84b0.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/milha-urbana-de-santo-tirso/</loc>
 		<lastmod>2026-06-19T04:43:22+00:00</lastmod>
 		<image:image>
@@ -2526,10 +2610,6 @@
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-evora/</loc>
 		<lastmod>2026-05-29T23:52:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-amadora/</loc>
-		<lastmod>2026-05-29T23:51:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/acureto-backyard-ultra/</loc>
@@ -4742,13 +4822,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/legua-diario-de-coimbra/</loc>
-		<lastmod>2026-03-25T12:57:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/banner-legua-diario-coimbra-2026-min.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/queiriga-trail/</loc>
 		<lastmod>2026-03-25T12:45:20+00:00</lastmod>
 		<image:image>
@@ -6347,13 +6420,6 @@
 		<lastmod>2026-02-22T07:30:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6957e81355ac5_Cartaz_Guarda_net-cartaz_460.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trilhos-dos-calceteiros/</loc>
-		<lastmod>2026-02-22T07:30:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6952f58d24673_CARTAZ_2026_net-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
