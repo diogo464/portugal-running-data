@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ddc0b5ca937
-DTSTAMP:20251002T000053Z
+UID:42950-0@www.portugalrunning.com
+DTSTAMP:20260821T060029Z
 DTSTART:20251102
 DTEND:20251103
-LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+LOCATION:Sintra\,   Lisboa Sintra\,   Lisboa
 SUMMARY:Sintra Trail - Cruz Alta 2025
-DESCRIPTION:A 2 de novembro 2025\,  Sintra volta a receber a Sintra Trail 
- Cruz Alta. Descubra a magia da serra de Sintra que o leva ao coração de u
- m dos locais mais emblemáticos de Portugal.\nhttps://www.portugalrunning.c
- om/eventos/sintra-trail-cruz-alta-2025/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; A 2 de novembro 2025\,  Sintra volta a receber a Sintra T
+ rail Cruz Alta. Descubra a magia da serra de Sintra que o leva ao coração
+  de um dos locais[..]\nhttps://www.portugalrunning.com/eventos/sintra-trail
+ -cruz-alta-2025/
 URL:https://www.portugalrunning.com/eventos/sintra-trail-cruz-alta-2025/
 END:VEVENT
 END:VCALENDAR

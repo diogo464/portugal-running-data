@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68feb62d5e3a5
-DTSTAMP:20251027T000045Z
+UID:39522-0@www.portugalrunning.com
+DTSTAMP:20260821T060030Z
 DTSTART:20251026
 DTEND:20251027
 LOCATION:Lisboa Lisboa
 SUMMARY:Meia Maratona Lisboa 2025 - Ponte Vasco da Gama
-DESCRIPTION:A Hyundai Meia Maratonaa é uma das mais populares provas de Po
- rtugal e em 2024 realizar-se a 26 de Outubro. O seu percurso de 21 Km tem i
- nício na&nbsp;Ponte Vasco da Gama&nbsp;terminando na&nbsp;Praça do Comér
- cio\,  um marco histórico da cidade de Lisboa\,  em frente ao rio Tejo. Re
- sultados 2025 Resultados[..]\nhttps://www.portugalrunning.com/eventos/meia-
- maratona-lisboa-2025-ponte-vasco-da-gama/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; A Hyundai Meia Maratonaa é uma das mais populares provas 
+ de Portugal e em 2024 realizar-se a 26 de Outubro. O seu percurso de 21 Km 
+ tem início na&nbsp;Ponte[..]\nhttps://www.portugalrunning.com/eventos/meia
+ -maratona-lisboa-2025-ponte-vasco-da-gama/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-lisboa-2025-ponte-vasco-da-gama/
 END:VEVENT
 END:VCALENDAR

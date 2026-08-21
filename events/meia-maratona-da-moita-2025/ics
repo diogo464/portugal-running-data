@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:689bd5aeea550
-DTSTAMP:20250813T000046Z
+UID:44008-0@www.portugalrunning.com
+DTSTAMP:20260821T060029Z
 DTSTART:20251019
 DTEND:20251020
-LOCATION:Moita\,  Setúbal Moita\,  Setúbal
+LOCATION:Moita\,   Setúbal Moita\,   Setúbal
 SUMMARY:Meia Maratona da Moita 2025
-DESCRIPTION:26.ª Meia Maratona Ribeirinha da Moita e da 23.ª Mini Caminha
- da\,  que se realizam no próximo dia 19 de outubro de 2025 (domingo)\,  pe
- las 09h30\,  na zona ribeirinha da Moita. Este evento\,  com longa tradiç�
- �o no concelho\,  reúne diversos atletas\,  num ambiente desportivo e comu
- nitário\,  promovendo o atletismo\,  o bem-estar[..]\nhttps://www.portugal
- running.com/eventos/meia-maratona-da-moita-2025/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; 26.ª Meia Maratona Ribeirinha da Moita e da 23.ª Mini Ca
+ minhada\,  que se realizam no próximo dia 19 de outubro de 2025 (domingo)\
+ ,  pelas 09h30\,  na zona ribeirinha da[..]\nhttps://www.portugalrunning.co
+ m/eventos/meia-maratona-da-moita-2025/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-da-moita-2025/
 END:VEVENT
 END:VCALENDAR

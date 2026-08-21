@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68f035b75b7ef
-DTSTAMP:20251016T000055Z
+UID:40934-0@www.portugalrunning.com
+DTSTAMP:20260821T060029Z
 DTSTART:20251026
 DTEND:20251027
-LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+LOCATION:Almeirim\,   Santarém Almeirim\,   Santarém
 SUMMARY:20 Kms de Almeirim 2025
-DESCRIPTION:Venha participar na 38ª edição dos 20 Kms de Almeirim - Rota
-  da Sopa da Pedra. 38ª edição 20km de Almeirim - Rota da sopa da PedraCo
- m as provas;- 20 km BORREGO LEONOR & IRMÃO\,  SA- 10 km- Mini/Caminhada\nh
- ttps://www.portugalrunning.com/eventos/20-kms-de-almeirim-2025/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; Venha participar na 38ª edição dos 20 Kms de Almeirim -
+  Rota da Sopa da Pedra. 38ª edição 20km de Almeirim - Rota da sopa da Pe
+ draCom as provas;-[..]\nhttps://www.portugalrunning.com/eventos/20-kms-de-a
+ lmeirim-2025/
 URL:https://www.portugalrunning.com/eventos/20-kms-de-almeirim-2025/
 END:VEVENT
 END:VCALENDAR

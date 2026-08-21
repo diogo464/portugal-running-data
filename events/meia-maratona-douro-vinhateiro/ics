@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0bfc7c9c36c
-DTSTAMP:20260519T060028Z
-DTSTART:20260524
-DTEND:20260525
-LOCATION:Peso da Régua\,  Vila Real Peso da Régua\,  Vila Real
-SUMMARY:Meia Maratona Douro Vinhateiro (Régua) 2026
-DESCRIPTION:Correr no Douro não é apenas fazer quilómetros\,  é atraves
- sar um cenário classificado como Património Mundial pela UNESCO. A Meia M
- aratona do Douro Vinhateiro acontece este domingo\,  24 de maio\,  ligando 
- a Barragem de Bagaúste à cidade do Peso da Régua. 📅 Informações de 
- Última Hora Data: domingo\,  24 de[..]\nhttps://www.portugalrunning.com/ev
- entos/meia-maratona-douro-vinhateiro/
+UID:60837-0@www.portugalrunning.com
+DTSTAMP:20260821T060029Z
+DTSTART:20270530
+DTEND:20270531
+LOCATION:Peso da Régua\,   Vila Real Peso da Régua\,   Vila Real
+SUMMARY:Meia Maratona Douro Vinhateiro (Régua) 2027
+DESCRIPTION:Sobre a Meia Maratona do Douro Vinhateiro 2027 A Meia Maratona 
+ do Douro Vinhateiro\,  frequentemente apelidada de "A Mais Bela Corrida do 
+ Mundo"\,  leva os atletas a percorrer as margens do rio Douro num cenário 
+ deslumbrante classificado como Património Mundial da UNESCO. Com um traça
+ do desenhado em alcatrão\,  cruza na[..]\nhttps://www.portugalrunning.com/
+ eventos/meia-maratona-douro-vinhateiro/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-douro-vinhateiro/
 END:VEVENT
 END:VCALENDAR

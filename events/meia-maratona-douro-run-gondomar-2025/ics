@@ -1,21 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cd701424
-DTSTAMP:20250720T222527Z
+UID:39821-0@www.portugalrunning.com
+DTSTAMP:20260821T060028Z
 DTSTART:20250608
 DTEND:20250609
-LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+LOCATION:Gondomar\,   Porto Gondomar\,   Porto
 SUMMARY:Meia Maratona D´Ouro Run Gondomar 2025
-DESCRIPTION:A 10ª Generali Tranquilidade Meia-Maratona D`Ouro Run Gondomar
-  realiza-se no dia 8 de Junho 2025\,  com início às 09h00\,  uma Meia-M
- aratona de 21 Km\,  uma Mini-Maratona de 10 Km e uma Caminhada de 5 Km 
- ao longo da estrada de Entre-os-Rios. É uma organização da Associação 
- Comvidacorrer com o apoio Câmara Municipal de Gondomar e parte[..]\nhttps:
- //www.portugalrunning.com/eventos/meia-maratona-douro-run-gondomar-2025/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; A 10ª Generali Tranquilidade Meia-Maratona D`Ouro Run Gon
+ domar realiza-se no dia 8 de Junho 2025\,  com início às 09h00\,  uma M
+ eia-Maratona de 21 Km\,  uma Mini-Maratona de 10 Km e uma Caminhada de 5
+ [..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-douro-run-gondo
+ mar-2025/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-douro-run-gondomar-2025/
 END:VEVENT
 END:VCALENDAR

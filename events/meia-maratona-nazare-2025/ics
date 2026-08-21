@@ -1,22 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b23f367f196
-DTSTAMP:20250830T000054Z
+UID:44146-0@www.portugalrunning.com
+DTSTAMP:20260821T060031Z
 DTSTART:20251109
 DTEND:20251110
-LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+LOCATION:Nazaré\,   Leiria Nazaré\,   Leiria
 SUMMARY:Meia Maratona Nazaré 2025
-DESCRIPTION:Numa organização da&nbsp;Meia Maratona Internacional da Nazar
- é - Associação de Cultura e Desporto\,  vai realizar-se\,  no dia&nbsp;0
- 9 de novembro de 2025\,  pelas&nbsp;10:00 horas\,  na vila da Nazaré\,  um
- a corrida pedestre\,  denominada&nbsp;49ª MEIA MARATONA INTERNACIONAL da N
- AZARÉ. O percurso\,  quase integralmente plano\,  tem a extensão de 21.09
- 7\, 5 metros\,  medido oficialmente\,  segundo[..]\nhttps://www.portugalrun
- ning.com/eventos/meia-maratona-nazare-2025/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; Numa organização da&nbsp;Meia Maratona Internacional da 
+ Nazaré - Associação de Cultura e Desporto\,  vai realizar-se\,  no dia&n
+ bsp;09 de novembro de 2025\,  pelas&nbsp;10:00 horas\,  na vila da Nazaré\
+ ,  uma corrida[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-n
+ azare-2025/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-nazare-2025/
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a6845b87fd12
-DTSTAMP:20260728T060128Z
+UID:43521-0@www.portugalrunning.com
+DTSTAMP:20260821T060028Z
 DTSTART:20260308
 DTEND:20260309
 LOCATION:Lisboa Lisboa
 SUMMARY:EDP Meia Maratona de Lisboa 2026
-DESCRIPTION:Está à procura da Edição de Outubro? Ou da Ediçao de Març
- o de 2027? Resultados 2026 A EDP Meia Maratona de Lisboa é a única prova 
- portuguesa no prestigiado circuito SuperHalfs e o maior evento de corrida d
- e Portugal\,  reunindo anualmente mais de 30 mil participantes de todo o mu
- ndo[..]\nhttps://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa-2
- 026/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; Considerada uma das meias maratonas mais rápidas do mundo
+ \,  foi palco de recordes mundiais masculinos da distância (2000\,  2010 e
+  2021) e oferece condições ideais para recordes pessoais com[..]\nhttps:/
+ /www.portugalrunning.com/eventos/edp-meia-maratona-lisboa-2026/
 URL:https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa-2026/
 END:VEVENT
 END:VCALENDAR

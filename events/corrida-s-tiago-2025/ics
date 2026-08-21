@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c7448d0f
-DTSTAMP:20250720T222348Z
+UID:42116-0@www.portugalrunning.com
+DTSTAMP:20260821T060027Z
 DTSTART:20250727
 DTEND:20250728
-LOCATION:Mondim de Basto\,  Vila Real Mondim de Bastos Vila Real
+LOCATION:Mondim de Basto\,   Vila Real Mondim de Bastos Vila Real
 SUMMARY:Corrida S.Tiago 2025
-DESCRIPTION:A AMA – Associação Mondim Atletismo\,  com o apoio dos Muni
- cípios de Mondim de Basto e Celorico de Basto\,  organizam a 10ª edição
-  da “Corrida S. Tiago “. Corrida - 12kmsCaminhada - 8km\nhttps://www.po
- rtugalrunning.com/eventos/corrida-s-tiago-2025/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; A AMA – Associação Mondim Atletismo\,  com o apoio dos
+  Municípios de Mondim de Basto e Celorico de Basto\,  organizam a 10ª edi
+ ção da “Corrida S. Tiago “. Corrida[..]\nhttps://www.portugalrunning.
+ com/eventos/corrida-s-tiago-2025/
 URL:https://www.portugalrunning.com/eventos/corrida-s-tiago-2025/
 END:VEVENT
 END:VCALENDAR

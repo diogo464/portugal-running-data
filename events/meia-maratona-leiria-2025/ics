@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cdc61d45
-DTSTAMP:20250720T222532Z
+UID:39663-0@www.portugalrunning.com
+DTSTAMP:20260821T060030Z
 DTSTART:20251019
 DTEND:20251020
 LOCATION:Leiria Leiria
 SUMMARY:Meia Maratona Leiria 2025
-DESCRIPTION:Sintam-se assim\,  todos convidados a participar e vivenciar a 
- cidade de Leiria. O evento conta com 4 segmentos: Meia Maratona – 21K (pr
- ova oficial do Campeonato Distrital Leiria) Distância 10K Competição Jov
- em\,  distâncias oficiais ( Infantis\,  Iniciados e Juvenis) Caminhada –
-  5km\nhttps://www.portugalrunning.com/eventos/meia-maratona-leiria-2025/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; Sintam-se assim\,  todos convidados a participar e vivenci
+ ar a cidade de Leiria. O evento conta com 4 segmentos: Meia Maratona – 21
+ K (prova oficial do Campeonato Distrital Leiria) Distância[..]\nhttps://ww
+ w.portugalrunning.com/eventos/meia-maratona-leiria-2025/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-leiria-2025/
 END:VEVENT
 END:VCALENDAR
