@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69dddda69331e
-DTSTAMP:20260414T062438Z
+UID:50635-0@www.portugalrunning.com
+DTSTAMP:20260822T060036Z
 DTSTART:20260927
 DTEND:20260928
-LOCATION:Coutos de Viseu\,  Viseu Coutos de Viseu\,  Viseu
+LOCATION:Coutos de Viseu\,   Viseu Coutos de Viseu\,   Viseu
 SUMMARY:Coutos Natura Challenge 2026
-DESCRIPTION:No dia 27 de setembro de 2026\,  os trilhos voltam a ganhar vi
- da. O Coutos Natura Challenge (CNC) regressa para a sua quarta edição\,
-   reafirmando o compromisso com a qualidade\,  a pegada ecológica respons�
- �vel e a promoção das tradições das nossas gentes. O CNC 2026 oferece p
- ercursos para todos\,  desde a competição de[..]\nhttps://www.portugalrun
- ning.com/eventos/coutos-natura-challenge/
+DESCRIPTION:Sobre o Coutos Natura Challenge 2026 (Coutos de Viseu) O Coutos
+  Natura Challenge realiza-se no domingo\,  27 de setembro de 2026 na fregue
+ sia de Coutos de Viseu (Viseu). Com partidas divididas pelas zonas de Bodio
+ sa\,  São Miguel do Mato e Ribafeita\,  inclui Trail Longo de 30 km\,  Tra
+ il Curto de[..]\nhttps://www.portugalrunning.com/eventos/coutos-natura-chal
+ lenge/
 URL:https://www.portugalrunning.com/eventos/coutos-natura-challenge/
 END:VEVENT
 END:VCALENDAR

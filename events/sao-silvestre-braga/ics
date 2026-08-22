@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a2e9443f
-DTSTAMP:20260320T110622Z
+UID:47614-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20261227
 DTEND:20261228
 LOCATION:Braga Braga
 SUMMARY:São Silvestre Braga 2026
-DESCRIPTION:A São Silvestre Braga 2026 realiza-se na cidade de Braga no m�
- �s de dezembro\,  apresentando um percurso de estrada inteiramente urbano c
- om partida e chegada na icónica Praça da República. O evento oferece as 
- distâncias de 10 km (corrida cronometrada) e a caminhada\,  sendo reconhec
- ido pela sua característica única de[..]\nhttps://www.portugalrunning.com
- /eventos/sao-silvestre-braga/
+DESCRIPTION:Sobre a São Silvestre de Braga 2026 A São Silvestre de Braga 
+ realiza-se no domingo\,  27 de dezembro de 2026 na Praça da República\,  
+ em Braga. Organizada pela Runporto\,  percorre o centro histórico iluminad
+ o da "Cidade dos Arcebispos" com corrida noturna de 10 km e caminhada de 5 
+ km. Otimiza[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-brag
+ a/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-braga/
 END:VEVENT
 END:VCALENDAR

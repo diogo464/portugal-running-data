@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a78178aeb434
-DTSTAMP:20260809T060042Z
+UID:50961-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20261220
 DTEND:20261221
 LOCATION:Lisboa Lisboa
 SUMMARY:São Silvestre El Corte Inglés 2026
-DESCRIPTION:Resultados 2025 Em 2025\,  a prova que conta com o apoio de&nbs
- p;Record&nbsp;vai correr-se a 14 de dezembro (domingo) e com um percurso re
- novado\,  com partida e chegada no Saldanha\,  bem mais acessível aos nova
- tos e também aos mais experientes. Será uma oportunidade de ouro para apr
- eciar e viver a magia[..]\nhttps://www.portugalrunning.com/eventos/sao-silv
- estre-el-corte-ingles/
+DESCRIPTION:Sobre a São Silvestre El Corte Inglés 2026 (Lisboa) A São Si
+ lvestre El Corte Inglés realiza-se no dia 14 de dezembro de 2026 com epice
+ ntro na Praça do Duque de Saldanha\,  em Lisboa. Organizada pelo Jornal Re
+ cord\,  conta com corrida urbana de 10 km\,  caminhada de 5 km e prova[..]\
+ nhttps://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/
 END:VEVENT
 END:VCALENDAR

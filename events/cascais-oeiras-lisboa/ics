@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1b6ae1d
-DTSTAMP:20260723T060059Z
+UID:53207-0@www.portugalrunning.com
+DTSTAMP:20260822T060044Z
 DTSTART:20261108T060700Z
 DTEND:20261108T235900Z
-LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+LOCATION:Cascais\,   Lisboa Cascais\,   Lisboa
 SUMMARY:Cascais Oeiras Lisboa 2026
-DESCRIPTION:No dia&nbsp;8 de novembro\,  aceita o desafio e faz parte da&nb
- sp;Cascais Oeiras Lisboa\,  um evento que reúne história\,  espírito de 
- superação e um dos percursos mais emblemáticos do país.Entre a beleza d
- a costa\,  a proximidade do mar e as margens do Rio Tejo\,  cada quilómetr
- o convida-te a viver uma experiência[..]\nhttps://www.portugalrunning.com/
- eventos/cascais-oeiras-lisboa/
+DESCRIPTION:Sobre a Meia Maratona Cascais Oeiras Lisboa 2026 A Meia Maraton
+ a da Marginal Cascais Oeiras Lisboa realiza-se no dia 8 de novembro de 2026
+ \,  unindo os três concelhos ao longo da mítica Avenida Marginal. Com par
+ tida no Casino Estoril e meta na Praça do Império em Belém (Lisboa)\,  a
+  prova[..]\nhttps://www.portugalrunning.com/eventos/cascais-oeiras-lisboa/
 URL:https://www.portugalrunning.com/eventos/cascais-oeiras-lisboa/
 END:VEVENT
 END:VCALENDAR

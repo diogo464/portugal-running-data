@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a78178a4390a
-DTSTAMP:20260809T060042Z
+UID:58188-0@www.portugalrunning.com
+DTSTAMP:20260822T060041Z
 DTSTART:20261101T045800Z
 DTEND:20261101T045800Z
-LOCATION:Huelva\,  Espanha Huelva\,  Espanha
+LOCATION:Huelva\,   Espanha Huelva\,   Espanha
 SUMMARY:Meia Maratona de Huelva 2026
-DESCRIPTION:Agendada para o dia 1 de novembro de 2026 em Huelva\,  a Meia M
- aratona leva os participantes a percorrer a distância rainha de 21\, 097 k
- m (com uma prova alternativa de 5 km) num cenário de circuito urbano total
- mente assente em piso de asfalto. A geometria das ruas convida a uma[..]\nh
- ttps://www.portugalrunning.com/eventos/meia-maratona-de-huelva/
+DESCRIPTION:Sobre a Meia Maratona de Huelva 2026 (21K) A Meia Maratona de H
+ uelva 2026 (21K Ciudad de Huelva) realiza-se a 1 de novembro de 2026 na his
+ tórica cidade andaluza. Com um circuito homologado de 21\, 097 km extremam
+ ente rápido e totalmente plano\,  o evento atrai atletas portugueses e esp
+ anhóis focados na[..]\nhttps://www.portugalrunning.com/eventos/meia-marato
+ na-de-huelva/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-de-huelva/
 END:VEVENT
 END:VCALENDAR

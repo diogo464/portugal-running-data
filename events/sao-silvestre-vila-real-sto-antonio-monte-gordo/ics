@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1f3c368
-DTSTAMP:20260723T060103Z
+UID:54339-0@www.portugalrunning.com
+DTSTAMP:20260822T060050Z
 DTSTART:20261205T070000Z
 DTEND:20261205T235900Z
-LOCATION:Vila Real de Santo António\,  Faro Vila Real de Santo António\,  Faro
+LOCATION:Vila Real de Santo António\,   Faro Vila Real de Santo António\,   Faro
 SUMMARY:São Silvestre Vila Real Sto. António Monte Gordo 2026
-DESCRIPTION:A S„o Silvestre de Vila Real de Santo AntÛnio -Monte Gordo 2
- 025\,  ser· organizada pelo JardimFuncional VRSA – AssociaÁ„o Desport
- iva e pelo MunicÌpio de Vila Real de Santo AntÛnio. São Silvestre – Pr
- ovas JovensCorrida São Silvestre (10 Km)Caminhada (5 Km)\nhttps://www.port
- ugalrunning.com/eventos/sao-silvestre-vila-real-sto-antonio-monte-gordo/
+DESCRIPTION:Sobre a São Silvestre de Vila Real de Sto. António – Monte 
+ Gordo 2026 A São Silvestre de Vila Real de Santo António – Monte Gordo 
+ realiza-se no dia 5 de dezembro de 2026 na Avenida da República\,  VRSA (F
+ aro / Algarve). Organizada pelo Jardim Funcional VRSA e Associação de[..]
+ \nhttps://www.portugalrunning.com/eventos/sao-silvestre-vila-real-sto-anton
+ io-monte-gordo/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-vila-real-sto-antonio-monte-gordo/
 END:VEVENT
 END:VCALENDAR

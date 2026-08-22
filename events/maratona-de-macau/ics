@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7969069631c
-DTSTAMP:20260810T060038Z
+UID:47585-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20261206T080500Z
 DTEND:20261206T235900Z
 LOCATION:Macau Macau
 SUMMARY:Maratona de Macau 2026
-DESCRIPTION:A Maratona Internacional de Macau 2026\,  com data marcada para
-  6 de dezembro de 2026\,  convida os atletas a percorrer as vibrantes ruas 
- de Macau num circuito em asfalto que engloba as distâncias de 42\, 195 km\
- ,  21\, 0975 km e 5 km. O percurso desenrola-se por zonas urbanas históric
- as e áreas[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-macau/
+DESCRIPTION:Sobre a Maratona Internacional de Macau 2026 (Taipa) A Maratona
+  Internacional de Macau realiza-se no domingo\,  6 de dezembro de 2026 com 
+ partida no Estádio do Centro Desportivo Olímpico\,  na Taipa (Macau). Rec
+ onhecida internacionalmente pela AIMS\,  percorre a Península de Macau\,  
+ Taipa e Coloane com Maratona de 42\, 195 km\,  Meia[..]\nhttps://www.portug
+ alrunning.com/eventos/maratona-de-macau/
 URL:https://www.portugalrunning.com/eventos/maratona-de-macau/
 END:VEVENT
 END:VCALENDAR

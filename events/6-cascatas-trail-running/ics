@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1bd19ea
-DTSTAMP:20260723T060059Z
+UID:54353-0@www.portugalrunning.com
+DTSTAMP:20260822T060040Z
 DTSTART:20261129
 DTEND:20261130
-LOCATION:Cheleiros\,  Mafra Cheleiros\,  Mafra
+LOCATION:Cheleiros\,   Mafra Cheleiros\,   Mafra
 SUMMARY:6 Cascatas Trail Running 2026
-DESCRIPTION:A Associação Desportiva Trail4U\,  irá organizar a 29 de Nov
- embro de 2026 pelas 09h00 horas o 6 Cascatas Trail Running\,  em Cheleiros\
- ,  concelho de Mafra. O 6 Cascatas Trail Running é uma prova de Trail Runn
- ing\,  corrida pedestre em Natureza\,  com três provas\,  Trail Longo (TL)
-  K24\,  Trail Curto (TC)[..]\nhttps://www.portugalrunning.com/eventos/6-cas
- catas-trail-running/
+DESCRIPTION:Sobre o 6 Cascatas Trail Running 2026 O 6 Cascatas Trail Runnin
+ g realiza-se a 15 de novembro de 2026 no concelho de Vila de Rei\,  no Cent
+ ro de Portugal. Conhecido por cruzar os cursos de água límpida e as casca
+ tas naturais da região\,  oferece percursos desafiadores de 25 km e[..]\nh
+ ttps://www.portugalrunning.com/eventos/6-cascatas-trail-running/
 URL:https://www.portugalrunning.com/eventos/6-cascatas-trail-running/
 END:VEVENT
 END:VCALENDAR

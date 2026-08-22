@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae20e86eb
-DTSTAMP:20260723T060104Z
+UID:54356-0@www.portugalrunning.com
+DTSTAMP:20260822T060052Z
 DTSTART:20270103
 DTEND:20270104
-LOCATION:Igreja Nova\,  Mafra Igreja Nova\,  Mafra
+LOCATION:Igreja Nova\,   Mafra Igreja Nova\,   Mafra
 SUMMARY:Vulcan Trail 2027
-DESCRIPTION:O Grupo Desportivo de Igreja Nova irá organizar\,  a 3 de jane
- iro de 2027\,  pelas 09h00\,  a 5ª Ediçãodo Vulcan Trail na Igreja Nova\
- ,  concelho de Mafra. O Vulcan Trail 2027 é uma prova de TrailRunning\,  c
- orrida pedestre em natureza\,  com três provas:Trail Longo (TL) K20+\,  Tr
- ail Curto (TC) K12+[..]\nhttps://www.portugalrunning.com/eventos/vulcan-tra
- il/
+DESCRIPTION:Sobre o Vulcan Trail 2027 (Igreja Nova / Mafra) O Vulcan Trail 
+ realiza-se no domingo\,  3 de janeiro de 2027 em Igreja Nova\,  concelho de
+  Mafra (Lisboa). Organizado pelo Grupo Desportivo de Igreja Nova com apoio 
+ da plataforma Trilho Perdido\,  apresenta Trail Longo de 20 km\,  Trail Cur
+ to de 12[..]\nhttps://www.portugalrunning.com/eventos/vulcan-trail/
 URL:https://www.portugalrunning.com/eventos/vulcan-trail/
 END:VEVENT
 END:VCALENDAR

@@ -1,18 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d16bfe96
-DTSTAMP:20260530T060054Z
+UID:51530-0@www.portugalrunning.com
+DTSTAMP:20260822T060040Z
 DTSTART:20261201
 DTEND:20261202
-LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+LOCATION:Cascais\,   Lisboa Cascais\,   Lisboa
 SUMMARY:Cascais Corrida de Natal 2026
-DESCRIPTION:Estamos de volta a 1 de dezembro de 2025!A correr ou a caminhar
-  5 km\,  estaremos juntos a promover a inclusão!\nhttps://www.portugalrunn
- ing.com/eventos/cascais-corrida-de-natal/
+DESCRIPTION:Sobre a Cascais Corrida de Natal 2026 A Heróis Betano Cascais 
+ Corrida de Natal realiza-se no feriado de 1 de dezembro de 2026 na Baía de
+  Cascais (Passeio D. Luís I). Organizada pela HMS Sports com gestão na La
+ p2Go\,  é uma prova emblemática e solidária de 5 km (corrida e[..]\nhttp
+ s://www.portugalrunning.com/eventos/cascais-corrida-de-natal/
 URL:https://www.portugalrunning.com/eventos/cascais-corrida-de-natal/
 END:VEVENT
 END:VCALENDAR

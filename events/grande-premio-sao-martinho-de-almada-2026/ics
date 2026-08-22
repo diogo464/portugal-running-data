@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69015934ddaaf
-DTSTAMP:20251029T000052Z
+UID:46050-0@www.portugalrunning.com
+DTSTAMP:20260822T060041Z
 DTSTART:20251109
 DTEND:20251110
-LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+LOCATION:Almada\,   Setúbal Almada\,   Setúbal
 SUMMARY:Grande Prémio São Martinho de Almada 2026
-DESCRIPTION:A 09 Novembro 2025 vai realizar-se o 6º Grande Prémio São 
- Martinho de Almada\,  prova inserida no Troféu de Almada Atletismo ‘Má
- rio Pinto Claro’ 2025/2026.\nhttps://www.portugalrunning.com/eventos/gran
- de-premio-sao-martinho-de-almada-2026/
+DESCRIPTION:Sobre o Grande Prémio São Martinho de Almada 2026 (Xistarca) 
+ O Grande Prémio de Atletismo de São Martinho de Almada realiza-se no dia 
+ 9 de novembro de 2026 no Laranjeiro\,  concelho de Almada. Com cronometrage
+ m e gestão da Xistarca e organização do Clube de Praças da Armada\,  o 
+ evento integra[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-s
+ ao-martinho-de-almada-2026/
 URL:https://www.portugalrunning.com/eventos/grande-premio-sao-martinho-de-almada-2026/
 END:VEVENT
 END:VCALENDAR

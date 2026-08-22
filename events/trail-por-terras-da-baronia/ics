@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae2047a00
-DTSTAMP:20260723T060104Z
+UID:54306-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20261005
 DTEND:20261006
-LOCATION:Alvito\,  Beja Alvito\,  Beja
+LOCATION:Alvito\,   Beja Alvito\,   Beja
 SUMMARY:Trail "Por Terras da Baronia" 2026
-DESCRIPTION:A Câmara Municipal de Alvito e o Grupo Desportivo Baronia\,  c
- om o apoio das Juntas das Freguesias\,  de Alvito e Vila Nova da Baronia\, 
-  e da Associação de Atletismo de Beja vão organizar\,  no próximo dia 0
- 5 de OUTUBRO de 2026\,  a 4ª edição do TRAIL ‘por terras da Baronia’
- .[..]\nhttps://www.portugalrunning.com/eventos/trail-por-terras-da-baronia/
+DESCRIPTION:Sobre o Trail "Por Terras da Baronia" 2026 A 4.ª edição do T
+ rail "Por Terras da Baronia" realiza-se no feriado de 5 de outubro de 2026 
+ em Vila Nova da Baronia\,  concelho de Alvito (Beja). Organizado pelo Grupo
+  Desportivo Baronia e CM Alvito com cronometragem na Acorrer\,  percorre os
+  sobreirais[..]\nhttps://www.portugalrunning.com/eventos/trail-por-terras-d
+ a-baronia/
 URL:https://www.portugalrunning.com/eventos/trail-por-terras-da-baronia/
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69d892169497c
-DTSTAMP:20260410T060054Z
+UID:50534-0@www.portugalrunning.com
+DTSTAMP:20260822T060051Z
 DTSTART:20261024
 DTEND:20261025
 LOCATION:Torres Vedras Torres Vedras
 SUMMARY:Torres Vedras Night Run Urban Trail 2026
-DESCRIPTION:A Câmara Municipal de Torres Vedras e a Promotorres E.M.\,  em
-  parceria com as associações Académico de Torres Vedras\,  Clube de Prat
- icantes de Trail Dolce Furadouro\,  Clube Académico de Penafirme (CAP Runn
- ing)\,  GOAT – West Trail Team e Turres Trail Clube\,  organiza o TORRES 
- VEDRAS NIGHT RUN URBAN TRAIL no[..]\nhttps://www.portugalrunning.com/evento
- s/torres-vedras-night-run-urban-trail/
+DESCRIPTION:Sobre o Torres Vedras Night Run Urban Trail 2026 A 6.ª ediçã
+ o do Torres Vedras Night Run Urban Trail realiza-se na noite de 24 de outub
+ ro de 2026 em Torres Vedras (Lisboa)\,  integrada nas Festas da Cidade. Com
+  concentração na Expotorres e gestão na Recorde Pessoal\,  conta com for
+ mato de[..]\nhttps://www.portugalrunning.com/eventos/torres-vedras-night-ru
+ n-urban-trail/
 URL:https://www.portugalrunning.com/eventos/torres-vedras-night-run-urban-trail/
 END:VEVENT
 END:VCALENDAR

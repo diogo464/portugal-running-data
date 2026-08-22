@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1f38b53
-DTSTAMP:20260723T060103Z
+UID:54350-0@www.portugalrunning.com
+DTSTAMP:20260822T060050Z
 DTSTART:20261025
 DTEND:20261026
-LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+LOCATION:Ponte de Lima\,   Viana do Castelo Ponte de Lima\,   Viana do Castelo
 SUMMARY:Trail Pé do Negro 2026
-DESCRIPTION:O evento Trail Pé do Negro Ponte de Lima é organizado e promo
- vido pela Escola Desportiva Limiana Trail \,  na Freguesia da Labruja\,  Po
- nte de Lima\,  e suas Freguesias contíguas. Realizar se á no dia 25 de Ou
- tubro de 2026\,  a VII edição do TPNG!\nhttps://www.portugalrunning.com/e
- ventos/trail-pe-do-negro/
+DESCRIPTION:Sobre o Trail Pé do Negro 2026 (Ponte de Lima) A VII edição 
+ do Trail Pé do Negro realiza-se no dia 25 de outubro de 2026 na Freguesia 
+ da Labruja\,  concelho de Ponte de Lima (Viana do Castelo). Organizado pela
+  Escola Desportiva Limiana Trail com cronometragem na SincTime\,  percorre 
+ as[..]\nhttps://www.portugalrunning.com/eventos/trail-pe-do-negro/
 URL:https://www.portugalrunning.com/eventos/trail-pe-do-negro/
 END:VEVENT
 END:VCALENDAR

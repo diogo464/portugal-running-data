@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a377e0c69616
-DTSTAMP:20260621T060044Z
+UID:51755-0@www.portugalrunning.com
+DTSTAMP:20260822T060035Z
 DTSTART:20261126
 DTEND:20261127
-LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+LOCATION:Alcoutim\,   Faro Alcoutim\,   Faro
 SUMMARY:ALUT - Algarviana Ultra Trail 2026
-DESCRIPTION:O ALUT – Algarviana Ultra Trail – é um evento lúdico/desp
- ortivo pedestre\,  em natureza\,  desenvolvendo-se quase na sua totalidade 
- na Via Algarviana. A sua 8ª edição decorre entre os dias 26 e 29 de nove
- mbro de 2026. A prova terá início no dia 26 de novembro\,  no cais de Alc
- outim\, [..]\nhttps://www.portugalrunning.com/eventos/alut-algarviana-ultra
+DESCRIPTION:Sobre o ALUT – Algarviana Ultra Trail 2026 (300K) O ALUT – 
+ Algarviana Ultra Trail realiza-se de 26 a 29 de novembro de 2026 na travess
+ ia integral da Via Algarviana (GR13). Cruzando o interior do Algarve desde 
+ Alcoutim (fronteira com Espanha) até ao místico Cabo de São Vicente em S
+ agres\, [..]\nhttps://www.portugalrunning.com/eventos/alut-algarviana-ultra
  -trail/
 URL:https://www.portugalrunning.com/eventos/alut-algarviana-ultra-trail/
 END:VEVENT

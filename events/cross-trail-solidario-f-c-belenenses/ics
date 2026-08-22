@@ -1,22 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a05650f60c81
-DTSTAMP:20260514T060047Z
+UID:48234-0@www.portugalrunning.com
+DTSTAMP:20260822T060041Z
 DTSTART:20261107
 DTEND:20261108
-LOCATION:Marinha Grande\,  Leiria Marinha Grande\,  Leiria
+LOCATION:Marinha Grande\,   Leiria Marinha Grande\,   Leiria
 SUMMARY:Cross Trail Solidário F.C. Belenenses 2026
-DESCRIPTION:Eu\,  Frederico Bernardino Cabral\,  com o apoio da associaç
- ão F.C. “Os Belenenses”\,  organizo no dia 7 de Novembro de 2026 um C
- ross/Trail Solidário com o F.C. Belenenses\,  a realizar na localidade da�
- �Marinha Grande\,  com partida e chegada junto à sede do clube. Este event
- o é desenvolvido no âmbito da minha Prova de Aptidão Profissional[..]\n
- https://www.portugalrunning.com/eventos/cross-trail-solidario-f-c-belenense
- s/
+DESCRIPTION:Sobre o Cross Trail Solidário F.C. Belenenses 2026 O Cross Tra
+ il Solidário F.C. &#8220;Os Belenenses&#8221; realiza-se no dia 7 de novem
+ bro de 2026. Desenhado em caminhos naturais e trilhos de terra\,  o evento 
+ combina a vertente competitiva de 17 km com uma caminhada de 8 km. Avalia o
+ s teus tempos[..]\nhttps://www.portugalrunning.com/eventos/cross-trail-soli
+ dario-f-c-belenenses/
 URL:https://www.portugalrunning.com/eventos/cross-trail-solidario-f-c-belenenses/
 END:VEVENT
 END:VCALENDAR

@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d173856a
-DTSTAMP:20260530T060055Z
+UID:50957-0@www.portugalrunning.com
+DTSTAMP:20260822T060040Z
 DTSTART:20261226
 DTEND:20261227
 LOCATION:Lisboa Lisboa
 SUMMARY:Lidl São Silvestre Lisboa 2026
-DESCRIPTION:A Lidl São Silvestre de Lisboa volta a dar um brilho ainda mai
- s especial às ruas de Lisboa. Resultados 2025 Corrida 10 Km - Percurso 202
- 5 Partida&nbsp;na Av. da Liberdade - Praça dos Restauradores – Praça D.
-  Pedro IV (Rossio) – Rua do Ouro – virar à direita para Rua[..]\nhttps
- ://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/
+DESCRIPTION:Sobre a LIDL São Silvestre de Lisboa 2026 A 19.ª edição da 
+ LIDL São Silvestre de Lisboa realiza-se na noite de sábado\,  26 de dezem
+ bro de 2026 com partida e chegada na icónica Avenida da Liberdade\,  em Li
+ sboa. Organizada pela HMS Sports\,  é a prova noturna de 10 km mais[..]\nh
+ ttps://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/
 URL:https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/
 END:VEVENT
 END:VCALENDAR

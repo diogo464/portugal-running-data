@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a76c604555a5
-DTSTAMP:20260808T060036Z
+UID:55276-0@www.portugalrunning.com
+DTSTAMP:20260822T060050Z
 DTSTART:20260920T135300Z
 DTEND:20260920T235900Z
-LOCATION:Moimenta de Maceira Dão\,  Mangualde Moimenta de Maceira Dão\,  Mangualde
-SUMMARY:Trail Jose Costa 2026
-DESCRIPTION:O Trail José Costa regressa no dia 20 de setembro de 2026 a Mo
- imenta de Maceira Dão\,  no concelho de Mangualde\,  oferecendo um desafio
-  técnico de corrida de montanha com distâncias de 22 km\,  11 km e uma ca
- minhada de 8 km. Os atletas enfrentam pisos mistos com estradões de[..]\nh
- ttps://www.portugalrunning.com/eventos/trail-jose-costa/
+LOCATION:Moimenta de Maceira Dão\,   Mangualde Moimenta de Maceira Dão\,   Mangualde
+SUMMARY:Trail José Costa 2026
+DESCRIPTION:Sobre o Trail José Costa 2026 (Mangualde / Viseu) O Trail Jos�
+ � Costa realiza-se no domingo\,  20 de setembro de 2026 em Moimenta de Mace
+ ira Dão\,  concelho de Mangualde (Viseu). Com inscrições na plataforma A
+  Correr\,  contempla Trail Longo de 22 km\,  Trail Curto de 11 km e Caminha
+ da de[..]\nhttps://www.portugalrunning.com/eventos/trail-jose-costa/
 URL:https://www.portugalrunning.com/eventos/trail-jose-costa/
 END:VEVENT
 END:VCALENDAR

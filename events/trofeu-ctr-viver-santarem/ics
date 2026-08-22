@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a5616af28a58
-DTSTAMP:20260714T105959Z
+UID:51872-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20260913T193400Z
 DTEND:20260913T235900Z
 LOCATION:Santarém Santarém
 SUMMARY:Trail CTR / Viver Santarém 2026
-DESCRIPTION:O Trail CTR / Viver Santarém é uma Co-organização entre a A
- ssociação Circuito Trail do Ribatejo\, Associação de Atletismo de Santa
- rém\,  Câmara Municipal de Santarém e Viver Santarém\,  com oapoio de d
- iversas entidades de prestígio do Distrito de Santarém. O Trail CTR / Viv
- er Santarém será realizada no dia 13 de[..]\nhttps://www.portugalrunning.
- com/eventos/trofeu-ctr-viver-santarem/
+DESCRIPTION:Sobre o Trail CTR / Viver Santarém 2026 O Trail CTR / Viver Sa
+ ntarém realiza-se no domingo\,  13 de setembro de 2026 com partida no Comp
+ lexo Aquático de Santarém (Santarém). Etapa oficial do Circuito de Trail
+  do Ribatejo (CTR) com cronometragem no Trilho Perdido\,  contempla Trail d
+ e 31 km\,  Trail[..]\nhttps://www.portugalrunning.com/eventos/trofeu-ctr-vi
+ ver-santarem/
 URL:https://www.portugalrunning.com/eventos/trofeu-ctr-viver-santarem/
 END:VEVENT
 END:VCALENDAR

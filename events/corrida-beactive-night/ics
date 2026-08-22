@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a75748f6fd50
-DTSTAMP:20260807T060047Z
+UID:47640-0@www.portugalrunning.com
+DTSTAMP:20260822T060044Z
 DTSTART:20260926
 DTEND:20260927
-LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+LOCATION:Matosinhos\,   Porto Matosinhos\,   Porto
 SUMMARY:Corrida Beactive Night 2026
-DESCRIPTION:Agendada para o dia 26 de setembro de 2026 junto ao emblemátic
- o Mosteiro de Leça do Balio\,  em Matosinhos\,  esta prova desafia os part
- icipantes com um circuito urbano plano de 5 km em corrida e caminhada. O pi
- so combina o asfalto contínuo com áreas de pavimento urbano e paralelos e
- m[..]\nhttps://www.portugalrunning.com/eventos/corrida-beactive-night/
+DESCRIPTION:Sobre a Corrida #BeActive Night 2026 A Corrida #BeActive Night 
+ realiza-se no sábado\,  26 de setembro de 2026. Organizada pelo Instituto 
+ Português do Desporto e da Juventude (IPDJ) no âmbito da Semana Europeia 
+ do Desporto\,  é uma iniciativa de âmbito nacional e itinerante que junta
+  corrida noturna e caminhada de[..]\nhttps://www.portugalrunning.com/evento
+ s/corrida-beactive-night/
 URL:https://www.portugalrunning.com/eventos/corrida-beactive-night/
 END:VEVENT
 END:VCALENDAR

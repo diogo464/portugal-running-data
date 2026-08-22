@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69ad8309cae19
-DTSTAMP:20260308T140913Z
+UID:47234-0@www.portugalrunning.com
+DTSTAMP:20260822T060050Z
 DTSTART:20270207
 DTEND:20270208
-LOCATION:Abiul\,  Pombal Abiul\,  Pombal
+LOCATION:Abiul\,   Pombal Abiul\,   Pombal
 SUMMARY:Trail Manuelino 2027
-DESCRIPTION:O Trail Manuelino 2026 é um evento desportivo que integra 3 pr
- ovas competitivas de Trail e uma caminhada\,  organizado pela Associação 
- SicóTrilhos\,  conta com a colaboração do Município de Pombal\,  da Jun
- ta de Freguesia de Abiul\,  entre outros patrocinadores e apoiantes. A 5ª 
- edição realizar-se-á no dia 31 janeiro e[..]\nhttps://www.portugalrunnin
- g.com/eventos/trail-manuelino/
+DESCRIPTION:Sobre o Trail Manuelino 2027 (Abiul / Pombal) O Trail Manuelino
+  realiza-se no domingo\,  7 de fevereiro de 2027 em Abiul\,  concelho de Po
+ mbal (Leiria). Organizado pela Associação SicóTrilhos\,  percorre as ver
+ edas históricas e calcárias do sopé da Serra do Sicó com Trail Longo\, 
+  Trail Curto e Caminhada. Explora os[..]\nhttps://www.portugalrunning.com/e
+ ventos/trail-manuelino/
 URL:https://www.portugalrunning.com/eventos/trail-manuelino/
 END:VEVENT
 END:VCALENDAR

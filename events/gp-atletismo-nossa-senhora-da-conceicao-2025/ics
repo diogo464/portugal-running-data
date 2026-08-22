@@ -1,22 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:693220bf79b18
-DTSTAMP:20251205T000103Z
+UID:47011-0@www.portugalrunning.com
+DTSTAMP:20260822T060044Z
 DTSTART:20251208T072800Z
 DTEND:20251208T235900Z
-LOCATION:Covilhã\,  Castelo Branco Covilhã\,  Castelo Branco
+LOCATION:Covilhã\,   Castelo Branco Covilhã\,   Castelo Branco
 SUMMARY:GP Atletismo Nossa Senhora da Conceição 2025
-DESCRIPTION:A União de Freguesias da Covilhã e Canhoso vai\,  no próxi
- mo dia 8 de dezembro\,  com o apoio da Câmara Municipal da Covilhã e a
-  colaboração da PTN – Eventos Desportivos\,  organizar o 30.º GP de 
- Atletismo Nossa Sr.ª da Conceição. Esta iniciativa destina-se a toda a p
- opulação e conta com o apoio técnico da Associação de Atletismo[..]\n
- https://www.portugalrunning.com/eventos/gp-atletismo-nossa-senhora-da-conce
- icao-2025/
+DESCRIPTION:Sobre o GP de Atletismo Nossa Senhora da Conceição 2026 (Covi
+ lhã) O Grande Prémio de Atletismo Nossa Senhora da Conceição realiza-se
+  no feriado de terça-feira\,  8 de dezembro de 2026 com partida no Canhoso
+  e chegada no Jardim Público da Covilhã (Castelo Branco). Organizado pela
+  União de Freguesias de Covilhã[..]\nhttps://www.portugalrunning.com/even
+ tos/gp-atletismo-nossa-senhora-da-conceicao-2025/
 URL:https://www.portugalrunning.com/eventos/gp-atletismo-nossa-senhora-da-conceicao-2025/
 END:VEVENT
 END:VCALENDAR

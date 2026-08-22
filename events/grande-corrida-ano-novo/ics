@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7969051eb34
-DTSTAMP:20260810T060037Z
+UID:56089-0@www.portugalrunning.com
+DTSTAMP:20260822T060040Z
 DTSTART:20270103
 DTEND:20270104
-LOCATION:Praça do Comércio\,  Lisboa Praça do Comércio\,  Lisboa
+LOCATION:Praça do Comércio\,   Lisboa Praça do Comércio\,   Lisboa
 SUMMARY:Grande Corrida Ano Novo 2027
-DESCRIPTION:Se um dos teus desejos é começar a correr em 2027\,  esta pro
- va será o teu primeiro desafio! Com partida e chegada na icónica&nbsp;Pra
- ça do Comércio\,  em Lisboa!&nbsp;Um percurso inigualável com passagem p
- elas ruas e praças mais icónicas de Lisboa\,  onde destacamos a Rua do Ou
- ro\,  Rua da Prata\,  Martim[..]\nhttps://www.portugalrunning.com/eventos/g
- rande-corrida-ano-novo/
+DESCRIPTION:Sobre a Grande Corrida de Ano Novo 2027 (Lisboa) A Grande Corri
+ da de Ano Novo realiza-se no domingo\,  3 de janeiro de 2027 com partida e 
+ chegada na emblemática Praça do Comércio\,  em Lisboa. Organizada pela X
+ istarca\,  assinala a entrada no novo ano com corrida de 10 km\,  mini-corr
+ ida/caminhada de[..]\nhttps://www.portugalrunning.com/eventos/grande-corrid
+ a-ano-novo/
 URL:https://www.portugalrunning.com/eventos/grande-corrida-ano-novo/
 END:VEVENT
 END:VCALENDAR

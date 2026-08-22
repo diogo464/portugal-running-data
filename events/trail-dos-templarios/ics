@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a4f3926e344c
-DTSTAMP:20260709T060110Z
+UID:53154-0@www.portugalrunning.com
+DTSTAMP:20260822T060046Z
 DTSTART:20260927
 DTEND:20260928
-LOCATION:Tomar\,  Santarém Tomar\,  Santarém
-SUMMARY:Trilho dos Templários 2026
-DESCRIPTION:15ª Edição dos Trilhos dos Templários\,  a realizar no dia 
- 27 de setembro de 2026\,  em Santa Cita\,  Tomar\,  nas distâncias aproxim
- adas de: Caminhada (10K). 32K (Trail Longo); 20K (Trail Curto); 14K (Mini T
- rail); 10K (Experiência Trail);\nhttps://www.portugalrunning.com/eventos/t
- rail-dos-templarios/
+LOCATION:Tomar\,   Santarém Tomar\,   Santarém
+SUMMARY:XV Trilhos dos Templários 2026
+DESCRIPTION:Sobre os XV Trilhos dos Templários 2026 (Tomar) A XV edição 
+ dos Trilhos dos Templários realiza-se no domingo\,  27 de setembro de 2026
+  em Santa Cita\,  concelho de Tomar (Santarém). Organizada pela ACR de San
+ ta Cita com inscrições oficiais em trilhosdostemplarios.pt\,  contempla T
+ rail Longo de 32 km\,  Trail Curto de[..]\nhttps://www.portugalrunning.com/
+ eventos/trail-dos-templarios/
 URL:https://www.portugalrunning.com/eventos/trail-dos-templarios/
 END:VEVENT
 END:VCALENDAR

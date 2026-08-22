@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a04138fab368
-DTSTAMP:20260513T060047Z
+UID:47512-0@www.portugalrunning.com
+DTSTAMP:20260822T060044Z
 DTSTART:20261115
 DTEND:20261116
-LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
-SUMMARY:Meia Maratona Nazaré 2026
-DESCRIPTION:Considerada a "mãe" das meias maratonas em Portugal\,  a Meia 
- Maratona da Nazaré 2026 é o palco ideal para quem procura bater o seu rec
- orde pessoal (PB)\,  graças a um percurso icónico\,  plano e extremamente
-  rápido que serpenteia a marginal junto ao Atlântico. Sendo a prova de en
- cerramento do Circuito[..]\nhttps://www.portugalrunning.com/eventos/meia-ma
- ratona-nazare/
+LOCATION:Nazaré\,   Leiria Nazaré\,   Leiria
+SUMMARY:Meia Maratona da Nazaré 2026
+DESCRIPTION:Sobre a Meia Maratona da Nazaré 2026 (50ª Edição) A Meia Ma
+ ratona Internacional da Nazaré celebra meio século de história em 2026 c
+ omo a grande etapa de encerramento do Circuito Estrelas de Portugal 21K. Tr
+ açada ao longo da icónica marginal náutica da vila nazarena\,  a prova p
+ roporciona uma experiência cénica[..]\nhttps://www.portugalrunning.com/ev
+ entos/meia-maratona-nazare/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-nazare/
 END:VEVENT
 END:VCALENDAR

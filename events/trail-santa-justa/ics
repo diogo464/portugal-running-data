@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e76003c2a
-DTSTAMP:20260501T174816Z
+UID:50927-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20260927
 DTEND:20260928
-LOCATION:Valongo\,  Porto Valongo\,  Porto
+LOCATION:Valongo\,   Porto Valongo\,   Porto
 SUMMARY:Trail Santa Justa 2026
-DESCRIPTION:A ATAD- Amigos do Trail Associação Desportiva\,  designadamen
- te a sua equipa de trail runningOralklass – Amigos do Trail e o Municípi
- o de Valongo são as entidades organizadoras da décimaquarta edição do e
- vento Trail S a n t a J u st a \,  que decorrerá no dia 27 de Setembro[..]
- \nhttps://www.portugalrunning.com/eventos/trail-santa-justa/
+DESCRIPTION:Sobre o Trail Santa Justa 2026 (Valongo / Porto) O Trail Santa 
+ Justa realiza-se no domingo\,  27 de setembro de 2026 no Parque das Serras 
+ do Porto em Valongo (Porto). Organizado pela ATAD com cronometragem StopAnd
+ Go e apoio da Câmara de Valongo\,  faz parte do Circuito Nacional da ATRP\
+ ,  incluindo[..]\nhttps://www.portugalrunning.com/eventos/trail-santa-justa
+ /
 URL:https://www.portugalrunning.com/eventos/trail-santa-justa/
 END:VEVENT
 END:VCALENDAR

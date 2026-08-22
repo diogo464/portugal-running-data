@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a73b77b7780f
-DTSTAMP:20260805T222147Z
+UID:44122-0@www.portugalrunning.com
+DTSTAMP:20260822T060052Z
 DTSTART:20270221
 DTEND:20270222
-LOCATION:Covas de Ferro\,  Sintra Covas de Ferro\,  Sintra
+LOCATION:Covas de Ferro\,   Sintra Covas de Ferro\,   Sintra
 SUMMARY:Trail Montes Saloios 2027
-DESCRIPTION:O Trail Montes Saloios regressa na sua edição de 2027\,  agen
- dado para o dia 14 de fevereiro em Montelavar\,  Sintra\,  desafiando os pa
- rticipantes com percursos de trail longo de 25 km\,  trail curto de 12 km e
-  uma caminhada de 8 km. O traçado exige uma leitura constante do terreno\,
-  [..]\nhttps://www.portugalrunning.com/eventos/trail-montes-saloios/
+DESCRIPTION:Sobre o XII Trail Montes Saloios 2027 (Covas de Ferro / Sintra)
+  O XII Trail Montes Saloios realiza-se no domingo\,  21 de fevereiro de 202
+ 7 em Covas de Ferro\,  Almargem do Bispo\,  Sintra (Lisboa). Organizado pel
+ o Moto Clube TT Montes Saloios\,  apresenta pela primeira vez Ultra Trail d
+ e 50 km\, [..]\nhttps://www.portugalrunning.com/eventos/trail-montes-saloio
+ s/
 URL:https://www.portugalrunning.com/eventos/trail-montes-saloios/
 END:VEVENT
 END:VCALENDAR

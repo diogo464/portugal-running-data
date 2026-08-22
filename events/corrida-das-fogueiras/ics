@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a75748fae777
-DTSTAMP:20260807T060047Z
+UID:48597-0@www.portugalrunning.com
+DTSTAMP:20260822T060040Z
 DTSTART:20270626
 DTEND:20270627
-LOCATION:Peniche\,  Leiria Peniche\,  Leiria
+LOCATION:Peniche\,   Leiria Peniche\,   Leiria
 SUMMARY:Corrida das Fogueiras 2027
-DESCRIPTION:A Agendada para a noite de 26 de junho de 2027 em Peniche\,  a 
- Corrida das Fogueiras desafia os participantes com percursos de 15 km e 5 k
- m disputados inteiramente sob o ambiente noturno da península. O piso comb
- ina o asfalto contínuo da faixa costeira com o empedrado do centro[..]\nht
- tps://www.portugalrunning.com/eventos/corrida-das-fogueiras/
+DESCRIPTION:Sobre a Corrida das Fogueiras 2027 (Peniche) A emblemática Cor
+ rida das Fogueiras realiza-se no sábado\,  26 de junho de 2027 às 21h30 n
+ a Av. do Porto de Pesca em Peniche (Leiria). Organizada pela Câmara Munici
+ pal de Peniche com cronometragem na Recorde Pessoal\,  inclui corrida notur
+ na de 15 km iluminada por[..]\nhttps://www.portugalrunning.com/eventos/corr
+ ida-das-fogueiras/
 URL:https://www.portugalrunning.com/eventos/corrida-das-fogueiras/
 END:VEVENT
 END:VCALENDAR

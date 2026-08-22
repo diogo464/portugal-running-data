@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a79690520c85
-DTSTAMP:20260810T060037Z
+UID:44089-0@www.portugalrunning.com
+DTSTAMP:20260822T060044Z
 DTSTART:20270206
 DTEND:20270207
-LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+LOCATION:Cascais\,   Lisboa Cascais\,   Lisboa
 SUMMARY:Meia Maratona Cascais 2027
-DESCRIPTION:A Montepio Meia Maratona de Cascais realiza-se a 6 e 7 de fever
- eiro de 2027\,  tendo a emblemática Baía de Cascais como palco de partida
-  e chegada para percorrer a espetacular linha de costa do distrito de Lisbo
- a. Com opções competitivas de 5 km\,  10 km e a clássica distância[..]\
- nhttps://www.portugalrunning.com/eventos/meia-maratona-cascais/
+DESCRIPTION:Sobre a Montepio Meia Maratona de Cascais 2027 A 11.ª edição
+  da Montepio Meia Maratona de Cascais realiza-se nos dias 6 e 7 de fevereir
+ o de 2027 (partida da Meia Maratona no domingo\,  7 de fev) na Baía de Cas
+ cais. Organizada pela HMS Sports\,  junta Meia Maratona de 21\, 0975 km\, [
+ ..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-cascais/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-cascais/
 END:VEVENT
 END:VCALENDAR

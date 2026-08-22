@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a76c6061d002
-DTSTAMP:20260808T060038Z
+UID:57495-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20260927T092700Z
 DTEND:20260927T235900Z
-LOCATION:São Vicente\,  Madeira São Vicente\,  Madeira
+LOCATION:São Vicente\,   Madeira São Vicente\,   Madeira
 SUMMARY:Vertical Costa Norte 2026
-DESCRIPTION:O Vertical Costa Norte 2026 desenrola-se no concelho de São Vi
- cente\,  na Ilha da Madeira\,  no dia 27 de setembro de 2026\,  propondo um
-  desafio de Quilómetro Vertical com percurso predominantemente composto po
- r terra batida\,  degraus e carreiros de inclinação acentuada. O traçado
-  exige tração firme e uma constante leitura[..]\nhttps://www.portugalrunn
- ing.com/eventos/vertical-costa-norte/
+DESCRIPTION:Sobre o Vertical Costa Norte 2026 (São Vicente / Madeira) O Ve
+ rtical Costa Norte realiza-se no domingo\,  27 de setembro de 2026 no conce
+ lho de São Vicente\,  na Ilha da Madeira. Organizado pelo Clube Naval de S
+ ão Vicente com cronometragem Lap2Go e chancela FCMP\,  é um vertiginoso d
+ esafio de Quilómetro[..]\nhttps://www.portugalrunning.com/eventos/vertical
+ -costa-norte/
 URL:https://www.portugalrunning.com/eventos/vertical-costa-norte/
 END:VEVENT
 END:VCALENDAR

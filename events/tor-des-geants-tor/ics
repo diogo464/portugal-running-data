@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a73c0c214670
-DTSTAMP:20260805T230122Z
+UID:55245-0@www.portugalrunning.com
+DTSTAMP:20260822T060050Z
 DTSTART:20260913T132000Z
 DTEND:20260913T235900Z
-LOCATION:Courmayeur\,  Itália Courmayeur\,  Itália
-SUMMARY:Tor des Géants (TOR330) 2026 - Vale de Aosta
-DESCRIPTION:A lendária 17ª edição do Tor des Géants (TOR330) regressa 
- entre os dias 13 e 19 de setembro de 2026 à região do Vale d'Aosta\,  pro
- pondo uma travessia contínua de 330 km com 24.000 metros de desnível posi
- tivo sob piso alpino de terra\,  rocha solta e cristas de altitude. O[..]\n
- https://www.portugalrunning.com/eventos/tor-des-geants-tor/
+LOCATION:Courmayeur\,   Itália Courmayeur\,   Itália
+SUMMARY:Tor des Géants (TOR330) 2026 – Vale de Aosta
+DESCRIPTION:Sobre o Tor des Géants® (TOR330) 2026 (Alpes Italianos) O Tor
+  des Géants® (TOR330) realiza-se de 13 a 19 de setembro de 2026 com parti
+ da e chegada em Courmayeur\,  no Vale de Aosta (Itália). Uma das provas de
+  ultra trail mais míticas do mundo em etapa única e semi-autossuficiênci
+ a\,  percorre[..]\nhttps://www.portugalrunning.com/eventos/tor-des-geants-t
+ or/
 URL:https://www.portugalrunning.com/eventos/tor-des-geants-tor/
 END:VEVENT
 END:VCALENDAR

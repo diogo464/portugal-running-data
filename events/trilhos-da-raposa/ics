@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a75749142271
-DTSTAMP:20260807T060049Z
+UID:55279-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20261018
 DTEND:20261019
-LOCATION:Cercal do Alentejo\,  Setúbal Cercal do Alentejo\,  Setúbal
+LOCATION:Cercal do Alentejo\,   Setúbal Cercal do Alentejo\,   Setúbal
 SUMMARY:Trilhos da Raposa 2026
-DESCRIPTION:Os Trilhos da Raposa são organizados pela CTF — Associação
-  Crosstraining Cercal — Desporto e Aventura\,  com o apoio da Junta de Fr
- eguesia do Cercal do Alentejo e da Câmara Municipal de Santiago do Cacém.
-  A 4.ª edição realiza-se no dia 18 de outubro de 2026\,  no Cercal do Al
- entejo.O[..]\nhttps://www.portugalrunning.com/eventos/trilhos-da-raposa/
+DESCRIPTION:Sobre os Trilhos da Raposa 2026 (Cercal do Alentejo) A 4.ª edi
+ ção do Trail Trilhos da Raposa realiza-se no dia 18 de outubro de 2026 no
+  Cercal do Alentejo\,  concelho de Santiago do Cacém (Setúbal). Com parti
+ da no Largo dos Caeiros e gestão na Acorrer\,  percorre os sobreirais e se
+ rras[..]\nhttps://www.portugalrunning.com/eventos/trilhos-da-raposa/
 URL:https://www.portugalrunning.com/eventos/trilhos-da-raposa/
 END:VEVENT
 END:VCALENDAR

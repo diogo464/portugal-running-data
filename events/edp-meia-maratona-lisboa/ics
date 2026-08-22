@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50804-0@www.portugalrunning.com
-DTSTAMP:20260818T060025Z
+DTSTAMP:20260822T060048Z
 DTSTART:20270307
 DTEND:20270308
 LOCATION:Lisboa Lisboa
 SUMMARY:EDP Meia Maratona de Lisboa 2027
-DESCRIPTION:Sobre a EDP Meia Maratona de Lisboa 2027 A decorrer no dia 7 de
-  março de 2027\,  em Lisboa\,  a EDP Meia Maratona de Lisboa desafia os co
- rredores nas distâncias de 21 km e 10 km num traçado integralmente em asf
- alto. O trajeto arranca com a impressionante travessia sobre a[..]\nhttps:/
- /www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/
+DESCRIPTION:Sobre a EDP Meia Maratona de Lisboa 2027 A EDP Meia Maratona de
+  Lisboa realiza-se no domingo\,  7 de março de 2027 com a mítica partida 
+ sobre a Ponte 25 de Abril e meta na Praça do Império\,  junto ao Mosteiro
+  dos Jerónimos\,  em Lisboa. Organizada pelo Maratona Clube de[..]\nhttps:
+ //www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/
 URL:https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/
 END:VEVENT
 END:VCALENDAR

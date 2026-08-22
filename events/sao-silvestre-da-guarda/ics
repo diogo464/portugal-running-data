@@ -1,17 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b09761a268
-DTSTAMP:20260129T071710Z
+UID:48247-0@www.portugalrunning.com
+DTSTAMP:20260822T060053Z
 DTSTART:20261213T070900Z
 DTEND:20261213T235900Z
 LOCATION:Guarda Guarda
 SUMMARY:São Silvestre da Guarda 2026
-DESCRIPTION:Resultados 2025\nhttps://www.portugalrunning.com/eventos/sao-si
- lvestre-da-guarda/
+DESCRIPTION:Sobre a São Silvestre da Guarda 2026 A São Silvestre da Guard
+ a realiza-se no dia 13 de dezembro de 2026 com concentração na Avenida do
+ s Bombeiros Egitanienses\,  na mais alta cidade de Portugal. Organizada pel
+ o Município da Guarda com cronometragem na Meu Tempo\,  apresenta corrida 
+ principal de 10 km\,  prova[..]\nhttps://www.portugalrunning.com/eventos/sa
+ o-silvestre-da-guarda/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-guarda/
 END:VEVENT
 END:VCALENDAR

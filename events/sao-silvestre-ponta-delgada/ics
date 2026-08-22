@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1ed0e6f
-DTSTAMP:20260723T060102Z
+UID:54315-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20261212
 DTEND:20261213
-LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+LOCATION:Ponta Delgada\,   Açores Ponta Delgada\,   Açores
 SUMMARY:São Silvestre Ponta Delgada 2026
-DESCRIPTION:A Associação de Atletismo de S. Miguel vai realizar a 62ª Co
- rrida de São Silvestre da Cidade de Ponta Delgada\,  uma das mais míticas
-  provas de fim de ano realizadas em Portugal.\nhttps://www.portugalrunning.
- com/eventos/sao-silvestre-ponta-delgada/
+DESCRIPTION:Sobre a São Silvestre de Ponta Delgada 2026 (Açores) A 62.ª 
+ edição da São Silvestre da Cidade de Ponta Delgada realiza-se no dia 12 
+ de dezembro de 2026 junto às emblemáticas Portas da Cidade\,  em Ponta De
+ lgada (Ilha de São Miguel\,  Açores). Organizada pela Associação de Atl
+ etismo de São Miguel[..]\nhttps://www.portugalrunning.com/eventos/sao-silv
+ estre-ponta-delgada/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-ponta-delgada/
 END:VEVENT
 END:VCALENDAR

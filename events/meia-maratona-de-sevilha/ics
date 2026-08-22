@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d9760aa
-DTSTAMP:20260315T100721Z
+UID:49938-0@www.portugalrunning.com
+DTSTAMP:20260822T060044Z
 DTSTART:20261129
 DTEND:20261130
-LOCATION:Sevilha\,  Espanha Sevilha\,  Espanha
+LOCATION:Sevilha\,   Espanha Sevilha\,   Espanha
 SUMMARY:Meia Maratona de Sevilha 2026
-DESCRIPTION:Resultados Janeiro 2026 A Meia Maratona de Sevilha 2026 (Medio 
- Maratón de Sevilla) apresenta uma novidade histórica: a partir de 2026\, 
-  a prova deixa de se realizar em janeiro e passa para o final do ano\,  com
-  a próxima edição confirmada para 29 de novembro de 2026\,  em Sevilha\,
-   Espanha.[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-se
- vilha/
+DESCRIPTION:Sobre a Meia Maratona de Sevilha 2026 (Medio Maratón) A Meia M
+ aratona de Sevilha (Medio Maratón de Sevilla) realiza-se no dia 29 de nove
+ mbro de 2026 na Andaluzia\,  Espanha. Reconhecida mundialmente como uma das
+  provas de 21\, 097 km mais planas e rápidas da Europa\,  tem partida e ch
+ egada no emblemático[..]\nhttps://www.portugalrunning.com/eventos/meia-mar
+ atona-de-sevilha/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-de-sevilha/
 END:VEVENT
 END:VCALENDAR

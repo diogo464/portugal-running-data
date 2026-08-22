@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d1709e31
-DTSTAMP:20260530T060055Z
+UID:50335-0@www.portugalrunning.com
+DTSTAMP:20260822T060040Z
 DTSTART:20261115
 DTEND:20261116
 LOCATION:Lisboa Lisboa
 SUMMARY:Corrida Sporting 2026
-DESCRIPTION:A Corrida do Sporting regressa às ruas da capital a 15 de nove
- mbro de 2026\,  com partida e chegada junto ao Estádio José Alvalade. Est
- e evento de referência no calendário de corridas em Lisboa promove o desp
- orto em família\,  integrando as cores verde e branca na malha urbana da c
- idade.[..]\nhttps://www.portugalrunning.com/eventos/corrida-sporting/
+DESCRIPTION:Sobre a Corrida Sporting 2026 (Estádio José Alvalade) A Corri
+ da Sporting realiza-se no dia 15 de novembro de 2026 na cidade de Lisboa. O
+ rganizada pela Fundação Sporting\,  conta com partida na Praça Promenade
+  e chegada mítica no relvado do Estádio José Alvalade\,  passando pelo P
+ avilhão João Rocha. Calcula os teus[..]\nhttps://www.portugalrunning.com/
+ eventos/corrida-sporting/
 URL:https://www.portugalrunning.com/eventos/corrida-sporting/
 END:VEVENT
 END:VCALENDAR

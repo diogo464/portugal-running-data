@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a739e360c217
-DTSTAMP:20260805T203358Z
+UID:49999-0@www.portugalrunning.com
+DTSTAMP:20260822T060036Z
 DTSTART:20260913
 DTEND:20260914
-LOCATION:Algés\,  Oeiras Algés\,  Oeiras
+LOCATION:Algés\,   Oeiras Algés\,   Oeiras
 SUMMARY:Corrida do Tejo 2026
-DESCRIPTION:Agendada para 13 de setembro de 2026\,  a histórica Corrida do
-  Tejo convida os participantes a enfrentar um percurso linear de 10 km entr
- e Algés e Oeiras\,  com toda a extensão desenhada sobre o asfalto da embl
- emática Avenida Marginal. Esta clássica prova de estrada exige uma gestã
- o rigorosa do ritmo[..]\nhttps://www.portugalrunning.com/eventos/corrida-do
- -tejo/
+DESCRIPTION:Sobre a 45.ª Corrida do Tejo 2026 (Algés ➔ Oeiras) A 45.ª 
+ edição da Corrida do Tejo realiza-se no domingo\,  13 de setembro de 2026
+  com partida junto à Estação CP de Algés e chegada na Praia da Torre\, 
+  em Oeiras (Lisboa). Organizada pela Câmara Municipal de Oeiras com apoio[
+ ..]\nhttps://www.portugalrunning.com/eventos/corrida-do-tejo/
 URL:https://www.portugalrunning.com/eventos/corrida-do-tejo/
 END:VEVENT
 END:VCALENDAR

@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f5930fb5cb1
-DTSTAMP:20260502T060047Z
+UID:50950-0@www.portugalrunning.com
+DTSTAMP:20260822T060052Z
 DTSTART:20270307
 DTEND:20270308
 LOCATION:Lisboa Lisboa
 SUMMARY:Vodafone 10k 2027
-DESCRIPTION:Data: 07 de março de 2027 Local: Lisboa (Partida na Ponte 25 d
- e Abril) Distância: 10 km Piso: Estrada (Asfalto) 📝 O Desafio A experi�
- �ncia da Vodafone 10k é marcada pela icónica travessia da Ponte 25 de Abr
- il\,  onde a gestão de ritmo é colocada à prova pela exposição direta[
- ..]\nhttps://www.portugalrunning.com/eventos/vodafone-10k/
+DESCRIPTION:Sobre a Vodafone 10K 2027 (Lisboa) A Vodafone 10K realiza-se em
+  simultâneo com a Meia Maratona de Lisboa no domingo\,  7 de março de 202
+ 7. Organizada pelo Maratona Clube de Portugal\,  permite vivenciar a mític
+ a travessia a pé da Ponte 25 de Abril numa distância acessível de 10 km 
+ com[..]\nhttps://www.portugalrunning.com/eventos/vodafone-10k/
 URL:https://www.portugalrunning.com/eventos/vodafone-10k/
 END:VEVENT
 END:VCALENDAR

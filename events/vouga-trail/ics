@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff9b5f880
-DTSTAMP:20260724T060059Z
+UID:44190-0@www.portugalrunning.com
+DTSTAMP:20260822T060051Z
 DTSTART:20270108
 DTEND:20270109
-LOCATION:Sever do Vouga\,  Aveiro Sever do Vouga\,  Aveiro
+LOCATION:Sever do Vouga\,   Aveiro Sever do Vouga\,   Aveiro
 SUMMARY:Vouga Trail 2027
-DESCRIPTION:Serão nos dias 8\,  9 e 10 de janeiro de 2027\,  que a Associa
- ção AZtrail\,  em parceria com o Município de Sever do Vouga\,  organiza
- rá a oitava edição do Vouga Trail\,  dividida nos eventos Vouga Trail Ul
- tra\,  Vouga Trail Longo\,  Vouga Trail Curto\,  Vouga Trail Mini\,  UPHILL
-  Vouga\,  Caminhada Vouga[..]\nhttps://www.portugalrunning.com/eventos/voug
- a-trail/
+DESCRIPTION:Sobre o Vouga Trail 2027 (Sever do Vouga / Aveiro) A 8.ª ediç
+ ão do Vouga Trail realiza-se de 8 a 10 de janeiro de 2027 no Pavilhão Gim
+ nodesportivo de Sever do Vouga (Aveiro). Organizado pela Associação AZtra
+ il e Município\,  contempla Vouga Trail Ultra de 55 km\,  Longo de 38 km\,
+  [..]\nhttps://www.portugalrunning.com/eventos/vouga-trail/
 URL:https://www.portugalrunning.com/eventos/vouga-trail/
 END:VEVENT
 END:VCALENDAR

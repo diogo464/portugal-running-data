@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7eaefa19f48
-DTSTAMP:20260814T060026Z
+UID:59207-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20270110
 DTEND:20270111
-LOCATION:Fátima\,  Santarém Fátima\,  Santarém
-SUMMARY:Corrida dos Reis - Benção do Atleta 2027
-DESCRIPTION:A 8ª Corrida dos Reis - Bênção do Atleta decorre nas artér
- ias de Fátima no dia 10 de janeiro de 2027\,  apresentando um rápido tra�
- �ado de 10 km em asfalto. O relevo essencialmente plano e o piso urbano só
- lido garantem uma excelente tração\,  permitindo rolar em velocidade cont
- ínua pelas retas[..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-
- reis-bencao-do-atleta/
+LOCATION:Fátima\,   Santarém Fátima\,   Santarém
+SUMMARY:Corrida dos Reis – Benção do Atleta 2027
+DESCRIPTION:Sobre a Corrida dos Reis – Bênção do Atleta 2027 (Fátima 
+ / Santarém) A 8.ª edição da Corrida dos Reis – Bênção do Atleta re
+ aliza-se no domingo\,  10 de janeiro de 2027 na Av. D. José Alves Correia 
+ da Silva\,  em Fátima (Santarém). Organizada com cronometragem na Recorde
+  Pessoal\,  inclui[..]\nhttps://www.portugalrunning.com/eventos/corrida-dos
+ -reis-bencao-do-atleta/
 URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-bencao-do-atleta/
 END:VEVENT
 END:VCALENDAR

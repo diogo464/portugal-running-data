@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a21148cf3a43
-DTSTAMP:20260604T060044Z
+UID:51569-0@www.portugalrunning.com
+DTSTAMP:20260822T060052Z
 DTSTART:20270131
 DTEND:20270201
-LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+LOCATION:Funchal\,   Madeira Funchal\,   Madeira
 SUMMARY:Maratona do Funchal 2027
-DESCRIPTION:A Maratona do Funchal é organizada pela Associação de Atleti
- smo da Região Autónoma da Madeira com o apoio de instituições públicas
-  e privadas.Neste evento\,  a organização oferece três distâncias aos p
- articipantes: a Maratona do Funchal com 42.195 metros; a Meia Maratona do F
- unchal com 21.097\, 5 metros; e a Mini Maratona[..]\nhttps://www.portugalru
- nning.com/eventos/maratona-do-funchal/
+DESCRIPTION:Sobre a Maratona do Funchal 2027 (Madeira) A Maratona do Funcha
+ l realiza-se no domingo\,  31 de janeiro de 2027 com partida na Rua do Gorg
+ ulho\,  no Funchal (Madeira). Organizada pela Associação de Atletismo da 
+ Região Autónoma da Madeira (AARAM)\,  integra Maratona de 42\, 195 km (4 
+ voltas na Estrada Monumental)\,  Meia[..]\nhttps://www.portugalrunning.com/
+ eventos/maratona-do-funchal/
 URL:https://www.portugalrunning.com/eventos/maratona-do-funchal/
 END:VEVENT
 END:VCALENDAR

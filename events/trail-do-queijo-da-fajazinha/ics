@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a04139159bdc
-DTSTAMP:20260513T060049Z
+UID:48471-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20261010T150200Z
 DTEND:20261010T235900Z
-LOCATION:Fajãzinha\,  Ilha das Flores Fajãzinha\,  Ilha das Flores
+LOCATION:Fajãzinha\,   Ilha das Flores Fajãzinha\,   Ilha das Flores
 SUMMARY:Trail do Queijo da Fajãzinha 2026
-DESCRIPTION:O Trail do Queijo da Fajãzinha é uma prova de trail running c
- om uma organização conjunta entre a Queijaria do Pico Redondo\,  o Atlét
- ico Clube Fajã Grande\,  e a Junta de Freguesia da Fajãzinha. Esta prova 
- decorrerá no dia 10 de outubro de 2026\,  com partida e chegada marcadas p
- ara[..]\nhttps://www.portugalrunning.com/eventos/trail-do-queijo-da-fajazin
- ha/
+DESCRIPTION:Sobre o Trail do Queijo da Fajãzinha 2026 (Ilha das Flores) A 
+ 5.ª edição do Trail do Queijo da Fajãzinha realiza-se no dia 10 de outu
+ bro de 2026 na mística Freguesia da Fajãzinha\,  Ilha das Flores (Açores
+ ). Com cronometragem na Acorrer\,  apresenta maratona TQF 42 km (+1450m D+ 
+ com partida[..]\nhttps://www.portugalrunning.com/eventos/trail-do-queijo-da
+ -fajazinha/
 URL:https://www.portugalrunning.com/eventos/trail-do-queijo-da-fajazinha/
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a34db1f95c40
-DTSTAMP:20260619T060103Z
+UID:51700-0@www.portugalrunning.com
+DTSTAMP:20260822T060052Z
 DTSTART:20261227
 DTEND:20261228
-LOCATION:Lagoa\,  Ilha de São Miguel Lagoa\,  Ilha de São Miguel
+LOCATION:Lagoa\,   Ilha de São Miguel Lagoa\,   Ilha de São Miguel
 SUMMARY:São Silvestre de Lagoa | Crédito Agrícola Açores 2026
-DESCRIPTION:O CDOL - Clube Desportivo Operário de Lagoa com a colaboraçã
- o da Câmara Municipal de Lagoa e o Patrocínio da Caixa Crédito Agrícola
-  Mútuo dos Açores\,  irá organizar a 9ª São Silvestre Cidade de Lagoa\
- ,  evento destinado à população em geral\,  com a finalidade de estimula
- r a prática desportiva como[..]\nhttps://www.portugalrunning.com/eventos/s
- ao-silvestre-de-lagoa-credito-agricola-acores/
+DESCRIPTION:Sobre a São Silvestre de Lagoa | Crédito Agrícola Açores 20
+ 26 A 9.ª edição da São Silvestre de Lagoa realiza-se no dia 27 de dezem
+ bro de 2026 no concelho de Lagoa\,  Ilha de São Miguel (Açores). Organiza
+ da pelo Clube Desportivo Operário de Lagoa (CDOL) com suporte da Lap2Go\, 
+  inclui corrida[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-
+ de-lagoa-credito-agricola-acores/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-lagoa-credito-agricola-acores/
 END:VEVENT
 END:VCALENDAR

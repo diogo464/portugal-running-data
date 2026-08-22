@@ -1,22 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a4f392644963
-DTSTAMP:20260709T060110Z
+UID:53200-0@www.portugalrunning.com
+DTSTAMP:20260822T060036Z
 DTSTART:20260920
 DTEND:20260921
 LOCATION:Coimbra Coimbra
-SUMMARY:Corrida entre Parques Coimbra 2026
-DESCRIPTION:A&nbsp;Corrida Entre Parques Coimbra&nbsp;regressa no dia&nbsp;
- 20 de setembro de 2026&nbsp;para proporcionar uma experiência única onde 
- o desporto\,  a cultura\,  a história e a natureza se encontram num percur
- so verdadeiramente inesquecível. Numa organização da&nbsp;ADR4 Estaçõe
- s\,  com o apoio da Câmara Municipal de Coimbra e da União das Freguesias
-  de Coimbra tendo[..]\nhttps://www.portugalrunning.com/eventos/corrida-entr
- e-parques-coimbra/
+SUMMARY:Corrida Entre Parques Coimbra 2026
+DESCRIPTION:Sobre a Corrida Entre Parques Coimbra 2026 A Corrida Entre Parq
+ ues Coimbra realiza-se no domingo\,  20 de setembro de 2026 às 10h30 na ci
+ dade de Coimbra. Organizada pela Associação Desportiva 4 Estações com a
+ poio da Câmara de Coimbra\,  junta corrida e caminhada de 6 km pelos parqu
+ es emblemáticos da cidade\, [..]\nhttps://www.portugalrunning.com/eventos/
+ corrida-entre-parques-coimbra/
 URL:https://www.portugalrunning.com/eventos/corrida-entre-parques-coimbra/
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a78178e6d87e
-DTSTAMP:20260809T060046Z
+UID:57903-0@www.portugalrunning.com
+DTSTAMP:20260822T060036Z
 DTSTART:20261122T135200Z
-DTEND:20261122T135200Z
-LOCATION:Málaga\,  Espanha Málaga\,  Espanha
+DTEND:20261122T235900Z
+LOCATION:Málaga\,   Espanha Málaga\,   Espanha
 SUMMARY:Maratona de San Sebastián 2026
-DESCRIPTION:A Maratona de San Sebastián de 2026\,  agendada para 22 de nov
- embro\,  convida os participantes a percorrer os emblemáticos 42\, 195 km 
- pelas amplas avenidas e vias pavimentadas da lindíssima costa de Guipúzco
- a. Totalmente ao nível do mar e apresentando um traçado urbano muito line
- ar\,  o piso em asfalto oferece uma[..]\nhttps://www.portugalrunning.com/ev
- entos/maratona-de-san-sebastian/
+DESCRIPTION:Sobre a Maratona de San Sebastián 2026 (42K Donostia) A Zurich
+  Maratona de San Sebastián 2026 celebra a sua 47ª edição no dia 22 de n
+ ovembro de 2026 na emblemática cidade de Donostia-San Sebastián\,  no Pa�
+ �s Basco. Reconhecida internacionalmente pelo seu percurso 100% plano ao n�
+ �vel do mar\,  a prova[..]\nhttps://www.portugalrunning.com/eventos/maraton
+ a-de-san-sebastian/
 URL:https://www.portugalrunning.com/eventos/maratona-de-san-sebastian/
 END:VEVENT
 END:VCALENDAR

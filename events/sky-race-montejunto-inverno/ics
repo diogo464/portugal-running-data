@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff99e7b71
-DTSTAMP:20260724T060057Z
+UID:54919-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20261122
 DTEND:20261123
-LOCATION:Montejunto\,  Cadaval Montejunto\,  Cadaval
+LOCATION:Montejunto\,   Cadaval Montejunto\,   Cadaval
 SUMMARY:Sky Race Montejunto 2026- Inverno
-DESCRIPTION:O   TURRES TRAIL CLUBE   sob a tutela da FCMP e com o apo
- io da Área Protegida da Serra da Montejunto e  a Câmara Municipal do C
- adaval  \,  vai levar a efeito a SKY RACE MONTEJUNTO ( versão de Inver
- no )  prova Campeonato Nacional Sky Race 2026 no dia 22 de Novembro de 
- 2026    . O percurso é circular\,  o local de[..]\nhttps://www.portuga
- lrunning.com/eventos/sky-race-montejunto-inverno/
+DESCRIPTION:Sobre a Sky Race Montejunto 2026 (Inverno) A Sky Race Montejunt
+ o (Inverno) realiza-se a 22 de novembro de 2026 na crista da Serra de Monte
+ junto\,  concelho do Cadaval. Conhecida por ser uma das provas mais técnic
+ as e íngremes da Região Oeste\,  desafia os atletas em cristas rochosas e
+  vertentes expostas[..]\nhttps://www.portugalrunning.com/eventos/sky-race-m
+ ontejunto-inverno/
 URL:https://www.portugalrunning.com/eventos/sky-race-montejunto-inverno/
 END:VEVENT
 END:VCALENDAR

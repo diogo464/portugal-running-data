@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69d519f4444c5
-DTSTAMP:20260407T145132Z
+UID:50434-0@www.portugalrunning.com
+DTSTAMP:20260822T060050Z
 DTSTART:20261004
 DTEND:20261005
-LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+LOCATION:Belém\,   Lisboa Belém\,   Lisboa
 SUMMARY:Corrida Clube Millennium BCP 2026
-DESCRIPTION:⚡ Snapshot Data: 04/10/2026 Local: Zona Ribeirinha de Belém\
- ,  Lisboa (Passeio Carlos do Carmo) Distância: 10 km (Corrida)\,  5 km (Ca
- minhada) e Kids Race Piso: Asfalto e Calçada Portuguesa 📝 O Desafio O p
- ercurso desenrola-se ao longo da frente ribeirinha de Belém\,  onde a prin
- cipal característica do terreno é a[..]\nhttps://www.portugalrunning.com/
- eventos/corrida-clube-millennium-bcp/
+DESCRIPTION:Sobre a Corrida Clube Millennium BCP 2026 (Belém) A VIII Corri
+ da Clube Millennium BCP realiza-se no dia 4 de outubro de 2026 no Passeio C
+ arlos do Carmo\,  em Belém\,  Lisboa. Organizada pela Xistarca e apadrinha
+ da por Carlos Lopes\,  inclui corrida plana de 10 km\,  mini-corrida de 5 k
+ m e Kids[..]\nhttps://www.portugalrunning.com/eventos/corrida-clube-millenn
+ ium-bcp/
 URL:https://www.portugalrunning.com/eventos/corrida-clube-millennium-bcp/
 END:VEVENT
 END:VCALENDAR

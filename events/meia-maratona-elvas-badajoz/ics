@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a78178a7f4f2
-DTSTAMP:20260809T060042Z
+UID:58177-0@www.portugalrunning.com
+DTSTAMP:20260822T060050Z
 DTSTART:20261115T082800Z
 DTEND:20261115T235900Z
-LOCATION:Elvas\,  Portalegre Elvas\,  Portalegre
+LOCATION:Elvas\,   Portalegre Elvas\,   Portalegre
 SUMMARY:Meia Maratona Elvas Badajoz 2026
-DESCRIPTION:Com partida a 15 de novembro na histórica cidade de Elvas e ch
- egada a Badajoz\,  a Meia Maratona Elvas Badajoz leva os participantes a pe
- rcorrer os emblemáticos 21\, 1 km em estrada\,  unindo assim Portugal a Es
- panha num único percurso. O traçado transfronteiriço desenrola-se em pis
- o de asfalto\,  o que garante[..]\nhttps://www.portugalrunning.com/eventos/
- meia-maratona-elvas-badajoz/
+DESCRIPTION:Sobre a Meia Maratona Elvas Badajoz 2026 A Meia Maratona Intern
+ acional Elvas-Badajoz realiza-se no dia 8 de novembro de 2026 como uma das 
+ mais emblemáticas corridas transfronteiriças da Península Ibérica. Na e
+ dição deste ano\,  o percurso inverta o sentido tradicional\,  partindo d
+ a cidade alentejana de Elvas e terminando no coração[..]\nhttps://www.por
+ tugalrunning.com/eventos/meia-maratona-elvas-badajoz/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-elvas-badajoz/
 END:VEVENT
 END:VCALENDAR

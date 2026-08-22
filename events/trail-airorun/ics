@@ -1,19 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e75fe0aae
-DTSTAMP:20260501T174815Z
+UID:50830-0@www.portugalrunning.com
+DTSTAMP:20260822T060044Z
 DTSTART:20260920
 DTEND:20260921
-LOCATION:Airó\,  Barcelos Airó\,  Barcelos
+LOCATION:Airó\,   Barcelos Airó\,   Barcelos
 SUMMARY:Trail Airórun 2026
-DESCRIPTION:O VI Trail AiróRun é promovido e organizado pela equipa Airó
- Run e realiza-se no dia 20 de setembro de 2026 às 9h00. Trail Longo - 22 K
- m Trail Curto - 14 Km Caminhada - 10 Km (aprox.)\nhttps://www.portugalrunni
- ng.com/eventos/trail-airorun/
+DESCRIPTION:Sobre o VI Trail AiróRun 2026 (Airó / Barcelos) O VI Trail Ai
+ róRun realiza-se no domingo\,  20 de setembro de 2026 no Campo de Futebol 
+ Leões da Serra em Airó\,  concelho de Barcelos (Braga). Organizado com ap
+ oio técnico da Cyclones Sports\,  contempla Trail Longo de 22 km\,  Trail 
+ Curto de[..]\nhttps://www.portugalrunning.com/eventos/trail-airorun/
 URL:https://www.portugalrunning.com/eventos/trail-airorun/
 END:VEVENT
 END:VCALENDAR

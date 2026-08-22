@@ -1,20 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c8294b3f
-DTSTAMP:20250720T222402Z
+UID:42755-0@www.portugalrunning.com
+DTSTAMP:20260822T060044Z
 DTSTART:20251012
 DTEND:20251013
 LOCATION:Coimbra Coimbra
 SUMMARY:Eco Meia Maratona de Coimbra 2025
-DESCRIPTION:Dia 12 de Outubro vamos invadir os Campos do Mondego\,  𝘼�
- �𝙚𝙞𝙩𝙖 𝙤 𝙙𝙚𝙨𝙖𝙛𝙞𝙤\,  para uma Meia Marato
- na fora de estrada\,  diferente\,  cheia de magia em plena natureza. 21km 1
- 0km correr /caminhar\nhttps://www.portugalrunning.com/eventos/eco-meia-mara
- tona-de-coimbra-2025/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; Dia 12 de Outubro vamos invadir os Campos do Mondego\,  �
+ ��𝙘𝙚𝙞𝙩𝙖 𝙤 𝙙𝙚𝙨𝙖𝙛𝙞𝙤\,  para uma Meia M
+ aratona fora de estrada\,  diferente\,  cheia de magia em plena natureza. 2
+ 1km 10km[..]\nhttps://www.portugalrunning.com/eventos/eco-meia-maratona-de-
+ coimbra-2025/
 URL:https://www.portugalrunning.com/eventos/eco-meia-maratona-de-coimbra-2025/
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a79690449d09
-DTSTAMP:20260810T060036Z
+UID:58248-0@www.portugalrunning.com
+DTSTAMP:20260822T060044Z
 DTSTART:20260927T143100Z
 DTEND:20260927T143100Z
-LOCATION:Viana do Alentejo\,  Évora Viana do Alentejo\,  Évora
+LOCATION:Viana do Alentejo\,   Évora Viana do Alentejo\,   Évora
 SUMMARY:Grande Prémio de Atletismo Feira D'Aires 2026
-DESCRIPTION:O 23º Grande Prémio de Atletismo Feira D'Aires - Memorial Lui
- s Filipe Branco realiza-se a 27 de setembro de 2026 em Viana do Alentejo\, 
-  oferecendo uma distância principal de 10 km sobre piso integralmente de a
- sfalto. Esta prova desafia os participantes a gerir o esforço sob a forte 
- exposição solar[..]\nhttps://www.portugalrunning.com/eventos/grande-premi
- o-de-atletismo-feira-daires/
+DESCRIPTION:Sobre o 23.º Grande Prémio Feira D'Aires 2026 (Viana do Alent
+ ejo / Évora) O 23.º Grande Prémio de Atletismo Feira D'Aires – Memoria
+ l Luís Filipe Branco realiza-se no domingo\,  27 de setembro de 2026 no Sa
+ ntuário de Nossa Senhora D'Aires\,  em Viana do Alentejo (Évora). Organiz
+ ado pelo Município de Viana[..]\nhttps://www.portugalrunning.com/eventos/g
+ rande-premio-de-atletismo-feira-daires/
 URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-feira-daires/
 END:VEVENT
 END:VCALENDAR

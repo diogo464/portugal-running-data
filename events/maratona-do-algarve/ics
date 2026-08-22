@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a757491ec843
-DTSTAMP:20260807T060049Z
+UID:51762-0@www.portugalrunning.com
+DTSTAMP:20260822T060051Z
 DTSTART:20261206T153900Z
 DTEND:20261206T235900Z
-LOCATION:Loulé\,  Faro Loulé\,  Faro
+LOCATION:Loulé\,   Faro Loulé\,   Faro
 SUMMARY:Maratona do Algarve 2026
-DESCRIPTION:Agendada para o dia 6 de dezembro de 2026 com partida e chegada
-  na Marina de Vilamoura\,  em Loulé\,  a Maratona do Algarve desafia os pa
- rticipantes com percursos de 42 km\,  21 km\,  10 km e 5 km. Disputado pred
- ominantemente sobre um piso de asfalto contínuo ao longo da orla[..]\nhttp
- s://www.portugalrunning.com/eventos/maratona-do-algarve/
+DESCRIPTION:Sobre a Maratona do Algarve 2026 (Vilamoura / Loulé) A 1.ª ed
+ ição da Maratona do Algarve realiza-se no domingo\,  6 de dezembro de 202
+ 6 com partida e chegada na Marina de Vilamoura\,  concelho de Loulé (Faro 
+ / Algarve). Com circuito ultra-rápido plano ao nível do mar\,  conta com 
+ Maratona de[..]\nhttps://www.portugalrunning.com/eventos/maratona-do-algarv
+ e/
 URL:https://www.portugalrunning.com/eventos/maratona-do-algarve/
 END:VEVENT
 END:VCALENDAR

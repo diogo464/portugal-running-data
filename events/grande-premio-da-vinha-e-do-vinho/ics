@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a76c602bc024
-DTSTAMP:20260808T060034Z
+UID:57492-0@www.portugalrunning.com
+DTSTAMP:20260822T060040Z
 DTSTART:20261115T092400Z
 DTEND:20261115T092400Z
-LOCATION:Borba\,  Évora Borba\,  Évora
+LOCATION:Borba\,   Évora Borba\,   Évora
 SUMMARY:Grande Prémio da Vinha e do Vinho 2026
-DESCRIPTION:O 1º Grande Prémio da Vinha e do Vinho desenrola-se no dia 15
-  de novembro de 2026 pelas ruas de Borba\,  no distrito de Évora\,  oferec
- endo um desafio dinâmico no coração do Alentejo. A prova decorre num cir
- cuito urbano com troços planos intercalados por constantes variações de 
- inclinação e viragens[..]\nhttps://www.portugalrunning.com/eventos/grande
- -premio-da-vinha-e-do-vinho/
+DESCRIPTION:Sobre o Grande Prémio da Vinha e do Vinho 2026 O Grande Prémi
+ o da Vinha e do Vinho 2026 realiza-se no dia 15 de novembro de 2026 na hist
+ órica vila de Borba\,  no distrito de Évora. Integrado nas festividades l
+ ocais do vinho alentejano\,  o evento inclui uma prova principal de[..]\nht
+ tps://www.portugalrunning.com/eventos/grande-premio-da-vinha-e-do-vinho/
 URL:https://www.portugalrunning.com/eventos/grande-premio-da-vinha-e-do-vinho/
 END:VEVENT
 END:VCALENDAR

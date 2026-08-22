@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a796906b8cda
-DTSTAMP:20260810T060038Z
+UID:47341-0@www.portugalrunning.com
+DTSTAMP:20260822T060045Z
 DTSTART:20261206
 DTEND:20261207
-LOCATION:Valência\,  Espanha Valência\,  Espanha
+LOCATION:Valência\,   Espanha Valência\,   Espanha
 SUMMARY:Maratona de Valência 2026
-DESCRIPTION:A Maratona de Valência de 2026\,  com data marcada para 6 de d
- ezembro\,  convida os atletas a percorrer a emblemática distância de 42\,
-  195 km pelas largas avenidas de asfalto da icónica cidade costeira espanh
- ola. Este percurso urbano é mundialmente reconhecido pela ausência de inc
- linações severas\,  oferecendo um relevo plano e[..]\nhttps://www.portuga
- lrunning.com/eventos/maratona-de-valencia/
+DESCRIPTION:Sobre a Maratona de Valência 2026 (Espanha) A Valencia Trinida
+ d Alfonso Zurich Marathon realiza-se no domingo\,  6 de dezembro de 2026 na
+  emblemática Cidade das Artes e das Ciências\,  em Valência (Espanha). F
+ amosa internacionalmente por ser um dos circuitos de 42\, 195 km mais plano
+ s e velozes do mundo\,  é o[..]\nhttps://www.portugalrunning.com/eventos/m
+ aratona-de-valencia/
 URL:https://www.portugalrunning.com/eventos/maratona-de-valencia/
 END:VEVENT
 END:VCALENDAR

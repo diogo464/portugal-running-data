@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:60837-0@www.portugalrunning.com
-DTSTAMP:20260821T060029Z
+DTSTAMP:20260822T060048Z
 DTSTART:20270530
 DTEND:20270531
 LOCATION:Peso da Régua\,   Vila Real Peso da Régua\,   Vila Real
 SUMMARY:Meia Maratona Douro Vinhateiro (Régua) 2027
-DESCRIPTION:Sobre a Meia Maratona do Douro Vinhateiro 2027 A Meia Maratona 
- do Douro Vinhateiro\,  frequentemente apelidada de "A Mais Bela Corrida do 
- Mundo"\,  leva os atletas a percorrer as margens do rio Douro num cenário 
- deslumbrante classificado como Património Mundial da UNESCO. Com um traça
- do desenhado em alcatrão\,  cruza na[..]\nhttps://www.portugalrunning.com/
- eventos/meia-maratona-douro-vinhateiro/
+DESCRIPTION:Sobre a Meia Maratona do Douro Vinhateiro 2027 (Peso da Régua)
+  Conhecida como "A Mais Bela Corrida do Mundo"\,  a Meia Maratona do Douro 
+ Vinhateiro realiza-se no domingo\,  30 de maio de 2027 no Peso da Régua (V
+ ila Real). Integrada na paisagem vinhateira do Alto Douro Património Mundi
+ al da UNESCO\, [..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-
+ douro-vinhateiro/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-douro-vinhateiro/
 END:VEVENT
 END:VCALENDAR

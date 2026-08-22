@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a3cc40b63959
-DTSTAMP:20260625T060043Z
+UID:51836-0@www.portugalrunning.com
+DTSTAMP:20260822T060044Z
 DTSTART:20261212
 DTEND:20261213
-LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+LOCATION:Almeirim\,   Santarém Almeirim\,   Santarém
 SUMMARY:São Silvestre de Almeirim 2026
-DESCRIPTION:A Associação 20Kms de Almeirim\,  vai organizar a 4ª Ediçã
- o da São Silvestre de Almeirim\,  prova pedestre de 10 Km - FITNESS FACTOR
- Y Almeirim\,  com circuito certificado pela WORLD ATHLETICS\,  com tempos h
- omologados aos 5 e 10 km e uma Mini/Caminhada - FARMÁCIA MENDONÇA com cer
- ca de 5 Km.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-almei
- rim/
+DESCRIPTION:Sobre a São Silvestre de Almeirim 2026 (Santarém) A São Silv
+ estre de Almeirim realiza-se no dia 12 de dezembro de 2026 em Almeirim (San
+ tarém). Organizada pela Associação 20 Kms de Almeirim com cronometragem 
+ na Lap2Go\,  inclui corrida urbana de 10 km homologada pela World Athletics
+  e Mini/Caminhada de 5 km.[..]\nhttps://www.portugalrunning.com/eventos/sao
+ -silvestre-de-almeirim/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-almeirim/
 END:VEVENT
 END:VCALENDAR

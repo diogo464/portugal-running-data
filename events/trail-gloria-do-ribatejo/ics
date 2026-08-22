@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff1467e51b
-DTSTAMP:20260522T060142Z
+UID:51325-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20261101
 DTEND:20261102
-LOCATION:Salvaterra de Magos\,  Santarém Salvaterra de Magos\,  Santarém
+LOCATION:Salvaterra de Magos\,   Santarém Salvaterra de Magos\,   Santarém
 SUMMARY:Trail Glória do Ribatejo 2026
-DESCRIPTION:A XII edição do Trail Glória do Ribatejo – Desafia o trilh
- o irá realizar-se no dia 1 de Novembro de 2026. À semelhança da edição
-  anterior\,  a prova continuará a integrar e a ser uma das provas pontuáv
- eis para o “Circuito de Trail do Ribatejo – CTR” e para o[..]\nhttps:
- //www.portugalrunning.com/eventos/trail-gloria-do-ribatejo/
+DESCRIPTION:Sobre o Trail Glória do Ribatejo 2026 O Trail Glória do Ribat
+ ejo realiza-se no dia 1 de novembro de 2026 na vila de Glória do Ribatejo\
+ ,  concelho de Salvaterra de Magos. Integrado no Circuito de Trail do Ribat
+ ejo (CTR)\,  o evento percorre a charneca ribatejana\,  pinhais e montados 
+ de sobreiro.[..]\nhttps://www.portugalrunning.com/eventos/trail-gloria-do-r
+ ibatejo/
 URL:https://www.portugalrunning.com/eventos/trail-gloria-do-ribatejo/
 END:VEVENT
 END:VCALENDAR

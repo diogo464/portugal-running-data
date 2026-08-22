@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a75749088152
-DTSTAMP:20260807T060048Z
+UID:55125-0@www.portugalrunning.com
+DTSTAMP:20260822T060048Z
 DTSTART:20260912
 DTEND:20260913
-LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+LOCATION:São João Das Lampas\,   Lisboa São João Das Lampas\,   Lisboa
 SUMMARY:Meia Maratona São João das Lampas 2026
-DESCRIPTION:gendada para o dia 12 de setembro de 2026 em São João das Lam
- pas\,  no concelho de Sintra\,  esta prova desafia os participantes com um 
- circuito de 21 km\,  uma mini maratona de 10 km e uma caminhada de 5 km. O 
- traçado urbano e rural desenha-se sobre um piso[..]\nhttps://www.portugalr
- unning.com/eventos/meia-maratona-sao-joao-das-lampas/
+DESCRIPTION:Sobre a 48.ª Meia Maratona de São João das Lampas 2026 (Sint
+ ra) A 48.ª edição da Meia Maratona de São João das Lampas realiza-se n
+ o sábado\,  12 de setembro de 2026 às 17h00 com partida na Av. Central de
+  São João das Lampas\,  em Sintra (Lisboa). Segunda meia maratona mais[..
+ ]\nhttps://www.portugalrunning.com/eventos/meia-maratona-sao-joao-das-lampa
+ s/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-sao-joao-das-lampas/
 END:VEVENT
 END:VCALENDAR

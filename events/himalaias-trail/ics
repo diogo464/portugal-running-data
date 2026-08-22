@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69fad91f33368
-DTSTAMP:20260506T060103Z
+UID:50930-0@www.portugalrunning.com
+DTSTAMP:20260822T060052Z
 DTSTART:20260920T165600Z
 DTEND:20260920T235900Z
-LOCATION:Oleiros\,  Castelo Branco Oleiros\,  Castelo Branco
+LOCATION:Oleiros\,   Castelo Branco Oleiros\,   Castelo Branco
 SUMMARY:Himalaias Trail 2026
-DESCRIPTION:A prova percorre trilhos\,  caminhos florestais\,  levadas natu
- rais à beira da Ribeira da Isna\,  ribeira da Folga\,  ribeira do vale da 
- Cuba\,  ribeira de Oleiros e estradas rurais do concelho de Oleiros e trilh
- os técnicos de montanha acima dos 1000 metros de altitude. Esta prova cont
- a com três distâncias competitivas[..]\nhttps://www.portugalrunning.com/e
- ventos/himalaias-trail/
+DESCRIPTION:Sobre o Himalaias Trail 2026 (Oleiros) O Himalaias Trail Antón
+ io de Andrade realiza-se nos dias 19 e 20 de setembro de 2026 no concelho d
+ e Oleiros\,  distrito de Castelo Branco. Homenageando o Pe. António de And
+ rade (o primeiro europeu a cruzar os Himalaias)\,  percorre as cristas do C
+ abeço Rainha e[..]\nhttps://www.portugalrunning.com/eventos/himalaias-trai
+ l/
 URL:https://www.portugalrunning.com/eventos/himalaias-trail/
 END:VEVENT
 END:VCALENDAR

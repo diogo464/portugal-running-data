@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69488a91ba797
-DTSTAMP:20251222T000225Z
+UID:47356-0@www.portugalrunning.com
+DTSTAMP:20260822T060050Z
 DTSTART:20251227T023100Z
 DTEND:20251227T235900Z
-LOCATION:Avis\,  Portalegre Avis\,  Portalegre
+LOCATION:Avis\,   Portalegre Avis\,   Portalegre
 SUMMARY:São Silvestre de Avis 2025
-DESCRIPTION:A 41ª Corrida de S. Silvestre de Avis é uma prova de atletism
- o (estrada) e realiza-se no dia 27 de dezembro de 2025 (sábado)\,  entre a
- s 14h50 e as 17h00. É organizada pela Associação Desportiva e Recreativa
-  “Amigos do Atletismo de Avis”\,  Município de Avis\,  Casa do Povo de
-  Ervedal[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-avis
- /
+DESCRIPTION:Sobre a São Silvestre de Avis 2026 (Portalegre) A tradicional 
+ São Silvestre de Avis realiza-se no dia 19 de dezembro de 2026 na vila his
+ tórica de Avis (Portalegre). Organizada com o apoio da Associação de Atl
+ etismo do Distrito de Portalegre (AADP)\,  inclui corrida urbana de 10 km\,
+   caminhada de 5[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre
+ -de-avis/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-avis/
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c1a0058c
-DTSTAMP:20250720T222218Z
+UID:41506-0@www.portugalrunning.com
+DTSTAMP:20260822T060035Z
 DTSTART:20250712
 DTEND:20250713
-LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+LOCATION:Chaves\,   Vila Real Chaves\,   Vila Real
 SUMMARY:Aquae Flaviae Night Running 2025
-DESCRIPTION:A Aquae Flaviae Night Running é organizada pela ADAF-Associaç
- ão Desporto Aquae Flaviae. Corrida – 13 kmPercurso urbano constituído p
- or uma volta única de 13 km (aprox.)\,  sem desníveis consideráveis. Cam
- inhada – 8 kmPercurso urbano constituído por uma volta única de 8 km (a
- prox.)\,  sem desníveis consideráveis.\nhttps://www.portugalrunning.com/e
- ventos/aquae-flaviae-night-running-2025/
+DESCRIPTION:🏃‍♂️Esta edição já decorreu.Consulta os resultados 
+ desta prova abaixo ou acede a todos os detalhes da edição atual.Ver Ediç
+ ão Atual &rarr; A Aquae Flaviae Night Running é organizada pela ADAF-Asso
+ ciação Desporto Aquae Flaviae. Corrida – 13 kmPercurso urbano constitu�
+ �do por uma volta única de 13 km (aprox.)\,  sem desníveis consideráveis
+ .[..]\nhttps://www.portugalrunning.com/eventos/aquae-flaviae-night-running-
+ 2025/
 URL:https://www.portugalrunning.com/eventos/aquae-flaviae-night-running-2025/
 END:VEVENT
 END:VCALENDAR

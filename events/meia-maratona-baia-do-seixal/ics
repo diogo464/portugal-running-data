@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7574915665e
-DTSTAMP:20260807T060049Z
+UID:47231-0@www.portugalrunning.com
+DTSTAMP:20260822T060040Z
 DTSTART:20270321
 DTEND:20270322
 LOCATION:Seixal Seixal
 SUMMARY:Meia Maratona Baía do Seixal 2027
-DESCRIPTION:A Meia Maratona Baía do Seixal regressa no dia 21 de março de
-  2027 ao concelho do Seixal com o seu percurso rápido e maioritariamente p
- lano de 21\, 097 km\,  em piso 100% de asfalto. Desenhado ao longo das marg
- ens da baía\,  o trajeto desafia a gestão do ritmo nos troços[..]\nhttps
- ://www.portugalrunning.com/eventos/meia-maratona-baia-do-seixal/
+DESCRIPTION:Sobre a Meia Maratona Baía do Seixal 2027 A Meia Maratona Baí
+ a do Seixal realiza-se no domingo\,  21 de março de 2027 com partida e che
+ gada na Av. Silva Gomes (Amora)\,  no Seixal (Setúbal). Organizada pela We
+ Run e Município do Seixal\,  inclui Meia Maratona de 21\, 0975 km\,  prova
+  de 10[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-baia-do-s
+ eixal/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-baia-do-seixal/
 END:VEVENT
 END:VCALENDAR
