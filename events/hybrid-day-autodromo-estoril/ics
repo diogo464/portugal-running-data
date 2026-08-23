@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1cca0de
-DTSTAMP:20260723T060100Z
+UID:51692-0@www.portugalrunning.com
+DTSTAMP:20260823T060020Z
 DTSTART:20260822T083200Z
 DTEND:20260822T235900Z
-LOCATION:Autódromo do Estoril\,  Lisboa Autódromo do Estoril\,  Lisboa
+LOCATION:Autódromo do Estoril\,   Lisboa Autódromo do Estoril\,   Lisboa
 SUMMARY:HYBRID DAY Autódromo do Estoril 2026
-DESCRIPTION:O Hybrid Day® Autódromo do Estoril é uma competição de fit
- ness funcional e fitness racing (inspirada no formato Hyrox) que combina co
- rrida com estações de exercícios de força e resistência. A prova desta
- ca-se por decorrer no asfalto e nas instalações do icónico Autódromo Fe
- rnanda Pires da Silva Click to open[..]\nhttps://www.portugalrunning.com/ev
- entos/hybrid-day-autodromo-estoril/
+DESCRIPTION:Sobre o Hybrid Day® Autódromo do Estoril 2026 O Hybrid Day® 
+ Autódromo do Estoril é uma das provas mais marcantes do calendário de fi
+ tness racing em Portugal\,  combinando o desafio do fitness híbrido com o 
+ cenário mítico do Autódromo Fernanda Pires da Silva\,  em Cascais. O for
+ mato desafia os participantes[..]\nhttps://www.portugalrunning.com/eventos/
+ hybrid-day-autodromo-estoril/
 URL:https://www.portugalrunning.com/eventos/hybrid-day-autodromo-estoril/
 END:VEVENT
 END:VCALENDAR
