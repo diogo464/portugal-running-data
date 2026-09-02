@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
+import hashlib
 import os
 import sys
 import json
 import requests
+from html.parser import HTMLParser
 
 KEY = os.environ["OPENROUTER_KEY"]
 MODEL = "anthropic/claude-haiku-4.5"
+REQUEST_TIMEOUT_SECONDS = 30
 
 SYSTEM_PROMPT = """És um assistente especializado em condensar descrições de eventos de corrida em resumos de uma linha em português de Portugal. Deves extrair e resumir apenas a informação mais importante e relevante da descrição fornecida.
 
@@ -27,6 +30,32 @@ IMPORTANTE:
 - Foca-te no que torna este evento único ou interessante"""
 
 
+class VisibleTextParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.ignored_depth = 0
+        self.parts = []
+
+    def handle_starttag(self, tag: str, attrs) -> None:
+        if tag in {"script", "style"}:
+            self.ignored_depth += 1
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag in {"script", "style"} and self.ignored_depth > 0:
+            self.ignored_depth -= 1
+
+    def handle_data(self, data: str) -> None:
+        if self.ignored_depth == 0:
+            self.parts.append(data)
+
+
+def normalize_description(description: str) -> str:
+    parser = VisibleTextParser()
+    parser.feed(description)
+    parser.close()
+    return " ".join(" ".join(parser.parts).split())
+
+
 def prompt(key: str, model: str, system: str, user: str) -> str:
     response = requests.post(
         url="https://openrouter.ai/api/v1/chat/completions",
@@ -42,23 +71,41 @@ def prompt(key: str, model: str, system: str, user: str) -> str:
                 ],
             }
         ),
-    ).json()
-    print(response)
-    return response["choices"][0]["message"]["content"]
+        timeout=REQUEST_TIMEOUT_SECONDS,
+    )
+    response.raise_for_status()
+    data = response.json()
+    return data["choices"][0]["message"]["content"]
 
 
 for slug in sys.argv[1:]:
     data_path = os.path.join("events", slug, "data.json")
     if not os.path.exists(data_path):
         continue
-    data = json.load(open(data_path, "r"))
-    description = data["content"]["rendered"].strip()
-    if description == "":
-        continue
+    with open(data_path, "r") as f:
+        data = json.load(f)
+    description = normalize_description(data["content"]["rendered"])
     oneline_path = os.path.join("events", slug, "oneline-description")
-    if os.path.exists(oneline_path):
+    oneline_input_path = os.path.join("events", slug, "oneline-description-input")
+
+    if description == "":
+        for path in (oneline_path, oneline_input_path):
+            if os.path.exists(path):
+                os.remove(path)
         continue
+
+    description_input = hashlib.sha256(description.encode("utf-8")).hexdigest()
+    if os.path.exists(oneline_path):
+        if not os.path.exists(oneline_input_path):
+            with open(oneline_input_path, "w") as f:
+                f.write(description_input)
+            continue
+        if open(oneline_input_path).read().strip() == description_input:
+            continue
+
     oneline = prompt(KEY, MODEL, SYSTEM_PROMPT, description)
     with open(oneline_path, "w") as f:
         f.write(oneline)
+    with open(oneline_input_path, "w") as f:
+        f.write(description_input)
 

@@ -1,13 +1,24 @@
 #!/bin/bash
 
-# Get all changes in the events directory
-changes=$(git status --porcelain | grep events/)
+# Collect each changed event directory exactly once.
+declare -A changed_event_dirs
+while IFS= read -r -d '' entry; do
+    path="${entry:3}"
+    [[ "$path" == events/*/* ]] || continue
+    event="${path#events/}"
+    event="${event%%/*}"
+    changed_event_dirs["$event"]=1
+done < <(git status --porcelain=v1 -z --untracked-files=all -- events/)
 
-# Count added events (directories that are new)
-added_events=$(echo "$changes" | grep "^A" | sed 's|^A.*events/||' | cut -d'/' -f1 | sort -u | wc -l)
-
-# Count modified events (directories with modified files)
-changed_events=$(echo "$changes" | grep "^M" | sed 's|^M.*events/||' | cut -d'/' -f1 | sort -u | wc -l)
+added_events=0
+changed_events=0
+for event in "${!changed_event_dirs[@]}"; do
+    if git cat-file -e "HEAD:events/$event" 2>/dev/null; then
+        ((changed_events += 1))
+    else
+        ((added_events += 1))
+    fi
+done
 
 # Handle case where no changes
 if [[ $added_events -eq 0 && $changed_events -eq 0 ]]; then

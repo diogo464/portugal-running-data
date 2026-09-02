@@ -4,6 +4,8 @@ import sys
 import json
 import requests
 
+REQUEST_TIMEOUT_SECONDS = 30
+
 for slug in sys.argv[1:]:
     data_path = os.path.join("events", slug, "data.json")
     data = json.loads(open(data_path).read())
@@ -13,7 +15,7 @@ for slug in sys.argv[1:]:
         continue
     if image_url == "":
         continue
-    response = requests.get(image_url)
+    response = requests.get(image_url, timeout=REQUEST_TIMEOUT_SECONDS)
     response.raise_for_status()
     with open(image_path, "wb") as f:
         f.write(response.content)

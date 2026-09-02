@@ -2,13 +2,35 @@
 import os
 import sys
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+REQUEST_TIMEOUT_SECONDS = 30
+REQUEST_RETRIES = 2
+RETRYABLE_STATUS_CODES = (429, 500, 502, 503, 504)
+
+session = requests.Session()
+session.mount(
+    "https://",
+    HTTPAdapter(
+        max_retries=Retry(
+            total=REQUEST_RETRIES,
+            connect=REQUEST_RETRIES,
+            read=REQUEST_RETRIES,
+            status=REQUEST_RETRIES,
+            backoff_factor=1,
+            allowed_methods=("GET",),
+            status_forcelist=RETRYABLE_STATUS_CODES,
+        )
+    ),
+)
 
 for slug in sys.argv[1:]:
     url = f"https://www.portugalrunning.com/eventos/{slug}"
     page_path = os.path.join("events", slug, "page.html")
     if os.path.exists(page_path):
         continue
-    response = requests.get(url)
+    response = session.get(url, timeout=REQUEST_TIMEOUT_SECONDS)
     response.raise_for_status()
     with open(page_path, "w") as f:
         f.write(response.text)

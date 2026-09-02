@@ -9,9 +9,11 @@ repo with scraper for the portugal running calendar data
 | `data.json`                                                   | `fetch-data`                                                  | no                                                            | json file with some event data                                |
 | `ics`                                                         | `fetch-ics`                                                   | no                                                            | calendar file with location, date and other event information |
 | `location`                                                    | `fetch-location`                                              | yes                                                           | location data for the event                                   |
+| `location-input`                                              | `fetch-location`                                              | yes                                                           | hash of the normalized ICS location used by the location cache |
 | `image`                                                       | `fetch-image`                                                 | yes                                                           | cover image for the event                                     |
 | `date`                                                        | `extract-date`                                                | no                                                            | event date extracted from the ics file                        |
 | `oneline-description`                                         | `fetch-oneline-description`                                   | yes                                                           | ai generated one line description                             |
+| `oneline-description-input`                                  | `fetch-oneline-description`                                   | yes                                                           | hash of visible description text used by the summary cache    |
 | `categories`                                                  | `extract-categories`                                          | no                                                            | event categories                                              |
 | `circuits`                                                    | `extract-circuits`                                            | no                                                            | event circuits                                                |
 
@@ -38,3 +40,9 @@ this script extracts the organizer from the class list in the json data file, if
 
 ## `extract-categories`
 this script extracts a list of categories from the class list in the json data file.
+
+## expensive artifact caching
+
+when a sitemap `lastmod` changes, `setup-directories` invalidates source files and locally derived artifacts but preserves `location`, `oneline-description`, and their input hashes.
+
+`fetch-location` only calls Google Geocoding when the normalized ICS location changes. `fetch-oneline-description` ignores HTML, style, script, and whitespace-only changes and only calls OpenRouter when the visible description text changes. Existing cached outputs without an input hash are adopted on their first run.

@@ -1,12 +1,26 @@
 #!/usr/bin/env python3
 import re
 import os
-import shutil
 import xml.etree.ElementTree as ET
 
 from urllib.parse import unquote
 
 ignored_urls = ["https://www.portugalrunning.com/eventos/"]
+
+INVALIDATED_ARTIFACTS = (
+    "page.html",
+    "id",
+    "data.json",
+    "ics",
+    "image",
+    "date",
+    "categories",
+    "circuits",
+    "organizer",
+    "slug",
+    "title",
+    "event-url",
+)
 tree = ET.parse("sitemap.xml")
 root = tree.getroot()
 
@@ -33,15 +47,16 @@ for url_element in root.findall(".//{*}url"):
     slug = unquote(slug[1])
 
     event_dir = os.path.join("events", slug)
-    page_path = os.path.join(event_dir, "page.html")
     lastmod_path = os.path.join(event_dir, "lastmod")
 
     if os.path.exists(lastmod_path) and open(lastmod_path).read() == lastmod:
         continue
 
-    if os.path.exists(event_dir):
-        shutil.rmtree(event_dir)
     os.makedirs(event_dir, exist_ok=True)
+    for artifact in INVALIDATED_ARTIFACTS:
+        artifact_path = os.path.join(event_dir, artifact)
+        if os.path.exists(artifact_path):
+            os.remove(artifact_path)
     with open(lastmod_path, "w") as f:
         f.write(lastmod)
 

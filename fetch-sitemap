@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-curl https://www.portugalrunning.com/ajde_events-sitemap.xml -o sitemap.xml
+curl --fail --location --connect-timeout 10 --max-time 30 https://www.portugalrunning.com/ajde_events-sitemap.xml -o sitemap.xml

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import hashlib
 import os
 import re
 import sys
@@ -10,6 +11,7 @@ from dataclasses import dataclass, asdict
 from typing import Optional, Dict, Any
 
 ENV_GOOGLE_MAPS_API_KEY = "GOOGLE_MAPS_API_KEY"
+REQUEST_TIMEOUT_SECONDS = 30
 
 # Portugal district codes mapping (ISO 3166-2:PT)
 PORTUGAL_DISTRICT_CODES = {
@@ -180,14 +182,10 @@ class GoogleGeocodingClient:
 
         try:
             url = f"{self.base_url}?{urllib.parse.urlencode(params)}"
-            response = requests.get(url)
+            response = requests.get(url, timeout=REQUEST_TIMEOUT_SECONDS)
             response.raise_for_status()
-            content = response.content
-            print(f"GEOCODING|Google API content|{location}|{content}")
-            data = json.loads(content)
-            print(data)
+            data = response.json()
             result = data["results"][0]
-            # print(f"GEOCODING|Google API result|{location}|{result}")
             return self._parse_google_response(location, result)
         except Exception as e:
             print(f"GEOCODING|Error|{location}|{str(e)}")
@@ -229,21 +227,41 @@ client = GoogleGeocodingClient(key)
 for slug in sys.argv[1:]:
     ics_path = os.path.join("events", slug, "ics")
     location_path = os.path.join("events", slug, "location")
-    if os.path.exists(location_path):
-        continue
+    location_input_path = os.path.join("events", slug, "location-input")
     ics_content = open(ics_path, "rb").read().decode("utf-8", errors="ignore")
     ics_location_match = re.search(r"LOCATION:(.*)", ics_content)
     assert ics_location_match is not None
-    ics_location = ics_location_match[1]
-    ics_location = clean_ics_location(ics_location)
-    if ics_location == "":
-        continue
+    ics_location = clean_ics_location(ics_location_match[1])
     if ics_location in FIXUP_TABLE:
         ics_location = FIXUP_TABLE[ics_location]
+
+    if ics_location == "":
+        for path in (location_path, location_input_path):
+            if os.path.exists(path):
+                os.remove(path)
+        continue
+
+    location_input = hashlib.sha256(ics_location.encode("utf-8")).hexdigest()
+    if os.path.exists(location_path):
+        if not os.path.exists(location_input_path):
+            with open(location_input_path, "w") as f:
+                f.write(location_input)
+            continue
+        if open(location_input_path).read().strip() == location_input:
+            continue
+        with open(location_path, "r") as f:
+            existing_location = json.load(f)
+        if existing_location.get("name") == ics_location:
+            with open(location_input_path, "w") as f:
+                f.write(location_input)
+            continue
+
     location = client.geocode(ics_location)
     if location is None:
         print(f"failed to obtain location from {slug} '{ics_location}'")
         sys.exit(1)
     with open(location_path, "w") as f:
         json.dump(location.to_dict(), f)
+    with open(location_input_path, "w") as f:
+        f.write(location_input)
 
