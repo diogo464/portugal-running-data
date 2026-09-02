@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d967b599
-DTSTAMP:20250720T222838Z
+UID:39447-0@www.portugalrunning.com
+DTSTAMP:20260902T140208Z
 DTSTART:20250601
 DTEND:20250602
-LOCATION:Bárrio\,  Alcobaça Bárrio\,  Alcobaça
+LOCATION:Bárrio\,   Alcobaça Bárrio\,   Alcobaça
 SUMMARY:Trail Trilhos Romanos 2025
 DESCRIPTION:Trail Trilhos Romanos 2025\nhttps://www.portugalrunning.com/eve
  ntos/trail-trilhos-romanos-2025/

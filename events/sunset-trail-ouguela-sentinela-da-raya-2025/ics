@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d3462cbd
-DTSTAMP:20250720T222700Z
+UID:41451-0@www.portugalrunning.com
+DTSTAMP:20260902T140121Z
 DTSTART:20250628T140900Z
 DTEND:20250628T140900Z
-LOCATION:Campo Maior\,  Portalegre Campo Maior\,  Portalegre
+LOCATION:Campo Maior\,   Portalegre Campo Maior\,   Portalegre
 SUMMARY:Sunset Trail- Ouguela Sentinela da raya 2025
 DESCRIPTION:O Sunset “Ouguela\,  Sentinela da raya” 2025 integrado no c
  ircuito regional de Trail curto da AADP (Associação de Atletismo do Distr

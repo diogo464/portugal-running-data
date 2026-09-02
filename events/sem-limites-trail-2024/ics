@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d2bc3880
-DTSTAMP:20250720T222651Z
+UID:32138-0@www.portugalrunning.com
+DTSTAMP:20260902T140114Z
 DTSTART:20241020
 DTEND:20241021
-LOCATION:Amarante\,  Porto Amarante\,  Porto
+LOCATION:Amarante\,   Porto Amarante\,   Porto
 SUMMARY:Sem Limites Trail 2024
 DESCRIPTION:O “Sem Limites Trail” é organizado pela Associação Frid�
  �o Sem Limites\,  através da sua secção de Trail Running. O “Sem Limit

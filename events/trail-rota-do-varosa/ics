@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684e0264c9
-DTSTAMP:20260315T100728Z
+UID:47963-0@www.portugalrunning.com
+DTSTAMP:20260902T140159Z
 DTSTART:20260501
 DTEND:20260502
-LOCATION:Tarouca\,  Viseu Tarouca\,  Viseu
+LOCATION:Tarouca\,   Viseu Tarouca\,   Viseu
 SUMMARY:Trail Rota do Varosa 2026
 DESCRIPTION:O VI Trail Rota do Varosa convida atletas e participantes a viv
  er uma experiência única no coração do Vale do Varosa\,  num evento que

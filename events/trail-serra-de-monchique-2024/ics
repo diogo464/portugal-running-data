@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d8dc2c2e
-DTSTAMP:20250720T222829Z
+UID:37062-0@www.portugalrunning.com
+DTSTAMP:20260902T140206Z
 DTSTART:20250426
 DTEND:20250427
-LOCATION:Monchique\,  Faro Monchique\,  Faro
+LOCATION:Monchique\,   Faro Monchique\,   Faro
 SUMMARY:Trail Serra de Monchique 2025
 DESCRIPTION:O&nbsp;IV Trail Serra de Monchique&nbsp;é organizado pelo&nbsp
  ;Clube Desportivo e Cultural da Nave\, &nbsp;com apoio institucional da&nbs

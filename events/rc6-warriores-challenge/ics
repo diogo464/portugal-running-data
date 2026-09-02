@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a4c960ece721
-DTSTAMP:20260707T060046Z
-DTSTART:20260919T114400Z
+UID:50162-0@www.portugalrunning.com
+DTSTAMP:20260902T140101Z
+DTSTART:20260919T130000Z
 DTEND:20260919T235900Z
 LOCATION:Braga Braga
 SUMMARY:RC6 Warriores Challenge 2026
-DESCRIPTION:A prova consiste num percurso de aproximadamente 4KM com vário
- s obstáculos\,  distribuídos ao longo do trajeto. De forma a tornar a pro
- va mais competitiva\,  a mesma será cronometrada.\nhttps://www.portugalrun
- ning.com/eventos/rc6-warriores-challenge/
+DESCRIPTION:Sobre O RC6 Warriores Challenge 2026O RC6 Warriores Challenge 2
+ 026 realiza-se no dia 19 de Setembro de 2026 (Sábado)\,  entre as 14h00 e 
+ as 19h30\,  nas históricas instalações do Regimento de Cavalaria n.º 6 
+ (RC6)\,  em Braga.Concebido como um desafio emocionante de corrida de obst�
+ �culos (OCR)\,  o evento apresenta um[..]\nhttps://www.portugalrunning.com/
+ eventos/rc6-warriores-challenge/
 URL:https://www.portugalrunning.com/eventos/rc6-warriores-challenge/
 END:VEVENT
 END:VCALENDAR

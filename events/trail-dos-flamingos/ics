@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff9b4c367
-DTSTAMP:20260724T060059Z
+UID:54931-0@www.portugalrunning.com
+DTSTAMP:20260902T140153Z
 DTSTART:20260913
 DTEND:20260914
-LOCATION:Nadadouro\,  Caldas da Rainha Nadadouro\,  Caldas da Rainha
+LOCATION:Nadadouro\,   Caldas da Rainha Nadadouro\,   Caldas da Rainha
 SUMMARY:Trail dos Flamingos 2026
-DESCRIPTION:O Centro de Apoio Social do Nadadouro vai realizar um evento de
- nominado "TRAIL DOS FLAMINGOS”.Este evento irá decorrer no concelho de C
- aldas da Rainha e irá desenvolver-se maioritariamente em trilhos\,  caminh
- os e estradas de terra da Freguesia de Nadadouro e Freguesia de Santa Maria
- \,  São Pedro e Sobral da Lagoa.[..]\nhttps://www.portugalrunning.com/even
- tos/trail-dos-flamingos/
+DESCRIPTION:Sobre O Trail dos Flamingos 2026A 5ª Edição do Trail dos Fla
+ mingos 2026 realiza-se no dia 13 de Setembro de 2026 (Domingo)\,  na pitore
+ sca freguesia do Nadadouro (concelho de Caldas da Rainha\,  distrito de Lei
+ ria)\,  junto às margens da deslumbrante Lagoa de Óbidos.Com partida e ch
+ egada na sede do Centro[..]\nhttps://www.portugalrunning.com/eventos/trail-
+ dos-flamingos/
 URL:https://www.portugalrunning.com/eventos/trail-dos-flamingos/
 END:VEVENT
 END:VCALENDAR

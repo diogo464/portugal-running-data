@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69dddda6efdbe
-DTSTAMP:20260414T062438Z
+UID:50633-0@www.portugalrunning.com
+DTSTAMP:20260902T135939Z
 DTSTART:20260712
 DTEND:20260713
-LOCATION:São Jacinto\,  Aveiro São Jacinto\,  Aveiro
+LOCATION:São Jacinto\,   Aveiro São Jacinto\,   Aveiro
 SUMMARY:Corrida das Areias 2026
 DESCRIPTION:A&nbsp;CORRIDA DAS AREIAS&nbsp;é uma organização do Regiment
  o de Infantaria Nº10\,  com o apoio técnico da Ria Ativa e irá decorrer 

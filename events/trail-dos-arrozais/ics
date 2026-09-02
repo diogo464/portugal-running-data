@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1f6cbc8
-DTSTAMP:20260723T060103Z
+UID:48284-0@www.portugalrunning.com
+DTSTAMP:20260902T140143Z
 DTSTART:20260927
 DTEND:20260928
-LOCATION:Paradela\,  Águeda Paradela \, Águeda
+LOCATION:Paradela\,   Águeda Paradela \,  Águeda
 SUMMARY:Trail dos Arrozais 2026
-DESCRIPTION:A Secção de Trail do Sport Clube Paradela\,  em parceria com 
- o Município de Águeda organiza mais uma edição do TRAIL DOS ARROZAIS. O
-  evento incluirá o Trail Longo\,  Trail Curto\,  Caminhada e Trail Kids e 
- trata-se de uma prova certificada pela ATRP. Com início no Largo da Igreja
-  de[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-arrozais/
+DESCRIPTION:Sobre O Trail dos Arrozais 2026A 3.ª edição do Trail dos Arr
+ ozais 2026 realiza-se na manhã de 27 de Setembro de 2026 (Domingo)\,  na a
+ ldeia de Paradela (concelho de Águeda\,  distrito de Aveiro). Organizado p
+ ela Secção de Trail do Sport Clube Paradela em parceria com o Município 
+ de Águeda e[..]\nhttps://www.portugalrunning.com/eventos/trail-dos-arrozai
+ s/
 URL:https://www.portugalrunning.com/eventos/trail-dos-arrozais/
 END:VEVENT
 END:VCALENDAR

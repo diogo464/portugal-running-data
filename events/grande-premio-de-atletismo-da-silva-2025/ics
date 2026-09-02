@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:689d271a3f60d
-DTSTAMP:20250814T000026Z
+UID:44025-0@www.portugalrunning.com
+DTSTAMP:20260902T140024Z
 DTSTART:20251026
 DTEND:20251027
-LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+LOCATION:Barcelos\,   Braga Barcelos\,   Braga
 SUMMARY:Grande Prémio de Atletismo da Silva 2025
 DESCRIPTION:O Grande Prémio decorre desde 1977. Em 2024 participaram mais 
  de 600 atletas. É uma das provas mais antigas do País\,  e pode ser a tua

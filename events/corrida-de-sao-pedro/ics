@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69e46f7ca504a
-DTSTAMP:20260419T060028Z
+UID:50692-0@www.portugalrunning.com
+DTSTAMP:20260902T135946Z
 DTSTART:20260705
 DTEND:20260706
-LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+LOCATION:Póvoa de Varzim\,   Porto Póvoa de Varzim\,   Porto
 SUMMARY:Corrida de São Pedro 2026
 DESCRIPTION:A XXXVI Corrida de S. Pedro 2026\,  é uma prova do Calendário
   Nacional da F.P.A.\,  coorganizada pelo CDC Navais e o PELOURO DO DESPORTO

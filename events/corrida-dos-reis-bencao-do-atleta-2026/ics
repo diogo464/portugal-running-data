@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7eaefac4a07
-DTSTAMP:20260814T060026Z
+UID:45232-0@www.portugalrunning.com
+DTSTAMP:20260902T135950Z
 DTSTART:20260104
 DTEND:20260105
-LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+LOCATION:Fátima\,   Santarém Fátima\,   Santarém
 SUMMARY:Corrida dos Reis - Benção do Atleta 2026
 DESCRIPTION:A&nbsp;VII Corrida dos Reis - Benção do Atleta&nbsp;será rea
  lizada no dia&nbsp;4 de Janeiro de 2026\,  independentemente das condiçõe

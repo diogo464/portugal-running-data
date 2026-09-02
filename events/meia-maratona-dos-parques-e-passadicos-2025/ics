@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cd6c49a5
-DTSTAMP:20250720T222526Z
+UID:42174-0@www.portugalrunning.com
+DTSTAMP:20260902T140047Z
 DTSTART:20250628T172400Z
 DTEND:20250628T172400Z
-LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+LOCATION:Gondomar\,   Porto Gondomar\,   Porto
 SUMMARY:Meia Maratona dos Parques e Passadiços 2025
 DESCRIPTION:A organização da Meia Maratona dos Parques e Passadiços tem 
  como objetivo promover o território\,  a prática desportiva\,  hábitos d

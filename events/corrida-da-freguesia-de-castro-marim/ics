@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a2caa7f1
-DTSTAMP:20260320T110620Z
+UID:49869-0@www.portugalrunning.com
+DTSTAMP:20260902T135933Z
 DTSTART:20260705
 DTEND:20260706
-LOCATION:Castro Marim\,  Faro Castro Marim\,  Faro
+LOCATION:Castro Marim\,   Faro Castro Marim\,   Faro
 SUMMARY:Corrida da Freguesia de Castro Marim 2026
-DESCRIPTION:A 6ª Corrida da Freguesia de Castro Marim (Prova de Atletismo 
- "Flor de Sal") é um evento de atletismo de estrada realizado na vila de Ca
- stro Marim\,  Algarve\,  Portugal. Com a sua próxima edição para o mês 
- de julho de 2026 a prova percorre um cenário que une a natureza[..]\nhttps
- ://www.portugalrunning.com/eventos/corrida-da-freguesia-de-castro-marim/
+DESCRIPTION:Sobre o Corrida da Freguesia de Castro Marim 2026O Corrida da F
+ reguesia de Castro Marim 2026 realiza-se no dia 12 de julho de 2026 (Doming
+ o)\,  em Praça 1.º de Maio\,  Castro Marim (Castro Marim\,  distrito de F
+ aro). Trata-se de um evento desportivo emblemático da região\,  reunindo 
+ centenas de participantes entre[..]\nhttps://www.portugalrunning.com/evento
+ s/corrida-da-freguesia-de-castro-marim/
 URL:https://www.portugalrunning.com/eventos/corrida-da-freguesia-de-castro-marim/
 END:VEVENT
 END:VCALENDAR

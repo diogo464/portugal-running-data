@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c944a02a
-DTSTAMP:20250720T222420Z
+UID:41716-0@www.portugalrunning.com
+DTSTAMP:20260902T140004Z
 DTSTART:20250629T065900Z
 DTEND:20250629T065900Z
-LOCATION:Arruda dos Vinhos\,  Lisboa Arruda dos Vinhos\,  Lisboa
+LOCATION:Arruda dos Vinhos\,   Lisboa Arruda dos Vinhos\,   Lisboa
 SUMMARY:GP Prof. José Lourenço 2025
 DESCRIPTION:O Município de Arruda dos Vinhos irá realizar o “Grande Pr�
  �mio Prof. José Lourenço” (Corrida kids e Corrida 10 Km)\,  no dia 29&n

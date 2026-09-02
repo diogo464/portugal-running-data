@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1eb2703
-DTSTAMP:20260723T060102Z
+UID:51185-0@www.portugalrunning.com
+DTSTAMP:20260902T140105Z
 DTSTART:20260725
 DTEND:20260726
-LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+LOCATION:Pombal\,   Leiria Pombal\,   Leiria
 SUMMARY:Prova do Bodo 2026
 DESCRIPTION:Integrada nas Festas do Bodo que anualmente se realizam na Cida
  de de Pombal\,  vai decorrer a 42ª Edição da Prova do Bodo. A edição d

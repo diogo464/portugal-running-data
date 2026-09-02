@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7574900ad79
-DTSTAMP:20260807T060048Z
-DTSTART:20260926T083200Z
-DTEND:20260926T235900Z
+UID:51697-0@www.portugalrunning.com
+DTSTAMP:20260902T140035Z
+DTSTART:20260926T080000Z
+DTEND:20260926T160000Z
 LOCATION:Beja Beja
 SUMMARY:Hybrid Day BA11 Beja 2026
-DESCRIPTION:O Hybrid Day BA11\,  a decorrer no dia 26 de setembro de 2026 n
- a emblemática Base Aérea Nº 11 em Beja\,  apresenta um traçado exigente
-  de 8 km que intercala corrida e estações de exercícios\,  percorrendo a
- sfalto\,  betão e tarmac militar. A planície envolvente e a geometria ret
- a das pistas[..]\nhttps://www.portugalrunning.com/eventos/hybrid-day-ba11-b
- eja/
+DESCRIPTION:Sobre O Hybrid Day BA11 Beja 2026O Hybrid Day BA11 Beja 2026 re
+ aliza-se no dia 26 de Setembro de 2026 (Sábado)\,  nas instalações da Ba
+ se Aérea Nº 11 (BA11)\,  no concelho e distrito de Beja. Organizado pela 
+ Hybrid Day League em parceria com a Força Aérea Portuguesa\,  o evento é
+ [..]\nhttps://www.portugalrunning.com/eventos/hybrid-day-ba11-beja/
 URL:https://www.portugalrunning.com/eventos/hybrid-day-ba11-beja/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65411-0@www.portugalrunning.com
+DTSTAMP:20260902T111023Z
+DTSTART:20260920
+DTEND:20260921
+LOCATION:Porto de Leixões\,   Porto Porto de Leixões\,   Porto
+SUMMARY:Corrida Porto de Leixões 2026
+DESCRIPTION:Sobre A Corrida Porto de Leixões 2026 A 11.ª Corrida Porto de
+  Leixões 2026 realiza-se no dia 20 de Setembro de 2026 (Domingo)\,  em Por
+ to de Leixões\,  Leça da Palmeira (concelho de Matosinhos\,  distrito do 
+ Porto). Trata-se de uma oportunidade desportiva singular que abre as portas
+  do maior porto artificial[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-porto-de-leixoes/
+URL:https://www.portugalrunning.com/eventos/corrida-porto-de-leixoes/
+END:VEVENT
+END:VCALENDAR

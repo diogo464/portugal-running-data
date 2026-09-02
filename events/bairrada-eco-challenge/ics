@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e75f199db
-DTSTAMP:20260501T174815Z
+UID:50935-0@www.portugalrunning.com
+DTSTAMP:20260902T135909Z
 DTSTART:20260912
 DTEND:20260913
-LOCATION:Oliveira do Bairro\,  Aveiro Oliveira do Bairro\,  Aveiro
+LOCATION:Oliveira do Bairro\,   Aveiro Oliveira do Bairro\,   Aveiro
 SUMMARY:Bairrada Eco Challenge 2026
-DESCRIPTION:O Bairrada Eco Challenge é um evento desportivo e de lazer que
-  irá percorrer as margens do Rio Cértima em particular nas freguesias de 
- Oliveira do Bairro\,  Oiã e Recardães/Espinhel.Consiste numa prova de tra
- il composta com obstáculos alguns deles naturais\,  ao longo de um trilho 
- especificamente pensado para percorrer não[..]\nhttps://www.portugalrunnin
- g.com/eventos/bairrada-eco-challenge/
+DESCRIPTION:Sobre O Bairrada Eco Challenge 2026O Bairrada Eco Challenge 202
+ 6 realiza-se no dia 12 de Setembro de 2026 (Sábado)\,  no concelho de Oliv
+ eira do Bairro (distrito de Aveiro). Organizado pelo Município de Oliveira
+  do Bairro com gestão técnica da StopAndGo\,  o evento é uma referência
+  nacional das corridas de obstáculos[..]\nhttps://www.portugalrunning.com/
+ eventos/bairrada-eco-challenge/
 URL:https://www.portugalrunning.com/eventos/bairrada-eco-challenge/
 END:VEVENT
 END:VCALENDAR

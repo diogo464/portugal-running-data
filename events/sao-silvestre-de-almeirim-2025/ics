@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:690d36d56fab6
-DTSTAMP:20251107T000125Z
+UID:40936-0@www.portugalrunning.com
+DTSTAMP:20260902T140112Z
 DTSTART:20251227
 DTEND:20251228
-LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+LOCATION:Almeirim\,   Santarém Almeirim\,   Santarém
 SUMMARY:São Silvestre de Almeirim 2025
 DESCRIPTION:A Associação 20Kms de Almeirim\,  vai organizar a 3ª Ediçã
  o da São Silvestre de Almeirim\,  prova pedestre de 10 Km \,  com circuito

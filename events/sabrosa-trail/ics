@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:62825-0@www.portugalrunning.com
+DTSTAMP:20260902T140057Z
+DTSTART:20261122
+DTEND:20261123
+LOCATION:Sabrosa\,   Vila Real Sabrosa\,   Vila Real
+SUMMARY:Sabrosa Trail 2026
+DESCRIPTION:Sobre o Sabrosa Trail 2026O Sabrosa Trail 2026 realiza-se no di
+ a 22 de Novembro de 2026 (Domingo)\,  em Sabrosa (Sabrosa\,  distrito de Sa
+ brosa). Trata-se de um evento desportivo emblemático da região\,  reunind
+ o centenas de participantes entre atletas federados\,  amadores e entusiast
+ as do desporto ao ar livre\,  promovendo o contacto com[..]\nhttps://www.po
+ rtugalrunning.com/eventos/sabrosa-trail/
+URL:https://www.portugalrunning.com/eventos/sabrosa-trail/
+END:VEVENT
+END:VCALENDAR

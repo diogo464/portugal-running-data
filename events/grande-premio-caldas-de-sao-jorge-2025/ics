@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:689bd5ad4d9fc
-DTSTAMP:20250813T000045Z
+UID:40112-0@www.portugalrunning.com
+DTSTAMP:20260902T140008Z
 DTSTART:20250928
 DTEND:20250929
-LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+LOCATION:Santa Maria da Feira\,   Aveiro Santa Maria da Feira\,   Aveiro
 SUMMARY:Grande Prémio Caldas de São Jorge 2025
 DESCRIPTION:O Caldas de São Jorge Sport Clube volta a organizar um dos eve
  ntos de referência de Santa Maria da Feira. Este é um Grande Prémio para

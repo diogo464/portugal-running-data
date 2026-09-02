@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69112b308f68f
-DTSTAMP:20251110T000048Z
+UID:46432-0@www.portugalrunning.com
+DTSTAMP:20260902T140039Z
 DTSTART:20260523T002800Z
 DTEND:20260523T002800Z
-LOCATION:Gotemburgo\,  Suécia Gotemburgo\,  Suécia
+LOCATION:Gotemburgo\,   Suécia Gotemburgo\,   Suécia
 SUMMARY:Meia Maratona de Gotemburgo 2026
 DESCRIPTION:O Göteborgsvarvet (Meia Maratona de Gotemburgo) realiza-se n
  o dia 23 de maio de 2026 e é a maior meia maratona do mundo\,  atraindo

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e760cbcc3
-DTSTAMP:20260501T174816Z
+UID:50920-0@www.portugalrunning.com
+DTSTAMP:20260902T140218Z
 DTSTART:20260524
 DTEND:20260525
-LOCATION:Castro Daire\,  Viseu Castro Daire\,  Viseu
+LOCATION:Castro Daire\,   Viseu Castro Daire\,   Viseu
 SUMMARY:Trilho do Varosa 2026
 DESCRIPTION:A Câmara Municipal de Castro Daire\,  a Junta de Freguesia de 
  Almofala e a Associação Cultural de Almofalaorganizam\,  no dia 24 de mai

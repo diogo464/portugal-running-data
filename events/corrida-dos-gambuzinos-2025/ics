@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c5848b1b
-DTSTAMP:20250720T222320Z
+UID:42025-0@www.portugalrunning.com
+DTSTAMP:20260902T135943Z
 DTSTART:20250628
 DTEND:20250629
-LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+LOCATION:Pombal\,   Leiria Pombal\,   Leiria
 SUMMARY:Corrida dos Gambuzinos 2025
 DESCRIPTION:Venha divertir-se com a corrida dos Gambuzinos. Esta corrida se
  rá disputada na tipologia de contra-relógio\,  onde os corredores sairão

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cf7645c3
-DTSTAMP:20250720T222559Z
+UID:41363-0@www.portugalrunning.com
+DTSTAMP:20260902T140058Z
 DTSTART:20250607T152800Z
 DTEND:20250607T235900Z
-LOCATION:Perelhal\,  Barcelos Perelhal\,  Barcelos
+LOCATION:Perelhal\,   Barcelos Perelhal\,   Barcelos
 SUMMARY:Perelhal Noturno 2025
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/perelhal-noturno-2025
  /

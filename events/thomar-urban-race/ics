@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d17323d6
-DTSTAMP:20260530T060055Z
-DTSTART:20261017T034900Z
+UID:51532-0@www.portugalrunning.com
+DTSTAMP:20260902T140132Z
+DTSTART:20261017T160000Z
 DTEND:20261017T034900Z
-LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+LOCATION:Tomar\,   Santarém Tomar\,   Santarém
 SUMMARY:Thomar Urban Race 2026
-DESCRIPTION:Prepara-te para correr pela história de Tomar. Guiado por ruel
- as e escadarias\,  trilhos e emoção\,  um evento único\,  onde o pôr do
-  sol te levará à meta. Trail Urbano em Tomar. O sunset que te guia pela h
- istória da cidade.\nhttps://www.portugalrunning.com/eventos/thomar-urban-r
- ace/
+DESCRIPTION:Sobre O Thomar Urban Race 2026O Thomar Urban Race 2026 realiza-
+ se no dia 17 de Outubro de 2026 (Sábado)\,  em Tomar Santarem (Tomar Santa
+ rem\,  distrito de Santarem). Trata-se de um evento desportivo emblemático
+  da região\,  reunindo centenas de participantes entre atletas federados\,
+   amadores e entusiastas do desporto ao ar livre\, [..]\nhttps://www.portug
+ alrunning.com/eventos/thomar-urban-race/
 URL:https://www.portugalrunning.com/eventos/thomar-urban-race/
 END:VEVENT
 END:VCALENDAR

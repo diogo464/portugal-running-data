@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68e680ac0eb39
-DTSTAMP:20251008T151804Z
+UID:45662-0@www.portugalrunning.com
+DTSTAMP:20260902T140132Z
 DTSTART:20251228
 DTEND:20251229
-LOCATION:Seia\,  Guarda Seia\,  Guarda
+LOCATION:Seia\,   Guarda Seia\,   Guarda
 SUMMARY:Trail Cabeça Aldeia Natal 2025
 DESCRIPTION:O Trail Aldeia Natal é um evento desportivo\,  organizado pela
   Associação de Compartes da Aldeia de Cabeça e pelo Município de Seia q

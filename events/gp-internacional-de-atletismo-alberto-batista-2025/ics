@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68d87aa9dcc68
-DTSTAMP:20250928T000041Z
+UID:44972-0@www.portugalrunning.com
+DTSTAMP:20260902T140003Z
 DTSTART:20251025
 DTEND:20251026
-LOCATION:São João da Madeira\,  Aveiro São João da Madeira\,  Aveiro
+LOCATION:São João da Madeira\,   Aveiro São João da Madeira\,   Aveiro
 SUMMARY:GP Internacional de Atletismo Alberto Batista 2025
 DESCRIPTION:É em homenagem ao ex-atleta e treinador dos Serviços Sociais 
  de Trabalhadores do Município de São João da Madeira \,  Alberto Batista

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a796906c7573
-DTSTAMP:20260810T060038Z
+UID:57380-0@www.portugalrunning.com
+DTSTAMP:20260902T140100Z
 DTSTART:20260315
 DTEND:20260316
-LOCATION:Povoação\,  Açores Povoação\, Açores
+LOCATION:Povoação\,   Açores Povoação\,  Açores
 SUMMARY:Povoação Trail 2026
 DESCRIPTION:A prova “Povoação Trail” tem como objetivo proporcionar a
  os atletas novas experiências e sensações em trilhos distintos.Este even

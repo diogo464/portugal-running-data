@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6993afa64bf13
-DTSTAMP:20260217T000038Z
+UID:49405-0@www.portugalrunning.com
+DTSTAMP:20260902T140131Z
 DTSTART:20260606T232800Z
 DTEND:20260606T235900Z
-LOCATION:Fundão\,  Castelo Branco Fundão\,  Castelo Branco
+LOCATION:Fundão\,   Castelo Branco Fundão\,   Castelo Branco
 SUMMARY:Trail da Cereja 2026
 DESCRIPTION:A Secção de Trail da Associação Desportiva do Fundão e o M
  unicípio do Fundão são as entidades organizadoras da segunda edição do

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:695da25976639
-DTSTAMP:20260107T000129Z
+UID:46407-0@www.portugalrunning.com
+DTSTAMP:20260902T140051Z
 DTSTART:20260301
 DTEND:20260302
-LOCATION:Roma\,  Itália Roma\,  Itália
+LOCATION:Roma\,   Itália Roma\,   Itália
 SUMMARY:Meia Maratona de Roma (Roma-Ostia) 2026
 DESCRIPTION:A&nbsp;Meia Maratona de Roma 2026&nbsp;destaca-se pelo seu perc
  urso histórico e rápido\,  ocorrendo tradicionalmente no início de març

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:698e77f070c84
-DTSTAMP:20260213T010136Z
+UID:47730-0@www.portugalrunning.com
+DTSTAMP:20260902T140159Z
 DTSTART:20260308T195000Z
 DTEND:20260308T235900Z
-LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
 SUMMARY:Trail Solidário na Quinta das Roçadas 2026
 DESCRIPTION:O GTT.SPS - Grupo Todo Terreno de São Pedro do Sul\,  vai real
  izar no dia 08 de Março de 2026\,  uma prova de Trail solidário na Quinta

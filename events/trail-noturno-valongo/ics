@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7eaefb6e8d6
-DTSTAMP:20260814T060027Z
+UID:44187-0@www.portugalrunning.com
+DTSTAMP:20260902T140200Z
 DTSTART:20261212
 DTEND:20261213
-LOCATION:Valongo\,  Porto Valongo\,  Porto
+LOCATION:Valongo\,   Porto Valongo\,   Porto
 SUMMARY:Trail Noturno Valongo 2026
-DESCRIPTION:Marcado para a escuridão do dia 12 de dezembro de 2026\,  o Tr
- ail Noturno de Valongo convida a explorar os exigentes trilhos desta regiã
- o do distrito do Porto\,  com opções de 21 km\,  13 km e uma caminhada de
-  9 km. O terreno acidentado da serra noturna exige uma gestão[..]\nhttps:/
- /www.portugalrunning.com/eventos/trail-noturno-valongo/
+DESCRIPTION:Sobre O Trail Noturno Valongo 2026O Trail Noturno Valongo 2026 
+ regressa no dia 12 de Dezembro de 2026 para a sua 13ª edição\,  levando 
+ centenas de participantes a desafiar os trilhos noturnos da serra de Quinta
+  Rei\,  no concelho de Valongo\,  distrito do Porto. Organizado pela KeMedo
+  Team Associação Desportos[..]\nhttps://www.portugalrunning.com/eventos/t
+ rail-noturno-valongo/
 URL:https://www.portugalrunning.com/eventos/trail-noturno-valongo/
 END:VEVENT
 END:VCALENDAR

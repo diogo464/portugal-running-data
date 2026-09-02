@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d8892b54
-DTSTAMP:20250720T222824Z
+UID:42015-0@www.portugalrunning.com
+DTSTAMP:20260902T140207Z
 DTSTART:20250615T105900Z
 DTEND:20250615T105900Z
-LOCATION:Casal Vasco\,  Santo António da Ribeira Casal Vasco\,  Santo António da Ribeira
+LOCATION:Casal Vasco\,   Santo António da Ribeira Casal Vasco\,   Santo António da Ribeira
 SUMMARY:Trail Running “Santo António da Ribeira" 2025
 DESCRIPTION:A PAP Santo António da Ribeira em parceria com a Associação 
  Cultural Desportiva Recreativa do Santo António da Ribeira\,  apoio da jun

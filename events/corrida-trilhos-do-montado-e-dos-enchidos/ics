@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff14554970
-DTSTAMP:20260522T060141Z
+UID:51337-0@www.portugalrunning.com
+DTSTAMP:20260902T140001Z
 DTSTART:20260620
 DTEND:20260621
-LOCATION:Santa Luzia\,  Beja Santa Luzia\,  Beja
+LOCATION:Santa Luzia\,   Beja Santa Luzia\,   Beja
 SUMMARY:Corrida "Trilhos do Montado e dos Enchidos" 2026
 DESCRIPTION:As Juntas de Freguesia de Santa Luzia e Garvão em colaboraçã
  o com o Município de Ourique\,  irá levar a efeito\,  no dia 20 de Junho 

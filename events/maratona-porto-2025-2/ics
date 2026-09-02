@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff9901b9d
-DTSTAMP:20260724T060057Z
-DTSTART:20261108
-DTEND:20261109
+UID:54943-0@www.portugalrunning.com
+DTSTAMP:20260902T140033Z
+DTSTART:20251102
+DTEND:20251103
 LOCATION:Porto Porto
-SUMMARY:Maratona do Porto 2026
-DESCRIPTION:Correr no Porto é sentir a alma de uma cidade que é Patrimón
- io Mundial. Conhecida pelo seu percurso plano e rápido\,  a Maratona do Po
- rto atrai milhares de estrangeiros que procuram aliar a performance desport
- iva à cultura e gastronomia únicas do Norte de Portugal. 📅 Informaçõ
- es de Última Hora Data:[..]\nhttps://www.portugalrunning.com/eventos/marat
- ona-do-porto/
-URL:https://www.portugalrunning.com/eventos/maratona-do-porto/
+SUMMARY:Maratona Porto 2025
+DESCRIPTION:Resultados 2025 A EDP Maratona do Porto com os seus 20 anos de 
+ vida\,  inicia a sua campanha de divulgação\,  com vista à 21ª. Ediçã
+ o\,  em 2025 a 2 de novembro\,  com início às 8h00\,  e tal como no passa
+ do\,  pretendemos fazer desta EDP Maratona do Porto\,  um evento de[..]\nht
+ tps://www.portugalrunning.com/eventos/maratona-porto-2025-2/
+URL:https://www.portugalrunning.com/eventos/maratona-porto-2025-2/
 END:VEVENT
 END:VCALENDAR

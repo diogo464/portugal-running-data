@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69e46f7e4c143
-DTSTAMP:20260419T060030Z
+UID:50668-0@www.portugalrunning.com
+DTSTAMP:20260902T140132Z
 DTSTART:20260711T080400Z
 DTEND:20260711T080400Z
-LOCATION:Ilha Terceira\,  Açores Ilha Terceira\,  Açores
+LOCATION:Ilha Terceira\,   Açores Ilha Terceira\,   Açores
 SUMMARY:The North Trail 2026
 DESCRIPTION:O The North Trail (TNT) é um evento desportivo organizado pela
   Associação Outeiro Culturado Desporto\,  realizado na freguesia dos Bisc

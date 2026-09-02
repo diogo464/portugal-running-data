@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cfbdb6bd
-DTSTAMP:20250720T222603Z
+UID:40584-0@www.portugalrunning.com
+DTSTAMP:20260902T140053Z
 DTSTART:20250629
 DTEND:20250630
-LOCATION:Rio Mau\,  Penafiel Rio Mau\,  Penafiel
+LOCATION:Rio Mau\,   Penafiel Rio Mau\,   Penafiel
 SUMMARY:Poço Negro Trail 2025
 DESCRIPTION:O Poço Negro Trail vai em 2025 para a sua oitava edição\,  q
  ue percorrerá trilhos na Serra da Boneca\,  Estivada e no vale do Rio Mau.

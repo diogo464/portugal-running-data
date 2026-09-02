@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d007ae45
-DTSTAMP:20250720T222608Z
+UID:42058-0@www.portugalrunning.com
+DTSTAMP:20260902T140106Z
 DTSTART:20250726
 DTEND:20250727
-LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+LOCATION:Pombal\,   Leiria Pombal\,   Leiria
 SUMMARY:Prova do Bodo 2025
 DESCRIPTION:Integrada nas Festas do Bodo que anualmente se realizam na Cida
  de de Pombal\,  vai decorrer a 41ª Edição da Prova do Bodo. A edição d

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b038ca6
-DTSTAMP:20260223T000048Z
+UID:47908-0@www.portugalrunning.com
+DTSTAMP:20260902T140053Z
 DTSTART:20260315T155600Z
 DTEND:20260315T235900Z
-LOCATION:Tavira\,  Faro Tavira\,  Faro
+LOCATION:Tavira\,   Faro Tavira\,   Faro
 SUMMARY:MOVE.Tavira 2026
 DESCRIPTION:A 18.ª edição do MOVE.Tavira\,  iniciativa solidária promov
  ida pela Associação Oncológica do Algarve &nbsp;em colaboração com a C

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a2f950d3aa38
-DTSTAMP:20260615T060045Z
+UID:51661-0@www.portugalrunning.com
+DTSTAMP:20260902T140018Z
 DTSTART:20260705T070900Z
 DTEND:20260705T235900Z
-LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+LOCATION:Estremoz\,   Évora Estremoz\,   Évora
 SUMMARY:Estremoz Fun Running 2026
 DESCRIPTION:As inscrições para o Estremoz Fun Running 2026 já se encontr
  am oficialmente abertas. O evento\,  integrado no programa da Feira Interna

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:40300-0@www.portugalrunning.com
+DTSTAMP:20260902T135944Z
+DTSTART:20250608
+DTEND:20250609
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida Santo António 2025 - Lisboa
+DESCRIPTION:A LIDL Corrida de Santo António é um evento para pessoas de t
+ odas as idades. Escolha a distância – Corrida 10 Km ou Caminhada 4 Km &#
+ 8211; e participe!\nhttps://www.portugalrunning.com/eventos/corrida-santo-a
+ ntonio-lisboa-2025/
+URL:https://www.portugalrunning.com/eventos/corrida-santo-antonio-lisboa-2025/
+END:VEVENT
+END:VCALENDAR

@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6950734555769
-DTSTAMP:20251228T000109Z
-DTSTART:20251227
-DTEND:20251228
-LOCATION:Praia da Tocha\,  Coimbra Praia da Tocha\,  Coimbra
-SUMMARY:São Silvestre Praia da Tocha 2025
-DESCRIPTION:Resultados A 4ª São Silvestre Praia da Tocha realiza-se no di
- a 27 de dezembro de 2025 e é uma organização do Atletismo Clube da Tocha
- \,  com o apoio da Junta de Freguesia da Tocha e do Município de Cantanhed
- e. Da 4ª São Silvestre Praia da Tocha faz parte uma prova[..]\nhttps://ww
- w.portugalrunning.com/eventos/sao-silvestre-praia-da-tocha/
+UID:62993-0@www.portugalrunning.com
+DTSTAMP:20260902T140122Z
+DTSTART:20261226
+DTEND:20261227
+LOCATION:Praia da Tocha\,   Coimbra Praia da Tocha\,   Coimbra
+SUMMARY:São Silvestre Praia da Tocha 2026
+DESCRIPTION:Sobre a São Silvestre Praia da Tocha 2026 A São Silvestre Pra
+ ia da Tocha 2026 é promovida por Associação Cultural e Recreativa da Pra
+ ia da Tocha & Município de Cantanhede\,  realizando-se no dia 19/12/2026 (
+ Sábado) em Praia da Tocha (Concelho de Cantanhede\,  Distrito de Coimbra).
+  O evento é uma das[..]\nhttps://www.portugalrunning.com/eventos/sao-silve
+ stre-praia-da-tocha/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-praia-da-tocha/
 END:VEVENT
 END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b23f389a584
-DTSTAMP:20250830T000056Z
+UID:44199-0@www.portugalrunning.com
+DTSTAMP:20260902T140216Z
 DTSTART:20251115
 DTEND:20251116
-LOCATION:Santa Barbara de Nexe\,  Faro Santa Barbara de Nexe\,  Faro
+LOCATION:Santa Barbara de Nexe\,   Faro Santa Barbara de Nexe\,   Faro
 SUMMARY:Trail Veredas de Nexe 2025
 DESCRIPTION:A Algarviana Team – Associação Cultural e Desportiva\,  sem
   fins lucrativos e com sede em Gorjões\,  com o apoio da Câmara Municipal

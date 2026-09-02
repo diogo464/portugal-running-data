@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c21f9cf
-DTSTAMP:20260201T000106Z
+UID:47616-0@www.portugalrunning.com
+DTSTAMP:20260902T135912Z
 DTSTART:20260215T105900Z
 DTEND:20260215T235900Z
-LOCATION:Almoster\,  Santarém Almoster\,  Santarém
+LOCATION:Almoster\,   Santarém Almoster\,   Santarém
 SUMMARY:Canicross Almoster 2026
 DESCRIPTION:Esta prova é organizada pelo Centro Social\,  Cultural e Despo
  rtivo (CSCD) de Alforzemel\,  com o apoio daFreguesia de Almoster e Municí

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68f035b8f1339
-DTSTAMP:20251016T000056Z
+UID:45836-0@www.portugalrunning.com
+DTSTAMP:20260902T140043Z
 DTSTART:20251018T193300Z
 DTEND:20251018T193300Z
-LOCATION:Bilbau\,  Espanha Bilbau\,  Espanha
+LOCATION:Bilbau\,   Espanha Bilbau\,   Espanha
 SUMMARY:Meia Maratona de Bilbau 2025
 DESCRIPTION:A Meia Maratona de Bilbao é uma prova noturna\,  rápida e fes
  tiva\,  disputada a 21 km pelas ruas iluminadas do centro da cidade\,  com 

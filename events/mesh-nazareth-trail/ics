@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cd2a759662c
-DTSTAMP:20260401T142349Z
+UID:50305-0@www.portugalrunning.com
+DTSTAMP:20260902T140101Z
 DTSTART:20260524
 DTEND:20260525
-LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+LOCATION:Nazaré\,   Leiria Nazaré\,   Leiria
 SUMMARY:Mesh Nazareth Trail 2026
 DESCRIPTION:O 8º Mesh Nazareth Trail realiza-se no dia 24 de maio de 2026\
  ,  com centro nevrálgico na vila da Nazaré. Organizado pela Mesh Nazareth

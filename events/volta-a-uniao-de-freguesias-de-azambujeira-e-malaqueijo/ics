@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c88562d
-DTSTAMP:20260201T000112Z
+UID:48324-0@www.portugalrunning.com
+DTSTAMP:20260902T140225Z
 DTSTART:20260201
 DTEND:20260202
-LOCATION:Alfouvés\,  Rio Maior Alfouvés\,  Rio Maior
+LOCATION:Alfouvés\,   Rio Maior Alfouvés\,   Rio Maior
 SUMMARY:Volta à União de Freguesias de Azambujeira e Malaqueijo 2026
 DESCRIPTION:O Torneio de Atletismo das Freguesias de Rio Maior “Jorge Mig
  uel” consiste num conjunto de provas desportivas na modalidade de atletis

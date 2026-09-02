@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c3748c2a
-DTSTAMP:20250720T222247Z
+UID:42110-0@www.portugalrunning.com
+DTSTAMP:20260902T135927Z
 DTSTART:20250907T044500Z
 DTEND:20250907T235900Z
-LOCATION:Lusical\,  Alcanede Lusical\,  Alcanede
+LOCATION:Lusical\,   Alcanede Lusical\,   Alcanede
 SUMMARY:Corrida / Caminhada Lusical 2025
 DESCRIPTION:A&nbsp;3ª Corrida / Caminhada Lusical 2025&nbsp;é um evento d
  e&nbsp;corrida e caminhada&nbsp;com percurso em terra batida e alcatrão\, 

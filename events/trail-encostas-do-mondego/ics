@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b1b5807
-DTSTAMP:20260223T000049Z
+UID:47740-0@www.portugalrunning.com
+DTSTAMP:20260902T140153Z
 DTSTART:20260315
 DTEND:20260316
-LOCATION:Vila Verde\,  Figueira da Foz Vila Verde\,  Figueira da Foz
+LOCATION:Vila Verde\,   Figueira da Foz Vila Verde\,   Figueira da Foz
 SUMMARY:Trail Encostas do Mondego 2026
 DESCRIPTION:O Grupo Recreativo Vilaverdense (GRV) organiza no dia 15 de mar
  ço de 2026 o TRAIL ENCOSTAS DO MONDEGO.A prova será constituída por 2 ev

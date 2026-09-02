@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:63297-0@www.portugalrunning.com
+DTSTAMP:20260902T135933Z
+DTSTART:20261004
+DTEND:20261005
+LOCATION:Faro Faro\,   Portugal
+SUMMARY:Corrida Cidade de Faro 2026
+DESCRIPTION:Sobre A Corrida Cidade de Faro 2026A Corrida Cidade de Faro 202
+ 6 realiza-se no dia 4 de outubro de 2026 (Domingo)\,  em Parque de Lazer da
+ s Figuras (Faro\,  distrito de Faro). Trata-se de um evento desportivo embl
+ emático da região\,  reunindo centenas de participantes entre atletas fed
+ erados\,  amadores e entusiastas do[..]\nhttps://www.portugalrunning.com/ev
+ entos/corrida-cidade-de-faro/
+URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-faro/
+END:VEVENT
+END:VCALENDAR

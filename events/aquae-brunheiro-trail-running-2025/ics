@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c4b4327350c
-DTSTAMP:20250913T000050Z
+UID:40620-0@www.portugalrunning.com
+DTSTAMP:20260902T135916Z
 DTSTART:20250921T082100Z
 DTEND:20250921T235900Z
-LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+LOCATION:Chaves\,   Vila Real Chaves\,   Vila Real
 SUMMARY:Aquae Brunheiro Trail Running 2025
 DESCRIPTION:Após o enorme sucesso da primeira edição do Aquae Brunheiro 
  Trail\,  a desafiante Serra do Brunheiro volta a receber a maior aventura d

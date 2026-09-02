@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d484a3c1
-DTSTAMP:20250720T222720Z
+UID:39874-0@www.portugalrunning.com
+DTSTAMP:20260902T140131Z
 DTSTART:20250608T232800Z
 DTEND:20250608T235900Z
-LOCATION:Fundão\,  Castelo Branco Fundão\,  Castelo Branco
+LOCATION:Fundão\,   Castelo Branco Fundão\,   Castelo Branco
 SUMMARY:Trail da Cereja 2025
 DESCRIPTION:TCF32K / TCF17K / TCF12K / Caminhada 10K\nhttps://www.portugalr
  unning.com/eventos/trail-da-cereja-2025/

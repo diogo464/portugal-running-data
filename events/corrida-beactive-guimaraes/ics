@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:47640-0@www.portugalrunning.com
+DTSTAMP:20260902T135922Z
+DTSTART:20260926
+DTEND:20260927
+LOCATION:Guimarães\,   Braga Guimarães\,   Braga
+SUMMARY:Corrida Beactive Guimarães 2026
+DESCRIPTION:Sobre A Corrida Beactive Guimarães 2026A Corrida #BeActive Nig
+ ht Guimarães 2026 realiza-se na noite de 26 de Setembro de 2026 (Sábado)\
+ ,  na cidade berço de Guimarães (distrito de Braga). Promovida pelo Insti
+ tuto Português do Desporto e Juventude (IPDJ) em colaboração com a Câma
+ ra Municipal de Guimarães e a Runporto\,  a[..]\nhttps://www.portugalrunni
+ ng.com/eventos/corrida-beactive-guimaraes/
+URL:https://www.portugalrunning.com/eventos/corrida-beactive-guimaraes/
+END:VEVENT
+END:VCALENDAR

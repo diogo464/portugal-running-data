@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b20839a
-DTSTAMP:20260223T000050Z
+UID:46889-0@www.portugalrunning.com
+DTSTAMP:20260902T140158Z
 DTSTART:20260315
 DTEND:20260316
-LOCATION:Brotas\,  Évora Brotas\,  Évora
+LOCATION:Brotas\,   Évora Brotas\,   Évora
 SUMMARY:Trail por Terras de Outrora 2026
 DESCRIPTION:O TTOT “Trail Por Terras de Outrora” é uma prova de Trail 
  Running (corrida pedestre em meio natural)\,  oferecendo três opções:●

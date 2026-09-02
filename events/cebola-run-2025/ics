@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c2adb334
-DTSTAMP:20250720T222234Z
+UID:42178-0@www.portugalrunning.com
+DTSTAMP:20260902T135930Z
 DTSTART:20250906T172700Z
 DTEND:20250906T235900Z
-LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
+LOCATION:Rio Maior\,   Santarém Rio Maior\,   Santarém
 SUMMARY:Cebola Run 2025
 DESCRIPTION:A Cebola Run é organizada pela Câmara Municipal de Rio Maior 
  e pela Desmor\,  EM\,  SA\nhttps://www.portugalrunning.com/eventos/cebola-r

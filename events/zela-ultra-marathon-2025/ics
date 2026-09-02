@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6dcb4da9a
-DTSTAMP:20250720T222931Z
+UID:38663-0@www.portugalrunning.com
+DTSTAMP:20260902T140225Z
 DTSTART:20250412
 DTEND:20250413
-LOCATION:Vouzela\,  Viseu Vouzela\,  Viseu
+LOCATION:Vouzela\,   Viseu Vouzela\,   Viseu
 SUMMARY:Zela Trail Running 2025
 DESCRIPTION:O evento Zela Ultra Marathon é organizado pela SpotCriavo Even
  tos em colaboração com o Município de Vouzela e apoio das endades locais

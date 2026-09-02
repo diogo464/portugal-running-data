@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d0518ee7
-DTSTAMP:20250720T222613Z
+UID:39642-0@www.portugalrunning.com
+DTSTAMP:20260902T140100Z
 DTSTART:20250323T174200Z
 DTEND:20250323T174200Z
-LOCATION:Rapoula\,  Guarda Rapoula\,  Guarda
+LOCATION:Rapoula\,   Guarda Rapoula\,   Guarda
 SUMMARY:Rapoula Primavera Trail 2025
 DESCRIPTION:A Associação Cultural\,  Desportiva e Recreativa da Rapoula (
  ACDR Rapoula)\,  com o apoio da Junta de Freguesia de Pêra do Moço e do M

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6897e144b0680
-DTSTAMP:20250810T000108Z
+UID:43981-0@www.portugalrunning.com
+DTSTAMP:20260902T140038Z
 DTSTART:20251019
 DTEND:20251020
-LOCATION:Passeio das Dunas\,  Vilamoura Passeio das Dunas\,  Vilamoura
+LOCATION:Passeio das Dunas\,   Vilamoura Passeio das Dunas\,   Vilamoura
 SUMMARY:Meia Maratona Algarve 2025
 DESCRIPTION:A Meia Maratona do Algarve é uma organização da Câmara Muni
  cipal de Loulé e da Associação de Atletismo do Algarve\,  em parceria co

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68e99e1fcb563
-DTSTAMP:20251011T000031Z
+UID:44661-0@www.portugalrunning.com
+DTSTAMP:20260902T135943Z
 DTSTART:20251019
 DTEND:20251020
-LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+LOCATION:Belém\,   Lisboa Belém\,   Lisboa
 SUMMARY:Corrida Nacional do Professor e da Eduçação 2025
 DESCRIPTION:A Federação Nacional dos Professores (FENPROF)\,  em parceria
   com a Câmara Municipal de Lisboa e com a Associação de Atletismo de Lis

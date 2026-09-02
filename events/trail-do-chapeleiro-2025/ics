@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d59009fb
-DTSTAMP:20250720T222737Z
+UID:42304-0@www.portugalrunning.com
+DTSTAMP:20260902T140147Z
 DTSTART:20250907
 DTEND:20250908
-LOCATION:São João da Madeira\,  Porto São João da Madeira\,  Porto
+LOCATION:São João da Madeira\,   Porto São João da Madeira\,   Porto
 SUMMARY:Trail do Chapeleiro 2025
 DESCRIPTION:A 3ª edição do Trail do Chapeleiro é uma prova que percorre
   trilhos\,  caminhos e serras com partida e chegada no Parque urbano do Rio

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c8b614cf
-DTSTAMP:20250720T222411Z
+UID:42746-0@www.portugalrunning.com
+DTSTAMP:20260902T140019Z
 DTSTART:20250706T070900Z
 DTEND:20250706T070900Z
-LOCATION:Estremoz\,  Évora Estremoz\,  Évora
+LOCATION:Estremoz\,   Évora Estremoz\,   Évora
 SUMMARY:Estremoz Fun Running 2025
 DESCRIPTION:Quer se trate de um corredor ocasional ou de um verdadeiro atle
  ta\,  os cerca de 8 kms constituem uma corrida/caminhada incomparável\,  e

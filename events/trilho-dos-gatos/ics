@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dcf36b3
-DTSTAMP:20260315T100724Z
+UID:47593-0@www.portugalrunning.com
+DTSTAMP:20260902T140213Z
 DTSTART:20260419
 DTEND:20260420
-LOCATION:Montemor-o-Velho\,  Coimbra Montemor-o-Velho\,  Coimbra
+LOCATION:Montemor-o-Velho\,   Coimbra Montemor-o-Velho\,   Coimbra
 SUMMARY:Trilho dos Gatos 2026
 DESCRIPTION:O XII Trilho dos Gatos é uma prova de trail running organizada
   pelo clube&nbsp;GATÕES BTT&nbsp;e conta com três distâncias:&nbsp;Trail

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ddc0b4ac09f
-DTSTAMP:20251002T000052Z
+UID:45210-0@www.portugalrunning.com
+DTSTAMP:20260902T140151Z
 DTSTART:20251207
 DTEND:20251208
-LOCATION:Elvas\,  Portalegre Elvas\,  Portalegre
+LOCATION:Elvas\,   Portalegre Elvas\,   Portalegre
 SUMMARY:Trail Elvas 2025
 DESCRIPTION:O VII Trail de Elvas – Património Mundial a realizar-se no d
  ia 07 de dezembro de 2025\,  pelas 09:00 horas\,  conta com uma prova denom

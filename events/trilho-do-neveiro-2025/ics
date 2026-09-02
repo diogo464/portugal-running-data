@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:690d36d48294a
-DTSTAMP:20251107T000124Z
+UID:42092-0@www.portugalrunning.com
+DTSTAMP:20260902T140210Z
 DTSTART:20251109
 DTEND:20251110
-LOCATION:Castanheira de Pera\,  Leiria Castanheira de Pera\,  Leiria
+LOCATION:Castanheira de Pera\,   Leiria Castanheira de Pera\,   Leiria
 SUMMARY:Trilho do Neveiro 2025
 DESCRIPTION:O Trilho do Neveiro é organizado pela Prazilândia Turismo e A
  mbiente E.M com o apoio ecolaboração da Câmara Municipal de Castanheira 

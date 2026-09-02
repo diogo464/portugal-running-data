@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a31df8b3
-DTSTAMP:20260320T110625Z
+UID:47878-0@www.portugalrunning.com
+DTSTAMP:20260902T140225Z
 DTSTART:20260809
 DTEND:20260810
-LOCATION:Vila Chã\,  Fornos de Algodres Vila Chã\,  Fornos de Algodres
+LOCATION:Vila Chã\,   Fornos de Algodres Vila Chã\,   Fornos de Algodres
 SUMMARY:Vila Chã Aldeia Trail 2026
 DESCRIPTION:O ”VIII VILA CHÃ ALDEIA TRAIL” é um trail\,  organizado p
  ela “AVCATAssociação Vila Chã Aldeia Trail de Portugal” a realizar n

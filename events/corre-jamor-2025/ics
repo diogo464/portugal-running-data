@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ddc0b0f19bd
-DTSTAMP:20251002T000048Z
+UID:45192-0@www.portugalrunning.com
+DTSTAMP:20260902T135908Z
 DTSTART:20251109
 DTEND:20251110
-LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+LOCATION:Jamor\,   Lisboa Jamor\,   Lisboa
 SUMMARY:Corre Jamor 2025
 DESCRIPTION:O Corre Jamor by Saúde Prime é organizado pelo Clube Olímpic
  o de Oeiras\,  em parceria com o Centro Desportivo Nacional do Jamor\,  a C

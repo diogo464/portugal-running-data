@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6da292175
-DTSTAMP:20250720T222850Z
+UID:42616-0@www.portugalrunning.com
+DTSTAMP:20260902T140213Z
 DTSTART:20251019
 DTEND:20251020
-LOCATION:Cercal do Alentejo\,  Setúbal Cercal do Alentejo\,  Setúbal
+LOCATION:Cercal do Alentejo\,   Setúbal Cercal do Alentejo\,   Setúbal
 SUMMARY:Trilhos da Raposa 2025
 DESCRIPTION:Os Trilhos da Raposa é organizado pela CTF-Associação Crosst
  raining Cercal - Desporto e Aventura com o apoio da Junta de Freguesia do C

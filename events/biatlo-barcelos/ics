@@ -1,16 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7574900e951
-DTSTAMP:20260807T060048Z
+UID:57326-0@www.portugalrunning.com
+DTSTAMP:20260902T135931Z
 DTSTART:20260913T084600Z
 DTEND:20260913T084600Z
-LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+LOCATION:Barcelos\,   Braga Barcelos\,   Braga
 SUMMARY:Biatlo Barcelos 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/biatlo-barcelos/
+DESCRIPTION:Sobre O Biatlo Barcelos 2026O Biatlo Barcelos 2026 (1º Biatlo 
+ Aventura Barcelos – Esposende) realiza-se no dia 13 de Setembro de 2026 (
+ Domingo)\,  num percurso multidesportivo ao longo do Rio Cávado que liga o
+ s concelhos de Barcelos e Esposende (distrito de Braga). A iniciativa é um
+ a prova disputada em duplas[..]\nhttps://www.portugalrunning.com/eventos/bi
+ atlo-barcelos/
 URL:https://www.portugalrunning.com/eventos/biatlo-barcelos/
 END:VEVENT
 END:VCALENDAR

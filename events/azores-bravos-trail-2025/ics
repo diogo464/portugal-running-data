@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c1f189b7
-DTSTAMP:20250720T222223Z
+UID:39905-0@www.portugalrunning.com
+DTSTAMP:20260902T135916Z
 DTSTART:20251004
 DTEND:20251005
-LOCATION:Angra do Heroísmo\,  Ilha Terceira\,  Açores Angra do Heroísmo\,  Ilha Terceira\,  Açores
+LOCATION:Angra do Heroísmo\,   Ilha Terceira\,   Açores Angra do Heroísmo\,   Ilha Terceira\,   Açores
 SUMMARY:Azores Bravos Trail 2025
 DESCRIPTION:O Azores Bravos Trail® (AzBT®) é um evento competitivo de Tr
  ail-Running organizado pela Associação de Atletismo da Ilha Terceira (AAI

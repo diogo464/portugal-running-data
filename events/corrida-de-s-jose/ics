@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d9ef20f
-DTSTAMP:20260315T100721Z
+UID:48314-0@www.portugalrunning.com
+DTSTAMP:20260902T135954Z
 DTSTART:20260321
 DTEND:20260322
-LOCATION:Póvoa de Lanhoso\,  Braga Póvoa de Lanhoso\,  Braga
+LOCATION:Póvoa de Lanhoso\,   Braga Póvoa de Lanhoso\,   Braga
 SUMMARY:Corrida de S. José 2026
 DESCRIPTION:Pontua para o CAMPEONATO REGIONAL DE ESTRADA. Prova de Estrada
  \,  licenciada pela ASSOCIAÇÃO ATLETISMO DE BRAGA.Com prova competitiva 1

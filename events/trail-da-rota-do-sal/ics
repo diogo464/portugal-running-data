@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b00e727
-DTSTAMP:20260223T000048Z
+UID:47596-0@www.portugalrunning.com
+DTSTAMP:20260902T140133Z
 DTSTART:20260315
 DTEND:20260316
-LOCATION:Pinheiro de Ázere\,  Santa Comba Dão Pinheiro de Ázere\,  Santa Comba Dão
+LOCATION:Pinheiro de Ázere\,   Santa Comba Dão Pinheiro de Ázere\,   Santa Comba Dão
 SUMMARY:Rota do Sal 2026
 DESCRIPTION:O&nbsp;Trail Rota do Sal&nbsp;é o primeiro de muitos eventos q
  ue irão materializar a nossa missão: incentivar um estilo de vida ativo e
   consciente\,  enraizado no respeito pelo meio ambiente e pela história lo
- cal. Com o&nbsp;Trail Rota do Sal 2025\,  prepara-te para percorrer trilhos
-  que atravessam serras\,  vales\,  praias fluviais e[..]\nhttps://www.portu
- galrunning.com/eventos/trail-da-rota-do-sal/
+ cal.Com o&nbsp;Trail Rota do Sal 2026\,  prepara-te para percorrer trilhos 
+ que atravessam serras\,  vales\,  praias fluviais e antigos[..]\nhttps://ww
+ w.portugalrunning.com/eventos/trail-da-rota-do-sal/
 URL:https://www.portugalrunning.com/eventos/trail-da-rota-do-sal/
 END:VEVENT
 END:VCALENDAR

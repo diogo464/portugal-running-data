@@ -1,22 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a27abffca634
-DTSTAMP:20260609T060031Z
-DTSTART:20260906T044500Z
+UID:51596-0@www.portugalrunning.com
+DTSTAMP:20260902T135927Z
+DTSTART:20260906T090000Z
 DTEND:20260906T235900Z
-LOCATION:Lusical\,  Alcanede Lusical\,  Alcanede
-SUMMARY:Corrida / Caminhada Lusical 2026
-DESCRIPTION:A&nbsp;4ª Corrida / Caminhada Lusical 2026&nbsp;é um evento d
- e corrida e caminhada com percurso em terra batida e alcatrão\,  organizad
- o pela&nbsp;Lusical - Companhia Lusitana de Cal\,  SA e Bombeiros Voluntár
- ios de Alcanede\,  em parceria com a&nbsp;Câmara Municipal de Santarém\, 
-  Junta de Freguesia de Alcanede&nbsp;e com apoio técnico da&nbsp;Recorde P
- essoal. DATA[..]\nhttps://www.portugalrunning.com/eventos/corrida-caminhada
- -lusical/
+LOCATION:Lusical\,   Alcanede Lusical\,   Alcanede
+SUMMARY:Corrida / Caminhada Solidária Lusical 2026
+DESCRIPTION:Sobre A Corrida / Caminhada Solidária Lusical 2026A 4.ª Ediç
+ ão da Corrida / Caminhada Solidária Lusical 2026 realiza-se no fim de sem
+ ana de 5 e 6 de Setembro de 2026\,  com a grande prova de adultos agendada 
+ para o domingo\,  6 de Setembro às 10:00\,  na vila de Alcanede (concelho[
+ ..]\nhttps://www.portugalrunning.com/eventos/corrida-caminhada-lusical/
 URL:https://www.portugalrunning.com/eventos/corrida-caminhada-lusical/
 END:VEVENT
 END:VCALENDAR

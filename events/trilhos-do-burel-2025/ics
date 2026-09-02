@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6907f0d11ca3c
-DTSTAMP:20251103T000121Z
+UID:44428-0@www.portugalrunning.com
+DTSTAMP:20260902T140211Z
 DTSTART:20251109
 DTEND:20251110
-LOCATION:Manteigas\,  Guarda Manteigas\,  Guarda
+LOCATION:Manteigas\,   Guarda Manteigas\,   Guarda
 SUMMARY:Trilhos do Burel 2025
 DESCRIPTION:Os Trilhos do Burel nascem com os objetivos de promover uma par
  te do Concelho de Manteigas que estava esquecida\,  o Vale da Castanheira\,

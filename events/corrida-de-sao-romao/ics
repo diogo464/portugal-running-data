@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a5616adc2f9d
-DTSTAMP:20260714T105957Z
+UID:53509-0@www.portugalrunning.com
+DTSTAMP:20260902T135949Z
 DTSTART:20260808
 DTEND:20260809
-LOCATION:Carvalhal\,  Grândola Carvalhal\,  Grândola
+LOCATION:Carvalhal\,   Grândola Carvalhal\,   Grândola
 SUMMARY:Corrida de São Romão 2026
 DESCRIPTION:A corrida de São Romão e a caminhada são organizadas pela Ju
  ventude Desportiva do Carvalhal\,  Lebres de Domingo\,  Junta de Freguesia 

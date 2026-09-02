@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:53523-0@www.portugalrunning.com
-DTSTAMP:20260822T060041Z
-DTSTART:20261004T100900Z
+DTSTAMP:20260902T135940Z
+DTSTART:20261004T080000Z
 DTEND:20261004T235900Z
 LOCATION:Barcelos\,   Braga Barcelos\,   Braga
 SUMMARY:Corrida dos Galos 2026
-DESCRIPTION:Sobre a Corrida dos Galos 2026 A Corrida dos Galos realiza-se n
- o dia 4 de outubro de 2026 na cidade de Barcelos\,  organizada pelo Gil Vic
- ente Futebol Clube com cronometragem na StopAndGo. Oferece prova competitiv
- a de 10 km\,  caminhada de 7 km e corrida infantil. Prepara os teus ritmos 
- na[..]\nhttps://www.portugalrunning.com/eventos/corrida-dos-galos/
+DESCRIPTION:Sobre A Corrida dos Galos 2026A Corrida dos Galos 2026 realiza-
+ se no dia 4 de outubro de 2026 (Domingo)\,  em Estádio Cidade de Barcelos 
+ (Barcelos\,  distrito de Braga). Trata-se de um evento desportivo emblemát
+ ico da região\,  reunindo centenas de participantes entre atletas federado
+ s\,  amadores e entusiastas do desporto ao ar[..]\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-dos-galos/
 URL:https://www.portugalrunning.com/eventos/corrida-dos-galos/
 END:VEVENT
 END:VCALENDAR

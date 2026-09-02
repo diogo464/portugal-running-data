@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c60c39c6
-DTSTAMP:20250720T222328Z
+UID:40489-0@www.portugalrunning.com
+DTSTAMP:20260902T135947Z
 DTSTART:20250413
 DTEND:20250414
-LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
+LOCATION:Benfica\,   Lisboa Benfica\,   Lisboa
 SUMMARY:Corrida Francisco Lázaro 2025
 DESCRIPTION:A mítica corrida organizada pela Junta de Freguesia de Benfica
   e pelo Clube Futebol Benfica está de volta. Correr por ruas emblemáticas

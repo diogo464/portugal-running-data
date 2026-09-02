@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c8f92dff
-DTSTAMP:20250720T222415Z
+UID:38698-0@www.portugalrunning.com
+DTSTAMP:20260902T140015Z
 DTSTART:20251011
 DTEND:20251012
-LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+LOCATION:Barreiro\,   Setúbal Barreiro\,   Setúbal
 SUMMARY:Forum Barreiro Night Run 2025
 DESCRIPTION:O Forum Barreiro Night Run está de volta e promete bater um no
  vo recorde de participação!&nbsp; A 10ª edição deste evento de referê

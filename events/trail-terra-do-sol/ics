@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:63532-0@www.portugalrunning.com
+DTSTAMP:20260902T140209Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Amareleja\,   Beja Amareleja\,   Beja
+SUMMARY:Trail Terra do Sol 2026
+DESCRIPTION:Sobre O Trail Terra do Sol 2026O III Trail Terra do Sol 2026 re
+ aliza-se no dia 15 de Novembro de 2026 (Domingo)\,  na emblemática vila da
+  Amareleja\,  concelho de Moura (distrito de Beja). Organizado pela Socieda
+ de Filarmónica União Musical Amarelejense (SFUMA Sports)\,  a prova leva 
+ centenas de atletas a percorrer[..]\nhttps://www.portugalrunning.com/evento
+ s/trail-terra-do-sol/
+URL:https://www.portugalrunning.com/eventos/trail-terra-do-sol/
+END:VEVENT
+END:VCALENDAR

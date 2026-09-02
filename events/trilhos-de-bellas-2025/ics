@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6da2c52e0
-DTSTAMP:20250720T222850Z
+UID:39105-0@www.portugalrunning.com
+DTSTAMP:20260902T140216Z
 DTSTART:20250330
 DTEND:20250331
-LOCATION:Belas\,  Sintra\,  Lisboa Belas\,  Sintra\,  Lisboa
+LOCATION:Belas\,   Sintra\,   Lisboa Belas\,   Sintra\,   Lisboa
 SUMMARY:Trilhos de Bellas 2025
 DESCRIPTION:Esta prova é organizada pela Associação Desportiva GoRunners
   contando com apoio institucionalda União de Freguesias Queluz-Belas e da 

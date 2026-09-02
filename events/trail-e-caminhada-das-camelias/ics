@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b09762f2d6
-DTSTAMP:20260129T071710Z
+UID:48379-0@www.portugalrunning.com
+DTSTAMP:20260902T140145Z
 DTSTART:20260315T050100Z
 DTEND:20260315T235900Z
-LOCATION:Celorico de Basto\,  Braga Celorico de Basto\,  Braga
+LOCATION:Celorico de Basto\,   Braga Celorico de Basto\,   Braga
 SUMMARY:Caminhada e Trail das Camélias 2026
 DESCRIPTION:As&nbsp;Camélias&nbsp;são o símbolo do concelho de&nbsp;Celo
  rico de Basto&nbsp;e\,  por mais nomes que lhes sejam atribuídos\,  nenhum

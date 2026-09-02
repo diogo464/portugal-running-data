@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98af0e922
-DTSTAMP:20260223T000047Z
+UID:47029-0@www.portugalrunning.com
+DTSTAMP:20260902T140019Z
 DTSTART:20260315
 DTEND:20260316
-LOCATION:Grândola\,  Setúbal Grândola\,  Setúbal
+LOCATION:Grândola\,   Setúbal Grândola\,   Setúbal
 SUMMARY:GPA de Grândola – Circuito José Afonso 2026
 DESCRIPTION:No próximo dia 15 de março\,  volta a fazer história o GPA
   de Grândola – Circuito José Afonso\,  uma das provas mais emblemática

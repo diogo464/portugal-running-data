@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c9d213b
-DTSTAMP:20260201T000113Z
+UID:673-0@www.portugalrunning.com
+DTSTAMP:20260902T140143Z
 DTSTART:20200125
 DTEND:20200126
-LOCATION:Paredes\,  Porto Paredes\,  Porto
+LOCATION:Paredes\,   Porto Paredes\,   Porto
 SUMMARY:Trail do Capitão
 DESCRIPTION:O Grupo Desportivo da Portela\,  com o apoio da Câmara Municip
  al de Paredes\,  da Junta de Freguesia de Rebordosa e da Associação Amigo

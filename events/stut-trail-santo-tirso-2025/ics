@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d3063396
-DTSTAMP:20250720T222656Z
+UID:38161-0@www.portugalrunning.com
+DTSTAMP:20260902T140122Z
 DTSTART:20250216
 DTEND:20250217
-LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+LOCATION:Santo Tirso\,   Porto Santo Tirso\,   Porto
 SUMMARY:Stut Trail Santo Tirso 2025
 DESCRIPTION:A 10ª Edição do STUT-Santo Thyrso Ultra Trilhos é uma prova
   de trail\,  organizada pelo NAST Núcleo Associativo de Santo Tirso e Câm

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c2149e3a
-DTSTAMP:20250720T222225Z
+UID:42888-0@www.portugalrunning.com
+DTSTAMP:20260902T135908Z
 DTSTART:20250809
 DTEND:20250810
-LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+LOCATION:Guimarães\,   Braga Guimarães\,   Braga
 SUMMARY:Backyard Ultra Guimarães 2025
 DESCRIPTION:A Ficalho Backyard Ultra é inspirada no conceito Americano cri
  ado por Lazarus Lake e que hoje se repete em muitos países. Este é també

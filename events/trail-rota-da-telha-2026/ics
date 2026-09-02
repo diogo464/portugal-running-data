@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69069f6884647
-DTSTAMP:20251102T000144Z
+UID:44658-0@www.portugalrunning.com
+DTSTAMP:20260902T140209Z
 DTSTART:20260118T171900Z
 DTEND:20260118T235900Z
-LOCATION:Lajes\,  Seia Lajes\,  Seia
+LOCATION:Lajes\,   Seia Lajes\,   Seia
 SUMMARY:Trail Rota da Telha 2026
 DESCRIPTION:O ”II Trail Rota da Telha” é uma corrida de montanha\,  or
  ganizada pelo “Grupo Desportivo Recreativo e Cultural da Lajes” a reali

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff1467b687
-DTSTAMP:20260522T060142Z
+UID:49948-0@www.portugalrunning.com
+DTSTAMP:20260902T140135Z
 DTSTART:20260524
 DTEND:20260525
-LOCATION:Cabrela\,  Évora Cabrela\,  Évora
+LOCATION:Cabrela\,   Évora Cabrela\,   Évora
 SUMMARY:Trail da Filhós 2026
 DESCRIPTION:O Trail da Filhós 2026 é um evento de trail running que decor
  re na pitoresca freguesia de Cabrela\,  Montemor-o-Novo (Portugal). A prova

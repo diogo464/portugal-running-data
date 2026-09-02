@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684deef11e
-DTSTAMP:20260315T100726Z
+UID:48643-0@www.portugalrunning.com
+DTSTAMP:20260902T135951Z
 DTSTART:20260412
 DTEND:20260413
-LOCATION:Praça dos Restauradores\,  Lisboa Praça dos Restauradores\,  Lisboa
+LOCATION:Praça dos Restauradores\,   Lisboa Praça dos Restauradores\,   Lisboa
 SUMMARY:Corrida Sempre Mulher 2026
 DESCRIPTION:A Corrida Sempre Mulher 2026 é um dos eventos solidários mais
   emblemáticos de Lisboa\,  Portugal\,  com a sua próxima edição confirm

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:693220bcd9e2c
-DTSTAMP:20251205T000100Z
+UID:47032-0@www.portugalrunning.com
+DTSTAMP:20260902T135907Z
 DTSTART:20251228T073500Z
 DTEND:20251228T073500Z
-LOCATION:Quarteira\,  Faro Quarteira\,  Faro
+LOCATION:Quarteira\,   Faro Quarteira\,   Faro
 SUMMARY:A última corrida do Ano 2025
 DESCRIPTION:A ÚLTIMA CORRIDA DO ANO\,  é uma prova organizada pela Câma
  ra Municipal de Loulé e Junta de Freguesia de Quarteira com o apoio técni

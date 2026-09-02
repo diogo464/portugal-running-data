@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6daa62984
-DTSTAMP:20250720T222858Z
+UID:40070-0@www.portugalrunning.com
+DTSTAMP:20260902T140215Z
 DTSTART:20250607
 DTEND:20250608
-LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+LOCATION:Santa Maria da Feira\,   Aveiro Santa Maria da Feira\,   Aveiro
 SUMMARY:Trilhos dos Fogaceiros 2025
 DESCRIPTION:Os Trilhos dos Fogaceiros pretendem promover a prática desport
  iva em geral e o gosto pelo desporto na Natureza. O evento decorrerá no pr

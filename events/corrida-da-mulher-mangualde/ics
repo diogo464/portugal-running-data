@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:698687ee494b1
-DTSTAMP:20260207T003142Z
+UID:48270-0@www.portugalrunning.com
+DTSTAMP:20260902T135929Z
 DTSTART:20260308T074800Z
 DTEND:20260308T235900Z
-LOCATION:Mangualde\,  Viseu Mangualde\,  Viseu
+LOCATION:Mangualde\,   Viseu Mangualde\,   Viseu
 SUMMARY:Corrida da Mulher - Mangualde - 2026
 DESCRIPTION:A CORRIDA DA MULHER - I edição é um evento de natureza despo
  rtiva\,  que visa promover o desporto e hábitos de vida saudáveis. O even

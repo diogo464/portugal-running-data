@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c6f91e59
-DTSTAMP:20250720T222343Z
+UID:41120-0@www.portugalrunning.com
+DTSTAMP:20260902T135950Z
 DTSTART:20250621T220800Z
 DTEND:20250621T235900Z
-LOCATION:Maceira\,  Leiria Maceira\,  Leiria
+LOCATION:Maceira\,   Leiria Maceira\,   Leiria
 SUMMARY:Corrida Secil Entrefábricas 2025
 DESCRIPTION:As&nbsp;Casas do Pessoal dos Cimentos Cibra-Pataias e dos Cimen
  tos Maceira\,  em colaboração com o&nbsp;Centro Popular e Recreativo de A

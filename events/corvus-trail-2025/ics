@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c790009d
-DTSTAMP:20250720T222353Z
+UID:40517-0@www.portugalrunning.com
+DTSTAMP:20260902T135950Z
 DTSTART:20250316
 DTEND:20250317
-LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+LOCATION:Abrantes\,   Santarém Abrantes\,   Santarém
 SUMMARY:Corvus Trail 2025
 DESCRIPTION:O “Corvus Trail Branco Gaspar” é um evento de trail runnin
  g\,  que percorre trilhos e caminhos no concelho de Abrantes enquadrado nas

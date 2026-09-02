@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68a7b31fd3cc7
-DTSTAMP:20250822T000031Z
+UID:42800-0@www.portugalrunning.com
+DTSTAMP:20260902T135900Z
 DTSTART:20251004T103300Z
 DTEND:20251004T235900Z
-LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+LOCATION:Cantanhede\,   Coimbra Cantanhede\,   Coimbra
 SUMMARY:6 Milhas José Adelino Guerra 2025
 DESCRIPTION:É com enorme entusiasmo que&nbsp;Os Marialvas&nbsp;te convidam
   a participar na prova solidária&nbsp;“6 Milhas Adelino Guerra”\,  um 

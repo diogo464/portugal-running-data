@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69dc868445901
-DTSTAMP:20260413T060036Z
+UID:48057-0@www.portugalrunning.com
+DTSTAMP:20260902T140050Z
 DTSTART:20260412
 DTEND:20260413
-LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+LOCATION:Barcelos\,   Braga Barcelos\,   Braga
 SUMMARY:Meia Maratona do Cávado 2026
 DESCRIPTION:Resultados A energia do atletismo volta a unir Barcelos e Espos
  ende no dia 12 de abril\,  com mais uma edição da Meia Maratona do Cávad

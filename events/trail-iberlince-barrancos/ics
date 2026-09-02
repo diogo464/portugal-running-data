@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff147a99c5
-DTSTAMP:20260522T060143Z
+UID:47181-0@www.portugalrunning.com
+DTSTAMP:20260902T140156Z
 DTSTART:20260523
 DTEND:20260524
-LOCATION:Barrancos\,  Beja Barrancos\,  Beja
+LOCATION:Barrancos\,   Beja Barrancos\,   Beja
 SUMMARY:Trail Iberlince Barrancos 2026
 DESCRIPTION:O Clube Linces de Noudar - Barrancos é uma Associação sem fi
  ns lucrativos\,  com sede em Barrancos\,  e que promove a prova de Trail �

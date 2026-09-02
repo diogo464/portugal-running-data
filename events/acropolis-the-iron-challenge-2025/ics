@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c1430ce2
-DTSTAMP:20250720T222212Z
+UID:40091-0@www.portugalrunning.com
+DTSTAMP:20260902T135907Z
 DTSTART:20250713
 DTEND:20250714
-LOCATION:Briteiros São Salvador\,  Guimarães Briteiros São Salvador\,  Guimarães
+LOCATION:Briteiros São Salvador\,   Guimarães Briteiros São Salvador\,   Guimarães
 SUMMARY:Acropolis - The Iron Challenge 2025
 DESCRIPTION:A “Acropolis – The Iron Challenge” é uma corrida de obst
  áculos inserida num percurso em plena natureza\,  utilizando o mais possí

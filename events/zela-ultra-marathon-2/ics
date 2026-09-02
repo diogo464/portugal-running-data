@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dd167ac
-DTSTAMP:20260315T100725Z
+UID:43098-0@www.portugalrunning.com
+DTSTAMP:20260902T140225Z
 DTSTART:20260501
 DTEND:20260502
-LOCATION:Vouzela\,  Viseu Vouzela\,  Viseu
+LOCATION:Vouzela\,   Viseu Vouzela\,   Viseu
 SUMMARY:Zela Ultra Marathon 2026
 DESCRIPTION:- O evento Zela Ultra Marathon é organizado pela Spot
  Criativo Eventos em colaboração com o Município de Vouzela e a

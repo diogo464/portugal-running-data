@@ -1,17 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a27ac017f2cb
-DTSTAMP:20260609T060033Z
+UID:51599-0@www.portugalrunning.com
+DTSTAMP:20260902T140214Z
 DTSTART:20261129
 DTEND:20261130
-LOCATION:Alandroal\,  Évora Alandroal\,  Évora
+LOCATION:Alandroal\,   Évora Alandroal\,   Évora
 SUMMARY:Trilhos do Endovélico 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-do-endovelico
- /
+DESCRIPTION:Sobre o Trilhos do Endovélico 2026O Trilhos do Endovélico 202
+ 6 realiza-se no dia 29 de Novembro de 2026 (Domingo)\,  em Portugal (Portug
+ al\,  distrito de Portugal). Trata-se de um evento desportivo emblemático 
+ da região\,  reunindo centenas de participantes entre atletas federados\, 
+  amadores e entusiastas do desporto ao ar livre\,  promovendo o[..]\nhttps:
+ //www.portugalrunning.com/eventos/trilhos-do-endovelico/
 URL:https://www.portugalrunning.com/eventos/trilhos-do-endovelico/
 END:VEVENT
 END:VCALENDAR

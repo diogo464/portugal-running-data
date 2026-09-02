@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a4f392684739
-DTSTAMP:20260709T060110Z
-DTSTART:20261213T135000Z
-DTEND:20261213T235900Z
-LOCATION:Arrifana\,  Santa Maria da Feira Arrifana\,  Santa Maria da Feira
-SUMMARY:São Silvestre de Arrifana 2027
-DESCRIPTION:A segunda edição da São Silvestre de Arrifana\,  com partida
-  e chegada no Largo Manuel José Pereira\,  em Arrifana a 14 de dezembro pe
- las 18h.\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-arrifana
- /
+UID:40024-0@www.portugalrunning.com
+DTSTAMP:20260902T140113Z
+DTSTART:20261213T180000Z
+DTEND:20261214T000000Z
+LOCATION:Arrifana\,   Santa Maria da Feira Arrifana\,   Santa Maria da Feira
+SUMMARY:São Silvestre de Arrifana 2026
+DESCRIPTION:Sobre O São Silvestre de Arrifana 2026A 2.ª São Silvestre de
+  Arrifana 2026 realiza-se no dia 13 de Dezembro de 2026 (Domingo)\,  em Lar
+ go Manuel José Pereira\,  Arrifana (Santa Maria da Feira\,  distrito de Av
+ eiro). Trata-se de uma prova festiva de fim de ano organizada pela Pés no 
+ Asfalto em[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-ar
+ rifana/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-arrifana/
 END:VEVENT
 END:VCALENDAR

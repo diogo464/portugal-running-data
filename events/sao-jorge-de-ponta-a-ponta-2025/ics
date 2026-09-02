@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d09c5133
-DTSTAMP:20250720T222617Z
+UID:42008-0@www.portugalrunning.com
+DTSTAMP:20260902T140106Z
 DTSTART:20250426
 DTEND:20250427
-LOCATION:Ilha de São Jorge\,  Açores Ilha de São Jorge\,  Açores
+LOCATION:Ilha de São Jorge\,   Açores Ilha de São Jorge\,   Açores
 SUMMARY:São Jorge de Ponta a Ponta 2025
 DESCRIPTION:No dia 26 de Abril de 2025\,  terá lugar a X Edição do event
  o “São Jorge de Ponta a Ponta” na ilha de São Jorge no arquipélago d

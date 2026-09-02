@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff1463be5a
-DTSTAMP:20260522T060142Z
+UID:48030-0@www.portugalrunning.com
+DTSTAMP:20260902T140213Z
 DTSTART:20260531T052900Z
 DTEND:20260531T235900Z
-LOCATION:Ventosa\,  Torres Vedras Ventosa\,  Torres Vedras
+LOCATION:Ventosa\,   Torres Vedras Ventosa\,   Torres Vedras
 SUMMARY:Trail Saloios 2026
 DESCRIPTION:O 1ºTrail Saloios apresenta-se com duas categorias de trail ru
  nning\,  com distâncias de 18 kms\,  13 kms e uma categoria de caminhada d

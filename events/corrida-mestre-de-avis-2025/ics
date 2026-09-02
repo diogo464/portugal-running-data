@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c64dc775
-DTSTAMP:20250720T222332Z
+UID:43086-0@www.portugalrunning.com
+DTSTAMP:20260902T135959Z
 DTSTART:20250815
 DTEND:20250816
-LOCATION:Avis\,  Portalegre Avis\,  Portalegre
+LOCATION:Avis\,   Portalegre Avis\,   Portalegre
 SUMMARY:Corrida Mestre de Avis 2025
 DESCRIPTION:Integrado nas Festas da Batalha\,  organizadas pelo Município
   da Batalha\,  realiza-se no dia 15 de agosto de 2025\,  na Batalha\,  ma

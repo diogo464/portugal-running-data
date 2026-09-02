@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:693766dca2718
-DTSTAMP:20251209T000132Z
+UID:39152-0@www.portugalrunning.com
+DTSTAMP:20260902T140110Z
 DTSTART:20241229T163600Z
 DTEND:20241229T235900Z
-LOCATION:Loriga\,  Seia Loriga\,  Seia
+LOCATION:Loriga\,   Seia Loriga\,   Seia
 SUMMARY:São Silvestre da Loriga 2024
 DESCRIPTION:A 36ª Corrida de S. Silvestre da Vila de Loriga\,  realiza-se 
  no dia 29 de dezembro de 2024.\nhttps://www.portugalrunning.com/eventos/sao

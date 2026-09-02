@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c2131a04
-DTSTAMP:20250720T222225Z
+UID:41811-0@www.portugalrunning.com
+DTSTAMP:20260902T135910Z
 DTSTART:20250906
 DTEND:20250907
-LOCATION:Oliveira do Bairro\,  Aveiro Oliveira do Bairro\,  Aveiro
+LOCATION:Oliveira do Bairro\,   Aveiro Oliveira do Bairro\,   Aveiro
 SUMMARY:Bairrada Eco Challenge 2025
 DESCRIPTION:O Bairrada Eco Challenge é um evento desportivo e de lazer que
   irá percorrer as margens do Rio Cértima em particular nas freguesias de 

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b7851e440ad
-DTSTAMP:20250903T000030Z
+UID:44273-0@www.portugalrunning.com
+DTSTAMP:20260902T140004Z
 DTSTART:20251214
 DTEND:20251215
-LOCATION:Arganil\,  Coimbra Arganil\,  Coimbra
+LOCATION:Arganil\,   Coimbra Arganil\,   Coimbra
 SUMMARY:Desafio Picos do Açor 2025
 DESCRIPTION:O Desafio Picos do Açor é organizado pela Evolução Vertical
  . Conta ainda com a colaboração da Câmara Municipal de Arganil e das Jun

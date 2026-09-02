@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d38db494
-DTSTAMP:20250720T222704Z
+UID:41747-0@www.portugalrunning.com
+DTSTAMP:20260902T140130Z
 DTSTART:20250921
 DTEND:20250922
-LOCATION:Airó\,  Barcelos Airó\,  Barcelos
+LOCATION:Airó\,   Barcelos Airó\,   Barcelos
 SUMMARY:Trail Airórun 2025
 DESCRIPTION:O V Trail AiróRun é promovido e organizado pela equipa AiróR
  un e realiza-se no dia 21 desetembro de 2025 às 9h00. Trail Longo - 22 Km 

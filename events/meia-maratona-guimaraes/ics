@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a8151f69a33d
-DTSTAMP:20260816T060022Z
+UID:59222-0@www.portugalrunning.com
+DTSTAMP:20260902T140045Z
 DTSTART:20261005
 DTEND:20261006
-LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+LOCATION:Guimarães\,   Braga Guimarães\,   Braga
 SUMMARY:Meia Maratona Cidade Berço 2026
 DESCRIPTION:A Meia Maratona Cidade Berço em Guimarães desenrola-se a 5 de
   outubto nas históricas ruas da cidade berço de Portugal\,  oferecendo um

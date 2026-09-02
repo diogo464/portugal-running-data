@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d5d4a73c
-DTSTAMP:20250720T222741Z
+UID:40440-0@www.portugalrunning.com
+DTSTAMP:20260902T140141Z
 DTSTART:20250412
 DTEND:20250413
-LOCATION:Santo André\,  Santiago do Cacém Santo André\,  Santiago do Cacém
+LOCATION:Santo André\,   Santiago do Cacém Santo André\,   Santiago do Cacém
 SUMMARY:Trail do Gin Black Pig 2025
 DESCRIPTION:O Trail do Gin Black Pig 2025 é um evento de Trail Running\,  
  que percorre trilhos e caminhos florestais e linhas de água na freguesia d

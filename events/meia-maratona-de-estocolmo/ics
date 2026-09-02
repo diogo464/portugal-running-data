@@ -1,22 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a796906ccd5d
-DTSTAMP:20260810T060038Z
+UID:45322-0@www.portugalrunning.com
+DTSTAMP:20260902T140038Z
 DTSTART:20260829
 DTEND:20260830
-LOCATION:Estocolmo\,  Suécia Estocolmo\,  Suécia
+LOCATION:Estocolmo\,   Suécia Estocolmo\,   Suécia
 SUMMARY:Meia Maratona de Estocolmo 2026
-DESCRIPTION:A Meia Maratona de Estocolmo (adidas Stockholm Half Marathon)
-  é uma das provas mais prestigiadas da Europa\,  realizada tradicionalment
- e no final de agosto\,  percorrendo um trajecto rápido e inspirador de 21\
- , 1 km pelo coração da capital sueca. O percurso serpenteia através de b
- airros icónicos como Norrmalm\,  Vasastan\,  Kungsholmen\,  Gamla Stan (ci
- dade velha)[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-e
- stocolmo/
+DESCRIPTION:Sobre A Meia Maratona de Estocolmo 2026A Meia Maratona de Estoc
+ olmo 2026 (oficialmente adidas Stockholm Half Marathon) realiza-se no dia 2
+ 9 de Agosto de 2026 (Sábado)\,  em Estocolmo (Suécia). Trata-se de uma da
+ s corridas de 21 km mais prestigiadas e concorridas do norte da Europa\,  r
+ eunindo mais de 15.000 atletas[..]\nhttps://www.portugalrunning.com/eventos
+ /meia-maratona-de-estocolmo/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-de-estocolmo/
 END:VEVENT
 END:VCALENDAR

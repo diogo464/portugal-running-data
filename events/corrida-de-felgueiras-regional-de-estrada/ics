@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a5616ad5972c
-DTSTAMP:20260714T105957Z
+UID:53512-0@www.portugalrunning.com
+DTSTAMP:20260902T135941Z
 DTSTART:20260718
 DTEND:20260719
-LOCATION:Felgueiras\,  Porto Felgueiras\,  Porto
+LOCATION:Felgueiras\,   Porto Felgueiras\,   Porto
 SUMMARY:Corrida de Felgueiras / Regional de Estrada 2026
 DESCRIPTION:O Município de Felgueiras leva a efeito\,  no dia 18 de julho 
  de 2026\,  provas de atletismo(Corridas Jovens - Corrida 10 Km e Prova em C

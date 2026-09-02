@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a001eff16cd9
-DTSTAMP:20260510T060031Z
+UID:51116-0@www.portugalrunning.com
+DTSTAMP:20260902T140139Z
 DTSTART:20260927T080000Z
 DTEND:20260927T080000Z
-LOCATION:Airão São João\,  Guimarães Airão São João\,  Guimarães
+LOCATION:Airão São João\,   Guimarães Airão São João\,   Guimarães
 SUMMARY:Trail da Lagoa 2026
-DESCRIPTION:É uma prova que se desenrola na Freguesia de Airão São João
-  em Guimarães\,  com cenários incríveis\,  onde podes aproveitar a paisa
- gem sem pressas\,  encontrar o equilíbrio perfeito entre esforço e divers
- ão e até mesmo testar os teus limites na montanha. Uma prova que percorre
-  trilhos de montanha\,  caminhos rurais[..]\nhttps://www.portugalrunning.co
- m/eventos/trail-da-lagoa/
+DESCRIPTION:Sobre O Trail da Lagoa 2026A 3.ª edição do Trail da Lagoa 20
+ 26 realiza-se na manhã de 27 de Setembro de 2026 (Domingo)\,  na freguesia
+  de Airão São João (concelho de Guimarães\,  distrito de Braga). Organi
+ zado pelo Grupo Desportivo Airão – Curviã com o apoio do Município de 
+ Guimarães\,  o[..]\nhttps://www.portugalrunning.com/eventos/trail-da-lagoa
+ /
 URL:https://www.portugalrunning.com/eventos/trail-da-lagoa/
 END:VEVENT
 END:VCALENDAR

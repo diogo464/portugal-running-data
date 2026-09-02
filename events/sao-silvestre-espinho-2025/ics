@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d1c49ec4
-DTSTAMP:20250720T222636Z
+UID:37540-0@www.portugalrunning.com
+DTSTAMP:20260902T140115Z
 DTSTART:20250112
 DTEND:20250113
-LOCATION:Espinho\,  Aveiro Espinho\,  Aveiro
+LOCATION:Espinho\,   Aveiro Espinho\,   Aveiro
 SUMMARY:São Silvestre Espinho 2025
 DESCRIPTION:A 10ª edição da São Silvestre de Espinho (adiada para dia 1
  2 de janeiro) terá partida e chegada na Câmara Municipal de Espinho. A pr

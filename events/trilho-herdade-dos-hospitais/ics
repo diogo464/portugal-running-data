@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b22626e
-DTSTAMP:20260223T000050Z
+UID:48005-0@www.portugalrunning.com
+DTSTAMP:20260902T140219Z
 DTSTART:20260308
 DTEND:20260309
-LOCATION:Montemor-o-Novo\,  Évora Montemor-o-Novo\,  Évora
+LOCATION:Montemor-o-Novo\,   Évora Montemor-o-Novo\,   Évora
 SUMMARY:Trilho Herdade dos Hospitais 2026
 DESCRIPTION:A organização\,  vai realizar o 5º Trilho Herdade dos Hospit
  ais\,  o qual vai decorrer em Montemor-o-Novo\,  na Herdade dos Hospitais\,

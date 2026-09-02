@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69d89215dbbfa
-DTSTAMP:20260410T060053Z
+UID:50541-0@www.portugalrunning.com
+DTSTAMP:20260902T140136Z
 DTSTART:20260510T061300Z
 DTEND:20260510T061300Z
-LOCATION:Tôr\,  Loulé Tôr\,  Loulé
+LOCATION:Tôr\,   Loulé Tôr\,   Loulé
 SUMMARY:Tôr em Movimento 2026
 DESCRIPTION:O Tôr em Movimento é um evento de cariz desportivo e social\,
    composto por uma corridade trail e uma caminhada\,  organizado pela Don�

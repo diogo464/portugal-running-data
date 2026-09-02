@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a377e0e00bc4
-DTSTAMP:20260621T060046Z
+UID:51775-0@www.portugalrunning.com
+DTSTAMP:20260902T135926Z
 DTSTART:20261121
 DTEND:20261122
-LOCATION:Constância\,  Santarém Constância\,  Santarém
+LOCATION:Constância\,   Santarém Constância\,   Santarém
 SUMMARY:Confluência Trail 2026
-DESCRIPTION:O Confluência Trail tem como objetivo proporcionar aos atletas
-  novas experiências e sensações em trilhosdistintos\,  valorização e d
- ivulgação do território e promoção de Constância e do Médio Tejo.\nh
- ttps://www.portugalrunning.com/eventos/confluencia-trail/
+DESCRIPTION:Sobre O Confluência Trail 2026O Confluência Trail 2026 realiz
+ a-se nos dias 21 e 22 de Novembro de 2026\,  na pitoresca vila de Constânc
+ ia\,  no concelho de Constância (distrito de Santarém). Organizado pelo M
+ unicípio de Constância\,  o evento é uma celebração desportiva e ambie
+ ntal desenhada no ponto exato onde as águas[..]\nhttps://www.portugalrunni
+ ng.com/eventos/confluencia-trail/
 URL:https://www.portugalrunning.com/eventos/confluencia-trail/
 END:VEVENT
 END:VCALENDAR

@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a3100fc3
-DTSTAMP:20260320T110625Z
+UID:47772-0@www.portugalrunning.com
+DTSTAMP:20260902T140145Z
 DTSTART:20260919
 DTEND:20260920
-LOCATION:São Miguel\,  Açores São Miguel\,  Açores
+LOCATION:São Miguel\,   Açores São Miguel\,   Açores
 SUMMARY:Trail dos Morcegos 2026
-DESCRIPTION:A X edição do Trail dos Morcegos by Mitsubishi Motors é um e
- vento de Trail Running\,  que percorretrilhos e caminhos do concelho de Pon
- ta Delgada. Integra 5 provas: o TdM Ultra Trail – 53\, 2 km / 2300 d+ / 2
- 350 d-\,  o TdM Trail – 34\, 4 km / 1590 d+[..]\nhttps://www.portugalrunn
- ing.com/eventos/trail-dos-morcegos/
+DESCRIPTION:Sobre O Trail dos Morcegos 2026O X Trail dos Morcegos 2026 (by 
+ Mitsubishi Motors) realiza-se no dia 19 de Setembro de 2026 (Sábado)\,  de
+ sbravando as deslumbrantes paisagens vulcânicas do concelho de Ponta Delga
+ da (Ilha de São Miguel\,  Arquipélago dos Açores).Pontuável para os Cir
+ cuitos Nacionais da ATRP (Ultra Trail\,  Trail e[..]\nhttps://www.portugalr
+ unning.com/eventos/trail-dos-morcegos/
 URL:https://www.portugalrunning.com/eventos/trail-dos-morcegos/
 END:VEVENT
 END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c747b3e1
-DTSTAMP:20250720T222348Z
+UID:41509-0@www.portugalrunning.com
+DTSTAMP:20260902T140002Z
 DTSTART:20250501
 DTEND:20250502
-LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+LOCATION:Jamor\,   Lisboa Jamor\,   Lisboa
 SUMMARY:Corrida UGT 2025
 DESCRIPTION:Inscreve-te gratuitamente\, &nbsp;recebe o teu kit participante
   e corre para a tua medalha finisher! Não percas a oportunidade de te junt

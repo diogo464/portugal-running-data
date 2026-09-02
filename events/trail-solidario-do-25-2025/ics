@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69151fe0ee970
-DTSTAMP:20251113T000136Z
+UID:45769-0@www.portugalrunning.com
+DTSTAMP:20260902T140212Z
 DTSTART:20251208
 DTEND:20251209
-LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+LOCATION:Pombal\,   Leiria Pombal\,   Leiria
 SUMMARY:Trail Solidário do 25 2025
 DESCRIPTION:A organização informa que este evento\,  a realizar no dia 8 
  de Dezembro de 2025\,  trata-se de um evento de Trail Running\,  Kids trail

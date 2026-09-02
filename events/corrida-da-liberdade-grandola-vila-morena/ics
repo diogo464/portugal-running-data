@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69d519f4f324c
-DTSTAMP:20260407T145132Z
+UID:50421-0@www.portugalrunning.com
+DTSTAMP:20260902T135945Z
 DTSTART:20260424T163700Z
 DTEND:20260424T235900Z
-LOCATION:Grândola\,  Setúbal Grândola\,  Setúbal
+LOCATION:Grândola\,   Setúbal Grândola\,   Setúbal
 SUMMARY:Corrida da Liberdade - Grândola\,  Vila Morena 2026
 DESCRIPTION:⚡ Snapshot Data: 24 de abril de 2026 Local: Grândola\,  Set�
  �bal (Partida no Parque de Feiras e Exposições) Distância: 3.000m (Prova

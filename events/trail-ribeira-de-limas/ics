@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c7837f6
-DTSTAMP:20260201T000111Z
+UID:47821-0@www.portugalrunning.com
+DTSTAMP:20260902T140200Z
 DTSTART:20260215
 DTEND:20260216
-LOCATION:Serpa\,  Beja Serpa\,  Beja
+LOCATION:Serpa\,   Beja Serpa\,   Beja
 SUMMARY:Trail Ribeira de Limas 2026
 DESCRIPTION:A Associação Cultural e Recreativa de Santa Iria através da 
  sua secção de Desporto \,  com o apoioda Câmara Municipal de Serpa e da 

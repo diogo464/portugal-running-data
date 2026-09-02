@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1f68f35
-DTSTAMP:20260723T060103Z
+UID:54301-0@www.portugalrunning.com
+DTSTAMP:20260902T140203Z
 DTSTART:20260920
 DTEND:20260921
-LOCATION:Mombeja\,  Beja Mombeja\,  Beja
+LOCATION:Mombeja\,   Beja Mombeja\,   Beja
 SUMMARY:Trail "Trilhos do Outeiro do Circo" 2026
-DESCRIPTION:O Trail “Trilhos do Outeiro do Circo” – 5ª edição\,  �
- � um evento desportivo de caráter lúdicocompetitivo\,  organizado na alde
- ia de Mombeja pelo Grupo Desportivo e Cultural Mombeja\,  emestreita parcei
- ra com a Câmara Municipal de Beja\,  a União das Freguesias de Santa Vit�
- �ria eMombeja e empresas da região e sob[..]\nhttps://www.portugalrunning.
- com/eventos/trail-trilhos-do-outeiro-do-circo/
+DESCRIPTION:Sobre O Trail "Trilhos do Outeiro do Circo" 2026A 5ª edição 
+ do Trail "Trilhos do Outeiro do Circo" 2026 realiza-se no dia 20 de Setembr
+ o de 2026 (Domingo)\,  na aldeia de Mombeja (concelho de Beja\,  distrito d
+ e Beja). Organizado pelo Grupo Desportivo e Cultural Mombeja em parceria co
+ m a Câmara[..]\nhttps://www.portugalrunning.com/eventos/trail-trilhos-do-o
+ uteiro-do-circo/
 URL:https://www.portugalrunning.com/eventos/trail-trilhos-do-outeiro-do-circo/
 END:VEVENT
 END:VCALENDAR

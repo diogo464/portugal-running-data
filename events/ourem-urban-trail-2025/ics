@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:689bd5adb15de
-DTSTAMP:20250813T000045Z
+UID:42113-0@www.portugalrunning.com
+DTSTAMP:20260902T140101Z
 DTSTART:20250920T141800Z
 DTEND:20250920T235900Z
-LOCATION:Ourém\,  Santarém Ourém\,  Santarém
+LOCATION:Ourém\,   Santarém Ourém\,   Santarém
 SUMMARY:Ourém Urban Trail 2025
 DESCRIPTION:O&nbsp;Ourém Urban Trail&nbsp;decorre a&nbsp;20 de setembro\, 
   com partida e chegada no&nbsp;Centro de Negócios de Ourém. Infinity - Sp

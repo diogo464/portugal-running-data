@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f5999208c72
-DTSTAMP:20260502T062834Z
+UID:50158-0@www.portugalrunning.com
+DTSTAMP:20260902T135942Z
 DTSTART:20260628
 DTEND:20260629
-LOCATION:Argoncilhe\,  Santa Maria da Feira Argoncilhe\,  Santa Maria da Feira
+LOCATION:Argoncilhe\,   Santa Maria da Feira Argoncilhe\,   Santa Maria da Feira
 SUMMARY:Corrida de São João de Pereira 2026
 DESCRIPTION:A 4.ª Corrida de São João de Pereira realiza-se no dia 28 de
   junho de 2026 (domingo)\,  integrada nas festividades populares de Pereira

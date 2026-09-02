@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6da7310a9
-DTSTAMP:20250720T222855Z
+UID:40989-0@www.portugalrunning.com
+DTSTAMP:20260902T140220Z
 DTSTART:20250525
 DTEND:20250526
-LOCATION:Linhaceira\,  Tomar Linhaceira\,  Tomar
+LOCATION:Linhaceira\,   Tomar Linhaceira\,   Tomar
 SUMMARY:Trilhos do Nabão 2025
 DESCRIPTION:A organização da Caminhada 11k\,  Trail Curto 15k e Trail Lon
  go 30k é da responsabilidade da AssociaçãoCultural e Recreativa da Linha

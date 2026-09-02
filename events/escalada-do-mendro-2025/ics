@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c8718005
-DTSTAMP:20250720T222407Z
+UID:41876-0@www.portugalrunning.com
+DTSTAMP:20260902T140000Z
 DTSTART:20250619
 DTEND:20250620
-LOCATION:Vidigueira\,  Beja Vidigueira\,  Beja
+LOCATION:Vidigueira\,   Beja Vidigueira\,   Beja
 SUMMARY:Escalada do Mendro 2025
 DESCRIPTION:A 38ª ESCALADA DO MENDRO encontra-se aberta à participação 
  de todos\,  federados ou não\,  em representação individual ou coletiva 

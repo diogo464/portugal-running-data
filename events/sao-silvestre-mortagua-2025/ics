@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6913ce388c122
-DTSTAMP:20251112T000056Z
+UID:46505-0@www.portugalrunning.com
+DTSTAMP:20260902T140116Z
 DTSTART:20251220
 DTEND:20251221
-LOCATION:Mortágua\,  Viseu Mortágua\,  Viseu
+LOCATION:Mortágua\,   Viseu Mortágua\,   Viseu
 SUMMARY:São Silvestre Mortágua 2025
 DESCRIPTION:O evento denominado por “São Silvestre de Mortágua e Kids R
  ace 2025” é um evento desportivo organizado pelo Município de Mortágua

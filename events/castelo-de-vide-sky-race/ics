@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a2ba08d93c18
-DTSTAMP:20260612T060045Z
-DTSTART:20260927T091600Z
+UID:48327-0@www.portugalrunning.com
+DTSTAMP:20260902T135928Z
+DTSTART:20260927T080000Z
 DTEND:20260927T235900Z
-LOCATION:Castelo de Vide\,  Portalegre Castelo de Vide\,  Portalegre
+LOCATION:Castelo de Vide\,   Portalegre Castelo de Vide\,   Portalegre
 SUMMARY:Castelo de Vide Sky Race 2026
-DESCRIPTION: O TURRES TRAIL CLUBE  \,  com o apoio da Câmara Municipal 
- de Castelo de Vide \,  vai realizar no próximo dia 26 e 27 de Setembro 202
- 6\,  um evento denominado " Castelo de Vide Sky Race 2026   ".  no di
- a 26 vai se realizar uma corrida de SkySprint com uma subida á Senhora da[
- ..]\nhttps://www.portugalrunning.com/eventos/castelo-de-vide-sky-race/
+DESCRIPTION:Sobre o Castelo de Vide Sky Race 2026O Castelo de Vide Sky Race
+  2026 realiza-se no dia 27 de Setembro de 2026 (Domingo)\,  em Praça D. Pe
+ dro V\,  Castelo de Vide (Castelo de Vide\,  distrito de Portalegre). Trata
+ -se de um evento desportivo emblemático da região\,  reunindo centenas de
+  participantes entre[..]\nhttps://www.portugalrunning.com/eventos/castelo-d
+ e-vide-sky-race/
 URL:https://www.portugalrunning.com/eventos/castelo-de-vide-sky-race/
 END:VEVENT
 END:VCALENDAR

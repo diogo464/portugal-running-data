@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ed92af79d6d
-DTSTAMP:20251014T000047Z
+UID:42882-0@www.portugalrunning.com
+DTSTAMP:20260902T140143Z
 DTSTART:20251116T144100Z
 DTEND:20251116T235900Z
-LOCATION:Requeixo\,  Aveiro Requeixo\,  Aveiro
+LOCATION:Requeixo\,   Aveiro Requeixo\,   Aveiro
 SUMMARY:Trail Lagoa da Pateira 2025
 DESCRIPTION:O 2 Trail Lagoa da Pateira é uma prova organizada pelos Agarr
  ados ao BTT em parceria com a Junta de Freguesia de Requeixo\,  Nossa Senho

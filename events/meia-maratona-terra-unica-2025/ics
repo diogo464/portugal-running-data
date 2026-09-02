@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ce231dd6
-DTSTAMP:20250720T222538Z
+UID:41050-0@www.portugalrunning.com
+DTSTAMP:20260902T140053Z
 DTSTART:20250504T224400Z
 DTEND:20250504T235900Z
-LOCATION:Vila Nova de Santo André\,  Santiago do Cacém Vila Nova de Santo André\,  Santiago do Cacém
+LOCATION:Vila Nova de Santo André\,   Santiago do Cacém Vila Nova de Santo André\,   Santiago do Cacém
 SUMMARY:Meia Maratona Terra Única 2025
 DESCRIPTION:A Câmara Municipal de Santiago do Cacém\,  com o apoio da Jun
  ta Freguesia de Santo André e de associações desportivas do Município\,

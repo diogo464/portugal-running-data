@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d09dbae6
-DTSTAMP:20250720T222617Z
+UID:41159-0@www.portugalrunning.com
+DTSTAMP:20260902T140059Z
 DTSTART:20250524
 DTEND:20250525
-LOCATION:Alcochete\,  Setúbal Alcochete\,  Setúbal
+LOCATION:Alcochete\,   Setúbal Alcochete\,   Setúbal
 SUMMARY:Salinas Sunset - Corrida e Caminhada 2025
 DESCRIPTION:O “Salinas Sunset Run” é um evento no âmbito do desporto 
  amador e do turismo de natureza;Esta iniciativa é organizada pelo sector d

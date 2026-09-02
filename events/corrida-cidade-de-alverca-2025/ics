@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c3862299
-DTSTAMP:20250720T222248Z
+UID:41753-0@www.portugalrunning.com
+DTSTAMP:20260902T135931Z
 DTSTART:20251109
 DTEND:20251110
-LOCATION:Alverca Alverca\,  Lisboa
+LOCATION:Alverca Alverca\,   Lisboa
 SUMMARY:Corrida Cidade de Alverca 2025
 DESCRIPTION:A Associação Portugal Talentus\,  com o apoio da Câmara Muni
  cipal de Vila Franca de Xira\,  da Junta de Freguesia de Alverca do Ribatej

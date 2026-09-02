@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e75fae403
-DTSTAMP:20260501T174815Z
+UID:50845-0@www.portugalrunning.com
+DTSTAMP:20260902T140036Z
 DTSTART:20260314
 DTEND:20260315
-LOCATION:Roma\,  Itália Roma\,  Itália
+LOCATION:Roma\,   Itália Roma\,   Itália
 SUMMARY:Maratona de Roma 2027
 DESCRIPTION:Correr a Maratona de Roma não é apenas uma prova de atletismo
  \,  é uma viagem no tempo. Com partida e chegada junto ao icónico Coliseu

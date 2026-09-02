@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cf749922
-DTSTAMP:20250720T222559Z
+UID:42019-0@www.portugalrunning.com
+DTSTAMP:20260902T140053Z
 DTSTART:20250720T110800Z
 DTEND:20250720T235900Z
-LOCATION:Pedrosas\,  Viseu Pedrosas\,  Viseu
+LOCATION:Pedrosas\,   Viseu Pedrosas\,   Viseu
 SUMMARY:Pedrosas Open V 2025
 DESCRIPTION:O Trail Pedrosas Open promete desafiar os amantes do trail runn
  ing e conta com dois níveis depreparação: o Trail de 20km e o Mini Trail

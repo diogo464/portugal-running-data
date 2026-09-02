@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d9d6947
-DTSTAMP:20260315T100721Z
+UID:49957-0@www.portugalrunning.com
+DTSTAMP:20260902T140126Z
 DTSTART:20260531
 DTEND:20260601
-LOCATION:Agroal\,  Ourém Agroal\,  Ourém
+LOCATION:Agroal\,   Ourém Agroal\,   Ourém
 SUMMARY:Trail Agroal 2026
 DESCRIPTION:O Trail Agroal 2026 é uma prova de trail running realizada no 
  Agroal\,  concelho de Ourém (Portugal)\,  com data prevista para 31 de Mai

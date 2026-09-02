@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff98a84b9
-DTSTAMP:20260724T060056Z
+UID:45551-0@www.portugalrunning.com
+DTSTAMP:20260902T140048Z
 DTSTART:20270424
 DTEND:20270425
-LOCATION:Londres\,  Inglaterra Londres\,  Inglaterra
+LOCATION:Londres\,   Inglaterra Londres\,   Inglaterra
 SUMMARY:Maratona de Londres 2027
 DESCRIPTION:Snapshot Data: 24 e 25 de abril de 2027 Local: Londres (Partida
   em Greenwich Park / Blackheath\,  Chegada no The Mall) Distância: 42\, 19

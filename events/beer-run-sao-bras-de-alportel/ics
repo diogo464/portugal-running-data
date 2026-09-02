@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a605c9bd4c28
-DTSTAMP:20260722T060059Z
+UID:54295-0@www.portugalrunning.com
+DTSTAMP:20260902T135921Z
 DTSTART:20260815
 DTEND:20260816
-LOCATION:São Brás de Alportel\,  Faro São Brás de Alportel\,  Faro
+LOCATION:São Brás de Alportel\,   Faro São Brás de Alportel\,   Faro
 SUMMARY:Beer Run São Brás de Alportel 2026
-DESCRIPTION:Uma organização da Free Challenge – Associação Desportiva
-  e Sócio-Cultural\,  com o apoio da CâmaraMunicipal de São Brás de Alpo
- rtel\,  realiza-se no dia 15 de agosto de 2026\,  a "Beer Run São Brás de
- Alportel"\,  com início agendado para às 20h30 no Parque da Amendoeiras e
- m São Brás de Alportel.\nhttps://www.portugalrunning.com/eventos/beer-run
- -sao-bras-de-alportel/
+DESCRIPTION:Sobre O Beer Run São Brás de Alportel 2026A Beer Run São Br�
+ �s de Alportel 2026 realiza-se no dia 15 de agosto de 2026 (Sábado)\,  em 
+ Parque das Amendoeiras (São Brás de Alportel\,  distrito de Faro). Trata-
+ se de um divertido e desafiante evento desportivo inspirado no conceito int
+ ernacional de 'beer[..]\nhttps://www.portugalrunning.com/eventos/beer-run-s
+ ao-bras-de-alportel/
 URL:https://www.portugalrunning.com/eventos/beer-run-sao-bras-de-alportel/
 END:VEVENT
 END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c444948a
-DTSTAMP:20250720T222300Z
+UID:41606-0@www.portugalrunning.com
+DTSTAMP:20260902T135940Z
 DTSTART:20250713
 DTEND:20250714
-LOCATION:São Jacinto\,  Aveiro São Jacinto\,  Aveiro
+LOCATION:São Jacinto\,   Aveiro São Jacinto\,   Aveiro
 SUMMARY:Corrida das Areias 2025
 DESCRIPTION:A CORRIDA DAS AREIAS é uma organização do Regimento de Infan
  taria Nº10 e irá decorrer no próximo dia 13 de julho de 2025\,  em S. Ja

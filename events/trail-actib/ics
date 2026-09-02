@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b09764b51b
-DTSTAMP:20260129T071710Z
+UID:48286-0@www.portugalrunning.com
+DTSTAMP:20260902T140121Z
 DTSTART:20261025
 DTEND:20261026
 LOCATION:Águeda Águeda
 SUMMARY:Trail ACTIB 2026
-DESCRIPTION:O ACTIB-TRAIL é uma prova inserida no “Troféu Trail Terras 
- de Águeda”. As participações poderão ser efetuadas em quatro percurso
- s\,  dois de carácter competitivo e cronometrado (Longo 25Km / Curto 15km 
- / Mini Trail 10km)\,  e dois de carácter recreativo\,  um para adultos (ca
- minhada 8Km)\,  e outro destinado a crianças[..]\nhttps://www.portugalrunn
- ing.com/eventos/trail-actib/
+DESCRIPTION:Sobre O Trail ACTIB 2026O Trail ACTIB 2026 realiza-se no dia 25
+  de Outubro de 2026 (Domingo)\,  na Borralha\,  no concelho de Águeda (dis
+ trito de Aveiro). Inserido no prestigiado circuito Troféu Trail Terras de 
+ Águeda\,  o evento é organizado pelo Águeda Action Club (ACTIB) e convid
+ a atletas e famílias a[..]\nhttps://www.portugalrunning.com/eventos/trail-
+ actib/
 URL:https://www.portugalrunning.com/eventos/trail-actib/
 END:VEVENT
 END:VCALENDAR

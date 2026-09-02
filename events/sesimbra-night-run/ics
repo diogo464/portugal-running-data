@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a76c6051dd67
-DTSTAMP:20260808T060037Z
+UID:49229-0@www.portugalrunning.com
+DTSTAMP:20260902T140116Z
 DTSTART:20260919
 DTEND:20260920
-LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+LOCATION:Sesimbra\,   Setúbal Sesimbra\,   Setúbal
 SUMMARY:Sesimbra Night Run 2026
-DESCRIPTION:(A corrida noturna Sesimbra Night Run\,  agendada para o dia 19
-  de setembro de 2026\,  foi oficialmente adiada para 2027\,  a decisão foi
-  tomada pela Câmara Municipal de Sesimbra em conjunto com a organização 
- do evento.) A ASSOCIAÇÃO DESPORTIVA OMUNDODACORRIDA.COM\,  organiza com o
-  apoio da Câmara Municipal de Sesimbra\,  no[..]\nhttps://www.portugalrunn
- ing.com/eventos/sesimbra-night-run/
+DESCRIPTION:Sobre O Sesimbra Night Run 2026COMUNICADO OFICIAL IMPORTANTE: A
+  edição de 2026 do Sesimbra Night Run foi oficialmente adiada para 2027 p
+ or decisão da Câmara Municipal de Sesimbra e da organização oficial. O 
+ evento previa a realização de uma corrida noturna de 10 km e caminhada co
+ m partida na Praça[..]\nhttps://www.portugalrunning.com/eventos/sesimbra-n
+ ight-run/
 URL:https://www.portugalrunning.com/eventos/sesimbra-night-run/
 END:VEVENT
 END:VCALENDAR

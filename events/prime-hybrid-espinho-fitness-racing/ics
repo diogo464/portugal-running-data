@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a2ba08e85847
-DTSTAMP:20260612T060046Z
-DTSTART:20260926T144000Z
-DTEND:20260926T144000Z
-LOCATION:Espinho\,  Aveiro Espinho\,  Aveiro
+UID:51628-0@www.portugalrunning.com
+DTSTAMP:20260902T140102Z
+DTSTART:20260926T080000Z
+DTEND:20260926T235900Z
+LOCATION:Espinho\,   Aveiro Espinho\,   Aveiro
 SUMMARY:Prime Hybrid Espinho Fitness Racing 2026
-DESCRIPTION:A prova decorre na Praça Progresso\,  com extensão para:● A
- venida 8● Ruas adjacentes autorizadasO evento é 100% urbano outdoor\,  c
- om percurso delimitado\,  zonas de público e operaçãovalidada pelas enti
- dades competentes.\nhttps://www.portugalrunning.com/eventos/prime-hybrid-es
- pinho-fitness-racing/
+DESCRIPTION:Sobre O Prime Hybrid Espinho Fitness Racing 2026O Prime Hybrid 
+ Espinho Fitness Racing 2026 realiza-se no dia 26 de Setembro de 2026 (Sába
+ do)\,  no coração da cidade de Espinho (distrito de Aveiro). Co-organizad
+ o pela Prime Hybrid e pela Câmara Municipal de Espinho\,  o evento é a pr
+ imeira prova de fitness[..]\nhttps://www.portugalrunning.com/eventos/prime-
+ hybrid-espinho-fitness-racing/
 URL:https://www.portugalrunning.com/eventos/prime-hybrid-espinho-fitness-racing/
 END:VEVENT
 END:VCALENDAR

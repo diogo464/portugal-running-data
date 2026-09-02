@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff991ae99
-DTSTAMP:20260724T060057Z
+UID:54984-0@www.portugalrunning.com
+DTSTAMP:20260902T140028Z
 DTSTART:20260426
 DTEND:20260427
-LOCATION:Londres\,  Inglaterra Londres\,  Inglaterra
+LOCATION:Londres\,   Inglaterra Londres\,   Inglaterra
 SUMMARY:Maratona de Londres 2026
 DESCRIPTION:A TCS London Marathon é muito mais do que uma corrida; é o di
  a em que Londres se transforma na maior festa de rua do planeta. Este domin

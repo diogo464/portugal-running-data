@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cd2a747deff
-DTSTAMP:20260401T142348Z
+UID:47757-0@www.portugalrunning.com
+DTSTAMP:20260902T135953Z
 DTSTART:20260329
 DTEND:20260330
-LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+LOCATION:Mafra\,   Lisboa Mafra\,   Lisboa
 SUMMARY:Corrida dos Sinos 2026
 DESCRIPTION:Resultados A 42.ª Corrida dos Sinos é uma das provas de estra
  da mais carismáticas e antigas de Portugal\,  realizando-se na vila de Maf

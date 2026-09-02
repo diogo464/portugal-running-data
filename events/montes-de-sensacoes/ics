@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d9a7192
-DTSTAMP:20260315T100721Z
+UID:49749-0@www.portugalrunning.com
+DTSTAMP:20260902T140050Z
 DTSTART:20260501
 DTEND:20260502
-LOCATION:Gouveia\,  Guarda Gouveia\,  Guarda
+LOCATION:Gouveia\,   Guarda Gouveia\,   Guarda
 SUMMARY:Montes de Sensações 2026
 DESCRIPTION:A Junta de Freguesia de Gouveia promove a 5.ª edição do even
  to “Montes de Sensações”\,  iniciativa de caráter desportivo e recre

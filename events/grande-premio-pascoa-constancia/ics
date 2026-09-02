@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69828c27811ec
-DTSTAMP:20260204T000039Z
+UID:48652-0@www.portugalrunning.com
+DTSTAMP:20260902T140035Z
 DTSTART:20260404
 DTEND:20260405
-LOCATION:Constância\,  Santarém Constância\,  Santarém
+LOCATION:Constância\,   Santarém Constância\,   Santarém
 SUMMARY:Grande Prémio Páscoa Constância 2026
 DESCRIPTION:Uma das provas mais antigas da região\,  realizada pelas marge
  ns do rio Zêzere. Venha fazer parte desta festa da corrida e aproveite par

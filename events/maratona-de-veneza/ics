@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a78178aa1810
-DTSTAMP:20260809T060042Z
+UID:57910-0@www.portugalrunning.com
+DTSTAMP:20260902T140043Z
 DTSTART:20261025T232600Z
 DTEND:20261025T235900Z
-LOCATION:Veneza\,  Itália Veneza\,  Itália
+LOCATION:Veneza\,   Itália Veneza\,   Itália
 SUMMARY:Maratona de Veneza 2026
 DESCRIPTION:A Maratona de Veneza\,  marcada para o dia 25 de outubro de 202
  6\,  desafia os participantes a percorrer os icónicos 42\, 195 km que liga

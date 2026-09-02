@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff1429ea22
-DTSTAMP:20260522T060138Z
+UID:48282-0@www.portugalrunning.com
+DTSTAMP:20260902T135954Z
 DTSTART:20260620T144100Z
 DTEND:20260620T235900Z
-LOCATION:Fermentelos\,  Águeda Fermentelos\,  Águeda
+LOCATION:Fermentelos\,   Águeda Fermentelos\,   Águeda
 SUMMARY:Cross Trail Margens da Pateira 2026
 DESCRIPTION:A Junta de Freguesia de Fermentelos e a AFA – Associação Fe
  rmentelense de Assistência\,  em parceria com o Município de Águeda orga

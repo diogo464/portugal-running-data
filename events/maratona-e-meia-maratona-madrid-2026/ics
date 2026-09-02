@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6916714c612d6
-DTSTAMP:20251114T000116Z
+UID:44237-0@www.portugalrunning.com
+DTSTAMP:20260902T140049Z
 DTSTART:20260426
 DTEND:20260427
-LOCATION:Madrid\,  Espanha Madrid\,  Espanha
+LOCATION:Madrid\,   Espanha Madrid\,   Espanha
 SUMMARY:Meia Maratona de Madrid 2026
 DESCRIPTION:No dia 26 de abril de 2026\,  a Zurich Rock ‘n’ Roll Runnin
  g Series Madrid celebrará 48 anos de corrida e rock em Madri\,  e 47.000 c

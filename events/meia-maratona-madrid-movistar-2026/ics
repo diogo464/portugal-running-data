@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6916714c2e8e0
-DTSTAMP:20251114T000116Z
+UID:46458-0@www.portugalrunning.com
+DTSTAMP:20260902T140052Z
 DTSTART:20260322
 DTEND:20260323
-LOCATION:Madrid\,  Espanha Madrid\,  Espanha
+LOCATION:Madrid\,   Espanha Madrid\,   Espanha
 SUMMARY:Meia Maratona de Madrid (Movistar) 2026
 DESCRIPTION:No dia 22 de março de 2026\,  a Movistar Madrid Medio Maratón
   celebrará mais uma edição da maior meia maratona de Espanha\,  reunindo

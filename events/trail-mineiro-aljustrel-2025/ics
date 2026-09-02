@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d771a141
-DTSTAMP:20250720T222807Z
+UID:40478-0@www.portugalrunning.com
+DTSTAMP:20260902T140152Z
 DTSTART:20250525T205900Z
 DTEND:20250525T235900Z
-LOCATION:Aljustrel\,  Beja Aljustreil\,  Beja
+LOCATION:Aljustrel\,   Beja Aljustreil\,   Beja
 SUMMARY:Trail Mineiro Aljustrel 2025
 DESCRIPTION:Vera Costa\,  o NARM – Núcleo de Atletismo e Recreio de Mess
  ejana e a Câmara Municipal de Aljustrel\, em parceria com outras associaç

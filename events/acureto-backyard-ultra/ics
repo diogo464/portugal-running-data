@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d1600986
-DTSTAMP:20260530T060054Z
-DTSTART:20260905T152500Z
+UID:51524-0@www.portugalrunning.com
+DTSTAMP:20260902T135908Z
+DTSTART:20260905T080000Z
 DTEND:20260905T235900Z
-LOCATION:Ourém\,  Santarém Ourém\,  Santarém
+LOCATION:Ourém\,   Santarém Ourém\,   Santarém
 SUMMARY:Acureto Backyard Ultra 2026
-DESCRIPTION:Porquê a distância de 6.706 km? Porque Lazarus queria que\,  
- ao completar 24 voltas\,  ou seja\,  levando 24 horas\,  um total de 100 mi
- lhas (quase 161 km) fossem percorridas.\nhttps://www.portugalrunning.com/ev
- entos/acureto-backyard-ultra/
+DESCRIPTION:Sobre A Acureto Backyard Ultra 2026A empolgante Acureto Backyar
+ d Ultra 2026 inicia-se a 5 de Setembro de 2026 (Sábado) em Torres Vedras (
+ distrito de Lisboa). Um formato de eliminação global sob chancela oficial
+  de Laz Lake.Às 09:00 arranca a primeira volta de 6\, 706 km. Os atletas t
+ êm de completar a[..]\nhttps://www.portugalrunning.com/eventos/acureto-bac
+ kyard-ultra/
 URL:https://www.portugalrunning.com/eventos/acureto-backyard-ultra/
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a75748f32639
-DTSTAMP:20260807T060047Z
+UID:56693-0@www.portugalrunning.com
+DTSTAMP:20260902T135923Z
 DTSTART:20261025
 DTEND:20261026
-LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+LOCATION:Condeixa\,   Coimbra Condeixa\,   Coimbra
 SUMMARY:Corrida 4 Estações Outono Condeixa 2026
-DESCRIPTION:A Corrida 4 Estações Outono Condeixa regressa no dia 25 de ou
- tubro de 2026 a Condeixa-a-Nova\,  oferecendo uma prova de corrida de 10 km
-  e uma caminhada de 5 km em piso de asfalto e pavimento urbano. O traçado 
- exige uma leitura atenta das condições de aderência\,  combinando alcatr
- ão de[..]\nhttps://www.portugalrunning.com/eventos/corrida-4-estacoes-outo
- no-condeixa/
+DESCRIPTION:Sobre A Corrida 4 Estações Outono Condeixa 2026A Corrida 4 Es
+ tações Outono Condeixa 2026 realiza-se no dia 25 de Outubro de 2026 (Domi
+ ngo)\,  na acolhedora vila de Condeixa-a-Nova (distrito de Coimbra). Integr
+ ada no prestigiado circuito desportivo 'Corrida 4 Estações'\,  a etapa de
+  Outono oferece um desafio acessível no coração histórico[..]\nhttps://
+ www.portugalrunning.com/eventos/corrida-4-estacoes-outono-condeixa/
 URL:https://www.portugalrunning.com/eventos/corrida-4-estacoes-outono-condeixa/
 END:VEVENT
 END:VCALENDAR

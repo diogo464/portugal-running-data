@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a4f3927a1fab
-DTSTAMP:20260709T060111Z
+UID:53194-0@www.portugalrunning.com
+DTSTAMP:20260902T140222Z
 DTSTART:20260627
 DTEND:20260628
-LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+LOCATION:Arouca\,   Aveiro Arouca\,   Aveiro
 SUMMARY:Ultra Trail Serra da Freita 2026
 DESCRIPTION:O Ultra Trail Serra da Freita 2026 ocorre a 27 de junho de 2026
  \,  em Arouca. É uma prova mítica de trail running em terreno técnico e 

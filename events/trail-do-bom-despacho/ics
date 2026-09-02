@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:52950-0@www.portugalrunning.com
-DTSTAMP:20260822T060044Z
-DTSTART:20261018T090600Z
+DTSTAMP:20260902T140138Z
+DTSTART:20261018T080000Z
 DTEND:20261018T235900Z
 LOCATION:São Pedro de Peneferrim\,   Sintra São Pedro de Peneferrin\,   Sintra
 SUMMARY:Trail do Bom Despacho 2026
-DESCRIPTION:Sobre o Trail do Bom Despacho 2026 (Sintra) A 3.ª edição do 
- Trail do Bom Despacho realiza-se no dia 18 de outubro de 2026 na Quinta do 
- Bom Despacho\,  em São Pedro de Penaferrim\,  concelho de Sintra. Organiza
- da pela ATEPS com cronometragem na Acorrer\,  adentra a floresta da Serra d
- e[..]\nhttps://www.portugalrunning.com/eventos/trail-do-bom-despacho/
+DESCRIPTION:Sobre O Trail do Bom Despacho 2026O Trail do Bom Despacho 2026 
+ realiza-se no dia 18 de Outubro de 2026 (Domingo)\,  na mística vila de Si
+ ntra (distrito de Lisboa). Partindo da emblemática Quinta do Bom Despacho\
+ ,  em São Pedro de Penaferrim\,  o evento proporciona uma imersão direta 
+ nos trilhos serranos[..]\nhttps://www.portugalrunning.com/eventos/trail-do-
+ bom-despacho/
 URL:https://www.portugalrunning.com/eventos/trail-do-bom-despacho/
 END:VEVENT
 END:VCALENDAR

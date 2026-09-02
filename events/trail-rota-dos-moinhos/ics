@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a001eff389b2
-DTSTAMP:20260510T060031Z
+UID:49963-0@www.portugalrunning.com
+DTSTAMP:20260902T140155Z
 DTSTART:20260628
 DTEND:20260629
-LOCATION:Albergaria-a-Velha\,  Aveiro Albergaria-a-Velha\,  Aveiro
+LOCATION:Albergaria-a-Velha\,   Aveiro Albergaria-a-Velha\,   Aveiro
 SUMMARY:Trail Rota dos Moinhos 2026
 DESCRIPTION:O Trail Rota dos Moinhos 2026 é um evento emblemático de trai
  l running realizado em Albergaria-a-Velha\,  Portugal\,  com a próxima edi

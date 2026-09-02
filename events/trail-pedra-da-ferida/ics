@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:63028-0@www.portugalrunning.com
+DTSTAMP:20260902T140150Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Penela\,   Coimbra Penela\,   Coimbra
+SUMMARY:Trail Pedra da Ferida 2026
+DESCRIPTION:Sobre O Trail Pedra da Ferida 2026O 5.º Trail Pedra da Ferida 
+ 2026 realiza-se no dia 15 de Novembro de 2026 (Domingo)\,  na vila do Espin
+ hal\,  concelho de Penela (distrito de Coimbra). Organizado pelo Núcleo Cu
+ ltural dos Bombeiros Voluntários de Penela em parceria com a Junta de Freg
+ uesia do Espinhal[..]\nhttps://www.portugalrunning.com/eventos/trail-pedra-
+ da-ferida/
+URL:https://www.portugalrunning.com/eventos/trail-pedra-da-ferida/
+END:VEVENT
+END:VCALENDAR

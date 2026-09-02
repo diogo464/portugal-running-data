@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b09764cc4e
-DTSTAMP:20260129T071710Z
+UID:48231-0@www.portugalrunning.com
+DTSTAMP:20260902T140214Z
 DTSTART:20260412T055300Z
 DTEND:20260412T235900Z
-LOCATION:Alpedriz\,  Alcobaça Alpedriz\,  Alcobaça
+LOCATION:Alpedriz\,   Alcobaça Alpedriz\,   Alcobaça
 SUMMARY:Trilhos Verdes 2026
 DESCRIPTION:A&nbsp;‘3ª Edição Trilhos Verdes Alpedriz’&nbsp;é um ev
  ento organizado pela&nbsp;Associação de Bem Estar Social e Recreativa de 

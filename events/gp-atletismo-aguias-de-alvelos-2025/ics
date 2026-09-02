@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c934a7da
-DTSTAMP:20250720T222419Z
+UID:43089-0@www.portugalrunning.com
+DTSTAMP:20260902T140021Z
 DTSTART:20250906T125300Z
 DTEND:20250906T235900Z
-LOCATION:Alvelos\,  Braga Alvelos\,  Braga
+LOCATION:Alvelos\,   Braga Alvelos\,   Braga
 SUMMARY:GP Atletismo Aguias de Alvelos 2025
 DESCRIPTION:O evento “VII Grande Prémio Ateltismo Águias de Alvelos ”
   é organizado pela Secção de Atletismo e TrailRunning da Associação Re

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1bceb4c
-DTSTAMP:20260723T060059Z
-DTSTART:20261115T061000Z
+UID:53210-0@www.portugalrunning.com
+DTSTAMP:20260902T135925Z
+DTSTART:20261115T090000Z
 DTEND:20261115T235900Z
 LOCATION:Lisboa Lisboa
 SUMMARY:Corrida das Empresas 2026
-DESCRIPTION:Uma corrida de empresas é um evento desportivo onde colegas se
-  juntam fora do escritório para correr em equipa\,  representar a empresa 
- e passar um bom bocado. Não é só competição: é convívio\,  saúde\, 
-  partilha de objetivos e aquele orgulho de cortar a meta com a camisola da 
- empresa vestida.[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-e
- mpresas/
+DESCRIPTION:Sobre A Corrida das Empresas 2026A Corrida das Empresas Quirón
+ prevención 2026 realiza-se no dia 15 de Novembro de 2026 (Domingo)\,  com 
+ centro de operações situado no Beato Innovation District\,  na cidade e c
+ oncelho de Lisboa. O evento marca a estreia em Portugal deste conceituado f
+ ormato de corrida corporativa\,  celebrando o[..]\nhttps://www.portugalrunn
+ ing.com/eventos/corrida-das-empresas/
 URL:https://www.portugalrunning.com/eventos/corrida-das-empresas/
 END:VEVENT
 END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97ca83aac
-DTSTAMP:20260201T000114Z
+UID:46596-0@www.portugalrunning.com
+DTSTAMP:20260902T140205Z
 DTSTART:20260222
 DTEND:20260223
-LOCATION:Monchique\,  Faro Monchique\,  Faro
+LOCATION:Monchique\,   Faro Monchique\,   Faro
 SUMMARY:Trail Serra de Monchique 2026
 DESCRIPTION:O VI Trail Serra de Monchique é organizado pelo Clube Despor
  tivo e Cultural da Nave\,  com o apoio institucional da Câmara Municipal

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68f035bd76f81
-DTSTAMP:20251016T000101Z
+UID:44616-0@www.portugalrunning.com
+DTSTAMP:20260902T140223Z
 DTSTART:20251109
 DTEND:20251110
-LOCATION:Vila Real de Santo António\,  Faro Vila Real de Santo António\,  Faro
+LOCATION:Vila Real de Santo António\,   Faro Vila Real de Santo António\,   Faro
 SUMMARY:X Milhas do Guadiana 2025
 DESCRIPTION:A Comissão Mista Desportiva de Vila Real de Santo António\,  
  Castro Marim e Ayamonte\,  constituída pela Câmara Municipal de Vila Real

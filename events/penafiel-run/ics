@@ -1,18 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a001efe93301
-DTSTAMP:20260510T060030Z
-DTSTART:20260920T130900Z
+UID:51119-0@www.portugalrunning.com
+DTSTAMP:20260902T140057Z
+DTSTART:20260920T083000Z
 DTEND:20260920T235900Z
-LOCATION:Penafiel\,  Porto Penafiel\,  Porto
+LOCATION:Penafiel\,   Porto Penafiel\,   Porto
 SUMMARY:Penafiel Run 2026
-DESCRIPTION:Corrida 10km Mini Corrida/ Caminhada 5km Atividade com cariz so
- lidário\,  ajuda monetária às três Corporações de Bombeiros do Concel
- ho de Penafiel.\nhttps://www.portugalrunning.com/eventos/penafiel-run/
+DESCRIPTION:Sobre o Penafiel Run 2026O Penafiel Run 2026 realiza-se no dia 
+ 20 de setembro de 2026 (Domingo)\,  em Campo da Feira / Parque da Cidade de
+  Penafiel (Penafiel\,  distrito de Porto). Trata-se de um evento desportivo
+  emblemático da região\,  reunindo centenas de participantes entre atleta
+ s federados\,  amadores e entusiastas do[..]\nhttps://www.portugalrunning.c
+ om/eventos/penafiel-run/
 URL:https://www.portugalrunning.com/eventos/penafiel-run/
 END:VEVENT
 END:VCALENDAR

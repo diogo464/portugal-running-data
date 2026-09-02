@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6dc692941
-DTSTAMP:20250720T222926Z
+UID:43183-0@www.portugalrunning.com
+DTSTAMP:20260902T140223Z
 DTSTART:20250927T223600Z
 DTEND:20250927T235900Z
-LOCATION:Marinha Grande\,  Leiria Marinha Grande\,  Leiria
+LOCATION:Marinha Grande\,   Leiria Marinha Grande\,   Leiria
 SUMMARY:Volta aos 7 - Vidrala 2025
 DESCRIPTION:A 2ª edição da prova "Volta aos 7 - Vidrala" é uma organi
  zação do Clube Atletismo de Marinha Grande e da empresa Vidrala S.A.\,

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cb5db9fd
-DTSTAMP:20250720T222453Z
+UID:41502-0@www.portugalrunning.com
+DTSTAMP:20260902T140034Z
 DTSTART:20250720
 DTEND:20250721
-LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+LOCATION:Pombal\,   Leiria Pombal\,   Leiria
 SUMMARY:Légua da Adal - Osso da Baleia 2025
 DESCRIPTION:A&nbsp;ADAL com o apoio da Junta de Freguesia de Carriço e do 
  Município de Pombal\, &nbsp;irá promover no próximo dia&nbsp;20 de julho

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dca7e2d
-DTSTAMP:20260315T100724Z
+UID:49810-0@www.portugalrunning.com
+DTSTAMP:20260902T140149Z
 DTSTART:20260412
 DTEND:20260413
-LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+LOCATION:Sernancelhe\,   Viseu Sernancelhe\,   Viseu
 SUMMARY:Trail e Caminhada "Rota do Cabeço de São Santiago" 2026
 DESCRIPTION:A 5ª Edição do Trail e Caminhada “Rota do Cabeço de São 
  Tiago” é organizada pela Associação de Melhoramentos da Freguesia de E

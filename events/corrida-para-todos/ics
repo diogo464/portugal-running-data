@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1fa5834
-DTSTAMP:20260723T060103Z
-DTSTART:20260927T060800Z
+UID:54303-0@www.portugalrunning.com
+DTSTAMP:20260902T135945Z
+DTSTART:20260927T081500Z
 DTEND:20260927T060800Z
-LOCATION:São Brás de Alportel\,  Faro São Brás de Alportel\,  Faro
+LOCATION:São Brás de Alportel\,   Faro São Brás de Alportel\,   Faro
 SUMMARY:Corrida para Todos 2026
-DESCRIPTION:A 2º Corrida para Todos é um evento desportivo e solidário q
- ue pretende sensibilizar acomunidade para a importância da inclusão atrav
- és do desporto\,  promovendo a participaçãoconjunta de pessoas com e sem
-  incapacidade num ambiente de convívio\,  superação e igualdadede oportu
- nidades. ∙ Data: 27 de setembro de 2026∙ Local: São Brás[..]\nhttps:/
- /www.portugalrunning.com/eventos/corrida-para-todos/
+DESCRIPTION:Sobre A Corrida para Todos 2026A 2.ª edição da Corrida para 
+ Todos 2026 realiza-se na manhã de 27 de Setembro de 2026 (Domingo)\,  na v
+ ila de São Brás de Alportel (distrito de Faro). Promovido pelo Grupo de D
+ esporto Adaptado do CMR Sul e pela Associação Elo de Mudança\,  em parce
+ ria[..]\nhttps://www.portugalrunning.com/eventos/corrida-para-todos/
 URL:https://www.portugalrunning.com/eventos/corrida-para-todos/
 END:VEVENT
 END:VCALENDAR

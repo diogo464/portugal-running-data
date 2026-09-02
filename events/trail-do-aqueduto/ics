@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a02c3ed54add
-DTSTAMP:20260512T060845Z
+UID:51190-0@www.portugalrunning.com
+DTSTAMP:20260902T140135Z
 DTSTART:20261011
 DTEND:20261012
-LOCATION:Paredes\,  Porto Paredes\,  Porto
+LOCATION:Paredes\,   Porto Paredes\,   Porto
 SUMMARY:Trail do Aqueduto 2026
-DESCRIPTION:O trail longo\,  trail\,  trail curto e a caminhada\,  terão p
- artida e chegada no Campo de Golfe do Aqueduto\,  freguesia de Paredes\,  p
- ercorrendo trilhos e caminhos do concelho de Paredes.\nhttps://www.portugal
- running.com/eventos/trail-do-aqueduto/
+DESCRIPTION:Sobre O Trail do Aqueduto 2026O Trail do Aqueduto 2026 realiza-
+ se no dia 11 de Outubro de 2026 (Domingo)\,  em Campo de Golfe do Aqueduto\
+ ,  Vila Cova de Carros\,  Paredes (Paredes\,  distrito de Porto). Trata-se 
+ de um evento desportivo emblemático da região\,  reunindo centenas de par
+ ticipantes entre atletas federados\,  amadores[..]\nhttps://www.portugalrun
+ ning.com/eventos/trail-do-aqueduto/
 URL:https://www.portugalrunning.com/eventos/trail-do-aqueduto/
 END:VEVENT
 END:VCALENDAR

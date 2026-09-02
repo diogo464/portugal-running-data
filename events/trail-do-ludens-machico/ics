@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cd2a7565c4b
-DTSTAMP:20260401T142349Z
+UID:49568-0@www.portugalrunning.com
+DTSTAMP:20260902T140145Z
 DTSTART:20260329
 DTEND:20260330
-LOCATION:Machico\,  Madeira Machico\,  Madeira
+LOCATION:Machico\,   Madeira Machico\,   Madeira
 SUMMARY:Trail do Ludens Machico 2026
 DESCRIPTION:O Trail do Ludens Machico 2026 afirma-se como uma das provas ma
  is técnicas e entusiasmantes da Ilha da Madeira\,  captando um elevado int

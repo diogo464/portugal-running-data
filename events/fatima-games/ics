@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1e22027
-DTSTAMP:20260723T060102Z
+UID:54327-0@www.portugalrunning.com
+DTSTAMP:20260902T140001Z
 DTSTART:20260912T154400Z
 DTEND:20260912T235900Z
-LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+LOCATION:Fátima\,   Santarém Fátima\,   Santarém
 SUMMARY:Fátima Games 2026
-DESCRIPTION:Depois de duas edições memoráveis\,  o Fátima Games regress
- a para a sua 3.ª edição.Este ano voltamos ao palco onde tudo começou: o
-  Estádio Papa Francisco\,  local da primeira edição\,  para mais um dia 
- de desafio\,  superação e comunidade.Inspirado nas provas de fitness func
- ional e resistência\,  o Fátima Games coloca à[..]\nhttps://www.portugal
- running.com/eventos/fatima-games/
+DESCRIPTION:Sobre O Fátima Games 2026O Fátima Games 2026 realiza-se no di
+ a 12 de Setembro de 2026 (Sábado)\,  no Estádio Papa Francisco em Fátima
+  (concelho de Ourém\,  distrito de Santarém). Organizada pela equipa do F
+ átima Games com cronometragem Lap2Go\,  a prova é a grande competição d
+ e corrida e fitness funcional da[..]\nhttps://www.portugalrunning.com/event
+ os/fatima-games/
 URL:https://www.portugalrunning.com/eventos/fatima-games/
 END:VEVENT
 END:VCALENDAR

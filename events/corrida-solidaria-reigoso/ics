@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c5e23b4
-DTSTAMP:20260201T000109Z
-DTSTART:20260301T165500Z
-DTEND:20260301T235900Z
-LOCATION:Reigoso\,  Oliveira de Frades Reigoso\,  Oliveira de Frades
-SUMMARY:Corrida Solidária Reigoso 2026
-DESCRIPTION:Bombeiros Voluntários de Oliveira de Frades com a colaboraçã
- o da equipa dos reumáticos vai organizar uma corrida solidária no dia 1 d
- e março de 2026\,  com corrida de 15km e caminhada de 7km.\nhttps://www.po
- rtugalrunning.com/eventos/corrida-solidaria-reigoso/
+UID:62920-0@www.portugalrunning.com
+DTSTAMP:20260902T135951Z
+DTSTART:20270228T094500Z
+DTEND:20270228T094500Z
+LOCATION:Reigoso\,   Oliveira de Frades Reigoso\,   Oliveira de Frades
+SUMMARY:Corrida Solidária Reigoso 2027
+DESCRIPTION:Sobre A Corrida Solidária Reigoso 2027A 3.ª Corrida Solidári
+ a de Reigoso 2027 realiza-se no dia 28 de fevereiro de 2027\,  em Reigoso\,
+   Oliveira de Frades\,  no distrito de Viseu. Organizado pela Equipa dos Re
+ umáticos (Reumáticos Running Team)\,  este evento desportivo e solidário
+  combina a prática de atletismo com uma forte[..]\nhttps://www.portugalrun
+ ning.com/eventos/corrida-solidaria-reigoso/
 URL:https://www.portugalrunning.com/eventos/corrida-solidaria-reigoso/
 END:VEVENT
 END:VCALENDAR

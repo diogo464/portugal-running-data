@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a4f39277ceb5
-DTSTAMP:20260709T060111Z
+UID:53149-0@www.portugalrunning.com
+DTSTAMP:20260902T140145Z
 DTSTART:20261011
 DTEND:20261012
-LOCATION:Arnoso\,  Vila Nova de Famalicão Arnoso\,  Vila Nova de Famalicão
+LOCATION:Arnoso\,   Vila Nova de Famalicão Arnoso\,   Vila Nova de Famalicão
 SUMMARY:Trail Mosteiro de Arnoso 2026
-DESCRIPTION:O Trail Mosteiro de Arnoso está de volta para V edição\,  an
- o 2026. É uma organização a cargo da Associação QUEBRARITMO\,  como no
- s anos anteriores\,  esta edição promete garantir as mesmas boas emoçõe
- s e sensações aos participantes\,  pois trata-se de umaprova pensada por 
- atletas e para atletas. Com o grande[..]\nhttps://www.portugalrunning.com/e
- ventos/trail-mosteiro-de-arnoso/
+DESCRIPTION:Sobre O Trail Mosteiro de Arnoso 2026O Trail Mosteiro de Arnoso
+  2026 realiza-se no dia 11 de Outubro de 2026 (Domingo)\,  em Arnoso Vila N
+ ova De Famalicao (Arnoso Vila Nova De Famalicao\,  distrito de Porto). Trat
+ a-se de um evento desportivo emblemático da região\,  reunindo centenas d
+ e participantes entre atletas federados\, [..]\nhttps://www.portugalrunning
+ .com/eventos/trail-mosteiro-de-arnoso/
 URL:https://www.portugalrunning.com/eventos/trail-mosteiro-de-arnoso/
 END:VEVENT
 END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c8b48ad3
-DTSTAMP:20250720T222411Z
+UID:37656-0@www.portugalrunning.com
+DTSTAMP:20260902T140015Z
 DTSTART:20250509
 DTEND:20250510
-LOCATION:Manteigas\,  Guarda Manteigas\,  Guarda
+LOCATION:Manteigas\,   Guarda Manteigas\,   Guarda
 SUMMARY:Estrela Grande Trail 2025
 DESCRIPTION:O evento Estrela Grande Trail vai ocorrer entre 09 e 11 de Maio
   2025 em Manteigas na Serra da Estrela. Provas: Estrela Trail Kids e Estrel

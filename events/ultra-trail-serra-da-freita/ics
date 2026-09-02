@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a4f392749ad3
-DTSTAMP:20260709T060111Z
+UID:42974-0@www.portugalrunning.com
+DTSTAMP:20260902T140220Z
 DTSTART:20270626
 DTEND:20270627
-LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+LOCATION:Arouca\,   Aveiro Arouca\,   Aveiro
 SUMMARY:Ultra Trail Serra da Freita 2027
 DESCRIPTION:XXI Ultra Trail Serra da Freita é um evento de Trail Running E
  ste decorre na Serra da Freita. O atleta irá aventurar-se\,  por alguns do

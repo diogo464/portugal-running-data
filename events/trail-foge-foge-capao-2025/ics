@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d72c4465
-DTSTAMP:20250720T222802Z
+UID:40792-0@www.portugalrunning.com
+DTSTAMP:20260902T140150Z
 DTSTART:20250608
 DTEND:20250609
-LOCATION:Freamunde\,  Porto Freamunde\,  Porto
+LOCATION:Freamunde\,   Porto Freamunde\,   Porto
 SUMMARY:Trail Foge Foge Capão 2025
 DESCRIPTION:O Trail Foge Foge Capão 2025 é composto por duas provas compe
  titivas: Trail Longo (25km) e Trail Curto (16km); e por uma Caminhada (10km

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b4390061494
-DTSTAMP:20250831T115856Z
+UID:44202-0@www.portugalrunning.com
+DTSTAMP:20260902T135918Z
 DTSTART:20250927
 DTEND:20250928
-LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+LOCATION:Matosinhos\,   Porto Matosinhos\,   Porto
 SUMMARY:Corrida Beactive Night Matosinhos 2025
 DESCRIPTION:Matosinhos vai juntar-se às comemorações da Semana Europeia 
  do Desporto com a BeActive Night\,  no dia 27 de setembro.&nbsp; Com partid

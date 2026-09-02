@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69d89214ba6cd
-DTSTAMP:20260410T060052Z
+UID:50555-0@www.portugalrunning.com
+DTSTAMP:20260902T140001Z
 DTSTART:20260501
 DTEND:20260502
-LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+LOCATION:Jamor\,   Lisboa Jamor\,   Lisboa
 SUMMARY:Corrida UGT 2026
 DESCRIPTION:Inscreve-te gratuitamente\, &nbsp;recebe o teu kit participante
   e corre para a tua medalha finisher! Não percas a oportunidade de te junt

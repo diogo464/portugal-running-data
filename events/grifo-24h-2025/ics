@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c4b4343975e
-DTSTAMP:20250913T000052Z
+UID:44474-0@www.portugalrunning.com
+DTSTAMP:20260902T140027Z
 DTSTART:20251115T224300Z
 DTEND:20251116T224300Z
-LOCATION:Pontinha\,  Lisboa Pontinha\,  Lisboa
+LOCATION:Pontinha\,   Lisboa Pontinha\,   Lisboa
 SUMMARY:Grifo 24h 2025
 DESCRIPTION:A 2ª edição do GRIFO24h\,  é uma de corrida de resistência
   e de longa duração\,  que se realizará na Unidade de Intervenção da G

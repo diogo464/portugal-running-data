@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c9e92864
-DTSTAMP:20250720T222430Z
+UID:42022-0@www.portugalrunning.com
+DTSTAMP:20260902T140018Z
 DTSTART:20250610T111400Z
 DTEND:20250610T235900Z
-LOCATION:Praia de Mira\,  Mira Praia de Mira\,  Mira
+LOCATION:Praia de Mira\,   Mira Praia de Mira\,   Mira
 SUMMARY:Grande Prémio de Atletismo João Silva 2025
 DESCRIPTION:O Centro Cultural da Praia de Mira\,  volta a organizar o Grand
  e Prémio de Atletismo Concelho de Mira. O evento contará com a parceria d

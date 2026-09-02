@@ -1,18 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a75748e720ca
-DTSTAMP:20260807T060046Z
-DTSTART:20260905T084300Z
+UID:57323-0@www.portugalrunning.com
+DTSTAMP:20260902T135919Z
+DTSTART:20260905T080000Z
 DTEND:20260905T235900Z
-LOCATION:Penafiel\,  Porto Penafiel\,  Porto
-SUMMARY:Beatx Penafiel 2026
-DESCRIPTION:A prova consiste em 1 km de corrida seguido por 1 exercício\, 
-  num total de 8 km de corrida e 8 estações diferentes de exercícios.\nht
- tps://www.portugalrunning.com/eventos/beatx-penafiel/
+LOCATION:Penafiel\,   Porto Penafiel\,   Porto
+SUMMARY:BEATx Penafiel 2026
+DESCRIPTION:Sobre O BEATx Penafiel 2026O BEATx Penafiel 2026 realiza-se no 
+ dia 5 de Setembro de 2026 (Sábado)\,  no moderno complexo do Parque Despor
+ tivo de Penafiel (concelho de Penafiel\,  distrito do Porto). Trata-se de u
+ ma emocionante competição de fitness funcional e corrida híbrida (inspir
+ ada nas exigências das provas estilo HYROX)\,  reunindo[..]\nhttps://www.p
+ ortugalrunning.com/eventos/beatx-penafiel/
 URL:https://www.portugalrunning.com/eventos/beatx-penafiel/
 END:VEVENT
 END:VCALENDAR

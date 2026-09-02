@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a34db1dd3e26
-DTSTAMP:20260619T060101Z
-DTSTART:20260906T154400Z
+UID:48388-0@www.portugalrunning.com
+DTSTAMP:20260902T140104Z
+DTSTART:20260906T073000Z
 DTEND:20260906T235900Z
-LOCATION:Parada de Ester\,  Castro Daire Parada de Ester\,  Castro Daire
+LOCATION:Parada de Ester\,   Castro Daire Parada de Ester\,   Castro Daire
 SUMMARY:Paiva Montemuro Trail 2026
-DESCRIPTION:O Paiva Montemuro Trail é um evento desportivo de trail runnin
- g da responsabilidade organizativa do Grupo Desportivo de Parada e da Casa 
- do Povo de Parada de Ester\,  com sede no Município de Castro Daire\, que 
- se realizará no dia 6 de Setembro de 2026. O Rio Paiva e a Serra[..]\nhttp
- s://www.portugalrunning.com/eventos/paiva-montemuro-trail/
+DESCRIPTION:Sobre O Paiva Montemuro Trail 2026O Paiva Montemuro Trail 2026 
+ realiza-se no dia 6 de Setembro de 2026 (Domingo)\,  no concelho de Castelo
+  de Paiva (distrito de Aveiro). Organizado pelo Grupo Desportivo de Parada 
+ e pela Casa do Povo de Parada de Ester com o apoio do Município de Castelo
+ [..]\nhttps://www.portugalrunning.com/eventos/paiva-montemuro-trail/
 URL:https://www.portugalrunning.com/eventos/paiva-montemuro-trail/
 END:VEVENT
 END:VCALENDAR

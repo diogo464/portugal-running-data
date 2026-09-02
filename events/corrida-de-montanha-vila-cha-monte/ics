@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:698687efbc5e5
-DTSTAMP:20260207T003143Z
+UID:48718-0@www.portugalrunning.com
+DTSTAMP:20260902T135942Z
 DTSTART:20260315T141700Z
 DTEND:20260315T141700Z
-LOCATION:Tarouca\,  Viseu Tarouca\,  Viseu
+LOCATION:Tarouca\,   Viseu Tarouca\,   Viseu
 SUMMARY:Corrida de Montanha – Vila Chã Monte 2026
 DESCRIPTION:Vila Chã do Monte será o palco de uma jornada desportiva pens
  ada para diferentes níveis de preparação e objetivos\,  integrando uma c

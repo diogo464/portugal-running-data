@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68d11a3bd36c9
-DTSTAMP:20250922T094323Z
+UID:44820-0@www.portugalrunning.com
+DTSTAMP:20260902T140113Z
 DTSTART:20251206T064800Z
 DTEND:20251206T064800Z
-LOCATION:Cais de Tancos\,  Tancos Cais de Tancos\,  Tancos
+LOCATION:Cais de Tancos\,   Tancos Cais de Tancos\,   Tancos
 SUMMARY:São Silvestre de Almourol 2025
 DESCRIPTION:A União Desportiva de Tancos em parceria com a Câmar
  a Municipal de Vila Nova da Barquinha e Junta de Freguesia de Ta

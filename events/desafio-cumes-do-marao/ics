@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a33994b3
-DTSTAMP:20260320T110627Z
+UID:46195-0@www.portugalrunning.com
+DTSTAMP:20260902T140000Z
 DTSTART:20260926
 DTEND:20260927
-LOCATION:Amarante\,  Porto Amarante\,  Porto
+LOCATION:Amarante\,   Porto Amarante\,   Porto
 SUMMARY:Desafio Cumes do Marão 2026
-DESCRIPTION:A aldeia de Ansiães é a base do desafio aqui proposto e todas
-  as suas corridas serão circulares\,  cominício e fim no Lugar do Eido\, 
-  doravante designada de Aldeia Cumes (41.25009\,  -7.95410). Serão 4corrid
- as competitivas (50k\,  30k\,  20K e 13K).\nhttps://www.portugalrunning.com
- /eventos/desafio-cumes-do-marao/
+DESCRIPTION:Sobre O Desafio Cumes do Marão 2026O Desafio Cumes do Marão 2
+ 026 realiza-se no dia 26 de Setembro de 2026 (Sábado)\,  na aldeia de Ansi
+ ães (concelho de Amarante\,  distrito do Porto). Co-organizado pela Associ
+ ação Desportiva Marão Trail e pela SavageNatur Events\,  o evento é uma
+  referência de pura montanha na[..]\nhttps://www.portugalrunning.com/event
+ os/desafio-cumes-do-marao/
 URL:https://www.portugalrunning.com/eventos/desafio-cumes-do-marao/
 END:VEVENT
 END:VCALENDAR

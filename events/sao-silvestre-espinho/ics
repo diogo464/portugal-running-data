@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:695aff4fac231
-DTSTAMP:20260105T000119Z
-DTSTART:20260104
-DTEND:20260105
-LOCATION:Espinho\,  Aveiro Espinho\,  Aveiro
-SUMMARY:São Silvestre Espinho 2026
-DESCRIPTION:Resultados 2026 A 11ª edição da São Silvestre de Espinho te
- rá partida e chegada na Câmara Municipal de Espinho. A prova de 10km é c
- ronometrada e está aberta a todos os atletas federados e não federados qu
- e tenham completado 18 anos ao dia da prova. O evento contará ainda com[..
- ]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-espinho/
+UID:65241-0@www.portugalrunning.com
+DTSTAMP:20260902T140113Z
+DTSTART:20270103
+DTEND:20270104
+LOCATION:Espinho\,   Aveiro Espinho\,   Aveiro
+SUMMARY:São Silvestre Espinho 2027
+DESCRIPTION:Sobre O São Silvestre Espinho 2027A São Silvestre Espinho 202
+ 7 realiza-se no dia 3 de Janeiro de 2027 (Domingo)\,  com ponto de partida 
+ e chegada na central Praça Dr. José Salvador (Alameda 8) (Espinho\,  dist
+ rito de Aveiro). Organizada pela Running Espinho com o apoio da Câmara Mun
+ icipal de Espinho\,  a[..]\nhttps://www.portugalrunning.com/eventos/sao-sil
+ vestre-espinho/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-espinho/
 END:VEVENT
 END:VCALENDAR

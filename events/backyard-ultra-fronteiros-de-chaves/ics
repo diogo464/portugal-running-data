@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff14203412
-DTSTAMP:20260522T060138Z
+UID:50295-0@www.portugalrunning.com
+DTSTAMP:20260902T135907Z
 DTSTART:20260620T152500Z
 DTEND:20260620T235900Z
-LOCATION:Chaves\,  Vila Real Chaves\,  Vila Real
+LOCATION:Chaves\,   Vila Real Chaves\,   Vila Real
 SUMMARY:Backyard Ultra Fronteiros de Chaves 2026
 DESCRIPTION:A Backyard Ultra Fronteiros de Chaves está agendada para o dia
   20 de junho de 2026\,  com centro de operações em Chaves\,  Vila Real. E

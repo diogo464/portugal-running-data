@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a2e9518c
-DTSTAMP:20260320T110622Z
+UID:49828-0@www.portugalrunning.com
+DTSTAMP:20260902T140045Z
 DTSTART:20260502T222900Z
 DTEND:20260502T235900Z
-LOCATION:Vila Nova de Santo André\,  Santiago do Cacém Vila Nova de Santo André\,  Santiago do Cacém
+LOCATION:Vila Nova de Santo André\,   Santiago do Cacém Vila Nova de Santo André\,   Santiago do Cacém
 SUMMARY:Meia Maratona do Concelho de Santiago 2026
 DESCRIPTION:A Câmara Municipal de Santiago do Cacém\,  com o apoio da Jun
  ta Freguesia de Santo André e de associações desportivas do Município\,

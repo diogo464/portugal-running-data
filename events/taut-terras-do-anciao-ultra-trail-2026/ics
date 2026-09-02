@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a34db1ece209
-DTSTAMP:20260619T060102Z
+UID:43313-0@www.portugalrunning.com
+DTSTAMP:20260902T140124Z
 DTSTART:20260226
 DTEND:20260227
-LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+LOCATION:Ansião\,   Leiria Ansião\,   Leiria
 SUMMARY:TAUT – Terras do Ancião Ultra Trail 2026
 DESCRIPTION:O Primeiro Campeonato Mundial de 100 km\,  100 milhas e 150 mil
  has. Dos Himalaias aos Alpes\,  da Amazónia ao Mediterrâneo\,  cada etapa

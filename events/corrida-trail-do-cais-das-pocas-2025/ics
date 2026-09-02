@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c744b332
-DTSTAMP:20250720T222348Z
+UID:43146-0@www.portugalrunning.com
+DTSTAMP:20260902T140000Z
 DTSTART:20250804T071700Z
 DTEND:20250804T071700Z
-LOCATION:Santa Cruz das Flores\,  Ilha das Flores Santa Cruz das Flores\,  Ilha das Flores
+LOCATION:Santa Cruz das Flores\,   Ilha das Flores Santa Cruz das Flores\,   Ilha das Flores
 SUMMARY:Corrida / Trail do Cais das Poças 2025
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-trail-do-cais
  -das-pocas-2025/

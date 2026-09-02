@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a31ae80a
-DTSTAMP:20260320T110625Z
+UID:46024-0@www.portugalrunning.com
+DTSTAMP:20260902T135946Z
 DTSTART:20260606
 DTEND:20260607
-LOCATION:Bombarral\,  Leiria Bombarral\,  Leiria
+LOCATION:Bombarral\,   Leiria Bombarral\,   Leiria
 SUMMARY:Corrida do Vinho e da Pera Rocha 2026
 DESCRIPTION:A 15ª CORRIDA DO VINHO E DA PERA ROCHA é uma organização 
  do CDBBR Clube Desportivo do Bombarral com o apoio da União das Fregues

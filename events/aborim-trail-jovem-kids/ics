@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d7a5f7e
-DTSTAMP:20260315T100719Z
+UID:49913-0@www.portugalrunning.com
+DTSTAMP:20260902T135859Z
 DTSTART:20260516T073100Z
 DTEND:20260516T235900Z
-LOCATION:Aborim\,  Barcelos Aborim\,  Barcelos
+LOCATION:Aborim\,   Barcelos Aborim\,   Barcelos
 SUMMARY:Aborim Trail Jovem & Kids 2026
 DESCRIPTION:O 3.º Aborim Trail Jovem & Kids é uma prova de corrida em tri
  lhos naturais\,  organizada pela UCRA – União Cultural Recreativa de Abo

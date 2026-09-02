@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d4c79832
-DTSTAMP:20250720T222724Z
+UID:40598-0@www.portugalrunning.com
+DTSTAMP:20260902T140132Z
 DTSTART:20250809
 DTEND:20250810
-LOCATION:Aldeia do Bispo\,  Sabugal Aldeia do Bispo\,  Sabugal
+LOCATION:Aldeia do Bispo\,   Sabugal Aldeia do Bispo\,   Sabugal
 SUMMARY:Trail da Raia 2025
 DESCRIPTION:O Trail da Raia é uma manifestação desportiva transfronteiri
  ça com percursos elaborados por caminhos rurais e pelos trilhos dos contra

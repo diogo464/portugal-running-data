@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a78178b75957
-DTSTAMP:20260809T060043Z
+UID:51490-0@www.portugalrunning.com
+DTSTAMP:20260902T140150Z
 DTSTART:20260705
 DTEND:20260706
-LOCATION:Vila da Ponte\,  Viseu Vila da Ponte\,  Viseu
+LOCATION:Vila da Ponte\,   Viseu Vila da Ponte\,   Viseu
 SUMMARY:Trail e Caminhada "Rota Passadiços do Távora" 2026
 DESCRIPTION:A 4º Edição do Trail e Caminhada Rota Passadiços do Távora
   é organizada pelo Núcleo Desportivo e Cultural de Vila da Ponte e pela C

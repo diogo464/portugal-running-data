@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:690159359ae94
-DTSTAMP:20251029T000053Z
+UID:46092-0@www.portugalrunning.com
+DTSTAMP:20260902T140107Z
 DTSTART:20251129T192000Z
 DTEND:20251129T235900Z
-LOCATION:Castro Daire\,  Viseu Castro Daire\,  Viseu
+LOCATION:Castro Daire\,   Viseu Castro Daire\,   Viseu
 SUMMARY:São Silveste Castro Daire 2025
 DESCRIPTION:A Câmara Municipal de Castro Daire e a AD Castro Daire organiz
  am\,  no dia 29 de novembro de 2025\,  noComplexo Desportivo de Castro Dair

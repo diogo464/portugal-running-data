@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c574a64a
-DTSTAMP:20250720T222319Z
+UID:41683-0@www.portugalrunning.com
+DTSTAMP:20260902T135933Z
 DTSTART:20250608
 DTEND:20250609
-LOCATION:Odivelas\,  Lisboa Odivelas\,  Lisboa
+LOCATION:Odivelas\,   Lisboa Odivelas\,   Lisboa
 SUMMARY:Corrida Dom Dinis 2025
 DESCRIPTION:A Câmara Municipal de Odivelas\,  com a colaboração do Centr
  o de Marcha e Corrida de Odivelas e dos Bombeiros Voluntários de Odivelas\

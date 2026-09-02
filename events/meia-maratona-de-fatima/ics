@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cd2a77c720d
-DTSTAMP:20260401T142351Z
+UID:46013-0@www.portugalrunning.com
+DTSTAMP:20260902T140039Z
 DTSTART:20260329T232600Z
 DTEND:20260329T235900Z
-LOCATION:Fátima\,  Santarém Fátima\,  Santarém
+LOCATION:Fátima\,   Santarém Fátima\,   Santarém
 SUMMARY:Meia Maratona de Fátima 2026
 DESCRIPTION:Resultados A 2.ª edição da Renascença Meia Maratona de Fát
  ima realiza-se na icónica cidade de Fátima (Ourém)\,  Portugal\,  e assu

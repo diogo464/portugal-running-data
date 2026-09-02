@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69d89215e93f3
-DTSTAMP:20260410T060053Z
+UID:46633-0@www.portugalrunning.com
+DTSTAMP:20260902T140112Z
 DTSTART:20260517
 DTEND:20260518
-LOCATION:Montejunto\,  Cadaval Montejunto\,  Cadaval
+LOCATION:Montejunto\,   Cadaval Montejunto\,   Cadaval
 SUMMARY:Sky Race Montejunto 2026 Verão
 DESCRIPTION:O   TURRES TRAIL CLUBE   com o apoio da Área Protegida d
  a Serra da Montejunto   \,  Câmara Municipal do Cadaval e FCMP- Federa�

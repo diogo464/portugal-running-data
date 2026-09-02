@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a79690738a1b
-DTSTAMP:20260810T060039Z
+UID:44152-0@www.portugalrunning.com
+DTSTAMP:20260902T140049Z
 DTSTART:20260328
 DTEND:20260329
-LOCATION:Praga\,  República Checa Praga\,  República Checa
+LOCATION:Praga\,   República Checa Praga\,   República Checa
 SUMMARY:Meia Maratona de Praga 2026
 DESCRIPTION:Resultados 2026 A Meia Maratona de Praga 2026 realiza-se no dia
   28 de março de 2026\,  percorrendo as ruas históricas da capital da Rep�

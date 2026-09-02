@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:698a751f88765
-DTSTAMP:20260210T000031Z
+UID:48423-0@www.portugalrunning.com
+DTSTAMP:20260902T140009Z
 DTSTART:20260315
 DTEND:20260316
-LOCATION:Estarreja\,  Aveiro Estarreja\,  Aveiro
+LOCATION:Estarreja\,   Aveiro Estarreja\,   Aveiro
 SUMMARY:Grande Prémio Cidade de Estarreja 2026
 DESCRIPTION:Estarreja já se habituou a receber esta prova de estrada\,  re
  ferência regional com provas que se adaptam a todas as idades e forma fís

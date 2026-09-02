@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c574b0d9
-DTSTAMP:20250720T222319Z
+UID:43115-0@www.portugalrunning.com
+DTSTAMP:20260902T135938Z
 DTSTART:20250719T063100Z
 DTEND:20250719T063100Z
-LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+LOCATION:Matosinhos\,   Porto Matosinhos\,   Porto
 SUMMARY:Corrida dos Cabazes 2025
 DESCRIPTION:A Docapesca e a Propeixe são os promotores da 1ª Edição da 
  Corrida dos Cabazes com a organização e responsabilidade técnica da Even

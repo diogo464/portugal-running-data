@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d3049be9
-DTSTAMP:20250720T222656Z
+UID:42339-0@www.portugalrunning.com
+DTSTAMP:20260902T140115Z
 DTSTART:20251018T155200Z
 DTEND:20251018T155200Z
-LOCATION:Vila Chã\,  Alenquer Vila Chã\,  Alenquer
+LOCATION:Vila Chã\,   Alenquer Vila Chã\,   Alenquer
 SUMMARY:SPT Sunset Trail Vila Chã 2025
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/spt-sunset-trail-vila
  -cha-2025/

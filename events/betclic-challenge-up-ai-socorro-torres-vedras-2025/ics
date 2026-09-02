@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c229365d
-DTSTAMP:20250720T222226Z
+UID:42140-0@www.portugalrunning.com
+DTSTAMP:20260902T135927Z
 DTSTART:20250621
 DTEND:20250622
-LOCATION:Torres Vedras\,  Lisboa Torres Vedras\,  Lisboa
+LOCATION:Torres Vedras\,   Lisboa Torres Vedras\,   Lisboa
 SUMMARY:Betclic Challenge Up - Ai Socorro\,  Torres Vedras 2025
 DESCRIPTION:Chegou um novo desafio em inclinação! Em parceria com a Câma
  ra Municipal de Torres Vedras\,  este desafio propõe-te a subida à Serra 

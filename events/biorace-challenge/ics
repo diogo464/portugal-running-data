@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a2ba08e24a9f
-DTSTAMP:20260612T060046Z
+UID:51612-0@www.portugalrunning.com
+DTSTAMP:20260902T135903Z
 DTSTART:20260926
 DTEND:20260927
-LOCATION:Estarreja\,  Aveiro Estarreja\,  Aveiro
+LOCATION:Estarreja\,   Aveiro Estarreja\,   Aveiro
 SUMMARY:Biorace Challenge 2026
-DESCRIPTION:Desafio para todos em pleno contacto com a natureza nos trilhos
-  do BioRia num cenário paradisíaco que convida à prática de exercício 
- físico. Corrida com uma mistura de obstáculos naturais e outros criados p
- ara animar e dificultar a aventura.\nhttps://www.portugalrunning.com/evento
- s/biorace-challenge/
+DESCRIPTION:Sobre O Biorace Challenge 2026A 10ª edição do BioRace Challe
+ nge Estarreja 2026 realiza-se no dia 26 de Setembro de 2026 (Sábado)\,  em
+  Salreu (concelho de Estarreja\,  distrito de Aveiro). Organizada pela Câm
+ ara Municipal de Estarreja nos cenários naturais do BioRia\,  a prova é u
+ ma das corridas de obstáculos (OCR -[..]\nhttps://www.portugalrunning.com/
+ eventos/biorace-challenge/
 URL:https://www.portugalrunning.com/eventos/biorace-challenge/
 END:VEVENT
 END:VCALENDAR

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff1468e9b7
-DTSTAMP:20260522T060142Z
-DTSTART:20261010
-DTEND:20261011
-LOCATION:Abrantes\,  Santarém Abrantes\,  Santarém
+UID:51328-0@www.portugalrunning.com
+DTSTAMP:20260902T140117Z
+DTSTART:20261009
+DTEND:20261010
+LOCATION:Abrantes\,   Santarém Abrantes\,   Santarém
 SUMMARY:Trail Abrantes 100 2026
-DESCRIPTION:O “Trail Abrantes 100” é uma prova Certificada pela ATRP �
- �� Associação de Trail Running de Portugal que integra os Circuitos Nacio
- nais de Trail Ultra Endurance (TA100 – K100)\,  Trail Ultra (TA100 – K5
- 0) e Trail (TA100 – K25). Esta prova reconhecida pela ITRA – Internatio
- nal Trail Running Association\,  é[..]\nhttps://www.portugalrunning.com/ev
- entos/trail-abrantes-100/
+DESCRIPTION:Sobre O Trail Abrantes 100 2026O Trail Abrantes 100 2026 realiz
+ a-se no dia 10 de Outubro de 2026 (Sábado)\,  em Abrantes (Abrantes\,  dis
+ trito de Santarém). O programa oficial acolhe atletas ao longo dos percurs
+ os desenhados no concelho de Abrantes.Com partidas agendadas a partir das 0
+ 0:00\,  a organização disponibiliza o programa[..]\nhttps://www.portugalr
+ unning.com/eventos/trail-abrantes-100/
 URL:https://www.portugalrunning.com/eventos/trail-abrantes-100/
 END:VEVENT
 END:VCALENDAR

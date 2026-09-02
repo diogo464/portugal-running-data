@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b121697
-DTSTAMP:20260223T000049Z
+UID:49628-0@www.portugalrunning.com
+DTSTAMP:20260902T140101Z
 DTSTART:20260404T195800Z
 DTEND:20260404T235900Z
-LOCATION:Vila Real de Santo António\,  Faro Vila Real de Santo António\,  Faro
+LOCATION:Vila Real de Santo António\,   Faro Vila Real de Santo António\,   Faro
 SUMMARY:Memorial José Militão 2026
 DESCRIPTION:O Grupo Desportivo Pic-Nic\,  com o apoio da Câmara Municipal 
  de Vila Real de Santo António e a colaboração da Associação de Atletis

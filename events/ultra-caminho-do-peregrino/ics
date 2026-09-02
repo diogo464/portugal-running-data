@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50780-0@www.portugalrunning.com
-DTSTAMP:20260822T060050Z
-DTSTART:20260904T213300Z
-DTEND:20260904T213300Z
+DTSTAMP:20260902T140221Z
+DTSTART:20260906T070000Z
+DTEND:20260906T070000Z
 LOCATION:Barcelos\,   Braga Barcelos\,   Braga
 SUMMARY:Ultra Caminho do Peregrino 2026
-DESCRIPTION:Sobre o Ultra Caminho do Peregrino 2026 (Barcelos ➔ Santiago)
-  O Ultra Caminho do Peregrino realiza-se de 4 a 6 de setembro de 2026 com p
- artida no Largo da Porta Nova em Barcelos (Braga) e chegada à icónica Pra
- ça do Obradoiro em Santiago de Compostela (Espanha). É uma travessia mít
- ica[..]\nhttps://www.portugalrunning.com/eventos/ultra-caminho-do-peregrino
- /
+DESCRIPTION:Sobre A Ultra Caminho do Peregrino 2026O Ultra Caminho do Pereg
+ rino 2026 é uma grande travessia de ultra trail e navegação que une a hi
+ stórica cidade de Barcelos a Santiago de Compostela\,  ao longo de aproxim
+ adamente 188 km. A decorrer entre os dias 4 e 6 de setembro de 2026\, [..]\
+ nhttps://www.portugalrunning.com/eventos/ultra-caminho-do-peregrino/
 URL:https://www.portugalrunning.com/eventos/ultra-caminho-do-peregrino/
 END:VEVENT
 END:VCALENDAR

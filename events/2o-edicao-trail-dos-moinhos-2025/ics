@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c0018136
-DTSTAMP:20250720T222152Z
+UID:39289-0@www.portugalrunning.com
+DTSTAMP:20260902T135901Z
 DTSTART:20250413
 DTEND:20250414
-LOCATION:Moinhos da Pinhôa\,  Lourinhã Moinhos da Pinhôa\,  Lourinhã
+LOCATION:Pinhôa\,   Lourinhã Pinhôa\,   Lourinhã
 SUMMARY:2º Edição Trail dos Moinhos 2025
 DESCRIPTION:O Trail dos Moinhos é uma organização do Sporting Clube Moit
  ense em parceria com a Junta de Freguesia de Moita dos Ferreiros e com o ap

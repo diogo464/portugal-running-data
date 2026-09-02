@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a4f39265c46b
-DTSTAMP:20260709T060110Z
+UID:51217-0@www.portugalrunning.com
+DTSTAMP:20260902T140119Z
 DTSTART:20260912
 DTEND:20260913
-LOCATION:Afife\,  Viana do Castelo Afife\,  Viana do Castelo
+LOCATION:Afife\,   Viana do Castelo Afife\,   Viana do Castelo
 SUMMARY:Sunset Trail de Afife 2026
-DESCRIPTION:O Sunset Trail de Afife é uma prova recreativa de BTT\,  organ
- izado pela Associação Desportiva Afifense.Este evento tem o apoio institu
- cional e logístico da Câmara Municipal de Viana do Castelo\,  da Junta de
-  Freguesia de Afife e da Junta de Freguesia de Carreço. O evento Sunset Tr
- ail de Afife decorrerá[..]\nhttps://www.portugalrunning.com/eventos/sunset
- -trail-de-afife/
+DESCRIPTION:Sobre O Sunset Trail de Afife 2026O Sunset Trail de Afife 2026 
+ realiza-se no dia 12 de Setembro de 2026 (Sábado)\,  na freguesia de Afife
+  (concelho e distrito de Viana do Castelo). Organizado pela Associação De
+ sportiva Afifense em conjunto com o apoio da Câmara Municipal de Viana do 
+ Castelo\,  da[..]\nhttps://www.portugalrunning.com/eventos/sunset-trail-de-
+ afife/
 URL:https://www.portugalrunning.com/eventos/sunset-trail-de-afife/
 END:VEVENT
 END:VCALENDAR

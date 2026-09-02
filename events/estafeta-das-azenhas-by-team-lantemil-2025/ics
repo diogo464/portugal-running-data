@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c8731fb0
-DTSTAMP:20250720T222407Z
+UID:41103-0@www.portugalrunning.com
+DTSTAMP:20260902T140008Z
 DTSTART:20250501
 DTEND:20250502
-LOCATION:Trofa\,  Porto Trofa\,  Porto
+LOCATION:Trofa\,   Porto Trofa\,   Porto
 SUMMARY:Estafeta das Azenhas by Team Lantemil 2025
 DESCRIPTION:A “Estafeta das Azenhas” terá um único percurso com uma d
  istância de 24km. A estafeta será composta por 4 segmentos devidamente ba

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68f035bc2205d
-DTSTAMP:20251016T000100Z
+UID:44294-0@www.portugalrunning.com
+DTSTAMP:20260902T135958Z
 DTSTART:20251102
 DTEND:20251103
-LOCATION:Ourique\,  Beja Ourique\,  Beja
+LOCATION:Ourique\,   Beja Ourique\,   Beja
 SUMMARY:Corrida MegaFitness 2025
 DESCRIPTION:A Secção de Atletismo do Ourique Desportos Clube em colabora�
  �ão com o Município e a Junta de Freguesia de Ourique\,  irá levar a efe

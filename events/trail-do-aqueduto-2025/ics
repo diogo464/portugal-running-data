@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d55320c3
-DTSTAMP:20250720T222733Z
+UID:41900-0@www.portugalrunning.com
+DTSTAMP:20260902T140136Z
 DTSTART:20251012
 DTEND:20251013
-LOCATION:Paredes\,  Porto Paredes\,  Porto
+LOCATION:Paredes\,   Porto Paredes\,   Porto
 SUMMARY:Trail do Aqueduto 2025
 DESCRIPTION:O Trail\,  o Mini-Trail e a Caminhada\,  terão partida e chega
  da no Campo de Golfe do Aqueduto\,  freguesia de Paredes\,  percorrendo tri

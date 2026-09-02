@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dfa7541
-DTSTAMP:20260315T100727Z
+UID:47141-0@www.portugalrunning.com
+DTSTAMP:20260902T140203Z
 DTSTART:20260522
 DTEND:20260523
-LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+LOCATION:Guimarães\,   Braga Guimarães\,   Braga
 SUMMARY:Trail Erdal - Urgezes Solidário 2026
 DESCRIPTION:O XI TRAIL ERDAL/Vimarunners - URGEZES SOLIDÁRIO será realiza
  do no dia 10 de maio de 2026\,  sendo constituído por 4 eventos: Trail Lon

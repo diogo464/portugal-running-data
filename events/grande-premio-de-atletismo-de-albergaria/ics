@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff14321b17
-DTSTAMP:20260522T060139Z
+UID:50091-0@www.portugalrunning.com
+DTSTAMP:20260902T140026Z
 DTSTART:20260610
 DTEND:20260611
-LOCATION:Albergaria-a-Velha\,  Aveiro Albergaria-a-Velha\,  Aveiro
+LOCATION:Albergaria-a-Velha\,   Aveiro Albergaria-a-Velha\,   Aveiro
 SUMMARY:Grande Prémio de Atletismo de Albergaria 2026
 DESCRIPTION:O 42.º Grande Prémio de Atletismo de Albergaria 2026 realiza-
  se no dia 10 de junho de 2026 (Feriado Nacional)\,  em Albergaria-a-Velha\,

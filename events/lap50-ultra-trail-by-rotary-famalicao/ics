@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d95defb
-DTSTAMP:20260315T100721Z
+UID:47190-0@www.portugalrunning.com
+DTSTAMP:20260902T140027Z
 DTSTART:20260522
 DTEND:20260523
-LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+LOCATION:Vila Nova de Famalicão\,   Braga Famalicão\,   Porto
 SUMMARY:LAP50 Ultra Trail by Rotary Famalicão 2026
 DESCRIPTION:Com o sucesso da 1ª edição\,  a organização viu-se no deve
- r de continuar o evento em 2023\,  2024\,  2025 e 2026. Com a ambição de 
- ultrapassar nesta edição os 1500 participantes\,  depois de em 2025 ter e
- stado próximo\,  o LAP50 Ultra Trail by Rotary Famalicão quer ser uma ref
- erência nacional[..]\nhttps://www.portugalrunning.com/eventos/lap50-ultra-
- trail-by-rotary-famalicao/
+ r de continuar o evento em 2023\,  2024\,  2026 e 2026.Com a ambição de u
+ ltrapassar nesta edição os 1500 participantes\,  depois de em 2026 ter es
+ tado próximo\,  o LAP50 Ultra Trail by Rotary Famalicão quer ser uma refe
+ rência nacional da[..]\nhttps://www.portugalrunning.com/eventos/lap50-ultr
+ a-trail-by-rotary-famalicao/
 URL:https://www.portugalrunning.com/eventos/lap50-ultra-trail-by-rotary-famalicao/
 END:VEVENT
 END:VCALENDAR

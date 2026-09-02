@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d2bc4c1e
-DTSTAMP:20250720T222651Z
+UID:40604-0@www.portugalrunning.com
+DTSTAMP:20260902T140132Z
 DTSTART:20250907
 DTEND:20250908
-LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+LOCATION:Sintra\,   Lisboa Sintra\,   Lisboa
 SUMMARY:Sintra Trail Xtreme 2025
 DESCRIPTION:O evento STE – CARAVELA SEGUROS SINTRA TRAIL X’TREME\,  con
  textualiza-se na vontade dedar a possibilidade a todos os atletas de poder 

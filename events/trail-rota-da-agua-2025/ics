@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d833154d
-DTSTAMP:20250720T222819Z
+UID:41053-0@www.portugalrunning.com
+DTSTAMP:20260902T140204Z
 DTSTART:20250511
 DTEND:20250512
-LOCATION:Querença\,  Loulé Querença\,  Loulé
+LOCATION:Querença\,   Loulé Querença\,   Loulé
 SUMMARY:Trail Rota da Água 2025
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-rota-da-agua-20
  25/

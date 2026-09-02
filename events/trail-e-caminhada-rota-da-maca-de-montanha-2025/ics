@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:688c0879da533
-DTSTAMP:20250801T002113Z
+UID:43817-0@www.portugalrunning.com
+DTSTAMP:20260902T140148Z
 DTSTART:20251018
 DTEND:20251019
-LOCATION:Armamar\,  Viseu Armamar\,  Viseu
+LOCATION:Armamar\,   Viseu Armamar\,   Viseu
 SUMMARY:Trail e Caminhada Rota da Maçã de Montanha 2025
 DESCRIPTION:A Organização do Trail e Caminhada encontra-se integrada na e
  dição da Feira da Maçã de Montanha de 2025\,  sendo da responsabilidade

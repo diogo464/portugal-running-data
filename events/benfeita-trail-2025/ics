@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68a6619b030c1
-DTSTAMP:20250821T000027Z
+UID:40524-0@www.portugalrunning.com
+DTSTAMP:20260902T135924Z
 DTSTART:20250907
 DTEND:20250908
-LOCATION:Benfeita\,  Arganil Benfeita\,  Arganil
+LOCATION:Benfeita\,   Arganil Benfeita\,   Arganil
 SUMMARY:Benfeita Trail 2025
 DESCRIPTION:O evento será composto por um Trail Longo (22 km)\,  que faz
   parte do Circuito Distrital de Trail Longo – ADAC e do Circuito Nacional

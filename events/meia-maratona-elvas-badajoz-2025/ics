@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a78178b1d18a
-DTSTAMP:20260809T060043Z
+UID:46538-0@www.portugalrunning.com
+DTSTAMP:20260902T140052Z
 DTSTART:20251116T082800Z
 DTEND:20251116T235900Z
-LOCATION:Elvas\,  Portalegre Elvas\,  Portalegre
+LOCATION:Elvas\,   Portalegre Elvas\,   Portalegre
 SUMMARY:Meia Maratona Elvas Badajoz
 DESCRIPTION:A 36ª Meia Maratona Internacional Elvas-Badajoz realiza-se e
  m novembro\,  unindo Portugal e Espanha numa das mais emblemáticas provas 

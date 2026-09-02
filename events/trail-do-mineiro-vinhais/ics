@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cd2a7594db8
-DTSTAMP:20260401T142349Z
+UID:50302-0@www.portugalrunning.com
+DTSTAMP:20260902T140147Z
 DTSTART:20260627T072400Z
 DTEND:20260627T072400Z
-LOCATION:Vinhais\,  Bragança Vinhais\,  Bragança
+LOCATION:Vinhais\,   Bragança Vinhais\,   Bragança
 SUMMARY:Trail do Mineiro 2026
 DESCRIPTION:A 1ª edição do Trail do Mineiro realiza-se no dia 27 de junh
  o de 2026\,  na freguesia de Ervedosa\,  concelho de Vinhais. Promovido pel

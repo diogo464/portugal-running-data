@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b43906579ec
-DTSTAMP:20250831T115902Z
+UID:44226-0@www.portugalrunning.com
+DTSTAMP:20260902T140144Z
 DTSTART:20251116
 DTEND:20251117
-LOCATION:Paços de Ferreira\,  Porto Paços de Ferreira\,  Porto
+LOCATION:Paços de Ferreira\,   Porto Paços de Ferreira\,   Porto
 SUMMARY:Trail e Caminhada Clube Trilheiros & Amigos 2025
 DESCRIPTION:É uma prova de Trail running por trilhos e montanhas vales\,  
  que se desenvolve no território de Paços de Ferreira\,  tendo como partid

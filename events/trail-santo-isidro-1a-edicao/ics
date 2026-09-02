@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69e9b57b827c4
-DTSTAMP:20260423T060027Z
+UID:49212-0@www.portugalrunning.com
+DTSTAMP:20260902T140201Z
 DTSTART:20260510
 DTEND:20260511
-LOCATION:Pegões Velhos\,  Setúbal Pegões Velhos\,  Setúbal
+LOCATION:Pegões Velhos\,   Setúbal Pegões Velhos\,   Setúbal
 SUMMARY:Trail Santo Isidro – 1ª Edição 2026
 DESCRIPTION:O Trail Santo Isidro – 1ª Edição realiza-se no dia 10 de M
  aio de 2026 em Pegões Velhos. A organização é da Sociedade Recreativa d

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a76c60425858
-DTSTAMP:20260808T060036Z
+UID:57641-0@www.portugalrunning.com
+DTSTAMP:20260902T140046Z
 DTSTART:20270425T002800Z
 DTEND:20270425T235900Z
-LOCATION:Hamburgo\,  Alemanha Hamburgo\,  Alemanha
+LOCATION:Hamburgo\,   Alemanha Hamburgo\,   Alemanha
 SUMMARY:Maratona de Hamburgo 2027
 DESCRIPTION:Agendada para o dia 25 de abril de 2027\,  em Hamburgo\,  Alema
  nha\,  esta prova de 42\, 195 km em asfalto desenvolve-se por avenidas ampl

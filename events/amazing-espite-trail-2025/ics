@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c193081e
-DTSTAMP:20250720T222217Z
+UID:36507-0@www.portugalrunning.com
+DTSTAMP:20260902T135907Z
 DTSTART:20250720
 DTEND:20250721
-LOCATION:Espite\,  Ourém Espite\,  Ourém
+LOCATION:Espite\,   Ourém Espite\,   Ourém
 SUMMARY:Amazing Espite Trail 2025
 DESCRIPTION:O clube vai contar com o apoio da junta de freguesia de Espite\
  ,  da câmara municipal de Ourém\,  do Bombeiros de Ourém – Secção de

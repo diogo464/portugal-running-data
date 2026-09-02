@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d619265a
-DTSTAMP:20250720T222745Z
+UID:42317-0@www.portugalrunning.com
+DTSTAMP:20260902T140146Z
 DTSTART:20251005
 DTEND:20251006
-LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+LOCATION:Santo Tirso\,   Porto Santo Tirso\,   Porto
 SUMMARY:Trail dos Carreteiros 2025
 DESCRIPTION:O evento terá início às 9:00h no parque de Lazer da Vila de 
  Roriz e percorrerá um trajeto por estradas locais\,  trilhos e caminhos ru

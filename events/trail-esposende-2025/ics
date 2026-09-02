@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d6ec36e4
-DTSTAMP:20250720T222758Z
+UID:39680-0@www.portugalrunning.com
+DTSTAMP:20260902T140143Z
 DTSTART:20250323
 DTEND:20250324
-LOCATION:Esposende\,  Braga Esposende\,  Braga
+LOCATION:Esposende\,   Braga Esposende\,   Braga
 SUMMARY:Trail Esposende 2025
 DESCRIPTION:A Câmara Municipal de Esposende vai realizar\,  no dia 23 de m
  arço de 2025\,  o IX Trail de Esposende. O programa integra três provas: 

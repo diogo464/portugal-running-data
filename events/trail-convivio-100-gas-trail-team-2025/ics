@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68f035bd45f90
-DTSTAMP:20251016T000101Z
+UID:38345-0@www.portugalrunning.com
+DTSTAMP:20260902T140137Z
 DTSTART:20251130T003200Z
 DTEND:20251130T235900Z
-LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+LOCATION:Ansião\,   Leiria Ansião\,   Leiria
 SUMMARY:Trail Convívio 100 Gás Trail Team 2025
 DESCRIPTION:O Convívio Trail Ansião\,  promovido pelos 100 Gás Trail Tea
  m\,  é um evento especial que privilegia a amizade e o espírito de comuni

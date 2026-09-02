@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65232-0@www.portugalrunning.com
+DTSTAMP:20260902T140107Z
+DTSTART:20261128
+DTEND:20261129
+LOCATION:Aveiro Aveiro
+SUMMARY:São Silvestre Aveiro 2026
+DESCRIPTION:Sobre O São Silvestre Aveiro 2026A São Silvestre Aveiro 2026 
+ regressa no dia 28 de Novembro de 2026\,  consolidando-se como um dos event
+ os noturnos mais emblemáticos do calendário desportivo do centro do país
+ . Organizada pelo Município de Aveiro em parceria com a NT Wellness Sports
+  Solutions e cronometragem técnica da[..]\nhttps://www.portugalrunning.com
+ /eventos/sao-silvestre-aveiro/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-aveiro/
+END:VEVENT
+END:VCALENDAR

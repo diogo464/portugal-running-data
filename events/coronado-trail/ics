@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69ce2680bf246
-DTSTAMP:20260402T081912Z
+UID:50387-0@www.portugalrunning.com
+DTSTAMP:20260902T135930Z
 DTSTART:20260404
 DTEND:20260405
-LOCATION:Trofa\,  Porto Trofa\,  Porto
+LOCATION:Trofa\,   Porto Trofa\,   Porto
 SUMMARY:Coronado Trail 2026
 DESCRIPTION:O Coronado Trail 2026 consolida a sua posição no Calendário 
  de Trail 2026\,  convidando os atletas a percorrer os trilhos técnicos e c

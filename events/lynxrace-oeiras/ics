@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a34b61cf
-DTSTAMP:20260320T110628Z
+UID:47766-0@www.portugalrunning.com
+DTSTAMP:20260902T140038Z
 DTSTART:20261101
 DTEND:20261102
-LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+LOCATION:Oeiras\,   Lisboa Oeiras\,   Lisboa
 SUMMARY:Lynxrace Oeiras 2026
-DESCRIPTION:A LYNXRACE é uma Corrida de Obstáculos\,  um desafio que pode
-  ser feito em COMPETITIVE (competição) ou em OPEN (diversão). Os atletas
-  terão de ultrapassar 30 obstáculos ao longo de 10km ou 20 obstáculos ao
-  longo de 05km.Em 2026\,  o CIRCUITO LYNX\,  é constituído por três corr
- idas.\nhttps://www.portugalrunning.com/eventos/lynxrace-oeiras/
+DESCRIPTION:Sobre o Lynxrace Oeiras 2026O Lynxrace Oeiras 2026 realiza-se n
+ o dia 1 de Novembro de 2026 (Domingo)\,  em Portugal (Portugal\,  distrito 
+ de Portugal). Trata-se de um evento desportivo emblemático da região\,  r
+ eunindo centenas de participantes entre atletas federados\,  amadores e ent
+ usiastas do desporto ao ar livre\,  promovendo o contacto com[..]\nhttps://
+ www.portugalrunning.com/eventos/lynxrace-oeiras/
 URL:https://www.portugalrunning.com/eventos/lynxrace-oeiras/
 END:VEVENT
 END:VCALENDAR

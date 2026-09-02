@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a2f950c26014
-DTSTAMP:20260615T060044Z
+UID:51590-0@www.portugalrunning.com
+DTSTAMP:20260902T135911Z
 DTSTART:20260801T105000Z
 DTEND:20260801T235900Z
-LOCATION:Fontão\,  Ponte de Lima Fontão\,  Ponte de Lima
+LOCATION:Fontão\,   Ponte de Lima Fontão\,   Ponte de Lima
 SUMMARY:Correr Fontão 2026
 DESCRIPTION:Correr Fontão surge no âmbito das comemorações do Dia da Fr
  eguesia de Fontão\,  desenvolvida em parceria com a Junta de Freguesia de 

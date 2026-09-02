@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:53142-0@www.portugalrunning.com
-DTSTAMP:20260822T060052Z
+DTSTAMP:20260902T140117Z
 DTSTART:20261212
 DTEND:20261213
 LOCATION:Coimbra Coimbra
-SUMMARY:São Silvestre Coimbra 2026
-DESCRIPTION:Sobre a São Silvestre de Coimbra 2026 A 48.ª edição da Corr
- ida Remax White São Silvestre de Coimbra realiza-se no dia 12 de dezembro 
- de 2026 na Rua Infanta D. Maria\,  em Coimbra. Organizada pela AACC\,  perc
- orre as avenidas marginais do Rio Mondego e a baixa de Coimbra com prova[..
- ]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-coimbra/
+SUMMARY:São Silvestre de Coimbra 2026
+DESCRIPTION:Sobre O São Silvestre de Coimbra 2026A 48ª São Silvestre de 
+ Coimbra 2026 (Remax White) realiza-se no dia 12 de dezembro de 2026 (sábad
+ o)\,  enchendo de mística\,  luz e desporto as artérias emblemáticas da 
+ cidade dos estudantes. Organizada pela Escola de Atletismo de Coimbra / A. 
+ R. Casaense em parceria[..]\nhttps://www.portugalrunning.com/eventos/sao-si
+ lvestre-coimbra/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-coimbra/
 END:VEVENT
 END:VCALENDAR

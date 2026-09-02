@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d54aba61
-DTSTAMP:20250720T222732Z
+UID:34582-0@www.portugalrunning.com
+DTSTAMP:20260902T140141Z
 DTSTART:20241103
 DTEND:20241104
-LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+LOCATION:São João Das Lampas\,   Lisboa São João Das Lampas\,   Lisboa
 SUMMARY:Trail Demónios do Lizandro 2024
 DESCRIPTION:O Trail será constituído por 3 provas de caracter competitivo
   e uma caminhada de lazer. Ultra Trail ( 50km / 2100D+ ) Trail longo ( 25km

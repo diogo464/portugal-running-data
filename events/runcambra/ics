@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684df14774
-DTSTAMP:20260315T100727Z
+UID:49907-0@www.portugalrunning.com
+DTSTAMP:20260902T140112Z
 DTSTART:20260517
 DTEND:20260518
-LOCATION:Vale de Cambra\,  Aveiro Vale de Cambra\,  Aveiro
+LOCATION:Vale de Cambra\,   Aveiro Vale de Cambra\,   Aveiro
 SUMMARY:Runcambra 2026
 DESCRIPTION:A Runcambra é um evento de atletismo realizado anualmente na c
  idade de Vale de Cambra\,  Portugal\,  consolidando-se como uma referência

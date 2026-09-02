@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e76066d50
-DTSTAMP:20260501T174816Z
+UID:50897-0@www.portugalrunning.com
+DTSTAMP:20260902T140029Z
 DTSTART:20270404
 DTEND:20270405
-LOCATION:Madrid\,  Espanha Madrid\,  Espanha
+LOCATION:Madrid\,   Espanha Madrid\,   Espanha
 SUMMARY:Maratona de Madrid 2027
 DESCRIPTION:Madrid não é apenas uma corrida\,  é uma "festa do rock" sob
  re asfalto. No dia 4 de abril de 2027\,  a capital espanhola recebe milhare

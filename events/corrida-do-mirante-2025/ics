@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c5748e5f
-DTSTAMP:20250720T222319Z
+UID:40429-0@www.portugalrunning.com
+DTSTAMP:20260902T135934Z
 DTSTART:20250601
 DTEND:20250602
-LOCATION:Ota\,  Lisboa Ota\,  Lisboa
+LOCATION:Ota\,   Lisboa Ota\,   Lisboa
 SUMMARY:Corrida do Mirante 2025
 DESCRIPTION:Com partida no Centro Social Recreativo Desportivo da Ota esta 
  etapa vai levar-te a conhecer os melhores pontos de interesse da Ota\,  com

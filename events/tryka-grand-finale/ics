@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:63584-0@www.portugalrunning.com
+DTSTAMP:20260902T140218Z
+DTSTART:20261010T070000Z
+DTEND:20261010T080000Z
+LOCATION:Lisboa Lisboa
+SUMMARY:Tryka Grand Finale 2026
+DESCRIPTION:Sobre O Tryka Grand Finale 2026O Tryka Grand Finale 2026 realiz
+ a-se no dia 10 de Outubro de 2026 na FIL - Feira Internacional de Lisboa\, 
+  no Parque das Nações. Organizado pela Tryka Fitness\,  a grande etapa de
+  encerramento da época internacional reúne atletas continentais e interna
+ cionais na capital portuguesa.Com início[..]\nhttps://www.portugalrunning.
+ com/eventos/tryka-grand-finale/
+URL:https://www.portugalrunning.com/eventos/tryka-grand-finale/
+END:VEVENT
+END:VCALENDAR

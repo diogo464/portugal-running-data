@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ccc92d6a
-DTSTAMP:20250720T222516Z
+UID:41482-0@www.portugalrunning.com
+DTSTAMP:20260902T140038Z
 DTSTART:20250629T212500Z
 DTEND:20250629T235900Z
-LOCATION:Alpiarça\,  Santarém Alpiarça\,  Santarém
+LOCATION:Alpiarça\,   Santarém Alpiarça\,   Santarém
 SUMMARY:Meia Maratona de Alpiarça 2025
 DESCRIPTION:O Município de Alpiarça a Junta de Freguesia de Alpiarça est
  ão empenhados na organização da 2.aMini e Meia-Maratona de Alpiarça –

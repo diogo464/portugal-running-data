@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69e46f7c7653b
-DTSTAMP:20260419T060028Z
+UID:49719-0@www.portugalrunning.com
+DTSTAMP:20260902T135946Z
 DTSTART:20260418
 DTEND:20260419
-LOCATION:Benfica\,  Lisboa Benfica\,  Lisboa
+LOCATION:Benfica\,   Lisboa Benfica\,   Lisboa
 SUMMARY:Corrida Francisco Lázaro 2026
 DESCRIPTION:Resultados A mítica corrida organizada pela Junta de Freguesia
   de Benfica e pelo Clube Futebol Benfica está de volta. Correr por ruas em

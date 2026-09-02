@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c211346cab6
-DTSTAMP:20250911T000052Z
+UID:44452-0@www.portugalrunning.com
+DTSTAMP:20260902T140030Z
 DTSTART:20251101
 DTEND:20251102
-LOCATION:Estádio Universitário de Lisboa\,  Lisboa Estádio Universitário de Lisboa\,  Lisboa
+LOCATION:Estádio Universitário de Lisboa\,   Lisboa Estádio Universitário de Lisboa\,   Lisboa
 SUMMARY:Halloween Run Party 2025
 DESCRIPTION:No dia&nbsp;01 de&nbsp;Novembro de 2025\,  o Parque da Paz em A
  lmada&nbsp;será\,  o palco para a 10ª Halloween Night Run! Mascara-te a r

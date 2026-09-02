@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69da166270296
-DTSTAMP:20260411T093738Z
+UID:50596-0@www.portugalrunning.com
+DTSTAMP:20260902T140015Z
 DTSTART:20260517T072600Z
 DTEND:20260517T072600Z
-LOCATION:Alfândega Da Fé\,  Bragança Alfândega da Fé\,  Bragança
+LOCATION:Alfândega Da Fé\,   Bragança Alfândega da Fé\,   Bragança
 SUMMARY:Grande Prémio das Cerejas Luís Azevedo 2026
 DESCRIPTION:O “Grande Prémio das Cerejas Luís Azevedo” é o evento de
   atletismo de referência na região\,  umbilicalmente associado à “Fest

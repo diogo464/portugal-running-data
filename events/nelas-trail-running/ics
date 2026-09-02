@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c551666
-DTSTAMP:20260201T000109Z
+UID:47318-0@www.portugalrunning.com
+DTSTAMP:20260902T140058Z
 DTSTART:20260301
 DTEND:20260302
-LOCATION:Nelas\,  Viseu Nelas\,  Viseu
+LOCATION:Nelas\,   Viseu Nelas\,   Viseu
 SUMMARY:Nelas Trail Running 2026
 DESCRIPTION:O IX Nelas Trail Running é organizado pelo Núcleo Dão Nelas 
  / Dão Nelas Runners. Decorrerá no dia 1 de março de 2026. Os percursos d

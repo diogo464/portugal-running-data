@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d2bdb375
-DTSTAMP:20250720T222651Z
+UID:36273-0@www.portugalrunning.com
+DTSTAMP:20260902T140126Z
 DTSTART:20240928
 DTEND:20240929
-LOCATION:Sines\,  Setúbal Sines\,  Setúbal
+LOCATION:Sines\,   Setúbal Sines\,   Setúbal
 SUMMARY:Sines Corre Mais 2024
 DESCRIPTION:Dia 28 de setembro de 2024\,  com partida e chegada Praia Vasco
   da Gama\,  nos seguintes horários: Corrida 10 Km:&nbsp;Dia 28 de setembro

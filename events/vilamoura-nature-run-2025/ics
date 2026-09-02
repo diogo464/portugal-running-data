@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6dbfabe93
-DTSTAMP:20250720T222919Z
+UID:41524-0@www.portugalrunning.com
+DTSTAMP:20260902T140223Z
 DTSTART:20250419
 DTEND:20250420
-LOCATION:Vilamoura\,  Faro Vilamoura\,  Faro
+LOCATION:Vilamoura\,   Faro Vilamoura\,   Faro
 SUMMARY:Vilamoura Nature Run 2025
 DESCRIPTION:Numa coorganizagdo da Free Challenge\,  Vilamoura World e com o
   apoio da Junta de Freguesia de Quarteira\,  Camara Municipal de Loulé e I

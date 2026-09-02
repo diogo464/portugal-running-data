@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c64f3de2
-DTSTAMP:20250720T222332Z
+UID:41473-0@www.portugalrunning.com
+DTSTAMP:20260902T135946Z
 DTSTART:20250504T151400Z
 DTEND:20250504T151400Z
-LOCATION:Paços de Ferreira\,  Porto Paços de Ferreira\,  Porto
+LOCATION:Paços de Ferreira\,   Porto Paços de Ferreira\,   Porto
 SUMMARY:Corrida pela Liberdade 2025
 DESCRIPTION:A Corrida pela Liberdade é uma iniciativa do Município de Pa�
  �os de Ferreira\,  que assinala as comemorações do 25 de Abril. Com um pe

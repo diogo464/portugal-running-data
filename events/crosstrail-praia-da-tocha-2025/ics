@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c7e48d21
-DTSTAMP:20250720T222358Z
+UID:41515-0@www.portugalrunning.com
+DTSTAMP:20260902T135956Z
 DTSTART:20250615
 DTEND:20250616
-LOCATION:Tocha\,  Coimbra Tocha\,  Coimbra
+LOCATION:Tocha\,   Coimbra Tocha\,   Coimbra
 SUMMARY:Crosstrail Praia da Tocha 2025
 DESCRIPTION:O 6º Crosstrail Praia da Tocha é um evento desportivo\,  real
  izado nos dias 14 e 15 de junho de 2025. Do evento fará parte o Crosstrail

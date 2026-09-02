@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684e0319d2
-DTSTAMP:20260315T100728Z
+UID:49633-0@www.portugalrunning.com
+DTSTAMP:20260902T140208Z
 DTSTART:20260501
 DTEND:20260502
-LOCATION:Ourique\,  Beja Ourique\,  Beja
+LOCATION:Ourique\,   Beja Ourique\,   Beja
 SUMMARY:Trilhos da Cola 2026
 DESCRIPTION:Os Trilhos da Cola 2026 são uma prova de trail running que se 
  realiza na localidade de Ourique\,  na região do Alentejo\,  Portugal. O e

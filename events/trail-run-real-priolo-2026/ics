@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae203ad59
-DTSTAMP:20260723T060104Z
+UID:54322-0@www.portugalrunning.com
+DTSTAMP:20260902T140212Z
 DTSTART:20260418
 DTEND:20260419
-LOCATION:Ilha de São Miguel\,  Açores Ilha de São Miguel\,  Açores
+LOCATION:Ilha de São Miguel\,   Açores Ilha de São Miguel\,   Açores
 SUMMARY:Trail Run Real Priolo 2026
 DESCRIPTION:O Trail Run Real Priolo 2026 é dos maiores eventos de Trail Ru
  nning realizado na ilha de São Miguel e\,  na sua 6ª edição\,  renova a

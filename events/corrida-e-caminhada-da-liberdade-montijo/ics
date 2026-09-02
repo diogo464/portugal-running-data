@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d94575d
-DTSTAMP:20260315T100721Z
+UID:49887-0@www.portugalrunning.com
+DTSTAMP:20260902T135942Z
 DTSTART:20260425
 DTEND:20260426
-LOCATION:Montijo\,  Setúbal Montijo\,  Setúbal
+LOCATION:Montijo\,   Setúbal Montijo\,   Setúbal
 SUMMARY:Corrida da Liberdade Montijo 2026
 DESCRIPTION:A 12ª Corrida da Liberdade do Montijo é uma prova de atletism
  o de estrada celebrada no Montijo\,  Portugal\,  agendada para o dia 25 de 

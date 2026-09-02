@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7574900c075
-DTSTAMP:20260807T060048Z
+UID:45229-0@www.portugalrunning.com
+DTSTAMP:20260902T140027Z
 DTSTART:20260503T064400Z
 DTEND:20260503T235900Z
-LOCATION:Malveira\,  Mafra Malveira\,  Mafra
+LOCATION:Malveira\,   Mafra Malveira\,   Mafra
 SUMMARY:Lobo Ibérico Trail 2026
 DESCRIPTION:A 1ª edição do LOBO IBÉRICO TRAIL® será composta por 2 pr
  ovas competitivas e 1 não competitiva:- Trail Longo com cerca de 24 km\,  

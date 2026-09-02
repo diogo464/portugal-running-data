@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1f6f5cc
-DTSTAMP:20260723T060103Z
-DTSTART:20260926T141100Z
+UID:47402-0@www.portugalrunning.com
+DTSTAMP:20260902T140219Z
+DTSTART:20260926T140000Z
 DTEND:20260926T235900Z
-LOCATION:Vila Franca das Naves\,  Guarda Vila Franca das Naves\,  Guarda
-SUMMARY:Trilhos dos Heróis 2026
-DESCRIPTION:O&nbsp;Trilhos dos Heróis Sunset Trail&nbsp;(THS) está de vol
- ta para a sua 2ª edição\,  organizado pelos Bombeiros Voluntários de Vi
- la Franca das Naves. Este é muito mais do que um evento desportivo\,  é a
-  combinação perfeita entre desporto\,  natureza e a magia do pôr do sol 
- na zona florestal dos Bombeiros[..]\nhttps://www.portugalrunning.com/evento
- s/trilhos-herois-sunset-trail/
+LOCATION:Vila Franca das Naves\,   Guarda Vila Franca das Naves\,   Guarda
+SUMMARY:Trilhos dos Heróis Sunset Trail 2026
+DESCRIPTION:Sobre O Trilhos dos Heróis Sunset Trail 2026Os Trilhos dos Her
+ óis – Sunset Trail 2026 realizam-se na tarde e final de tarde de 26 de S
+ etembro de 2026 (Sábado)\,  em Vila Franca das Naves (concelho de Trancoso
+ \,  distrito da Guarda). Organizado pelos Bombeiros Voluntários de Vila Fr
+ anca das Naves\,  o[..]\nhttps://www.portugalrunning.com/eventos/trilhos-he
+ rois-sunset-trail/
 URL:https://www.portugalrunning.com/eventos/trilhos-herois-sunset-trail/
 END:VEVENT
 END:VCALENDAR

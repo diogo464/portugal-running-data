@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69c66ed99aaf0
-DTSTAMP:20260327T114945Z
+UID:50124-0@www.portugalrunning.com
+DTSTAMP:20260902T135955Z
 DTSTART:20260614
 DTEND:20260615
-LOCATION:Tocha\,  Coimbra Tocha\,  Coimbra
+LOCATION:Tocha\,   Coimbra Tocha\,   Coimbra
 SUMMARY:Crosstrail Praia da Tocha 2026
 DESCRIPTION:O 7.º Crosstrail Praia da Tocha 2026 realiza-se nos dias 13 e 
  14 de junho de 2026\,  na Praia da Tocha\,  concelho de Cantanhede\,  distr

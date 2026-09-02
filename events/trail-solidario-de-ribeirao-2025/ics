@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d8e91f35
-DTSTAMP:20250720T222830Z
+UID:42067-0@www.portugalrunning.com
+DTSTAMP:20260902T140211Z
 DTSTART:20250720
 DTEND:20250721
-LOCATION:Ribeirão\,  Vila Nova de Famalicão Ribeirão\,  Vila Nova de Famalicão
+LOCATION:Ribeirão\,   Vila Nova de Famalicão Ribeirão\,   Vila Nova de Famalicão
 SUMMARY:Trail Solidário de Ribeirão 2025
 DESCRIPTION:O 7º Trail solidário de Ribeirão pretende promover a prátic
  a desportiva e dar a conhecer os trilhos da vila de Ribeirão - V. N. Famal

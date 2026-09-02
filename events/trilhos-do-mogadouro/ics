@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6983ddb8b28ef
-DTSTAMP:20260205T000056Z
+UID:48682-0@www.portugalrunning.com
+DTSTAMP:20260902T140218Z
 DTSTART:20260308
 DTEND:20260309
-LOCATION:Mogadouro\,  Bragança Mogadouro\,  Bragança
+LOCATION:Mogadouro\,   Bragança Mogadouro\,   Bragança
 SUMMARY:Trilhos do Mogadouro 2026
 DESCRIPTION:O Município de Mogadouro organiza no dia 08 de março de 2026\
  ,  em colaboração com a Associação de Atletismo de Bragança\,  um Trai

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6db7189d3
-DTSTAMP:20250720T222911Z
+UID:39418-0@www.portugalrunning.com
+DTSTAMP:20260902T140219Z
 DTSTART:20250726
 DTEND:20250727
-LOCATION:Santa Cruz\,  Torres Vedras Santa Cruz\,  Torres Vedras
+LOCATION:Santa Cruz\,   Torres Vedras Santa Cruz\,   Torres Vedras
 SUMMARY:Ultra Trail Santa Cruz 2025
 DESCRIPTION:O  TURRES TRAIL CLUBE  \,  com o apoio\,  Câmara Municipal
   de Torres Vedras \,  Juntas de freguesias da Silveira \,  A dos Cunhados e
   São Pedro da Cadeira  \,  vai realizar no  dia 27 de Julho  de 2024
-  \,   evento denominado "  UTRSC- Ultra Trail Run Santa Cruz 2024  
- ". Este evento\,  terá um Ultra Trail um Trail Longo um[..]\nhttps://www.p
- ortugalrunning.com/eventos/ultra-trail-santa-cruz-2025/
+  \,   evento denominado &#8220;  UTRSC- Ultra Trail Run Santa Cruz 20
+ 24  &#8220;. Este evento\,  terá um Ultra Trail um Trail Longo um[..]\nh
+ ttps://www.portugalrunning.com/eventos/ultra-trail-santa-cruz-2025/
 URL:https://www.portugalrunning.com/eventos/ultra-trail-santa-cruz-2025/
 END:VEVENT
 END:VCALENDAR

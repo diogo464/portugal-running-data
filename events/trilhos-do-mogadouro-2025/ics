@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6da693ef1
-DTSTAMP:20250720T222854Z
+UID:40258-0@www.portugalrunning.com
+DTSTAMP:20260902T140219Z
 DTSTART:20250309
 DTEND:20250310
-LOCATION:Mogadouro\,  Bragança Mogadouro\,  Bragança
+LOCATION:Mogadouro\,   Bragança Mogadouro\,   Bragança
 SUMMARY:Trilhos do Mogadouro 2025
 DESCRIPTION:O Município de Mogadouro organiza no dia 09 de março de 2025
  \,  em colaboração com a Associação de Atletismo de Bragança\,  um Tra

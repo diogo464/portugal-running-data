@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a34db1f2b78d
-DTSTAMP:20260619T060103Z
+UID:50674-0@www.portugalrunning.com
+DTSTAMP:20260902T140154Z
 DTSTART:20260802
 DTEND:20260803
-LOCATION:Caparrosinha\,  Tondela Caparrosinha\,  Tondela
+LOCATION:Caparrosinha\,   Tondela Caparrosinha\,   Tondela
 SUMMARY:Trail Rota dos Espigueiros 2026
 DESCRIPTION:O&nbsp;10.º Trail Rota dos Espigueiros&nbsp;pretende celebrar 
  e recordar os melhores momentos vividos ao longo das&nbsp;9 edições anter

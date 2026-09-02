@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d6a940fa
-DTSTAMP:20250720T222754Z
+UID:41122-0@www.portugalrunning.com
+DTSTAMP:20260902T140142Z
 DTSTART:20250316T121400Z
 DTEND:20250316T235900Z
-LOCATION:Vilar do Monte\,  Macedo de Cavaleiros Vilar do Monte\,  Macedo de Cavaleiros
+LOCATION:Vilar do Monte\,   Macedo de Cavaleiros Vilar do Monte\,   Macedo de Cavaleiros
 SUMMARY:Trail e Camihada VIMONT 2025
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-e-camihada-vimo
  nt-2025/

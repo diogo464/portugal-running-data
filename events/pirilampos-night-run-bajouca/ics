@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a31af7e5
-DTSTAMP:20260320T110625Z
+UID:47448-0@www.portugalrunning.com
+DTSTAMP:20260902T140104Z
 DTSTART:20260912
 DTEND:20260913
-LOCATION:Bajouca\,  Leiria Bajouca\,  Leiria
+LOCATION:Bajouca\,   Leiria Bajouca\,   Leiria
 SUMMARY:Pirilampos Night Run Bajouca 2026
-DESCRIPTION:&nbsp;Departamento de Atletismo do Grupo Alegre e Unido – Baj
- ouca\,  vai realizar no&nbsp;dia 12 de Setembro de 2026 a 11ª Edição dos
-  PIRILAMPOS NIGHT RUN BAJOUCA\,  com partida e meta na&nbsp;PISTA DE ATLETI
- SMO&nbsp;- Bajouca. Uma prova com uma distância aproximada de 5000m com ca
- ráter aventureiro\,  ultrapassando diversos obstáculos e barreiras[..]\nh
- ttps://www.portugalrunning.com/eventos/pirilampos-night-run-bajouca/
+DESCRIPTION:Sobre O Pirilampos Night Run Bajouca 2026A 11.ª Edição dos P
+ irilampos Night Run Bajouca 2026 realiza-se na noite de 12 de Setembro de 2
+ 026 (Sábado)\,  na freguesia da Bajouca (concelho e distrito de Leiria). O
+ rganizada pela Associação Desportiva da Bajouca em parceria com a cronome
+ tragem oficial Recorde Pessoal\,  a prova[..]\nhttps://www.portugalrunning.
+ com/eventos/pirilampos-night-run-bajouca/
 URL:https://www.portugalrunning.com/eventos/pirilampos-night-run-bajouca/
 END:VEVENT
 END:VCALENDAR

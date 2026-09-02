@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ca8fdb7a2e8
-DTSTAMP:20250917T103923Z
+UID:40178-0@www.portugalrunning.com
+DTSTAMP:20260902T140127Z
 DTSTART:20250920
 DTEND:20250921
-LOCATION:Sines\,  Setúbal Sines\,  Setúbal
+LOCATION:Sines\,   Setúbal Sines\,   Setúbal
 SUMMARY:Sines a Correr 2025
 DESCRIPTION:A 20 de setembro 2025\,  temos encontro marcado em Sines. A HMS
   Sports e a Associação Desportiva Mais Inclusão promovem a quarta ediç�

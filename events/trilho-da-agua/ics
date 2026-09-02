@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a321b8d2
-DTSTAMP:20260320T110626Z
+UID:48214-0@www.portugalrunning.com
+DTSTAMP:20260902T140218Z
 DTSTART:20260712
 DTEND:20260713
-LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
 SUMMARY:Trilho da Água 2026
 DESCRIPTION:O GTT.SPS - Grupo Todo Terreno de São Pedro do Sul\,  vai real
  izar a 7ª Edição do TRILHOS DA ÁGUA TRAIL\,  nos dias 11 e 12 de Julho 

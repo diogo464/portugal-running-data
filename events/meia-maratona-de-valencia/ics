@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7969080b311
-DTSTAMP:20260810T060040Z
+UID:46427-0@www.portugalrunning.com
+DTSTAMP:20260902T140042Z
 DTSTART:20261025
 DTEND:20261026
-LOCATION:Valência\,  Espanha Valência\,  Espanha
+LOCATION:Valência\,   Espanha Valência\,   Espanha
 SUMMARY:Meia Maratona de Valência 2026
 DESCRIPTION:A Meia Maratona de Valência\,  agendada para 25 de outubro de 
  2026\,  leva os participantes a percorrer 21 km em asfalto pelas vias mais 

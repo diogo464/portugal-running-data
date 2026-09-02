@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b0977553f9
-DTSTAMP:20260129T071711Z
+UID:48334-0@www.portugalrunning.com
+DTSTAMP:20260902T140217Z
 DTSTART:20260301
 DTEND:20260302
-LOCATION:Mértola\,  Beja Mértola\,  Beja
+LOCATION:Mértola\,   Beja Mértola\,   Beja
 SUMMARY:Trilhos de Mértola 2026
 DESCRIPTION:O evento desportivo Trilhos de Mértola - Trail Run integra as 
  seguintes distâncias:a) - Trail Kidsb) – Caminhada e Mini Trail - 9 kmc)

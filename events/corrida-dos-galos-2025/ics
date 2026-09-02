@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c58313c0
-DTSTAMP:20250720T222320Z
+UID:42384-0@www.portugalrunning.com
+DTSTAMP:20260902T135941Z
 DTSTART:20250907T100900Z
 DTEND:20250907T100900Z
-LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+LOCATION:Barcelos\,   Braga Barcelos\,   Braga
 SUMMARY:Corrida dos Galos 2025
 DESCRIPTION:A Corrida dos Galos é organizada pelo Gil Vicente Futebol Club
  e em coprodução da Fundista – Agênciade Marketing Desportivo e com o a

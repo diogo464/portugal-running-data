@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c737bdc
-DTSTAMP:20260201T000111Z
+UID:48411-0@www.portugalrunning.com
+DTSTAMP:20260902T140005Z
 DTSTART:20260509
 DTEND:20260510
-LOCATION:Vila Verde de Ficalho\,  Beja Vila Verde de Ficalho\,  Beja
+LOCATION:Vila Verde de Ficalho\,   Beja Vila Verde de Ficalho\,   Beja
 SUMMARY:Ficalho Backyard Ultra 2026
 DESCRIPTION:A Ficalho Backyard Ultra é inspirada no conceito Americano cri
  ado por Lazarus Lake e que hoje se repete em muitos países. Este é també

@@ -1,22 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:692e2c35ae54e
-DTSTAMP:20251202T000053Z
+UID:41420-0@www.portugalrunning.com
+DTSTAMP:20260902T140053Z
 DTSTART:20251130
 DTEND:20251201
 LOCATION:Lisboa Lisboa
 SUMMARY:Meia Maratona Descobrimentos 2025
-DESCRIPTION:Resultados 2025 Resultados 10k 2025 Com partida na Praça do Im
- pério e chegada na praça do Museu da Marinha\,  a&nbsp;12ª edição da T
- ranquilidade Meia Maratona dos Descobrimentos\,  será realizada a&nbsp;7 d
- e Dezembro 2025\,  na fantástica cidade de&nbsp;Lisboa. Correr lado a lado
-  com os monumentos históricos dos Descobrimentos\,  num percurso plano\, [
- ..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-descobrimentos-2
- 025/
+DESCRIPTION:Resultados 2025Resultados 10k 2025Com partida na Praça do Imp�
+ �rio e chegada na praça do Museu da Marinha\,  a&nbsp;12ª edição da Tra
+ nquilidade Meia Maratona dos Descobrimentos\,  será realizada a&nbsp;7 de 
+ Dezembro 2025\,  na fantástica cidade de&nbsp;Lisboa.Correr lado a lado co
+ m os monumentos históricos dos Descobrimentos\,  num percurso plano\,  com
+  passagem pelas[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-
+ descobrimentos-2025/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-descobrimentos-2025/
 END:VEVENT
 END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d7aab031
-DTSTAMP:20250720T222810Z
+UID:41792-0@www.portugalrunning.com
+DTSTAMP:20260902T140150Z
 DTSTART:20250615
 DTEND:20250616
-LOCATION:Alvite\,  Viseu Alvite\,  Viseu
+LOCATION:Alvite\,   Viseu Alvite\,   Viseu
 SUMMARY:Trail - Nos Trilhos da Nave 2025
 DESCRIPTION:O evento desportivo Nos Trilhos da Nave e organizado pela Assoc
  iação “Gente da Nave – Associação dePromoção Social de Alvite “

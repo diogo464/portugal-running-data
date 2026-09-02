@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68e063b562706
-DTSTAMP:20251004T000053Z
+UID:45301-0@www.portugalrunning.com
+DTSTAMP:20260902T140222Z
 DTSTART:20251026
 DTEND:20251027
-LOCATION:Asseiceira\,  Rio Maior Asseiceira\,  Rio Maior
+LOCATION:Asseiceira\,   Rio Maior Asseiceira\,   Rio Maior
 SUMMARY:Volta à Freguesia de Asseiceira 2025
 DESCRIPTION:O Torneio de Atletismo das Freguesias de Rio Maior “Jorge Mig
  uel” consiste num conjunto de provasdesportivas na modalidade de atletism

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d447a9e0
-DTSTAMP:20250720T222716Z
+UID:38152-0@www.portugalrunning.com
+DTSTAMP:20260902T140139Z
 DTSTART:20250504
 DTEND:20250505
-LOCATION:Chamusca\,  Santarém Chamusca\,  Santarém
+LOCATION:Chamusca\,   Santarém Chamusca\,   Santarém
 SUMMARY:Trail Coração do Ribatejo 2025
 DESCRIPTION:Trail Coração do Ribatejo 2025\nhttps://www.portugalrunning.c
  om/eventos/trail-coracao-do-ribatejo-2025/

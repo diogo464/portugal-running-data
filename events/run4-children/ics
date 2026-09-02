@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69c66ed9e4429
-DTSTAMP:20260327T114945Z
+UID:47677-0@www.portugalrunning.com
+DTSTAMP:20260902T140111Z
 DTSTART:20260531T234900Z
 DTEND:20260531T235900Z
-LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+LOCATION:Almada\,   Setúbal Almada\,   Setúbal
 SUMMARY:Run4 Children 2026
 DESCRIPTION:A RUN4 CHILDREN | ALMADA FORUM é uma prova de cariz solidário
   que se realiza na cidade de Almada\,  em Portugal\,  com partida no centro

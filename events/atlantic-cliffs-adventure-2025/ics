@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6907f0d066a97
-DTSTAMP:20251103T000120Z
+UID:42816-0@www.portugalrunning.com
+DTSTAMP:20260902T135906Z
 DTSTART:20251116
 DTEND:20251117
-LOCATION:Charneca\,  Cascais Charneca\,  Cascais
+LOCATION:Charneca\,   Cascais Charneca\,   Cascais
 SUMMARY:Atlantic Cliffs Adventure 2025
 DESCRIPTION:A Associação Recreativa da Charneca e com o apoio da Camara M
  unicipal de Cascais irão organizar a 16 de Novembro de 2025 pelas 09h00 ho

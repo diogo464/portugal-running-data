@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a34db1d828d3
-DTSTAMP:20260619T060101Z
-DTSTART:20261003
-DTEND:20261004
-LOCATION:Angra do Heroísmo\,  Ilha Terceira\,  Açores Angra do Heroísmo\,  Ilha Terceira\,  Açores
+UID:48211-0@www.portugalrunning.com
+DTSTAMP:20260902T135915Z
+DTSTART:20261002
+DTEND:20261003
+LOCATION:Angra do Heroísmo\,   Ilha Terceira\,   Açores Angra do Heroísmo\,   Ilha Terceira\,   Açores
 SUMMARY:Azores Bravos Trail 2026
-DESCRIPTION:O Azores Bravos Trail® (AzBT®) é um evento competitivo de Tr
- ail-Running organizado pelaAssociação de Atletismo da Ilha Terceira (AAIT
- )\,  em parceria com o Governo Regional dos Açorese dos Municípios de Ang
- ra do Heroísmo e da Praia da Vitória\,  e que integra cinco provas: Azore
- sBravos Trail® 100K (AzBT®_100)\,  Azores Bravos Trail®[..]\nhttps://www
- .portugalrunning.com/eventos/azores-bravos-trail/
+DESCRIPTION:Sobre Azores Bravos Trail 2026O Azores Bravos Trail 2026 celebr
+ a a sua edição na Ilha Terceira (concelho de Angra do Heroísmo\,  distri
+ to dos Açores) no dia 3 de Outubro de 2026 (Sábado). Organizado pela Asso
+ ciação de Atletismo da Ilha Terceira (AAIT)\,  este evento de trail runni
+ ng oferece um desafio extraordinário[..]\nhttps://www.portugalrunning.com/
+ eventos/azores-bravos-trail/
 URL:https://www.portugalrunning.com/eventos/azores-bravos-trail/
 END:VEVENT
 END:VCALENDAR

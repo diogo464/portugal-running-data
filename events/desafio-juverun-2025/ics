@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c7e48f94
-DTSTAMP:20250720T222358Z
+UID:42803-0@www.portugalrunning.com
+DTSTAMP:20260902T140003Z
 DTSTART:20251005T112100Z
 DTEND:20251005T235900Z
-LOCATION:Vagos\,  Aveiro Vagos\,  Aveiro
+LOCATION:Vagos\,   Aveiro Vagos\,   Aveiro
 SUMMARY:Desafio JuveRun 2025
 DESCRIPTION:A JuveRunTeam (secção de corrida da Juveforce - Associação 
  Desportiva e Cultural de Ponte de Vagos)\,  com o apoio da Câmara Municipa

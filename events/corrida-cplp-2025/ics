@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c3b617fe
-DTSTAMP:20250720T222251Z
+UID:40327-0@www.portugalrunning.com
+DTSTAMP:20260902T135942Z
 DTSTART:20250531T155800Z
 DTEND:20250531T155800Z
-LOCATION:Oeiras\,  Lisboa Oeiras\,  Lisboa
+LOCATION:Oeiras\,   Lisboa Oeiras\,   Lisboa
 SUMMARY:Corrida CPLP 2025
 DESCRIPTION:O evento\,  organizado pela In Totum Lda.\,  decorrerá no dia 
  31 de maio e contempla um programainclusivo\,  dirigido a cidadãos de toda

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:692a37ad03488
-DTSTAMP:20251129T000045Z
+UID:38803-0@www.portugalrunning.com
+DTSTAMP:20260902T140212Z
 DTSTART:20250223
 DTEND:20250224
-LOCATION:Ereira\,  Cartaxo Ereira\,  Cartaxo
+LOCATION:Ereira\,   Cartaxo Ereira\,   Cartaxo
 SUMMARY:Trail Terras da Hera 2025
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-terras-da-hera-
  2025/

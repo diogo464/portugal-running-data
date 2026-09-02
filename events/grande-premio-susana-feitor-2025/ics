@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c4b43469cda
-DTSTAMP:20250913T000052Z
+UID:40777-0@www.portugalrunning.com
+DTSTAMP:20260902T140021Z
 DTSTART:20250928
 DTEND:20250929
-LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
+LOCATION:Rio Maior\,   Santarém Rio Maior\,   Santarém
 SUMMARY:Grande Prémio "Susana Feitor" 2025
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/grande-premio-susana-
  feitor-2025/

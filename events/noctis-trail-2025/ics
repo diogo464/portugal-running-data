@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ed92ae6a308
-DTSTAMP:20251014T000046Z
+UID:40121-0@www.portugalrunning.com
+DTSTAMP:20260902T140050Z
 DTSTART:20251122
 DTEND:20251123
-LOCATION:Águeda\,  Leiria Águeda\,  Leiria
+LOCATION:Águeda\,   Leiria Águeda\,   Leiria
 SUMMARY:Noctis Trail 2025
 DESCRIPTION:O NOCTIS TRAIL 25 é um convívio desportivo noturno\,  nas ver
  tentes de Trail e Caminhada\,  com partida às 17h no Instituto Duarte de L

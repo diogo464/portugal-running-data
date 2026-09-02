@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c9c31ab6
-DTSTAMP:20250720T222428Z
+UID:42786-0@www.portugalrunning.com
+DTSTAMP:20260902T140029Z
 DTSTART:20250907T071000Z
 DTEND:20250907T235900Z
-LOCATION:Águeda\,  Aveiro Águeda\,  Aveiro
+LOCATION:Águeda\,   Aveiro Águeda\,   Aveiro
 SUMMARY:Grande Prémio de Atletismo de Recardães 2025
 DESCRIPTION:Venha até Águeda participar em mais um Grande Prémio\,  em a
  tletismo. O percurso da prova principal é de 10 km\,  percorridos em asfal

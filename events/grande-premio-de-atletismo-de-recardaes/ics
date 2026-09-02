@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69dddbbced2d4
-DTSTAMP:20260414T061628Z
+UID:50627-0@www.portugalrunning.com
+DTSTAMP:20260902T140028Z
 DTSTART:20260531T071000Z
 DTEND:20260531T235900Z
-LOCATION:Águeda\,  Aveiro Águeda\,  Aveiro
+LOCATION:Águeda\,   Aveiro Águeda\,   Aveiro
 SUMMARY:Grande Prémio de Atletismo de Recardães 2026
 DESCRIPTION:O DESPORTIVO ATLÉTICO DE RECARDÃES em parceria com a Câmara 
  Municipal de Águeda e a Junta de Freguesia de Recardães irá organizar no

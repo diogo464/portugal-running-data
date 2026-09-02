@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a4b448c2c78b
-DTSTAMP:20260706T060044Z
+UID:51205-0@www.portugalrunning.com
+DTSTAMP:20260902T140108Z
 DTSTART:20260801T062100Z
 DTEND:20260801T235900Z
-LOCATION:Vimioso\,  Bragança Vimioso\,  Bragança
+LOCATION:Vimioso\,   Bragança Vimioso\,   Bragança
 SUMMARY:Night Urban Trail - Vales de Vimioso 2026
 DESCRIPTION:Terá lugar dia 01 de agosto de 2026 a Iª edição do Night Ur
  ban TrailRun Vales de Vimioso promovido pelo Motoclub Vimioso Furões em co

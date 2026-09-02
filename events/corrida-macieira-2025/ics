@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c2113487e0b
-DTSTAMP:20250911T000052Z
+UID:43172-0@www.portugalrunning.com
+DTSTAMP:20260902T135955Z
 DTSTART:20251005
 DTEND:20251006
-LOCATION:Macieira\,  Lousada Macieira\,  Lousada
+LOCATION:Macieira\,   Lousada Macieira\,   Lousada
 SUMMARY:Corrida Macieira 2025
 DESCRIPTION:Realiza-se no dia 05 de outubro de 2025\,  com partida e chegad
  a no Largo de São Gonçalo - Macieira – Lousada\,  a III Corrida de Maci

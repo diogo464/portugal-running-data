@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6926433d18855
-DTSTAMP:20251126T000101Z
+UID:38050-0@www.portugalrunning.com
+DTSTAMP:20260902T140047Z
 DTSTART:20250209
 DTEND:20250210
-LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+LOCATION:Cascais\,   Lisboa Cascais\,   Lisboa
 SUMMARY:Meia Maratona Cascais 2025
 DESCRIPTION:A 9ª edição da Montepio Meia Maratona de Cascais\, &nbsp;pow
  ered by&nbsp;Montepio Associação Mutualista\,  organizada pela HMS Sports

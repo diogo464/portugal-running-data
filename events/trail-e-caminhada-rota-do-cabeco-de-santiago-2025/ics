@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d6a7a6c0
-DTSTAMP:20250720T222754Z
+UID:40985-0@www.portugalrunning.com
+DTSTAMP:20260902T140149Z
 DTSTART:20250427
 DTEND:20250428
-LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+LOCATION:Sernancelhe\,   Viseu Sernancelhe\,   Viseu
 SUMMARY:Trail e Caminhada "Rota do Cabeço de São Santiago" 2025
 DESCRIPTION:O Trail e Caminhada “Rota do Cabeço de São Tiago” são or
  ganizados pela Associação de Melhoramentos da Freguesia de Escurquela e o

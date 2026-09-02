@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ca0322e2
-DTSTAMP:20250720T222432Z
+UID:39595-0@www.portugalrunning.com
+DTSTAMP:20260902T140026Z
 DTSTART:20250111
 DTEND:20250112
-LOCATION:Faro Faro\,  Portugal
+LOCATION:Faro Faro\,   Portugal
 SUMMARY:Grande Prémio dos Reis 2025
 DESCRIPTION:A Associação de Atletismo do Algarve e a Câmara Municipal de
   Faro\,  com o apoio da FAGAR\,  vão realizar na Cidade de Faro\,  o 53º 

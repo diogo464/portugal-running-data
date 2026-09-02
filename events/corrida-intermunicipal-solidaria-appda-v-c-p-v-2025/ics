@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c64dc73c
-DTSTAMP:20250720T222332Z
+UID:41568-0@www.portugalrunning.com
+DTSTAMP:20260902T135949Z
 DTSTART:20250510T201700Z
 DTEND:20250510T201700Z
-LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+LOCATION:Vila do Conde\,   Porto Vila do Conde\,   Porto
 SUMMARY:Corrida Intermunicipal Solidária Appda V.C. / P.V. 2025
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-intermunicipa
  l-solidaria-appda-v-c-p-v-2025/

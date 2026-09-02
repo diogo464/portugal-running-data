@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c29489e4
-DTSTAMP:20250720T222233Z
+UID:42300-0@www.portugalrunning.com
+DTSTAMP:20260902T135917Z
 DTSTART:20250803
 DTEND:20250804
-LOCATION:Camacha\,  Madeira Camacha\,  Madeira
+LOCATION:Camacha\,   Madeira Camacha\,   Madeira
 SUMMARY:Camacha Trail 2025
 DESCRIPTION:O “Camacha Trail”\,  designado abreviadamente por CT\,  é 
  um evento de Trail Running\,  uma Coorganização entre a Casa do Povo da C

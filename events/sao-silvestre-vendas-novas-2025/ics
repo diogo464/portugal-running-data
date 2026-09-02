@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68f57be0a8811
-DTSTAMP:20251020T000136Z
+UID:45888-0@www.portugalrunning.com
+DTSTAMP:20260902T140117Z
 DTSTART:20251205
 DTEND:20251206
-LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+LOCATION:Vendas Novas\,   Évora Vendas Novas\,   Évora
 SUMMARY:São Silvestre Vendas Novas 2025
 DESCRIPTION:A 11ª Corrida São Silvestre é um evento desportivo\,  organi
  zado pela Casa do Sport Lisboa e Benfica em Vendas Novas\,  de índole amad

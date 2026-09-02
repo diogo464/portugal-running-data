@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6bfc318b0
-DTSTAMP:20250720T222148Z
+UID:40106-0@www.portugalrunning.com
+DTSTAMP:20260902T135901Z
 DTSTART:20250906
 DTEND:20250907
-LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+LOCATION:Santa Maria da Feira\,   Aveiro Santa Maria da Feira\,   Aveiro
 SUMMARY:24H de P 2025
 DESCRIPTION:A 3ª edição das 24 horas de P é uma corrida de resistência
   e de longa duração\,  que se realizará em Santa Maria da Feira. Inserid

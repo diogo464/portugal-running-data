@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6907f0d21f3b7
-DTSTAMP:20251103T000122Z
+UID:42394-0@www.portugalrunning.com
+DTSTAMP:20260902T135927Z
 DTSTART:20251123
 DTEND:20251124
-LOCATION:Constância\,  Santarém Constância\,  Santarém
+LOCATION:Constância\,   Santarém Constância\,   Santarém
 SUMMARY:Confluência Trail 2025
 DESCRIPTION:O Confluência Trail tem como objetivo proporcionar aos atletas
   novas experiências e sensações em trilhosdistintos\,  valorização e d

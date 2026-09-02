@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c2ec337a
-DTSTAMP:20250720T222238Z
+UID:40434-0@www.portugalrunning.com
+DTSTAMP:20260902T135924Z
 DTSTART:20250518T000000Z
 DTEND:20250518T000000Z
-LOCATION:Seixo de Gatões\,  Montemor-o-Velho Seixo de Gatões\,  Montemor-o-Velho
+LOCATION:Seixo de Gatões\,   Montemor-o-Velho Seixo de Gatões\,   Montemor-o-Velho
 SUMMARY:Color Run - Caminhada Colorida 2025
 DESCRIPTION:O 1º Color Run - Caminhada Colorida\,  é o ultimo evento prom
  ovido pela Comissão de Festas de S. João Baptista 2025.Trata-se de uma ca

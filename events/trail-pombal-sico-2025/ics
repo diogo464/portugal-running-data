@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d7f4ab47
-DTSTAMP:20250720T222815Z
+UID:40273-0@www.portugalrunning.com
+DTSTAMP:20260902T140154Z
 DTSTART:20250406
 DTEND:20250407
-LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+LOCATION:Pombal\,   Leiria Pombal\,   Leiria
 SUMMARY:Trail Pombal Sicó 2025
 DESCRIPTION:O Trail Pombal Sicó é uma prova inclusiva e que já faz parte
   do calendário dos trail runners de todo o país. Organizado em torno da m

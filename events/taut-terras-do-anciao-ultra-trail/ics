@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a34db1e5f9d3
-DTSTAMP:20260619T060102Z
+UID:51747-0@www.portugalrunning.com
+DTSTAMP:20260902T140123Z
 DTSTART:20270214
 DTEND:20270215
-LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+LOCATION:Ansião\,   Leiria Ansião\,   Leiria
 SUMMARY:TAUT – Terras do Ancião Ultra Trail 2027
 DESCRIPTION:O TAUT – Terras do Ancião Ultra Trail\,  organizado pela Ans
  ibikers\,  consolidou-se como a etapa oficial de qualificação em Portugal

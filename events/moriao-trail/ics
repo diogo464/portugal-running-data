@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69fecd8ca160e
-DTSTAMP:20260509T060044Z
+UID:51063-0@www.portugalrunning.com
+DTSTAMP:20260902T140051Z
 DTSTART:20260815T173300Z
 DTEND:20260815T173300Z
-LOCATION:Ilha Terceira\,  Açores Ilha Terceira\,  Açores
+LOCATION:Ilha Terceira\,   Açores Ilha Terceira\,   Açores
 SUMMARY:Morião Trail 2026
-DESCRIPTION:Competição de trail running a realizar no dia 15 de agosto\, 
-  numa organização conjunta da Junta de Freguesia de São Bento\,  Clube d
- e Atletismo da Terceira e apoio do Município de Angra do Heroísmo. Local:
-  Ilha Terceira\,  Açores Distâncias: 12km\,  16km e 30km\nhttps://www.por
- tugalrunning.com/eventos/moriao-trail/
+DESCRIPTION:Sobre O Morião Trail 2026O Morião Trail 2026 realiza-se no di
+ a 15 de Agosto de 2026 (Sábado)\,  em Tentadeiro da Reserva Florestal do C
+ abrito\,  São Bento\,  Angra do Heroísmo (Angra do Heroísmo\,  distrito 
+ de Açores). Trata-se de um evento desportivo emblemático da região\,  re
+ unindo centenas de participantes entre atletas federados\, [..]\nhttps://ww
+ w.portugalrunning.com/eventos/moriao-trail/
 URL:https://www.portugalrunning.com/eventos/moriao-trail/
 END:VEVENT
 END:VCALENDAR

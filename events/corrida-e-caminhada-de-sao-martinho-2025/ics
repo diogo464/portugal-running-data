@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ed92ad0a052
-DTSTAMP:20251014T000045Z
+UID:45740-0@www.portugalrunning.com
+DTSTAMP:20260902T135944Z
 DTSTART:20251108T072900Z
 DTEND:20251108T072900Z
-LOCATION:Fajã Grande\,  Ilha das Flores\,  Fajã Grande\,  Ilha das Flores
+LOCATION:Fajã Grande\,   Ilha das Flores\,   Fajã Grande\,   Ilha das Flores
 SUMMARY:Corrida e Caminhada de São Martinho - 2025
 DESCRIPTION:A 2ª Corrida e Caminhada de São Martinho\,  é um evento orga
  nizado pelo Atlético Clube Fajã Grande e que tem como finalidade promover

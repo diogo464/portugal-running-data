@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69ad83094d565
-DTSTAMP:20260308T140913Z
+UID:49746-0@www.portugalrunning.com
+DTSTAMP:20260902T135913Z
 DTSTART:20260403
 DTEND:20260404
-LOCATION:Odemira\,  Beja Odemira\,  Beja
+LOCATION:Odemira\,   Beja Odemira\,   Beja
 SUMMARY:Circuito de Atletismo "Vila de Odemira" 2026
 DESCRIPTION:O Núcleo Desportivo e Cultural de Odemira é uma instituição
   que tem como desígnio promover a cultura\,  o desporto\,  a atividade fis

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:690d36d499251
-DTSTAMP:20251107T000124Z
+UID:35317-0@www.portugalrunning.com
+DTSTAMP:20260902T140202Z
 DTSTART:20251108
 DTEND:20251109
-LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
 SUMMARY:Trail São Macário 2025
 DESCRIPTION:O GTT.SPS - Grupo Todo Terreno de São Pedro do Sul\,  vai real
  izar a 8ª Edição do SÃO MACÁRIO ULTRA TRAIL (SMUT)\,  nos próximos di

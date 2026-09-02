@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:690d36d5318d3
-DTSTAMP:20251107T000125Z
+UID:44181-0@www.portugalrunning.com
+DTSTAMP:20260902T140108Z
 DTSTART:20251122T062700Z
 DTEND:20251122T235900Z
-LOCATION:Vila de Prado\,  Vila Verde Vila de Prado\,  Vila Verde
+LOCATION:Vila de Prado\,   Vila Verde Vila de Prado\,   Vila Verde
 SUMMARY:São Silvestre G. D. Prado 2025
 DESCRIPTION:O Grupo Desportivo de Prado\,  e “Vila de Prado a Correr e Ca
  minhar” conjuntamente com o Município de Vila Verde e a Junta de fregues

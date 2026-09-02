@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68a11ba5766fc
-DTSTAMP:20250817T000037Z
+UID:42042-0@www.portugalrunning.com
+DTSTAMP:20260902T140209Z
 DTSTART:20251019
 DTEND:20251020
-LOCATION:Pinhel\,  Guarda Pinhel\,  Guarda
+LOCATION:Pinhel\,   Guarda Pinhel\,   Guarda
 SUMMARY:Trail Run Pinhel Cidade Falcão 2025
 DESCRIPTION:Está aí a 4ª edição do Trail Running – Pinhel Cidade Fal
  cão\,  que para além de ser uma aventura\,  poderá conhecer alguns locai

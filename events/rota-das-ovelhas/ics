@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d9d8248
-DTSTAMP:20260315T100721Z
+UID:48204-0@www.portugalrunning.com
+DTSTAMP:20260902T140108Z
 DTSTART:20260403T233200Z
 DTEND:20260403T235900Z
-LOCATION:Lajeosa do Dão\,  Viseu Lajeosa do Dão\,  Viseu
+LOCATION:Lajeosa do Dão\,   Viseu Lajeosa do Dão\,   Viseu
 SUMMARY:Rota das Ovelhas 2026
 DESCRIPTION:A Rota das Ovelhas é um evento organizado pelo Grupo Cultural 
  Recreativo e Desportivo Mocidade Vinhalense\,  abreviadamente designado por

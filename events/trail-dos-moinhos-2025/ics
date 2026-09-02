@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d65f3a86
-DTSTAMP:20250720T222749Z
+UID:43292-0@www.portugalrunning.com
+DTSTAMP:20260902T140144Z
 DTSTART:20250928
 DTEND:20250929
-LOCATION:Frazão\,  Paços de Ferreira Frazão\,  Paços de Ferreira
+LOCATION:Frazão\,   Paços de Ferreira Frazão\,   Paços de Ferreira
 SUMMARY:Trail dos Moinhos 2025
 DESCRIPTION:A sexta edição do Trail dos Moinhos e a décima edição do C
  aminhando terão início no próximo dia 28 de Setembro no lugar de Moinhos

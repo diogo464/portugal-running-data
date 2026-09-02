@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff9a1c85d
-DTSTAMP:20260724T060058Z
+UID:54947-0@www.portugalrunning.com
+DTSTAMP:20260902T135945Z
 DTSTART:20260524
 DTEND:20260525
-LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+LOCATION:Sintra\,   Lisboa Sintra\,   Lisboa
 SUMMARY:Corrida Fim da Europa 2026
 DESCRIPTION:A Corrida Fim da Europa é uma das provas de estrada mais emble
  máticas de Portugal\,  ligando o imponente Cabo da Roca\,  o ponto mais oc

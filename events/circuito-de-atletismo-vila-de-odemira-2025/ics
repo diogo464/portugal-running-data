@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c2e6286f
-DTSTAMP:20250720T222238Z
+UID:40979-0@www.portugalrunning.com
+DTSTAMP:20260902T135913Z
 DTSTART:20250418
 DTEND:20250419
-LOCATION:Odemira\,  Beja Odemira\,  Beja
+LOCATION:Odemira\,   Beja Odemira\,   Beja
 SUMMARY:Circuito de Atletismo “Vila de Odemira” 2025
 DESCRIPTION:O Núcleo Desportivo e Cultural de Odemira em parceria com o Mu
  nicípio de Odemira\,  apoio da junta deFreguesia de Salvador e Santa Maria

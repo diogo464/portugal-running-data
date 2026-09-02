@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6923a03309b03
-DTSTAMP:20251124T000051Z
+UID:45597-0@www.portugalrunning.com
+DTSTAMP:20260902T140109Z
 DTSTART:20251213
 DTEND:20251214
-LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+LOCATION:Gondomar\,   Porto Gondomar\,   Porto
 SUMMARY:São Silvestre Gondomar 2025
 DESCRIPTION:No dia 13 de dezembro de 2025\,  pelas 18h00\,  o Município de
   Gondomar recebe a 9ª edição São Silvestre Gondomar. Com mais de 90 ano

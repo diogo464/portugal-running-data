@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c6992ca7
-DTSTAMP:20250720T222337Z
+UID:40475-0@www.portugalrunning.com
+DTSTAMP:20260902T135949Z
 DTSTART:20250517
 DTEND:20250518
-LOCATION:Fermelã\,  Estarreja Fermelã\,  Estarreja
+LOCATION:Fermelã\,   Estarreja Fermelã\,   Estarreja
 SUMMARY:Corrida Popular Correr Fermelã ACADOF 2025
 DESCRIPTION:Este evento é constituído por 3 distâncias: o Kids Atletics\
  ,  a Caminhada e a Corrida. Os percursos da corrida e caminhada são ideais

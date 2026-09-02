@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e75fab817
-DTSTAMP:20260501T174815Z
+UID:50818-0@www.portugalrunning.com
+DTSTAMP:20260902T140105Z
 DTSTART:20260531T182100Z
 DTEND:20260531T235900Z
-LOCATION:Capela\,  Penafiel Capela\,  Penafiel
+LOCATION:Capela\,   Penafiel Capela\,   Penafiel
 SUMMARY:Moinhos Challenge 2026
 DESCRIPTION:O MOINHOS CHALLENGE 2026 é uma corrida de obstáculos que visa
   proporcionar uma experiência desafiante\,  promovendo a superação pesso

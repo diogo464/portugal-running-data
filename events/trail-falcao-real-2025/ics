@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6907f0cf663fd
-DTSTAMP:20251103T000119Z
+UID:46189-0@www.portugalrunning.com
+DTSTAMP:20260902T140145Z
 DTSTART:20251221
 DTEND:20251222
-LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+LOCATION:Alcoutim\,   Faro Alcoutim\,   Faro
 SUMMARY:Trail Falcão Real 2025
 DESCRIPTION:O Evento “VI Trail do Falcão Real” é uma prova de TrailRu
  nning organizada pela Secção de Trail do Grupo Desportivo de Alcoutim\,  

@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a6d8b98aa33a
-DTSTAMP:20260801T060056Z
+UID:55165-0@www.portugalrunning.com
+DTSTAMP:20260902T140143Z
 DTSTART:20261003
 DTEND:20261004
-LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+LOCATION:Arouca\,   Aveiro Arouca\,   Aveiro
 SUMMARY:Trail Dolorosa de Moldes 2026
-DESCRIPTION:O 5º Circuito Terras do Mundo- Serra da Freita é uma organiza
- ção da Confraria Trotamontes em parceriacom o Município de Arouca e com 
- o apoio da União de Freguesias de Cabreiros e Albergaria da Serra e Junta 
- de Freguesia de Moldes. 1ª Trail Dolorosa de Moldes\,  com a distância de
- [..]\nhttps://www.portugalrunning.com/eventos/trail-dolorosa-de-moldes/
+DESCRIPTION:Sobre O Trail Dolorosa de Moldes 2026O Trail Dolorosa de Moldes
+  2026 realiza-se no dia 3 de outubro de 2026 (Sábado)\,  em Vila de Moldes
+  (Arouca\,  distrito de Aveiro). Trata-se de um evento desportivo emblemát
+ ico da região\,  reunindo centenas de participantes entre atletas federado
+ s\,  amadores e entusiastas do desporto ao[..]\nhttps://www.portugalrunning
+ .com/eventos/trail-dolorosa-de-moldes/
 URL:https://www.portugalrunning.com/eventos/trail-dolorosa-de-moldes/
 END:VEVENT
 END:VCALENDAR

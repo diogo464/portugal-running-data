@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d9700800
-DTSTAMP:20250720T222839Z
+UID:42045-0@www.portugalrunning.com
+DTSTAMP:20260902T140217Z
 DTSTART:20251018
 DTEND:20251019
-LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+LOCATION:Ponta Delgada\,   Açores Ponta Delgada\,   Açores
 SUMMARY:Trail Vicentino Noturno 2025
 DESCRIPTION:A IV edição do Trail Vicentino Noturno by Oliveira Pneus é u
  m evento de Trail Running\,  com carácter competitivo e lúdico\,  que per

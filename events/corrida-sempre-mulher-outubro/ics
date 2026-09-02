@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65407-0@www.portugalrunning.com
+DTSTAMP:20260902T135953Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Parque das Nações\,   Lisboa Parque das Nações\,   Lisboa
+SUMMARY:Corrida Sempre Mulher Lisboa 2026
+DESCRIPTION:Sobre A Corrida Sempre Mulher - Outubro 2026A Corrida Sempre Mu
+ lher - Outubro 2026 (Corrida Sempre Mulher Matinados) realiza-se no dia 18 
+ de Outubro de 2026 (Domingo)\,  em Parque das Nações\,  Lisboa (concelho 
+ de Lisboa\,  distrito de Lisboa). Reconhecida como a grande corrida de apoi
+ o na luta contra o cancro[..]\nhttps://www.portugalrunning.com/eventos/corr
+ ida-sempre-mulher-outubro/
+URL:https://www.portugalrunning.com/eventos/corrida-sempre-mulher-outubro/
+END:VEVENT
+END:VCALENDAR

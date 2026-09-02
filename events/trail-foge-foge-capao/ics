@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69828c2930bbe
-DTSTAMP:20260204T000041Z
+UID:48664-0@www.portugalrunning.com
+DTSTAMP:20260902T140149Z
 DTSTART:20260419
 DTEND:20260420
-LOCATION:Freamunde\,  Porto Freamunde\,  Porto
+LOCATION:Freamunde\,   Porto Freamunde\,   Porto
 SUMMARY:Trail Foge Foge Capão 2026
 DESCRIPTION:O Trail Foge Foge Capão 2026 é composto por duas provas compe
  titivas: Trail Curto (16 km) e Mini Trail (10 km) e por uma Caminhada (10km

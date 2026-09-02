@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c9793d82
-DTSTAMP:20250720T222423Z
+UID:41098-0@www.portugalrunning.com
+DTSTAMP:20260902T140025Z
 DTSTART:20250425
 DTEND:20250426
-LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
 SUMMARY:Grande Prémio Atletismo Joaquim Almeida Ramalho 2025
 DESCRIPTION:Vai a Câmara Municipal de São Pedro do Sul\,  em coorganizaç
  ão com a Termalistur EM e com acolaboração da União de Freguesias de S.

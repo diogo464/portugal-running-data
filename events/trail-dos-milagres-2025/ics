@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d654938f
-DTSTAMP:20250720T222749Z
+UID:41148-0@www.portugalrunning.com
+DTSTAMP:20260902T140142Z
 DTSTART:20250323T044200Z
 DTEND:20250323T044200Z
-LOCATION:Cernache\,  Coimbra Cernache\,  Coimbra
+LOCATION:Cernache\,   Coimbra Cernache\,   Coimbra
 SUMMARY:Trail dos Milagres 2025
 DESCRIPTION:Numa co organização entre Junta de Freguesia de Cernache / Co
  missão de Festas de N.ª Senhora dos Milagres/ Lobos da Serra – Loureiro

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b23f37cbb50
-DTSTAMP:20250830T000055Z
+UID:44195-0@www.portugalrunning.com
+DTSTAMP:20260902T135951Z
 DTSTART:20250921T223000Z
 DTEND:20250921T235900Z
-LOCATION:Tavira\,  Faro Tavira\,  Faro
+LOCATION:Tavira\,   Faro Tavira\,   Faro
 SUMMARY:Corrida Entre Pontes - Tavira 2025
 DESCRIPTION: A Corrida Entre Pontes 2025 – Cidade de Tavira\,  é organ
  izada pelo Clube de Vela de Tavira\,  com o apoio da Câmara Municipal de

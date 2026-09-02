@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69910ca3aa954
-DTSTAMP:20260215T000035Z
+UID:46311-0@www.portugalrunning.com
+DTSTAMP:20260902T140132Z
 DTSTART:20260315
 DTEND:20260316
-LOCATION:São Miguel do Rio Torto\,  Santarém São Miguel do Rio Torto\,  Santarém
+LOCATION:São Miguel do Rio Torto\,   Santarém São Miguel do Rio Torto\,   Santarém
 SUMMARY:Trail Cabeços de São Miguel 2026
 DESCRIPTION:A Casa do Povo de São Miguel do Rio Torto organiza a 3ª Ediç
  ão Trail Cabeços de São Miguel\,  a realizarno dia 8 de Fevereiro de 202

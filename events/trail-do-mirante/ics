@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:698687f15d384
-DTSTAMP:20260207T003145Z
+UID:48703-0@www.portugalrunning.com
+DTSTAMP:20260902T140148Z
 DTSTART:20260607
 DTEND:20260608
-LOCATION:Ota\,  Lisboa Ota\,  Lisboa
+LOCATION:Ota\,   Lisboa Ota\,   Lisboa
 SUMMARY:Trail do Mirante 2026
 DESCRIPTION:Com partida no Centro Social Recreativo Desportivo da Ota esta 
  etapa vai levar-te a conhecer os melhores pontos de interesse da Ota\,  com

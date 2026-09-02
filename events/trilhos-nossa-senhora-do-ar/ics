@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c8e53c2
-DTSTAMP:20260201T000112Z
+UID:47382-0@www.portugalrunning.com
+DTSTAMP:20260902T140222Z
 DTSTART:20260201T080100Z
 DTEND:20260201T235900Z
-LOCATION:Chã\,  Vila Real Chã\,  Vila Real
+LOCATION:Chã\,   Vila Real Chã\,   Vila Real
 SUMMARY:Trilhos Nossa Senhora do AR 2026
 DESCRIPTION:Os Trilhos Nossa Senhora do Ar será realizado dia 01/02/2026 e
   terá os seguintes formatos:● Passeio BTT: +-30 km\,  +-650D+\,  dificul

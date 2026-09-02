@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68fd64cde18b1
-DTSTAMP:20251026T000117Z
+UID:46032-0@www.portugalrunning.com
+DTSTAMP:20260902T140011Z
 DTSTART:20260110
 DTEND:20260111
-LOCATION:Estádio Universitário de Lisboa\,  Lisboa Estádio Universitário de Lisboa\,  Lisboa
+LOCATION:Estádio Universitário de Lisboa\,   Lisboa Estádio Universitário de Lisboa\,   Lisboa
 SUMMARY:Estafeta dos Reis 2026
 DESCRIPTION:Numa parceria com a GNR\,  vais poder correr nas instalações 
  do antigo Posto de Comando do Movimento das Forças Armadas\,  instalado n

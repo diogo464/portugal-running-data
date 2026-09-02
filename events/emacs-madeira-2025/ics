@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ddc0b374877
-DTSTAMP:20251002T000051Z
+UID:44969-0@www.portugalrunning.com
+DTSTAMP:20260902T140015Z
 DTSTART:20251016T171100Z
 DTEND:20251016T235900Z
-LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+LOCATION:Funchal\,   Madeira Funchal\,   Madeira
 SUMMARY:EMACS Madeira 2025
 DESCRIPTION:A Meia Maratona Open Race (19 de outubro 2025) e corrida de 10 
  km Open Race (16 de outubro 2025) são uma organização da Associação de

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b158111
-DTSTAMP:20260223T000049Z
+UID:47055-0@www.portugalrunning.com
+DTSTAMP:20260902T140046Z
 DTSTART:20260412
 DTEND:20260413
-LOCATION:Ponta Delgada\,  Açores Ponta Delgada\,  Açores
+LOCATION:Ponta Delgada\,   Açores Ponta Delgada\,   Açores
 SUMMARY:Meia Maratona Ilha Verde 2026
 DESCRIPTION:O Clube Desportivo e Cultural Juventude Ilha Verde\,  com o apo
  io institucional da Câmara Municipal de Ponta Delgada\,  Junta de Freguesi

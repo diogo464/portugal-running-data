@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d3f7b28b
-DTSTAMP:20250720T222711Z
+UID:42181-0@www.portugalrunning.com
+DTSTAMP:20260902T140126Z
 DTSTART:20250921
 DTEND:20250922
-LOCATION:Lordelo\,  Paredes Lordelo\,  Paredes
+LOCATION:Lordelo\,   Paredes Lordelo\,   Paredes
 SUMMARY:Trail Bombeiros Voluntários de Lordelo 2025
 DESCRIPTION:O Trail Bombeiros Voluntários de Lordelo é organizado pela As
  sociação Humanitária dos Bombeiros Voluntários de Lordelo e será no Pa

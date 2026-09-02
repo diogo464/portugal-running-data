@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a76c602ea644
-DTSTAMP:20260808T060034Z
+UID:51501-0@www.portugalrunning.com
+DTSTAMP:20260902T135950Z
 DTSTART:20261025
 DTEND:20261026
-LOCATION:Palmela\,  Setúbal Palmela\,  Setúbal
+LOCATION:Palmela\,   Setúbal Palmela\,   Setúbal
 SUMMARY:Corrida Volkswagen Autoeuropa 2026
 DESCRIPTION:A Corrida Volkswagen Autoeuropa regressa a Palmela no dia 25 de
   outubro de 2026\,  convidando os participantes para uma corrida de 10 km e

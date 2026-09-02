@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c5a799f6
-DTSTAMP:20250720T222322Z
+UID:577-0@www.portugalrunning.com
+DTSTAMP:20260902T135948Z
 DTSTART:20200104
 DTEND:20200105
-LOCATION:Póvoa de Varzim\,  Porto Póvoa de Varzim\,  Porto
+LOCATION:Póvoa de Varzim\,   Porto Póvoa de Varzim\,   Porto
 SUMMARY:Corrida dos Reis
 DESCRIPTION:No dia 4 de janeiro\,  a Póvoa de Varzim será palco da Corte 
  Recto Corrida dos Reis 2020. O evento tem o selo de qualidade das organiza�

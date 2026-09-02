@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a6997034eb41
-DTSTAMP:20260729T060035Z
-DTSTART:20260913T183300Z
+UID:55225-0@www.portugalrunning.com
+DTSTAMP:20260902T140005Z
+DTSTART:20260913T090000Z
 DTEND:20260913T235900Z
-LOCATION:Esteiro de Estarreja\,  Estarreja Esteiro de Estarreja\,  Estarreja
+LOCATION:Esteiro de Estarreja\,   Estarreja Esteiro de Estarreja\,   Estarreja
 SUMMARY:Desafios nos Arrozais 2026
-DESCRIPTION:O “Desafio Nos Arrozais” (DNA) é uma competição de Atlet
- ismo\,  que será realizada em Estarreja. A corrida será em terra batida n
- as margens do rio Antuã\,  nos terrenos do cultivo do arroz e regressa ao 
- longo da linha do Norte em piso rápido de asfalto.O objetivo é associar a
-  prática[..]\nhttps://www.portugalrunning.com/eventos/desafios-nos-arrozai
- s/
+DESCRIPTION:Sobre O Desafios nos Arrozais 2026O Desafio nos Arrozais 2026 (
+ DNA - Desafio Nos Arrozais) realiza-se no dia 13 de Setembro de 2026 (Domin
+ go)\,  com ponto de concentração e meta no Esteiro de Estarreja (junto à
+  estação da CP de Estarreja\,  concelho de Estarreja\,  distrito de Aveir
+ o). Organizado pela Associação[..]\nhttps://www.portugalrunning.com/event
+ os/desafios-nos-arrozais/
 URL:https://www.portugalrunning.com/eventos/desafios-nos-arrozais/
 END:VEVENT
 END:VCALENDAR

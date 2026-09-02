@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6dad91fa0
-DTSTAMP:20250720T222901Z
+UID:41795-0@www.portugalrunning.com
+DTSTAMP:20260902T140221Z
 DTSTART:20250607
 DTEND:20250608
-LOCATION:Moinhos da Gândara\,  Figueira da Foz Moinhos da Gândara\,  Figueira da Foz
+LOCATION:Moinhos da Gândara\,   Figueira da Foz Moinhos da Gândara\,   Figueira da Foz
 SUMMARY:Trilhos Moinhos da Gândara 2025
 DESCRIPTION:Organização:&nbsp;Junta de Freguesia de Moinhos da Gândara\,
    com apoio de associações locais\,  entidades e empresas. Localização:

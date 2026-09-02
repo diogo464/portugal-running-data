@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a3200b7d
-DTSTAMP:20260320T110626Z
+UID:47278-0@www.portugalrunning.com
+DTSTAMP:20260902T140222Z
 DTSTART:20260605
 DTEND:20260606
-LOCATION:Ourém\,  Santarém Ourém\,  Santarém
+LOCATION:Ourém\,   Santarém Ourém\,   Santarém
 SUMMARY:Ultra Caminhos do Tejo 2026
 DESCRIPTION:A Associação Desportiva O Mundo da Corrida.com\,  com o Apoio
   da Câmara Municipal de Ourém\,  realiza nos dias 5 e 6 de junho de 2026 

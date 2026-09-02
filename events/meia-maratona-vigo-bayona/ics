@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69dc868343f2d
-DTSTAMP:20260413T060035Z
+UID:47480-0@www.portugalrunning.com
+DTSTAMP:20260902T140055Z
 DTSTART:20260412
 DTEND:20260413
-LOCATION:Vigo\,  Espanha Vigo\,  Espanha
+LOCATION:Vigo\,   Espanha Vigo\,   Espanha
 SUMMARY:Meia Maratona Vigo Bayona 2026
 DESCRIPTION:Resultados A Meia Maratona Vigo-Baiona\,  carinhosamente apelid
  ada de Vig-Bay\,  é uma das provas de estrada mais carismáticas e partici

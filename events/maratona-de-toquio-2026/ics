@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68e306bd0c1bd
-DTSTAMP:20251006T000101Z
+UID:45506-0@www.portugalrunning.com
+DTSTAMP:20260902T140041Z
 DTSTART:20260301
 DTEND:20260302
-LOCATION:Tóquio\,  Japão Tóquio\,  Japão
+LOCATION:Tóquio\,   Japão Tóquio\,   Japão
 SUMMARY:Maratona de Tóquio 2026
 DESCRIPTION:A Maratona de Tóquio\,  realizada anualmente em março\,  é u
  ma das mais prestigiadas Abbott World Marathon Majors e a única Major asi�

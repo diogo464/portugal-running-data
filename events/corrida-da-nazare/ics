@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69e46f7c6bb5e
-DTSTAMP:20260419T060028Z
+UID:50684-0@www.portugalrunning.com
+DTSTAMP:20260902T135931Z
 DTSTART:20260613
 DTEND:20260614
-LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+LOCATION:Nazaré\,   Leiria Nazaré\,   Leiria
 SUMMARY:Corrida da Nazaré 2026
 DESCRIPTION:A Corrida da Nazaré é organizada pelo Clube de Atletismo d
  a Nazaré com o apoio da Câmara Municipal da Nazaré\,  Junta de Fregue

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:695467cf672d0
-DTSTAMP:20251231T000119Z
+UID:46393-0@www.portugalrunning.com
+DTSTAMP:20260902T140222Z
 DTSTART:20260103
 DTEND:20260104
-LOCATION:Tomar\,  Santarém Tomar\,  Santarém
+LOCATION:Tomar\,   Santarém Tomar\,   Santarém
 SUMMARY:Trilhos Noturnos dos Templários 2026
 DESCRIPTION:A 12ª Edição dos Trilhos Noturnos dos Templários 2026\,  co
  ntextualiza-se na vontade de dar a possibilidade a todos os atletas de pode

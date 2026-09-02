@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cf748a10
-DTSTAMP:20250720T222559Z
+UID:40014-0@www.portugalrunning.com
+DTSTAMP:20260902T140106Z
 DTSTART:20250316
 DTEND:20250317
-LOCATION:Alcobaça\,  Leiria Alcobaça\,  Leiria
+LOCATION:Alcobaça\,   Leiria Alcobaça\,   Leiria
 SUMMARY:Palmilhar A Freguesia 2025
 DESCRIPTION:A Junta de Freguesia de Évora de Alcobaça vai realizar no pr�
  �ximo dia 16 de Março de 2025 um evento denominado "Palmilhar a Freguesia"

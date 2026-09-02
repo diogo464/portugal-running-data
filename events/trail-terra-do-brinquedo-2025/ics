@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d8f338da
-DTSTAMP:20250720T222831Z
+UID:41014-0@www.portugalrunning.com
+DTSTAMP:20260902T140208Z
 DTSTART:20250608
 DTEND:20250609
-LOCATION:Valongo\,  Porto Valongo\,  Porto
+LOCATION:Valongo\,   Porto Valongo\,   Porto
 SUMMARY:Trail Terra do Brinquedo 2025
 DESCRIPTION:A Edição de 2025 do Trail Terra do Brinquedo\,  será realiza
  da nos dias 7 e 8 de Junho\,  em Alfena\,  Concelho de Valongo. Irá percor

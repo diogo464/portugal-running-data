@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c7572472218
-DTSTAMP:20250915T000036Z
-DTSTART:20250914
-DTEND:20250915
-LOCATION:Algés\,  Oeiras Algés\,  Oeiras
+UID:42599-0@www.portugalrunning.com
+DTSTAMP:20260902T135937Z
+DTSTART:20250915
+DTEND:20250916
+LOCATION:Algés\,   Oeiras Algés\,   Oeiras
 SUMMARY:Corrida do Tejo 2025
 DESCRIPTION:Resultados A Corrida do Tejo é uma das corridas mais emblemát
  icas do panorama nacional. Desde 1981 que tem como propósito incentivar a 

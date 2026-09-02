@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69e46f7d44ed1
-DTSTAMP:20260419T060029Z
+UID:50671-0@www.portugalrunning.com
+DTSTAMP:20260902T140007Z
 DTSTART:20260920
 DTEND:20260921
-LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+LOCATION:Santa Maria da Feira\,   Aveiro Santa Maria da Feira\,   Aveiro
 SUMMARY:Grande Prémio Caldas de São Jorge 2026
-DESCRIPTION:O Caldas de São Jorge Sport Clube volta a organizar um dos eve
- ntos de referência de Santa Maria da Feira. Este é um Grande Prémio para
-  todas as idades e géneros\,  inclusivo e cheio de festa de atletismo.\nht
- tps://www.portugalrunning.com/eventos/grande-premio-caldas-de-sao-jorge/
+DESCRIPTION:Sobre O Grande Prémio Caldas de São Jorge 2026O Grande Prémi
+ o Caldas de São Jorge 2026 realiza-se no dia 20 de Setembro de 2026 (Domin
+ go)\,  em Parque das Termas de Caldas de São Jorge\,  Santa Maria da Feira
+  (Santa Maria da Feira\,  distrito de Aveiro). Trata-se de um evento despor
+ tivo[..]\nhttps://www.portugalrunning.com/eventos/grande-premio-caldas-de-s
+ ao-jorge/
 URL:https://www.portugalrunning.com/eventos/grande-premio-caldas-de-sao-jorge/
 END:VEVENT
 END:VCALENDAR

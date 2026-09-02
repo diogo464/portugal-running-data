@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a2f950d6199d
-DTSTAMP:20260615T060045Z
+UID:51649-0@www.portugalrunning.com
+DTSTAMP:20260902T140054Z
 DTSTART:20260927
 DTEND:20260928
-LOCATION:Oliveira de Azeméis\,  Aveiro Oliveira de Azeméis\,  Aveiro
+LOCATION:Oliveira de Azeméis\,   Aveiro Oliveira de Azeméis\,   Aveiro
 SUMMARY:NAC Trail 2026
-DESCRIPTION:O Núcleo de Atletismo de Cucujães\,  doravante designado como
-  NAC\,  é o organizador do NAC TRAIL 2026\,  em parceria com o Município 
- de Oliveira de Azeméis\,  que decorrerá no dia 27 de setembro de 2026.O N
- AC TRAIL 2026 é constituído por:- 1 prova de carácter competitivo\,  des
- ignado por Trail Sprint\, [..]\nhttps://www.portugalrunning.com/eventos/nac
- -trail/
+DESCRIPTION:Sobre O NAC Trail 2026O NAC Trail 2026 realiza-se na manhã de 
+ 27 de Setembro de 2026 (Domingo)\,  na vila de Santiago de Riba-Ul (concelh
+ o de Oliveira de Azeméis\,  distrito de Aveiro). Organizado pelo prestigia
+ do Núcleo de Atletismo de Cucujães (NAC) em parceria com o Município de 
+ Oliveira de Azeméis[..]\nhttps://www.portugalrunning.com/eventos/nac-trail
+ /
 URL:https://www.portugalrunning.com/eventos/nac-trail/
 END:VEVENT
 END:VCALENDAR

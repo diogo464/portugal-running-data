@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6da4c380c
-DTSTAMP:20250720T222852Z
+UID:41742-0@www.portugalrunning.com
+DTSTAMP:20260902T140219Z
 DTSTART:20250706T074600Z
 DTEND:20250706T074600Z
-LOCATION:Porto de Mós\,  Leiria Porto de Mós\,  Leiria
+LOCATION:Porto de Mós\,   Leiria Porto de Mós\,   Leiria
 SUMMARY:Trilhos D. Fuas 2025
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trilhos-d-fuas-2025/
 URL:https://www.portugalrunning.com/eventos/trilhos-d-fuas-2025/

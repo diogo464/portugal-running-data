@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c2a00c83
-DTSTAMP:20250720T222234Z
+UID:40535-0@www.portugalrunning.com
+DTSTAMP:20260902T135914Z
 DTSTART:20250406T175500Z
 DTEND:20250406T175500Z
-LOCATION:Tondela\,  Viseu Tondela\,  Viseu
+LOCATION:Tondela\,   Viseu Tondela\,   Viseu
 SUMMARY:Caramulo Magic Trail 2025
 DESCRIPTION:O Caramulo Magic Trail é uma co-organização da Carlos Sá 
  Nature Events® e o Município de Tondela\,  com o apoio das Freguesias de 

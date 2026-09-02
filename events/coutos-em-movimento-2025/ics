@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c79014e2
-DTSTAMP:20250720T222353Z
+UID:41234-0@www.portugalrunning.com
+DTSTAMP:20260902T135951Z
 DTSTART:20250501
 DTEND:20250502
-LOCATION:Coutos de Viseu\,  Viseu Coutos de Viseu\,  Viseu
+LOCATION:Coutos de Viseu\,   Viseu Coutos de Viseu\,   Viseu
 SUMMARY:Coutos em Movimento 2025
 DESCRIPTION:A organização deste evento é realizada pela Associação Cul
  tural Recreativa Desportiva DATUS\,  com o apoio da Junta de Freguesia dos 

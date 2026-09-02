@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d8348b48
-DTSTAMP:20250720T222819Z
+UID:43059-0@www.portugalrunning.com
+DTSTAMP:20260902T140203Z
 DTSTART:20250809T120200Z
 DTEND:20250809T235900Z
-LOCATION:Lomba\,  Ilha das Flores Lomba\,  Ilha das Flores
+LOCATION:Lomba\,   Ilha das Flores Lomba\,   Ilha das Flores
 SUMMARY:Trail Rocha do Touro 2025
 DESCRIPTION:A prova\,  Trail Rocha do Touro é uma iniciativa organizada pe
  lo Atlético Clube Fajã Grande\,  com o apoio da Junta de Freguesia da Lom

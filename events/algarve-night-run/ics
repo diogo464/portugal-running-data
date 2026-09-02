@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a01707ceecb8
-DTSTAMP:20260511T060028Z
+UID:50746-0@www.portugalrunning.com
+DTSTAMP:20260902T135859Z
 DTSTART:20260515
 DTEND:20260516
-LOCATION:Almancil\,  Loulé Almancil\,  Loulé
+LOCATION:Almancil\,   Loulé Almancil\,   Loulé
 SUMMARY:Algarve Night Run 2026
 DESCRIPTION:Numa co-organização da Free Challenge\,  MAR Shopping Algarve
  \,  Designer Outlet Algarve\,  realiza-se no dia 15 de maio de 2026 (nova d

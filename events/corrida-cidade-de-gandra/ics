@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f9877b5e1fc
-DTSTAMP:20260505T060027Z
+UID:51009-0@www.portugalrunning.com
+DTSTAMP:20260902T135935Z
 DTSTART:20260606
 DTEND:20260607
-LOCATION:Gandra\,  Paredes Gandra\,  Paredes
+LOCATION:Gandra\,   Paredes Gandra\,   Paredes
 SUMMARY:Corrida Cidade de Gandra 2026
 DESCRIPTION:A Corrida Cidade de Gandra 2026 é organizada pela Junta de Fre
  guesia de Gandra com oapoio da Associação Cultural e Recreativa de Vilari

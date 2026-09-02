@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c7e49864
-DTSTAMP:20250720T222358Z
+UID:40618-0@www.portugalrunning.com
+DTSTAMP:20260902T140001Z
 DTSTART:20250920
 DTEND:20250921
-LOCATION:Amarante\,  Porto Amarante\,  Porto
+LOCATION:Amarante\,   Porto Amarante\,   Porto
 SUMMARY:Desafio Cumes do Marão 2025
 DESCRIPTION:desafio consistiu em percorrer-sesectores do reconhecido evento
   Ultra Trail do Marão\,  com três níveis diferentes de exigência emperc

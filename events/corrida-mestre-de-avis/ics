@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1b9c6c9
-DTSTAMP:20260723T060059Z
+UID:54377-0@www.portugalrunning.com
+DTSTAMP:20260902T135958Z
 DTSTART:20260815
 DTEND:20260816
-LOCATION:Avis\,  Portalegre Avis\,  Portalegre
+LOCATION:Avis\,   Portalegre Avis\,   Portalegre
 SUMMARY:Corrida Mestre de Avis 2026
 DESCRIPTION:Integrado nas&nbsp;Festas da Batalha\,  organizadas pelo&nbsp;M
  unicípio da Batalha\,  realiza-se no dia&nbsp;15 de agosto de 2026\, &nbsp

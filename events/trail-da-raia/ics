@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69c66ed9e39a8
-DTSTAMP:20260327T114945Z
+UID:48473-0@www.portugalrunning.com
+DTSTAMP:20260902T140131Z
 DTSTART:20260808
 DTEND:20260809
-LOCATION:Aldeia do Bispo\,  Sabugal Aldeia do Bispo\,  Sabugal
+LOCATION:Aldeia do Bispo\,   Sabugal Aldeia do Bispo\,   Sabugal
 SUMMARY:Trail da Raia 2026
 DESCRIPTION:O Trail da Raia 2026 realiza-se no dia 8 de agosto de 2026\,  c
  om partida e chegada na pitoresca Aldeia do Bispo\,  no concelho do Sabugal

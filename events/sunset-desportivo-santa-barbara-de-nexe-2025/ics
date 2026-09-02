@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d33dc5ad
-DTSTAMP:20250720T222659Z
+UID:41949-0@www.portugalrunning.com
+DTSTAMP:20260902T140127Z
 DTSTART:20250621T080600Z
 DTEND:20250621T235900Z
-LOCATION:Santa Barbara de Nexe\,  Faro Santa Barbara de Nexe\,  Faro
+LOCATION:Santa Barbara de Nexe\,   Faro Santa Barbara de Nexe\,   Faro
 SUMMARY:Sunset Desportivo Santa Bárbara de Nexe 2025
 DESCRIPTION:A Algarviana Team – Associação Cultural e Desportiva\,  sem
   fins lucrativos e com sede em Gorjões\,  com o apoio da Câmara Municipal

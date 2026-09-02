@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d8a5fe4
-DTSTAMP:20260315T100720Z
+UID:47804-0@www.portugalrunning.com
+DTSTAMP:20260902T135901Z
 DTSTART:20260523
 DTEND:20260524
-LOCATION:Ilha de São Miguel\,  Açores Ilha de São Miguel\,  Açores
+LOCATION:Ilha de São Miguel\,   Açores Ilha de São Miguel\,   Açores
 SUMMARY:7 Cidades Ultimate Trail 2026
 DESCRIPTION:O evento “7 Cidades Ultimate Trail” (7CUT) é composto por 
  5 provas: O 7CUT40 é uma prova de caráter competitivo\,  destinada a maio

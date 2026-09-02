@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a04158cb0876
-DTSTAMP:20260513T060916Z
+UID:46974-0@www.portugalrunning.com
+DTSTAMP:20260902T140046Z
 DTSTART:20260510
 DTEND:20260511
-LOCATION:Praia De Cortegaça\,  Aveiro Praia De Cortegaça\,  Aveiro
+LOCATION:Praia De Cortegaça\,   Aveiro Praia De Cortegaça\,   Aveiro
 SUMMARY:Meia Maratona de Cortegaça 2026
 DESCRIPTION:Resultados A Meia Maratona de Cortegaça 2026 regressa no dia 1
  0 de maio para desafiar os atletas na deslumbrante Praia de Cortegaça\,  n

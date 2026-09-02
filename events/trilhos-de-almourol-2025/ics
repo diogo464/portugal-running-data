@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6da3318b5
-DTSTAMP:20250720T222851Z
+UID:40575-0@www.portugalrunning.com
+DTSTAMP:20260902T140216Z
 DTSTART:20250615
 DTEND:20250616
-LOCATION:Entroncamento\,  Santarém Entroncamento\,  Santarém
+LOCATION:Entroncamento\,   Santarém Entroncamento\,   Santarém
 SUMMARY:Trilhos de Almourol 2025
 DESCRIPTION:O Trail Longo terá a distância aproximada de 40 km com D+1100
  ; integra o Circuito Nacional de Trail daATRP\,  o circuito de Trail Longo 

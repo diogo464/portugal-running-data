@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e760038dc
-DTSTAMP:20260501T174816Z
+UID:50891-0@www.portugalrunning.com
+DTSTAMP:20260902T140138Z
 DTSTART:20260607T144400Z
 DTEND:20260607T235900Z
-LOCATION:Rebordelo\,  Vinhais Rebordelo\,  Vinhais
+LOCATION:Rebordelo\,   Vinhais Rebordelo\,   Vinhais
 SUMMARY:Trail do Rabaçal 2026
 DESCRIPTION:Terá lugar no dia 07 de junho de 2026 a 2ª edição do Trail 
  do Rabaçal promovido pela Câmara Municipal de Vinhais\,  Associação de 

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b0975dd825
-DTSTAMP:20260129T071709Z
+UID:48258-0@www.portugalrunning.com
+DTSTAMP:20260902T135919Z
 DTSTART:20260321T045200Z
 DTEND:20260321T235900Z
-LOCATION:Parque Urbano Murça\,  Vila Real Parque Urbano Murça\,  Vila Real
+LOCATION:Parque Urbano Murça\,   Vila Real Parque Urbano Murça\,   Vila Real
 SUMMARY:Corrida Azeite Porca de Murça 2026
 DESCRIPTION:A corrida dos 10kms terá um abastecimento líquido aos 5kms e 
  líquido e sólido no final. A Caminhada terá abastecimento líquido e só

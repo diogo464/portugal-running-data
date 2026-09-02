@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6907f0d469dbc
-DTSTAMP:20251103T000124Z
+UID:43100-0@www.portugalrunning.com
+DTSTAMP:20260902T140137Z
 DTSTART:20250824T130900Z
 DTEND:20250824T235900Z
-LOCATION:Santa Barbara de Nexe\,  Faro Santa Barbara de Nexe\,  Faro
+LOCATION:Santa Barbara de Nexe\,   Faro Santa Barbara de Nexe\,   Faro
 SUMMARY:Trail do Barrocal 2025
 DESCRIPTION:O Trail do Barrocal que vai integrar o Campeonato Regional d
  e Trail e uma prova do Circuito de Trail Sprint do Algarve\,  é um even

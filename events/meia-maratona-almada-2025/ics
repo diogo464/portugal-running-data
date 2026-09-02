@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cc86265a
-DTSTAMP:20250720T222512Z
+UID:41032-0@www.portugalrunning.com
+DTSTAMP:20260902T140040Z
 DTSTART:20250406T133400Z
 DTEND:20250406T235900Z
-LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+LOCATION:Almada\,   Setúbal Almada\,   Setúbal
 SUMMARY:Meia Maratona Almada 2025
 DESCRIPTION:A cidade de Almada prepara-se para a Meia Maratona\,  no dia&nb
  sp;06 de abril de 2025.Uma experiência desportiva única e memorável. Rea

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c15294f
-DTSTAMP:20260201T000105Z
+UID:47008-0@www.portugalrunning.com
+DTSTAMP:20260902T135900Z
 DTSTART:20260124
 DTEND:20260125
-LOCATION:Querença\,  Loulé Querença\,  Loulé
+LOCATION:Querença\,   Loulé Querença\,   Loulé
 SUMMARY:Algarve Xtreme Trail 2026
 DESCRIPTION:O Algarve Xtreme Trail é um evento desportivo de caráter l�
  �dico e competitivo que tem por objetivo divulgar e promover não só a pr�

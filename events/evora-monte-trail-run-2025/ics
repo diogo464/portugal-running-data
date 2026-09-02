@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c8b617ae
-DTSTAMP:20250720T222411Z
+UID:39648-0@www.portugalrunning.com
+DTSTAMP:20260902T135958Z
 DTSTART:20250518
 DTEND:20250519
-LOCATION:Évora Monte\,  Estremoz Évora Monte\,  Estremoz
+LOCATION:Évora Monte\,   Estremoz Évora Monte\,   Estremoz
 SUMMARY:Évora Monte Trail Run 2025
 DESCRIPTION:Associação BTTMOZ-SDT em parceria com a Junta de Freguesia de
   Évora Monte é a endade organizadora do evento Évora Monte Trail Run\,  

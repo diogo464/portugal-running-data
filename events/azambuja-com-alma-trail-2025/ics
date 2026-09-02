@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c1e49ff3
-DTSTAMP:20250720T222222Z
+UID:41479-0@www.portugalrunning.com
+DTSTAMP:20260902T135914Z
 DTSTART:20250622T152000Z
 DTEND:20250622T152000Z
-LOCATION:Azambuja\,  Lisboa Azambuja\,  Lisboa
+LOCATION:Azambuja\,   Lisboa Azambuja\,   Lisboa
 SUMMARY:Azambuja com Alma Trail 2025
 DESCRIPTION:Esta prova é composta por duas corridas de caráter competitiv
  o\,  sendo uma o Trail de 22km e outra\,  o Mini Trail de 12km. Realiza-se 

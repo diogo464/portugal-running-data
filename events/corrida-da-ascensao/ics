@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f59992075ce
-DTSTAMP:20260502T062834Z
+UID:50753-0@www.portugalrunning.com
+DTSTAMP:20260902T135924Z
 DTSTART:20260517T204800Z
 DTEND:20260517T235900Z
-LOCATION:Alenquer\,  Lisboa Alenquer\,  Lisboa
+LOCATION:Alenquer\,   Lisboa Alenquer\,   Lisboa
 SUMMARY:Corrida da Ascensão 2026
 DESCRIPTION:Surge a Corrida da Ascensão\,  com o principal objetivo de con
  tribuir para a promoção da modalidadeno nosso território\,  tornando-a n

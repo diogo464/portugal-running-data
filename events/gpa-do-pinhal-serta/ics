@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a76c6025a6e6
-DTSTAMP:20260808T060034Z
+UID:57502-0@www.portugalrunning.com
+DTSTAMP:20260902T140021Z
 DTSTART:20261003
 DTEND:20261004
-LOCATION:Sertã\,  Castelo Branco Sertã\,  Castelo Branco
-SUMMARY:GPA do Pinhal - Sertã 2026
-DESCRIPTION:O GPA do Pinhal regressa à Alameda da Carvalha a 3 de outubro 
- de 2026 para uma jornada marcante no concelho da Sertã\,  desafiando os at
- letas num percurso urbano e rápido de 9 km em piso maioritariamente de asf
- alto. O traçado exige constante leitura de terreno\,  com transições ent
- re troços[..]\nhttps://www.portugalrunning.com/eventos/gpa-do-pinhal-serta
- /
+LOCATION:Sertã\,   Castelo Branco Sertã\,   Castelo Branco
+SUMMARY:GPA do Pinhal – Sertã 2026
+DESCRIPTION:Sobre O GPA do Pinhal – Sertã 2026A 21.ª edição do Grande
+  Prémio de Atletismo do Pinhal (GPA do Pinhal – Sertã 2026) realiza-se 
+ na tarde de 3 de Outubro de 2026 (Sábado)\,  na acolhedora vila da Sertã 
+ (distrito de Castelo Branco). Organizado pelo Grupo Desportivo de São Domi
+ ngos\,  com[..]\nhttps://www.portugalrunning.com/eventos/gpa-do-pinhal-sert
+ a/
 URL:https://www.portugalrunning.com/eventos/gpa-do-pinhal-serta/
 END:VEVENT
 END:VCALENDAR

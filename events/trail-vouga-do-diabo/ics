@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69813ab191b3a
-DTSTAMP:20260203T000049Z
+UID:48604-0@www.portugalrunning.com
+DTSTAMP:20260902T140212Z
 DTSTART:20260419T115200Z
 DTEND:20260419T115200Z
-LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
 SUMMARY:Trail Vouga do Diabo 2026
 DESCRIPTION:O Trail Vouga do Diabo é um evento de trail running organizado
   pela equipa ASCR Mosteirinho Runners.A prova irá decorrer na freguesia de

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ed92ae84b69
-DTSTAMP:20251014T000046Z
+UID:45750-0@www.portugalrunning.com
+DTSTAMP:20260902T140113Z
 DTSTART:20251220
 DTEND:20251221
-LOCATION:Boticas\,  Vila Real Boticas\,  Vila Real
+LOCATION:Boticas\,   Vila Real Boticas\,   Vila Real
 SUMMARY:São Silvestre Boticas 2025
 DESCRIPTION:Pela quarta vez a São Silvestre de Boticas irá para a estrada
  \,  com partida e chegada em frente ao Município de Boticas\,  nesta belí

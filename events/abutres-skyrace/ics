@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b097416d6a
-DTSTAMP:20260129T071708Z
+UID:48298-0@www.portugalrunning.com
+DTSTAMP:20260902T135900Z
 DTSTART:20260321
 DTEND:20260322
-LOCATION:Miranda do Corvo\,  Coimbra Miranda do Corvo\,  Coimbra
+LOCATION:Miranda do Corvo\,   Coimbra Miranda do Corvo\,   Coimbra
 SUMMARY:Abutres SkyRace® 2026
 DESCRIPTION:O Abutres SkyRace® será realizado nos dias 21 e 22 de março 
  de 2026 e é um evento organizado pela Associação Abutrica\,  com o apoio

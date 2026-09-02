@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c87182f1
-DTSTAMP:20250720T222407Z
+UID:41326-0@www.portugalrunning.com
+DTSTAMP:20260902T140003Z
 DTSTART:20250424
 DTEND:20250425
-LOCATION:Arraiolos\,  Évora Arraiolos\,  Évora
+LOCATION:Arraiolos\,   Évora Arraiolos\,   Évora
 SUMMARY:Estafeta 25 de Abril - Arraiolos 2025
 DESCRIPTION:A Estafeta de 25 de Abril é organizada pelo Município de Arra
  iolos e Junta de Freguesia de Arraiolos na véspera de uns dos feriados mai

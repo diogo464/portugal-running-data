@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c1bf7ea2a92
-DTSTAMP:20250910T181214Z
+UID:44396-0@www.portugalrunning.com
+DTSTAMP:20260902T140125Z
 DTSTART:20251206
 DTEND:20251207
-LOCATION:Ansião\,  Leiria Ansião\,  Leiria
+LOCATION:Ansião\,   Leiria Ansião\,   Leiria
 SUMMARY:Trail da Amizade 2025
 DESCRIPTION:A prova Trail da Amizade (TdA) é percorrida\,  na sua maioria\
  ,  em trilhos técnicos\,  estradões\,  carreiros e quelhas\,  na freguesi

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68a6619abf297
-DTSTAMP:20250821T000026Z
+UID:43940-0@www.portugalrunning.com
+DTSTAMP:20260902T135934Z
 DTSTART:20251019
 DTEND:20251020
-LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+LOCATION:Vila Nova de Gaia\,   Porto Vila Nova de Gaia\,   Porto
 SUMMARY:Corrida do Bombeiro 2025
 DESCRIPTION:No dia 19 de outubro de 2025\,  a Eventsport organiza às 09h00
   a 7 edição da Generali Tranquilidade Corrida do Bombeiro\,  em parceria 

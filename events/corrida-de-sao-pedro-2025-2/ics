@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c4d627e5
-DTSTAMP:20250720T222309Z
+UID:41765-0@www.portugalrunning.com
+DTSTAMP:20260902T135948Z
 DTSTART:20250614
 DTEND:20250615
-LOCATION:Macedo de Cavaleiros\,  Bragança Macedo de Cavaleiros\,  Bragança
+LOCATION:Macedo de Cavaleiros\,   Bragança Macedo de Cavaleiros\,   Bragança
 SUMMARY:Corrida de São Pedro 2025
 DESCRIPTION:A “CORRIDA DE SÃO PEDRO” é uma prova de atletismo organi
  zada pelo Município de Macedo de Cavaleiros e pelo Clube Atlético de Mace

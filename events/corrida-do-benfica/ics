@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cd2a76829a4
-DTSTAMP:20260401T142350Z
+UID:47788-0@www.portugalrunning.com
+DTSTAMP:20260902T135933Z
 DTSTART:20260329
 DTEND:20260330
-LOCATION:Avenida Machado Santos\,  Lisboa Avenida Machado Santos\,  Lisboa
+LOCATION:Avenida Machado Santos\,   Lisboa Avenida Machado Santos\,   Lisboa
 SUMMARY:Corrida do Benfica 2026
 DESCRIPTION:Resultados A tão aguardada corrida do benfica 2026\,  oficialm
  ente conhecida como a 18ª Corrida António Leitão\,  está agendada para 

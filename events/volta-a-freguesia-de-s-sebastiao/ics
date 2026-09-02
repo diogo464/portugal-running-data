@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dcf0f83
-DTSTAMP:20260315T100724Z
+UID:49968-0@www.portugalrunning.com
+DTSTAMP:20260902T140222Z
 DTSTART:20260322
 DTEND:20260323
-LOCATION:Rio Maior Rio Maior\,  Santarém
+LOCATION:Rio Maior Rio Maior\,   Santarém
 SUMMARY:Volta à Freguesia de S. Sebastião 2026
 DESCRIPTION:O Torneio de Atletismo das Freguesias de Rio Maior “Jorge Mig
  uel” consiste num conjunto de provasdesportivas na modalidade de atletism

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b23cf44
-DTSTAMP:20260223T000050Z
+UID:48198-0@www.portugalrunning.com
+DTSTAMP:20260902T140209Z
 DTSTART:20260314T115200Z
 DTEND:20260314T235900Z
-LOCATION:Tavira\,  Faro Tavira\,  Faro
+LOCATION:Tavira\,   Faro Tavira\,   Faro
 SUMMARY:Trail Urbano Bombeiros de Tavira 2026
 DESCRIPTION:A AssociaÁ„o dos ServiÁos Sociais Dos Bombeiros de Tavira o
  rganiza\,  no dia 14 de marÁo de 2026 o III“Trail” Urbano Bombeiros Ta

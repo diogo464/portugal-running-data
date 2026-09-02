@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d8f330a0
-DTSTAMP:20250720T222831Z
+UID:38753-0@www.portugalrunning.com
+DTSTAMP:20260902T140210Z
 DTSTART:20250504T225000Z
 DTEND:20250504T235900Z
-LOCATION:Vila Ruiva\,  Guarda Vila Ruiva\,  Guarda
+LOCATION:Vila Ruiva\,   Guarda Vila Ruiva\,   Guarda
 SUMMARY:Trail Terras Além Mondego 2025
 DESCRIPTION:O ”TRAIL TERRAS ALÉM MONDEGO” é um trail\,  organizado pe
  la “AVCATAssociação Vila Chã Aldeia Trail de Portugal” a realizar no

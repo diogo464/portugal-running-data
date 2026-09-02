@@ -1,17 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a420a1217cd9
-DTSTAMP:20260629T060050Z
-DTSTART:20261121T190800Z
+UID:51860-0@www.portugalrunning.com
+DTSTAMP:20260902T140148Z
+DTSTART:20261121T090000Z
 DTEND:20261121T235900Z
-LOCATION:Alvaiázere\,  Leiria Alvaiázere\,  Leiria
+LOCATION:Alvaiázere\,   Leiria Alvaiázere\,   Leiria
 SUMMARY:Trail do Chícaro da Serra 2026
-DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/trail-do-chicaro-da-s
- erra/
+DESCRIPTION:Sobre O Trail do Chícaro da Serra 2026O Trail do Chícaro da S
+ erra 2026 realiza-se nos dias 21 e 22 de Novembro de 2026\,  na pitoresca f
+ reguesia de Santa Catarina da Serra\,  concelho e distrito de Leiria. Organ
+ izado pela União Desportiva da Serra em forte ligação com o emblemático
+  Festival[..]\nhttps://www.portugalrunning.com/eventos/trail-do-chicaro-da-
+ serra/
 URL:https://www.portugalrunning.com/eventos/trail-do-chicaro-da-serra/
 END:VEVENT
 END:VCALENDAR

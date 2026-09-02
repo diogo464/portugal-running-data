@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:45197-0@www.portugalrunning.com
-DTSTAMP:20260820T060023Z
+DTSTAMP:20260902T140110Z
 DTSTART:20261231
 DTEND:20270101
 LOCATION:Amadora\,   Lisboa Amadora\,   Lisboa
-SUMMARY:São Silvestre Amadora 2026
-DESCRIPTION:Sobre a São Silvestre da Amadora 2026 A mítica São Silvestre
-  da Amadora regressa a 31 de dezembro para fechar o ano com a sua exigente 
- e clássica prova de 10 KM. O traçado urbano é amplamente conhecido pelo 
- constante desafio de relevo\,  onde a famosa e dura Subida dos[..]\nhttps:/
- /www.portugalrunning.com/eventos/sao-silvestre-amadora/
+SUMMARY:São Silvestre da Amadora 2026
+DESCRIPTION:Sobre o São Silvestre da Amadora 2026O São Silvestre da Amado
+ ra 2026 realiza-se no dia 31 de Dezembro de 2026 (Quinta-feira)\,  em Amado
+ ra\,  Lisboa (Amadora\,  Lisboa\,  distrito de Amadora\,  Lisboa). Trata-se
+  de um evento desportivo emblemático da região\,  reunindo centenas de pa
+ rticipantes entre atletas federados\,  amadores e entusiastas do desporto[.
+ .]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-amadora/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-amadora/
 END:VEVENT
 END:VCALENDAR

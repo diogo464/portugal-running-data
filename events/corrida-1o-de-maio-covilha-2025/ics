@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c3318d20
-DTSTAMP:20250720T222243Z
+UID:41156-0@www.portugalrunning.com
+DTSTAMP:20260902T135919Z
 DTSTART:20250501T190800Z
 DTEND:20250501T235900Z
-LOCATION:Covilhã\,  Castelo Branco Covilhã\,  Castelo Branco
+LOCATION:Covilhã\,   Castelo Branco Covilhã\,   Castelo Branco
 SUMMARY:Corrida 1º de Maio - Covilhã 2025
 DESCRIPTION:Umas das provas mais antigas da região vai novamente para a es
  trada no dia do trabalhador. Um evento que leva todos os anos\,  para as pr

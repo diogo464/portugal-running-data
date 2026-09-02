@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:695c50e7bd801
-DTSTAMP:20260106T000143Z
+UID:46038-0@www.portugalrunning.com
+DTSTAMP:20260902T135953Z
 DTSTART:20260118
 DTEND:20260119
-LOCATION:Oriente\,  Lisboa Oriente\,  Lisboa
+LOCATION:Oriente\,   Lisboa Oriente\,   Lisboa
 SUMMARY:Corrida Solidária Adeptos e Simpatizantes 2026
 DESCRIPTION:Com partida e chegada no&nbsp;Parque Ribeirinho do Oriente\, &n
  bsp;o percurso desenrolar-se-á pela magnífica&nbsp;Av.&nbsp;Infante D. He

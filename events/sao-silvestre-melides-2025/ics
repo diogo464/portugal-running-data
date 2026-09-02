@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69069f69e6d2a
-DTSTAMP:20251102T000145Z
+UID:46153-0@www.portugalrunning.com
+DTSTAMP:20260902T140114Z
 DTSTART:20251207
 DTEND:20251208
-LOCATION:Melides\,  Setúbal Melides\,  Setúbal
+LOCATION:Melides\,   Setúbal Melides\,   Setúbal
 SUMMARY:São Silvestre Melides 2025
 DESCRIPTION:A São Silvestre Melides terá como principal objectivo incenti
  var a população à prática desportiva de forma saudável e regular. À s

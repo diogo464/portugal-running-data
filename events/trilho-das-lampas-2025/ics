@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d9b19589
-DTSTAMP:20250720T222843Z
+UID:40279-0@www.portugalrunning.com
+DTSTAMP:20260902T140205Z
 DTSTART:20250510
 DTEND:20250511
-LOCATION:São João Das Lampas\,  Lisboa São João Das Lampas\,  Lisboa
+LOCATION:São João Das Lampas\,   Lisboa São João Das Lampas\,   Lisboa
 SUMMARY:Trilho das Lampas 2025
 DESCRIPTION:O Trilho das Lampas é uma prova ao por do sol que será realiz
  ada em São João das Lampas\,  constituída por uma prova competitiva e um

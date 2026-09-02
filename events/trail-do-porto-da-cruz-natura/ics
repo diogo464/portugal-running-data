@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a4c960e2f53f
-DTSTAMP:20260707T060046Z
+UID:52923-0@www.portugalrunning.com
+DTSTAMP:20260902T140153Z
 DTSTART:20260719
 DTEND:20260720
-LOCATION:Machico\,  Ilha da Madeira Machico\,  Ilha da Madeira
+LOCATION:Machico\,   Ilha da Madeira Machico\,   Ilha da Madeira
 SUMMARY:Trail do Porto da Cruz Natura 2026
 DESCRIPTION:A Junta de Freguesia do Porto da Cruz é a entidade organizador
  a do evento denominado ‘13º Trail Porto da Cruz Natura’\,  que decorre

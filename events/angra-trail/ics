@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cd2a7664339
-DTSTAMP:20260401T142350Z
+UID:50205-0@www.portugalrunning.com
+DTSTAMP:20260902T135911Z
 DTSTART:20260620
 DTEND:20260621
-LOCATION:Angra do Heroísmo\,  Ilha Terceira\,  Açores Angra do Heroísmo\,  Ilha Terceira\,  Açores
+LOCATION:Angra do Heroísmo\,   Ilha Terceira\,   Açores Angra do Heroísmo\,   Ilha Terceira\,   Açores
 SUMMARY:Angra Trail 2026
 DESCRIPTION:O IV Angra Trail terá lugar no dia 20 de junho de 2026\,  na d
  eslumbrante cidade de Angra do Heroísmo\,  na Ilha Terceira. Este evento d

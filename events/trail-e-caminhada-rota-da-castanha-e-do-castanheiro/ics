@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:63539-0@www.portugalrunning.com
+DTSTAMP:20260902T140146Z
+DTSTART:20261024
+DTEND:20261025
+LOCATION:Sernancelhe\,   Viseu Sernancelhe\,   Viseu
+SUMMARY:Trail e Caminhada Rota da Castanha e do Castanheiro 2026
+DESCRIPTION:Sobre A Trail e Caminhada Rota da Castanha e do Castanheiro 202
+ 6O Trail e Caminhada Rota da Castanha e do Castanheiro 2026 realiza-se no d
+ ia 24 de Outubro de 2026 (Sábado)\,  no concelho de Sernancelhe (distrito 
+ de Viseu). Integrado na emblemática Festa da Castanha\,  o evento convida 
+ os participantes a[..]\nhttps://www.portugalrunning.com/eventos/trail-e-cam
+ inhada-rota-da-castanha-e-do-castanheiro/
+URL:https://www.portugalrunning.com/eventos/trail-e-caminhada-rota-da-castanha-e-do-castanheiro/
+END:VEVENT
+END:VCALENDAR

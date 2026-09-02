@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff9a1db41
-DTSTAMP:20260724T060058Z
+UID:54972-0@www.portugalrunning.com
+DTSTAMP:20260902T140034Z
 DTSTART:20260412T215900Z
 DTEND:20260412T235900Z
-LOCATION:Paris\,  França Paris\,  França
+LOCATION:Paris\,   França Paris\,   França
 SUMMARY:Maratona de Paris 2026
 DESCRIPTION:A Maratona Schneider Electric de Paris oferece uma oportunidade
   única de tornar a cidade sua\,  participando de uma das corridas mais pre

@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a27ac00cd4fa
-DTSTAMP:20260609T060032Z
+UID:51582-0@www.portugalrunning.com
+DTSTAMP:20260902T140147Z
 DTSTART:20260906
 DTEND:20260907
-LOCATION:São João da Madeira\,  Porto São João da Madeira\,  Porto
+LOCATION:São João da Madeira\,   Aveiro São João da Madeira\,   Aveiro
 SUMMARY:Trail do Chapeleiro 2026
-DESCRIPTION:A 4ª edição do Trail do Chapeleiro é uma prova que percorre
-  trilhos\,  caminhos e serras com partida e chegada no Parque urbano do Rio
-  Ul de São João da Madeira\,  com passagem por lugares próximos de outro
- s concelhos como Santa Maria da Feira e Oliveira de Azeméis.\nhttps://www.
- portugalrunning.com/eventos/trail-do-chapeleiro/
+DESCRIPTION:Sobre O Trail do Chapeleiro 2026A 4.ª edição do Trail do Cha
+ peleiro 2026 realiza-se no dia 6 de Setembro de 2026 (Domingo)\,  na cidade
+  de São João da Madeira (distrito de Aveiro). Organizado pela Câmara Mun
+ icipal e Junta de Freguesia de São João da Madeira em parceria com o grup
+ o[..]\nhttps://www.portugalrunning.com/eventos/trail-do-chapeleiro/
 URL:https://www.portugalrunning.com/eventos/trail-do-chapeleiro/
 END:VEVENT
 END:VCALENDAR

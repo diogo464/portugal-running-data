@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:57900-0@www.portugalrunning.com
-DTSTAMP:20260822T060050Z
-DTSTART:20261108T135200Z
+DTSTAMP:20260902T140030Z
+DTSTART:20261108T212600Z
 DTEND:20261108T135200Z
 LOCATION:Málaga\,   Espanha Málaga\,   Espanha
 SUMMARY:Maratona de Málaga 2026
-DESCRIPTION:Sobre a Maratona de Málaga 2026 (Generali 42K) A Generali Mara
- tona de Málaga 2026 realiza-se no dia 8 de novembro de 2026 na vibrante ca
- pital da Costa del Sol\,  em Espanha. Com um traçado costeiro e urbano de 
- 42\, 195 km homologado pela World Athletics\,  o evento alia um clima medit
- errânico[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-malaga/
+DESCRIPTION:Sobre o Maratona de Málaga 2026O Maratona de Málaga 2026 real
+ iza-se no dia 8 de Novembro de 2026 (Domingo)\,  em Málaga (Málaga\,  dis
+ trito de Málaga). Trata-se de um evento desportivo emblemático da região
+ \,  reunindo centenas de participantes entre atletas federados\,  amadores 
+ e entusiastas do desporto ao ar livre\,  promovendo o[..]\nhttps://www.port
+ ugalrunning.com/eventos/maratona-de-malaga/
 URL:https://www.portugalrunning.com/eventos/maratona-de-malaga/
 END:VEVENT
 END:VCALENDAR

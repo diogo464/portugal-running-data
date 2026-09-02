@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cc84aa39
-DTSTAMP:20250720T222512Z
+UID:41814-0@www.portugalrunning.com
+DTSTAMP:20260902T140041Z
 DTSTART:20250921T170600Z
 DTEND:20250921T235900Z
-LOCATION:Ameal\,  Coimbra Ameal\,  Coimbra
+LOCATION:Ameal\,   Coimbra Ameal\,   Coimbra
 SUMMARY:Meia Maratona Ameal 2025
 DESCRIPTION:A Meia Maratona do Ameal é Aberta a atletas de qualquer nacion
  alidade\,  sem distinção de sexo\,  dentro dos escalões etários definid

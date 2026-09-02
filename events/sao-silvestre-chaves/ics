@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:46897-0@www.portugalrunning.com
+DTSTAMP:20260902T140115Z
+DTSTART:20251227
+DTEND:20251228
+LOCATION:Chaves\,   Vila Real Chaves\,   Vila Real
+SUMMARY:São Silvestre Chaves 2025
+DESCRIPTION:Sobre a São Silvestre de Chaves A São Silvestre de Chaves 202
+ 5 reuniu centenas de atletas e entusiastas do atletismo nas ruas histórica
+ s da cidade de Chaves\,  no distrito de Vila Real. Realizada a 27 de Dezemb
+ ro de 2025\,  a prova celebrou o encerramento do ano desportivo com um perc
+ urso[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-chaves/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-chaves/
+END:VEVENT
+END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b43906572aa
-DTSTAMP:20250831T115902Z
+UID:42235-0@www.portugalrunning.com
+DTSTAMP:20260902T140118Z
 DTSTART:20250927T092000Z
 DTEND:20250927T235900Z
-LOCATION:Valongo\,  Porto Valongo\,  Porto
+LOCATION:Valongo\,   Porto Valongo\,   Porto
 SUMMARY:Sunset Senhora dos Chãos Trail 2025
 DESCRIPTION:O Sunset Sra dos Chãos Trail é organizado pela TOG – Associ
  ação Running Team e será realizado no dia 27 de Setembro de 2025\,  no e

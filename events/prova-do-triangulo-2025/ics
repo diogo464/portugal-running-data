@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68e680aa20197
-DTSTAMP:20251008T151802Z
+UID:45689-0@www.portugalrunning.com
+DTSTAMP:20260902T140054Z
 DTSTART:20251026
 DTEND:20251027
-LOCATION:Chafé\,  Viana do Castelo Chafé\,  Viana do Castelo
+LOCATION:Chafé\,   Viana do Castelo Chafé\,   Viana do Castelo
 SUMMARY:Prova do Triângulo 2025
 DESCRIPTION:O Grupo Recreativo e Cultural de Castelo do neiva (GRECANE); O 
  Grupo Desportivo Castelense (GDC); A Associação Cultural de Chafé (ACCA)

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69c66eda0441c
-DTSTAMP:20260327T114946Z
+UID:46917-0@www.portugalrunning.com
+DTSTAMP:20260902T140057Z
 DTSTART:20260322
 DTEND:20260323
-LOCATION:Queiriga\,  Viseu Queiriga\,  Viseu
+LOCATION:Queiriga\,   Viseu Queiriga\,   Viseu
 SUMMARY:Queiriga Trail 2026
 DESCRIPTION:Associação “Os Queiriguenses”\,  em Queiriga\,  concelho 
  de Vila Nova de Paiva\,  distrito de Viseu. O evento é composto por três 

@@ -1,21 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7969063db93
-DTSTAMP:20260810T060038Z
-DTSTART:20260920T125300Z
+UID:51631-0@www.portugalrunning.com
+DTSTAMP:20260902T140032Z
+DTSTART:20260920T090000Z
 DTEND:20260920T235900Z
-LOCATION:Entroncamento\,  Santarém Entroncamento\,  Santarém
+LOCATION:Entroncamento\,   Santarém Entroncamento\,   Santarém
 SUMMARY:Grande Prémio Museu Nacional Ferroviário 2026
-DESCRIPTION:XXIX Grande Prémio Museu Nacional Ferroviário 2026 realiza-se
-  a 20 de setembro de 2026 no Entroncamento\,  propondo uma corrida de estra
- da de 10 km por traçados urbanos e zonas emblemáticas da cidade. Os parti
- cipantes enfrentam um percurso inteiramente asfaltado\,  exigindo uma gest�
- �o de ritmo regular e atenção às oscilações suaves[..]\nhttps://www.po
- rtugalrunning.com/eventos/grande-premio-museu-nacional-ferroviario/
+DESCRIPTION:Sobre O Grande Prémio Museu Nacional Ferroviário 2026O Grande
+  Prémio Museu Nacional Ferroviário 2026 realiza-se no dia 20 de Setembro 
+ de 2026 (Domingo)\,  em Museu Nacional Ferroviário\,  Entroncamento (Entro
+ ncamento\,  distrito de Santarém). Trata-se de um evento desportivo emblem
+ ático da região\,  reunindo centenas de participantes entre atletas feder
+ ados\,  amadores e entusiastas[..]\nhttps://www.portugalrunning.com/eventos
+ /grande-premio-museu-nacional-ferroviario/
 URL:https://www.portugalrunning.com/eventos/grande-premio-museu-nacional-ferroviario/
 END:VEVENT
 END:VCALENDAR

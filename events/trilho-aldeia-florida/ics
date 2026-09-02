@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e76008812
-DTSTAMP:20260501T174816Z
+UID:50941-0@www.portugalrunning.com
+DTSTAMP:20260902T140218Z
 DTSTART:20260607T085000Z
 DTEND:20260607T085000Z
-LOCATION:Castro Daire\,  Viseu Castro Daire\,  Viseu
+LOCATION:Castro Daire\,   Viseu Castro Daire\,   Viseu
 SUMMARY:Trilho Aldeia Florida 2026
 DESCRIPTION:A Câmara Municipal de Castro Daire\,  a Freguesia de Mões e a
   Associação Desportiva e Recreativa deCourinha organizam\,  no dia 7 de j

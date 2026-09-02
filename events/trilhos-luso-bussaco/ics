@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a01707fab8c0
-DTSTAMP:20260511T060031Z
+UID:46375-0@www.portugalrunning.com
+DTSTAMP:20260902T140221Z
 DTSTART:20260510
 DTEND:20260511
-LOCATION:Luso\,  Aveiro Luso\,  Aveiro
+LOCATION:Luso\,   Aveiro Luso\,   Aveiro
 SUMMARY:Trilhos Luso Bussaco 2026
 DESCRIPTION:Resultados ⏱️ Resultados em Direto 8º Trilhos Luso Bussaco
   Abrir em Ecrã Total ↗ Dados fornecidos por RunManager.net O evento&nbsp

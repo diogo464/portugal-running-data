@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c9b92b3a
-DTSTAMP:20250720T222427Z
+UID:40051-0@www.portugalrunning.com
+DTSTAMP:20260902T140023Z
 DTSTART:20250419
 DTEND:20250420
-LOCATION:Vila Nova do Campo\,  Santo Tirso Vila Nova do Campo\,  Santo Tirso
+LOCATION:Vila Nova do Campo\,   Santo Tirso Vila Nova do Campo\,   Santo Tirso
 SUMMARY:Grande Prémio de Atletismo da Páscoa 2025
 DESCRIPTION:Será em Vila Nova do Campo (Santo Tirso) que decorrerá a 25ª
   edição do Grande Prémio de Atletismo\,  entre amêndoas e os festejos r

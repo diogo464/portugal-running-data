@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff1458868b
-DTSTAMP:20260522T060141Z
+UID:51176-0@www.portugalrunning.com
+DTSTAMP:20260902T135942Z
 DTSTART:20260627
 DTEND:20260628
-LOCATION:Pombal\,  Leiria Pombal\,  Leiria
+LOCATION:Pombal\,   Leiria Pombal\,   Leiria
 SUMMARY:Corrida dos Gambuzinos 2026
 DESCRIPTION:Venha divertir-se com a corrida dos Gambuzinos. Esta corrida se
  rá disputada na tipologia de contra-relógio\,  onde os corredores sairão

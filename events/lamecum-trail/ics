@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e75fc5531
-DTSTAMP:20260501T174815Z
+UID:50894-0@www.portugalrunning.com
+DTSTAMP:20260902T140025Z
 DTSTART:20260621
 DTEND:20260622
-LOCATION:Lamego\,  Viseu Lamego\,  Viseu
+LOCATION:Lamego\,   Viseu Lamego\,   Viseu
 SUMMARY:Lamecum Trail 2026
 DESCRIPTION:O Município de Lamego em parceria com a Associação Desportiv
  a de Avões e a Associação de Terras Dom Pedro\,  apoio de diversas entid

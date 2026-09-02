@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c1b00cbf
-DTSTAMP:20250720T222219Z
+UID:38927-0@www.portugalrunning.com
+DTSTAMP:20260902T135901Z
 DTSTART:20250511
 DTEND:20250512
-LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+LOCATION:Sesimbra\,   Setúbal Sesimbra\,   Setúbal
 SUMMARY:Aquarace Sesimbra 2025
 DESCRIPTION:A AQUARACE SESIMBRA dia 11 de maio de 2025\,  à semelhança da
   edição anterior\,  é uma atividade que envolve a Serra e o Mar de Sesim

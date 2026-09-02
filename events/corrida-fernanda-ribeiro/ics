@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a01707ce334d
-DTSTAMP:20260511T060028Z
+UID:51020-0@www.portugalrunning.com
+DTSTAMP:20260902T135952Z
 DTSTART:20260510
 DTEND:20260511
-LOCATION:Maia\,  Porto Maia\,  Porto
+LOCATION:Maia\,   Porto Maia\,   Porto
 SUMMARY:Corrida Fernanda Ribeiro 2026
 DESCRIPTION:Resultados Live Results 12ª Corrida Fernanda Ribeiro Abrir Sit
  e Oficial ↗ Plataforma: EventSport Navegue no menu do evento para ver os 

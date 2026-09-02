@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ce4ac031
-DTSTAMP:20250720T222540Z
+UID:42098-0@www.portugalrunning.com
+DTSTAMP:20260902T140104Z
 DTSTART:20250712
 DTEND:20250713
-LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+LOCATION:Caminha\,   Viana do Castelo Caminha\,   Viana do Castelo
 SUMMARY:Mikkeller World Run 2025
 DESCRIPTION:8TH Mikkeller World Beer Run 2025; realizar-se-á no próximo d
  ia 12 de Julho de 2025 pelas 16:00h\,  com partida e chegada na zona histó

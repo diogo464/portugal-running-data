@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d96c3000
-DTSTAMP:20250720T222838Z
+UID:35949-0@www.portugalrunning.com
+DTSTAMP:20260902T140207Z
 DTSTART:20241124
 DTEND:20241125
-LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+LOCATION:Guimarães\,   Braga Guimarães\,   Braga
 SUMMARY:Trail Vila de S. Torcato 2024
 DESCRIPTION:O TRAIL VILA DE S. TORCATO será realizado no dia 24 de novembr
  o de 2024\,  sendo constituído por 4 eventos: Trail Longo (TL) com a dist�

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c48f419e
-DTSTAMP:20250720T222304Z
+UID:41023-0@www.portugalrunning.com
+DTSTAMP:20260902T135937Z
 DTSTART:20250510
 DTEND:20250511
-LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+LOCATION:Belém\,   Lisboa Belém\,   Lisboa
 SUMMARY:Corrida de Belém 2025
 DESCRIPTION:Um encontro com a história e uma corrida com passagem pelos ma
  is belos monumentos históricos da cidade de Lisboa. Belém\,  batizado com

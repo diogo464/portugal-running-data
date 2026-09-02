@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d6962eea
-DTSTAMP:20250720T222753Z
+UID:36875-0@www.portugalrunning.com
+DTSTAMP:20260902T140155Z
 DTSTART:20250518
 DTEND:20250519
-LOCATION:Vale Venteiro\,  Tomar Vale Venteiro\,  Tomar
+LOCATION:Vale Venteiro\,   Tomar Vale Venteiro\,   Tomar
 SUMMARY:Trail do Vale 2025
 DESCRIPTION:Na sua quarta edição\,  o Trail do Vale irá realizar-se em p
  leno município de Tomar com caminhada\,  mini trail 12km\,  trail curto 17

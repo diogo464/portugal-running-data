@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a3531a8b
-DTSTAMP:20260320T110629Z
+UID:47810-0@www.portugalrunning.com
+DTSTAMP:20260902T140039Z
 DTSTART:20260614
 DTEND:20260615
-LOCATION:Vouzela\,  Viseu Vouzela\,  Viseu
+LOCATION:Vouzela\,   Viseu Vouzela\,   Viseu
 SUMMARY:Lynxrace Vouzela 2026
 DESCRIPTION:A LYNXRACE é uma Corrida de Obstáculos\,  um desafio que pode
   ser feito em COMPETITIVE(competição) ou em OPEN (diversão). Os atletas 

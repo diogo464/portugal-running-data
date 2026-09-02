@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69813aab55e75
-DTSTAMP:20260203T000043Z
+UID:47649-0@www.portugalrunning.com
+DTSTAMP:20260902T140044Z
 DTSTART:20260322T085200Z
 DTEND:20260322T235900Z
-LOCATION:Vila Nova de Gaia\,  Porto Vila Nova de Gaia\,  Porto
+LOCATION:Vila Nova de Gaia\,   Porto Vila Nova de Gaia\,   Porto
 SUMMARY:Meia Maratona Gaia 2026
 DESCRIPTION:A primeira edição da&nbsp;Meia Maratona de Gaia – Corrida d
  o Atlântico&nbsp;foi um momento verdadeiramente inesquecível. Com milhare

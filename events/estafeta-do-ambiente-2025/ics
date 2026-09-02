@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ed92ae6d19a
-DTSTAMP:20251014T000046Z
+UID:45763-0@www.portugalrunning.com
+DTSTAMP:20260902T140009Z
 DTSTART:20251101
 DTEND:20251102
-LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+LOCATION:Monsanto\,   Lisboa Monsanto\,   Lisboa
 SUMMARY:Estafeta do Ambiente 2025
 DESCRIPTION:No dia&nbsp;1 de novembro de 2025\,  a&nbsp;Alameda Keil do Ama
  ral&nbsp;volta a ser o palco desta celebração especial do&nbsp;Parque Flo

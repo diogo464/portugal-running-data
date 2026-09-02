@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d9730962
-DTSTAMP:20250720T222839Z
+UID:40189-0@www.portugalrunning.com
+DTSTAMP:20260902T140204Z
 DTSTART:20250413
 DTEND:20250414
-LOCATION:Alegrete\,  Portalegre Alegrete\,  Portalegre
+LOCATION:Alegrete\,   Portalegre Alegrete\,   Portalegre
 SUMMARY:Trail Vila de Alegrete 2025
 DESCRIPTION:O VII Trail Vila de Alegrete é organizado pelo Grupo Desportiv
  o de Alegrete e tem o apoio da Junta de Freguesia de Alegrete e Câmara Mun

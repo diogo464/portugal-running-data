@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d09c5185
-DTSTAMP:20250720T222617Z
+UID:40540-0@www.portugalrunning.com
+DTSTAMP:20260902T140101Z
 DTSTART:20250413
 DTEND:20250414
-LOCATION:Bombarral\,  Leiria Bombarral\,  Leiria
+LOCATION:Bombarral\,   Leiria Bombarral\,   Leiria
 SUMMARY:Sanguinhal Wine Trail 2025
 DESCRIPTION:Sanguinhal Wine Trail 2025\nhttps://www.portugalrunning.com/eve
  ntos/sanguinhal-wine-trail-2025/

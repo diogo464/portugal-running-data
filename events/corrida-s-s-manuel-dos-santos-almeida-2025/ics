@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c21137062fe
-DTSTAMP:20250911T000055Z
+UID:44310-0@www.portugalrunning.com
+DTSTAMP:20260902T135958Z
 DTSTART:20251220
 DTEND:20251221
-LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
 SUMMARY:São Silvestre Manuel dos Santos Almeida 2025
 DESCRIPTION:Co-organizada pela Câmara Municipal de S. Pedro do Sul\,  pela
   Termalistur EM e pela União de Freguesias de S. Pedro do Sul\,  Várzea e

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d43aa917
-DTSTAMP:20250720T222715Z
+UID:43280-0@www.portugalrunning.com
+DTSTAMP:20260902T140132Z
 DTSTART:20250928T105200Z
 DTEND:20250928T105200Z
-LOCATION:Estoi\,  Faro Estoi\,  Faro
+LOCATION:Estoi\,   Faro Estoi\,   Faro
 SUMMARY:Trail Cidade de Faro 2025
 DESCRIPTION:A Associação Temivels d’Atalaia\,  organizadora do evento\,
    mantém um compromisso inabalável com a promoção do desporto e a parce

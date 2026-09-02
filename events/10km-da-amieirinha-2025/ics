@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c4b4324238d
-DTSTAMP:20250913T000050Z
+UID:44470-0@www.portugalrunning.com
+DTSTAMP:20260902T135859Z
 DTSTART:20251011
 DTEND:20251012
-LOCATION:Marinha Grande\,  Leiria Marinha Grande\,  Leiria
+LOCATION:Marinha Grande\,   Leiria Marinha Grande\,   Leiria
 SUMMARY:10km da Amieirinha 2025
 DESCRIPTION:Integrado nas comemorações do&nbsp;51º Aniversário\,  vai o
   Clube Recreativo Amieirinhense\,  com a colaboração do&nbsp;Clube Atleti

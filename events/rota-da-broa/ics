@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69dddbbd67b69
-DTSTAMP:20260414T061629Z
+UID:50593-0@www.portugalrunning.com
+DTSTAMP:20260902T140107Z
 DTSTART:20260607
 DTEND:20260608
-LOCATION:Cumeeira\,  Penela Cumeeira\,  Penela
+LOCATION:Cumeeira\,   Penela Cumeeira\,   Penela
 SUMMARY:Rota da Broa 2026
 DESCRIPTION:O Trail Rota da Broa\,  organizado pelo Centro Cultural de Cume
  eira\,  tem como objetivo dar a conhecer a todos os atletas alguns dos loca

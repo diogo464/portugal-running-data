@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68bccb445a623
-DTSTAMP:20250907T000108Z
+UID:44291-0@www.portugalrunning.com
+DTSTAMP:20260902T140147Z
 DTSTART:20251025
 DTEND:20251026
-LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+LOCATION:Sernancelhe\,   Viseu Sernancelhe\,   Viseu
 SUMMARY:Trail e Caminhada Rota da Castanha e do Castanheiro 2025
 DESCRIPTION:A Organização do Trail e Caminhada encontra-se integrada na e
  dição de 2025 da Festa da Castanha e é da responsabilidade da Câmara Mu

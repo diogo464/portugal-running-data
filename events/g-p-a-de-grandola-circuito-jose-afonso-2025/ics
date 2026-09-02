@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c9319840
-DTSTAMP:20250720T222419Z
+UID:39111-0@www.portugalrunning.com
+DTSTAMP:20260902T140020Z
 DTSTART:20250202
 DTEND:20250203
-LOCATION:Grândola\,  Setúbal Grândola\,  Setúbal
+LOCATION:Grândola\,   Setúbal Grândola\,   Setúbal
 SUMMARY:G.P.A de Grândola – Circuito José Afonso 2025
 DESCRIPTION:A Junta de Freguesia de Grândola e Santa Margarida da Serra\
  ,  com a colaboração técnica da XISTARCA\,  leva a efeito no próximo di

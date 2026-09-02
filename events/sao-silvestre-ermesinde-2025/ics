@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68d48621cee30
-DTSTAMP:20250925T000033Z
+UID:44907-0@www.portugalrunning.com
+DTSTAMP:20260902T140111Z
 DTSTART:20251201
 DTEND:20251202
-LOCATION:Ermesinde\,  Porto Ermesinde\,  Porto
+LOCATION:Ermesinde\,   Porto Ermesinde\,   Porto
 SUMMARY:São Silvestre Ermesinde 2025
 DESCRIPTION:A São Silvestre Cidade de Ermesinde será realizada no
   dia 01 de Dezembro de 2025 e contará com uma Corrida e Camin

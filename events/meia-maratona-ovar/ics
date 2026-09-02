@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a73bdc2e52f5
-DTSTAMP:20260805T224834Z
+UID:47509-0@www.portugalrunning.com
+DTSTAMP:20260902T140055Z
 DTSTART:20261005
 DTEND:20261006
-LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+LOCATION:Ovar\,   Aveiro Ovar\,   Aveiro
 SUMMARY:Meia Maratona Ovar 2026
 DESCRIPTION:A Meia Maratona de Ovar regressa no dia 4 de outubro de 2026 à
  s ruas de Ovar\,  convidando os atletas para uma rápida meia maratona de 2

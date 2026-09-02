@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68fd64d1cf958
-DTSTAMP:20251026T000121Z
+UID:44425-0@www.portugalrunning.com
+DTSTAMP:20260902T140126Z
 DTSTART:20251109T061100Z
 DTEND:20251109T235900Z
-LOCATION:Beato\,  Lisboa Beato\,  Lisboa
+LOCATION:Beato\,   Lisboa Beato\,   Lisboa
 SUMMARY:Tech Run 2025
 DESCRIPTION:Tech Run – November 9\,  10AM | Beato Innovation District –
   LisbonOrganized by iOn live\,  in collaboration with 351 Startup Associati

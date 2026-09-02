@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f4e7606b647
-DTSTAMP:20260501T174816Z
+UID:50836-0@www.portugalrunning.com
+DTSTAMP:20260902T140214Z
 DTSTART:20261108
 DTEND:20261109
-LOCATION:Lordelo\,  Vila Real Lordelo\,  Vila Real
+LOCATION:Lordelo\,   Vila Real Lordelo\,   Vila Real
 SUMMARY:Trilho dos Linces 2026
-DESCRIPTION:O evento TRILHO DOS LINCES BY GOLDENERGY é organizado pela Equ
- ipa Linces do Marão (TrilhosSemelhantes - Associação). Colaboram o Munic
- ípio de Vila Real\,  a Junta de Freguesia de Lordelo\,  a Junta deFreguesi
- a de Mondrões\,  a Junta de Freguesia de Vila Marim e a Junta de Freguesia
-  Pena\,  Quintã e Vila[..]\nhttps://www.portugalrunning.com/eventos/trilho
- -dos-linces/
+DESCRIPTION:Sobre o Trilho dos Linces 2026O Trilho dos Linces 2026 realiza-
+ se no dia 8 de Novembro de 2026 (Domingo)\,  em Portugal (Portugal\,  distr
+ ito de Portugal). Trata-se de um evento desportivo emblemático da região\
+ ,  reunindo centenas de participantes entre atletas federados\,  amadores e
+  entusiastas do desporto ao ar livre\,  promovendo o[..]\nhttps://www.portu
+ galrunning.com/eventos/trilho-dos-linces/
 URL:https://www.portugalrunning.com/eventos/trilho-dos-linces/
 END:VEVENT
 END:VCALENDAR

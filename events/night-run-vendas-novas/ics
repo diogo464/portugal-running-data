@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c8cb313
-DTSTAMP:20260201T000112Z
+UID:48408-0@www.portugalrunning.com
+DTSTAMP:20260902T140105Z
 DTSTART:20260313
 DTEND:20260314
-LOCATION:Vendas Novas\,  Évora Vendas Novas\,  Évora
+LOCATION:Vendas Novas\,   Évora Vendas Novas\,   Évora
 SUMMARY:Night Run Vendas Novas 2026
 DESCRIPTION:A 12ª edição da “Night Run Seaside – Vendas Novas”\,  
  é um evento desportivo que está integrado no mês das Comemorações do D

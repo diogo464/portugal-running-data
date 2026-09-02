@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d00948c6
-DTSTAMP:20250720T222608Z
+UID:42838-0@www.portugalrunning.com
+DTSTAMP:20260902T140056Z
 DTSTART:20250830
 DTEND:20250831
-LOCATION:Mira de Aire\,  Minde Mira de Aire\,  Minde
+LOCATION:Mira de Aire\,   Minde Mira de Aire\,   Minde
 SUMMARY:Prova Resistência Terrantêz Trail Team 2025
 DESCRIPTION:Esta prova designada de “1ª Prova de Resistência Terrantêz
   Trail Team” terá uma duração de 3 horas e é organizada pela equipa d

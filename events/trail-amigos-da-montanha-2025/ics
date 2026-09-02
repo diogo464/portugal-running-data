@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6907f0ce64de3
-DTSTAMP:20251103T000118Z
+UID:40119-0@www.portugalrunning.com
+DTSTAMP:20260902T140134Z
 DTSTART:20251116
 DTEND:20251117
-LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+LOCATION:Barcelos\,   Braga Barcelos\,   Braga
 SUMMARY:Trail Amigos da Montanha 2025
 DESCRIPTION:A 15.ª edição do&nbsp;Trail Amigos da Montanha&nbsp;tem data
   marcada para 16 de novembro. A proposta deste desafio\,  a "festa do trail

@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7574914ca23
-DTSTAMP:20260807T060049Z
-DTSTART:20261003
-DTEND:20261004
-LOCATION:São Pedro do Sul\,  Viseu São Pedro do Sul\,  Viseu
+UID:42971-0@www.portugalrunning.com
+DTSTAMP:20260902T140105Z
+DTSTART:20261004
+DTEND:20261005
+LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
 SUMMARY:Pisão Extreme 2026
-DESCRIPTION:Agendado para o dia 4 de outubro de 2026 em São Pedro do Sul\,
-   o Pisão Extreme desafia os atletas com percursos de 65 km\,  42 km\,  25
-  km e 14 km desenhados nas encostas acentuadas da Serra da Freita e da Serr
- a do Arestal. O traçado desenha-se sobre escarpas[..]\nhttps://www.portuga
- lrunning.com/eventos/pisao-extreme/
+DESCRIPTION:Sobre O Pisão Extreme 2026O Pisão Extreme 2026 realiza-se no 
+ dia 4 de outubro de 2026 (Domingo)\,  em Pisão (São Pedro do Sul\,  distr
+ ito de Viseu). Trata-se de um evento desportivo emblemático da região\,  
+ reunindo centenas de participantes entre atletas federados\,  amadores e en
+ tusiastas do desporto ao ar livre\,  promovendo[..]\nhttps://www.portugalru
+ nning.com/eventos/pisao-extreme/
 URL:https://www.portugalrunning.com/eventos/pisao-extreme/
 END:VEVENT
 END:VCALENDAR

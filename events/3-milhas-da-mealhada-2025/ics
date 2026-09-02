@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c0449487
-DTSTAMP:20250720T222156Z
+UID:42033-0@www.portugalrunning.com
+DTSTAMP:20260902T135900Z
 DTSTART:20250610
 DTEND:20250611
-LOCATION:Mealhada\,  Aveiro Mealhada\,  Aveiro
+LOCATION:Mealhada\,   Aveiro Mealhada\,   Aveiro
 SUMMARY:3 Milhas da Mealhada 2025
 DESCRIPTION:A C√¢mara Municipal da Mealhada\,  em parceria com a Associa√ß√
  £o Trilhos Luso Bussaco\,  vai realizar\,  no pr√≥ximo dia&nbsp;10 de Junho

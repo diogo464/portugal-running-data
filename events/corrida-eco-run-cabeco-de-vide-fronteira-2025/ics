@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c1bf7e3e240
-DTSTAMP:20250910T181214Z
+UID:42048-0@www.portugalrunning.com
+DTSTAMP:20260902T135947Z
 DTSTART:20250928T144000Z
 DTEND:20250928T235900Z
-LOCATION:Cabeço de Vida\,  Fontreira Cabeço de Vida\,  Fontreira
+LOCATION:Cabeço de Vida\,   Fontreira Cabeço de Vida\,   Fontreira
 SUMMARY:Corrida Eco Run Cabeço de Vide - Fronteira 2025
 DESCRIPTION:A organização da 1ª Corrida Eco Run Cabeço de Vide-Fronteir
  a é uma iniciativa do Município de Fronteira da Escola de Atletismo PTG-A

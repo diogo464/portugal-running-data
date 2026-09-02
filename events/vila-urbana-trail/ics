@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7c0c0785213
-DTSTAMP:20260812T060039Z
+UID:58415-0@www.portugalrunning.com
+DTSTAMP:20260902T140223Z
 DTSTART:20261010
 DTEND:20261011
-LOCATION:Ponte de Lima\,  Viana do Castelo Ponte de Lima\,  Viana do Castelo
+LOCATION:Ponte de Lima\,   Viana do Castelo Ponte de Lima\,   Viana do Castelo
 SUMMARY:Vila Urbana Trail 2026
 DESCRIPTION:O Vila Urbana Trail convida os participantes a explorar a malha
   histórica de Ponte de Lima\,  num traçado onde o piso de calçada antiga

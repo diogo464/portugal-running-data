@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c441851d
-DTSTAMP:20250720T222300Z
+UID:41357-0@www.portugalrunning.com
+DTSTAMP:20260902T135932Z
 DTSTART:20250614
 DTEND:20250615
-LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+LOCATION:Nazaré\,   Leiria Nazaré\,   Leiria
 SUMMARY:Corrida da Nazaré 2025
 DESCRIPTION:A Corrida da Nazaré é organizada pelo Clube de Atletismo d
  a Nazaré com o apoio da Câmara Municipal da Nazaré\,  Junta de Fregues

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d97623ae
-DTSTAMP:20250720T222839Z
+UID:40580-0@www.portugalrunning.com
+DTSTAMP:20260902T140205Z
 DTSTART:20250622
 DTEND:20250623
-LOCATION:Covilhã\,  Castelo Branco Covilhã\,  Castelo Branco
+LOCATION:Covilhã\,   Castelo Branco Covilhã\,   Castelo Branco
 SUMMARY:Trail Vila de Mouros 2025
 DESCRIPTION:Após o sucesso dos eventos anteriores\,  vem o Trail Team Vila
   de Mouros\,  dar continuidade à 4ª edição do Trail Vila de Mouros 2025

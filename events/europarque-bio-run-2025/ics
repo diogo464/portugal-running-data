@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68f035bad2f4a
-DTSTAMP:20251016T000058Z
+UID:40123-0@www.portugalrunning.com
+DTSTAMP:20260902T135957Z
 DTSTART:20251123
 DTEND:20251124
-LOCATION:Santa Maria da Feira\,  Aveiro Santa Maria da Feira\,  Aveiro
+LOCATION:Santa Maria da Feira\,   Aveiro Santa Maria da Feira\,   Aveiro
 SUMMARY:Europarque Bio Run 2025
 DESCRIPTION:O Europarque Bio Run é um evento desportivo que proporciona ao
  s participantes a oportunidade de correr ou caminhar no Europarque de Santa

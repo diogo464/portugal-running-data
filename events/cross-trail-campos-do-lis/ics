@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f59b9f638ef
-DTSTAMP:20260502T063719Z
+UID:50733-0@www.portugalrunning.com
+DTSTAMP:20260902T140001Z
 DTSTART:20260712T142500Z
 DTEND:20260712T235900Z
-LOCATION:Povoação da Passagem\,  Vieira de Leiria Povoação da Passagem\,  Vieira de Leiria
+LOCATION:Povoação da Passagem\,   Vieira de Leiria Povoação da Passagem\,   Vieira de Leiria
 SUMMARY:Cross Trail Campos do Lis 2026
 DESCRIPTION:O&nbsp;Industrial Desportivo Vieirense&nbsp;leva a efeito no pr
  óximo dia&nbsp;12 de Julho de 2026\,  o&nbsp;4º Cross Trail Campos do Lis

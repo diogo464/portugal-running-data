@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c4e6147a
-DTSTAMP:20250720T222310Z
+UID:38512-0@www.portugalrunning.com
+DTSTAMP:20260902T135933Z
 DTSTART:20250323
 DTEND:20250324
-LOCATION:Avenida Machado Santos\,  Lisboa Avenida Machado Santos\,  Lisboa
+LOCATION:Avenida Machado Santos\,   Lisboa Avenida Machado Santos\,   Lisboa
 SUMMARY:Corrida do Benfica 2025
 DESCRIPTION:A 16ª Corrida do Benfica António Leitão terá um percurso co
  m 10 km. Esta prova será ainda composta pela Caminhada António Leitão qu

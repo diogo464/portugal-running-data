@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d61c54d3
-DTSTAMP:20250720T222745Z
+UID:41920-0@www.portugalrunning.com
+DTSTAMP:20260902T140139Z
 DTSTART:20250608T144400Z
 DTEND:20250608T235900Z
-LOCATION:Rebordelo\,  Vinhais Rebordelo\,  Vinhais
+LOCATION:Rebordelo\,   Vinhais Rebordelo\,   Vinhais
 SUMMARY:Trail do Rabaçal 2025
 DESCRIPTION:Terá lugar no dia 08 de junho de 2025 a 1ª edição do Trail 
  do Rabaçal promovido pela Câmara Municipal de Vinhais\,  Associação de 

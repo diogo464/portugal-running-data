@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:688c088bcd615
-DTSTAMP:20250801T002131Z
+UID:43814-0@www.portugalrunning.com
+DTSTAMP:20260902T140148Z
 DTSTART:20250907
 DTEND:20250908
-LOCATION:Loulé\,  Faro Loulé\,  Faro
+LOCATION:Loulé\,   Faro Loulé\,   Faro
 SUMMARY:Trail Feira da Tôr 2025
 DESCRIPTION:O Trail da Tôr é um evento que incorpora duas distâncias de 
  carácter competitivo\,  nomeadamente\,  o Trail Sprint com 19 km (que inte

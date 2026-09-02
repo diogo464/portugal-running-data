@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ca8fdbbc934
-DTSTAMP:20250917T103923Z
+UID:44643-0@www.portugalrunning.com
+DTSTAMP:20260902T140145Z
 DTSTART:20251102
 DTEND:20251103
-LOCATION:Mortágua\,  Viseu Mortágua\,  Viseu
+LOCATION:Mortágua\,   Viseu Mortágua\,   Viseu
 SUMMARY:Trail Mortágua 2025
 DESCRIPTION:O Trail de Mortágua 2025 é uma organização do Núcleo do Sp
  orting Clube de Portugal de Mortágua\,  terá lugar em Mortágua\,  com pa

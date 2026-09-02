@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c97aabbe
-DTSTAMP:20250720T222423Z
+UID:42082-0@www.portugalrunning.com
+DTSTAMP:20260902T140019Z
 DTSTART:20250629
 DTEND:20250630
-LOCATION:Chamusca\,  Santarém Chamusca\,  Santarém
+LOCATION:Chamusca\,   Santarém Chamusca\,   Santarém
 SUMMARY:Grande Prémio Atletismo - Feira de S. Pedro 2025
 DESCRIPTION:A União de Freguesias da Parreira e do Chouto e a Câmara Mun
  icipal da Chamusca organizam uma prova de Atletismo denominada 39.º GRAN

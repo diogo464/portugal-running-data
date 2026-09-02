@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:695aff4bc9ace
-DTSTAMP:20260105T000115Z
+UID:47064-0@www.portugalrunning.com
+DTSTAMP:20260902T140010Z
 DTSTART:20260110
 DTEND:20260111
-LOCATION:Faro Faro\,  Portugal
+LOCATION:Faro Faro\,   Portugal
 SUMMARY:Grande Corrida da Água 2026
 DESCRIPTION:A Associação de Atletismo do Algarve e a Câmara Municipal de
   Faro\,  com o apoio da FAGAR\,  vão realizar na Cidade de Faro\,  o 54º 

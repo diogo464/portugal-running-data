@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d18398fa
-DTSTAMP:20260530T060056Z
-DTSTART:20261017T141800Z
+UID:51503-0@www.portugalrunning.com
+DTSTAMP:20260902T140226Z
+DTSTART:20261017T140000Z
 DTEND:20261017T235900Z
-LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+LOCATION:Loures\,   Lisboa Loures\,   Lisboa
 SUMMARY:Urban Obstacles Loures 2026
-DESCRIPTION:A Urban Obstacles é uma prova organizada pela Universal Events
-  – Associação\,  com o apoio da Câmara Municipal de Loures e a União 
- das Freguesias de Santa Iria de Azoia\,  São João da Talha e Bobadela\nht
- tps://www.portugalrunning.com/eventos/urban-obstacles-loures/
+DESCRIPTION:Sobre O Urban Obstacles Loures 2026O Urban Obstacles Loures 202
+ 6 realiza-se no dia 17 de Outubro de 2026 (Sábado)\,  em Loures Lisboa (Lo
+ ures Lisboa\,  distrito de Lisboa). Trata-se de um evento desportivo emblem
+ ático da região\,  reunindo centenas de participantes entre atletas feder
+ ados\,  amadores e entusiastas do desporto ao ar livre\, [..]\nhttps://www.
+ portugalrunning.com/eventos/urban-obstacles-loures/
 URL:https://www.portugalrunning.com/eventos/urban-obstacles-loures/
 END:VEVENT
 END:VCALENDAR

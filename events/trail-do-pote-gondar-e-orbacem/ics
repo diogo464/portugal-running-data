@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cd2a771b311
-DTSTAMP:20260401T142351Z
+UID:47005-0@www.portugalrunning.com
+DTSTAMP:20260902T140136Z
 DTSTART:20260322
 DTEND:20260323
-LOCATION:Caminha\,  Viana do Castelo Caminha\,  Viana do Castelo
+LOCATION:Caminha\,   Viana do Castelo Caminha\,   Viana do Castelo
 SUMMARY:Trail do Pote 2026
 DESCRIPTION:O 9º Trail do Pote é um evento de Trail Running que decorre n
  o território das Serras de Gondar e Orbacém\,  serra de Santo Antão e na

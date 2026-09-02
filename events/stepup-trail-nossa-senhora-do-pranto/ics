@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff144e33cc
-DTSTAMP:20260522T060140Z
+UID:47955-0@www.portugalrunning.com
+DTSTAMP:20260902T140116Z
 DTSTART:20260606T202400Z
 DTEND:20260606T235900Z
-LOCATION:Sabugosa\,  Tondela Sabugosa\,  Tondela
+LOCATION:Sabugosa\,   Tondela Sabugosa\,   Tondela
 SUMMARY:StepUp Trail - Nossa Senhora do Pranto 2026
 DESCRIPTION:O StepUp Trail: Nossa Senhora do Pranto é um evento desportivo
   de carácter competitivo e recreativo que decorrerá a 06 de junho de 2026

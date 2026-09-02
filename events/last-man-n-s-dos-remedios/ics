@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7eaefb16d9b
-DTSTAMP:20260814T060027Z
+UID:59219-0@www.portugalrunning.com
+DTSTAMP:20260902T140029Z
 DTSTART:20260905
 DTEND:20260906
-LOCATION:Lamego\,  Viseu Lamego\,  Viseu
+LOCATION:Lamego\,   Viseu Lamego\,   Viseu
 SUMMARY:Last Man - N. S. dos Remédios 2026
-DESCRIPTION:O Last Man - N. S. dos Remédios\,  a realizar no dia 5 de sete
- mbro de 2026\,  transforma o imponente Escadório da Nossa Senhora dos Rem�
- �dios\,  em Lamego\,  num autêntico palco de resistência desenhado num ci
- rcuito fechado de 3\, 5 km. Este desafio de eliminação exige uma leitura 
- tátil precisa dos[..]\nhttps://www.portugalrunning.com/eventos/last-man-n-
- s-dos-remedios/
+DESCRIPTION:Sobre O Last Man &#8211; N. S. dos Remédios 2026O 1º Last Man
+  – N. Sra. dos Remédios 2026 realiza-se no dia 5 de setembro de 2026 (S�
+ �bado)\,  na cidade de Lamego (distrito de Viseu). Organizado pela Associa�
+ �ão Desportiva Lamaecus D’Ouro em parceria com a Irmandade de N. Sra. do
+ s[..]\nhttps://www.portugalrunning.com/eventos/last-man-n-s-dos-remedios/
 URL:https://www.portugalrunning.com/eventos/last-man-n-s-dos-remedios/
 END:VEVENT
 END:VCALENDAR

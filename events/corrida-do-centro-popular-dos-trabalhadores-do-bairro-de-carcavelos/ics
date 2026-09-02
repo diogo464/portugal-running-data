@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d159df49
-DTSTAMP:20260530T060053Z
-DTSTART:20260906T150000Z
+UID:51498-0@www.portugalrunning.com
+DTSTAMP:20260902T135940Z
+DTSTART:20260906T080000Z
 DTEND:20260906T235900Z
-LOCATION:Matosinhos\,  Porto Matosinhos\,  Porto
+LOCATION:Matosinhos\,   Porto Matosinhos\,   Porto
 SUMMARY:Corrida do Centro Popular dos Trabalhadores do Bairro de Carcavelos 2026
-DESCRIPTION:A terceira edição da Corrida do Centro Popular dos Trabalhado
- res do Bairro de Carcavelos\,  em Matosinhos\,  realiza-se a 6 de setembro.
- \nhttps://www.portugalrunning.com/eventos/corrida-do-centro-popular-dos-tra
- balhadores-do-bairro-de-carcavelos/
+DESCRIPTION:Sobre A Corrida do Centro Popular dos Trabalhadores do Bairro d
+ e Carcavelos 2026A 3.ª Corrida do Centro Popular dos Trabalhadores do Bair
+ ro de Carcavelos 2026 realiza-se no dia 6 de Setembro de 2026 (Domingo)\,  
+ na vila de Guifões (concelho de Matosinhos\,  distrito do Porto)\,  com pa
+ rtida e meta instaladas em[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-do-centro-popular-dos-trabalhadores-do-bairro-de-carcavelos/
 URL:https://www.portugalrunning.com/eventos/corrida-do-centro-popular-dos-trabalhadores-do-bairro-de-carcavelos/
 END:VEVENT
 END:VCALENDAR

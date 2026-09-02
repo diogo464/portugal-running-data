@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a3cc40d45f30
-DTSTAMP:20260625T060045Z
+UID:51841-0@www.portugalrunning.com
+DTSTAMP:20260902T135942Z
 DTSTART:20260718
 DTEND:20260719
-LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+LOCATION:Loures\,   Lisboa Loures\,   Lisboa
 SUMMARY:Corrida Festas de Loures 2026
 DESCRIPTION:A&nbsp;Câmara Municipal de Loures\,  com a colaboração da Po
  lícia Municipal de Loures\,  PSP\,  Bombeiros Voluntários de Loures\,  Mo

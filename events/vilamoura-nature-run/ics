@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cd2a75e4f92
-DTSTAMP:20260401T142349Z
+UID:50346-0@www.portugalrunning.com
+DTSTAMP:20260902T140222Z
 DTSTART:20260502
 DTEND:20260503
-LOCATION:Vilamoura\,  Faro Vilamoura\,  Faro
+LOCATION:Vilamoura\,   Faro Vilamoura\,   Faro
 SUMMARY:Vilamoura Nature Run 2026
 DESCRIPTION:A Vilamoura Nature Run 2026 realiza-se a 2 de maio de 2026\,  c
  om epicentro na Marina de Vilamoura. Esta prova\,  peça fundamental no Cal

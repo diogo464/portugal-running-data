@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b23f38c74e8
-DTSTAMP:20250830T000056Z
+UID:44164-0@www.portugalrunning.com
+DTSTAMP:20260902T140221Z
 DTSTART:20250928T092700Z
 DTEND:20250928T235900Z
-LOCATION:São Vicente\,  Madeira São Vicente\,  Madeira
+LOCATION:São Vicente\,   Madeira São Vicente\,   Madeira
 SUMMARY:Vertical Costa Norte 2025
 DESCRIPTION:O Vertical Costa Norte é organizado pelo Clube Naval de São V
  icente em estreita colaboração com a Federação de Campismo e Montanhism

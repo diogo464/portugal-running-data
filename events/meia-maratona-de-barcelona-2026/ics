@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:690fd9ef2a834
-DTSTAMP:20251109T000151Z
+UID:42346-0@www.portugalrunning.com
+DTSTAMP:20260902T140040Z
 DTSTART:20260215
 DTEND:20260216
-LOCATION:Barcelona\,  Espanha Barcelona\,  Espanha
+LOCATION:Barcelona\,   Espanha Barcelona\,   Espanha
 SUMMARY:Meia Maratona de Barcelona 2026
 DESCRIPTION:De acordo com os corredores\,  o percurso da eDreams Mitja Mara
  tó Barcelona é um dos mais completos no panorama internacional. Um circui

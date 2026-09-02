@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c971a77d
-DTSTAMP:20250720T222423Z
+UID:41759-0@www.portugalrunning.com
+DTSTAMP:20260902T140011Z
 DTSTART:20250525T161300Z
 DTEND:20250525T235900Z
-LOCATION:Alcoutim\,  Faro Alcoutim\,  Faro
+LOCATION:Alcoutim\,   Faro Alcoutim\,   Faro
 SUMMARY:Grande Prémio Atletismo Catcma 2025
 DESCRIPTION:O Centro de Apoio aos Trabalhadores da Câmara Municipal de Alc
  outim leva a efeito no dia25 de maio de 2025 pelas 10.00 horas o 16º.Grand

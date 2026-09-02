@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b23f38808b6
-DTSTAMP:20250830T000056Z
+UID:44172-0@www.portugalrunning.com
+DTSTAMP:20260902T140023Z
 DTSTART:20250921
 DTEND:20250922
-LOCATION:Erada\,  Covilhã Erada\,  Covilhã
+LOCATION:Erada\,   Covilhã Erada\,   Covilhã
 SUMMARY:GP Atletismo "Freguseia da Erada" 2025
 DESCRIPTION:Com o mês de Setembro\,  regressam as rotinas desportivas\,  o
   GP de Atletismo "Freguesia da Erada" já faz parte da rotina dos atletas\,

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c266175c
-DTSTAMP:20250720T222230Z
+UID:41687-0@www.portugalrunning.com
+DTSTAMP:20260902T135910Z
 DTSTART:20250610T061900Z
 DTEND:20250610T061900Z
-LOCATION:Almograve \,  Beja Almograve \,  Beja
+LOCATION:Almograve \,   Beja Almograve \,   Beja
 SUMMARY:Brisas do Atlântico 2025
 DESCRIPTION:Realiza-se no feriado de 10 de Junho\,  terça-feira\,  a parti
  r das 09h00 com partida e chegada da praia do Almograve na vertente de laze

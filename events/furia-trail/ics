@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1fb205f
-DTSTAMP:20260723T060103Z
-DTSTART:20261108T074800Z
+UID:51286-0@www.portugalrunning.com
+DTSTAMP:20260902T140004Z
+DTSTART:20261108T090000Z
 DTEND:20261108T235900Z
-LOCATION:Freixianda\,  Ourém Freixianda\,  Ourém
+LOCATION:Freixianda\,   Ourém Freixianda\,   Ourém
 SUMMARY:Fúria Trail 2026
-DESCRIPTION:A&nbsp;Associação Cultural e Recreativa Vale do Nabão (ACRVN
- )\, com o apoio do&nbsp;Município de Ourém e Junta de Freguesia de Freixi
- anda\, &nbsp;Ribeira do Fárrio e Formigais\, restantes patrocinadores prop
- õem-se a realizar este evento para promover e divulgar a Região do Vale d
- o Nabão\,  bem como a fomentação de hábitos saudáveis junto das popula
- ções locais.[..]\nhttps://www.portugalrunning.com/eventos/furia-trail/
+DESCRIPTION:Sobre o Fúria Trail 2026O Fúria Trail 2026 realiza-se no dia 
+ 8 de Novembro de 2026 (Domingo)\,  em Portugal (Portugal\,  distrito de Por
+ tugal). Trata-se de um evento desportivo emblemático da região\,  reunind
+ o centenas de participantes entre atletas federados\,  amadores e entusiast
+ as do desporto ao ar livre\,  promovendo o contacto com[..]\nhttps://www.po
+ rtugalrunning.com/eventos/furia-trail/
 URL:https://www.portugalrunning.com/eventos/furia-trail/
 END:VEVENT
 END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69813ab621acf
-DTSTAMP:20260203T000054Z
+UID:48616-0@www.portugalrunning.com
+DTSTAMP:20260902T135925Z
 DTSTART:20260517
 DTEND:20260518
-LOCATION:Condeixa-a-Nova\,  Coimbra Condeixa-a-Nova\,  Coimbra
+LOCATION:Condeixa-a-Nova\,   Coimbra Condeixa-a-Nova\,   Coimbra
 SUMMARY:Castellum Trail 2026
 DESCRIPTION:Sob organização do Centro Cultural e Recreativo de Alcabidequ
  e / Vikings Trail Runners\,  com o apoio institucional da Câmara Municipal

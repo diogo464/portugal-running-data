@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68d87aaae31c4
-DTSTAMP:20250928T000042Z
+UID:43161-0@www.portugalrunning.com
+DTSTAMP:20260902T140214Z
 DTSTART:20251116
 DTEND:20251117
-LOCATION:Casainhos\,  Fanhões Casainhos\,  Fanhões
+LOCATION:Casainhos\,   Fanhões Casainhos\,   Fanhões
 SUMMARY:Trilhos dos Casaínhos 2025
 DESCRIPTION:Os Trilhos de Casaínhos\,  com existência comprovada desde 20
  09\,  são atualmente considerados a prova de trail mais antiga em territó

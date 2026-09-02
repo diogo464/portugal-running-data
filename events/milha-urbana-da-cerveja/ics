@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d1694e91
-DTSTAMP:20260530T060054Z
+UID:50709-0@www.portugalrunning.com
+DTSTAMP:20260902T140053Z
 DTSTART:20260627T204100Z
 DTEND:20260627T235900Z
-LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+LOCATION:Barcelos\,   Braga Barcelos\,   Braga
 SUMMARY:Milha Urbana da Cerveja 2026
 DESCRIPTION:A Milha Urbana da Cerveja é uma corrida urbana com a distânci
  a de 1 milha (aproximadamente 1.609 metros) realizada em pleno Parque da Ci

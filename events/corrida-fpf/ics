@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0aaafd02f90
-DTSTAMP:20260518T060029Z
+UID:47903-0@www.portugalrunning.com
+DTSTAMP:20260902T135946Z
 DTSTART:20260517T055600Z
 DTEND:20260517T235900Z
-LOCATION:Jamor\,  Lisboa Jamor\,  Lisboa
+LOCATION:Jamor\,   Lisboa Jamor\,   Lisboa
 SUMMARY:Corrida FPF 2026
 DESCRIPTION:Resultados Classificações Corrida FPF - Classificação Ofici
  al Abrir em Ecrã Total ↗ Plataforma: Corrida FPF Pesquise pelo nome ou d

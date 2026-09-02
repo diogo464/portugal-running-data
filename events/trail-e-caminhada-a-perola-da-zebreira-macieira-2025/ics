@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d6a7aee9
-DTSTAMP:20250720T222754Z
+UID:41684-0@www.portugalrunning.com
+DTSTAMP:20260902T140143Z
 DTSTART:20250525
 DTEND:20250526
-LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
+LOCATION:Sernancelhe\,   Viseu Sernancelhe\,   Viseu
 SUMMARY:Trail e Caminhada "A Pérola da Zebreira" - Macieira 2025
 DESCRIPTION:O Trail e Caminhada “Pérola da Zebreira” são organizados 
  pela União de Freguesias de Ferreirim e Macieira\,  Câmara Municipal de S

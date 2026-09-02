@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6901593494fb0
-DTSTAMP:20251029T000052Z
+UID:46086-0@www.portugalrunning.com
+DTSTAMP:20260902T140117Z
 DTSTART:20251213
 DTEND:20251214
-LOCATION:Vermoim\,  Vila Nova de Famalicão Vermoim\,  Vila Nova de Famalicão
+LOCATION:Vermoim\,   Vila Nova de Famalicão Vermoim\,   Vila Nova de Famalicão
 SUMMARY:São Silvestre Vermoim 2025
 DESCRIPTION:A 3ª edição da São Silvestre de Vermoim trata-se de uma pro
  va de Estrada que percorre ruas da Freguesia de Vermoim\,  Pousada de Saram

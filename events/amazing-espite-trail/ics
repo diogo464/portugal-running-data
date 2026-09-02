@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a2e199bc
-DTSTAMP:20260320T110622Z
+UID:44468-0@www.portugalrunning.com
+DTSTAMP:20260902T135906Z
 DTSTART:20260719
 DTEND:20260720
-LOCATION:Espite\,  Ourém Espite\,  Ourém
+LOCATION:Espite\,   Ourém Espite\,   Ourém
 SUMMARY:Amazing Espite Trail 2026
 DESCRIPTION:O clube vai contar com o apoio da junta de freguesia de Espite\
  ,  da câmara municipal de Ourém\,  do Bombeiros de Ourém – Secção de

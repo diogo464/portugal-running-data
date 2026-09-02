@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a056510cff2e
-DTSTAMP:20260514T060048Z
+UID:51214-0@www.portugalrunning.com
+DTSTAMP:20260902T140224Z
 DTSTART:20260912
 DTEND:20260913
 LOCATION:Viana do Castelo Viana do Castelo
 SUMMARY:VieiraFit Race 2026
-DESCRIPTION:A VIEIRAFIT Race é uma prova que combina corrida com obstácul
- os urbanos\,  organizada pela empresa 4FITGIM\,  LDA\,  contando com o apoi
- o das seguintes entidades públicas: Câmara Municipal de Vieira do Minho; 
- Associação Desportiva de Vieira. Será também uma prova de carácter sol
- idário\,  ajudando assim uma instituição de Vieira do Minho.\nhttps://ww
- w.portugalrunning.com/eventos/vieirafit-race/
+DESCRIPTION:Sobre O VieiraFit Race 2026A VieiraFit Race 2026 realiza-se no 
+ dia 12 de Setembro de 2026 (Sábado)\,  com concentração no centro da vil
+ a de Vieira do Minho (distrito de Braga). Organizada pela 4FITGIM com o apo
+ io institucional da Câmara Municipal de Vieira do Minho e da Associação 
+ Desportiva de Vieira\, [..]\nhttps://www.portugalrunning.com/eventos/vieira
+ fit-race/
 URL:https://www.portugalrunning.com/eventos/vieirafit-race/
 END:VEVENT
 END:VCALENDAR

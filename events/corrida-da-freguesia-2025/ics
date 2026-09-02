@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c3c001fe
-DTSTAMP:20250720T222252Z
+UID:42360-0@www.portugalrunning.com
+DTSTAMP:20260902T135933Z
 DTSTART:20250817T092500Z
 DTEND:20250817T092500Z
-LOCATION:Alcáçovas\,  Évora Alcáçovas\,  Évora
+LOCATION:Alcáçovas\,   Évora Alcáçovas\,   Évora
 SUMMARY:Corrida da Freguesia 2025
 DESCRIPTION:A corrida da Freguesia é um evento de corrida de piso misto\, 
   em formato 3x3 com uma distância totalmáxima de 9 km. Cada elemento da e

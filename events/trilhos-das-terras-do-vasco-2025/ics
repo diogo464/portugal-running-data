@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6897e14d3a93d
-DTSTAMP:20250810T000117Z
+UID:43913-0@www.portugalrunning.com
+DTSTAMP:20260902T140215Z
 DTSTART:20250921
 DTEND:20250922
-LOCATION:Casal Vasco\,  Fornos de Algodres Casal Vasco\,  Fornos de Algodres
+LOCATION:Casal Vasco\,   Fornos de Algodres Casal Vasco\,   Fornos de Algodres
 SUMMARY:Trilhos das Terras do Vasco 2025
 DESCRIPTION:O “II TRILHOS DAS TERRAS DO VASCO” é um trail/caminhada\, 
   organizado pela ” Freguesiado Casal Vasco”\,  a realizar no dia 21 de 

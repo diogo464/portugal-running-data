@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:691dd4d3dfdee
-DTSTAMP:20251119T143147Z
+UID:46735-0@www.portugalrunning.com
+DTSTAMP:20260902T135951Z
 DTSTART:20260104T072200Z
 DTEND:20260104T072200Z
-LOCATION:Marinhais\,  Santarém Marinhais\,  Santarém
+LOCATION:Marinhais\,   Santarém Marinhais\,   Santarém
 SUMMARY:Corrida dos Reis - Marinhais - 2026
 DESCRIPTION:O evento Corrida dos Reis composto pelas provas de corrida (9km
  )\,  minicorrida e caminhada (5km) é organizado pelo Grupo Desportivo Mari

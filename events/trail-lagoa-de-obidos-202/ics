@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d72dd92c
-DTSTAMP:20250720T222802Z
+UID:40557-0@www.portugalrunning.com
+DTSTAMP:20260902T140144Z
 DTSTART:20250601
 DTEND:20250602
-LOCATION:Óbidos\,  Leiria Óbidos\,  Leiria
+LOCATION:Óbidos\,   Leiria Óbidos\,   Leiria
 SUMMARY:Trail Lagoa de Óbidos 2025
 DESCRIPTION:Com o apoio da Câmara Municipal de Óbidos e da Junta de Fregu
  esia do Vau e organização da GanharDestak\,  realiza-se no próximo dia 1

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:690fd9ee21109
-DTSTAMP:20251109T000150Z
+UID:46369-0@www.portugalrunning.com
+DTSTAMP:20260902T140007Z
 DTSTART:20260111
 DTEND:20260112
-LOCATION:Alvito\,  Beja Alvito\,  Beja
+LOCATION:Alvito\,   Beja Alvito\,   Beja
 SUMMARY:Corrida Viana a par de Alvito 2026
 DESCRIPTION:A Câmara Municipal de Alvito\,  a Câmara Municipal de Viana d
  o Alentejo\,  a Junta de Freguesia de Alvito\,  a Junta de Freguesia de Via

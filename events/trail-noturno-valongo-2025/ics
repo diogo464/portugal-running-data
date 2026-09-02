@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7eaefbf2943
-DTSTAMP:20260814T060027Z
+UID:59200-0@www.portugalrunning.com
+DTSTAMP:20260902T140200Z
 DTSTART:20251213
 DTEND:20251214
-LOCATION:Valongo\,  Porto Valongo\,  Porto
+LOCATION:Valongo\,   Porto Valongo\,   Porto
 SUMMARY:Trail Noturno Valongo 2025
 DESCRIPTION:Estamos a chegar à 12ª edição do TNV- TRAIL NOTURNO DE VALO
  NGO\,  esta é uma prova que percorre trilhos e caminhos na serra de Quinta

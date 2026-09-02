@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:688c088bbfb17
-DTSTAMP:20250801T002131Z
+UID:43867-0@www.portugalrunning.com
+DTSTAMP:20260902T140229Z
 DTSTART:20260104
 DTEND:20260105
-LOCATION:Igreja Nova\,  Mafra Igreja Nova\,  Mafra
+LOCATION:Igreja Nova\,   Mafra Igreja Nova\,   Mafra
 SUMMARY:Vulcan Trail 2026
 DESCRIPTION:O Grupo Desportivo de Igreja Nova irá organizar\,  a 4 de Jane
  iro de 2026\,  pelas 09h00\,  a quartaedição do Vulcan Trail na Igreja No

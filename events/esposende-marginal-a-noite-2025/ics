@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6886bd9bd8b48
-DTSTAMP:20250728T000027Z
+UID:38633-0@www.portugalrunning.com
+DTSTAMP:20260902T140001Z
 DTSTART:20250705
 DTEND:20250706
-LOCATION:Esposende\,  Braga Esposende\,  Braga
+LOCATION:Esposende\,   Braga Esposende\,   Braga
 SUMMARY:Esposende Marginal à Noite 2025
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/esposende-marginal-a-
  noite-2025/

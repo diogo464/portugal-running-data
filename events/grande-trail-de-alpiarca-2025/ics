@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ca3dc46d
-DTSTAMP:20250720T222435Z
+UID:41488-0@www.portugalrunning.com
+DTSTAMP:20260902T140023Z
 DTSTART:20251004
 DTEND:20251005
-LOCATION:Alpiarça\,  Santarém Alpiarça\,  Santarém
+LOCATION:Alpiarça\,   Santarém Alpiarça\,   Santarém
 SUMMARY:Grande Trail de Alpiarça 2025
 DESCRIPTION:Será constituído por três provas de carácter competitivo\, 
   “Trail Longo – 31K”\,  “Trail curto – 19K”\,  “Mini-Trail - 

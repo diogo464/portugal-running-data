@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a7574919ffd2
-DTSTAMP:20260807T060049Z
+UID:48264-0@www.portugalrunning.com
+DTSTAMP:20260902T140047Z
 DTSTART:20261018
 DTEND:20261019
 LOCATION:Leiria Leiria
 SUMMARY:Meia Maratona Leiria 2026
-DESCRIPTION:Agendada para o dia 18 de outubro de 2026 no Jardim Luís de Ca
- mões\,  em Leiria\,  a Meia Maratona de Leiria desafia os participantes co
- m percursos de 21 km\,  10 km\,  uma caminhada de 5 km e a prova Kids de 50
- 0 m. O traçado urbano desenvolve-se sobre o asfalto[..]\nhttps://www.portu
- galrunning.com/eventos/meia-maratona-leiria/
+DESCRIPTION:Sobre A Meia Maratona Leiria 2026A Meia Maratona Leiria 2026 re
+ aliza-se no dia 18 de Outubro de 2026 (Domingo)\,  na histórica cidade de 
+ Leiria. É uma das provas desportivas mais marcantes da região centro\,  c
+ ombinando a beleza do centro histórico com o ambiente natural ao longo do 
+ Rio Lis.Com partida[..]\nhttps://www.portugalrunning.com/eventos/meia-marat
+ ona-leiria/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-leiria/
 END:VEVENT
 END:VCALENDAR

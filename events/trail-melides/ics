@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff14586877
-DTSTAMP:20260522T060141Z
+UID:50902-0@www.portugalrunning.com
+DTSTAMP:20260902T140150Z
 DTSTART:20260524
 DTEND:20260525
-LOCATION:Melides\,  Setúbal Melides\,  Setúbal
+LOCATION:Melides\,   Setúbal Melides\,   Setúbal
 SUMMARY:Trail Melides 2026
 DESCRIPTION:No dia 24 de maio de 2026\,  irá realizar-se a 4ª edição do
   Trail de Melides onde se irão percorrer ostrilhos da região através de 

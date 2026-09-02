@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ce8c5424
-DTSTAMP:20250720T222544Z
+UID:42089-0@www.portugalrunning.com
+DTSTAMP:20260902T140054Z
 DTSTART:20250621T151900Z
 DTEND:20250621T235900Z
-LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+LOCATION:Santo Tirso\,   Porto Santo Tirso\,   Porto
 SUMMARY:Milha Urbana de Santo Tirso 2025
 DESCRIPTION:21ª Milha Urbana de Santo Tirso\,  será disputada no próximo
   dia 21 de junho de 2025\,  compartida e chegada na Rua das Rãs – próxi

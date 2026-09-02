@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69813ab3b3f1a
-DTSTAMP:20260203T000051Z
+UID:48610-0@www.portugalrunning.com
+DTSTAMP:20260902T140017Z
 DTSTART:20260517T130100Z
 DTEND:20260517T235900Z
-LOCATION:Monte da Franqueira\,  Barcelos Monte da Franqueira\,  Barcelos
+LOCATION:Monte da Franqueira\,   Barcelos Monte da Franqueira\,   Barcelos
 SUMMARY:Franqueira Adventure 2026
 DESCRIPTION:“Franqueira Adventure 2026\,  Uma Prova para Todos” é um e
  vento organizado pelo promotor Franqueira Adventure\,  com o apoio do Munic

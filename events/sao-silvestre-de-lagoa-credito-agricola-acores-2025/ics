@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6919143d9e70f
-DTSTAMP:20251116T000101Z
+UID:46620-0@www.portugalrunning.com
+DTSTAMP:20260902T140116Z
 DTSTART:20251227
 DTEND:20251228
-LOCATION:Lagoa\,  Ilha de São Miguel Lagoa\,  Ilha de São Miguel
+LOCATION:Lagoa\,   Ilha de São Miguel Lagoa\,   Ilha de São Miguel
 SUMMARY:São Silvestre de Lagoa | Crédito Agrícola Açores 2025
 DESCRIPTION:O CDOL - Clube Desportivo Operário de Lagoa com a colaboraçã
  o da Câmara Municipal de Lagoa e o Patrocínio da Caixa Crédito Agrícola

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c2762731
-DTSTAMP:20250720T222231Z
+UID:41352-0@www.portugalrunning.com
+DTSTAMP:20260902T135914Z
 DTSTART:20250601
 DTEND:20250602
-LOCATION:Mascotelos\,  Guimarães Mascotelos\,  Guimarães
+LOCATION:Mascotelos\,   Guimarães Mascotelos\,   Guimarães
 SUMMARY:Cachorrão Gmr Challenge 2025
 DESCRIPTION:O Cachorrão GMR Challenge é um evento de caráter recreativo 
  e desportivo que visa promover o contacto com a natureza e o espírito de s

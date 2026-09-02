@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684de2b9a4
-DTSTAMP:20260315T100726Z
+UID:49874-0@www.portugalrunning.com
+DTSTAMP:20260902T140140Z
 DTSTART:20260425T224100Z
 DTEND:20260425T235900Z
-LOCATION:Lamego\,  Viseu Lamego\,  Viseu
+LOCATION:Lamego\,   Viseu Lamego\,   Viseu
 SUMMARY:Trail da Liberdade 2026
 DESCRIPTION:O Trail da Liberdade 2026 é um evento de trail running realiza
  do na freguesia de Avões\,  em Lamego\,  Portugal\,  que celebra o anivers

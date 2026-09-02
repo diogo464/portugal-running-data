@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a3cc40c7ca68
-DTSTAMP:20260625T060044Z
-DTSTART:20261018T035100Z
+UID:51535-0@www.portugalrunning.com
+DTSTAMP:20260902T135957Z
+DTSTART:20261018T080000Z
 DTEND:20261018T235900Z
-LOCATION:Loures\,  Lisboa Loures\,  Lisboa
-SUMMARY:Crossers - The Hybrid Race 2026
-DESCRIPTION:Esta primeira edição surge em parceria estratégica com a Urb
- an Obstacles\,  aproveitando a experiência organizativa\,  a estrutura log
- ística e a comunidade já existente\,  embora mantendo uma identidade pró
- pria e diferenciadora. O objetivo é criar uma experiência acessível tant
- o a atletas OCR como a participantes do segmento hybrid fitness\,  promoven
- do um[..]\nhttps://www.portugalrunning.com/eventos/crossers/
+LOCATION:Loures\,   Lisboa Loures\,   Lisboa
+SUMMARY:Crossers – The Hybrid Race 2026
+DESCRIPTION:Sobre O Crossers – The Hybrid Race 2026O Crossers – The Hyb
+ rid Race 2026 realiza-se no dia 18 de Outubro de 2026 (Domingo)\,  em Loure
+ s Lisboa (Loures Lisboa\,  distrito de Lisboa). Trata-se de um evento despo
+ rtivo emblemático da região\,  reunindo centenas de participantes entre a
+ tletas federados\,  amadores e entusiastas do[..]\nhttps://www.portugalrunn
+ ing.com/eventos/crossers/
 URL:https://www.portugalrunning.com/eventos/crossers/
 END:VEVENT
 END:VCALENDAR

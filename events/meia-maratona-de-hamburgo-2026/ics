@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69112b319fc8a
-DTSTAMP:20251110T000049Z
+UID:46429-0@www.portugalrunning.com
+DTSTAMP:20260902T140041Z
 DTSTART:20260628T002800Z
 DTEND:20260628T002800Z
-LOCATION:Hamburgo\,  Alemanha Hamburgo\,  Alemanha
+LOCATION:Hamburgo\,   Alemanha Hamburgo\,   Alemanha
 SUMMARY:Meia Maratona de Hamburgo 2026
 DESCRIPTION:A Hella Hamburg Half Marathon realiza-se no dia 28 de junho 
  de 2026 em Hamburgo\,  na Alemanha\,  sendo considerada a meia maratona de

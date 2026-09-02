@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a34db1e6efb3
-DTSTAMP:20260619T060102Z
+UID:51271-0@www.portugalrunning.com
+DTSTAMP:20260902T140054Z
 DTSTART:20260620T151900Z
 DTEND:20260620T235900Z
-LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+LOCATION:Santo Tirso\,   Porto Santo Tirso\,   Porto
 SUMMARY:Milha Urbana de Santo Tirso 2026
 DESCRIPTION:A 22ª Milha Urbana de Santo Tirso\,  é também a prova Region
  al de Milha e vão ser atribuídos os títulos Regionais da Milha\,  será 

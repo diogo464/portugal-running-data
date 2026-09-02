@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b32e7cc
-DTSTAMP:20260223T000051Z
+UID:47002-0@www.portugalrunning.com
+DTSTAMP:20260902T140209Z
 DTSTART:20260322
 DTEND:20260323
-LOCATION:Mendiga\,  Porto de Mós Mendiga\,  Porto de Mós
+LOCATION:Mendiga\,   Porto de Mós Mendiga\,   Porto de Mós
 SUMMARY:Trilhos da Lapa 2026
 DESCRIPTION:A&nbsp;Associação Recreativa\,  Cultural e Desportiva da Mend
  iga&nbsp;leva a cabo a organização da&nbsp;5ª Edição dos “Trilhos da

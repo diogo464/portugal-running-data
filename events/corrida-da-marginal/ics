@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98ae0ce50
-DTSTAMP:20260223T000046Z
+UID:48034-0@www.portugalrunning.com
+DTSTAMP:20260902T135926Z
 DTSTART:20260308
 DTEND:20260309
-LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+LOCATION:Vila do Conde\,   Porto Vila do Conde\,   Porto
 SUMMARY:Corrida da Marginal 2026
 DESCRIPTION:Realiza-se no dia 8 de março de 2026 pelas 10h\,  a prova come
  ça e acaba na Av. Brasil em Vila do Conde e faz o retorno na Av. Dos Banho

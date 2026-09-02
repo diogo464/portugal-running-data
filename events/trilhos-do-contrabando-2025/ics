@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6da64a47c
-DTSTAMP:20250720T222854Z
+UID:40185-0@www.portugalrunning.com
+DTSTAMP:20260902T140214Z
 DTSTART:20250329
 DTEND:20250330
-LOCATION:Montalvão\,  Portalegre Montalvão\,  Portalegre
+LOCATION:Montalvão\,   Portalegre Montalvão\,   Portalegre
 SUMMARY:Trilhos do Contrabando 2025
 DESCRIPTION:Percurso de 14km\,  linear\,  por caminhos tradicionais\,  tril
  hos e veredas de pé posto\,  ambiental e paisagístico\,  com desníveis a

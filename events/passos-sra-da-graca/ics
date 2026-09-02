@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a2e18176
-DTSTAMP:20260320T110622Z
+UID:48036-0@www.portugalrunning.com
+DTSTAMP:20260902T140051Z
 DTSTART:20260621T150000Z
 DTEND:20260621T235900Z
-LOCATION:Póvoa\,  Alcobaça Póvoa\,  Alcobaça
+LOCATION:Póvoa\,   Alcobaça Póvoa\,   Alcobaça
 SUMMARY:2ª Edição Passos Srª da Graça 2026
 DESCRIPTION:A&nbsp;2ª Edição Passos Srª da Graça&nbsp;é um evento org
  anizado pela&nbsp;comissão da capela da Nossa Srª da Graça\,  tem a cola

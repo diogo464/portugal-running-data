@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a739e352d4e2
-DTSTAMP:20260805T203357Z
+UID:51292-0@www.portugalrunning.com
+DTSTAMP:20260902T135943Z
 DTSTART:20260905
 DTEND:20260906
-LOCATION:Costa da Caparica\,  Almada Costa da Caparica\,  Almada
+LOCATION:Costa da Caparica\,   Almada Costa da Caparica\,   Almada
 SUMMARY:Corrida Noturna Costa da Caparica 2026
-DESCRIPTION:Dia 5 de Setembro vais correr ou caminhar pelo paredão da Cap
- arica e pelos extensos areais.No final\,  para compensar o teu esforço vai
- s ter direito à tão famosa “Olhaaa a bolinha!“ Não fiques em casa! O
- &nbsp;desafio está lançado… correr 10km ou correr/caminhar 5km e ainda 
- aplaudir os mais pequenos na Kids[..]\nhttps://www.portugalrunning.com/even
- tos/corrida-noturna-costa-da-caparica/
+DESCRIPTION:Sobre A Corrida Noturna Costa da Caparica 2026A 10ª edição d
+ a Auchan Corrida Noturna Costa da Caparica 2026 realiza-se no dia 5 de sete
+ mbro de 2026 (Sábado)\,  na emblemática Costa da Caparica (concelho de Al
+ mada\,  distrito de Setúbal). Trata-se de um dos eventos noturnos mais car
+ ismáticos do final de verão\, [..]\nhttps://www.portugalrunning.com/event
+ os/corrida-noturna-costa-da-caparica/
 URL:https://www.portugalrunning.com/eventos/corrida-noturna-costa-da-caparica/
 END:VEVENT
 END:VCALENDAR

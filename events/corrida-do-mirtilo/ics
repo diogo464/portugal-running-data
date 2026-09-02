@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a05650ec4833
-DTSTAMP:20260514T060046Z
+UID:51261-0@www.portugalrunning.com
+DTSTAMP:20260902T135935Z
 DTSTART:20260628T053500Z
 DTEND:20260628T053500Z
-LOCATION:Sever do Vouga\,  Aveiro Sever do Vouga\,  Aveiro
+LOCATION:Sever do Vouga\,   Aveiro Sever do Vouga\,   Aveiro
 SUMMARY:Corrida do Mirtilo 2026
 DESCRIPTION:A corrida do mirtilo é uma corrida popular\,  organizada pela 
  Câmara Municipal de Sever do Vouga. A corrida é um evento inserido na pro

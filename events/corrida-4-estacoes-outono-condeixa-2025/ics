@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68f035b7eb8a3
-DTSTAMP:20251016T000055Z
+UID:39310-0@www.portugalrunning.com
+DTSTAMP:20260902T135924Z
 DTSTART:20251026
 DTEND:20251027
-LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+LOCATION:Condeixa\,   Coimbra Condeixa\,   Coimbra
 SUMMARY:Corrida 4 Estações Outono - Venda da Luísa 2025
 DESCRIPTION:A Associação 4 Estações com o apoio da Câmara Municipal de
   Condeixa vai realizar dia 26-10-2025 pelas 10h30 a Corrida 4 Estações Pr

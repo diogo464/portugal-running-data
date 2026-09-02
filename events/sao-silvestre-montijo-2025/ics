@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68fd64d23ea12
-DTSTAMP:20251026T000122Z
+UID:45904-0@www.portugalrunning.com
+DTSTAMP:20260902T140115Z
 DTSTART:20251220T062800Z
 DTEND:20251220T235900Z
-LOCATION:Montijo\,  Setúbal Montijo\,  Setúbal
+LOCATION:Montijo\,   Setúbal Montijo\,   Setúbal
 SUMMARY:São Silvestre Montijo 2025
 DESCRIPTION: A tradição volta às ruas do Montijo com mais uma edição 
  da Decathlon São Silvestre Montijo! Um evento para toda a família\,  que

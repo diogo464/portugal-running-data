@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c697a657
-DTSTAMP:20250720T222337Z
+UID:41897-0@www.portugalrunning.com
+DTSTAMP:20260902T135950Z
 DTSTART:20250705
 DTEND:20250706
-LOCATION:Costa Nova\,  Ílhavo Costa Nova\,  Ílhavo\,  Aveiro
+LOCATION:Costa Nova\,   Ílhavo Costa Nova\,   Ílhavo\,   Aveiro
 SUMMARY:Corrida Popular da Costa Nova do Prado 2025
 DESCRIPTION:A Câmara Municipal de Ílhavo vai promover a Corrida Popular d
  a Costa Nova do Prado com tiro de partida junto ao Mercado da Costa Nova. O

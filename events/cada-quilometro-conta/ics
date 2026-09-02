@@ -1,22 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff987719e
-DTSTAMP:20260724T060056Z
-DTSTART:20261018T130000Z
+UID:54934-0@www.portugalrunning.com
+DTSTAMP:20260902T135915Z
+DTSTART:20261018T073000Z
 DTEND:20261018T130000Z
-LOCATION:Vila Verde da Raia\,  Chaves Vila Verde da Raia\,  Chaves
+LOCATION:Vila Verde da Raia\,   Chaves Vila Verde da Raia\,   Chaves
 SUMMARY:Cada Quilometro Conta 2026
-DESCRIPTION:O evento CADA QUILÔMETRO CONTA organizado por Ricardo Silva\, 
-  com o apoio daJunta de Freguesia de Vila Verde da Raia\,  Câmara Municipa
- l de Chaves e restantesparceiros institucionais e patrocinadores.Este é um
-  evento solidário\,  cuja receita líquida das inscrições reverte na tot
- alidadepara:Liga Portuguesa Contra o CancroOperação Nariz VermelhoO objet
- ivo é promover[..]\nhttps://www.portugalrunning.com/eventos/cada-quilometr
- o-conta/
+DESCRIPTION:Sobre O Cada Quilometro Conta 2026O Cada Quilometro Conta 2026 
+ realiza-se no dia 18 de Outubro de 2026 (Domingo)\,  em Vila Verde Da Raia 
+ Chaves (Vila Verde Da Raia Chaves\,  distrito de Vila Real). Trata-se de um
+  evento desportivo emblemático da região\,  reunindo centenas de particip
+ antes entre atletas federados\,  amadores[..]\nhttps://www.portugalrunning.
+ com/eventos/cada-quilometro-conta/
 URL:https://www.portugalrunning.com/eventos/cada-quilometro-conta/
 END:VEVENT
 END:VCALENDAR

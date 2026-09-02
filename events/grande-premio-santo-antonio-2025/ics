@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ca2aa4ea
-DTSTAMP:20250720T222434Z
+UID:39837-0@www.portugalrunning.com
+DTSTAMP:20260902T140018Z
 DTSTART:20250216
 DTEND:20250217
-LOCATION:Fráguas\,  Rio Maior Fráguas\,  Rio Maior
+LOCATION:Fráguas\,   Rio Maior Fráguas\,   Rio Maior
 SUMMARY:Grande Prémio Santo António 2025
 DESCRIPTION:O Torneio de Atletismo das Freguesias de Rio Maior “Jorge Mig
  uel” consiste num conjunto de provasdesportivas na modalidade de atletism

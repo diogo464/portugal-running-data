@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6db719bc6
-DTSTAMP:20250720T222911Z
+UID:42321-0@www.portugalrunning.com
+DTSTAMP:20260902T140224Z
 DTSTART:20251024
 DTEND:20251025
-LOCATION:Louriçal do Campo\,  Castelo Branco Louriçal do Campo\,  Castelo Branco
+LOCATION:Louriçal do Campo\,   Castelo Branco Louriçal do Campo\,   Castelo Branco
 SUMMARY:Ultra Trilhos da Gardunha 2025
 DESCRIPTION:O UTG\,  é um evento de trail running\,  composto por uma cami
  nhada e por 4 percursos circulares de 12k\,  18k\,  32k e 50k\,  que percor

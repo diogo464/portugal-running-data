@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ce8dc98f
-DTSTAMP:20250720T222544Z
+UID:40276-0@www.portugalrunning.com
+DTSTAMP:20260902T140052Z
 DTSTART:20250426
 DTEND:20250427
-LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+LOCATION:Ovar\,   Aveiro Ovar\,   Aveiro
 SUMMARY:Milha Urbana Cidade de Ovar 2025
 DESCRIPTION:A 21ª Milha Urbana Cidade de Ovar realiza-se a partir do iníc
  io da tarde com partida e chegada na Alameda do Poder Local Cidade de Ovar\

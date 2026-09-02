@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68a9049ad8418
-DTSTAMP:20250823T000026Z
+UID:44107-0@www.portugalrunning.com
+DTSTAMP:20260902T140107Z
 DTSTART:20251019T133600Z
 DTEND:20251019T235900Z
-LOCATION:Lourinhã\,  Lisboa Lourinhã\,  Lisboa
+LOCATION:Lourinhã\,   Lisboa Lourinhã\,   Lisboa
 SUMMARY:Milha da Cegonha 2025
 DESCRIPTION:A Milha da cegonha vai-se realizar no dia 19 de Outubro\,  com 
  medição feita pela Federação.\nhttps://www.portugalrunning.com/eventos/

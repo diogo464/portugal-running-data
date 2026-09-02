@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a1a7d17e5ea4
-DTSTAMP:20260530T060055Z
+UID:51521-0@www.portugalrunning.com
+DTSTAMP:20260902T140132Z
 DTSTART:20260705
 DTEND:20260706
-LOCATION:Mação\,  Santarém Mação\,  Santarém
+LOCATION:Mação\,   Santarém Mação\,   Santarém
 SUMMARY:Trail das Zagaias 2026
 DESCRIPTION:O Trail das Zagaias é uma organização da Associação BTZ Ma
  ção e ACR Chão de Codes\,  com o apoio e colaboração da Câmara Munici

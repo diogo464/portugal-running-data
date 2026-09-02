@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a17d9ff94b89
-DTSTAMP:20260528T060031Z
+UID:51408-0@www.portugalrunning.com
+DTSTAMP:20260902T135930Z
 DTSTART:20260606T171100Z
 DTEND:20260606T171100Z
-LOCATION:Torres Vedras\,  Lisboa Torres Vedras\,  Lisboa
+LOCATION:Torres Vedras\,   Lisboa Torres Vedras\,   Lisboa
 SUMMARY:Corrida & Caminhada Ultramarathon Torres Vedras 2026
 DESCRIPTION:\nhttps://www.portugalrunning.com/eventos/corrida-caminhada-ult
  ramarathon-torres-vedras/

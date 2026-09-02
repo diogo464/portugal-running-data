@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a34db1eb57be
-DTSTAMP:20260619T060102Z
+UID:51744-0@www.portugalrunning.com
+DTSTAMP:20260902T140154Z
 DTSTART:20260809T053500Z
 DTEND:20260809T053500Z
-LOCATION:São Brás de Alportel\,  Faro São Brás de Alportel\,  Faro
+LOCATION:São Brás de Alportel\,   Faro São Brás de Alportel\,   Faro
 SUMMARY:Trail entre a Serra e o Mar 2026
-DESCRIPTION:O "1.º Trail entre a Serra e o Mar - Fonte Férrea" constitui 
- um evento desportivo de natureza competitiva e lúdica\,  concebido com o p
- ropósito fundamental de fomentar e divulgar a prática do trail running. E
- sta iniciativa visa não apenas estimular o exercício físico em contacto 
- direto com a natureza\, [..]\nhttps://www.portugalrunning.com/eventos/trail
- -entre-a-serra-e-o-mar/
+DESCRIPTION:O &#8220;1.º Trail entre a Serra e o Mar &#8211; Fonte Férrea
+ &#8221; constitui um evento desportivo de natureza competitiva e lúdica\, 
+  concebido com o propósito fundamental de fomentar e divulgar a prática d
+ o trail running. Esta iniciativa visa não apenas estimular o exercício f�
+ �sico em contacto direto com a natureza\, [..]\nhttps://www.portugalrunning
+ .com/eventos/trail-entre-a-serra-e-o-mar/
 URL:https://www.portugalrunning.com/eventos/trail-entre-a-serra-e-o-mar/
 END:VEVENT
 END:VCALENDAR

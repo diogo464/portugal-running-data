@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d0092639
-DTSTAMP:20250720T222608Z
+UID:36276-0@www.portugalrunning.com
+DTSTAMP:20260902T140107Z
 DTSTART:20240922T122100Z
 DTEND:20240922T235900Z
-LOCATION:Praia dos Moinhos\,  Alcochete Praia dos Moinhos\,  Alcochete
+LOCATION:Praia dos Moinhos\,   Alcochete Praia dos Moinhos\,   Alcochete
 SUMMARY:Prova do Sal 2024
 DESCRIPTION:10 Km – Competição na areia e caminhos de terra batida deno
  minada “Prova do Sal”. A partida será dada às 10h00 do dia 22 de sete

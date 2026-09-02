@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b439065e179
-DTSTAMP:20250831T115902Z
+UID:39670-0@www.portugalrunning.com
+DTSTAMP:20260902T140225Z
 DTSTART:20251116
 DTEND:20251117
-LOCATION:Silgueiros\,  Viseu Silgueiros\,  Viseu
+LOCATION:Silgueiros\,   Viseu Silgueiros\,   Viseu
 SUMMARY:Volta a Silgueiros 2025
 DESCRIPTION:A Volta a Silgueiros\,  é uma “corrida mítica de estrada\, 
   no Berço do Dão”\,  uma organização da Associação Social\,  Despor

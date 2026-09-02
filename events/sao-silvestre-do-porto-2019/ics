@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a002b54b5ef9
-DTSTAMP:20260510T065308Z
-DTSTART:20251228
-DTEND:20251229
+UID:322-0@www.portugalrunning.com
+DTSTAMP:20260902T140109Z
+DTSTART:20191229
+DTEND:20191230
 LOCATION:Porto Porto
-SUMMARY:São Silvestre Porto 2025
-DESCRIPTION:Resultados 2025 A clássica\,  a intemporal\,  a que fecha o an
- o com chave de ouro: está de volta a Lidl S. Silvestre Cidade do Porto! Di
- a 28 de dezembro\,  às 18h00\,  todos os caminhos vão dar à Avenida dos 
- Aliados para celebrar a 31ª edição desta festa da corrida. Com[..]\nhttp
- s://www.portugalrunning.com/eventos/sao-silvestre-porto-2025/
-URL:https://www.portugalrunning.com/eventos/sao-silvestre-porto-2025/
+SUMMARY:São Silvestre do Porto
+DESCRIPTION:RESULTADOS CONDICIONAMENTO de TRÂNSITO Uma das mais antigas co
+ rridas de atletismo do País está de volta às principais ruas da cidade d
+ o Porto\,  com o tiro de partida marcado para dia 29 de Dezembro na Avenida
+  dos Aliados. É um evento mítico na cidade onde o desporto se alia ao[..]
+ \nhttps://www.portugalrunning.com/eventos/sao-silvestre-do-porto-2019/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-do-porto-2019/
 END:VEVENT
 END:VCALENDAR

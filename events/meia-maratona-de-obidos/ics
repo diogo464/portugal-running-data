@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:698bc6ac0c74c
-DTSTAMP:20260211T000044Z
+UID:45304-0@www.portugalrunning.com
+DTSTAMP:20260902T140046Z
 DTSTART:20260419T013500Z
 DTEND:20260419T235900Z
-LOCATION:Óbidos\,  Leiria Óbidos\,  Leiria
+LOCATION:Óbidos\,   Leiria Óbidos\,   Leiria
 SUMMARY:Meia Maratona de Óbidos 2026
 DESCRIPTION:No próximo dia 19 de abril de 2026\,  a histórica vila de 
  Óbidos recebe a Meia Maratona de Óbidos\,  um evento desportivo que pr

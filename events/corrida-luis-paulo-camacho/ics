@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c5e2ba2
-DTSTAMP:20260201T000109Z
+UID:46758-0@www.portugalrunning.com
+DTSTAMP:20260902T135954Z
 DTSTART:20260124T190600Z
 DTEND:20260124T235900Z
-LOCATION:Santa Cruz das Flores\,  Açores Santa Cruz das Flores\,  Açores
+LOCATION:Santa Cruz das Flores\,   Açores Santa Cruz das Flores\,   Açores
 SUMMARY:Corrida Luis Paulo Camacho 2026
 DESCRIPTION:Corrida de cariz lúdico tem como intuito interligar todos os l
  ocais da Ilha das Flores\,  abrangendo osconcelhos das Lajes das Flores e S

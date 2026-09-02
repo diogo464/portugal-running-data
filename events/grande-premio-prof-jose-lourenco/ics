@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69fecd8c3c996
-DTSTAMP:20260509T060044Z
+UID:51081-0@www.portugalrunning.com
+DTSTAMP:20260902T140017Z
 DTSTART:20260627T065900Z
 DTEND:20260627T235900Z
-LOCATION:Arruda dos Vinhos\,  Lisboa Arruda dos Vinhos\,  Lisboa
+LOCATION:Arruda dos Vinhos\,   Lisboa Arruda dos Vinhos\,   Lisboa
 SUMMARY:Grande Prémio Prof. José Lourenço 2026
 DESCRIPTION:O 2º Grande Prémio Prof. José Lourenço é uma prova de atle
  tismo popular\,  integrada no Festival do Caracol e Encontro de Associaçõ

@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a34db1e13a51
-DTSTAMP:20260619T060102Z
+UID:51727-0@www.portugalrunning.com
+DTSTAMP:20260902T140054Z
 DTSTART:20260926
 DTEND:20260927
-LOCATION:Vila Nova de Poiares\,  Coimbra Vila Nova de Poiares\,  Coimbra
+LOCATION:Vila Nova de Poiares\,   Coimbra Vila Nova de Poiares\,   Coimbra
 SUMMARY:Poiares Adventure Race 2026
-DESCRIPTION:Um evento desportivo que combina três desportos outdoor\,  Kay
- ak\,  Trail Running e BTT\,  realizado em equipas de dois elementos\,  send
- o que\,  os dois\,  terãoquecumprir os três percursos. A possibilidade de
-  testar os limites físicos e psicológicos de cada atleta\,  éumdos objet
- ivos do evento\,  mas ao mesmo tempo promover o trabalho[..]\nhttps://www.p
- ortugalrunning.com/eventos/poiares-adventure-race/
+DESCRIPTION:Sobre O Poiares Adventure Race 2026O Poiares Adventure Race 202
+ 6 realiza-se no dia 26 de Setembro de 2026 (Sábado)\,  em S. Miguel de Poi
+ ares (concelho de Vila Nova de Poiares\,  distrito de Coimbra). Organizado 
+ pela Associação Recreativa de S. Miguel em co-organização com a Câmara
+  Municipal de Vila Nova de[..]\nhttps://www.portugalrunning.com/eventos/poi
+ ares-adventure-race/
 URL:https://www.portugalrunning.com/eventos/poiares-adventure-race/
 END:VEVENT
 END:VCALENDAR

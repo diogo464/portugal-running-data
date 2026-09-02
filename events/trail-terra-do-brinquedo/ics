@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699a472145ed6
-DTSTAMP:20260222T000033Z
+UID:49647-0@www.portugalrunning.com
+DTSTAMP:20260902T140207Z
 DTSTART:20260614
 DTEND:20260615
-LOCATION:Valongo\,  Porto Valongo\,  Porto
+LOCATION:Valongo\,   Porto Valongo\,   Porto
 SUMMARY:Trail Terra do Brinquedo 2026
 DESCRIPTION:A Edição de 2026 do Trail Terra do Brinquedo\,  será realiza
  da nos dias 13 e 14 de Junho\,  em Alfena\,  Concelho de Valongo. Irá perc

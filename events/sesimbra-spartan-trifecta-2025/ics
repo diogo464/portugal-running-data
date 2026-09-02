@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68f57be10e9ae
-DTSTAMP:20251020T000137Z
+UID:45875-0@www.portugalrunning.com
+DTSTAMP:20260902T140120Z
 DTSTART:20251101T221600Z
 DTEND:20251101T235900Z
-LOCATION:Sesimbra\,  Setúbal Sesimbra\,  Setúbal
+LOCATION:Sesimbra\,   Setúbal Sesimbra\,   Setúbal
 SUMMARY:Sesimbra Spartan Trifecta 2025
 DESCRIPTION:Pela primeira vez\,  a Spartan Race chega ao deslumbrante Portu
  gal! A pitoresca vila costeira de Sesimbra\,  a sul de Lisboa\,  será o ce

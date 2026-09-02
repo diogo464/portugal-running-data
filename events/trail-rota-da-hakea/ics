@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69da1663b8cb1
-DTSTAMP:20260411T093739Z
+UID:50601-0@www.portugalrunning.com
+DTSTAMP:20260902T140204Z
 DTSTART:20260530T213000Z
 DTEND:20260530T235900Z
-LOCATION:Campo Militar de Santa Margarida\,  Abrantes Campo Militar de Santa Margarida\,  Abrantes
+LOCATION:Campo Militar de Santa Margarida\,   Abrantes Campo Militar de Santa Margarida\,   Abrantes
 SUMMARY:Trail Rota da Hakea 2026
 DESCRIPTION:A prova “TRAIL ROTA DA HAKEA” tem como objetivo proporciona
  r aos atletas novas experiências e sensações em trilhos distintos. Este 

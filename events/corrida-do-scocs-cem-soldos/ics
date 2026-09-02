@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b0975488b2
-DTSTAMP:20260129T071709Z
+UID:48382-0@www.portugalrunning.com
+DTSTAMP:20260902T135939Z
 DTSTART:20260307T050400Z
 DTEND:20260307T050400Z
-LOCATION:Cem Soldos\,  Tomar Cem Soldos\,  Tomar
+LOCATION:Cem Soldos\,   Tomar Cem Soldos\,   Tomar
 SUMMARY:Corrida do SCOCS - Cem Soldos 2026
 DESCRIPTION:1ª Corrida Convívio do SCOCS\,  associação cultural de Cem 
  Soldos. O evento visa à celebração do primeiro ano da secção de Corrid

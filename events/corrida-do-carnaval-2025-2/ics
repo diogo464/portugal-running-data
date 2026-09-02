@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c52013a7
-DTSTAMP:20250720T222314Z
+UID:39768-0@www.portugalrunning.com
+DTSTAMP:20260902T135936Z
 DTSTART:20250304
 DTEND:20250305
-LOCATION:Rio Tinto\,  Gondomar Rio Tinto\,  Gondomar
+LOCATION:Rio Tinto\,   Gondomar Rio Tinto\,   Gondomar
 SUMMARY:Corrida do Carnaval 2025
 DESCRIPTION:Realiza-se no dia 4 de março de 2025\,  a prova começa e acab
  a em frente ao Estádio do Sport Clube Rio Tinto. Entrar na Avenida Doutor 

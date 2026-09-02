@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a3399dc7
-DTSTAMP:20260320T110627Z
+UID:48416-0@www.portugalrunning.com
+DTSTAMP:20260902T140149Z
 DTSTART:20260517
 DTEND:20260518
-LOCATION:Castro Marim\,  Faro Castro Marim\,  Faro
+LOCATION:Castro Marim\,   Faro Castro Marim\,   Faro
 SUMMARY:Trail do Moleiro 2026
 DESCRIPTION:O evento desportivo\,  V Trail do Moleiro promovido e organizad
  o pela Equipa de Trail e o Clube Campesino R.F.C.\,  com o apoio da Câmara

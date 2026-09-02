@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a27abffcc730
-DTSTAMP:20260609T060031Z
+UID:51602-0@www.portugalrunning.com
+DTSTAMP:20260902T135913Z
 DTSTART:20260626T064200Z
 DTEND:20260626T064200Z
-LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+LOCATION:Almeirim\,   Santarém Almeirim\,   Santarém
 SUMMARY:Correr nas Festas - Almeirim 2026
 DESCRIPTION:A Câmara Municipal de Almeirim\,  organiza uma atividade pedes
  tre designada “CORRER NAS FESTAS 2026” com um percurso de estrada\,  co

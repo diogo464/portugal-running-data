@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c1dc2e32
-DTSTAMP:20250720T222221Z
+UID:39832-0@www.portugalrunning.com
+DTSTAMP:20260902T135902Z
 DTSTART:20250418
 DTEND:20250419
-LOCATION:Cortes\,  Leiria Cortes\,  Leiria
+LOCATION:Cortes\,   Leiria Cortes\,   Leiria
 SUMMARY:Assiste a Mexer 2025
 DESCRIPTION:O trail e caminhada&nbsp;ASSISTE A MEXER\,  é organizado pelos
  &nbsp;Trilhos Loucos da Reixida\,  com o apoio da&nbsp;União de Freguesias

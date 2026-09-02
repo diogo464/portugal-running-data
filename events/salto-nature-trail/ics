@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98afd1963
-DTSTAMP:20260223T000047Z
+UID:46515-0@www.portugalrunning.com
+DTSTAMP:20260902T140101Z
 DTSTART:20260412T161400Z
 DTEND:20260412T235900Z
-LOCATION:Paredes\,  Porto Paredes\,  Porto
+LOCATION:Paredes\,   Porto Paredes\,   Porto
 SUMMARY:Salto Nature Trail 2026
 DESCRIPTION:O&nbsp;SALTO NATURE TRAIL&nbsp;é um evento organizado conjunta
  mente pela&nbsp;North Sport Events&nbsp;e pelo&nbsp;Sport Club Nun’Alvare

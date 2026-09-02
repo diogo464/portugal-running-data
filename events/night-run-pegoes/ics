@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a76c603e1355
-DTSTAMP:20260808T060035Z
-DTSTART:20261024T092100Z
+UID:57489-0@www.portugalrunning.com
+DTSTAMP:20260902T140103Z
+DTSTART:20261024T171000Z
 DTEND:20261024T235900Z
-LOCATION:Pegões\,  Setúbal Pegões\,  Setúbal
+LOCATION:Pegões\,   Setúbal Pegões\,   Setúbal
 SUMMARY:Night Run Pegões 2026
-DESCRIPTION:No dia 24 de outubro de 2026\,  as ruas de Pegões recebem a co
- rrida noturna com percurso de 10 km e caminhada de 5 km em piso predominant
- emente de asfalto e piso urbano plano. O traçado convida a uma gestão flu
- ida de ritmo\,  onde a iluminação pública e a visibilidade[..]\nhttps://
- www.portugalrunning.com/eventos/night-run-pegoes/
+DESCRIPTION:Sobre O Night Run Pegões 2026A Night Run Pegões 2026 (1.ª ed
+ ição) realiza-se ao final da tarde de 24 de Outubro de 2026 (Sábado)\,  
+ na vila de Pegões\,  concelho do Montijo (distrito de Setúbal). Integrada
+  nas celebrações festivas da União de Freguesias de Pegões\,  a prova o
+ ferece uma atmosfera noturna[..]\nhttps://www.portugalrunning.com/eventos/n
+ ight-run-pegoes/
 URL:https://www.portugalrunning.com/eventos/night-run-pegoes/
 END:VEVENT
 END:VCALENDAR

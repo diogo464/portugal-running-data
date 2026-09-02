@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:688c088708d92
-DTSTAMP:20250801T002127Z
+UID:43889-0@www.portugalrunning.com
+DTSTAMP:20260902T140109Z
 DTSTART:20251206
 DTEND:20251207
-LOCATION:Barcelos\,  Braga Barcelos\,  Braga
+LOCATION:Barcelos\,   Braga Barcelos\,   Braga
 SUMMARY:São Silvestre Barcelos 2025
 DESCRIPTION:A São Silvestre de Barcelos realiza-se no dia 6 de dezembro de
   2025. A corrida de crianças tem início às 15:00 horas e a corrida/camin

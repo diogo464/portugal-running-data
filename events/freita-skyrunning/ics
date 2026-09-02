@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff1422fdb3
-DTSTAMP:20260522T060138Z
+UID:51322-0@www.portugalrunning.com
+DTSTAMP:20260902T140002Z
 DTSTART:20260718
 DTEND:20260719
-LOCATION:Vale de Cambra\,  Aveiro Vale de Cambra\,  Aveiro
+LOCATION:Vale de Cambra\,   Aveiro Vale de Cambra\,   Aveiro
 SUMMARY:Freita Skyrunning 2026
 DESCRIPTION:FREITA SKYRUNNING 2026 é uma organização da Associação D
  esportiva e Cultural de Felgueira\,  em parceria com a Câmara Municipal d

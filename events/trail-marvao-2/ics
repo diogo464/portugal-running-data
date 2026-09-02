@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69813abb984c8
-DTSTAMP:20260203T000059Z
+UID:47435-0@www.portugalrunning.com
+DTSTAMP:20260902T140149Z
 DTSTART:20260301
 DTEND:20260302
-LOCATION:Marvão\,  Portalegre Marvão\,  Portalegre
+LOCATION:Marvão\,   Portalegre Marvão\,   Portalegre
 SUMMARY:Trail Marvão 2026
 DESCRIPTION:O Trail de Marvão é uma organização conjunta entre o Munic�
  �pio de Marvão\,  UJA - União da JuventudeArenense e do GDA - Grupo Despo

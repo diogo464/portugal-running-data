@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c1bf7e9eef7
-DTSTAMP:20250910T181214Z
+UID:44419-0@www.portugalrunning.com
+DTSTAMP:20260902T140046Z
 DTSTART:20250914
 DTEND:20250915
-LOCATION:Copenhaga\,  Dinamarca Copenhaga\,  Dinamarca
+LOCATION:Copenhaga\,   Dinamarca Copenhaga\,   Dinamarca
 SUMMARY:Meia Maratona de Copenhaga 2025
 DESCRIPTION:A Meia Maratona de Copenhaga é uma das corridas de meio marato
  na mais populares na Dinamarca e na Europa. O percurso da meia maratona ger

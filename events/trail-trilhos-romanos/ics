@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a041391634e1
-DTSTAMP:20260513T060049Z
+UID:49780-0@www.portugalrunning.com
+DTSTAMP:20260902T140207Z
 DTSTART:20260531
 DTEND:20260601
-LOCATION:Bárrio\,  Alcobaça Bárrio\,  Alcobaça
+LOCATION:Bárrio\,   Alcobaça Bárrio\,   Alcobaça
 SUMMARY:Trail Trilhos Romanos 2026
 DESCRIPTION:A&nbsp;Associação Trilhos Romanos&nbsp;em colaboração com a
  &nbsp;Junta de Freguesia do Bárrio e a Câmara Municipal de Alcobaça\,  n

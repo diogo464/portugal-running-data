@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1be7199
-DTSTAMP:20260723T060059Z
+UID:50025-0@www.portugalrunning.com
+DTSTAMP:20260902T140005Z
 DTSTART:20260726
 DTEND:20260727
-LOCATION:São Paio de Oleiros\,  Santa Maria da Feira São Paio de Oleiros\,  Santa Maria da Feira
+LOCATION:São Paio de Oleiros\,   Santa Maria da Feira São Paio de Oleiros\,   Santa Maria da Feira
 SUMMARY:GP São Paio de Oleiros 2026
 DESCRIPTION:O 36º Grande Prémio de Atletismo de São Paio de Oleiros real
  iza-se no dia 26 de julho de 2026 (domingo)\,  em São Paio de Oleiros\,  S

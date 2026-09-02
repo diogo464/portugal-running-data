@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c5293321
-DTSTAMP:20250720T222314Z
+UID:38618-0@www.portugalrunning.com
+DTSTAMP:20260902T135935Z
 DTSTART:20250302
 DTEND:20250303
-LOCATION:Lousada\,  Porto Lousada\,  Porto
+LOCATION:Lousada\,   Porto Lousada\,   Porto
 SUMMARY:Corrida do Carnaval 2025
 DESCRIPTION:No dia 2 de março de 2025\,  às 10h00\,  a Vila de Lousada se
  rá o palco de uma celebração vibrante e cheia de energia com a Corrida d

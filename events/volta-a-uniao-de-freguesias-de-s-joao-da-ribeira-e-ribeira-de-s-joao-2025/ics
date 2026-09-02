@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68fd64d2831dd
-DTSTAMP:20251026T000122Z
+UID:46027-0@www.portugalrunning.com
+DTSTAMP:20260902T140226Z
 DTSTART:20251102
 DTEND:20251103
-LOCATION:Ribeira de São João\,  Rio Maior Ribeira de São João\,  Rio Maior
+LOCATION:Ribeira de São João\,   Rio Maior Ribeira de São João\,   Rio Maior
 SUMMARY:Volta à União de Freguesias de S. João da Ribeira e Ribeira de S. João 2025
 DESCRIPTION:O Torneio de Atletismo das Freguesias de Rio Maior “Jorge Mig
  uel” consiste num conjunto de provasdesportivas na modalidade de atletism

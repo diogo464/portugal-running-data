@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b0cb63d
-DTSTAMP:20260223T000048Z
+UID:47665-0@www.portugalrunning.com
+DTSTAMP:20260902T140124Z
 DTSTART:20260412
 DTEND:20260413
-LOCATION:Mêda\,  Guarda Mêda\,  Guarda
+LOCATION:Mêda\,   Guarda Mêda\,   Guarda
 SUMMARY:Trail Bombeiros de Mêda 2026
 DESCRIPTION:O ”VII TRAIL BOMBEIROS DE MÊDA” é um trail\,  organizado 
  pela “Associação Humanitária dos Bombeiros Voluntários de Mêda” a 

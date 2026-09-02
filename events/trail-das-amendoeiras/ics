@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c969a78
-DTSTAMP:20260201T000113Z
+UID:47017-0@www.portugalrunning.com
+DTSTAMP:20260902T140135Z
 DTSTART:20260301
 DTEND:20260302
-LOCATION:São João da Pesqueira\,  Viseu São João da Pesqueira
+LOCATION:São João da Pesqueira\,   Viseu São João da Pesqueira
 SUMMARY:Trail das Amendoeiras 2026
 DESCRIPTION:O evento foi pensado para que os participantes pudessem desfrut
  ar das paisagens de uma das mais belas e emblemáticas regiões de Portugal

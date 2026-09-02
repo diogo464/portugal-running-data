@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dedc2ee
-DTSTAMP:20260315T100726Z
+UID:46938-0@www.portugalrunning.com
+DTSTAMP:20260902T140115Z
 DTSTART:20260419
 DTEND:20260420
-LOCATION:Alenquer\,  Lisboa Alenquer\,  Lisboa
+LOCATION:Alenquer\,   Lisboa Alenquer\,   Lisboa
 SUMMARY:Spt Trail Serra Galega 2026
 DESCRIPTION:A&nbsp;Equipa SPT ( Sabores do Paço Trail Zatopeques)&nbsp;\, 
   com o apoio do&nbsp;Município de Alenquer\,  Junta de Freguesia da Ventos

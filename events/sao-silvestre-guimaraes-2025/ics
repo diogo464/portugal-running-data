@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68e5a9a06f101
-DTSTAMP:20251008T000032Z
+UID:45651-0@www.portugalrunning.com
+DTSTAMP:20260902T140110Z
 DTSTART:20251213T174000Z
 DTEND:20251213T174000Z
-LOCATION:Guimarães\,  Braga Guimarães\,  Braga
+LOCATION:Guimarães\,   Braga Guimarães\,   Braga
 SUMMARY:São Silvestre Guimarães 2025
 DESCRIPTION:A 1ª edição da São Silvestre de Guimarães acontecerá na n
  oite de 13 de dezembro (sábado) com partida e chegada na Rua Conde Dom Hen

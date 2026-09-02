@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68b23f37de4b0
-DTSTAMP:20250830T000055Z
+UID:42899-0@www.portugalrunning.com
+DTSTAMP:20260902T140109Z
 DTSTART:20250921T141800Z
 DTEND:20250921T235900Z
-LOCATION:Fontinha\,  Águeda Fontinha\,  Águeda
+LOCATION:Fontinha\,   Águeda Fontinha\,   Águeda
 SUMMARY:Rota do Talefe 2025
 DESCRIPTION:O&nbsp;MINITRAIL/CAMINHADA “ROTA DO TALEFE”&nbsp;é um even
  to de natureza desportiva organizado pela Comissão de Festas da Fontinha �

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69224ea95f3eb
-DTSTAMP:20251123T000041Z
+UID:46773-0@www.portugalrunning.com
+DTSTAMP:20260902T140045Z
 DTSTART:20260315T192000Z
 DTEND:20260315T192000Z
-LOCATION:Nova Iorque. Estados Unidos da América Nova Iorque\,  Estados Unidos da América
+LOCATION:Nova Iorque. Estados Unidos da América Nova Iorque\,   Estados Unidos da América
 SUMMARY:Meia Maratona de Nova Iorque 2026
 DESCRIPTION:A Meia Maratona de Nova Iorque 2026 está marcada para 15 de ma
  rço e oferece um percurso emblemático que começa no Brooklyn\,  atravess

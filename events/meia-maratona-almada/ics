@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69d519f546c91
-DTSTAMP:20260407T145133Z
+UID:50380-0@www.portugalrunning.com
+DTSTAMP:20260902T140039Z
 DTSTART:20260510T133400Z
 DTEND:20260510T235900Z
-LOCATION:Almada\,  Setúbal Almada\,  Setúbal
+LOCATION:Almada\,   Setúbal Almada\,   Setúbal
 SUMMARY:Meia Maratona Almada 2026
 DESCRIPTION:Data: 10 de maio de 2026 Local: Almada (Partida e Chegada no Pa
  rque da Paz) Distância: 21\, 097 km (com provas paralelas de 10 km e camin

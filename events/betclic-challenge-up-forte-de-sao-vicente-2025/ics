@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ed92afafe86
-DTSTAMP:20251014T000047Z
+UID:44455-0@www.portugalrunning.com
+DTSTAMP:20260902T135929Z
 DTSTART:20251115
 DTEND:20251116
-LOCATION:Torres Vedras\,  Lisboa Torres Vedras\,  Lisboa
+LOCATION:Torres Vedras\,   Lisboa Torres Vedras\,   Lisboa
 SUMMARY:Betclic Challenge Up - Forte de São Vicente 2025
 DESCRIPTION:Entre muralhas e história\,  ergue-se um desafio para corajoso
  s: a subida ao Forte de São Vicente. São 420 metros sempre a subir\,  com

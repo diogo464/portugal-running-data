@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a73ba8e1a4f5
-DTSTAMP:20260805T223454Z
-DTSTART:20260906T172700Z
+UID:51666-0@www.portugalrunning.com
+DTSTAMP:20260902T135929Z
+DTSTART:20260906T091500Z
 DTEND:20260906T235900Z
-LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
+LOCATION:Rio Maior\,   Santarém Rio Maior\,   Santarém
 SUMMARY:Cebola Run 2026
-DESCRIPTION:A Cebola Run regressa no dia 6 de setembro de 2026 a Rio Maior\
- ,  integrada no ambiente festivo da secular Frimor – Feira da Cebola\,  o
- ferecendo um desafio de 10 km em piso de asfalto. O percurso desenha-se pel
- as artérias da cidade e na zona envolvente às Marinhas do Sal\, [..]\nhtt
- ps://www.portugalrunning.com/eventos/cebola-run/
+DESCRIPTION:Sobre O Cebola Run 2026A Cebola Run 2026 realiza-se no dia 6 de
+  setembro de 2026 (Domingo)\,  na cidade de Rio Maior (distrito de Santaré
+ m). Organizada pela Câmara Municipal de Rio Maior em conjunto com a Desmor
+ \,  EM\,  SA\,  a prova está integrada no programa da emblemática Feira A
+ gro-Pecuária de[..]\nhttps://www.portugalrunning.com/eventos/cebola-run/
 URL:https://www.portugalrunning.com/eventos/cebola-run/
 END:VEVENT
 END:VCALENDAR

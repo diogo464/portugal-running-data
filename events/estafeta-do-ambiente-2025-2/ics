@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:691dd4d5371d0
-DTSTAMP:20251119T143149Z
+UID:46732-0@www.portugalrunning.com
+DTSTAMP:20260902T140010Z
 DTSTART:20251123
 DTEND:20251124
-LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+LOCATION:Monsanto\,   Lisboa Monsanto\,   Lisboa
 SUMMARY:Estafeta do Ambiente 2025
 DESCRIPTION:Junta-te a nós na grande celebração dos 91 anos do “pulmã
  o verde” de Lisboa! A manhã será repleta de movimento\,  diversão e li

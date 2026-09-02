@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b34f131
-DTSTAMP:20260223T000051Z
+UID:45993-0@www.portugalrunning.com
+DTSTAMP:20260902T140102Z
 DTSTART:20260328
 DTEND:20260329
-LOCATION:Santiago do Cacém\,  Setúbal Santiago do Cacém\,  Setubal
+LOCATION:Santiago do Cacém\,   Setúbal Santiago do Cacém\,   Setubal
 SUMMARY:Night Running Santiago do Cacém 2026
 DESCRIPTION:A Juventude Atlético Clube (J.A.C.) com o apoio da Câmara Mun
  icipal de Santiago do Cacém e da União de Freguesias de Santiago do Cacé

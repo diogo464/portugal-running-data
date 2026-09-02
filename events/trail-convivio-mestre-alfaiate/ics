@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1e9a8d9
-DTSTAMP:20260723T060102Z
+UID:51707-0@www.portugalrunning.com
+DTSTAMP:20260902T140138Z
 DTSTART:20260829
 DTEND:20260830
-LOCATION:Casais Revelhos\,  Abrantes Casais Revelhos\,  Abrantes
-SUMMARY:Trail Convívio Mestre Alfaiate 2026
-DESCRIPTION:A Casa do Benfica em Abrantes irá realizar o 2º Trail Convív
- io Mestre Alfaiate no dia 29 de agosto (nova data) de 2026.Este evento tem 
- como objetivo promover o convívio\,  a atividade física e os valores do d
- esportona comunidade. Para isso\,  queremos juntar atletas\,  amigos\,  ent
- idades e dirigentes numa manhãde[..]\nhttps://www.portugalrunning.com/even
- tos/trail-convivio-mestre-alfaiate/
+LOCATION:Casais Revelhos\,   Abrantes Casais Revelhos\,   Abrantes
+SUMMARY:2º Trail Convívio Mestre Alfaiate 2026
+DESCRIPTION:Sobre O 2º Trail Convívio Mestre Alfaiate 2026O 2º Trail Con
+ vívio Mestre Alfaiate 2026 realiza-se no dia 29 de Agosto de 2026 (Sábado
+ )\,  em Casais de Revelhos (concelho de Abrantes\,  distrito de Santarém).
+  Organizado pela Casa do Benfica em Abrantes\,  este evento desportivo tem 
+ como propósito promover a prática desportiva[..]\nhttps://www.portugalrun
+ ning.com/eventos/trail-convivio-mestre-alfaiate/
 URL:https://www.portugalrunning.com/eventos/trail-convivio-mestre-alfaiate/
 END:VEVENT
 END:VCALENDAR

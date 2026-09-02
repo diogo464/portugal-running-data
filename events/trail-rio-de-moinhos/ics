@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69ad830a71127
-DTSTAMP:20260308T140914Z
-DTSTART:20261018T125900Z
+UID:49759-0@www.portugalrunning.com
+DTSTAMP:20260902T140200Z
+DTSTART:20261018T080000Z
 DTEND:20261018T235900Z
-LOCATION:Rio de Moinhos\,  Viseu Rio de Moinhos\,  Viseu
+LOCATION:Rio de Moinhos\,   Viseu Rio de Moinhos\,   Viseu
 SUMMARY:Trail Rio de Moinhos 2026
-DESCRIPTION:O Trail de Rio de Moinhos é uma prova desafiante que decorre n
- a freguesia de Rio de Moinhos\,  concelho de Sátão (Viseu)\,  Portugal. O
-  evento desenrola-se num terreno típico de trail\,  atravessando trilhos t
- écnicos\,  caminhos florestais e zonas de montanha com passagens por moinh
- os históricos e cursos de água. As[..]\nhttps://www.portugalrunning.com/e
- ventos/trail-rio-de-moinhos/
+DESCRIPTION:Sobre O Trail Rio de Moinhos 2026O Trail Rio de Moinhos 2026 (I
+ II Trail de Rio de Moinhos) realiza-se no dia 18 de Outubro de 2026 (Doming
+ o)\,  na pitoresca freguesia de Rio de Moinhos\,  no concelho do Sátão (d
+ istrito de Viseu). Celebrando a sua 3.ª edição\,  o evento destaca as[..
+ ]\nhttps://www.portugalrunning.com/eventos/trail-rio-de-moinhos/
 URL:https://www.portugalrunning.com/eventos/trail-rio-de-moinhos/
 END:VEVENT
 END:VCALENDAR

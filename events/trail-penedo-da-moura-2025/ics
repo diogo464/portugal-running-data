@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d7f17e27
-DTSTAMP:20250720T222815Z
+UID:42054-0@www.portugalrunning.com
+DTSTAMP:20260902T140152Z
 DTSTART:20250712
 DTEND:20250713
-LOCATION:Vila Nova de Famalicão\,  Braga Famalicão\,  Porto
+LOCATION:Vila Nova de Famalicão\,   Braga Famalicão\,   Porto
 SUMMARY:Trail Penedo da Moura 2025
 DESCRIPTION:8a edição - Trail Penedo da Moura 6a Prova do Campeonato Conc
  elhio de Trail de Vila Nova de Famalicão O Evento terá lugar na freguesia

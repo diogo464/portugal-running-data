@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69c66eda1b3ff
-DTSTAMP:20260327T114946Z
+UID:50164-0@www.portugalrunning.com
+DTSTAMP:20260902T140204Z
 DTSTART:20260531
 DTEND:20260601
-LOCATION:Gondomar\,  Porto Gondomar\,  Porto
+LOCATION:Gondomar\,   Porto Gondomar\,   Porto
 SUMMARY:Trail Serra das Flores 2026
 DESCRIPTION:O Trail Serra das Flores 2026 realiza-se na localidade de Gondo
  mar\,  no distrito do Porto\,  percorrendo trilhos técnicos e montanhosos 

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d30799d5
-DTSTAMP:20250720T222656Z
+UID:41004-0@www.portugalrunning.com
+DTSTAMP:20260902T140120Z
 DTSTART:20250511
 DTEND:20250512
-LOCATION:Lousada\,  Porto Lousada\,  Porto
+LOCATION:Lousada\,   Porto Lousada\,   Porto
 SUMMARY:Street Cross Lustosa 2025
 DESCRIPTION:A Associação Desportiva de Lustosa\,  com o apoio da Câmara 
  Municipal de Lousada e União de Freguesias de Lustosa e Barrosas Santo Est

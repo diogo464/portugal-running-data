@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68c4b436722c2
-DTSTAMP:20250913T000054Z
+UID:43155-0@www.portugalrunning.com
+DTSTAMP:20260902T140134Z
 DTSTART:20251005
 DTEND:20251006
-LOCATION:São Marcos da Serra\,  Silves São Marcos da Serra\,  Silves
+LOCATION:São Marcos da Serra\,   Silves São Marcos da Serra\,   Silves
 SUMMARY:Trail Comidas D'Monte 2025
 DESCRIPTION:Trail Longo: 31km Trail Curto: 19km Caminhada: 10km\nhttps://ww
  w.portugalrunning.com/eventos/trail-comidas-dmonte-2025/

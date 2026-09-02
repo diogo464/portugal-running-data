@@ -1,21 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a001efd838cf
-DTSTAMP:20260510T060029Z
+UID:45497-0@www.portugalrunning.com
+DTSTAMP:20260902T140045Z
 DTSTART:20260920
 DTEND:20260921
-LOCATION:Copenhaga\,  Dinamarca Copenhaga\,  Dinamarca
+LOCATION:Copenhaga\,   Dinamarca Copenhaga\,   Dinamarca
 SUMMARY:Meia Maratona de Copenhaga 2026
-DESCRIPTION:A Meia Maratona de Copenhaga é uma das corridas de meio marato
- na mais populares na Dinamarca e na Europa. O percurso da meia maratona ger
- almente começa e termina no centro de Copenhaga\,  passando por alguns dos
-  locais mais emblemáticos da cidade\,  como o Palácio de Amalienborg\,  a
-  Pequena Sereia e[..]\nhttps://www.portugalrunning.com/eventos/meia-maraton
- a-de-copenhaga/
+DESCRIPTION:Sobre A Meia Maratona de Copenhaga 2026A Meia Maratona de Copen
+ haga 2026 realiza-se no dia 20 de Setembro de 2026 (Domingo)\,  em Østerbr
+ ogade e Fælledparken\,  Copenhaga (Copenhaga\,  distrito de Dinamarca). Tr
+ ata-se de um evento desportivo emblemático da região\,  reunindo centenas
+  de participantes entre atletas federados\,  amadores e entusiastas do desp
+ orto[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-copenhag
+ a/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-de-copenhaga/
 END:VEVENT
 END:VCALENDAR

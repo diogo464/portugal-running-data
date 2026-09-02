@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a3cc40cafcb6
-DTSTAMP:20260625T060044Z
+UID:51830-0@www.portugalrunning.com
+DTSTAMP:20260902T140146Z
 DTSTART:20261011
 DTEND:20261012
-LOCATION:Santa Catarina\,  Alcácer do Sal Santa Catarina\,  Alcácer do Sal
+LOCATION:Santa Catarina\,   Alcácer do Sal Santa Catarina\,   Alcácer do Sal
 SUMMARY:Trail dos Catrinos 2026
-DESCRIPTION:O Trail dos “Catrinos” é uma prova no âmbito do desporto 
- aventura ao ar livre e de natureza. Esta iniciativa é organizada pela Asso
- ciação\,  Santa Catarina Futebol Clube\,  e tem como principal objetivo p
- roporcionar aos amantes desta modalidade o contacto e conhecimento de locai
- s que a nossa aldeia dispõe\,  com[..]\nhttps://www.portugalrunning.com/ev
- entos/trail-dos-catrinos/
+DESCRIPTION:Sobre O Trail dos Catrinos 2026O Trail dos Catrinos 2026 realiz
+ a-se no dia 11 de Outubro de 2026 (Domingo)\,  em Santa Catarina de Sítimo
+ s\,  Alcácer do Sal (Alcácer do Sal\,  distrito de Setúbal). O programa 
+ oficial acolhe atletas ao longo dos percursos desenhados no concelho de Alc
+ ácer do Sal.Com partidas[..]\nhttps://www.portugalrunning.com/eventos/trai
+ l-dos-catrinos/
 URL:https://www.portugalrunning.com/eventos/trail-dos-catrinos/
 END:VEVENT
 END:VCALENDAR

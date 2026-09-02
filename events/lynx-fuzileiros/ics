@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a317b173
-DTSTAMP:20260320T110625Z
+UID:47815-0@www.portugalrunning.com
+DTSTAMP:20260902T140032Z
 DTSTART:20260711
 DTEND:20260712
-LOCATION:Barreiro\,  Setúbal Barreiro\,  Setúbal
+LOCATION:Barreiro\,   Setúbal Barreiro\,   Setúbal
 SUMMARY:Lynx Fuzileiros 2026
 DESCRIPTION:A LYNXRACE FUZILEIROS é uma Corrida de Obstáculos (OCR) e só
   pode ser realizada emequipas de 6 elementos (masculinas\,  femininas e mis

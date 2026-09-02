@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b26a862
-DTSTAMP:20260223T000050Z
+UID:44987-0@www.portugalrunning.com
+DTSTAMP:20260902T140221Z
 DTSTART:20260308
 DTEND:20260309
-LOCATION:Valongo\,  Porto Valongo\,  Porto
+LOCATION:Valongo\,   Porto Valongo\,   Porto
 SUMMARY:Trilhos do Paleozóico 2026
 DESCRIPTION:A 13ª edição dos Trilhos do Paleozóico é uma prova que per
  corre trilhos e caminhos na serra de Santa Justa e de Pias no concelho de V

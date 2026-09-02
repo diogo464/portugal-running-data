@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a78178b1fe3a
-DTSTAMP:20260809T060043Z
+UID:57917-0@www.portugalrunning.com
+DTSTAMP:20260902T140045Z
 DTSTART:20270411T141700Z
 DTEND:20270411T141700Z
-LOCATION:Zurique\,  Suíça Zurique\,  Suíça
+LOCATION:Zurique\,   Suíça Zurique\,   Suíça
 SUMMARY:Maratona de Zurique 2027
 DESCRIPTION:Com encontro marcado para o dia 11 de abril de 2027\,  as ruas 
  e margens de Zurique\,  na Suíça\,  recebem a clássica Maratona de Zuriq

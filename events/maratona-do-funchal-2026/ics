@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a21148d936d9
-DTSTAMP:20260604T060045Z
+UID:47305-0@www.portugalrunning.com
+DTSTAMP:20260902T140046Z
 DTSTART:20260117
 DTEND:20260118
-LOCATION:Funchal\,  Madeira Funchal\,  Madeira
+LOCATION:Funchal\,   Madeira Funchal\,   Madeira
 SUMMARY:Maratona do Funchal 2026
 DESCRIPTION:A Maratona do Funchal é organizada pela Associação de Atleti
  smo da Região Autónoma da Madeira com o apoio de instituições públicas

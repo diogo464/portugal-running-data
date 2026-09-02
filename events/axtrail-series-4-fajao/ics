@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a76c60271555
-DTSTAMP:20260808T060034Z
-DTSTART:20260920T061900Z
+UID:51710-0@www.portugalrunning.com
+DTSTAMP:20260902T135912Z
+DTSTART:20260920T070000Z
 DTEND:20260920T235900Z
-LOCATION:Pampilhosa da Serra\,  Coimbra Pampilhosa da Serra\,  Coimbra
+LOCATION:Pampilhosa da Serra\,   Coimbra Pampilhosa da Serra\,   Coimbra
 SUMMARY:AXtrail Series #4 Fajão 2026
-DESCRIPTION:A 20 de setembro de 2026\,  a deslumbrante Aldeia do Xisto de F
- ajão\,  no concelho da Pampilhosa da Serra\,  acolhe a quarta etapa do cir
- cuito AXtrail Series. O percurso desafia os atletas com subidas íngremes e
- m xisto solto\,  rocha exposta e singles tracks sinuosos pelas cristas da s
- erra\,  exigindo uma[..]\nhttps://www.portugalrunning.com/eventos/axtrail-s
- eries-4-fajao/
+DESCRIPTION:Sobre O AXtrail Series #4 Fajão 2026O AXtrail Series #4 Fajão
+  2026 realiza-se no dia 20 de Setembro de 2026 (Domingo)\,  tendo como cen�
+ �rio cénico a bucólica Aldeia do Xisto de Fajão (concelho de Pampilhosa 
+ da Serra\,  distrito de Coimbra).Constituindo a quarta etapa e a grande fin
+ al da prestigiada temporada[..]\nhttps://www.portugalrunning.com/eventos/ax
+ trail-series-4-fajao/
 URL:https://www.portugalrunning.com/eventos/axtrail-series-4-fajao/
 END:VEVENT
 END:VCALENDAR

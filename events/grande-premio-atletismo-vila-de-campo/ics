@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684debefda
-DTSTAMP:20260315T100726Z
+UID:49877-0@www.portugalrunning.com
+DTSTAMP:20260902T140027Z
 DTSTART:20260425
 DTEND:20260426
-LOCATION:Vila de Campo\,  Valongo Vila de Campo\,  Valongo
+LOCATION:Vila de Campo\,   Valongo Vila de Campo\,   Valongo
 SUMMARY:Grande Prémio Atletismo Vila de Campo 2026
 DESCRIPTION:O 26º Grande Prémio de Atletismo da Vila de Campo é uma prov
  a de estrada histórica que se realiza na freguesia de Campo\,  concelho de

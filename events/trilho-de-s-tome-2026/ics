@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69069f68511f6
-DTSTAMP:20251102T000144Z
+UID:46161-0@www.portugalrunning.com
+DTSTAMP:20260902T140207Z
 DTSTART:20260111
 DTEND:20260112
-LOCATION:Ferreira-a-Nova\,  Figueira da Foz Ferreira-a-Nova\,  Figueira da Foz
+LOCATION:Ferreira-a-Nova\,   Figueira da Foz Ferreira-a-Nova\,   Figueira da Foz
 SUMMARY:Trilho de S. Tomé 2026
 DESCRIPTION:O&nbsp;XII Trilho de S. Tomé'26&nbsp;será realizado no dia&nb
  sp;11 de Janeiro de 2026\,  em Ferreira-a-Nova&nbsp;(40.23488620\,  -8.7380

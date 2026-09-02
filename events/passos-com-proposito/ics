@@ -1,18 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1d51f58
-DTSTAMP:20260723T060101Z
-DTSTART:20260906T043900Z
+UID:53137-0@www.portugalrunning.com
+DTSTAMP:20260902T140051Z
+DTSTART:20260906T083000Z
 DTEND:20260906T235900Z
-LOCATION:Arouca\,  Aveiro Arouca\,  Aveiro
+LOCATION:Arouca\,   Aveiro Arouca\,   Aveiro
 SUMMARY:Passos com Propósito 2026
-DESCRIPTION:A prova Passos com Propósito é um evento desportivo e solidá
- rio\,  é composto por um corrida de 9km e uma caminhada de 4km.\nhttps://w
- ww.portugalrunning.com/eventos/passos-com-proposito/
+DESCRIPTION:Sobre O Passos com Propósito 2026A prova Passos com Propósito
+  2026 realiza-se no dia 6 de Setembro de 2026 (Domingo)\,  na vila de Arouc
+ a (distrito de Aveiro). Organizada pela empresa Adriano de Sousa & Filho\, 
+  Lda com fins desportivos e solidários e o apoio da Câmara Municipal de A
+ rouca\,  a[..]\nhttps://www.portugalrunning.com/eventos/passos-com-proposit
+ o/
 URL:https://www.portugalrunning.com/eventos/passos-com-proposito/
 END:VEVENT
 END:VCALENDAR

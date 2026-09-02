@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d0093544
-DTSTAMP:20250720T222608Z
+UID:35957-0@www.portugalrunning.com
+DTSTAMP:20260902T140059Z
 DTSTART:20250309
 DTEND:20250310
-LOCATION:Povoação\,  Açores Povoação\, Açores
+LOCATION:Povoação\,   Açores Povoação\,  Açores
 SUMMARY:Povoação Trail 2025
 DESCRIPTION:O “Povoação Trail” é um evento de Trail Running que perc
  orre trilhos e caminhos no concelho daPovoação\,  enquadrado nas vertente

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684deaa219
-DTSTAMP:20260315T100726Z
+UID:47899-0@www.portugalrunning.com
+DTSTAMP:20260902T135942Z
 DTSTART:20260321
 DTEND:20260322
-LOCATION:Óbidos\,  Leiria Óbidos\,  Leiria
+LOCATION:Óbidos\,   Leiria Óbidos\,   Leiria
 SUMMARY:Corrida do Chocolate 2026
 DESCRIPTION:A Empresa Municipal “Óbidos Criativa” (OC) organiza em par
  ceria com a Câmara Municipal de Óbidos (CMO)\,  o Clube de Atletismo de �

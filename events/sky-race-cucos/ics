@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69f599938dd0a
-DTSTAMP:20260502T062835Z
+UID:46604-0@www.portugalrunning.com
+DTSTAMP:20260902T140132Z
 DTSTART:20260610
 DTEND:20260611
-LOCATION:Cucos\,  Torres Vedras Cucos\,  Torres Vedras\,  Lisboa
+LOCATION:Cucos\,   Torres Vedras Cucos\,   Torres Vedras\,   Lisboa
 SUMMARY:Sky Race Cucos 2026
 DESCRIPTION:O   TURRES TRAIL  CLUBE \,  com o apoio da Câmara Municip
  al de Torres Vedras e junta de freguesia de São Pedro Santiago e Santa Mar

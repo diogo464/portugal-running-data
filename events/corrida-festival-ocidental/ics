@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a605c9cae25d
-DTSTAMP:20260722T060100Z
+UID:54292-0@www.portugalrunning.com
+DTSTAMP:20260902T135944Z
 DTSTART:20260730T055500Z
 DTEND:20260730T055500Z
-LOCATION:Santa Cruz das Flores\,  Açores Santa Cruz das Flores\,  Açores
+LOCATION:Santa Cruz das Flores\,   Açores Santa Cruz das Flores\,   Açores
 SUMMARY:Corrida Festival Ocidental 2026
 DESCRIPTION:A Corrida / Trail Festival Ocidental 2026 é organizada pelo Mu
  nicípio de Santa Cruz das Flores\,  emconjunto com o Morro Alto Sport Club

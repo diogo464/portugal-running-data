@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:689bd5ab23f28
-DTSTAMP:20250813T000043Z
+UID:40941-0@www.portugalrunning.com
+DTSTAMP:20260902T135951Z
 DTSTART:20250921
 DTEND:20250922
-LOCATION:Porto de Leixões\,  Porto Porto de Leixões\,  Porto
+LOCATION:Porto de Leixões\,   Porto Porto de Leixões\,   Porto
 SUMMARY:Corrida Porto de Leixões 2025
 DESCRIPTION:A organização é da APDL - Administração dos Portos do Dour
  o\,  Leixões e Viana do Castelo\,  da Eventsport e do Centro de Cultura e 

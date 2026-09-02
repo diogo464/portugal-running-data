@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d92dccd0
-DTSTAMP:20250720T222834Z
+UID:36289-0@www.portugalrunning.com
+DTSTAMP:20260902T140215Z
 DTSTART:20241117
 DTEND:20241118
-LOCATION:Rio Maior\,  Santarém Rio Maior\,  Santarém
+LOCATION:Rio Maior\,   Santarém Rio Maior\,   Santarém
 SUMMARY:Trail Terras de Sal e Serra 2024
 DESCRIPTION:O “TRAIL TERRAS DE SAL E SERRA” é um conjunto de provas de
   trail running e caminhada\,  desenvolvidas ao longo de caminhos rurais\,  

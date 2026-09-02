@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c2eab9b9
-DTSTAMP:20250720T222238Z
+UID:39774-0@www.portugalrunning.com
+DTSTAMP:20260902T135909Z
 DTSTART:20250316T084900Z
 DTEND:20250316T235900Z
-LOCATION:Mora\,  Évora Mora\,  Évora
+LOCATION:Mora\,   Évora Mora\,   Évora
 SUMMARY:Che a Correr 2025
 DESCRIPTION:A Iª EDIÇÃO CHE A CORRER é um evento de natureza desportiva
  \,  que visa promover o desporto e hábitos de vida saudáveis. O evento é

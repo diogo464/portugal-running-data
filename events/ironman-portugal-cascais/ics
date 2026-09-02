@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69d65d36e7845
-DTSTAMP:20260408T135046Z
+UID:50515-0@www.portugalrunning.com
+DTSTAMP:20260902T140020Z
 DTSTART:20261017T122200Z
 DTEND:20261017T235900Z
-LOCATION:Cascais\,  Lisboa Cascais\,  Lisboa
+LOCATION:Cascais\,   Lisboa Cascais\,   Lisboa
 SUMMARY:IRONMAN Portugal Cascais 2026
-DESCRIPTION:O percurso de corrida em Cascais é marcado por uma interação
-  constante com a brisa marítima e um terreno que\,  embora pareça plano �
- � primeira vista\,  exige uma gestão estratégica da tração no asfalto. 
- O relevo ao longo da marginal e da zona da Guia apresenta ligeiras ondulaç
- ões que testam[..]\nhttps://www.portugalrunning.com/eventos/ironman-portug
- al-cascais/
+DESCRIPTION:Sobre O IRONMAN Portugal Cascais 2026O IRONMAN Portugal Cascais
+  2026 realiza-se no dia 17 de Outubro de 2026 (Sábado)\,  em Cascais Lisbo
+ a (Cascais Lisboa\,  distrito de Lisboa). Trata-se de um evento desportivo 
+ emblemático da região\,  reunindo centenas de participantes entre atletas
+  federados\,  amadores e entusiastas do desporto ao ar livre\, [..]\nhttps:
+ //www.portugalrunning.com/eventos/ironman-portugal-cascais/
 URL:https://www.portugalrunning.com/eventos/ironman-portugal-cascais/
 END:VEVENT
 END:VCALENDAR

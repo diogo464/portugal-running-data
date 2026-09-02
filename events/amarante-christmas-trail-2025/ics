@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ddc0aec34b0
-DTSTAMP:20251002T000046Z
+UID:45207-0@www.portugalrunning.com
+DTSTAMP:20260902T135905Z
 DTSTART:20251221
 DTEND:20251222
-LOCATION:Amarante\,  Porto Amarante\,  Porto
+LOCATION:Amarante\,   Porto Amarante\,   Porto
 SUMMARY:Amarante Christmas Trail 2025
 DESCRIPTION:O&nbsp;XIV Amarante Christmas Trail&nbsp;é organizado pela&nbs
  p;Associação Desportiva de Amarante\,  composto por quatro modalidades: T

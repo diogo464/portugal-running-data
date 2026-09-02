@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cf73249d
-DTSTAMP:20250720T222559Z
+UID:41360-0@www.portugalrunning.com
+DTSTAMP:20260902T140103Z
 DTSTART:20250615T130100Z
 DTEND:20250615T235900Z
-LOCATION:Franqueira\,  Barcelos Franqueira\,  Barcelos
+LOCATION:Franqueira\,   Barcelos Franqueira\,   Barcelos
 SUMMARY:Pac-Man Trail - Franqueira Adventure 2025
 DESCRIPTION:O PAC-MAN TRAIL - FRANQUEIRA ADVENTURE é uma corrida em format
  o trail\,  com um fator extra que torna a corrida ainda mais desafiadora\, 

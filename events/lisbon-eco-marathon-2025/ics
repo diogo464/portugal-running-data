@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cbaab3df
-DTSTAMP:20250720T222458Z
+UID:36603-0@www.portugalrunning.com
+DTSTAMP:20260902T140025Z
 DTSTART:20250413
 DTEND:20250414
-LOCATION:Parque Eduardo Sétimo\,  Lisboa Parque Eduardo Sétimo\,  Lisboa
+LOCATION:Parque Eduardo Sétimo\,   Lisboa Parque Eduardo Sétimo\,   Lisboa
 SUMMARY:Lisbon Eco Marathon 2025
 DESCRIPTION:Devido a questões de logística a Lisbon Eco Marathon é limit
  ada a 3000 lugares\,  no total das quatro distâncias referência - Maraton

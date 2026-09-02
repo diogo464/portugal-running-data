@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:698e77ee4a52a
-DTSTAMP:20260213T010134Z
+UID:48898-0@www.portugalrunning.com
+DTSTAMP:20260902T140023Z
 DTSTART:20260404
 DTEND:20260405
-LOCATION:Vila Nova do Campo\,  Santo Tirso Vila Nova do Campo\,  Santo Tirso
+LOCATION:Vila Nova do Campo\,   Santo Tirso Vila Nova do Campo\,   Santo Tirso
 SUMMARY:Grande Prémio de Atletismo da Páscoa 2026
 DESCRIPTION:Será em Vila Nova do Campo (Santo Tirso) que decorrerá a 26ª
   edição do Grande Prémio de Atletismo\,  entre amêndoas e os festejos r

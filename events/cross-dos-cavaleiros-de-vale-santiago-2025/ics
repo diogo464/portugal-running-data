@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68fd64cf36941
-DTSTAMP:20251026T000119Z
+UID:45978-0@www.portugalrunning.com
+DTSTAMP:20260902T135957Z
 DTSTART:20251207T201400Z
 DTEND:20251207T235900Z
-LOCATION:Odemira\,  Beja Odemira\,  Beja
+LOCATION:Odemira\,   Beja Odemira\,   Beja
 SUMMARY:Cross dos Cavaleiros de Vale Santiago 2025
 DESCRIPTION:Ο e Núcleo Desportivo e Cultural de Odemira\,  em parceria co
  m o Município de Odemira Freguesia de Vale de Santiago\,  o apoio das empr

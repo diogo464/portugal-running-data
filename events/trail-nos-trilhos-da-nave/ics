@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff14781210
-DTSTAMP:20260522T060143Z
+UID:50109-0@www.portugalrunning.com
+DTSTAMP:20260902T140149Z
 DTSTART:20260614
 DTEND:20260615
-LOCATION:Alvite\,  Viseu Alvite\,  Viseu
+LOCATION:Alvite\,   Viseu Alvite\,   Viseu
 SUMMARY:Trail - Nos Trilhos da Nave 2026
 DESCRIPTION:O VII Trail Nos Trilhos da Nave 2026 realiza-se no dia 14 de ju
  nho de 2026 (domingo)\,  na localidade de Alvite\,  concelho de Moimenta da

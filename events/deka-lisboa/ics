@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:63594-0@www.portugalrunning.com
+DTSTAMP:20260902T135959Z
+DTSTART:20270514T090000Z
+DTEND:20270514T235900Z
+LOCATION:Lisboa Lisboa
+SUMMARY:Deka Lisboa 2027
+DESCRIPTION:📅 Edição Confirmada 2026 Sobre a Deka Lisboa 2027 A Deka L
+ isboa 2027 é a mítica e histórica corrida de 10 km que liga Algés à Pr
+ aia de Carcavelos ao longo da magnífica Avenida Marginal de Oeiras. Organi
+ zada pelo Município de Oeiras\,  a prova é um dos maiores símbolos do[..
+ ]\nhttps://www.portugalrunning.com/eventos/deka-lisboa/
+URL:https://www.portugalrunning.com/eventos/deka-lisboa/
+END:VEVENT
+END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d8b18607
-DTSTAMP:20250720T222827Z
+UID:41955-0@www.portugalrunning.com
+DTSTAMP:20260902T140212Z
 DTSTART:20250525
 DTEND:20250526
-LOCATION:Vimioso\,  Bragança Vimioso\,  Bragança
+LOCATION:Vimioso\,   Bragança Vimioso\,   Bragança
 SUMMARY:TrailRun Vales de Vimioso 2025
 DESCRIPTION:O Trail Running Vales de Vimioso\,  uma prova desportiva que in
  tegra a Taça Distrital de Trail Running sendo esta promovida pelo Furões 

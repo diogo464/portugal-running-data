@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c220522
-DTSTAMP:20260201T000106Z
+UID:47828-0@www.portugalrunning.com
+DTSTAMP:20260902T140003Z
 DTSTART:20260208
 DTEND:20260209
-LOCATION:Alcanena\,  Santarém Alcanena\,  Santarém
+LOCATION:Alcanena\,   Santarém Alcanena\,   Santarém
 SUMMARY:Estafeta Alcanena/Rio Maior 2026
 DESCRIPTION:A 39ª edição da clássica estafeta Manuel da Piedade Costa\,
    entre Alcanena e Rio Maior\,  uma organização conjunta das Câmaras Mun

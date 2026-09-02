@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c1449e1d
-DTSTAMP:20250720T222212Z
+UID:38166-0@www.portugalrunning.com
+DTSTAMP:20260902T135909Z
 DTSTART:20250301T152500Z
 DTEND:20250301T235900Z
-LOCATION:Ourém\,  Santarém Ourém\,  Santarém
+LOCATION:Ourém\,   Santarém Ourém\,   Santarém
 SUMMARY:Acureto Backyard Ultra 2025
 DESCRIPTION:Porquê a distância de 6.706 km? Porque Lazarus queria que\,  
  ao completar 24 voltas\,  ou seja\,  levando 24 horas\,  um total de 100 mi

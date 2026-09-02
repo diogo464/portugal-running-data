@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6993afa524a78
-DTSTAMP:20260217T000037Z
+UID:49411-0@www.portugalrunning.com
+DTSTAMP:20260902T140225Z
 DTSTART:20260612
 DTEND:20260613
-LOCATION:Santana\,  Madeira Santana\,  Madeira
+LOCATION:Santana\,   Madeira Santana\,   Madeira
 SUMMARY:Ultra Skyrunning Madeira 2026
 DESCRIPTION:Ultra Skyrunning Madeira – USM 2026 é um evento constituído
   por 6 provas competitivas\,  a realizar em semi-autonomia. AMSR52 km4055mD

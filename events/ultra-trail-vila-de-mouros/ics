@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a33eb55a
-DTSTAMP:20260320T110627Z
+UID:49973-0@www.portugalrunning.com
+DTSTAMP:20260902T140223Z
 DTSTART:20260620
 DTEND:20260621
-LOCATION:Covilhã\,  Castelo Branco Covilhã\,  Castelo Branco
+LOCATION:Covilhã\,   Castelo Branco Covilhã\,   Castelo Branco
 SUMMARY:Ultra Trail Vila de Mouros 2026
 DESCRIPTION:O Ultra Trail Vila de Mouros 2026 é um evento de trail running
   de alta exigência técnica realizado na emblemática Serra da Estrela\,  

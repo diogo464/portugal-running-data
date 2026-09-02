@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69224ead219a9
-DTSTAMP:20251123T000045Z
+UID:46770-0@www.portugalrunning.com
+DTSTAMP:20260902T140159Z
 DTSTART:20260104
 DTEND:20260105
-LOCATION:Ouça\,  Vagos Ouça\,  Vagos
+LOCATION:Ouça\,   Vagos Ouça\,   Vagos
 SUMMARY:Trail Trilhos de São Martinho 2026
 DESCRIPTION:O Trail Trilhos de S. Martinho será composto por duas provas d
  e trail\,  uma na distância de 19 Km\,  integrada no Circuito de Trail da 

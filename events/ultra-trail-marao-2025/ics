@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6db6f3884
-DTSTAMP:20250720T222910Z
+UID:36953-0@www.portugalrunning.com
+DTSTAMP:20260902T140219Z
 DTSTART:20250328
 DTEND:20250329
-LOCATION:Amarante\,  Porto Amarante\,  Porto
+LOCATION:Amarante\,   Porto Amarante\,   Porto
 SUMMARY:Ultra Trail Marão 2025
 DESCRIPTION:O Ultra Trail do Marão\,  é um evento desportivo de trail run
  ning em estado genuíno daresponsabilidade co-organizativa da Associação 

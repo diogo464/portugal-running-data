@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69bd2a31df1ed
-DTSTAMP:20260320T110625Z
+UID:47866-0@www.portugalrunning.com
+DTSTAMP:20260902T140023Z
 DTSTART:20260524
 DTEND:20260525
-LOCATION:Monsanto\,  Lisboa Monsanto\,  Lisboa
+LOCATION:Monsanto\,   Lisboa Monsanto\,   Lisboa
 SUMMARY:Lisboa Green Trail 2026
 DESCRIPTION:O Parque florestal de Monsanto prepara-se para receber a IX edi
  ção do Lisboa Green Trail com as habituais provas\,  TL e TC\,  não esqu

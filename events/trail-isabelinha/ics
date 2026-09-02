@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69d519f502fe3
-DTSTAMP:20260407T145133Z
+UID:48658-0@www.portugalrunning.com
+DTSTAMP:20260902T140156Z
 DTSTART:20260404T081800Z
 DTEND:20260404T235900Z
-LOCATION:Viatodos\,  Barcelos Viatodos\,  Barcelos
+LOCATION:Viatodos\,   Barcelos Viatodos\,   Barcelos
 SUMMARY:Trail Isabelinha 2026
 DESCRIPTION:⚡ Snapshot: Data: 4 de abril de 2026 Local: Viatodos\,  Barce
  los Distância: Trail Sprint\,  Trail Jovem e Caminhada Piso: Trilhos\,  es

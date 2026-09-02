@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ce8f3a31
-DTSTAMP:20250720T222544Z
+UID:40961-0@www.portugalrunning.com
+DTSTAMP:20260902T140103Z
 DTSTART:20250713
 DTEND:20250714
-LOCATION:Cantanhede\,  Coimbra Cantanhede\,  Coimbra
+LOCATION:Cantanhede\,   Coimbra Cantanhede\,   Coimbra
 SUMMARY:Mmtac - Meia Maratona Trail Areias do Caetano 2025
 DESCRIPTION:Ao organizar este evento o organizador pretende: - promover a p
  rática de um desporto com um impacto ambiental nulo como forma de chamar a

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dc8cc0b
-DTSTAMP:20260315T100724Z
+UID:46306-0@www.portugalrunning.com
+DTSTAMP:20260902T140147Z
 DTSTART:20260426
 DTEND:20260427
-LOCATION:Vila Verde\,  Braga Vila Verde\,  Braga
+LOCATION:Vila Verde\,   Braga Vila Verde\,   Braga
 SUMMARY:Trail Nascente e Vale do Neiva 2026
 DESCRIPTION:A RIBEITRAIL e o Grupo Desportivo e Recreativo da Ribeira do Ne
  iva tem a honra de anunciar a organização o VI Trail Nascente e Vale do N

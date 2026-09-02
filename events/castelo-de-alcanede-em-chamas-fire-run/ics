@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98ae5916f
-DTSTAMP:20260223T000046Z
+UID:47269-0@www.portugalrunning.com
+DTSTAMP:20260902T135927Z
 DTSTART:20260307T083500Z
 DTEND:20260307T235900Z
-LOCATION:Alcanede\,  Santarém Alcanede\,  Santarém
+LOCATION:Alcanede\,   Santarém Alcanede\,   Santarém
 SUMMARY:Castelo de Alcanede em Chamas – Fire Run 2026
 DESCRIPTION:A prova intitulada&nbsp;“Castelo de Alcanede em Chamas – Fi
  re Run”\,  1ª edição\,  trata-se de uma prova de resistência integrad

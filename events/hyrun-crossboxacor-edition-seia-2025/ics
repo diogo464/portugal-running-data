@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68bccb4228a54
-DTSTAMP:20250907T000106Z
+UID:44319-0@www.portugalrunning.com
+DTSTAMP:20260902T140020Z
 DTSTART:20251011T124500Z
 DTEND:20251011T235900Z
-LOCATION:Seia\,  Guarda Seia\,  Guarda
+LOCATION:Seia\,   Guarda Seia\,   Guarda
 SUMMARY:Hyrun - CrossBoxAçor Edition - Seia 2025
 DESCRIPTION:O HYRUN é um evento de corrida + estações funcionais em dupl
  as (masculinas\,  femininas oumistas). O objetivo é completar todo o circu

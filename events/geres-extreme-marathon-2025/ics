@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:690d36d519171
-DTSTAMP:20251107T000125Z
+UID:43887-0@www.portugalrunning.com
+DTSTAMP:20260902T140014Z
 DTSTART:20251205
 DTEND:20251206
-LOCATION:Vila Gerês\,  Braga Vila Gerês\,  Braga
+LOCATION:Vila Gerês\,   Braga Vila Gerês\,   Braga
 SUMMARY:Gerês Extreme Marathon 2025
 DESCRIPTION:A Gerês Extreme Marathon® é organizada pela Carlos Sá Natur
  e Events® com o apoio da Câmara Municipal de Terras de Bouro. Na sexta\, 

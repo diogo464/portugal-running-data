@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d7f7aa3b
-DTSTAMP:20250720T222815Z
+UID:37814-0@www.portugalrunning.com
+DTSTAMP:20260902T140203Z
 DTSTART:20250525
 DTEND:20250526
-LOCATION:Magoito\,  Sintra Magoito\,  Sintra
+LOCATION:Magoito\,   Sintra Magoito\,   Sintra
 SUMMARY:Trail Praia Mag8 2025
 DESCRIPTION:Este evento decorre na praia de Magoito\,  em Magoito\,  concel
  ho de Sintra\,  no dia 25 de Maio de 2025\,  evento que se destina à promo

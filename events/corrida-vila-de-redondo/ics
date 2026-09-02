@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:693a09dcc1cdb
-DTSTAMP:20251211T000132Z
+UID:47178-0@www.portugalrunning.com
+DTSTAMP:20260902T140008Z
 DTSTART:20260117
 DTEND:20260118
-LOCATION:Redondo\,  Évora Redondo\,  Évora
+LOCATION:Redondo\,   Évora Redondo\,   Évora
 SUMMARY:Corrida Vila de Redondo 2026
 DESCRIPTION:A 4ª CORRIDA VILA DE REDONDO é um evento de natureza desporti
  va\,  que visapromover o desporto e hábitos de vida saudáveis. O evento �

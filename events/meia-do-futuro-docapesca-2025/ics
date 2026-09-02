@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68fd64cfb2bd2
-DTSTAMP:20251026T000119Z
+UID:46016-0@www.portugalrunning.com
+DTSTAMP:20260902T140038Z
 DTSTART:20251108T092900Z
 DTEND:20251108T092900Z
-LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+LOCATION:Nazaré\,   Leiria Nazaré\,   Leiria
 SUMMARY:Meia do Futuro Docapesca 2025
 DESCRIPTION:A&nbsp;20ª Meia do Futuro Docapesca&nbsp;é organizada numa pa
  rceria conjunta entre a&nbsp;Meia Maratona Internacional da Nazaré e o Clu

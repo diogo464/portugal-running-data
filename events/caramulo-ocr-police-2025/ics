@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c29dc1f9
-DTSTAMP:20250720T222233Z
+UID:39673-0@www.portugalrunning.com
+DTSTAMP:20260902T135915Z
 DTSTART:20250517
 DTEND:20250518
-LOCATION:Caramulo\,  Viseu Caramulo\,  Viseu
+LOCATION:Caramulo\,   Viseu Caramulo\,   Viseu
 SUMMARY:Caramulo Ocr Police 2025
 DESCRIPTION:Desafia-te na 1ª de 3 etapas\,  do circuito Trichallenge 2025.
   Este é um desafio onde podes participar individualmente ou com a tua equi

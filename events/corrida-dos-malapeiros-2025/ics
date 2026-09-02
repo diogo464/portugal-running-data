@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c58189f3
-DTSTAMP:20250720T222320Z
+UID:40060-0@www.portugalrunning.com
+DTSTAMP:20260902T135944Z
 DTSTART:20250510T151500Z
 DTEND:20250510T235900Z
-LOCATION:São João de Ver\,  Santa Maria da Feira São João de Ver\,  Santa Maria da Feira
+LOCATION:São João de Ver\,   Santa Maria da Feira São João de Ver\,   Santa Maria da Feira
 SUMMARY:Corrida Malapeira 2025
 DESCRIPTION:O 1 º Grande Prémio de Atletismo "CORRIDA MALAPEIRA"\,  a rea
  lizar na Vila de São João de Ver\,  no dia 10 de Maio 2025 é composto po

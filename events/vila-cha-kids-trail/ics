@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a61ae1fb15fb
-DTSTAMP:20260723T060103Z
+UID:50915-0@www.portugalrunning.com
+DTSTAMP:20260902T140221Z
 DTSTART:20260808
 DTEND:20260809
-LOCATION:Vila Chã\,  Fornos de Algodres Vila Chã\,  Fornos de Algodres
+LOCATION:Vila Chã\,   Fornos de Algodres Vila Chã\,   Fornos de Algodres
 SUMMARY:Vila Chã Kids Trail 2026
 DESCRIPTION:O III Vila Chã Kids Trail é uma prova de trail running dedica
  da exclusivamente aos escalões jovens e infantis. Faz parte do evento Vila

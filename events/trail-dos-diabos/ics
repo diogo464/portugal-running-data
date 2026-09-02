@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c9b2ff2
-DTSTAMP:20260201T000113Z
+UID:48011-0@www.portugalrunning.com
+DTSTAMP:20260902T140151Z
 DTSTART:20260221
 DTEND:20260222
-LOCATION:Vinhais\,  Bragança Vinhais\,  Bragança
+LOCATION:Vinhais\,   Bragança Vinhais\,   Bragança
 SUMMARY:Trail dos Diabos 2026
 DESCRIPTION:Terá lugar dia 21 de fevereiro de 2026 a 7ª edição do Trail
   dos Diabos promovido pela Câmara Municipal de Vinhais\,  Junta de Fregues

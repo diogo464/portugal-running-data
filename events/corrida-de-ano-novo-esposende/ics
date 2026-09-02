@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:696ad12641a5d
-DTSTAMP:20260117T000038Z
+UID:39324-0@www.portugalrunning.com
+DTSTAMP:20260902T135935Z
 DTSTART:20260117
 DTEND:20260118
-LOCATION:Esposende\,  Braga Esposende\,  Braga
+LOCATION:Esposende\,   Braga Esposende\,   Braga
 SUMMARY:Corrida de Ano Novo Esposende 2026
 DESCRIPTION:A Câmara Municipal de Esposende vai organizar no dia 17 de jan
  eiro a VIII Corrida de Ano Novo. O programa é constituído pela Kids Run d

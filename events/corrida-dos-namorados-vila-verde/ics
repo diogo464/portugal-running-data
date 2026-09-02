@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c806b9f
-DTSTAMP:20260201T000112Z
+UID:44004-0@www.portugalrunning.com
+DTSTAMP:20260902T135946Z
 DTSTART:20260215T062100Z
 DTEND:20260215T235900Z
-LOCATION:Vila Verde\,  Braga Vila Verde\,  Braga
+LOCATION:Vila Verde\,   Braga Vila Verde\,   Braga
 SUMMARY:Corrida dos Namorados - Vila Verde - 2026
 DESCRIPTION:A Corrida dos Namorados inclui as seguintes provas: Corrida\,  
  com cerca de 5km\,  para participantes nascidos até 2010; Caminhada\,  com

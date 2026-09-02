@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b09774d282
-DTSTAMP:20260129T071711Z
+UID:47444-0@www.portugalrunning.com
+DTSTAMP:20260902T140008Z
 DTSTART:20260328
 DTEND:20260329
-LOCATION:Ilha de São Miguel\,  Açores Ilha de São Miguel\,  Açores
+LOCATION:Ilha de São Miguel\,   Açores Ilha de São Miguel\,   Açores
 SUMMARY:Desafio Vertical 0/947 2026
 DESCRIPTION:O Desafio Vertical 0/947 é constituído por três provas de ca
  rácter competitivo\, nomeadamente\,  o DV Trail\,  o DV Trail Sprint e o D

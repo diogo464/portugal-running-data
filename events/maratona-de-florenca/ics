@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:694738bcc6bfb
-DTSTAMP:20251221T000100Z
-DTSTART:20261129T124400Z
+UID:47350-0@www.portugalrunning.com
+DTSTAMP:20260902T140044Z
+DTSTART:20261129T090000Z
 DTEND:20261129T124400Z
-LOCATION:Florença\,  Itália Florença\,  Itália
+LOCATION:Florença\,   Itália Florença\,   Itália
 SUMMARY:Maratona de Florença 2026
-DESCRIPTION:Florença é\,  essencialmente\,  uma maratona através de um m
- useu a céu aberto. O percurso serpenteia pelas ruas estreitas e praças re
- nascentistas da cidade\,  passando pela Piazza del Duomo e atravessando a i
- cónica Ponte Vecchio. Correr aqui é aliar o desafio físico à contempla�
- �ão artística\,  num traçado maioritariamente plano e rápido.[..]\nhttp
- s://www.portugalrunning.com/eventos/maratona-de-florenca/
+DESCRIPTION:Sobre o Maratona de Florença 2026O Maratona de Florença 2026 
+ realiza-se no dia 29 de Novembro de 2026 (Domingo)\,  em Florença (Floren�
+ �a\,  distrito de Florença). Trata-se de um evento desportivo emblemático
+  da região\,  reunindo centenas de participantes entre atletas federados\,
+   amadores e entusiastas do desporto ao ar livre\,  promovendo o[..]\nhttps
+ ://www.portugalrunning.com/eventos/maratona-de-florenca/
 URL:https://www.portugalrunning.com/eventos/maratona-de-florenca/
 END:VEVENT
 END:VCALENDAR

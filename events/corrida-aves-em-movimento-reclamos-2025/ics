@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68a11ba257e71
-DTSTAMP:20250817T000034Z
+UID:42219-0@www.portugalrunning.com
+DTSTAMP:20260902T135918Z
 DTSTART:20251026
 DTEND:20251027
-LOCATION:Santo Tirso\,  Porto Santo Tirso\,  Porto
+LOCATION:Santo Tirso\,   Porto Santo Tirso\,   Porto
 SUMMARY:Corrida Aves em Movimento Reclamos 2025
 DESCRIPTION:A Corrida Aves em Movimento Casa dos Reclamos 2025 é organizad
  a pela AMCHR - Associação de Moradores do Complexo Habitacional de Ringe\

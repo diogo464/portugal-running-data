@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a76c603b6019
-DTSTAMP:20260808T060035Z
+UID:47353-0@www.portugalrunning.com
+DTSTAMP:20260902T140045Z
 DTSTART:20261025T125800Z
 DTEND:20261025T235900Z
-LOCATION:Frankfurt\,  Alemanha Frankfurt\,  Alemanha
+LOCATION:Frankfurt\,   Alemanha Frankfurt\,   Alemanha
 SUMMARY:Maratona de Frankfurt 2026
 DESCRIPTION:A Maratona de Frankfurt\,  agendada para 25 de outubro de 2026 
  em Frankfurt am Main\,  desafia os participantes ao longo de 42\, 195 km nu

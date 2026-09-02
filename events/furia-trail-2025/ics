@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:690d36d101d99
-DTSTAMP:20251107T000121Z
+UID:42101-0@www.portugalrunning.com
+DTSTAMP:20260902T140004Z
 DTSTART:20251108T074800Z
 DTEND:20251108T235900Z
-LOCATION:Freixianda\,  Ourém Freixianda\,  Ourém
+LOCATION:Freixianda\,   Ourém Freixianda\,   Ourém
 SUMMARY:Fúria Trail 2025
 DESCRIPTION:O 2º Fúria Trail\,  sob organização da Associação Cultu
  ral e Recreativa Vale do Nabão (ACRVN)\,  pretende afirmar-se como uma pro

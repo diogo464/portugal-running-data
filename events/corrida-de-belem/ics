@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a01707d552f0
-DTSTAMP:20260511T060029Z
+UID:48469-0@www.portugalrunning.com
+DTSTAMP:20260902T135936Z
 DTSTART:20260510
 DTEND:20260511
-LOCATION:Belém\,  Lisboa Belém\,  Lisboa
+LOCATION:Belém\,   Lisboa Belém\,   Lisboa
 SUMMARY:Corrida de Belém 2026
 DESCRIPTION:Um encontro com a história e uma corrida com passagem pelos ma
  is belos monumentos históricos da cidade de Lisboa. Belém\,  batizado com

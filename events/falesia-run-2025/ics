@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c8b31fad
-DTSTAMP:20250720T222411Z
+UID:40656-0@www.portugalrunning.com
+DTSTAMP:20260902T140000Z
 DTSTART:20250308
 DTEND:20250309
-LOCATION:Albufeira\,  Faro Albufeira\,  Faro
+LOCATION:Albufeira\,   Faro Albufeira\,   Faro
 SUMMARY:Falésia Run 2025
 DESCRIPTION:Numa co-organizacao da Free Challenge\,  AP Hotels & Resorts\, 
   realiza-se no dia 08 de Marco de 2025\,  a FALESIA RUN. Com inicio agendad

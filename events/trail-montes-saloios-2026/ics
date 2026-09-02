@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a739e3824556
-DTSTAMP:20260805T203400Z
+UID:56876-0@www.portugalrunning.com
+DTSTAMP:20260902T140155Z
 DTSTART:20260215
 DTEND:20260216
-LOCATION:Covas de Ferro\,  Sintra Covas de Ferro\,  Sintra
+LOCATION:Covas de Ferro\,   Sintra Covas de Ferro\,   Sintra
 SUMMARY:Trail Montes Saloios 2026
 DESCRIPTION:O XI TRAIL MONTES SALOIOS é uma prova do MOTOCLUBE TT MONTES S
  ALOIOS e conta\,  na sua organização\,  com o apoio da Associação FAZ-T

@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a73c0c212a26
-DTSTAMP:20260805T230122Z
+UID:55240-0@www.portugalrunning.com
+DTSTAMP:20260902T140228Z
 DTSTART:20260824T132000Z
 DTEND:20260824T235900Z
-LOCATION:Chamonix\,  França Chamonix\,  França
+LOCATION:Chamonix\,   França Chamonix\,   França
 SUMMARY:UTMB Mont-Blanc 2026
-DESCRIPTION:A mítica prova rainha das Dacia UTMB Mont-Blanc realiza-se ent
- re 24 e 30 de agosto de 2026 com partida em Chamonix\,  convidando os ultra
- maratonistas a enfrentar a monumental volta ao maciço do Monte Branco com 
- 171 km e 9.900 metros de desnível positivo em trilhos alpinos\,  pedregoso
- s e terra batida.[..]\nhttps://www.portugalrunning.com/eventos/utmb-mont-bl
- anc/
+DESCRIPTION:Sobre a UTMB Mont-Blanc 2026 O UTMB Mont-Blanc é a mítica fin
+ al mundial do circuito Dacia UTMB World Series\,  reunindo os melhores atle
+ tas de Trail Running do planeta à volta do maciço do Mont-Blanc. Planeia 
+ a tua corrida com a nossa Calculadora de Pace e explora o calendário de co
+ rridas[..]\nhttps://www.portugalrunning.com/eventos/utmb-mont-blanc/
 URL:https://www.portugalrunning.com/eventos/utmb-mont-blanc/
 END:VEVENT
 END:VCALENDAR

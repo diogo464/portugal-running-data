@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c3f32375
-DTSTAMP:20250720T222255Z
+UID:40317-0@www.portugalrunning.com
+DTSTAMP:20260902T135925Z
 DTSTART:20250504
 DTEND:20250505
-LOCATION:Parque Ribeirinho do Oriente\,  Lisboa Parque Ribeirinho do Oriente\,  Lisboa
+LOCATION:Parque Ribeirinho do Oriente\,   Lisboa Parque Ribeirinho do Oriente\,   Lisboa
 SUMMARY:Corrida da Mãe 2025
 DESCRIPTION:Está a chegar a 3ª edição da corrida da mãe\,  um evento d
  e homenagem a todas as mães! Com partida e chegada no Parque Ribeirinho do

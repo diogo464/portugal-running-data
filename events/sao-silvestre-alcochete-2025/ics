@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:693dfe353afc9
-DTSTAMP:20251214T000053Z
+UID:45984-0@www.portugalrunning.com
+DTSTAMP:20260902T140108Z
 DTSTART:20251213
 DTEND:20251214
-LOCATION:Alcochete\,  Setúbal Alcochete\,  Setúbal
+LOCATION:Alcochete\,   Setúbal Alcochete\,   Setúbal
 SUMMARY:Corrida São Silvestre Alcochete 2025
 DESCRIPTION:Resultados 2025 Esta iniciativa é organizada pela Câmara Muni
  cipal de Alcochete. A 5ª Corrida e Caminhada São Silvestre de Alcochete s

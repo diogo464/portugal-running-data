@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6cedc3cda
-DTSTAMP:20250720T222549Z
+UID:41043-0@www.portugalrunning.com
+DTSTAMP:20260902T140051Z
 DTSTART:20250501
 DTEND:20250502
-LOCATION:Gouveia\,  Guarda Gouveia\,  Guarda
+LOCATION:Gouveia\,   Guarda Gouveia\,   Guarda
 SUMMARY:Montes de Sensações 2025
 DESCRIPTION:A Junta de Freguesia de Gouveia irá realizar a 4ª edição do
   evento “Montes de Sensações”\,  que este ano consistirá numa caminh

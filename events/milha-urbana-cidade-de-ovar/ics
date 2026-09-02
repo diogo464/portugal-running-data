@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dcd881a
-DTSTAMP:20260315T100724Z
+UID:49819-0@www.portugalrunning.com
+DTSTAMP:20260902T140051Z
 DTSTART:20260509
 DTEND:20260510
-LOCATION:Ovar\,  Aveiro Ovar\,  Aveiro
+LOCATION:Ovar\,   Aveiro Ovar\,   Aveiro
 SUMMARY:Milha Urbana Cidade de Ovar 2026
 DESCRIPTION:A 22ª Milha Urbana Cidade de Ovar realiza-se a partir do iníc
  io da tarde com partida e chegada na Alameda do Poder Local Cidade de Ovar\

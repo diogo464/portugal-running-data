@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dfb88c7
-DTSTAMP:20260315T100727Z
+UID:47952-0@www.portugalrunning.com
+DTSTAMP:20260902T140205Z
 DTSTART:20260426
 DTEND:20260427
-LOCATION:Moita\,  Setúbal Moita\,  Setúbal
+LOCATION:Moita\,   Setúbal Moita\,   Setúbal
 SUMMARY:Trilhos da Boa Viagem 2026
 DESCRIPTION:A organização desta prova é da responsabilidade do Grupo Peg
  ada Ribeirinha\,  em parceria com as Juntas de Freguesias da Moita e Alhos 

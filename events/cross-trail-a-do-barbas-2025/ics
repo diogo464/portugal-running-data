@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:689bd5ae23b87
-DTSTAMP:20250813T000046Z
+UID:43880-0@www.portugalrunning.com
+DTSTAMP:20260902T140001Z
 DTSTART:20251005
 DTEND:20251006
-LOCATION:Maceira\,  Leiria Maceira\,  Leiria
+LOCATION:Maceira\,   Leiria Maceira\,   Leiria
 SUMMARY:Cross Trail A-do-Barbas 2025
 DESCRIPTION:O&nbsp;Centro Popular e Recreativo de A-do-Barbas&nbsp;em co-or
  ganização da&nbsp;ADAL\,  com o apoio da&nbsp;Câmara Municipal de Leiria

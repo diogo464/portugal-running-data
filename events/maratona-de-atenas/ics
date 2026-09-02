@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a001efd7ba5f
-DTSTAMP:20260510T060029Z
-DTSTART:20261011T051100Z
-DTEND:20261011T235900Z
-LOCATION:Atenas\,  Grécia Atenas\,  Grécia
-SUMMARY:Maratona de Atenas 2026
-DESCRIPTION:Na maratona de Atenas o percurso recria o trajeto original do s
- oldado Fidípides\,  começando na cidade de Maratona e terminando em Atena
- s. É considerada uma das maratonas de estrada mais difíceis do mundo\,  d
- evido a uma subida contínua e exigente que se estende sensivelmente do qui
- lómetro 10 ao 31\,  testando[..]\nhttps://www.portugalrunning.com/eventos/
- maratona-de-atenas/
+UID:47299-0@www.portugalrunning.com
+DTSTAMP:20260902T140034Z
+DTSTART:20261108T083000Z
+DTEND:20261108T083000Z
+LOCATION:Atenas\,   Grécia Atenas\,   Grécia
+SUMMARY:43ª Maratona de Atenas Autêntica 2026
+DESCRIPTION:Sobre A 43ª Maratona de Atenas Autêntica 2026A 43ª Maratona 
+ de Atenas Autêntica 2026 realiza-se no dia 8 de Novembro de 2026 (Domingo)
+ \,  em Maratona / Atenas\,  Grécia (Atenas\,  Grécia). O programa oficial
+  acolhe atletas ao longo dos percursos desenhados no concelho de Atenas.Com
+  partidas agendadas a partir das 08:30\, [..]\nhttps://www.portugalrunning.
+ com/eventos/maratona-de-atenas/
 URL:https://www.portugalrunning.com/eventos/maratona-de-atenas/
 END:VEVENT
 END:VCALENDAR

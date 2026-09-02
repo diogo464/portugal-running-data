@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6907f0d135c29
-DTSTAMP:20251103T000121Z
+UID:46222-0@www.portugalrunning.com
+DTSTAMP:20260902T140118Z
 DTSTART:20251213
 DTEND:20251214
-LOCATION:Constância\,  Santarém Constância\,  Santarém
+LOCATION:Constância\,   Santarém Constância\,   Santarém
 SUMMARY:São Silvestre Constância 2025
 DESCRIPTION:A Brigada Mecanizada (BrigMec) e a Câmara Municipal de Constâ
  ncia (CMC organizam\,  a 10ª Corrida São Silvestre Solidária (Constânci

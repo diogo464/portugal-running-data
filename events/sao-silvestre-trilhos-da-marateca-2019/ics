@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697e97c907423
-DTSTAMP:20260201T000113Z
+UID:309-0@www.portugalrunning.com
+DTSTAMP:20260902T140116Z
 DTSTART:20191222
 DTEND:20191223
-LOCATION:Marateca Marateca\,  Setúbal
+LOCATION:Marateca Marateca\,   Setúbal
 SUMMARY:São Silvestre Trilhos da Marateca
 DESCRIPTION:DATA / HORA / LOCAL 22 Dezembro – Marateca –  09:30 horas
   DISTÂNCIA E PERCURSO Existirá nesta data uma corrida na extensão de 15k

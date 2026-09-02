@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:62806-0@www.portugalrunning.com
+DTSTAMP:20260902T111404Z
+DTSTART:20261122
+DTEND:20261123
+LOCATION:Ponta do Sol\,   Madeira Ponta do Sol\,   Madeira
+SUMMARY:Adn Race Ponta do Sol 2026
+DESCRIPTION:Sobre O Adn Race Ponta do Sol 2026A ADN Race Ponta do Sol 2026 
+ realiza-se no dia 22 de Novembro de 2026 (Domingo)\,  no concelho da Ponta 
+ do Sol\,  na soalheira costa sul da Ilha da Madeira. Organizada pela Associ
+ ação Desportiva da Natureza (ADN Ponta do Sol) em parceria com[..]\nhttps
+ ://www.portugalrunning.com/eventos/adn-race-ponta-do-sol/
+URL:https://www.portugalrunning.com/eventos/adn-race-ponta-do-sol/
+END:VEVENT
+END:VCALENDAR

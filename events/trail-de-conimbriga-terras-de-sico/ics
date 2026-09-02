@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a13e57d7e604
-DTSTAMP:20260525T060029Z
+UID:41802-0@www.portugalrunning.com
+DTSTAMP:20260902T140138Z
 DTSTART:20260619
 DTEND:20260620
-LOCATION:Condeixa\,  Coimbra Condeixa\,  Coimbra
+LOCATION:Condeixa\,   Coimbra Condeixa\,   Coimbra
 SUMMARY:Trail de Conímbriga 2026
 DESCRIPTION:O&nbsp;Trail de Conímbriga Terras de Sicó&nbsp;é um evento d
  e Trail Running\,  que decorre nos Concelhos de Condeixa a Nova\,  Penela\,

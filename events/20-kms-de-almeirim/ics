@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a73ba8d67e08
-DTSTAMP:20260805T223453Z
+UID:51770-0@www.portugalrunning.com
+DTSTAMP:20260902T135859Z
 DTSTART:20261025
 DTEND:20261026
-LOCATION:Almeirim\,  Santarém Almeirim\,  Santarém
+LOCATION:Almeirim\,   Santarém Almeirim\,   Santarém
 SUMMARY:20 Kms de Almeirim 2026
-DESCRIPTION:A 38ª edição dos 20 Kms de Almeirim realiza-se no dia 25 de 
- outubro de 2026 no coração do Ribatejo\,  reunindo atletas para a clássi
- ca prova de 20 km\,  uma corrida de 10 km e uma caminhada de 5 km em piso i
- ntegral de asfalto urbano. O percurso plano favorece[..]\nhttps://www.portu
- galrunning.com/eventos/20-kms-de-almeirim/
+DESCRIPTION:Sobre O 20 Kms de Almeirim 2026Os 20 Kms de Almeirim 2026 (39.�
+ � edição – Rota da Sopa da Pedra) realizam-se no dia 25 de Outubro de 2
+ 026 (Domingo)\,  na emblemática cidade de Almeirim\,  no coração do Riba
+ tejo (distrito de Santarém). É uma das clássicas mais prestigiadas e con
+ corridas do[..]\nhttps://www.portugalrunning.com/eventos/20-kms-de-almeirim
+ /
 URL:https://www.portugalrunning.com/eventos/20-kms-de-almeirim/
 END:VEVENT
 END:VCALENDAR

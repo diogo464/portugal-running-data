@@ -1,21 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a62ff9993aa9
-DTSTAMP:20260724T060057Z
+UID:46611-0@www.portugalrunning.com
+DTSTAMP:20260902T135944Z
 DTSTART:20270131
 DTEND:20270201
-LOCATION:Sintra\,  Lisboa Sintra\,  Lisboa
+LOCATION:Sintra\,   Lisboa Sintra\,   Lisboa
 SUMMARY:Corrida Fim da Europa 2027
-DESCRIPTION:A Corrida Fim da Europa é uma das provas de estrada mais emble
- máticas de Portugal\,  ligando o imponente Cabo da Roca\,  o ponto mais oc
- idental da Europa continental\,  à deslumbrante Praia do Guincho. Com um p
- ercurso de cerca de 16 km através do Parque Natural de Sintra-Cascais\,  e
- sta corrida distingue-se[..]\nhttps://www.portugalrunning.com/eventos/corri
- da-fim-da-europa/
+DESCRIPTION:Sobre A Corrida Fim da Europa 2027A Corrida Fim da Europa 2027 
+ é uma das provas de atletismo de estrada mais lendárias de Portugal\,  ag
+ endada para 31 de Janeiro de 2027 no concelho de Sintra. Com ponto de parti
+ da marcado junto à emblemática Volta do Duche e à Fonte Mourisca[..]\nht
+ tps://www.portugalrunning.com/eventos/corrida-fim-da-europa/
 URL:https://www.portugalrunning.com/eventos/corrida-fim-da-europa/
 END:VEVENT
 END:VCALENDAR

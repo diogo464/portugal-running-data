@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a0ff145b9adc
-DTSTAMP:20260522T060141Z
+UID:50705-0@www.portugalrunning.com
+DTSTAMP:20260902T140210Z
 DTSTART:20260614
 DTEND:20260615
-LOCATION:Pegões\,  Setúbal Pegões\,  Setúbal
+LOCATION:Pegões\,   Setúbal Pegões\,   Setúbal
 SUMMARY:Trilhos da Malaposta 2026
 DESCRIPTION:Inserido na comemoração do seu aniversário a Associação pa
  ra a Formação e Desenvolvimento Desportivo em protocolo com a Câmara Mun

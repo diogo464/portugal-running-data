@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69c66ed8c8010
-DTSTAMP:20260327T114944Z
+UID:50081-0@www.portugalrunning.com
+DTSTAMP:20260902T135908Z
 DTSTART:20260412T082100Z
 DTEND:20260412T235900Z
-LOCATION:Mafra\,  Lisboa Mafra\,  Lisboa
+LOCATION:Mafra\,   Lisboa Mafra\,   Lisboa
 SUMMARY:Campeonato Nacional OCR 100 2026
 DESCRIPTION:O Campeonato Nacional OCR 100 2026 está agendado para o dia 12
   de abril de 2026\,  realizando-se em Mafra (Distrito de Lisboa). Esta comp

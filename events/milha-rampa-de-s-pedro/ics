@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684d98e9a0
-DTSTAMP:20260315T100721Z
+UID:49884-0@www.portugalrunning.com
+DTSTAMP:20260902T140050Z
 DTSTART:20260418T182100Z
 DTEND:20260418T235900Z
-LOCATION:Barreira\,  Leiria Barreira\,  Leiria
+LOCATION:Barreira\,   Leiria Barreira\,   Leiria
 SUMMARY:Milha - Rampa de S.Pedro 2026
 DESCRIPTION:O&nbsp;Clube de Atletismo da Barreira&nbsp;organiza no dia&nbsp
  ;18 de Abril de 2026&nbsp;a&nbsp;3ª Milha - Rampa de “S.Pedro” Se a or

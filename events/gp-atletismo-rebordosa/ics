@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69b684dc5cbd6
-DTSTAMP:20260315T100724Z
+UID:49614-0@www.portugalrunning.com
+DTSTAMP:20260902T140026Z
 DTSTART:20260502
 DTEND:20260503
-LOCATION:Rebordosa\,  Paredes Rebordosa\,  Paredes
+LOCATION:Rebordosa\,   Paredes Rebordosa\,   Paredes
 SUMMARY:GP Atletismo Rebordosa 2026
 DESCRIPTION:O Grupo Desportivo da Portela\,  com o apoio da Câmara Municip
  al de Paredes\,  da Junta de Freguesia de Rebordosa e da Associação de At

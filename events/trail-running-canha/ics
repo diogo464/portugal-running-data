@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:699b98b2cd74d
-DTSTAMP:20260223T000050Z
+UID:48051-0@www.portugalrunning.com
+DTSTAMP:20260902T140205Z
 DTSTART:20260411
 DTEND:20260412
-LOCATION:Canha\,  Setúbal Canha\,  Setúbal
+LOCATION:Canha\,   Setúbal Canha\,   Setúbal
 SUMMARY:Trail Running Canha 2026
 DESCRIPTION:Com o objetivo de promover e dinamizar a vila de Canha\,  com o
   intuito de promover o convívio\,  o bem estar e a prática de atividade f

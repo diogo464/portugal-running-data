@@ -1,22 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6a6d8b97c1d52
-DTSTAMP:20260801T060055Z
-DTSTART:20261107T132300Z
+UID:55231-0@www.portugalrunning.com
+DTSTAMP:20260902T140021Z
+DTSTART:20261107T090000Z
 DTEND:20261107T235900Z
-LOCATION:Nazaré\,  Leiria Nazaré\,  Leiria
+LOCATION:Nazaré\,   Leiria Nazaré\,   Leiria
 SUMMARY:Ladeira on Fire 2026
-DESCRIPTION:A&nbsp;Associação Humanitária dos Bombeiros Voluntários da 
- Nazaré&nbsp;é a entidade organizadora do evento&nbsp;LADEIRA ON FIRE 2026
- . Competição A competição está aberta a Bombeiros Voluntários\,  Sapa
- dores e Municipais. Participantes Número máximo de participantes: 200. In
- scrições 10 Capacetes – Inscrição oficial. 20 Capacetes – T-shirt o
- ficial inscrição. 25 Capacetes – Inscrição premium\,  (com[..]\nhttps
- ://www.portugalrunning.com/eventos/ladeira-on-fire/
+DESCRIPTION:Sobre o Ladeira on Fire 2026O Ladeira on Fire 2026 realiza-se n
+ o dia 7 de Novembro de 2026 (Sábado)\,  em Portugal (Portugal\,  distrito 
+ de Portugal). Trata-se de um evento desportivo emblemático da região\,  r
+ eunindo centenas de participantes entre atletas federados\,  amadores e ent
+ usiastas do desporto ao ar livre\,  promovendo o[..]\nhttps://www.portugalr
+ unning.com/eventos/ladeira-on-fire/
 URL:https://www.portugalrunning.com/eventos/ladeira-on-fire/
 END:VEVENT
 END:VCALENDAR

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68ed92af71f63
-DTSTAMP:20251014T000047Z
+UID:44896-0@www.portugalrunning.com
+DTSTAMP:20260902T140218Z
 DTSTART:20251201
 DTEND:20251202
-LOCATION:Vidigueira\,  Beja Vidigueira\,  Beja
+LOCATION:Vidigueira\,   Beja Vidigueira\,   Beja
 SUMMARY:Trilho do Vinho de Talha 2025
 DESCRIPTION:A Unidade de Desporto da Câmara Municipal de Vidigueira em col
  aboração com a Junta de Freguesia de Vila de Frades e com o apoio da Asso

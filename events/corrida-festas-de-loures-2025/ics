@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c60c2cf9
-DTSTAMP:20250720T222328Z
+UID:42398-0@www.portugalrunning.com
+DTSTAMP:20260902T135943Z
 DTSTART:20250719
 DTEND:20250720
-LOCATION:Loures\,  Lisboa Loures\,  Lisboa
+LOCATION:Loures\,   Lisboa Loures\,   Lisboa
 SUMMARY:Corrida Festas de Loures 2025
 DESCRIPTION:A&nbsp;Câmara Municipal de Loures\,  com a colaboração da Po
  lícia Municipal de Loures\,  PSP\,  Bombeiros Voluntários de Loures\,  Mo

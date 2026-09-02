@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6997a41cabcf7
-DTSTAMP:20260220T000028Z
+UID:49619-0@www.portugalrunning.com
+DTSTAMP:20260902T135929Z
 DTSTART:20260531
 DTEND:20260601
-LOCATION:Coruche\,  Santarém Coruche\,  Santarém
+LOCATION:Coruche\,   Santarém Coruche\,   Santarém
 SUMMARY:Corrida das Pontes 2026
 DESCRIPTION:A 20.ª Corrida das Pontes e a 20.ª Corrida da Família vai-se
   realizar no dia 31 de maio de 2026\,  no concelho de Coruche. O evento é 

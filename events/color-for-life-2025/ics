@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c2e61854
-DTSTAMP:20250720T222238Z
+UID:42380-0@www.portugalrunning.com
+DTSTAMP:20260902T135922Z
 DTSTART:20250727T100500Z
 DTEND:20250727T100500Z
-LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
+LOCATION:Vila do Conde\,   Porto Vila do Conde\,   Porto
 SUMMARY:Color For Life 2025
 DESCRIPTION:A Color for Life é organizada pela Cruz Vermelha Portuguesa �
  � Delegação de Vila do Conde\,  contando com o apoio da Câmara Municipal
