@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:57317-0@www.portugalrunning.com
-DTSTAMP:20260902T140026Z
-DTSTART:20260912T163000Z
-DTEND:20260912T235900Z
+DTSTAMP:20260903T060139Z
+DTSTART:20260912T153000Z
+DTEND:20260912T153000Z
 LOCATION:São Francisco da Serra\,   Setúbal São Francisco da Serra \,   Setúbal
-SUMMARY:Grande Prémio Atletismo N.ª Sr.ª do Livramento 2026
-DESCRIPTION:Sobre O Grande Prémio Atletismo N.ª Sr.ª do Livramento 2026O
-  14.º Grande Prémio de Atletismo N.ª Sr.ª do Livramento 2026 realiza-se
-  no final da tarde de 12 de Setembro de 2026 (Sábado)\,  na pitoresca loca
- lidade de São Francisco da Serra (concelho de Santiago do Cacém\,  distri
- to de Setúbal). Organizado pela[..]\nhttps://www.portugalrunning.com/event
- os/grande-premio-atletismo-n-a-sr-a-livramento/
+SUMMARY:14º GP de Atletismo N.ª Sr.ª do Livramento 2026
+DESCRIPTION:Sobre 14º GP de Atletismo N.ª Sr.ª do Livramento 2026O 14º 
+ Grande Prémio de Atletismo N.ª Sr.ª do Livramento 2026 decorre no sábad
+ o\,  12 de setembro de 2026\,  na pitoresca aldeia de São Francisco da Ser
+ ra\,  no concelho de Santiago do Cacém. Organizado pelo Grupo Desportivo e
+  Recreativo de São[..]\nhttps://www.portugalrunning.com/eventos/grande-pre
+ mio-atletismo-n-a-sr-a-livramento/
 URL:https://www.portugalrunning.com/eventos/grande-premio-atletismo-n-a-sr-a-livramento/
 END:VEVENT
 END:VCALENDAR

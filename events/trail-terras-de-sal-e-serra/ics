@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50202-0@www.portugalrunning.com
-DTSTAMP:20260902T140214Z
+DTSTAMP:20260903T060200Z
 DTSTART:20261115
 DTEND:20261116
 LOCATION:Rio Maior\,   Santarém Rio Maior\,   Santarém
 SUMMARY:Trail Terras de Sal e Serra 2026
-DESCRIPTION:Sobre O Trail Terras de Sal e Serra 2026O Trail Terras de Sal e
-  Serra 2026 realiza-se no dia 15 de Novembro de 2026 (Domingo)\,  tendo com
- o cenário de partida e meta as históricas Marinhas de Sal de Rio Maior\, 
-  no concelho de Rio Maior (distrito de Santarém). Organizado pelo[..]\nhtt
- ps://www.portugalrunning.com/eventos/trail-terras-de-sal-e-serra/
+DESCRIPTION:Sobre Trail Terras de Sal e Serra 2026O Trail Terras de Sal e S
+ erra 2026 realiza-se no domingo\,  15 de novembro de 2026\,  no concelho de
+  Rio Maior\,  distrito de Santarém. Promovido pela Comissão Organizadora 
+ com o apoio da Câmara Municipal de Rio Maior e a plataforma Recorde Pessoa
+ l\,  o[..]\nhttps://www.portugalrunning.com/eventos/trail-terras-de-sal-e-s
+ erra/
 URL:https://www.portugalrunning.com/eventos/trail-terras-de-sal-e-serra/
 END:VEVENT
 END:VCALENDAR

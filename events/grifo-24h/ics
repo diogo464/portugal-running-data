@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51866-0@www.portugalrunning.com
-DTSTAMP:20260902T140026Z
-DTSTART:20261114T090000Z
-DTEND:20261114T235900Z
+DTSTAMP:20260903T060138Z
+DTSTART:20261114T110000Z
+DTEND:20261114T110000Z
 LOCATION:Pontinha\,   Lisboa Pontinha\,   Lisboa
 SUMMARY:Grifo 24h 2026
-DESCRIPTION:Sobre o Grifo 24h 2026O Grifo 24h 2026 realiza-se no dia 14 de 
- Novembro de 2026 (Sábado)\,  em Portugal (Portugal\,  distrito de Portugal
- ). Trata-se de um evento desportivo emblemático da região\,  reunindo cen
- tenas de participantes entre atletas federados\,  amadores e entusiastas do
-  desporto ao ar livre\,  promovendo o contacto com[..]\nhttps://www.portuga
- lrunning.com/eventos/grifo-24h/
+DESCRIPTION:Sobre Grifo 24h 2026A III Edição do GRIFO24h 2026 realiza-se 
+ no fim de semana de 14 e 15 de novembro de 2026\,  no interior do Quartel d
+ a Unidade de Intervenção da GNR (Pontinha)\,  em Lisboa. Promovida pela U
+ nidade de Intervenção da Guarda Nacional Republicana em parceria com o Cl
+ ube de[..]\nhttps://www.portugalrunning.com/eventos/grifo-24h/
 URL:https://www.portugalrunning.com/eventos/grifo-24h/
 END:VEVENT
 END:VCALENDAR

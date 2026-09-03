@@ -5,17 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:57509-0@www.portugalrunning.com
-DTSTAMP:20260902T140125Z
-DTSTART:20261025T111400Z
-DTEND:20261025T235900Z
+DTSTAMP:20260903T060151Z
+DTSTART:20261025T093000Z
+DTEND:20261025T093000Z
 LOCATION:Alcoentre\,   Azambuja Alcoentre\,   Azambuja
 SUMMARY:Trail Bombeiros Voluntários Alcoentre 2026
-DESCRIPTION:O Trail dos Bombeiros Voluntários de Alcoentre desafia os atle
- tas no dia 25 de outubro de 2026 a percorrer as encostas e caminhos rurais 
- de Alcoentre\,  divididos entre distâncias de Trail Longo\,  Trail Curto e
-  Caminhada em piso de terra batida e estradões. A gestão de ritmo exige a
- tenção constante[..]\nhttps://www.portugalrunning.com/eventos/trail-bombe
- iros-voluntarios-alcoentre/
+DESCRIPTION:Sobre Trail Bombeiros Voluntários Alcoentre 2026O Trail Bombei
+ ros Voluntários Alcoentre 2026 (TRAIL BVA) realiza-se na manhã de domingo
+ \,  25 de outubro de 2026\,  na histórica vila de Alcoentre\,  no concelho
+  de Azambuja\,  distrito de Lisboa. Promovida com enorme dedicação pela A
+ ssociação Humanitária de Bombeiros de Alcoentre para angariação de fun
+ dos[..]\nhttps://www.portugalrunning.com/eventos/trail-bombeiros-voluntario
+ s-alcoentre/
 URL:https://www.portugalrunning.com/eventos/trail-bombeiros-voluntarios-alcoentre/
 END:VEVENT
 END:VCALENDAR

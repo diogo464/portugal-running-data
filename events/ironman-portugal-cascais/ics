@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50515-0@www.portugalrunning.com
-DTSTAMP:20260902T140020Z
-DTSTART:20261017T122200Z
-DTEND:20261017T235900Z
+DTSTAMP:20260903T060139Z
+DTSTART:20261017T053000Z
+DTEND:20261017T053000Z
 LOCATION:Cascais\,   Lisboa Cascais\,   Lisboa
 SUMMARY:IRONMAN Portugal Cascais 2026
-DESCRIPTION:Sobre O IRONMAN Portugal Cascais 2026O IRONMAN Portugal Cascais
-  2026 realiza-se no dia 17 de Outubro de 2026 (Sábado)\,  em Cascais Lisbo
- a (Cascais Lisboa\,  distrito de Lisboa). Trata-se de um evento desportivo 
- emblemático da região\,  reunindo centenas de participantes entre atletas
-  federados\,  amadores e entusiastas do desporto ao ar livre\, [..]\nhttps:
- //www.portugalrunning.com/eventos/ironman-portugal-cascais/
+DESCRIPTION:Sobre IRONMAN Portugal Cascais 2026O IRONMAN Portugal Cascais 2
+ 026 realiza-se no dia 17 de Outubro de 2026 na charmosa vila costeira de Ca
+ scais\,  distrito de Lisboa. Considerado um dos eventos de triatlo mais pre
+ stigiados do circuito mundial\,  junta na mesma jornada o IRONMAN Full Dist
+ ance e o IRONMAN 70.3\,  acolhendo[..]\nhttps://www.portugalrunning.com/eve
+ ntos/ironman-portugal-cascais/
 URL:https://www.portugalrunning.com/eventos/ironman-portugal-cascais/
 END:VEVENT
 END:VCALENDAR

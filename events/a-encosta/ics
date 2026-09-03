@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51796-0@www.portugalrunning.com
-DTSTAMP:20260902T135911Z
+DTSTAMP:20260903T060130Z
 DTSTART:20260927
 DTEND:20260928
 LOCATION:Alcobaça\,   Leiria Alcobaça\,   Leiria
 SUMMARY:A Encosta 2026
-DESCRIPTION:Sobre O A Encosta 2026A 4.ª edição do A Encosta 2026 realiza
- -se na manhã de 27 de Setembro de 2026 (Domingo)\,  na histórica cidade d
- e Alcobaça (distrito de Leiria). Organizado pela A.D.R.C. Crossmates com o
-  apoio da Câmara Municipal de Alcobaça\,  o evento destaca-se como um des
- afio dinâmico de trail[..]\nhttps://www.portugalrunning.com/eventos/a-enco
- sta/
+DESCRIPTION:Sobre A Encosta 2026A 4ª edição de A Encosta 2026 decorre no
+  dia 27 de setembro de 2026 na histórica cidade de Alcobaça. Com partida 
+ e chegada no emblemático Castelo de Alcobaça\,  este evento único combin
+ a trail urbano e natureza num percurso de 10 km com obstáculos para duplas
+  e[..]\nhttps://www.portugalrunning.com/eventos/a-encosta/
 URL:https://www.portugalrunning.com/eventos/a-encosta/
 END:VEVENT
 END:VCALENDAR

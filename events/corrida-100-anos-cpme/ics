@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51515-0@www.portugalrunning.com
-DTSTAMP:20260902T135914Z
-DTSTART:20261019T083000Z
-DTEND:20261018T233000Z
+DTSTAMP:20260903T060130Z
+DTSTART:20261018T073000Z
+DTEND:20261018T073000Z
 LOCATION:Rossio\,   Lisboa Rossio\,   Lisboa
 SUMMARY:Corrida 100 anos CPME 2026
-DESCRIPTION:Sobre A Corrida 100 anos CPME 2026A Corrida 100 anos CPME 2026 
- realiza-se no dia 18 de Outubro de 2026 (Domingo)\,  em Rossio Lisboa (Ross
- io Lisboa\,  distrito de Lisboa). Trata-se de um evento desportivo emblemá
- tico da região\,  reunindo centenas de participantes entre atletas federad
- os\,  amadores e entusiastas do desporto ao[..]\nhttps://www.portugalrunnin
- g.com/eventos/corrida-100-anos-cpme/
+DESCRIPTION:Sobre Corrida 100 anos CPME 2026A Corrida 100 anos CPME 2026 re
+ aliza-se no domingo\,  18 de outubro de 2026\,  na emblemática Praça do I
+ mpério em Belém\,  Lisboa. Organizada para comemorar o centenário da Cai
+ xa de Previdência do Ministério da Educação\,  a prova desenrola-se ao 
+ longo da plana e cénica marginal[..]\nhttps://www.portugalrunning.com/even
+ tos/corrida-100-anos-cpme/
 URL:https://www.portugalrunning.com/eventos/corrida-100-anos-cpme/
 END:VEVENT
 END:VCALENDAR

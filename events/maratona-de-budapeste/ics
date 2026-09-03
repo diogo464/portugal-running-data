@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:47217-0@www.portugalrunning.com
-DTSTAMP:20260902T140040Z
-DTSTART:20261011T064100Z
-DTEND:20261011T235900Z
+DTSTAMP:20260903T060143Z
+DTSTART:20261011T070000Z
+DTEND:20261011T070000Z
 LOCATION:Budapeste\,   Hungria Budapeste\,   Hungria
 SUMMARY:Maratona de Budapeste 2026
-DESCRIPTION:A Maratona de Budapeste 2026 leva-nos às ruas planas e majesto
- sas da capital húngara no fim de semana de 10 e 11 de outubro de 2026\,  c
- ulminando na mítica distância de 42\, 195 km em asfalto durante a manhã 
- de domingo. Este percurso citadino oferece uma aderência consistente e uma
-  excelente[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-budapes
- te/
+DESCRIPTION:Sobre Maratona de Budapeste 2026A Maratona de Budapeste 2026 (4
+ 1ª edição da prestigiada SPAR Budapest Marathon) realiza-se no fim de se
+ mana de 10 e 11 de Outubro de 2026\,  na romântica capital da Hungria. Con
+ siderada um verdadeiro festival de atletismo e uma das maratonas mais céni
+ cas de toda a Europa[..]\nhttps://www.portugalrunning.com/eventos/maratona-
+ de-budapeste/
 URL:https://www.portugalrunning.com/eventos/maratona-de-budapeste/
 END:VEVENT
 END:VCALENDAR

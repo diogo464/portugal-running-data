@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51758-0@www.portugalrunning.com
-DTSTAMP:20260902T140220Z
+DTSTAMP:20260903T060203Z
 DTSTART:20261115
 DTEND:20261116
 LOCATION:Ilha do Pico\,   Açores Ilha do Pico\,   Açores
 SUMMARY:VB Trail Run 2026
-DESCRIPTION:Sobre O VB Trail Run 2026O VB Trail Run 2026 (Vila Baleeira Tra
- il Run) realiza-se no dia 15 de Novembro de 2026 (Domingo)\,  nas Lajes do 
- Pico\,  em plena Ilha do Pico\,  na Região Autónoma dos Açores. Organiza
- do pelo Gabinete de Desporto da Câmara Municipal de Lajes do Pico em[..]\n
- https://www.portugalrunning.com/eventos/vb-trail-run/
+DESCRIPTION:Sobre VB Trail Run 2026A 5.ª Edição do Vila Baleeira Trail R
+ un 2026 (VB Trail Run) realiza-se no domingo\,  15 de novembro de 2026\,  n
+ o histórico concelho das Lajes do Pico\,  na deslumbrante Ilha do Pico\,  
+ no arquipélago dos Açores. Promovido pelo Gabinete de Desporto da Câmara
+  Municipal das Lajes[..]\nhttps://www.portugalrunning.com/eventos/vb-trail-
+ run/
 URL:https://www.portugalrunning.com/eventos/vb-trail-run/
 END:VEVENT
 END:VCALENDAR

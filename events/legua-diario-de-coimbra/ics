@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50112-0@www.portugalrunning.com
-DTSTAMP:20260902T140039Z
-DTSTART:20261005T125400Z
-DTEND:20261005T235900Z
+DTSTAMP:20260903T060140Z
+DTSTART:20260704T073000Z
+DTEND:20260704T073000Z
 LOCATION:Coimbra Coimbra
-SUMMARY:Légua Diário de Coimbra 2026
-DESCRIPTION:Sobre a Légua Diário de Coimbra 2026 A 27.ª Légua Diário d
- e Coimbra convida-o a percorrer as artérias emblemáticas do centro histó
- rico\,  com data oficial marcada para 5 de outubro de 2026. Com 5 km de dis
- tância em asfalto citadino\,  o traçado exige uma leitura atenta do piso 
- face às[..]\nhttps://www.portugalrunning.com/eventos/legua-diario-de-coimb
- ra/
+SUMMARY:27ª Légua Diário de Coimbra 2026
+DESCRIPTION:Sobre 27ª Légua Diário de Coimbra 2026A 27ª Légua Diário 
+ de Coimbra 2026 é uma das mais carismáticas e históricas corridas urbana
+ s do país\,  percorrendo as artérias monumentais da cidade dos estudantes
+  em Coimbra (distrito de Coimbra). O evento promove a prática desportiva e
+  o património mundial da UNESCO.Com partida[..]\nhttps://www.portugalrunni
+ ng.com/eventos/legua-diario-de-coimbra/
 URL:https://www.portugalrunning.com/eventos/legua-diario-de-coimbra/
 END:VEVENT
 END:VCALENDAR

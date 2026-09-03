@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50804-0@www.portugalrunning.com
-DTSTAMP:20260902T140011Z
+DTSTAMP:20260903T060138Z
 DTSTART:20270307
 DTEND:20270308
 LOCATION:Lisboa Lisboa
 SUMMARY:EDP Meia Maratona de Lisboa 2027
-DESCRIPTION:SuperHalfs Series • Lisboa Sobre a EDP Meia Maratona de Lisbo
- a 2027 A EDP Meia Maratona de Lisboa 2027 é a prova de 21\, 097 km mais r�
- �pida e emblemática de Portugal\,  reunindo anualmente mais de 30.000 corr
- edores nacionais e internacionais. Pertencente ao prestigiado circuito euro
- peu SuperHalfs Series\,  a corrida proporciona[..]\nhttps://www.portugalrun
- ning.com/eventos/edp-meia-maratona-lisboa/
+DESCRIPTION:Sobre EDP Meia Maratona de Lisboa 2027A 36ª EDP Meia Maratona 
+ de Lisboa 2027 realiza-se no dia 7 de março de 2027 (Domingo)\,  consagran
+ do-se como a meia maratona mais rápida do mundo e a maior festa do atletis
+ mo nacional. Organizada com excelência pelo Maratona Clube de Portugal e c
+ om o[..]\nhttps://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/
 URL:https://www.portugalrunning.com/eventos/edp-meia-maratona-lisboa/
 END:VEVENT
 END:VCALENDAR

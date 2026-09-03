@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:47605-0@www.portugalrunning.com
-DTSTAMP:20260902T140131Z
-DTSTART:20261004T080000Z
-DTEND:20261004T235900Z
+DTSTAMP:20260903T060154Z
+DTSTART:20261004T070000Z
+DTEND:20261004T070000Z
 LOCATION:Jerumelho\,   Mafra Jerumelho\,   Mafra
 SUMMARY:Trail das Vindimas 2026
-DESCRIPTION:Sobre O Trail das Vindimas 2026O Trail das Vindimas 2026 realiz
- a-se no dia 4 de outubro de 2026 (Domingo)\,  em Sede do Clube de Futebol d
- o Jerumelo (Mafra\,  distrito de Lisboa). Trata-se de um evento desportivo 
- emblemático da região\,  reunindo centenas de participantes entre atletas
-  federados\,  amadores e entusiastas do[..]\nhttps://www.portugalrunning.co
- m/eventos/trail-das-vindimas/
+DESCRIPTION:Sobre Trail das Vindimas 2026A 2ª edição do Trail das Vindim
+ as 2026 realiza-se no domingo\,  4 de outubro de 2026\,  na localidade do J
+ erumelo\,  no concelho de Mafra\,  distrito de Lisboa. Celebrando a tradiç
+ ão vinícola e a época das vindimas da região saloia\,  o evento guia os
+  participantes por entre[..]\nhttps://www.portugalrunning.com/eventos/trail
+ -das-vindimas/
 URL:https://www.portugalrunning.com/eventos/trail-das-vindimas/
 END:VEVENT
 END:VCALENDAR

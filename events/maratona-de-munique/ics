@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:57914-0@www.portugalrunning.com
-DTSTAMP:20260902T140031Z
-DTSTART:20261011T141200Z
-DTEND:20261011T141200Z
+DTSTAMP:20260903T060141Z
+DTSTART:20261011T070000Z
+DTEND:20261011T070000Z
 LOCATION:Munique\,   Alemanha Munique\,   Alemanha
 SUMMARY:Maratona de Munique 2026
-DESCRIPTION:Com data marcada para 11 de outubro de 2026 em Munique\,  a ic�
- �nica Maratona de Munique oferece percursos de 42 km\,  21 km e 10 km sobre
-  um firme e veloz tapete de asfalto que atravessa a cidade. O desafio no te
- rreno é pautado por uma inclinação praticamente nula\,  o[..]\nhttps://w
- ww.portugalrunning.com/eventos/maratona-de-munique/
+DESCRIPTION:Sobre Maratona de Munique 2026A Maratona de Munique 2026 (ofici
+ almente MARATHON MÜNCHEN by Brooks) realiza-se no domingo\,  11 de Outubro
+  de 2026\,  na cosmopolita capital da Baviera\,  na Alemanha. Afirmando-se 
+ como uma das mais prestigiadas e cénicas maratonas europeias de outono\,  
+ o evento reúne milhares de corredores internacionais para vivenciar[..]\nh
+ ttps://www.portugalrunning.com/eventos/maratona-de-munique/
 URL:https://www.portugalrunning.com/eventos/maratona-de-munique/
 END:VEVENT
 END:VCALENDAR

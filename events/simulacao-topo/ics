@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:63321-0@www.portugalrunning.com
+DTSTAMP:20260903T060152Z
+DTSTART:20260912T080000Z
+DTEND:20260912T080000Z
+LOCATION:Trofa\,   Porto Trofa\,   Porto
+SUMMARY:Simulação Topo 2026
+DESCRIPTION:Sobre Simulação Topo 2026A Simulação Topo 2026 realiza-se n
+ o dia 12 de setembro de 2026 (Sábado)\,  na Trofa\,  distrito do Porto. Es
+ ta competição desportiva em formato híbrido combina corrida de resistên
+ cia com desafiantes estações de esforço funcional\,  testando a força\,
+   capacidade cardiovascular e trabalho em equipa de todos os atletas.Com[..
+ ]\nhttps://www.portugalrunning.com/eventos/simulacao-topo/
+URL:https://www.portugalrunning.com/eventos/simulacao-topo/
+END:VEVENT
+END:VCALENDAR

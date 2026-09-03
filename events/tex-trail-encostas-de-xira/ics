@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51721-0@www.portugalrunning.com
-DTSTAMP:20260902T140130Z
-DTSTART:20260914
-DTEND:20260915
+DTSTAMP:20260903T060153Z
+DTSTART:20260913
+DTEND:20260914
 LOCATION:Vila Franca de Xira\,   Lisboa Vila Franca de Xira\,   Lisboa
 SUMMARY:TEX – Trail Encostas de Xira 2026
-DESCRIPTION:Sobre O TEX – Trail Encostas de Xira 2026A 5ª edição do TE
- X – Trail Encostas de Xira 2026 realiza-se no dia 13 de Setembro de 2026 
- (Domingo)\,  com ponto de concentração\,  partida e chegada no emblemáti
- co Monumento a Hércules\,  no Sobralinho (concelho de Vila Franca de Xira\
- ,  distrito de[..]\nhttps://www.portugalrunning.com/eventos/tex-trail-encos
- tas-de-xira/
+DESCRIPTION:Sobre TEX – Trail Encostas de Xira 2026O TEX – Trail Encost
+ as de Xira 2026 realiza-se no domingo\,  13 de setembro de 2026\,  no Sobra
+ linho\,  concelho de Vila Franca de Xira. Organizado pela equipa dos Alverc
+ a Urban Runners com apoio da Câmara Municipal de Vila Franca de Xira e da[
+ ..]\nhttps://www.portugalrunning.com/eventos/tex-trail-encostas-de-xira/
 URL:https://www.portugalrunning.com/eventos/tex-trail-encostas-de-xira/
 END:VEVENT
 END:VCALENDAR

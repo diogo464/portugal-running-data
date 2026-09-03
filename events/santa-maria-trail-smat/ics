@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:44443-0@www.portugalrunning.com
-DTSTAMP:20260902T140102Z
+DTSTAMP:20260903T060147Z
 DTSTART:20270131
 DTEND:20270201
 LOCATION:Ilha de Santa Maria\,   Açores Ilha de Santa Maria\,   Açores
-SUMMARY:Santa Maria Trail - Smat 2027
-DESCRIPTION:O “Santa Maria Trail – SMAT” é um evento de Trail Runnin
- g\,  certificado pela ATRP\,  organizado pela Secção de Trail Running da 
- Casa do Povo de São Pedro\,  que percorre trilhos\,  caminhos agrícolas e
-  florestais e linhas de água do concelho de Vila do Porto\,  na Ilha de Sa
- ntaMaria –[..]\nhttps://www.portugalrunning.com/eventos/santa-maria-trail
- -smat/
+SUMMARY:Santa Maria Trail – SMAT 2027
+DESCRIPTION:Sobre Santa Maria Trail – SMAT 2027O Santa Maria Trail – SM
+ AT 2027 realiza-se no domingo\,  31 de Janeiro de 2027\,  na paradisíaca I
+ lha de Santa Maria\,  a mais meridional e soalheira do arquipélago dos Aç
+ ores. Organizado pela Secção de Trail Running da Casa do Povo de São Ped
+ ro com[..]\nhttps://www.portugalrunning.com/eventos/santa-maria-trail-smat/
 URL:https://www.portugalrunning.com/eventos/santa-maria-trail-smat/
 END:VEVENT
 END:VCALENDAR

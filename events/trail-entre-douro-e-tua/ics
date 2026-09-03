@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:48020-0@www.portugalrunning.com
-DTSTAMP:20260902T140155Z
-DTSTART:20260913T080000Z
-DTEND:20260913T235900Z
+DTSTAMP:20260903T060157Z
+DTSTART:20260913T070000Z
+DTEND:20260913T070000Z
 LOCATION:Carrazeda de Ansiães\,   Bragança Carrazeda de Ansiães\,   Bragança
 SUMMARY:Trail entre Douro e Tua 2026
-DESCRIPTION:Sobre O Trail entre Douro e Tua 2026O Trail entre Douro e Tua 2
- 026 realiza-se no dia 13 de Setembro de 2026 (Domingo)\,  no magnífico con
- celho de Carrazeda de Ansiães (distrito de Bragança)\,  com secretariado\
- ,  concentração e chegada no CAECA (Centro de Apoio Empresarial de Carraz
- eda de Ansiães).Com transporte em[..]\nhttps://www.portugalrunning.com/eve
- ntos/trail-entre-douro-e-tua/
+DESCRIPTION:Sobre Trail entre Douro e Tua 2026O Trail entre Douro e Tua 202
+ 6 realiza-se no domingo\,  13 de setembro de 2026\,  no concelho de Carraze
+ da de Ansiães\,  no distrito de Bragança. Promovido pelo Clube Desportivo
+  Entre Douro e Tua com o apoio do Município de Carrazeda de Ansiães e das
+ [..]\nhttps://www.portugalrunning.com/eventos/trail-entre-douro-e-tua/
 URL:https://www.portugalrunning.com/eventos/trail-entre-douro-e-tua/
 END:VEVENT
 END:VCALENDAR

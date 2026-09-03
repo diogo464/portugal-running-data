@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:60525-0@www.portugalrunning.com
-DTSTAMP:20260902T140216Z
-DTSTART:20261023
-DTEND:20261024
+DTSTAMP:20260903T060202Z
+DTSTART:20261025
+DTEND:20261026
 LOCATION:Açores Açores
-SUMMARY:Triangle Adventure by Azores Trail Run 2026
-DESCRIPTION:Sobre O Triangle Adventure by Azores Trail Run 2026O Triangle A
- dventure by Azores Trail Run 2026 realiza-se entre os dias 23 e 25 de Outub
- ro de 2026 (Sexta-feira a Domingo)\,  no deslumbrante cenário do arquipél
- ago das Ilhas do Triângulo (Pico\,  São Jorge e Faial)\,  na Região Aut�
- �noma dos Açores. É[..]\nhttps://www.portugalrunning.com/eventos/triangle
- -adventure-by-azores-trail-run/
+SUMMARY:Azores Triangle Adventure 2026
+DESCRIPTION:Sobre Azores Triangle Adventure 2026O Azores Triangle Adventure
+  2026 realiza-se de 23 a 25 de outubro de 2026\,  percorrendo o místico e 
+ fascinante Triângulo dos Açores — as ilhas do Pico\,  São Jorge e Faia
+ l. Organizada pela conceituada equipa da Azores Trail Run / CIAIA com apoio
+  do Governo Regional[..]\nhttps://www.portugalrunning.com/eventos/triangle-
+ adventure-by-azores-trail-run/
 URL:https://www.portugalrunning.com/eventos/triangle-adventure-by-azores-trail-run/
 END:VEVENT
 END:VCALENDAR

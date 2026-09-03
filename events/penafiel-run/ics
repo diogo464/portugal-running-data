@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51119-0@www.portugalrunning.com
-DTSTAMP:20260902T140057Z
-DTSTART:20260920T083000Z
-DTEND:20260920T235900Z
+DTSTAMP:20260903T060147Z
+DTSTART:20260920T073000Z
+DTEND:20260920T073000Z
 LOCATION:Penafiel\,   Porto Penafiel\,   Porto
 SUMMARY:Penafiel Run 2026
-DESCRIPTION:Sobre o Penafiel Run 2026O Penafiel Run 2026 realiza-se no dia 
- 20 de setembro de 2026 (Domingo)\,  em Campo da Feira / Parque da Cidade de
-  Penafiel (Penafiel\,  distrito de Porto). Trata-se de um evento desportivo
-  emblemático da região\,  reunindo centenas de participantes entre atleta
- s federados\,  amadores e entusiastas do[..]\nhttps://www.portugalrunning.c
- om/eventos/penafiel-run/
+DESCRIPTION:Sobre Penafiel Run 2026A edição de 2026 da Penafiel Run reali
+ za-se no dia 20 de setembro de 2026 (Domingo)\,  percorrendo o centro hist�
+ �rico e as principais avenidas de Penafiel\,  no distrito do Porto. Com org
+ anização técnica da SincTime e o apoio do Município de Penafiel\,  a pr
+ ova assume uma forte[..]\nhttps://www.portugalrunning.com/eventos/penafiel-
+ run/
 URL:https://www.portugalrunning.com/eventos/penafiel-run/
 END:VEVENT
 END:VCALENDAR

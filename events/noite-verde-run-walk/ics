@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:63568-0@www.portugalrunning.com
-DTSTAMP:20260902T140051Z
-DTSTART:20260911T200000Z
-DTEND:20260912T020000Z
+DTSTAMP:20260903T060144Z
+DTSTART:20260911T193000Z
+DTEND:20260911T193000Z
 LOCATION:Marco de Canaveses\,   Porto Marco de Canaveses\,   Porto
 SUMMARY:Noite Verde Run & Walk 2026
-DESCRIPTION:Sobre O Noite Verde Run & Walk 2026A prova Noite Verde Run & Wa
- lk 2026 realiza-se na noite de 11 de Setembro de 2026 (Sexta-feira)\,  na c
- idade do Marco de Canaveses (distrito do Porto). Organizada pela Câmara Mu
- nicipal do Marco de Canaveses em parceria com a StopAndGo\,  a iniciativa m
- arca[..]\nhttps://www.portugalrunning.com/eventos/noite-verde-run-walk/
+DESCRIPTION:Sobre Noite Verde Run & Walk 2026A Noite Verde Run & Walk 2026 
+ realiza-se na noite de sexta-feira\,  11 de setembro de 2026\,  inserida na
+ s grandiosas celebrações da Noite Verde do Marco de Canaveses. Organizada
+  pelo Município do Marco de Canaveses com cronometragem técnica Stop and 
+ Go\,  o evento transforma[..]\nhttps://www.portugalrunning.com/eventos/noit
+ e-verde-run-walk/
 URL:https://www.portugalrunning.com/eventos/noite-verde-run-walk/
 END:VEVENT
 END:VCALENDAR

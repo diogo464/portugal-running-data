@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:58281-0@www.portugalrunning.com
-DTSTAMP:20260822T060041Z
-DTSTART:20270516T160400Z
-DTEND:20270516T160400Z
+DTSTAMP:20260903T060135Z
+DTSTART:20270516T080000Z
+DTEND:20270516T150400Z
 LOCATION:Lisboa Lisboa
 SUMMARY:Corrida Mimosa 2027
-DESCRIPTION:Sobre a Corrida Mimosa Pela Vida 2027 (Lisboa) A Corrida Mimosa
-  Pela Vida realiza-se no domingo\,  16 de maio de 2027 em Lisboa\,  com per
- curso ribeirinho de Santos à Torre de Belém. Organizada pelo Maratona Clu
- be de Portugal a favor da Liga Portuguesa Contra o Cancro\,  junta milhares
-  de participantes[..]\nhttps://www.portugalrunning.com/eventos/corrida-mimo
- sa/
+DESCRIPTION:Sobre Corrida Mimosa 2027A Corrida Mimosa 2027 (Mimosa Corrida 
+ Pela Vida / Corrida da Mulher) realiza-se no domingo\,  16 de Maio de 2027\
+ ,  na frente ribeirinha de Lisboa. Promovida pelo conceituado Maratona Club
+ e de Portugal (MCP) com o apoio da Câmara Municipal de Lisboa\,  a prova �
+ � a maior celebração[..]\nhttps://www.portugalrunning.com/eventos/corrida
+ -mimosa/
 URL:https://www.portugalrunning.com/eventos/corrida-mimosa/
 END:VEVENT
 END:VCALENDAR

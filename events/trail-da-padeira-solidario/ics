@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51289-0@www.portugalrunning.com
-DTSTAMP:20260902T140128Z
-DTSTART:20260920T080000Z
-DTEND:20260920T090000Z
+DTSTAMP:20260903T060152Z
+DTSTART:20260920T070000Z
+DTEND:20260920T070000Z
 LOCATION:Aljubarrota\,   Alcobaça Aljubarrota\,   Alcobaça
 SUMMARY:Trail da Padeira Solidário 2026
-DESCRIPTION:Sobre O Trail da Padeira Solidário 2026A 1.ª edição do Trai
- l da Padeira Solidário 2026 realiza-se no dia 20 de setembro de 2026\,  na
-  histórica vila de Aljubarrota\,  Alcobaça\,  no distrito de Leiria. Orga
- nizado pela Associação Trail da Padeira com o apoio da Junta de Freguesia
-  de Aljubarrota\,  o evento[..]\nhttps://www.portugalrunning.com/eventos/tr
- ail-da-padeira-solidario/
+DESCRIPTION:Sobre Trail da Padeira Solidário 2026O 1º Trail da Padeira So
+ lidário 2026 realiza-se na histórica vila medieval de Aljubarrota\,  no c
+ oncelho de Alcobaça (distrito de Leiria)\,  no dia 20 de Setembro de 2026 
+ (Domingo) a partir das 09:00. Organizado pela Associação Trail da Padeira
+  com o apoio da Junta de[..]\nhttps://www.portugalrunning.com/eventos/trail
+ -da-padeira-solidario/
 URL:https://www.portugalrunning.com/eventos/trail-da-padeira-solidario/
 END:VEVENT
 END:VCALENDAR

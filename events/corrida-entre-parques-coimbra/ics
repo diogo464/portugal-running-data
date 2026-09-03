@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:53200-0@www.portugalrunning.com
-DTSTAMP:20260902T135949Z
-DTSTART:20260920
-DTEND:20260921
+DTSTAMP:20260903T060135Z
+DTSTART:20261115
+DTEND:20261116
 LOCATION:Coimbra Coimbra
 SUMMARY:Corrida Entre Parques Coimbra 2026
-DESCRIPTION:Sobre A Corrida Entre Parques Coimbra 2026A Corrida Entre Parqu
- es Coimbra 2026 realiza-se no dia 20 de Setembro de 2026 (Domingo)\,  em Ja
- rdim da Sereia\,  Jardim Botânico e Parque Verde\,  Coimbra (Coimbra\,  di
- strito de Coimbra). Trata-se de um evento desportivo emblemático da regiã
- o\,  reunindo centenas de participantes entre atletas federados\, [..]\nhtt
- ps://www.portugalrunning.com/eventos/corrida-entre-parques-coimbra/
+DESCRIPTION:Sobre Corrida Entre Parques Coimbra 2026A Corrida Entre Parques
+  Coimbra 2026 realiza-se no domingo\,  15 de novembro de 2026\,  na histór
+ ica e académica cidade de Coimbra. Organizada pela ADR 4 Estações com o 
+ apoio da Câmara Municipal de Coimbra\,  da União das Freguesias de Coimbr
+ a e o patrocínio principal do[..]\nhttps://www.portugalrunning.com/eventos
+ /corrida-entre-parques-coimbra/
 URL:https://www.portugalrunning.com/eventos/corrida-entre-parques-coimbra/
 END:VEVENT
 END:VCALENDAR

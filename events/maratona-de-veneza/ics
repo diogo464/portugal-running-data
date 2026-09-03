@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:57910-0@www.portugalrunning.com
-DTSTAMP:20260902T140043Z
-DTSTART:20261025T232600Z
-DTEND:20261025T235900Z
+DTSTAMP:20260903T060147Z
+DTSTART:20261025T094000Z
+DTEND:20261025T094000Z
 LOCATION:Veneza\,   Itália Veneza\,   Itália
-SUMMARY:Maratona de Veneza 2026
-DESCRIPTION:A Maratona de Veneza\,  marcada para o dia 25 de outubro de 202
- 6\,  desafia os participantes a percorrer os icónicos 42\, 195 km que liga
- m a Villa Pisani em Stra até ao coração de Veneza. Este traçado\,  que 
- começa com longas e rápidas retas de asfalto\,  culmina numa fase final t
- écnica[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-veneza/
+SUMMARY:40ª Maratona de Veneza 2026
+DESCRIPTION:Sobre 40ª Maratona de Veneza 2026A emblemática 40ª Maratona 
+ de Veneza 2026 (Wizz Air Venicemarathon) realiza-se no domingo\,  25 de out
+ ubro de 2026\,  na mítica e romântica cidade de Veneza\,  em Itália. Rec
+ onhecida mundialmente com o selo World Athletics Label e organizada pela Ve
+ nicemarathon SSD\,  a prova é considerada uma[..]\nhttps://www.portugalrun
+ ning.com/eventos/maratona-de-veneza/
 URL:https://www.portugalrunning.com/eventos/maratona-de-veneza/
 END:VEVENT
 END:VCALENDAR

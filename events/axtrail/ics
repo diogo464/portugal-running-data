@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:46044-0@www.portugalrunning.com
-DTSTAMP:20260902T135909Z
-DTSTART:20261016
-DTEND:20261017
+DTSTAMP:20260903T060131Z
+DTSTART:20261017
+DTEND:20261018
 LOCATION:Castanheira de Pera\,   Leiria Castanheira de Pera\,   Leiria
 SUMMARY:AXTrail 2026
-DESCRIPTION:Sobre O AXTrail 2026O AXTrail 2026 realiza-se no dia 16 de Outu
- bro de 2026 (Sexta-feira)\,  em Castanheira De Pera Leiria (Castanheira De 
- Pera Leiria\,  distrito de Leiria). Trata-se de um evento desportivo emblem
- ático da região\,  reunindo centenas de participantes entre atletas feder
- ados\,  amadores e entusiastas do desporto ao ar livre\, [..]\nhttps://www.
- portugalrunning.com/eventos/axtrail/
+DESCRIPTION:Sobre AXTrail 2026O UTAX AXtrail 2026 realiza-se entre os dias 
+ 16 e 18 de Outubro de 2026\,  afirmando-se como uma das maiores referência
+ s do trail running em Portugal. Com epicentro em Castanheira de Pera\,  no 
+ distrito de Leiria\,  a prova atravessa os trilhos mágicos e as cumeadas d
+ a Serra da[..]\nhttps://www.portugalrunning.com/eventos/axtrail/
 URL:https://www.portugalrunning.com/eventos/axtrail/
 END:VEVENT
 END:VCALENDAR

@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:47763-0@www.portugalrunning.com
-DTSTAMP:20260902T140201Z
-DTSTART:20261114
-DTEND:20261115
+DTSTAMP:20260903T060200Z
+DTSTART:20261115
+DTEND:20261116
 LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
 SUMMARY:Trail São Macário 2026
-DESCRIPTION:Sobre o Trail São Macário 2026O Trail São Macário 2026 real
- iza-se no dia 14 de Novembro de 2026 (Sábado)\,  em Portugal (Portugal\,  
- distrito de Portugal). Trata-se de um evento desportivo emblemático da reg
- ião\,  reunindo centenas de participantes entre atletas federados\,  amado
- res e entusiastas do desporto ao ar livre\,  promovendo o[..]\nhttps://www.
- portugalrunning.com/eventos/trail-sao-macario/
+DESCRIPTION:Sobre Trail São Macário 2026A 9.ª Edição do São Macário 
+ Ultra Trail 2026 (SMUT) realiza-se nos dias 14 e 15 de novembro de 2026\,  
+ na mítica freguesia de Sul\,  no concelho de São Pedro do Sul\,  distrito
+  de Viseu. Organizado pelo GTT.SPS - Grupo Todo Terreno de São Pedro do[..
+ ]\nhttps://www.portugalrunning.com/eventos/trail-sao-macario/
 URL:https://www.portugalrunning.com/eventos/trail-sao-macario/
 END:VEVENT
 END:VCALENDAR

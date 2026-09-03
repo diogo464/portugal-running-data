@@ -5,18 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51040-0@www.portugalrunning.com
-DTSTAMP:20260902T135907Z
-DTSTART:20261017T080000Z
-DTEND:20261017T235900Z
+DTSTAMP:20260903T060131Z
+DTSTART:20261017T070000Z
+DTEND:20261017T070000Z
 LOCATION:Entroncamento\,   Santarém Entroncamento\,   Santarém
 SUMMARY:Challenge “Só Para Bravos” 2026
-DESCRIPTION:Sobre O Challenge “Só Para Bravos” 2026O Challenge “Só 
- Para Bravos” 2026 realiza-se no dia 17 de Outubro de 2026 (Sábado)\,  em
-  Entroncamento Santarem (Entroncamento Santarem\,  distrito de Santarem). T
- rata-se de um evento desportivo emblemático da região\,  reunindo centena
- s de participantes entre atletas federados\,  amadores e entusiastas do des
- porto ao[..]\nhttps://www.portugalrunning.com/eventos/challenge-so-para-bra
- vos/
+DESCRIPTION:Sobre Challenge “Só Para Bravos” 2026O Challenge “Só Pa
+ ra Bravos” 2026 realiza-se no dia 17 de Outubro de 2026 no aprazível Par
+ que Verde do Bonito\,  no Entroncamento\,  distrito de Santarém. Organizad
+ o com o propósito de evidenciar a exigência operacional e a resiliência 
+ das forças de socorro e segurança\,  o evento[..]\nhttps://www.portugalru
+ nning.com/eventos/challenge-so-para-bravos/
 URL:https://www.portugalrunning.com/eventos/challenge-so-para-bravos/
 END:VEVENT
 END:VCALENDAR

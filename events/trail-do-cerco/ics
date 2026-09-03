@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:47860-0@www.portugalrunning.com
-DTSTAMP:20260902T140145Z
+DTSTAMP:20260903T060156Z
 DTSTART:20260913
 DTEND:20260914
 LOCATION:Celorico da Beira\,   Guarda Celorico da Beira\,   Guarda
-SUMMARY:Trail do Cerco 2026
-DESCRIPTION:Sobre O Trail do Cerco 2026O IV Trail do Cerco 2026 realiza-se 
- no dia 13 de Setembro de 2026 (Domingo)\,  na histórica vila de Celorico d
- a Beira (distrito da Guarda)\,  com ponto de concentração\,  partida e ch
- egada no Jardim Santa Eufémia / Mercado Municipal.Integrado no programa fe
- stivo da Santa Eufémia[..]\nhttps://www.portugalrunning.com/eventos/trail-
- do-cerco/
+SUMMARY:IV Trail do Cerco 2026
+DESCRIPTION:Sobre IV Trail do Cerco 2026O IV Trail do Cerco 2026 realiza-se
+  no domingo\,  13 de setembro de 2026\,  na histórica vila de Celorico da 
+ Beira\,  no distrito da Guarda. Organizado pelo Município de Celorico da B
+ eira com o apoio técnico da AVCAT - Associação Vila Chã Aldeia Trail de
+ [..]\nhttps://www.portugalrunning.com/eventos/trail-do-cerco/
 URL:https://www.portugalrunning.com/eventos/trail-do-cerco/
 END:VEVENT
 END:VCALENDAR

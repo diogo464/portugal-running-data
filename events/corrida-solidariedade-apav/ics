@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:55219-0@www.portugalrunning.com
-DTSTAMP:20260902T135954Z
+DTSTAMP:20260903T060136Z
 DTSTART:20261024
 DTEND:20261025
 LOCATION:Belém\,   Lisboa Belém\,   Lisboa
-SUMMARY:Corrida Solidariedade APAV 2026
-DESCRIPTION:Sobre A Corrida Solidariedade APAV 2026A Corrida Solidariedade 
- APAV 2026 (20.ª edição) realiza-se no dia 24 de Outubro de 2026 (Sábado
- )\,  no magnífico cenário do Parque Florestal de Monsanto\,  em Lisboa. T
- rata-se de um evento solidário emblemático que une o desporto à causa do
-  apoio às vítimas de crime em[..]\nhttps://www.portugalrunning.com/evento
- s/corrida-solidariedade-apav/
+SUMMARY:20ª Corrida de Solidariedade APAV 2026
+DESCRIPTION:Sobre 20ª Corrida de Solidariedade APAV 2026A 20ª Corrida de 
+ Solidariedade APAV 2026 realiza-se na manhã de sábado\,  24 de outubro de
+  2026\,  no icónico pulmão verde da capital portuguesa\,  o Parque Flores
+ tal de Monsanto\,  em Lisboa. Promovida pela Associação Portuguesa de Apo
+ io à Vítima (APAV) com organização técnica da[..]\nhttps://www.portuga
+ lrunning.com/eventos/corrida-solidariedade-apav/
 URL:https://www.portugalrunning.com/eventos/corrida-solidariedade-apav/
 END:VEVENT
 END:VCALENDAR

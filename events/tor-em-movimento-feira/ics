@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:56069-0@www.portugalrunning.com
-DTSTAMP:20260902T140137Z
-DTSTART:20260905T150000Z
-DTEND:20260905T235900Z
+DTSTAMP:20260903T060155Z
+DTSTART:20260905T140000Z
+DTEND:20260905T140000Z
 LOCATION:Tôr\,   Loulé Tôr\,   Loulé
 SUMMARY:Tôr em Movimento 2026
-DESCRIPTION:Sobre O Tôr em Movimento 2026O Tôr em Movimento 2026 (2.ª Ed
- ição) realiza-se no dia 5 de Setembro de 2026 (Sábado)\,  com centro de 
- operações na pitoresca aldeia da Tôr (concelho de Loulé\,  distrito de 
- Faro\,  Algarve). Organizado pela Associação Don't Stop em parceria com a
-  Junta de Freguesia de[..]\nhttps://www.portugalrunning.com/eventos/tor-em-
- movimento-feira/
+DESCRIPTION:Sobre Tôr em Movimento 2026A 2.ª edição do Tôr em Moviment
+ o 2026 realiza-se no dia 5 de setembro de 2026 (Sábado)\,  na pitoresca al
+ deia da Tôr\,  no concelho de Loulé\,  distrito de Faro. Organizado pela 
+ equipa Don't Stop com o apoio da Junta de Freguesia de Tôr e da Câmara[..
+ ]\nhttps://www.portugalrunning.com/eventos/tor-em-movimento-feira/
 URL:https://www.portugalrunning.com/eventos/tor-em-movimento-feira/
 END:VEVENT
 END:VCALENDAR

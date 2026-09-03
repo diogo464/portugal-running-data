@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:47302-0@www.portugalrunning.com
-DTSTAMP:20260902T140031Z
+DTSTAMP:20260903T060140Z
 DTSTART:20261108
 DTEND:20261109
 LOCATION:Porto Porto
 SUMMARY:EDP Maratona do Porto 2026
-DESCRIPTION:Sobre o EDP Maratona do Porto 2026O EDP Maratona do Porto 2026 
- realiza-se no dia 8 de Novembro de 2026 (Domingo)\,  em Via do Castelo do Q
- ueijo (Partida) & Queimódromo (Meta)\,  Porto (Porto\,  distrito de Porto)
- . Trata-se de um evento desportivo emblemático da região\,  reunindo cent
- enas de participantes entre atletas[..]\nhttps://www.portugalrunning.com/ev
- entos/maratona-porto/
+DESCRIPTION:Sobre EDP Maratona do Porto 2026A 22ª EDP Maratona do Porto 20
+ 26 realiza-se no dia 8 de novembro de 2026 (Domingo)\,  afirmando-se como a
+  maior e mais emblemática maratona de outono em Portugal. Organizada pela 
+ conceituada Runporto com o patrocínio principal da EDP\,  a prova liga as 
+ frentes marítimas e[..]\nhttps://www.portugalrunning.com/eventos/maratona-
+ porto/
 URL:https://www.portugalrunning.com/eventos/maratona-porto/
 END:VEVENT
 END:VCALENDAR

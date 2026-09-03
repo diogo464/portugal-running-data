@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51208-0@www.portugalrunning.com
-DTSTAMP:20260902T135925Z
+DTSTAMP:20260903T060132Z
 DTSTART:20260830
 DTEND:20260831
 LOCATION:Monte Gordo\,   Vila Real de Santo António Monte Gordo\,   Vila Real de Santo António
 SUMMARY:Corrida da Baía de Monte Gordo 2026
-DESCRIPTION:Sobre A Corrida da Baía de Monte Gordo 2026A 27.ª Corrida da 
- Baía de Monte Gordo 2026 realiza-se no dia 30 de Agosto de 2026 (Domingo)\
- ,  no concelho de Vila Real de Santo António (distrito de Faro\,  Algarve)
- . Trata-se de uma das provas de atletismo de verão mais carismáticas do[.
- .]\nhttps://www.portugalrunning.com/eventos/corrida-da-baia-de-monte-gordo/
+DESCRIPTION:Sobre Corrida da Baía de Monte Gordo 2026A 27ª Corrida da Ba�
+ �a de Monte Gordo 2026 realiza-se no dia 30 de Agosto de 2026 (Domingo)\,  
+ proporcionando uma experiência singular de atletismo inteiramente disputad
+ a no areal da costa algarvia. Com partida marcada para as 10:30 na Praia da
+  Manta Rota (Zona[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-b
+ aia-de-monte-gordo/
 URL:https://www.portugalrunning.com/eventos/corrida-da-baia-de-monte-gordo/
 END:VEVENT
 END:VCALENDAR

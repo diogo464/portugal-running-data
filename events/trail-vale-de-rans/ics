@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:54333-0@www.portugalrunning.com
-DTSTAMP:20260902T140211Z
-DTSTART:20261004T080000Z
-DTEND:20261004T235900Z
+DTSTAMP:20260903T060201Z
+DTSTART:20261004T070000Z
+DTEND:20261004T070000Z
 LOCATION:Rans\,   Penafiel Rans\,   Penafiel
 SUMMARY:Trail Vale de Rans 2026
-DESCRIPTION:Sobre O Trail Vale de Rans 2026O Trail Vale de Rans 2026 realiz
- a-se no dia 4 de outubro de 2026 (Domingo)\,  em Quinta Vale de Rans (Rua d
- a Portela) (Penafiel\,  distrito de Porto). Trata-se de um evento desportiv
- o emblemático da região\,  reunindo centenas de participantes entre atlet
- as federados\,  amadores e[..]\nhttps://www.portugalrunning.com/eventos/tra
- il-vale-de-rans/
+DESCRIPTION:Sobre Trail Vale de Rans 2026O Trail Vale de Rans 2026 convida 
+ os praticantes de corrida na natureza e pedestrianismo a percorrerem os val
+ es verdejantes\,  margens fluviais e trilhos rurais da freguesia de Rans\, 
+  no concelho de Penafiel (distrito do Porto). O traçado alia troços rápi
+ dos em terra batida a[..]\nhttps://www.portugalrunning.com/eventos/trail-va
+ le-de-rans/
 URL:https://www.portugalrunning.com/eventos/trail-vale-de-rans/
 END:VEVENT
 END:VCALENDAR

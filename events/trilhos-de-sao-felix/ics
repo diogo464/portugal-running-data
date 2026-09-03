@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:63562-0@www.portugalrunning.com
-DTSTAMP:20260902T140218Z
-DTSTART:20260906T080000Z
-DTEND:20260906T160000Z
+DTSTAMP:20260903T060203Z
+DTSTART:20260906T070000Z
+DTEND:20260906T070000Z
 LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
 SUMMARY:Trilhos de São Félix 2026
-DESCRIPTION:Sobre O Trilhos de São Félix 2026Os Trilhos de São Félix 20
- 26 realizam-se no dia 6 de Setembro de 2026 (Domingo)\,  na estância terma
- l de São Pedro do Sul (distrito de Viseu). Coorganizado pela Câmara Munic
- ipal de São Pedro do Sul e pela Termalistur com gestão técnica da plataf
- orma StopAndGo\, [..]\nhttps://www.portugalrunning.com/eventos/trilhos-de-s
- ao-felix/
+DESCRIPTION:Sobre Trilhos de São Félix 2026A iniciativa Trilhos de São F
+ élix 2026 realiza-se no dia 6 de setembro de 2026 (Domingo)\,  com ponto d
+ e encontro junto à histórica Igreja Paroquial de São Félix\,  no concel
+ ho de São Pedro do Sul\,  distrito de Viseu. Promovido pelo Município de 
+ São Pedro do[..]\nhttps://www.portugalrunning.com/eventos/trilhos-de-sao-f
+ elix/
 URL:https://www.portugalrunning.com/eventos/trilhos-de-sao-felix/
 END:VEVENT
 END:VCALENDAR

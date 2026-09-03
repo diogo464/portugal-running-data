@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:54303-0@www.portugalrunning.com
-DTSTAMP:20260902T135945Z
-DTSTART:20260927T081500Z
-DTEND:20260927T060800Z
+DTSTAMP:20260903T060135Z
+DTSTART:20260927T071500Z
+DTEND:20260927T071500Z
 LOCATION:São Brás de Alportel\,   Faro São Brás de Alportel\,   Faro
 SUMMARY:Corrida para Todos 2026
-DESCRIPTION:Sobre A Corrida para Todos 2026A 2.ª edição da Corrida para 
- Todos 2026 realiza-se na manhã de 27 de Setembro de 2026 (Domingo)\,  na v
- ila de São Brás de Alportel (distrito de Faro). Promovido pelo Grupo de D
- esporto Adaptado do CMR Sul e pela Associação Elo de Mudança\,  em parce
- ria[..]\nhttps://www.portugalrunning.com/eventos/corrida-para-todos/
+DESCRIPTION:Sobre Corrida para Todos 2026A Corrida para Todos 2026 realiza 
+ a sua 2ª edição no dia 27 de setembro de 2026 em São Brás de Alportel\
+ ,  no Algarve. Tendo como ponto nevrálgico o Centro de Medicina de Reabili
+ tação do Sul (CMR Sul)\,  este evento solidário e inclusivo junta partic
+ ipantes com[..]\nhttps://www.portugalrunning.com/eventos/corrida-para-todos
+ /
 URL:https://www.portugalrunning.com/eventos/corrida-para-todos/
 END:VEVENT
 END:VCALENDAR

@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51689-0@www.portugalrunning.com
-DTSTAMP:20260902T140057Z
-DTSTART:20261019T080000Z
-DTEND:20261018T235900Z
+DTSTAMP:20260903T060146Z
+DTSTART:20261018T070000Z
+DTEND:20261018T070000Z
 LOCATION:Porto Novo\,   Torres Vedras Porto Novo\,   Torres Vedras
 SUMMARY:Porto Novo Sky Race 2026
-DESCRIPTION:Sobre O Porto Novo Sky Race 2026A Porto Novo Sky Race 2026 real
- iza-se no dia 18 de Outubro de 2026 (Domingo)\,  na zona costeira de Porto 
- Novo e Maceira\,  no concelho de Torres Vedras (distrito de Lisboa). Celebr
- ando a sua 10.ª edição sob o lema 'Nasceu para Criar Desafios'\,  o[..]\
- nhttps://www.portugalrunning.com/eventos/porto-novo-sky-race/
+DESCRIPTION:Sobre Porto Novo Sky Race 2026A 10ª edição da Porto Novo Sky
+  Race 2026 realiza-se no domingo\,  18 de outubro de 2026\,  na pitoresca p
+ raia de Porto Novo (Maceira)\,  no concelho de Torres Vedras. Desenhada sob
+  as escarpas rochosas\,  falésias costeiras atlânticas e cumeadas do lito
+ ral oeste\,  a prova é[..]\nhttps://www.portugalrunning.com/eventos/porto-
+ novo-sky-race/
 URL:https://www.portugalrunning.com/eventos/porto-novo-sky-race/
 END:VEVENT
 END:VCALENDAR

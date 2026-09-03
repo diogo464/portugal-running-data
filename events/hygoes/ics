@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51346-0@www.portugalrunning.com
-DTSTAMP:20260902T140018Z
-DTSTART:20260912T020600Z
-DTEND:20260912T235900Z
+DTSTAMP:20260903T060138Z
+DTSTART:20260912T070000Z
+DTEND:20260912T070000Z
 LOCATION:Góis\,   Coimbra Góis\,   Coimbra
-SUMMARY:Hygoes 2026
-DESCRIPTION:Sobre O Hygoes 2026O Hygoes 2026 realiza-se no dia 12 de Setemb
- ro de 2026 (Sábado)\,  no cenário natural da Praia Fluvial da Peneda\,  e
- m plena vila de Góis (distrito de Coimbra). Organizado pela autarquia loca
- l em colaboração com entidades desportivas da região\,  o evento combina
-  a corrida de resistência com[..]\nhttps://www.portugalrunning.com/eventos
- /hygoes/
+SUMMARY:HYGOES 2026
+DESCRIPTION:Sobre HYGOES 2026O HYGOES 2026 é a grande competição de simu
+ lação oficial de Hyrox e Fitness Racing da região centro de Portugal\,  
+ disputada na vila histórica de Góis (distrito de Coimbra). O evento combi
+ na a corrida de resistência com estações de treino funcional de alta int
+ ensidade\,  testando a capacidade cardiovascular[..]\nhttps://www.portugalr
+ unning.com/eventos/hygoes/
 URL:https://www.portugalrunning.com/eventos/hygoes/
 END:VEVENT
 END:VCALENDAR

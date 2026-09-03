@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:52932-0@www.portugalrunning.com
-DTSTAMP:20260902T140001Z
-DTSTART:20260906T084000Z
-DTEND:20260906T235900Z
+DTSTAMP:20260903T060138Z
+DTSTART:20260906T070000Z
+DTEND:20260906T070000Z
 LOCATION:Parque de Lazer do Mirante\,   Canedo Parque de Lazer do Mirante\,   Canedo
 SUMMARY:Desafio do Inha 2026
-DESCRIPTION:Sobre O Desafio do Inha 2026O Desafio do Inha 2026 realiza-se n
- o dia 6 de setembro de 2026 (Domingo)\,  no mítico Cais de Porto Carvoeiro
- \,  em Canedo (concelho de Santa Maria da Feira\,  distrito de Aveiro). Org
- anizado pela Divisão de Desporto da Câmara Municipal de Santa Maria da Fe
- ira\,  o[..]\nhttps://www.portugalrunning.com/eventos/desafio-do-inha/
+DESCRIPTION:Sobre Desafio do Inha 2026O Desafio do Inha 2026 é um vibrante
+  evento multidesportivo disputado em equipas de duplas\,  unindo as modalid
+ ades de Corrida (8 km)\,  Canoagem/Kayak (3\, 5 km) e BTT (11 km) no deslum
+ brante cenário natural de Canedo\,  no concelho de Santa Maria da Feira (d
+ istrito de Aveiro).Com partida[..]\nhttps://www.portugalrunning.com/eventos
+ /desafio-do-inha/
 URL:https://www.portugalrunning.com/eventos/desafio-do-inha/
 END:VEVENT
 END:VCALENDAR

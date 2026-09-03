@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65829-0@www.portugalrunning.com
+DTSTAMP:20260903T060143Z
+DTSTART:20270228
+DTEND:20270301
+LOCATION:Roma\,   Itália Roma\,   Itália
+SUMMARY:Meia Maratona de Roma (Roma-Ostia) 2027
+DESCRIPTION:Sobre Meia Maratona de Roma (Roma-Ostia) 2027A Meia Maratona de
+  Roma (Roma-Ostia) 2027 (52ª edição da prestigiada RomaOstia Half Marath
+ on) realiza-se no domingo\,  28 de fevereiro de 2027. Organizada pela RomaO
+ stia ssd em conjunto com a RCS Sports & Events e o GSBRun (Gruppo Sportivo 
+ Bancari Romani)\,  esta é a[..]\nhttps://www.portugalrunning.com/eventos/m
+ eia-maratona-de-roma-roma-ostia/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-roma-roma-ostia/
+END:VEVENT
+END:VCALENDAR

@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:49774-0@www.portugalrunning.com
-DTSTAMP:20260902T135943Z
-DTSTART:20270626
-DTEND:20270627
+DTSTAMP:20260903T060134Z
+DTSTART:20270606
+DTEND:20270607
 LOCATION:Lisboa Lisboa
-SUMMARY:Corrida Santo António 2027 - Lisboa
-DESCRIPTION:Sobre a Corrida de Santo António em Lisboa A Corrida de Santo 
- António é uma das provas de atletismo mais emblemáticas e festivas da ca
- pital portuguesa\,  marcando o arranque oficial das Festas de Lisboa no mê
- s de junho. Combinando o desafio desportivo de 10km e uma caminhada de 4km\
- ,  o[..]\nhttps://www.portugalrunning.com/eventos/corrida-santo-antonio-lis
- boa/
+SUMMARY:Corrida Santo António 2027 – Lisboa
+DESCRIPTION:Sobre Corrida Santo António 2027 – LisboaA Corrida de Santo 
+ António 2027 – Lisboa (15ª edição) realiza-se no domingo\,  6 de Junh
+ o de 2027\,  na histórica zona monumental de Belém\,  em Lisboa. Promovid
+ a pela HMS Sports com o apoio da Câmara Municipal de Lisboa\,  a prova é 
+ um dos momentos[..]\nhttps://www.portugalrunning.com/eventos/corrida-santo-
+ antonio-lisboa/
 URL:https://www.portugalrunning.com/eventos/corrida-santo-antonio-lisboa/
 END:VEVENT
 END:VCALENDAR

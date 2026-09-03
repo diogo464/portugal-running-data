@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:57329-0@www.portugalrunning.com
-DTSTAMP:20260902T140026Z
-DTSTART:20270502T064400Z
-DTEND:20270502T235900Z
+DTSTAMP:20260903T060139Z
+DTSTART:20270502T063000Z
+DTEND:20270502T063000Z
 LOCATION:Malveira\,   Mafra Malveira\,   Mafra
 SUMMARY:Lobo Ibérico Trail 2027
-DESCRIPTION:Agendado para o dia 2 de maio de 2027 na Malveira\,  concelho d
- e Mafra\,  o Lobo Ibérico Trail desafia os participantes com percursos de 
- 25 km\,  15 km e uma caminhada de 10 km. O traçado desenha-se sobre os tri
- lhos acentuados e caminhos florestais da região\,  onde a alternância de[
- ..]\nhttps://www.portugalrunning.com/eventos/lobo-iberico-trail/
+DESCRIPTION:Sobre Lobo Ibérico Trail 2027A edição de 2027 do Lobo Ibéri
+ co Trail (LIT) realiza-se no domingo\,  2 de maio de 2027\,  na histórica 
+ vila da Malveira\,  no concelho de Mafra\,  distrito de Lisboa. Com partida
+  e chegada instaladas no Estádio das Seixas\,  o evento homenageia a prese
+ rvação e a mística[..]\nhttps://www.portugalrunning.com/eventos/lobo-ibe
+ rico-trail/
 URL:https://www.portugalrunning.com/eventos/lobo-iberico-trail/
 END:VEVENT
 END:VCALENDAR

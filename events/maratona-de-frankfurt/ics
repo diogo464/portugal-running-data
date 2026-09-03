@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:47353-0@www.portugalrunning.com
-DTSTAMP:20260902T140045Z
-DTSTART:20261025T125800Z
-DTEND:20261025T235900Z
+DTSTAMP:20260903T060146Z
+DTSTART:20261025T100000Z
+DTEND:20261025T100000Z
 LOCATION:Frankfurt\,   Alemanha Frankfurt\,   Alemanha
-SUMMARY:Maratona de Frankfurt 2026
-DESCRIPTION:A Maratona de Frankfurt\,  agendada para 25 de outubro de 2026 
- em Frankfurt am Main\,  desafia os participantes ao longo de 42\, 195 km nu
- m percurso predominantemente de asfalto. Este traçado citadino destaca-se 
- pelo seu relevo excecionalmente plano e vias amplas de excelente aderência
- \,  desenhadas perfeitamente para uma gestão de ritmo[..]\nhttps://www.por
- tugalrunning.com/eventos/maratona-de-frankfurt/
+SUMMARY:Mainova Maratona de Frankfurt 2026
+DESCRIPTION:Sobre Mainova Maratona de Frankfurt 2026A Mainova Maratona de F
+ rankfurt 2026 realiza-se no domingo\,  25 de outubro de 2026\,  no coraçã
+ o financeiro da Alemanha\,  em Frankfurt am Main. Distinguida com o prestig
+ iado selo World Athletics Gold Label e organizada pela equipa da motion eve
+ nts\,  a prova é a maratona citadina[..]\nhttps://www.portugalrunning.com/
+ eventos/maratona-de-frankfurt/
 URL:https://www.portugalrunning.com/eventos/maratona-de-frankfurt/
 END:VEVENT
 END:VCALENDAR

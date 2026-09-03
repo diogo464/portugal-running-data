@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51752-0@www.portugalrunning.com
-DTSTAMP:20260902T140015Z
-DTSTART:20261203T090000Z
-DTEND:20261203T090000Z
+DTSTAMP:20260903T060138Z
+DTSTART:20261203T220000Z
+DTEND:20261203T220000Z
 LOCATION:Vila Franca do Campo\,   Açores Vila Franca do Campo\,   Açores
 SUMMARY:EPIC Azores 2026
-DESCRIPTION:Sobre O EPIC Azores 2026O EPIC Azores 2026 é um dos eventos de
-  trail running mais emblemáticos e desafiadores do arquipélago açoriano\
- ,  realizando-se entre 3 e 5 de dezembro de 2026 com centro nevrálgico em 
- Vila Franca do Campo\,  na mística Ilha de São Miguel\,  Açores. A parti
- da da primeira[..]\nhttps://www.portugalrunning.com/eventos/epic-azores/
+DESCRIPTION:Sobre EPIC Azores 2026O EPIC Azores 2026 (11ª Edição) realiz
+ a-se de 3 a 5 de Dezembro de 2026 na deslumbrante Ilha de São Miguel\,  no
+ s Açores\,  tendo como base e centro nevrálgico o Pavilhão Açor Arena e
+ m Vila Franca do Campo. Considerada uma das maiores aventuras atlânticas d
+ o trail mundial\, [..]\nhttps://www.portugalrunning.com/eventos/epic-azores
+ /
 URL:https://www.portugalrunning.com/eventos/epic-azores/
 END:VEVENT
 END:VCALENDAR

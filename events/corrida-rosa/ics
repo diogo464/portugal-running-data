@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50291-0@www.portugalrunning.com
-DTSTAMP:20260902T135957Z
+DTSTAMP:20260903T060136Z
 DTSTART:20260829
 DTEND:20260830
 LOCATION:Lourosa\,   Santa Maria da Feira Lourosa\,   Santa Maria da Feira
 SUMMARY:Corrida Rosa 2026
-DESCRIPTION:Sobre A Corrida Rosa 2026A Corrida Rosa 2026 realiza-se no dia 
- 29 de Agosto de 2026 (Sábado)\,  em Lourosa (concelho de Santa Maria da Fe
- ira\,  distrito de Aveiro)\,  com partida e meta instaladas no Parque do Ri
- o\,  na Avenida de Lourosa. Trata-se de uma celebração desportiva exclusi
- vamente feminina que une[..]\nhttps://www.portugalrunning.com/eventos/corri
- da-rosa/
+DESCRIPTION:Sobre Corrida Rosa 2026A Corrida Rosa 2026 (CORRIDA louROSA) re
+ aliza-se no dia 29 de Agosto de 2026 (Sábado)\,  com partida e chegada no 
+ Parque do Rio (Avenida de Lourosa)\,  em Lourosa\,  concelho de Santa Maria
+  da Feira\,  distrito de Aveiro. Conhecida como a Festa de Final de Verão\
+ ,  a iniciativa[..]\nhttps://www.portugalrunning.com/eventos/corrida-rosa/
 URL:https://www.portugalrunning.com/eventos/corrida-rosa/
 END:VEVENT
 END:VCALENDAR

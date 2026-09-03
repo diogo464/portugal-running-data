@@ -5,18 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51343-0@www.portugalrunning.com
-DTSTAMP:20260902T140008Z
-DTSTART:20261018T083000Z
-DTEND:20261018T020300Z
+DTSTAMP:20260903T060137Z
+DTSTART:20261018T073000Z
+DTEND:20261018T073000Z
 LOCATION:Coimbra Coimbra
 SUMMARY:Grande Corrida A Previdência Portuguesa 2026
-DESCRIPTION:Sobre A Grande Corrida A Previdência Portuguesa 2026A Grande C
- orrida A Previdência Portuguesa 2026 realiza-se no dia 18 de Outubro de 20
- 26 (Domingo)\,  em Coimbra (Coimbra\,  distrito de Coimbra). Trata-se de um
-  evento desportivo emblemático da região\,  reunindo centenas de particip
- antes entre atletas federados\,  amadores e entusiastas do desporto ao[..]\
- nhttps://www.portugalrunning.com/eventos/grande-corrida-a-previdencia-portu
- guesa/
+DESCRIPTION:Sobre Grande Corrida A Previdência Portuguesa 2026A 3ª Grande
+  Corrida A Previdência Portuguesa 2026 realiza-se no domingo\,  18 de Outu
+ bro de 2026\,  no aprazível campus da Escola Superior Agrária de Coimbra 
+ (ESAC)\,  em Coimbra. Organizada em parceria pela Previdência Portuguesa (
+ APP) e pelo Clube de Veteranos de Atletismo de Coimbra[..]\nhttps://www.por
+ tugalrunning.com/eventos/grande-corrida-a-previdencia-portuguesa/
 URL:https://www.portugalrunning.com/eventos/grande-corrida-a-previdencia-portuguesa/
 END:VEVENT
 END:VCALENDAR
