@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66672-0@www.portugalrunning.com
+DTSTAMP:20260905T123048Z
+DTSTART:20260905
+DTEND:20260906
+LOCATION:Almada\,   Setúbal Almada\,   Setúbal
+SUMMARY:Thryv HYROX Simulation - Set 2026
+DESCRIPTION:Sobre Thryv HYROX Simulation - Set 2026O Thryv HYROX Simulation
+  - Set 2026 realiza-se no sábado\,  5 de setembro de 2026\,  no complexo T
+ imex Park\,  localizado na Charneca da Caparica\,  concelho de Almada. Prom
+ ovido pelo Thryv Project em parceria com a Hyrox Training Portugal\,  este 
+ evento oferece a oportunidade de[..]\nhttps://www.portugalrunning.com/event
+ os/thryv-hyrox-simulation-set/
+URL:https://www.portugalrunning.com/eventos/thryv-hyrox-simulation-set/
+END:VEVENT
+END:VCALENDAR

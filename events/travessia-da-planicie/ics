@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66728-0@www.portugalrunning.com
+DTSTAMP:20260905T123049Z
+DTSTART:20261024
+DTEND:20261025
+LOCATION:Castro Verde\,   Beja Castro Verde\,   Beja
+SUMMARY:8ª Travessia da Planície 2026
+DESCRIPTION:Sobre 8ª Travessia da Planície 2026A 8ª Travessia da Planíc
+ ie 2026 convida atletas e entusiastas da marcha a percorrer o coração do 
+ Campo Branco no sábado\,  24 de outubro de 2026\,  às 16h00. Numa organiz
+ ação exemplar da Câmara Municipal de Castro Verde\,  com o apoio técnic
+ o da Associação de Atletismo[..]\nhttps://www.portugalrunning.com/eventos
+ /travessia-da-planicie/
+URL:https://www.portugalrunning.com/eventos/travessia-da-planicie/
+END:VEVENT
+END:VCALENDAR

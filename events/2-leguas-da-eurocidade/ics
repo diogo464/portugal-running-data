@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66670-0@www.portugalrunning.com
+DTSTAMP:20260905T123045Z
+DTSTART:20261024
+DTEND:20261025
+LOCATION:Valença\,   Viana do Castelo Valença\,   Viana do Castelo
+SUMMARY:2 Léguas da Eurocidade 2026
+DESCRIPTION:Sobre 2 Léguas da Eurocidade 2026As 2 Léguas da Eurocidade 20
+ 26 celebram a união desportiva e cultural transfronteiriça entre Valença
+  e Tui\,  numa organização exemplar da Associação Desportiva Verdoejens
+ e com o apoio do Município de Valença. Com partida e chegada fixadas na e
+ mblemática Avenida da Juventude em Valença\,  este evento[..]\nhttps://ww
+ w.portugalrunning.com/eventos/2-leguas-da-eurocidade/
+URL:https://www.portugalrunning.com/eventos/2-leguas-da-eurocidade/
+END:VEVENT
+END:VCALENDAR

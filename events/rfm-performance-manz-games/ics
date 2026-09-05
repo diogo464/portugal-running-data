@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66668-0@www.portugalrunning.com
+DTSTAMP:20260905T123048Z
+DTSTART:20260904
+DTEND:20260905
+LOCATION:Lisboa Lisboa
+SUMMARY:RFM Performance MANZ Games 2026
+DESCRIPTION:Sobre RFM Performance MANZ Games 2026O RFM Performance MANZ Gam
+ es é uma competição pioneira em Portugal que combina o treino de corrida
+  com exercícios funcionais de força e resistência. Inspirado no conceito
+  internacional de fitness racing\,  o evento foi desenhado para ser acessí
+ vel\,  inclusivo e altamente desafiante para praticantes de[..]\nhttps://ww
+ w.portugalrunning.com/eventos/rfm-performance-manz-games/
+URL:https://www.portugalrunning.com/eventos/rfm-performance-manz-games/
+END:VEVENT
+END:VCALENDAR

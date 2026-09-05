@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66734-0@www.portugalrunning.com
+DTSTAMP:20260905T123049Z
+DTSTART:20261004
+DTEND:20261005
+LOCATION:Vilar Maior\,   Sabugal Vilar Maior\,   Sabugal
+SUMMARY:Vila Wild Trail 2026
+DESCRIPTION:Sobre Vila Wild Trail 2026O Vila Wild Trail 2026 regressa à hi
+ stórica vila medieval de Vilar Maior\,  no concelho do Sabugal (distrito d
+ a Guarda)\,  no domingo\,  4 de outubro de 2026\,  para a sua 4ª edição.
+  Organizada pela Associação Muralhas de Vilar Maior com o patrocínio do 
+ Município do Sabugal\, [..]\nhttps://www.portugalrunning.com/eventos/vila-
+ wild-trail/
+URL:https://www.portugalrunning.com/eventos/vila-wild-trail/
+END:VEVENT
+END:VCALENDAR

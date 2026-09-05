@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66656-0@www.portugalrunning.com
+DTSTAMP:20260905T123049Z
+DTSTART:20261122
+DTEND:20261123
+LOCATION:Santa Barbara de Nexe\,   Faro Santa Barbara de Nexe\,   Faro
+SUMMARY:V Trail Veredas de Nexe 2026
+DESCRIPTION:Sobre V Trail Veredas de Nexe 2026O V Trail Veredas de Nexe 202
+ 6 é um dos eventos de montanha mais fascinantes e desafiantes do sotavento
+  algarvio\,  realizando-se no domingo\,  22 de novembro de 2026\,  na pitor
+ esca freguesia de Santa Bárbara de Nexe\,  concelho de Faro. Com partida e
+  chegada nas[..]\nhttps://www.portugalrunning.com/eventos/trail-veredas-de-
+ nexe/
+URL:https://www.portugalrunning.com/eventos/trail-veredas-de-nexe/
+END:VEVENT
+END:VCALENDAR

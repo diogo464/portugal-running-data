@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66709-0@www.portugalrunning.com
+DTSTAMP:20260905T123047Z
+DTSTART:20270627
+DTEND:20270628
+LOCATION:Oliveira do Douro\,   Vila Nova de Gaia Oliveira do Douro\,   Vila Nova de Gaia
+SUMMARY:Corrida do Areinho 2027
+DESCRIPTION:Sobre Corrida do Areinho 2027A Corrida do Areinho 2027 convida 
+ os atletas e famílias a viver uma manhã desportiva memorável no domingo\
+ ,  27 de junho de 2027\,  tendo como cenário idílico as margens do Rio Do
+ uro em Vila Nova de Gaia. Sob a organização técnica da conceituada ProEv
+ ents em estreita[..]\nhttps://www.portugalrunning.com/eventos/corrida-praia
+ -do-areinho/
+URL:https://www.portugalrunning.com/eventos/corrida-praia-do-areinho/
+END:VEVENT
+END:VCALENDAR

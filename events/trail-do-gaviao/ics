@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:56084-0@www.portugalrunning.com
+DTSTAMP:20260905T123049Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Gavião\,   Portalegre Gavião\,   Portalegre
+SUMMARY:Trail do Gavião 2026
+DESCRIPTION:Sobre Trail do Gavião 2026O Trail do Gavião 2026 realiza-se n
+ o dia 8 de novembro de 2026 (Domingo)\,  no deslumbrante concelho de Gaviã
+ o\,  distrito de Portalegre\,  no Alto Alentejo. Promovido pelo Município 
+ de Gavião com gestão técnica da Trilho Perdido\,  este evento destaca as
+  belezas naturais e o património ribeirinho[..]\nhttps://www.portugalrunni
+ ng.com/eventos/trail-do-gaviao/
+URL:https://www.portugalrunning.com/eventos/trail-do-gaviao/
+END:VEVENT
+END:VCALENDAR

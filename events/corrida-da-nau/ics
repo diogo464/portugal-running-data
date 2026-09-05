@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66642-0@www.portugalrunning.com
+DTSTAMP:20260905T123047Z
+DTSTART:20260906
+DTEND:20260907
+LOCATION:Vila do Conde\,   Porto Vila do Conde\,   Porto
+SUMMARY:Corrida da Nau 2026
+DESCRIPTION:Sobre Corrida da Nau 2026A Corrida da Nau 2026 celebra a sua em
+ blemática 31ª edição no domingo\,  6 de setembro de 2026\,  em Vila do 
+ Conde\,  distrito do Porto. Organizada em parceria pelo Clube de Atletismo 
+ Os Rompe Solas e pela EventSport\,  com apoio técnico e cronometragem elet
+ rónica da StatusMarathon\, [..]\nhttps://www.portugalrunning.com/eventos/c
+ orrida-da-nau/
+URL:https://www.portugalrunning.com/eventos/corrida-da-nau/
+END:VEVENT
+END:VCALENDAR

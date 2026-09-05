@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66743-0@www.portugalrunning.com
+DTSTAMP:20260905T123047Z
+DTSTART:20260913
+DTEND:20260914
+LOCATION:Câmara de Lobos\,   Madeira Câmara de Lobos\,   Madeira
+SUMMARY:Grande Prémio das Vindimas 2026
+DESCRIPTION:Sobre Grande Prémio das Vindimas 2026O XXI Grande Prémio das 
+ Vindimas 2026 realiza-se na manhã de domingo\,  13 de setembro de 2026\,  
+ a partir das 09h00\,  na pitoresca freguesia do Estreito de Câmara de Lobo
+ s\,  na ilha da Madeira. Organizado pelo Grupo Desportivo do Estreito (GDE)
+  em estreita colaboração com[..]\nhttps://www.portugalrunning.com/eventos
+ /grande-premio-das-vindimas/
+URL:https://www.portugalrunning.com/eventos/grande-premio-das-vindimas/
+END:VEVENT
+END:VCALENDAR

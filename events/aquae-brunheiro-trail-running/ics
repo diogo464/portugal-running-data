@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50639-0@www.portugalrunning.com
-DTSTAMP:20260903T060130Z
-DTSTART:20260920T060000Z
-DTEND:20260920T060000Z
+DTSTAMP:20260905T123045Z
+DTSTART:20260918T230000Z
+DTEND:20260920T225900Z
 LOCATION:Chaves\,   Vila Real Chaves\,   Vila Real
 SUMMARY:Aquae Brunheiro Trail Running 2026
-DESCRIPTION:Sobre Aquae Brunheiro Trail Running 2026A 3ª edição do Aquae
-  Brunheiro Trail Running 2026 convida-te a explorar a grandiosidade da Serr
- a do Brunheiro e as paisagens históricas de Chaves\,  no distrito de Vila 
- Real. Com partida na tradicional aldeia de Vilar de Nantes e consagração 
- no centro urbano de Chaves\, [..]\nhttps://www.portugalrunning.com/eventos/
- aquae-brunheiro-trail-running/
+DESCRIPTION:Sobre Aquae Brunheiro Trail Running 2026O Aquae Brunheiro Trail
+  Running 2026 chega à sua 3ª edição nos dias 19 e 20 de setembro de 202
+ 6\,  desafiando-te a explorar a majestosa e autêntica Serra do Brunheiro e
+ m Chaves\,  no distrito de Vila Real. Com organização a cargo da Associa�
+ �ão Lobos do[..]\nhttps://www.portugalrunning.com/eventos/aquae-brunheiro-
+ trail-running/
 URL:https://www.portugalrunning.com/eventos/aquae-brunheiro-trail-running/
 END:VEVENT
 END:VCALENDAR

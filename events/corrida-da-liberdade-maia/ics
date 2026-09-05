@@ -4,16 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:49579-0@www.portugalrunning.com
-DTSTAMP:20260902T135947Z
-DTSTART:20260426T230000Z
-DTEND:20260426T235900Z
+UID:66737-0@www.portugalrunning.com
+DTSTAMP:20260905T123046Z
+DTSTART:20270424T230000Z
+DTEND:20270425T225900Z
 LOCATION:Maia\,   Porto Maia\,   Porto
-SUMMARY:Corrida da Liberdade - Maia
-DESCRIPTION:Realiza-se no dia 26 de abril de 2026 pelas 10h\,  a prova come
- ça e acaba no Estádio Prof. Vieira de Carvalho\,  o tempo máximo de dura
- ção desta prova é de 2 horas.\nhttps://www.portugalrunning.com/eventos/c
- orrida-da-liberdade-maia/
+SUMMARY:Corrida da Liberdade - Maia 2027
+DESCRIPTION:Sobre Corrida da Liberdade - Maia 2027A Corrida da Liberdade �
+ � Cidade da Maia 2027 celebra os ideais de Abril e o desporto para todos no
+  domingo\,  25 de abril de 2027\,  às 10h00\,  no concelho da Maia (distri
+ to do Porto). Numa organização dinâmica da ProEvents em forte cooperaç�
+ �o com[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-liberdade-ma
+ ia/
 URL:https://www.portugalrunning.com/eventos/corrida-da-liberdade-maia/
 END:VEVENT
 END:VCALENDAR

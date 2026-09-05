@@ -4,17 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:48034-0@www.portugalrunning.com
-DTSTAMP:20260902T135926Z
-DTSTART:20260308
-DTEND:20260309
+UID:66740-0@www.portugalrunning.com
+DTSTAMP:20260905T123046Z
+DTSTART:20270307
+DTEND:20270308
 LOCATION:Vila do Conde\,   Porto Vila do Conde\,   Porto
-SUMMARY:Corrida da Marginal 2026
-DESCRIPTION:Realiza-se no dia 8 de março de 2026 pelas 10h\,  a prova come
- ça e acaba na Av. Brasil em Vila do Conde e faz o retorno na Av. Dos Banho
- s na Póvoa de Varzim\,  junto ao Desportivo da Póvoa\,  o tempo máximo d
- e duração desta prova é de 2 horas.\nhttps://www.portugalrunning.com/eve
- ntos/corrida-da-marginal/
+SUMMARY:Corrida da Marginal - Póvoa de Varzim / Vila do Conde 2027
+DESCRIPTION:Sobre Corrida da Marginal - Póvoa de Varzim / Vila do Conde 20
+ 27A Corrida da Marginal Póvoa de Varzim / Vila do Conde 2027 realiza-se no
+  domingo\,  7 de março de 2027\,  às 10h00\,  unindo duas das cidades cos
+ teiras mais carismáticas da região Norte. Organizada pela ProEvents em es
+ treita parceria[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-mar
+ ginal/
 URL:https://www.portugalrunning.com/eventos/corrida-da-marginal/
 END:VEVENT
 END:VCALENDAR

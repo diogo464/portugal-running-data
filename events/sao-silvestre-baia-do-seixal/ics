@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d0edc9f2
-DTSTAMP:20250720T222622Z
-DTSTART:20191221
-DTEND:20191222
-LOCATION:Seixal Seixal
-SUMMARY:São Silvestre Baía do Seixal
-DESCRIPTION:DATA / HORA / LOCAL  21 Dezembro – Baía do Seixal –  18:
- 00 horas &nbsp; DISTÂNCIA E PERCURSO  Existirá nesta data uma corrida na
-  extensão de 10km com partida pelas 18:00Horas e um Caminhada na extensão
-  de 5km com partida pelas 18h15m\,  com um tempo máximo de 2 horas de[..]\
- nhttps://www.portugalrunning.com/eventos/sao-silvestre-baia-do-seixal/
+UID:66650-0@www.portugalrunning.com
+DTSTAMP:20260905T123048Z
+DTSTART:20261219
+DTEND:20261220
+LOCATION:Seixal\,   Setúbal Seixal\,   Setúbal
+SUMMARY:VIII São Silvestre Baía do Seixal 2026
+DESCRIPTION:Sobre VIII São Silvestre Baía do Seixal 2026A VIII São Silve
+ stre Baía do Seixal 2026 regressa no sábado\,  19 de dezembro de 2026\,  
+ às 17:30\,  para iluminar as margens do Tejo com uma das corridas festivas
+  mais emblemáticas da Península de Setúbal. Organizada pela WeRun em par
+ ceria com o Centro[..]\nhttps://www.portugalrunning.com/eventos/sao-silvest
+ re-baia-do-seixal/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-baia-do-seixal/
 END:VEVENT
 END:VCALENDAR

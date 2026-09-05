@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66715-0@www.portugalrunning.com
+DTSTAMP:20260905T123046Z
+DTSTART:20270522
+DTEND:20270523
+LOCATION:Miramar\,   Vila Nova de Gaia Miramar\,   Vila Nova de Gaia
+SUMMARY:Corrida de Miramar 2027
+DESCRIPTION:Sobre Corrida de Miramar 2027A Corrida de Miramar 2027 (oficial
+ mente Corrida da Marginal de Miramar) regressa à deslumbrante frente atlâ
+ ntica de Vila Nova de Gaia no sábado\,  22 de maio de 2027\,  para proporc
+ ionar aos atletas uma experiência única de atletismo à beira-mar. Promov
+ ida pela experiente organização da ProEvents em[..]\nhttps://www.portugal
+ running.com/eventos/corrida-de-miramar/
+URL:https://www.portugalrunning.com/eventos/corrida-de-miramar/
+END:VEVENT
+END:VCALENDAR

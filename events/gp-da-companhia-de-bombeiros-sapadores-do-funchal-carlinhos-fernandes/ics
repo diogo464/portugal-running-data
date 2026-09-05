@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66689-0@www.portugalrunning.com
+DTSTAMP:20260905T123047Z
+DTSTART:20260906
+DTEND:20260907
+LOCATION:Funchal\,   Madeira Funchal\,   Madeira
+SUMMARY:GP da Companhia de Bombeiros Sapadores do Funchal / Carlinhos Fernandes 2026
+DESCRIPTION:Sobre GP da Companhia de Bombeiros Sapadores do Funchal / Carli
+ nhos Fernandes 2026Prepara-te para viver a 26.ª edição do Grande Prémio
+  da Companhia de Bombeiros Sapadores do Funchal / «Carlinhos» Fernandes\,
+   uma das provas mais carismáticas e emblemáticas do circuito Madeira a C
+ orrer. Realizada na manhã de domingo\,  6 de[..]\nhttps://www.portugalrunn
+ ing.com/eventos/gp-da-companhia-de-bombeiros-sapadores-do-funchal-carlinhos
+ -fernandes/
+URL:https://www.portugalrunning.com/eventos/gp-da-companhia-de-bombeiros-sapadores-do-funchal-carlinhos-fernandes/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66906-0@www.portugalrunning.com
+DTSTAMP:20260905T123049Z
+DTSTART:20261107T080300Z
+DTEND:20261107T080300Z
+LOCATION:Évora Évora
+SUMMARY:Trail Solidário "Trata-me bem" 2026
+DESCRIPTION:Após anos a sonhar com a criação de um santuário para os ga
+ tos que estão ao seu cuidado\,  a Ana Dias (responsável da associação T
+ rata-me bem)\,  finalmente poderá ver o seu sonho realizado. Este Trail So
+ lidário tem o objetivo de angariar fundos para que os mais de 60 gatos que
+ [..]\nhttps://www.portugalrunning.com/eventos/trail-solidario-trata-me-bem/
+URL:https://www.portugalrunning.com/eventos/trail-solidario-trata-me-bem/
+END:VEVENT
+END:VCALENDAR

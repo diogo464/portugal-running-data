@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66659-0@www.portugalrunning.com
+DTSTAMP:20260905T123045Z
+DTSTART:20261024
+DTEND:20261025
+LOCATION:Trofa\,   Porto Trofa\,   Porto
+SUMMARY:10km Coronado 2026
+DESCRIPTION:Sobre 10km Coronado 2026A 2ª Corrida 10km do Coronado 2026 é 
+ um evento desportivo e solidário de referência no concelho da Trofa\,  or
+ ganizado pela Associação Coronado Runners em estreita parceria com o Muni
+ cípio da Trofa e a Junta de Freguesia do Coronado. Com partida e chegada f
+ ixadas na Rua da[..]\nhttps://www.portugalrunning.com/eventos/10km-coronado
+ /
+URL:https://www.portugalrunning.com/eventos/10km-coronado/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66719-0@www.portugalrunning.com
+DTSTAMP:20260905T123049Z
+DTSTART:20261122T000000Z
+DTEND:20261122T235900Z
+LOCATION:Felgueiras\,   Porto Felgueiras\,   Porto
+SUMMARY:Sousões Trail 2026
+DESCRIPTION:Sobre Sousões Trail 2026O Sousões Trail 2026 regressa aos tri
+ lhos históricos de Felgueiras no domingo\,  22 de novembro de 2026\,  cele
+ brando a sua 4ª edição sob o lema «Um trilho com identidade!». Organiz
+ ado pelo Município de Felgueiras\,  o evento homenageia a linhagem nobre m
+ edieval dos Sousões\,  intimamente ligada à fundação[..]\nhttps://www.p
+ ortugalrunning.com/eventos/sousoes-trail/
+URL:https://www.portugalrunning.com/eventos/sousoes-trail/
+END:VEVENT
+END:VCALENDAR

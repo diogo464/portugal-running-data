@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65226-0@www.portugalrunning.com
+DTSTAMP:20260905T123047Z
+DTSTART:20261017
+DTEND:20261018
+LOCATION:Baltar\,   Paredes Baltar\,   Paredes
+SUMMARY:Fire-Day Bombeiros Voluntários de Baltar 2026
+DESCRIPTION:Sobre Fire-Day Bombeiros Voluntários de Baltar 2026O Fire-Day 
+ Bombeiros Voluntários de Baltar 2026 é um grandioso evento desportivo de 
+ Fitness Racing e Simulação Hyrox de cariz 100% solidário\,  organizado p
+ elos Bombeiros Voluntários de Baltar\,  no concelho de Paredes (distrito d
+ o Porto). O desafio celebra a força\,  a resiliência e o[..]\nhttps://www
+ .portugalrunning.com/eventos/fire-day-bombeiros-voluntarios-de-baltar/
+URL:https://www.portugalrunning.com/eventos/fire-day-bombeiros-voluntarios-de-baltar/
+END:VEVENT
+END:VCALENDAR

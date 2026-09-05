@@ -1,17 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d26ab90e
-DTSTAMP:20250720T222646Z
-DTSTART:20191221
-DTEND:20191222
-LOCATION:Vila do Conde\,  Porto Vila do Conde\,  Porto
-SUMMARY:São Silvestre Vila do Conde
-DESCRIPTION:Venha correr a São Silvestre de Vila do Conde!\nhttps://www.po
- rtugalrunning.com/eventos/sao-silvestre-vila-do-conde/
+UID:66705-0@www.portugalrunning.com
+DTSTAMP:20260905T123048Z
+DTSTART:20261219
+DTEND:20261220
+LOCATION:Vila do Conde\,   Porto Vila do Conde\,   Porto
+SUMMARY:São Silvestre Vila do Conde 2026
+DESCRIPTION:Sobre São Silvestre Vila do Conde 2026A São Silvestre Vila do
+  Conde 2026 regressa na noite de sábado\,  19 de dezembro de 2026\,  para 
+ iluminar as artérias históricas e a frente ribeirinha da emblemática cid
+ ade piscatória de Vila do Conde. Organizada pela conceituada ProEvents em 
+ estreita articulação com a Câmara[..]\nhttps://www.portugalrunning.com/e
+ ventos/sao-silvestre-vila-do-conde/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-vila-do-conde/
 END:VEVENT
 END:VCALENDAR

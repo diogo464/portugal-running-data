@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:57337-0@www.portugalrunning.com
-DTSTAMP:20260903T060135Z
-DTSTART:20260920T073000Z
-DTEND:20260920T073000Z
+DTSTAMP:20260905T123046Z
+DTSTART:20260919T220000Z
+DTEND:20260920T215900Z
 LOCATION:Tavira\,   Faro Tavira\,   Faro
-SUMMARY:Corrida Entre Pontes à Tavira 2026
-DESCRIPTION:Sobre Corrida Entre Pontes à Tavira 2026A Corrida Entre Pontes
-  - Cidade de Tavira 2026 realiza-se no domingo\,  20 de setembro de 2026\, 
-  na charmosa e histórica cidade de Tavira\,  no Algarve (distrito de Faro)
- . Promovida pelo Clube de Vela de Tavira em parceria com a Associação de 
- Atletismo do[..]\nhttps://www.portugalrunning.com/eventos/corrida-entre-pon
- tes-tavira/
+SUMMARY:Corrida Entre Pontes – Tavira 2026
+DESCRIPTION:Sobre Corrida Entre Pontes – Tavira 2026A Corrida Entre Ponte
+ s – Tavira 2026 é um dos mais tradicionais e cénicos eventos de atletis
+ mo de estrada do sotavento algarvio\,  realizando-se no domingo\,  20 de se
+ tembro de 2026\,  na encantadora cidade de Tavira. Com partida e chegada na
+  emblemática Praça da República\, [..]\nhttps://www.portugalrunning.com/
+ eventos/corrida-entre-pontes-tavira/
 URL:https://www.portugalrunning.com/eventos/corrida-entre-pontes-tavira/
 END:VEVENT
 END:VCALENDAR

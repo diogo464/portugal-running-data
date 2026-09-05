@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66693-0@www.portugalrunning.com
+DTSTAMP:20260905T123048Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Porto Porto
+SUMMARY:Mimosa APO 6K 2026
+DESCRIPTION:Sobre Mimosa APO 6K 2026A Mimosa APO 6K 2026 (Corrida dos Ossos
+  Saudáveis) realiza-se no domingo\,  8 de Novembro de 2026\,  integrada no
+  programa oficial da EDP Maratona do Porto\,  na emblemática frente atlân
+ tica da cidade do Porto. Esta iniciativa desportiva e de sensibilização p
+ ública resulta de uma sólida parceria[..]\nhttps://www.portugalrunning.co
+ m/eventos/mimosa-apo-6k/
+URL:https://www.portugalrunning.com/eventos/mimosa-apo-6k/
+END:VEVENT
+END:VCALENDAR

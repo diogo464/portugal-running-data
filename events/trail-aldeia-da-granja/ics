@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66725-0@www.portugalrunning.com
+DTSTAMP:20260905T123049Z
+DTSTART:20261108T000000Z
+DTEND:20261108T235900Z
+LOCATION:Granja\,   Vila Franca de Xira Granja\,   Vila Franca de Xira
+SUMMARY:3º Trail Aldeia da Granja 2026
+DESCRIPTION:Sobre 3º Trail Aldeia da Granja 2026O 3º Trail Aldeia da Gran
+ ja 2026 convida a comunidade de praticantes de atletismo de montanha e aman
+ tes do ar livre a desfrutar das magníficas colinas e trilhos rurais da fre
+ guesia de Vialonga\,  no concelho de Vila Franca de Xira (distrito de Lisbo
+ a)\,  no[..]\nhttps://www.portugalrunning.com/eventos/trail-aldeia-da-granj
+ a/
+URL:https://www.portugalrunning.com/eventos/trail-aldeia-da-granja/
+END:VEVENT
+END:VCALENDAR

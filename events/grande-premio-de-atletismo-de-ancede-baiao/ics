@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66748-0@www.portugalrunning.com
+DTSTAMP:20260905T123047Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Ancede\,   Baião Ancede\,   Baião
+SUMMARY:27º GRANDE DESPORTIVA DE ÂNCEDE — BAIÃO 2026
+DESCRIPTION:Sobre 27º GRANDE DESPORTIVA DE ÂNCEDE — BAIÃO 2026A 27ª G
+ rande Desportiva de Âncede — Baião 2026 (historicamente conhecida como 
+ o prestigiado Grande Prémio de Atletismo de Ancede e carinhosamente apelid
+ ada de A Prova da Bengala) é uma das competições de atletismo de estrada
+  com maior tradição e carisma no[..]\nhttps://www.portugalrunning.com/eve
+ ntos/grande-premio-de-atletismo-de-ancede-baiao/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-de-ancede-baiao/
+END:VEVENT
+END:VCALENDAR

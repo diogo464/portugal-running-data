@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:66746-0@www.portugalrunning.com
+DTSTAMP:20260905T123046Z
+DTSTART:20260919
+DTEND:20260920
+LOCATION:Calheta\,   Madeira Calheta\,   Madeira
+SUMMARY:Corrida da Festa do Pêro 2026
+DESCRIPTION:Sobre Corrida da Festa do Pêro 2026A I Corrida da Festa do Pê
+ ro 2026 estreia-se no calendário de atletismo no final de tarde de sábado
+ \,  19 de setembro de 2026\,  às 17h30\,  na emblemática freguesia da Pon
+ ta do Pargo\,  concelho da Calheta\,  na ilha da Madeira. Promovida pela As
+ sociação Desportiva[..]\nhttps://www.portugalrunning.com/eventos/corrida-
+ da-festa-do-pero/
+URL:https://www.portugalrunning.com/eventos/corrida-da-festa-do-pero/
+END:VEVENT
+END:VCALENDAR

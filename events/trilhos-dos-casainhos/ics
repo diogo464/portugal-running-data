@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:56075-0@www.portugalrunning.com
+DTSTAMP:20260905T123049Z
+DTSTART:20261129
+DTEND:20261130
+LOCATION:Casainhos\,   Fanhões Casainhos\,   Fanhões
+SUMMARY:XVI Trilhos de Casainhos 2026
+DESCRIPTION:Sobre XVI Trilhos de Casainhos 2026A 16ª edição dos Trilhos 
+ de Casaínhos 2026 realiza-se no domingo\,  29 de novembro de 2026\,  na lo
+ calidade de Casaínhos\,  freguesia de Fanhões\,  concelho de Loures\,  di
+ strito de Lisboa. Documentada desde 2009\,  é consagrada como a prova de t
+ rail running pioneira e mais antiga do[..]\nhttps://www.portugalrunning.com
+ /eventos/trilhos-dos-casainhos/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-casainhos/
+END:VEVENT
+END:VCALENDAR

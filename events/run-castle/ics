@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:56072-0@www.portugalrunning.com
+DTSTAMP:20260905T123048Z
+DTSTART:20260906
+DTEND:20260907
+LOCATION:Montemor-o-Novo\,   Évora Montemor-o-Novo\,   Évora
+SUMMARY:Run Castle 2026
+DESCRIPTION:Sobre Run Castle 2026A 11.ª edição do Run Castle 2026 realiz
+ a-se no dia 6 de setembro de 2026 (Domingo)\,  tendo como cenário principa
+ l o majestoso Castelo de Montemor-o-Novo\,  no distrito de Évora. Organiza
+ do pelo Atlético Clube de Montemor-o-Novo através da secção Montemor a 
+ Correr e com o apoio do Município[..]\nhttps://www.portugalrunning.com/eve
+ ntos/run-castle/
+URL:https://www.portugalrunning.com/eventos/run-castle/
+END:VEVENT
+END:VCALENDAR

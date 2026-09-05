@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:65211-0@www.portugalrunning.com
+DTSTAMP:20260905T123048Z
+DTSTART:20261017
+DTEND:20261018
+LOCATION:Ilha de São Jorge\,   Açores Ilha de São Jorge\,   Açores
+SUMMARY:São Jorge Trail Run – Norte Pequeno 2026
+DESCRIPTION:Sobre São Jorge Trail Run – Norte Pequeno 2026O São Jorge T
+ rail Run – Norte Pequeno 2026 convida-te a viver uma autêntica aventura 
+ atlética na emblemática Ilha de São Jorge\,  no coração dos Açores\, 
+  no dia 17 de Outubro de 2026. Com ponto de encontro no acolhedor Salão Pa
+ roquial do[..]\nhttps://www.portugalrunning.com/eventos/sao-jorge-trail-run
+ /
+URL:https://www.portugalrunning.com/eventos/sao-jorge-trail-run/
+END:VEVENT
+END:VCALENDAR

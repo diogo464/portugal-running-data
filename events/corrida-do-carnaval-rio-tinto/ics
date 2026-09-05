@@ -4,17 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:48008-0@www.portugalrunning.com
-DTSTAMP:20260902T135937Z
-DTSTART:20260217
-DTEND:20260218
+UID:66685-0@www.portugalrunning.com
+DTSTAMP:20260905T123046Z
+DTSTART:20270209
+DTEND:20270210
 LOCATION:Rio Tinto\,   Gondomar Rio Tinto\,   Gondomar
-SUMMARY:Corrida do Carnaval - Rio Tinto - 2026
-DESCRIPTION:Realiza-se no dia 17 de fevereiro de 2026. A prova começa e ac
- aba em frente ao Estádio do Sport Clube Rio Tinto. Entrar na Avenida Douto
- r Almeida Santos e por aí se segue até a Avenida Doutor Aníbal Cavaco Si
- lva\,  onde se desce até ao ponto de retorno ao lado[..]\nhttps://www.port
- ugalrunning.com/eventos/corrida-do-carnaval-rio-tinto/
+SUMMARY:10ª Corrida do Carnaval – Rio Tinto/Gondomar 2027
+DESCRIPTION:Sobre 10ª Corrida do Carnaval – Rio Tinto/Gondomar 2027A 10�
+ � Corrida do Carnaval – Rio Tinto/Gondomar 2027 é uma celebração atlé
+ tica e carnavalesca de referência no concelho de Gondomar\,  organizada pe
+ la ProEvents em parceria com a Câmara Municipal de Gondomar\,  a Junta de 
+ Freguesia de Rio Tinto e o Sport[..]\nhttps://www.portugalrunning.com/event
+ os/corrida-do-carnaval-rio-tinto/
 URL:https://www.portugalrunning.com/eventos/corrida-do-carnaval-rio-tinto/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:62782-0@www.portugalrunning.com
+DTSTAMP:20260905T123049Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Ferreira do Zêzere\,   Santarém Ferreira do Zêzere\,   Santarém
+SUMMARY:Trail do Zêzere 2026
+DESCRIPTION:Sobre Trail do Zêzere 2026O 11º Trail do Zêzere 2026 é uma 
+ das mais consagradas e espectaculares provas de trail running da bacia hidr
+ ográfica do Rio Zêzere e da Albufeira de Castelo do Bode\,  acolhida na v
+ ila de Ferreira do Zêzere (distrito de Santarém).Com sede no Pavilhão Mu
+ nicipal de Ferreira[..]\nhttps://www.portugalrunning.com/eventos/trail-do-z
+ ezere/
+URL:https://www.portugalrunning.com/eventos/trail-do-zezere/
+END:VEVENT
+END:VCALENDAR
