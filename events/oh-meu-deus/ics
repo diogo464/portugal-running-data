@@ -4,18 +4,17 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:46746-0@www.portugalrunning.com
-DTSTAMP:20260902T140056Z
-DTSTART:20260501
-DTEND:20260502
+UID:67286-0@www.portugalrunning.com
+DTSTAMP:20260907T060105Z
+DTSTART:20270502
+DTEND:20270503
 LOCATION:Seia\,   Guarda Seia\,   Guarda
-SUMMARY:Oh Meu Deus 2026
-DESCRIPTION:Resultados O&nbsp;Oh Meu Deus by UTMB 2026&nbsp;é a primeira p
- rova portuguesa a integrar o prestigiado circuito UTMB World Series\,  real
- izando-se de&nbsp;1 a 3 de maio de 2026&nbsp;em Seia. Na sua 15.ª edição
- \,  a prova atravessa as Serras da Estrela\,  Açor e Lousã\,  passando po
- r Aldeias do Xisto e Aldeias Históricas[..]\nhttps://www.portugalrunning.c
- om/eventos/oh-meu-deus/
+SUMMARY:Oh Meu Deus - Ultra Trail Centro de Portugal 2027
+DESCRIPTION:Sobre Oh Meu Deus - Ultra Trail Centro de Portugal 2027O Oh Meu
+  Deus – Ultra Trail Centro de Portugal 2027 é uma das mais lendárias e 
+ desafiantes ultramaratonas de montanha da Península Ibérica\,  com epicen
+ tro em Seia e passagem pelas cumeadas mais agrestes do Parque Natural da Se
+ rra da[..]\nhttps://www.portugalrunning.com/eventos/oh-meu-deus/
 URL:https://www.portugalrunning.com/eventos/oh-meu-deus/
 END:VEVENT
 END:VCALENDAR

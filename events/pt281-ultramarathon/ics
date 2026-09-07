@@ -4,16 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:47818-0@www.portugalrunning.com
-DTSTAMP:20260905T123048Z
-DTSTART:20260716
-DTEND:20260717
-LOCATION:Proença a Nova  Proença-a-Nova
-SUMMARY:PT281 2026
-DESCRIPTION:A PT281® Ultramarathon é uma coorganização da Horizontes Tu
- rismo Desportivo e Viagens e a Associação Interior Convida. A prova reali
- zar-se-á nos dias 16 a 19 de julho de 2026.\nhttps://www.portugalrunning.c
- om/eventos/pt281-ultramarathon/
+UID:67290-0@www.portugalrunning.com
+DTSTAMP:20260907T060106Z
+DTSTART:20270715
+DTEND:20270716
+LOCATION:Proença a Nova\,   Castelo Branco Proença a Nova\,   Castelo Branco
+SUMMARY:PT281 Ultramarathon 2027
+DESCRIPTION:Sobre PT281 Ultramarathon 2027A PT281 Ultramarathon 2027 é uma
+  das mais lendárias e extremas ultramaratonas de endurance contínuo do mu
+ ndo\,  percorrendo uma travessia linear de 281 km ao longo do território h
+ istórico da Beira Baixa. Com partida solene no imponente Castelo de Belmon
+ te e chegada triunfal em Proença-a-Nova\,  a prova[..]\nhttps://www.portug
+ alrunning.com/eventos/pt281-ultramarathon/
 URL:https://www.portugalrunning.com/eventos/pt281-ultramarathon/
 END:VEVENT
 END:VCALENDAR
