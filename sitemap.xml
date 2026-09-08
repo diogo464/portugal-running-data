@@ -2,13 +2,58 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-09-06T20:59:51+00:00</lastmod>
+		<lastmod>2026-09-07T10:27:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-do-tejo/</loc>
+		<lastmod>2026-09-07T10:27:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/45-corrida-do-tejo-2026.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/altimetria-corrida-do-tejo.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/penacova-trail-do-centro/</loc>
+		<lastmod>2026-09-07T10:23:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/penacova-trail-do-centro-2026-og.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-porto/</loc>
+		<lastmod>2026-09-07T10:11:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/hyundai-meia-maratona-do-porto-2026.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/altimetria-meia-maratona-porto-7.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/challenge-passadicos-do-mondego/</loc>
+		<lastmod>2026-09-07T08:05:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/pt281-ultramarathon/</loc>
-		<lastmod>2026-09-06T20:59:51+00:00</lastmod>
+		<lastmod>2026-09-07T08:05:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/pt281-ultramarathon.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/rfm-performance-manz-games/</loc>
+		<lastmod>2026-09-07T08:00:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/rfm-performance-manz-games.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/utmb-mont-blanc/</loc>
+		<lastmod>2026-09-07T07:44:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/Affiche-UTMB-Mont-Blanc-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -211,7 +256,7 @@
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-barreiro/</loc>
 		<lastmod>2026-09-06T16:26:02+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/sao-silvestre-barreiro.webp</image:loc>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/sao-silvestre-barreiro-2026-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -219,13 +264,6 @@
 		<lastmod>2026-09-06T16:19:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-solidario-trata-me-bem.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/penacova-trail-do-centro/</loc>
-		<lastmod>2026-09-06T12:03:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/penacova-trail-do-centro-2026-og.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -275,13 +313,6 @@
 		<lastmod>2026-09-06T11:59:44+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/last-man-n-s-dos-remedios-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/rfm-performance-manz-games/</loc>
-		<lastmod>2026-09-06T11:59:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/rfm-performance-manz-games-2026-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -481,7 +512,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/pt281-ultramarathon/</loc>
+		<loc>https://www.portugalrunning.com/eventos/pt281-ultramarathon-2026/</loc>
 		<lastmod>2026-09-03T23:57:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/01/6953284f8610e_449213553_863717349129346_762773629865978214_n.jpg</image:loc>
@@ -2025,13 +2056,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-porto/</loc>
-		<lastmod>2026-09-03T00:31:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/hyundai-meia-maratona-do-porto-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-do-cerco/</loc>
 		<lastmod>2026-09-03T00:31:33+00:00</lastmod>
 		<image:image>
@@ -2050,13 +2074,6 @@
 		<lastmod>2026-09-03T00:31:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/acropolis-the-iron-challenge-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-do-tejo/</loc>
-		<lastmod>2026-09-03T00:31:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/45-corrida-do-tejo-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2431,10 +2448,6 @@
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/meia-maratona-da-nazare-2026.webp</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/challenge-passadicos-do-mondego/</loc>
-		<lastmod>2026-09-02T22:24:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/alut-algarviana-ultra-trail/</loc>
@@ -3231,13 +3244,6 @@
 		<lastmod>2026-08-27T16:29:01+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/Grande-Premio-Sao-Martinho-de-Almada-2025.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/utmb-mont-blanc/</loc>
-		<lastmod>2026-08-26T17:24:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/Affiche-UTMB-Mont-Blanc-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -13808,7 +13814,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/oh-meu-deus/</loc>
+		<loc>https://www.portugalrunning.com/eventos/oh-meu-deus-2026/</loc>
 		<lastmod>2026-08-23T20:54:37+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/oh-meu-deus-2026.webp</image:loc>
