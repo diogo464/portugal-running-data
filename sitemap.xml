@@ -2,7 +2,28 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-09-07T10:27:47+00:00</lastmod>
+		<lastmod>2026-09-09T07:29:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/fatima-games/</loc>
+		<lastmod>2026-09-09T07:29:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/fatima-games-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/simulacao-topo/</loc>
+		<lastmod>2026-09-09T07:26:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/simulacao-topo-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/desafios-nos-arrozais/</loc>
+		<lastmod>2026-09-09T07:25:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/desafios-nos-arrozais-2026.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-do-tejo/</loc>
@@ -2133,13 +2154,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/fatima-games/</loc>
-		<lastmod>2026-09-03T00:30:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/fatima-games-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-5km-feira-da-luz-carnide/</loc>
 		<lastmod>2026-09-03T00:30:51+00:00</lastmod>
 		<image:image>
@@ -2151,13 +2165,6 @@
 		<lastmod>2026-09-03T00:30:48+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/14-gp-de-atletismo-n-sr-do-livramento-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/simulacao-topo/</loc>
-		<lastmod>2026-09-03T00:30:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/simulacao-topo-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2990,13 +2997,6 @@
 		<lastmod>2026-09-02T18:44:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/pop_v813u8j978.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/desafios-nos-arrozais/</loc>
-		<lastmod>2026-09-02T18:41:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/desafios-nos-arrozais-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
