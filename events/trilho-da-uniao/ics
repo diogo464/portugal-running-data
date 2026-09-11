@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67353-0@www.portugalrunning.com
+DTSTAMP:20260911T060035Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Felgueiras\,   Porto Felgueiras\,   Porto
+SUMMARY:3º Trilho da União 2026
+DESCRIPTION:Sobre 3º Trilho da União 2026O 3º Trilho da União 2026 real
+ iza-se no domingo\,  18 de outubro de 2026\,  na emblemática localidade da
+  Longra\,  no concelho de Felgueiras. Promovido pela experiente Associaçã
+ o de Cicloturistas de Felgueiras\,  com o apoio da Câmara Municipal de Fel
+ gueiras\,  da Casa do Povo da Longra[..]\nhttps://www.portugalrunning.com/e
+ ventos/trilho-da-uniao/
+URL:https://www.portugalrunning.com/eventos/trilho-da-uniao/
+END:VEVENT
+END:VCALENDAR

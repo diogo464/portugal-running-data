@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67336-0@www.portugalrunning.com
+DTSTAMP:20260911T060034Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Viana do Alentejo\,   Évora Viana do Alentejo\,   Évora
+SUMMARY:I Corrida e Caminhada Solidária - Correr por Todos 2026
+DESCRIPTION:Sobre I Corrida e Caminhada Solidária - Correr por Todos 2026A
+  I Corrida e Caminhada Solidária - Correr por Todos 2026 é uma iniciativa
+  desportiva e de solidariedade comunitária que assinala a Semana Europeia 
+ de Combate à Pobreza e à Exclusão Social da EAPN. Promovida pela Associa
+ ção Terra Mãe em[..]\nhttps://www.portugalrunning.com/eventos/i-corrida-
+ e-caminhada-solidaria-correr-por-todos/
+URL:https://www.portugalrunning.com/eventos/i-corrida-e-caminhada-solidaria-correr-por-todos/
+END:VEVENT
+END:VCALENDAR

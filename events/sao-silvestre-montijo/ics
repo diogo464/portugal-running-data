@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67341-0@www.portugalrunning.com
+DTSTAMP:20260911T060035Z
+DTSTART:20261219T000000Z
+DTEND:20261219T235900Z
+LOCATION:Montijo Montijo
+SUMMARY:DECATHLON São Silvestre Montijo 2026
+DESCRIPTION:Sobre DECATHLON São Silvestre Montijo 2026A DECATHLON São Sil
+ vestre Montijo 2026 marca o regresso da grande tradição natalícia e desp
+ ortiva às ruas do Montijo\,  numa organização da Xistarca em parceria co
+ m a Câmara Municipal do Montijo e a Decathlon Montijo. Agendada para a tar
+ de de 19 de dezembro de 2026\, [..]\nhttps://www.portugalrunning.com/evento
+ s/sao-silvestre-montijo/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-montijo/
+END:VEVENT
+END:VCALENDAR

@@ -2,7 +2,70 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-09-09T07:29:54+00:00</lastmod>
+		<lastmod>2026-09-10T19:26:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-g-d-prado/</loc>
+		<lastmod>2026-09-10T19:26:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-sao-silvestre-g-d-prado.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilho-da-uniao/</loc>
+		<lastmod>2026-09-10T18:20:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-trilho-da-uniao.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/lousa-mountain-trail/</loc>
+		<lastmod>2026-09-10T18:15:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-lousa-mountain-trail.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-olivais/</loc>
+		<lastmod>2026-09-10T18:06:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-sao-silvestre-olivais.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-montijo/</loc>
+		<lastmod>2026-09-10T17:55:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-sao-silvestre-montijo.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-jorge-pina/</loc>
+		<lastmod>2026-09-10T17:50:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/corrida-jorge-pina-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/i-corrida-e-caminhada-solidaria-correr-por-todos/</loc>
+		<lastmod>2026-09-10T14:33:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-i-corrida-e-caminhada-solidaria-correr-por-todos.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/caminhada-trail-da-salamandra/</loc>
+		<lastmod>2026-09-10T08:55:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-caminhada-trail-da-salamandra.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-nacional-do-professor-e-da-educacao/</loc>
+		<lastmod>2026-09-10T08:55:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz_roxo-8-corrida.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/fatima-games/</loc>
@@ -2822,13 +2885,6 @@
 		<lastmod>2026-09-02T19:23:48+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/corrida-entre-parques-coimbra-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-jorge-pina/</loc>
-		<lastmod>2026-09-02T19:23:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/corrida-jorge-pina-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>

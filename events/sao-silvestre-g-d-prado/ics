@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67357-0@www.portugalrunning.com
+DTSTAMP:20260911T060035Z
+DTSTART:20261121T000000Z
+DTEND:20261121T235900Z
+LOCATION:Vila de Prado\,   Vila Verde Vila de Prado\,   Vila Verde
+SUMMARY:S. Silvestre - G.D. Prado 2026
+DESCRIPTION:Sobre S. Silvestre - G.D. Prado 2026A S. Silvestre - G.D. Prado
+  2026 (2.ª Corrida S. Silvestre de Prado) celebra a grande festa do atleti
+ smo de estrada no sábado\,  21 de novembro de 2026\,  na bonita e históri
+ ca Vila de Prado\,  concelho de Vila Verde. Organizada com brio pelo emblem
+ ático[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-g-d-prado
+ /
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-g-d-prado/
+END:VEVENT
+END:VCALENDAR
