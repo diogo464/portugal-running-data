@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:41628-0@www.portugalrunning.com
-DTSTAMP:20260903T060142Z
-DTSTART:20270411T060000Z
-DTEND:20270411T060000Z
+DTSTAMP:20260912T060033Z
+DTSTART:20270403T230000Z
+DTEND:20270404T225900Z
 LOCATION:Paris\,   França Paris\,   França
 SUMMARY:Maratona de Paris 2027
-DESCRIPTION:Sobre Maratona de Paris 2027A Maratona de Paris 2027 é uma das
-  maiores\,  mais concorridas e cinematográficas maratonas do mundo\,  reun
- indo anualmente mais de 55.000 participantes na emblemática capital de Fra
- nça. Com partida majestosa na Avenue des Champs-Élysées e chegada apote�
- �tica no Bois de Boulogne / Porte Dauphine\,  o traçado[..]\nhttps://www.p
- ortugalrunning.com/eventos/maratona-de-paris/
+DESCRIPTION:Sobre Maratona de Paris 2027A 50ª edição histórica da ASICS
+  Maratona de Paris 2027 celebra meio século de glória desportiva numa das
+  mais grandiosas e cobiçadas maratonas do planeta\,  agendada oficialmente
+  para domingo\,  4 de abril de 2027\,  na deslumbrante capital de França. 
+ Com partida monumental na lendária Avenue des[..]\nhttps://www.portugalrun
+ ning.com/eventos/maratona-de-paris/
 URL:https://www.portugalrunning.com/eventos/maratona-de-paris/
 END:VEVENT
 END:VCALENDAR
