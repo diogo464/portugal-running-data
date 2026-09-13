@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67365-0@www.portugalrunning.com
+DTSTAMP:20260913T060034Z
+DTSTART:20261213
+DTEND:20261214
+LOCATION:Alcoutim\,   Faro Alcoutim\,   Faro
+SUMMARY:VII TRAIL DO FALCÃO REAL 2026
+DESCRIPTION:Sobre VII TRAIL DO FALCÃO REAL 2026O VII Trail do Falcão Real
+  2026 afirma-se como uma das mais autênticas e desafiantes celebrações d
+ e trail running no sotavento algarvio\,  levando centenas de atletas a expl
+ orar as paisagens selvagens e escarpadas do concelho raiano de Alcoutim. Or
+ ganizada com dedicação pela Secção de[..]\nhttps://www.portugalrunning.
+ com/eventos/trail-falcao-real/
+URL:https://www.portugalrunning.com/eventos/trail-falcao-real/
+END:VEVENT
+END:VCALENDAR
