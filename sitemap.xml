@@ -2,7 +2,258 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-09-12T08:22:46+00:00</lastmod>
+		<lastmod>2026-09-13T22:33:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-porto/</loc>
+		<lastmod>2026-09-13T22:33:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/hyundai-meia-maratona-do-porto-2026.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/altimetria-meia-maratona-porto-7.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-do-tejo/</loc>
+		<lastmod>2026-09-13T22:27:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/45-corrida-do-tejo-2026.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/altimetria-corrida-do-tejo.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-nacional-do-professor-e-da-educacao/</loc>
+		<lastmod>2026-09-13T13:25:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz_roxo-8-corrida.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-cabeca-aldeia-natal/</loc>
+		<lastmod>2026-09-13T11:44:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-trail-cabeca-aldeia-natal.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-cerco/</loc>
+		<lastmod>2026-09-13T11:34:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/iv-trail-do-cerco-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-entre-douro-e-tua/</loc>
+		<lastmod>2026-09-13T11:33:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-entre-douro-e-tua-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-da-benedita/</loc>
+		<lastmod>2026-09-13T11:33:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/mmbenedita26_banner.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/acropolis-the-iron-challenge/</loc>
+		<lastmod>2026-09-13T11:33:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/acropolis-the-iron-challenge-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-rios-e-levadas-teaga-aventura/</loc>
+		<lastmod>2026-09-13T11:32:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-rios-e-levadas-teaga-aventura-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-sealand-santa-cruz/</loc>
+		<lastmod>2026-09-13T11:32:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/pop_i1bxv3a938.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-boneca-douro/</loc>
+		<lastmod>2026-09-13T11:32:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-boneca-douro-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/tex-trail-encostas-de-xira/</loc>
+		<lastmod>2026-09-13T11:32:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/tex-trail-encostas-de-xira-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-da-trofa/</loc>
+		<lastmod>2026-09-13T11:32:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-da-trofa-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trofeu-ctr-viver-santarem/</loc>
+		<lastmod>2026-09-13T11:31:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-ctr-viver-santarem-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-acr-calvariense/</loc>
+		<lastmod>2026-09-13T11:31:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/pop_v813u8j978.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-dos-flamingos/</loc>
+		<lastmod>2026-09-13T11:31:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-dos-flamingos-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/desafios-nos-arrozais/</loc>
+		<lastmod>2026-09-13T11:31:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/desafios-nos-arrozais-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/tor-des-geants-tor/</loc>
+		<lastmod>2026-09-13T11:31:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/tor-des-geants-tor-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/biatlo-barcelos/</loc>
+		<lastmod>2026-09-13T11:30:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/biatlo-barcelos-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/pirilampos-night-run-bajouca/</loc>
+		<lastmod>2026-09-13T11:09:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/pirilampos-night-run-bajouca-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-do-concelho-de-castro-marim/</loc>
+		<lastmod>2026-09-13T11:08:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/17-meia-maratona-do-concelho-de-castro-marim-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/barquinha-night-run/</loc>
+		<lastmod>2026-09-13T11:08:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/barquinha-night-run-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/stone-race-ocr/</loc>
+		<lastmod>2026-09-13T11:08:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/stone-race-ocr-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/bairrada-eco-challenge/</loc>
+		<lastmod>2026-09-13T11:08:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/bairrada-eco-challenge-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/vieirafit-race/</loc>
+		<lastmod>2026-09-13T11:08:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/vieirafit-race-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sunset-trail-de-afife/</loc>
+		<lastmod>2026-09-13T11:07:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/sunset-trail-de-afife-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/hygoes/</loc>
+		<lastmod>2026-09-13T11:07:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/hygoes-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-solidario-pelo-autismo/</loc>
+		<lastmod>2026-09-13T11:07:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-solidario-pelo-autismo-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/fatima-games/</loc>
+		<lastmod>2026-09-13T11:07:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/fatima-games-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-5km-feira-da-luz-carnide/</loc>
+		<lastmod>2026-09-13T11:06:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/corrida-5km-feira-da-luz-carnide-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/meia-maratona-sao-joao-das-lampas/</loc>
+		<lastmod>2026-09-13T11:06:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/meia-maratona-sao-joao-das-lampas-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/grande-premio-atletismo-n-a-sr-a-livramento/</loc>
+		<lastmod>2026-09-13T11:06:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/14-gp-de-atletismo-n-sr-do-livramento-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/simulacao-topo/</loc>
+		<lastmod>2026-09-13T11:06:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/simulacao-topo-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/noite-verde-run-walk/</loc>
+		<lastmod>2026-09-13T11:05:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/noite-verde-run-walk-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/rfm-performance-manz-games/</loc>
+		<lastmod>2026-09-13T11:05:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/rfm-performance-manz-games.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-batalha/</loc>
@@ -82,58 +333,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-nacional-do-professor-e-da-educacao/</loc>
-		<lastmod>2026-09-10T08:55:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz_roxo-8-corrida.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/fatima-games/</loc>
-		<lastmod>2026-09-09T07:29:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/fatima-games-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/simulacao-topo/</loc>
-		<lastmod>2026-09-09T07:26:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/simulacao-topo-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/desafios-nos-arrozais/</loc>
-		<lastmod>2026-09-09T07:25:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/desafios-nos-arrozais-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-do-tejo/</loc>
-		<lastmod>2026-09-07T10:27:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/45-corrida-do-tejo-2026.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/altimetria-corrida-do-tejo.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/penacova-trail-do-centro/</loc>
 		<lastmod>2026-09-07T10:23:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/penacova-trail-do-centro-2026-og.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-porto/</loc>
-		<lastmod>2026-09-07T10:11:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/hyundai-meia-maratona-do-porto-2026.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/altimetria-meia-maratona-porto-7.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -145,13 +348,6 @@
 		<lastmod>2026-09-07T08:05:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/pt281-ultramarathon.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/rfm-performance-manz-games/</loc>
-		<lastmod>2026-09-07T08:00:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/rfm-performance-manz-games.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1895,17 +2091,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/lynxrace-mafra/</loc>
-		<lastmod>2026-09-03T00:33:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/lynxrace-mafra-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/grande-corrida-ano-novo/</loc>
 		<lastmod>2026-09-03T00:33:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/grande-corrida-ano-novo-2027.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/lynxrace-mafra/</loc>
+		<lastmod>2026-09-03T00:33:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/lynxrace-mafra-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2154,101 +2350,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-do-cerco/</loc>
-		<lastmod>2026-09-03T00:31:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/iv-trail-do-cerco-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-entre-douro-e-tua/</loc>
-		<lastmod>2026-09-03T00:31:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-entre-douro-e-tua-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/acropolis-the-iron-challenge/</loc>
-		<lastmod>2026-09-03T00:31:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/acropolis-the-iron-challenge-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-da-ponte/</loc>
 		<lastmod>2026-09-03T00:31:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/corrida-da-ponte-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-rios-e-levadas-teaga-aventura/</loc>
-		<lastmod>2026-09-03T00:31:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-rios-e-levadas-teaga-aventura-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trofeu-ctr-viver-santarem/</loc>
-		<lastmod>2026-09-03T00:31:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-ctr-viver-santarem-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-dos-flamingos/</loc>
-		<lastmod>2026-09-03T00:31:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-dos-flamingos-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/biatlo-barcelos/</loc>
-		<lastmod>2026-09-03T00:31:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/biatlo-barcelos-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/pirilampos-night-run-bajouca/</loc>
-		<lastmod>2026-09-03T00:31:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/pirilampos-night-run-bajouca-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-do-concelho-de-castro-marim/</loc>
-		<lastmod>2026-09-03T00:31:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/17-meia-maratona-do-concelho-de-castro-marim-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-solidario-pelo-autismo/</loc>
-		<lastmod>2026-09-03T00:30:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-solidario-pelo-autismo-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-5km-feira-da-luz-carnide/</loc>
-		<lastmod>2026-09-03T00:30:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/corrida-5km-feira-da-luz-carnide-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/grande-premio-atletismo-n-a-sr-a-livramento/</loc>
-		<lastmod>2026-09-03T00:30:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/14-gp-de-atletismo-n-sr-do-livramento-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/noite-verde-run-walk/</loc>
-		<lastmod>2026-09-03T00:30:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/noite-verde-run-walk-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2309,13 +2414,6 @@
 		<lastmod>2026-09-03T00:17:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/viseu-trail-running-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/hygoes/</loc>
-		<lastmod>2026-09-03T00:16:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/hygoes-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2944,13 +3042,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/tex-trail-encostas-de-xira/</loc>
-		<lastmod>2026-09-02T19:15:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/tex-trail-encostas-de-xira-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/lalim-vertical/</loc>
 		<lastmod>2026-09-02T19:14:06+00:00</lastmod>
 		<image:image>
@@ -3000,13 +3091,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-da-benedita/</loc>
-		<lastmod>2026-09-02T19:02:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/02/mmbenedita26_banner.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/corrida-porto-de-leixoes/</loc>
 		<lastmod>2026-09-02T19:02:06+00:00</lastmod>
 		<image:image>
@@ -3032,83 +3116,6 @@
 		<lastmod>2026-09-02T18:59:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/vertical-costa-norte-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-sealand-santa-cruz/</loc>
-		<lastmod>2026-09-02T18:50:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/04/pop_i1bxv3a938.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-boneca-douro/</loc>
-		<lastmod>2026-09-02T18:49:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-boneca-douro-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sunset-trail-de-afife/</loc>
-		<lastmod>2026-09-02T18:49:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/sunset-trail-de-afife-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-da-trofa/</loc>
-		<lastmod>2026-09-02T18:47:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-da-trofa-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-acr-calvariense/</loc>
-		<lastmod>2026-09-02T18:44:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/07/pop_v813u8j978.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/tor-des-geants-tor/</loc>
-		<lastmod>2026-09-02T18:40:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/tor-des-geants-tor-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/meia-maratona-sao-joao-das-lampas/</loc>
-		<lastmod>2026-09-02T18:39:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/meia-maratona-sao-joao-das-lampas-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/barquinha-night-run/</loc>
-		<lastmod>2026-09-02T18:35:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/barquinha-night-run-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/stone-race-ocr/</loc>
-		<lastmod>2026-09-02T18:33:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/stone-race-ocr-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/bairrada-eco-challenge/</loc>
-		<lastmod>2026-09-02T18:32:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/bairrada-eco-challenge-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/vieirafit-race/</loc>
-		<lastmod>2026-09-02T18:31:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/vieirafit-race-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -10668,7 +10675,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/lousa-mountain-trail/</loc>
+		<loc>https://www.portugalrunning.com/eventos/lousa-mountain-trail-2026/</loc>
 		<lastmod>2026-08-23T21:58:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/pop_ofweg5b913.jpg</image:loc>
@@ -11102,7 +11109,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-batalha/</loc>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-batalha-2025/</loc>
 		<lastmod>2026-08-23T21:51:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/pop_m63pv2u876-1.jpg</image:loc>
