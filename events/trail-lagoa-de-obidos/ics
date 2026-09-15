@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67386-0@www.portugalrunning.com
+DTSTAMP:20260915T060059Z
+DTSTART:20261206
+DTEND:20261207
+LOCATION:Óbidos\,   Leiria Óbidos\,   Leiria
+SUMMARY:1º Trail Trilhos da Lagoa de Obidos 2026
+DESCRIPTION:Sobre 1º Trail Trilhos da Lagoa de Obidos 2026O 1º Trail Tril
+ hos da Lagoa de Obidos 2026 é um evento desportivo em plena Natureza organ
+ izado pelo Arelho Running Team\,  com partida e centro logístico sediados 
+ no Centro Cultural\,  Social e Recreativo Arelhense\,  na freguesia do Arel
+ ho\,  concelho de Óbidos. Agendado[..]\nhttps://www.portugalrunning.com/ev
+ entos/trail-lagoa-de-obidos/
+URL:https://www.portugalrunning.com/eventos/trail-lagoa-de-obidos/
+END:VEVENT
+END:VCALENDAR
