@@ -5,6 +5,7 @@ import json
 
 ORGANIZER_XISTARCA = "xistarca"
 ORGANIZER_WERUN = "werun"
+ORGANIZER_MANZ = "manz"
 ORGANIZER_HMS_SPORTS = "hms-sports"
 ORGANIZER_CPA = "cpa"
 ORGANIZER_TRILHO_PERDIDO = "trilho-perdido"
@@ -27,6 +28,7 @@ ORGANIZER_GRUPO_DE_CULTURA_E_DESPORTO_DOS_BOMBEIROS_VOLUNTARIOS_DE_S_B_MESSINES 
 CLASS_TO_ORGANIZER = {
     "event_organizer-xistarca": ORGANIZER_XISTARCA,
     "event_organizer-we-run": ORGANIZER_WERUN,
+    "event_organizer-manz": ORGANIZER_MANZ,
     "event_organizer-cpa": ORGANIZER_CPA,
     "event_organizer-eventsport": ORGANIZER_EVENT_SPORT,
     "event_organizer-trilho-perdido": ORGANIZER_TRILHO_PERDIDO,

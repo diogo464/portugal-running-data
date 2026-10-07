@@ -230,8 +230,7 @@ for slug in sys.argv[1:]:
     location_input_path = os.path.join("events", slug, "location-input")
     ics_content = open(ics_path, "rb").read().decode("utf-8", errors="ignore")
     ics_location_match = re.search(r"LOCATION:(.*)", ics_content)
-    assert ics_location_match is not None
-    ics_location = clean_ics_location(ics_location_match[1])
+    ics_location = clean_ics_location(ics_location_match[1]) if ics_location_match else ""
     if ics_location in FIXUP_TABLE:
         ics_location = FIXUP_TABLE[ics_location]
 

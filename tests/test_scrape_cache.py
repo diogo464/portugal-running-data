@@ -181,6 +181,28 @@ class ScrapeCacheTests(unittest.TestCase):
             (self.event_dir / "location-input").read_text(), first_input
         )
 
+    def test_manz_organizer_is_recognized(self):
+        (self.event_dir / "data.json").write_text(
+            json.dumps({"class_list": ["ajde_events", "event_organizer-manz"]})
+        )
+
+        self.run_script("extract-organizer", "example-event")
+
+        self.assertEqual((self.event_dir / "organizer").read_text(), "manz")
+
+    def test_missing_or_empty_location_removes_cached_artifacts(self):
+        for ics in ("BEGIN:VEVENT\nEND:VEVENT\n", "LOCATION:\n", "LOCATION:   \n"):
+            with self.subTest(ics=ics):
+                (self.event_dir / "ics").write_text(ics)
+                for artifact in ("location", "location-input"):
+                    (self.event_dir / artifact).write_text("stale")
+
+                self.run_script("fetch-location", "example-event")
+
+                self.assertFalse((self.event_dir / "location").exists())
+                self.assertFalse((self.event_dir / "location-input").exists())
+                self.assertEqual(self.recorded_requests(), [])
+
     def test_summary_cache_ignores_markup_and_refreshes_visible_text(self):
         data_path = self.event_dir / "data.json"
         data_path.write_text(
