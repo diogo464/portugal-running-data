@@ -2,25 +2,25 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-10-07T10:39:09+00:00</lastmod>
+		<lastmod>2026-10-07T10:46:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/grande-premio-da-mendiga/</loc>
-		<lastmod>2026-10-07T10:39:09+00:00</lastmod>
+		<lastmod>2026-10-07T10:46:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-grande-premio-da-mendiga.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sinctime-evento-558/</loc>
-		<lastmod>2026-10-07T10:38:52+00:00</lastmod>
+		<lastmod>2026-10-07T10:46:04+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-sinctime-evento-558.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/she-ultra-portugal/</loc>
-		<lastmod>2026-10-07T10:38:34+00:00</lastmod>
+		<lastmod>2026-10-07T10:45:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-she-ultra-portugal.webp</image:loc>
 		</image:image>
@@ -1741,13 +1741,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/correr-pela-europa/</loc>
-		<lastmod>2026-09-27T21:51:17+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-correr-pela-europa-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/tor-des-geants-tor/</loc>
 		<lastmod>2026-09-27T21:51:17+00:00</lastmod>
 		<image:image>
@@ -1755,10 +1748,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/biatlo-barcelos/</loc>
-		<lastmod>2026-09-27T21:51:13+00:00</lastmod>
+		<loc>https://www.portugalrunning.com/eventos/correr-pela-europa/</loc>
+		<lastmod>2026-09-27T21:51:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/biatlo-barcelos-2026.webp</image:loc>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-correr-pela-europa-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1766,6 +1759,13 @@
 		<lastmod>2026-09-27T21:51:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-meia-maratona-de-copenhaga-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/biatlo-barcelos/</loc>
+		<lastmod>2026-09-27T21:51:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/biatlo-barcelos-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
