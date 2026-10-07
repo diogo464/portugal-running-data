@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:66740-0@www.portugalrunning.com
-DTSTAMP:20260905T123046Z
+DTSTAMP:20261003T182330Z
 DTSTART:20270307
 DTEND:20270308
 LOCATION:Vila do Conde\,   Porto Vila do Conde\,   Porto
 SUMMARY:Corrida da Marginal - Póvoa de Varzim / Vila do Conde 2027
-DESCRIPTION:Sobre Corrida da Marginal - Póvoa de Varzim / Vila do Conde 20
- 27A Corrida da Marginal Póvoa de Varzim / Vila do Conde 2027 realiza-se no
-  domingo\,  7 de março de 2027\,  às 10h00\,  unindo duas das cidades cos
- teiras mais carismáticas da região Norte. Organizada pela ProEvents em es
- treita parceria[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-mar
- ginal/
+DESCRIPTION:Sobre Corrida da Marginal &#8211; Póvoa de Varzim / Vila do Co
+ nde 2027A Corrida da Marginal Póvoa de Varzim / Vila do Conde 2027 realiza
+ -se no domingo\,  7 de março de 2027\,  às 10h00\,  unindo duas das cidad
+ es costeiras mais carismáticas da região Norte. Organizada pela ProEvents
+  em estreita parceria[..]\nhttps://www.portugalrunning.com/eventos/corrida-
+ da-marginal/
 URL:https://www.portugalrunning.com/eventos/corrida-da-marginal/
 END:VEVENT
 END:VCALENDAR

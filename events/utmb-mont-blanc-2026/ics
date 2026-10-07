@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:55240-0@www.portugalrunning.com
+DTSTAMP:20261003T182411Z
+DTSTART:20260824T122000Z
+DTEND:20260824T225900Z
+LOCATION:Chamonix\,   França Chamonix\,   França
+SUMMARY:UTMB Mont-Blanc 2026
+DESCRIPTION:Sobre a UTMB Mont-Blanc 2026 O UTMB Mont-Blanc é a mítica fin
+ al mundial do circuito Dacia UTMB World Series\,  reunindo os melhores atle
+ tas de Trail Running do planeta à volta do maciço do Mont-Blanc. Planeia 
+ a tua corrida com a nossa Calculadora de Pace e explora o calendário de co
+ rridas[..]\nhttps://www.portugalrunning.com/eventos/utmb-mont-blanc-2026/
+URL:https://www.portugalrunning.com/eventos/utmb-mont-blanc-2026/
+END:VEVENT
+END:VCALENDAR

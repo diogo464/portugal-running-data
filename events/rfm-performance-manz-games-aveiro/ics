@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68363-0@www.portugalrunning.com
+DTSTAMP:20261003T182354Z
+DTSTART:20261107
+DTEND:20261108
+LOCATION:Aveiro Aveiro
+SUMMARY:RFM Performance MANZ Games – Aveiro 2026
+DESCRIPTION:Sobre RFM Performance MANZ Games – Aveiro 2026O RFM Performan
+ ce MANZ Games – Aveiro 2026 realiza-se nos dias 7 e 8 de Novembro de 2026
+  (Sábado e Domingo) no complexo Caixa UA (Universidade de Aveiro)\,  no co
+ ncelho e distrito de Aveiro. A inovadora competição de fitness racing com
+ bina corrida pedestre[..]\nhttps://www.portugalrunning.com/eventos/rfm-perf
+ ormance-manz-games-aveiro/
+URL:https://www.portugalrunning.com/eventos/rfm-performance-manz-games-aveiro/
+END:VEVENT
+END:VCALENDAR

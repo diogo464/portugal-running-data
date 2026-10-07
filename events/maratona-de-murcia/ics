@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68856-0@www.portugalrunning.com
+DTSTAMP:20261003T182353Z
+DTSTART:20270207T000000Z
+DTEND:20270207T235900Z
+LOCATION:Espanha Espanha
+SUMMARY:Maratona de Múrcia 2027
+DESCRIPTION:Sobre Maratona de Múrcia 2027A Maratona de Múrcia 2027 realiz
+ a-se no domingo\,  7 de fevereiro de 2027\,  com tiro de partida no emblem�
+ �tico Paseo del Malecón e meta triunfal junto à imponente Sé Catedral\, 
+  em Múrcia\,  Espanha. Organizada pelo Club Murcia Runcity\,  esta prova d
+ e referência internacional atrai milhares de[..]\nhttps://www.portugalrunn
+ ing.com/eventos/maratona-de-murcia/
+URL:https://www.portugalrunning.com/eventos/maratona-de-murcia/
+END:VEVENT
+END:VCALENDAR

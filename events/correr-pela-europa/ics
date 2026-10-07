@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:66731-0@www.portugalrunning.com
-DTSTAMP:20260905T123046Z
+DTSTAMP:20261003T182328Z
 DTSTART:20260920
 DTEND:20260921
-LOCATION:Vila Nova de Santo André\,   Santiago do Cacém Vila Nova de Santo André\,   Santiago do Cacém
-SUMMARY:Correr pela Europa - 9ª Edição 2026
-DESCRIPTION:Sobre Correr pela Europa - 9ª Edição 2026O evento Correr pel
- a Europa - 9ª Edição 2026 regressa à cidade de Vila Nova de Santo Andr�
- �\,  no concelho de Santiago do Cacém (distrito de Setúbal)\,  no domingo
- \,  20 de setembro de 2026. Promovido pela Câmara Municipal de Santiago do
-  Cacém em[..]\nhttps://www.portugalrunning.com/eventos/correr-pela-europa/
+LOCATION:Santiago do Cacém\,   Setúbal Santiago do Cacém\,   Setubal
+SUMMARY:Correr pela Europa 2026
+DESCRIPTION:Sobre Correr pela Europa 2026O Correr pela Europa 2026 (9ª edi
+ ção) realiza-se no dia 20 de Setembro de 2026 (Domingo)\,  com partidas a
+  partir das 09:30 no Parque Central de Vila Nova de Santo André\,  concelh
+ o de Santiago do Cacém\,  distrito de Setúbal. A prova assinala a Semana 
+ Europeia da[..]\nhttps://www.portugalrunning.com/eventos/correr-pela-europa
+ /
 URL:https://www.portugalrunning.com/eventos/correr-pela-europa/
 END:VEVENT
 END:VCALENDAR

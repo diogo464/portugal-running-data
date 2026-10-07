@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67605-0@www.portugalrunning.com
+DTSTAMP:20261003T182409Z
+DTSTART:20261201
+DTEND:20261202
+LOCATION:Cartaxo\,   Santarém Cartaxo\,   Santarém
+SUMMARY:5º Treino Trail Convívio Trilho dos Cágados VCO 2026
+DESCRIPTION:Sobre 5º Treino Trail Convívio Trilho dos Cágados VCO 2026O 
+ 5º Treino Trail Convívio Trilho dos Cágados VCO 2026 realiza-se na terç
+ a-feira\,  1 de dezembro de 2026 (feriado nacional)\,  na acolhedora locali
+ dade de Vila Chã de Ourique\,  concelho do Cartaxo\,  distrito de Santaré
+ m. Organizado pela Associação Trilho dos Cágados VCO\, [..]\nhttps://www
+ .portugalrunning.com/eventos/treino-trail-convivio-trilho-dos-cagados/
+URL:https://www.portugalrunning.com/eventos/treino-trail-convivio-trilho-dos-cagados/
+END:VEVENT
+END:VCALENDAR

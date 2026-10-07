@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68288-0@www.portugalrunning.com
+DTSTAMP:20261003T182332Z
+DTSTART:20261024
+DTEND:20261025
+LOCATION:Ourique\,   Beja Ourique\,   Beja
+SUMMARY:7ª Corrida Mega Fitness 2026
+DESCRIPTION:Sobre 7ª Corrida Mega Fitness 2026A 7ª Corrida Mega Fitness 2
+ 026 realiza-se no dia 24 de Outubro de 2026 (Sábado)\,  com partida agenda
+ da para as 10:00 na Escola EB23/S de Ourique\,  no concelho de Ourique\,  d
+ istrito de Beja. Esta iniciativa atlética reúne praticantes e entusiastas
+  num percurso rápido em ambiente[..]\nhttps://www.portugalrunning.com/even
+ tos/corrida-mega-fitness/
+URL:https://www.portugalrunning.com/eventos/corrida-mega-fitness/
+END:VEVENT
+END:VCALENDAR

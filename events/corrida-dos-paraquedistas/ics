@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51295-0@www.portugalrunning.com
-DTSTAMP:20260903T060135Z
-DTSTART:20261101T100000Z
-DTEND:20261101T100000Z
-LOCATION:Aeródromo Militar de Tancos\,   Vila Nova de Barquinha Aeródromo Militar de Tancos\,   Vila Nova de Barquinha
+DTSTAMP:20261003T182332Z
+DTSTART:20261101T000000Z
+DTEND:20261101T235900Z
+LOCATION:Vila Nova da Barquinha\,   Santarém Vila Nova da Barquinha\,   Santarém
 SUMMARY:Corrida dos Paraquedistas 2026
-DESCRIPTION:Sobre Corrida dos Paraquedistas 2026A 4ª Corrida dos Paraquedi
- stas 2026 realiza-se no dia 1 de novembro de 2026 (Domingo)\,  no emblemát
- ico Regimento de Paraquedistas em Tancos\,  concelho de Vila Nova da Barqui
- nha\,  distrito de Santarém. Organizada pela Associação A Minha Corrida 
- com o apoio técnico da Xistarca\,  esta edição comemora[..]\nhttps://www
- .portugalrunning.com/eventos/corrida-dos-paraquedistas/
+DESCRIPTION:Sobre Corrida dos Paraquedistas 2026A Corrida dos Paraquedistas
+  2026 (4ª edição comemorativa dos 70 Anos das Tropas Paraquedistas) real
+ iza-se no dia 1 de Novembro de 2026 (Domingo)\,  com centro de operações 
+ no Regimento de Paraquedistas\,  em Tancos\,  concelho de Vila Nova da Barq
+ uinha\,  distrito de Santarém. Esta prova única proporciona[..]\nhttps://
+ www.portugalrunning.com/eventos/corrida-dos-paraquedistas/
 URL:https://www.portugalrunning.com/eventos/corrida-dos-paraquedistas/
 END:VEVENT
 END:VCALENDAR

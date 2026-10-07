@@ -1,19 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:690d36d495102
-DTSTAMP:20251107T000124Z
+UID:46320-0@www.portugalrunning.com
+DTSTAMP:20261003T182359Z
 DTSTART:20260327
 DTEND:20260328
-LOCATION:Reguengos de Monsaraz\,  Évora Reguengos de Monsaraz\,  Évora
+LOCATION:Reguengos de Monsaraz\,   Évora Reguengos de Monsaraz\,   Évora
 SUMMARY:Sharish Monsaraz Natur Trail 2026
-DESCRIPTION:O Sharish Monsaraz Natur Trail será realizado nos dias 26 e 27
-  de março de 2025. É um evento organizado pelo Sharish Gin/ GD Piranhas d
- o Alqueva\,  com o apoio de vários parceiros institucionais e privados.\nh
- ttps://www.portugalrunning.com/eventos/sharish-monsaraz-natur-trail-2026/
+DESCRIPTION:O Sharish Monsaraz Natur Trail 2026 é uma das provas de trail 
+ running mais emblemáticas da região do Alentejo\,  centrada na vila medie
+ val de Monsaraz (Reguengos de Monsaraz)\,  Portugal. O evento decorre em te
+ rreno de trail (trilhos naturais) técnico e desafiante\,  frequentemente d
+ escrito como um "serrote quebra-pernas" devido aos desníveis[..]\nhttps://
+ www.portugalrunning.com/eventos/sharish-monsaraz-natur-trail-2026/
 URL:https://www.portugalrunning.com/eventos/sharish-monsaraz-natur-trail-2026/
 END:VEVENT
 END:VCALENDAR

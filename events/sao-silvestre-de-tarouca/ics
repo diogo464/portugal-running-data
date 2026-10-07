@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68556-0@www.portugalrunning.com
+DTSTAMP:20261003T182356Z
+DTSTART:20261212
+DTEND:20261213
+LOCATION:Tarouca\,   Viseu Tarouca\,   Viseu
+SUMMARY:São Silvestre de Tarouca 2026
+DESCRIPTION:Sobre São Silvestre de Tarouca 2026A São Silvestre de Tarouca
+  2026 (1ª edição) realiza-se no dia 12 de Dezembro de 2026 (Sábado)\,  
+ com partida agendada para as 18:00 no Centro Cívico de Tarouca\,  no conce
+ lho de Tarouca\,  distrito de Viseu. Esta iniciativa marca a estreia da pro
+ va no concelho\,  reunindo[..]\nhttps://www.portugalrunning.com/eventos/sao
+ -silvestre-de-tarouca/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-tarouca/
+END:VEVENT
+END:VCALENDAR

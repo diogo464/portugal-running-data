@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:53165-0@www.portugalrunning.com
-DTSTAMP:20260907T060105Z
-DTSTART:20260904T190000Z
-DTEND:20260904T190000Z
+DTSTAMP:20261003T182349Z
+DTSTART:20260903T230000Z
+DTEND:20260904T225900Z
 LOCATION:Juncal\,   Porto de Mós Juncal\,   Porto de Mós
 SUMMARY:Neon Juncal 2026
-DESCRIPTION:Sobre O Neon Juncal 2026O Neon Juncal 2026 realiza-se na noite 
- de 4 de setembro de 2026 (sexta-feira)\,  na vila do Juncal\,  Porto de Mó
- s\,  no distrito de Leiria. Organizado pela Junta de Freguesia do Juncal co
- m o apoio do Município de Porto de Mós e integrado nas Festas do[..]\nhtt
- ps://www.portugalrunning.com/eventos/neon-juncal/
+DESCRIPTION:Sobre Neon Juncal 2026O Neon Juncal 2026 realiza-se na noite de
+  4 de Setembro de 2026 (Sexta-feira)\,  com início marcado para as 21:00 n
+ o Parque Verde do Juncal\,  na freguesia do Juncal\,  concelho de Porto de 
+ Mós\,  distrito de Leiria. Inserido nas tradicionais Festas do Freguês\, 
+  o evento proporciona uma[..]\nhttps://www.portugalrunning.com/eventos/neon
+ -juncal/
 URL:https://www.portugalrunning.com/eventos/neon-juncal/
 END:VEVENT
 END:VCALENDAR

@@ -4,17 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:47949-0@www.portugalrunning.com
-DTSTAMP:20260902T140204Z
-DTSTART:20260322
-DTEND:20260323
+UID:68293-0@www.portugalrunning.com
+DTSTAMP:20261003T182406Z
+DTSTART:20270321
+DTEND:20270322
 LOCATION:Santiago do Cacém\,   Setúbal Santiago do Cacém\,   Setubal
-SUMMARY:Trail Primavera 2026
-DESCRIPTION:O 7º TRAIL DA PRIMAVERA é um evento de natureza desportiva\, 
-  onde o valor das refeições reverterá na totalidade para a Associação 
- de Bem Estar das Ademas. Este evento terá três distâncias: Trail Curto\,
-   Trail Longo e Caminhada.\nhttps://www.portugalrunning.com/eventos/trail-p
- rimavera/
+SUMMARY:8º Trail da Primavera 2027
+DESCRIPTION:Sobre 8º Trail da Primavera 2027O 8º Trail da Primavera 2027 
+ realiza-se no dia 21 de Março de 2027 (Domingo)\,  com partida e chegada n
+ a aldeia das Ademas\,  concelho de Santiago do Cacém\,  distrito de Setúb
+ al. A prova convida atletas e caminheiros a explorar os deslumbrantes trilh
+ os e paisagens rurais[..]\nhttps://www.portugalrunning.com/eventos/trail-pr
+ imavera/
 URL:https://www.portugalrunning.com/eventos/trail-primavera/
 END:VEVENT
 END:VCALENDAR

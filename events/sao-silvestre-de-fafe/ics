@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67548-0@www.portugalrunning.com
+DTSTAMP:20261003T182356Z
+DTSTART:20261212
+DTEND:20261213
+LOCATION:Fafe\,   Braga Fafe\,   Braga
+SUMMARY:IV São Silvestre de Fafe 2026
+DESCRIPTION:Sobre IV São Silvestre de Fafe 2026A IV São Silvestre de Fafe
+  2026 (4ª edição) realiza-se no dia 12 de dezembro de 2026 na cidade de 
+ Fafe\,  distrito de Braga\,  sob organização da Natureza Alternativa – 
+ Associação Cultural e Desportiva com a Junta de Freguesia de Fafe e o apo
+ io[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-de-fafe/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-fafe/
+END:VEVENT
+END:VCALENDAR

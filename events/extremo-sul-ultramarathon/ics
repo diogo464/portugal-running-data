@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67459-0@www.portugalrunning.com
+DTSTAMP:20261003T182336Z
+DTSTART:20261120
+DTEND:20261121
+LOCATION:Chuí\,   Rio Grande do Sul\,   Brasil
+SUMMARY:Extremo Sul Ultramarathon 2026
+DESCRIPTION:Sobre Extremo Sul Ultramarathon 2026A Extremo Sul Ultramarathon
+  2026 (A Maior Praia do Mundo) é uma das travessias a pé de endurance mai
+ s extremas do planeta\,  realizando-se de 20 a 22 de novembro de 2026 ao lo
+ ngo da costa atlântica do Rio Grande do Sul\,  no Brasil. Em regime non-st
+ op[..]\nhttps://www.portugalrunning.com/eventos/extremo-sul-ultramarathon/
+URL:https://www.portugalrunning.com/eventos/extremo-sul-ultramarathon/
+END:VEVENT
+END:VCALENDAR

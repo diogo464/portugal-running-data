@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68304-0@www.portugalrunning.com
+DTSTAMP:20261003T182331Z
+DTSTART:20261018
+DTEND:20261019
+LOCATION:Miramar\,   Vila Nova de Gaia Miramar\,   Vila Nova de Gaia
+SUMMARY:8ª Generali Tranquilidade Corrida do Bombeiro 2026
+DESCRIPTION:Sobre 8ª Generali Tranquilidade Corrida do Bombeiro 2026O 8ª 
+ Generali Tranquilidade Corrida do Bombeiro 2026 realiza-se no dia 18 de Out
+ ubro de 2026 (Domingo)\,  com partida agendada para as 09:00 em Miramar\,  
+ Vila Nova de Gaia\,  no concelho de Vila Nova de Gaia\,  distrito de Porto.
+  Esta conceituada competição desportiva[..]\nhttps://www.portugalrunning.
+ com/eventos/corrida-do-bombeiro/
+URL:https://www.portugalrunning.com/eventos/corrida-do-bombeiro/
+END:VEVENT
+END:VCALENDAR

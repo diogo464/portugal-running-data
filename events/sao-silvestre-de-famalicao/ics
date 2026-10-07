@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68416-0@www.portugalrunning.com
+DTSTAMP:20261003T182356Z
+DTSTART:20261223
+DTEND:20261224
+LOCATION:Vila Nova de Famalicão\,   Braga Famalicão\,   Porto
+SUMMARY:São Silvestre de Famalicão 2026
+DESCRIPTION:Sobre São Silvestre de Famalicão 2026O São Silvestre de Fama
+ licão 2026 realiza-se no dia 23 de Dezembro de 2026 (Quarta-feira) em Vila
+  Nova de Famalicão\,  Braga\,  no concelho de Vila Nova de Famalicão\,  d
+ istrito de Braga. Esta conceituada competição desportiva reúne praticant
+ es e entusiastas de corrida num ambiente de celebração[..]\nhttps://www.p
+ ortugalrunning.com/eventos/sao-silvestre-de-famalicao/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-famalicao/
+END:VEVENT
+END:VCALENDAR

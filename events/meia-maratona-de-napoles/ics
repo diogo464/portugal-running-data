@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68859-0@www.portugalrunning.com
+DTSTAMP:20261003T182346Z
+DTSTART:20270221T000000Z
+DTEND:20270221T235900Z
+LOCATION:Nápoles\,   Itália Nápoles\,   Itália
+SUMMARY:Meia Maratona de Nápoles 2027
+DESCRIPTION:Sobre Meia Maratona de Nápoles 2027A Meia Maratona de Nápoles
+  2027 (Napoli City Half Marathon) realiza-se no domingo\,  21 de fevereiro 
+ de 2027\,  com partida e meta na emblemática Mostra d'Oltremare\,  em Náp
+ oles\,  Itália. Distinguida com o selo World Athletics Heritage e Road Rac
+ e Label\,  a prova é organizada pela[..]\nhttps://www.portugalrunning.com/
+ eventos/meia-maratona-de-napoles/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-napoles/
+END:VEVENT
+END:VCALENDAR

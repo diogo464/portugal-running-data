@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:54342-0@www.portugalrunning.com
-DTSTAMP:20260903T060132Z
+DTSTAMP:20261003T182330Z
 DTSTART:20261115
 DTEND:20261116
-LOCATION:Alverca Alverca\,   Lisboa
+LOCATION:Vila Franca de Xira\,   Lisboa Vila Franca de Xira\,   Lisboa
 SUMMARY:Corrida Cidade de Alverca 2026
-DESCRIPTION:Sobre Corrida Cidade de Alverca 2026A 9.ª Edição da Corrida 
- Cidade de Alverca 2026 realiza-se no domingo\,  15 de novembro de 2026\,  n
- a dinâmica cidade de Alverca do Ribatejo\,  concelho de Vila Franca de Xir
- a\,  distrito de Lisboa. Promovida pela Associação Portugal Talentus com 
- o apoio institucional do Município de[..]\nhttps://www.portugalrunning.com
- /eventos/corrida-cidade-de-alverca/
+DESCRIPTION:Sobre Corrida Cidade de Alverca 2026A Corrida Cidade de Alverca
+  2026 (9ª edição) realiza-se no dia 15 de Novembro de 2026 (Domingo)\,  
+ com partidas a partir das 09:15 em frente ao Centro de Estágio do FC Alver
+ ca\,  na freguesia de Alverca do Ribatejo e Sobralinho\,  concelho de Vila 
+ Franca de[..]\nhttps://www.portugalrunning.com/eventos/corrida-cidade-de-al
+ verca/
 URL:https://www.portugalrunning.com/eventos/corrida-cidade-de-alverca/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67416-0@www.portugalrunning.com
+DTSTAMP:20261003T182402Z
+DTSTART:20261025
+DTEND:20261026
+LOCATION:Santa Maria da Feira\,   Aveiro Santa Maria da Feira\,   Aveiro
+SUMMARY:Trail do Viso 2026
+DESCRIPTION:Sobre Trail do Viso 2026O Trail do Viso 2026 realiza-se no dia 
+ 25 de outubro de 2026 em Guisande\,  no concelho de Santa Maria da Feira\, 
+  distrito de Aveiro. Organizado pela Associação Guisande Futebol Clube co
+ m o apoio do município e da Run4Feira\,  o evento convida os apaixonados p
+ elo trail[..]\nhttps://www.portugalrunning.com/eventos/trail-do-viso/
+URL:https://www.portugalrunning.com/eventos/trail-do-viso/
+END:VEVENT
+END:VCALENDAR

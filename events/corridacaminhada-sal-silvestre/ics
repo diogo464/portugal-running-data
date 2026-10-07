@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68575-0@www.portugalrunning.com
+DTSTAMP:20261003T182330Z
+DTSTART:20261205
+DTEND:20261206
+LOCATION:Parque Urbano 25 de Abril\,   Alcácer do Sal Parque Urbano 25 de Abril\,   Alcácer do Sal
+SUMMARY:2ª Corrida/Caminhada Sal Silvestre 2026
+DESCRIPTION:Sobre 2ª Corrida/Caminhada Sal Silvestre 2026A 2ª Corrida/Cam
+ inhada Sal Silvestre 2026 realiza-se no dia 5 de Dezembro de 2026 (Sábado)
+ \,  com partida agendada para as 18:00 no Parque Urbano 25 de Abril\,  em A
+ lcácer do Sal\,  distrito de Setúbal. O evento celebra o desporto e o con
+ vívio popular da quadra[..]\nhttps://www.portugalrunning.com/eventos/corri
+ dacaminhada-sal-silvestre/
+URL:https://www.portugalrunning.com/eventos/corridacaminhada-sal-silvestre/
+END:VEVENT
+END:VCALENDAR

@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:46477-0@www.portugalrunning.com
-DTSTAMP:20260903T060141Z
+DTSTAMP:20261003T182354Z
 DTSTART:20261101
 DTEND:20261102
-LOCATION:Nova Iorque. Estados Unidos da América Nova Iorque\,   Estados Unidos da América
 SUMMARY:Maratona de Nova Iorque 2026
-DESCRIPTION:Sobre Maratona de Nova Iorque 2026A TCS New York City Marathon 
- 2026 (Maratona de Nova Iorque) realiza-se no domingo\,  1 de novembro de 20
- 26\,  na mítica cidade de Nova Iorque\,  nos Estados Unidos da América. O
- rganizada pelo prestigiado clube New York Road Runners (NYRR) com o patroc�
- �nio da Tata Consultancy[..]\nhttps://www.portugalrunning.com/eventos/marat
- ona-de-nova-iorque/
+DESCRIPTION:Sobre Maratona de Nova Iorque 2026A Maratona de Nova Iorque 202
+ 6 (TCS New York City Marathon\,  membro prestigiado das Abbott World Marath
+ on Majors) realiza-se no dia 1 de Novembro de 2026 (Domingo)\,  com as prim
+ eiras partidas a partir das 08:00 em Fort Wadsworth\,  Staten Island\,  e m
+ eta triunfal no Central[..]\nhttps://www.portugalrunning.com/eventos/marato
+ na-de-nova-iorque/
 URL:https://www.portugalrunning.com/eventos/maratona-de-nova-iorque/
 END:VEVENT
 END:VCALENDAR

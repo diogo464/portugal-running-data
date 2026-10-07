@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68880-0@www.portugalrunning.com
+DTSTAMP:20261003T182345Z
+DTSTART:20270619
+DTEND:20270620
+LOCATION:Tromsø\,   Noruega Tromsø\,   Noruega
+SUMMARY:Meia Maratona do Sol da Meia Noite 2027
+DESCRIPTION:Sobre Meia Maratona do Sol da Meia Noite 2027A Meia Maratona do
+  Sol da Meia Noite 2027 (Midnight Sun Marathon) realiza-se no sábado\,  19
+  de junho de 2027\,  em Tromsø\,  no norte da Noruega. Reconhecida mundial
+ mente como a prova certificada pela AIMS mais a norte do planeta\,  é disp
+ utada sob[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-do-sol
+ -da-meia-noite/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-do-sol-da-meia-noite/
+END:VEVENT
+END:VCALENDAR

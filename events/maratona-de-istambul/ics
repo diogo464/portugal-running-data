@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67448-0@www.portugalrunning.com
+DTSTAMP:20261003T182349Z
+DTSTART:20261101
+DTEND:20261102
+LOCATION:Istambul\,   Turquia Istambul\,   Turquia
+SUMMARY:Maratona de Istambul 2026
+DESCRIPTION:Sobre Maratona de Istambul 2026A Maratona de Istambul 2026 (Tü
+ rkiye İş Bankası Istanbul Marathon) realiza-se no domingo\,  1 de novemb
+ ro de 2026\,  na mítica metrópole de Istambul\,  Turquia. Com o galardão
+  Gold Label da World Athletics\,  é a única maratona no mundo que une doi
+ s continentes numa única passada\,  partindo[..]\nhttps://www.portugalrunn
+ ing.com/eventos/maratona-de-istambul/
+URL:https://www.portugalrunning.com/eventos/maratona-de-istambul/
+END:VEVENT
+END:VCALENDAR

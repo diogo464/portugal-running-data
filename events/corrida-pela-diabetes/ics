@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67559-0@www.portugalrunning.com
+DTSTAMP:20261003T182336Z
+DTSTART:20261128
+DTEND:20261129
+LOCATION:Caldas da Rainha\,   Leiria Caldas da Rainha\,   Leiria
+SUMMARY:Corrida Pela Diabetes 2026
+DESCRIPTION:Sobre Corrida Pela Diabetes 2026A Corrida Pela Diabetes 2026 re
+ aliza-se na noite de 28 de Novembro de 2026 (Sábado)\,  com partida agenda
+ da para as 19:00 no centro urbano de Caldas da Rainha\,  distrito de Leiria
+ . O evento assume-se como uma grande manifestação de solidariedade e sens
+ ibilização desportiva para a prevenção[..]\nhttps://www.portugalrunning
+ .com/eventos/corrida-pela-diabetes/
+URL:https://www.portugalrunning.com/eventos/corrida-pela-diabetes/
+END:VEVENT
+END:VCALENDAR

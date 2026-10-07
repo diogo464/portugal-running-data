@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67584-0@www.portugalrunning.com
+DTSTAMP:20261003T182337Z
+DTSTART:20261025
+DTEND:20261026
+LOCATION:Barcelos\,   Braga Barcelos\,   Braga
+SUMMARY:Grande Prémio de Atletismo da Silva 2026
+DESCRIPTION:Sobre Grande Prémio de Atletismo da Silva 2026O Grande Prémio
+  de Atletismo da Silva 2026 (43ª edição) realiza-se no domingo\,  25 de 
+ Outubro de 2026\,  com partida agendada para as 10:00 na freguesia da Silva
+ \,  no concelho de Barcelos\,  distrito de Braga. Promovido pelo histórico
+  Núcleo Desportivo da Silva\,  o[..]\nhttps://www.portugalrunning.com/even
+ tos/grande-premio-de-atletismo-da-silva/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-da-silva/
+END:VEVENT
+END:VCALENDAR

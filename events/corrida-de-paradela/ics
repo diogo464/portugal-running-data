@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:54913-0@www.portugalrunning.com
-DTSTAMP:20260903T060133Z
-DTSTART:20261025T090000Z
-DTEND:20261025T090000Z
-LOCATION:Paradela do Vouga\,   Aveiro Paradela do Vouga\,   Aveiro
+DTSTAMP:20261003T182332Z
+DTSTART:20261024T230000Z
+DTEND:20261025T235900Z
+LOCATION:Sever do Vouga\,   Aveiro Sever do Vouga\,   Aveiro
 SUMMARY:V Corrida de Paradela 2026
-DESCRIPTION:Sobre V Corrida de Paradela 2026A V Corrida de Paradela 2026 re
- aliza-se na manhã de domingo\,  25 de outubro de 2026\,  na encantadora lo
- calidade de Paradela do Vouga\,  no concelho de Sever do Vouga\,  distrito 
- de Aveiro. Promovida pelo Centro Desportivo e Cultural de Paradela do Vouga
-  com a chancela[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-par
- adela/
+DESCRIPTION:Sobre V Corrida de Paradela 2026A V Corrida de Paradela 2026 é
+  um prestigiado evento de atletismo de estrada sediado em Paradela do Vouga
+ \,  no concelho de Sever do Vouga\,  distrito de Aveiro. Organizada pelo Ce
+ ntro Desportivo e Cultural de Paradela do Vouga com apoio do município e d
+ a Comunidade[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-parade
+ la/
 URL:https://www.portugalrunning.com/eventos/corrida-de-paradela/
 END:VEVENT
 END:VCALENDAR

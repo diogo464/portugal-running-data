@@ -4,17 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:44265-0@www.portugalrunning.com
-DTSTAMP:20260902T140114Z
-DTSTART:20260103T152800Z
-DTEND:20260103T235900Z
+UID:67476-0@www.portugalrunning.com
+DTSTAMP:20261003T182356Z
+DTSTART:20270102T000000Z
+DTEND:20270102T235900Z
 LOCATION:Tondela\,   Viseu Tondela\,   Viseu
-SUMMARY:São Silvestre Tondela 2026
-DESCRIPTION:A 1ª São Silvestre de Tondela\,  realizar-se-á no dia 3 de j
- aneiro de 2026\,  com saída e chegada no Parque Urbano de Tondela pelas 18
- h00m. A corrida terá a distância de 10 KM num percurso “circular” com
-  a distância de 5 KM. O participante que participar na corrida deverá com
- pletar[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-tondela/
+SUMMARY:3ª São Silvestre de Tondela 2027
+DESCRIPTION:Sobre 3ª São Silvestre de Tondela 2027A 3ª São Silvestre de
+  Tondela 2027 realiza-se no sábado\,  2 de janeiro de 2027\,  celebrando o
+  início do novo ano desportivo com partida e chegada instaladas no Parque 
+ Urbano de Tondela. Organizada pela Vários – Cooperativa de Solidariedade
+  Social\,  com o patrocínio da[..]\nhttps://www.portugalrunning.com/evento
+ s/sao-silvestre-tondela/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-tondela/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67501-0@www.portugalrunning.com
+DTSTAMP:20261003T182354Z
+DTSTART:20261011
+DTEND:20261012
+LOCATION:Cadaval\,   Lisboa Cadaval\,   Lisboa
+SUMMARY:Palmilhar Montejunto 2026
+DESCRIPTION:Sobre Palmilhar Montejunto 2026O Palmilhar Montejunto 2026 real
+ iza-se no domingo\,  11 de Outubro de 2026\,  com partida às 10:30 no embl
+ emático Centro de Interpretação da Serra de Montejunto\,  no concelho do
+  Cadaval\,  distrito de Lisboa. Promovido pela Palmilhar Portugal com o apo
+ io institucional do Município do Cadaval\,  o evento dá[..]\nhttps://www.
+ portugalrunning.com/eventos/palmilhar-montejunto/
+URL:https://www.portugalrunning.com/eventos/palmilhar-montejunto/
+END:VEVENT
+END:VCALENDAR

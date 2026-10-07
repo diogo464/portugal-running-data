@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:59214-0@www.portugalrunning.com
-DTSTAMP:20260903T060134Z
-DTSTART:20261025T093000Z
-DTEND:20261025T093000Z
+DTSTAMP:20261003T182330Z
+DTSTART:20261024T230000Z
+DTEND:20261025T235900Z
 LOCATION:Lisboa Lisboa
 SUMMARY:Corrida Decathlon 2026
-DESCRIPTION:Sobre Corrida Decathlon 2026A Corrida Decathlon 2026 realiza-se
-  no domingo\,  25 de Outubro de 2026\,  no cenário moderno e ribeirinho do
-  Parque das Nações\,  em Lisboa. Promovida pela Decathlon Portugal com cr
- onometragem oficial da Lap2Go\,  a prova celebra o desporto para todos\,  j
- untando atletas experientes\,  praticantes ocasionais e famílias num[..]\n
- https://www.portugalrunning.com/eventos/corrida-decathlon/
+DESCRIPTION:Sobre Corrida Decathlon 2026A Corrida Decathlon 2026 regressa �
+ � capital no dia 25 de Outubro de 2026 para celebrar o desporto para todos.
+  Com um traçado citadino concebido tanto para quem procura bater o seu rec
+ orde pessoal como para quem se quer estrear na distância\,  o evento ofere
+ ce um ambiente[..]\nhttps://www.portugalrunning.com/eventos/corrida-decathl
+ on/
 URL:https://www.portugalrunning.com/eventos/corrida-decathlon/
 END:VEVENT
 END:VCALENDAR

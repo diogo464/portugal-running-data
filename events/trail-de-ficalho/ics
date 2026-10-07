@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:54289-0@www.portugalrunning.com
-DTSTAMP:20260903T060154Z
+DTSTAMP:20261003T182359Z
 DTSTART:20261101
 DTEND:20261102
-LOCATION:Vila Verde de Ficalho\,   Serpa Vila Verde de Ficalho\,   Serpa
+LOCATION:Serpa\,   Beja Serpa\,   Beja
 SUMMARY:Trail de Ficalho 2026
-DESCRIPTION:Sobre Trail de Ficalho 2026O VI Trail de Ficalho 2026 realiza-s
- e no dia 1 de novembro de 2026 (Domingo)\,  na carismática aldeia raiana d
- e Vila Verde de Ficalho\,  concelho de Serpa\,  distrito de Beja. Integrado
-  no Circuito de Trail do Baixo Alentejo e na prestigiada Taça Alengarve Tr
- ail\,  o evento[..]\nhttps://www.portugalrunning.com/eventos/trail-de-fical
- ho/
+DESCRIPTION:Sobre Trail de Ficalho 2026O VI Trail de Ficalho 2026 (6ª edi�
+ �ão) realiza-se no dia 1 de Novembro de 2026 (Domingo)\,  na carismática 
+ aldeia de Vila Verde de Ficalho\,  concelho de Serpa\,  distrito de Beja. I
+ ntegrado no Circuito de Trail do Baixo Alentejo e na Taça Alengarve Trail\
+ ,  o evento[..]\nhttps://www.portugalrunning.com/eventos/trail-de-ficalho/
 URL:https://www.portugalrunning.com/eventos/trail-de-ficalho/
 END:VEVENT
 END:VCALENDAR

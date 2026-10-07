@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67553-0@www.portugalrunning.com
+DTSTAMP:20261003T182329Z
+DTSTART:20261220T000000Z
+DTEND:20261220T235900Z
+LOCATION:Loures\,   Lisboa Loures\,   Lisboa
+SUMMARY:Carcavelos X-Mas Trail 2026
+DESCRIPTION:Sobre Carcavelos X-Mas Trail 2026O Carcavelos X-Mas Trail 2026 
+ realiza-se no domingo\,  20 de dezembro de 2026\,  na pitoresca aldeia de C
+ arcavelos de Lousa\,  concelho de Loures e distrito de Lisboa. Promovido pe
+ la Associação Recreativa de Carcavelos de Lousa (ARCL)\,  este evento de 
+ trail running natalício convida atletas e caminheiros[..]\nhttps://www.por
+ tugalrunning.com/eventos/carcavelos-xmas-trail/
+URL:https://www.portugalrunning.com/eventos/carcavelos-xmas-trail/
+END:VEVENT
+END:VCALENDAR

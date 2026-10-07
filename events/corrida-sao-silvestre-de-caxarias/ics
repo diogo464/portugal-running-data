@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67566-0@www.portugalrunning.com
+DTSTAMP:20261003T182334Z
+DTSTART:20261227
+DTEND:20261228
+LOCATION:Ourém\,   Santarém Ourém\,   Santarém
+SUMMARY:1ª Corrida São Silvestre de Caxarias 2026
+DESCRIPTION:Sobre 1ª Corrida São Silvestre de Caxarias 2026A 1ª Corrida 
+ São Silvestre de Caxarias 2026 realiza-se no dia 27 de Dezembro de 2026 (D
+ omingo)\,  com partida agendada para as 17:00 no Largo das Tílias\,  na vi
+ la de Caxarias\,  concelho de Ourém\,  distrito de Santarém. Esta ediçã
+ o de estreia traz a[..]\nhttps://www.portugalrunning.com/eventos/corrida-sa
+ o-silvestre-de-caxarias/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-silvestre-de-caxarias/
+END:VEVENT
+END:VCALENDAR

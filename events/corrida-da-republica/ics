@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68308-0@www.portugalrunning.com
+DTSTAMP:20261003T182331Z
+DTSTART:20261005
+DTEND:20261006
+LOCATION:Rio Tinto\,   Gondomar Rio Tinto\,   Gondomar
+SUMMARY:12ª Corrida da República 2026
+DESCRIPTION:Sobre 12ª Corrida da República 2026O 12ª Corrida da Repúbli
+ ca 2026 realiza-se no dia 5 de Outubro de 2026 (Segunda-feira)\,  com parti
+ da agendada para as 10:00 em Rio Tinto\,  Gondomar\,  no concelho de Gondom
+ ar\,  distrito de Porto. Esta conceituada competição desportiva reúne pr
+ aticantes e entusiastas de corrida num ambiente de[..]\nhttps://www.portuga
+ lrunning.com/eventos/corrida-da-republica/
+URL:https://www.portugalrunning.com/eventos/corrida-da-republica/
+END:VEVENT
+END:VCALENDAR

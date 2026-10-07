@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50430-0@www.portugalrunning.com
-DTSTAMP:20260903T060136Z
-DTSTART:20261003
-DTEND:20261004
-LOCATION:Penhas da Saúde\,   Covilhã Penhas da Saúde\,   Covilhã
+DTSTAMP:20261003T182334Z
+DTSTART:20261002
+DTEND:20261003
+LOCATION:Covilhã\,   Castelo Branco Covilhã\,   Castelo Branco
 SUMMARY:Estrelaçor Ultra Endurance 2026
-DESCRIPTION:Sobre Estrelaçor Ultra Endurance 2026A 12ª edição da Estrel
- Açor Ultra Endurance 2026 decorre nos dias 2 e 3 de outubro de 2026 na imp
- onente cordilheira central da Serra da Estrela e Serra do Açor. Com partid
- a e chegada nas Penhas da Saúde (junto ao Hotel Luna Serra da Estrela)\,  
- em[..]\nhttps://www.portugalrunning.com/eventos/estrelacor-ultra-endurance/
+DESCRIPTION:Sobre Estrelaçor Ultra Endurance 2026A Estrelaçor Ultra Endur
+ ance 2026 (12ª edição) decorre nos dias 2 e 3 de outubro de 2026 na maje
+ stosa cordilheira central da Serra da Estrela e Serra do Açor. Promovida p
+ ela Associação Desportiva O Mundo da Corrida\,  a lendária ultramaratona
+  de montanha atravessa os vales glaciares[..]\nhttps://www.portugalrunning.
+ com/eventos/estrelacor-ultra-endurance/
 URL:https://www.portugalrunning.com/eventos/estrelacor-ultra-endurance/
 END:VEVENT
 END:VCALENDAR

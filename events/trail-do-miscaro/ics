@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69021-0@www.portugalrunning.com
+DTSTAMP:20261003T182400Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Aguiar da Beira\,   Guarda Aguiar da Beira\,   Guarda
+SUMMARY:Trail do Míscaro 2026
+DESCRIPTION:Sobre Trail do Míscaro 2026O Trail do Míscaro 2026 (12ª edi�
+ �ão) realiza-se no dia 15 de Novembro de 2026 (Domingo)\,  com partida age
+ ndada para as 09:30 em Aguiar da Beira\,  distrito da Guarda. Este conceitu
+ ado evento de trail running e caminhada na natureza celebra as paisagens be
+ irãs e a rica[..]\nhttps://www.portugalrunning.com/eventos/trail-do-miscar
+ o/
+URL:https://www.portugalrunning.com/eventos/trail-do-miscaro/
+END:VEVENT
+END:VCALENDAR

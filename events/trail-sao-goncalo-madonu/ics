@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68938-0@www.portugalrunning.com
+DTSTAMP:20261003T182406Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Barcelos\,   Braga Barcelos\,   Braga
+SUMMARY:6º Trail São Gonçalo Madonu 2026
+DESCRIPTION:Sobre 6º Trail São Gonçalo Madonu 2026O 6º Trail São Gonç
+ alo Madonu 2026 (Edição às Cegas) realiza-se no dia 8 de Novembro de 202
+ 6 (Domingo) em Carapeços\,  no concelho de Barcelos\,  distrito de Braga. 
+ Esta edição especial introduz um conceito inovador de aventura e estraté
+ gia onde os participantes não têm[..]\nhttps://www.portugalrunning.com/ev
+ entos/trail-sao-goncalo-madonu/
+URL:https://www.portugalrunning.com/eventos/trail-sao-goncalo-madonu/
+END:VEVENT
+END:VCALENDAR

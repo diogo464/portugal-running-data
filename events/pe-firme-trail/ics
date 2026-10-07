@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50687-0@www.portugalrunning.com
-DTSTAMP:20260905T123048Z
+DTSTAMP:20261003T182350Z
 DTSTART:20260926
 DTEND:20260927
-LOCATION:Penafirme\,   Torres Vedras Penafirme\,   Torres Vedras
+LOCATION:Torres Vedras\,   Lisboa Torres Vedras\,   Lisboa
 SUMMARY:Pé Firme Trail 2026
-DESCRIPTION:Sobre Pé Firme Trail 2026A 3.ª edição do Pé Firme Trail 20
- 26 realiza-se nos dias 26 e 27 de setembro de 2026 (Sábado e Domingo)\,  n
- a localidade de Penafirme e falésias de Santa Cruz / Porto Novo\,  concelh
- o de Torres Vedras\,  distrito de Lisboa. Organizado pelo dinâmico Clube A
- cadémico de[..]\nhttps://www.portugalrunning.com/eventos/pe-firme-trail/
+DESCRIPTION:Sobre Pé Firme Trail 2026O Pé Firme Trail 2026 (3ª edição)
+  realiza-se nos dias 26 e 27 de setembro de 2026 (Sábado e Domingo)\,  na 
+ localidade de Penafirme e falésias de Santa Cruz / Porto Novo\,  concelho 
+ de Torres Vedras\,  distrito de Lisboa. Organizado pelo dinâmico Clube Aca
+ démico de Penafirme[..]\nhttps://www.portugalrunning.com/eventos/pe-firme-
+ trail/
 URL:https://www.portugalrunning.com/eventos/pe-firme-trail/
 END:VEVENT
 END:VCALENDAR

@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50217-0@www.portugalrunning.com
-DTSTAMP:20260905T123047Z
+DTSTAMP:20261003T182337Z
 DTSTART:20261002
 DTEND:20261003
-LOCATION:Viana do Castelo Viana do Castelo
+LOCATION:Caminha\,   Viana do Castelo Caminha\,   Viana do Castelo
 SUMMARY:Grande Trail Serra D’Arga 2026
-DESCRIPTION:Sobre Grande Trail Serra D’Arga 2026O Grande Trail da Serra d
- ’Arga 2026 (GTSA) realiza-se de 2 a 4 de outubro de 2026 na deslumbrante 
- Serra d’Arga\,  no Alto Minho. Considerado um dos eventos mais carismáti
- cos e míticos do trail running nacional\,  o evento liga a cidade de Viana
-  do Castelo[..]\nhttps://www.portugalrunning.com/eventos/grande-trail-serra
- -darga/
+DESCRIPTION:Sobre Grande Trail Serra D’Arga 2026O Grande Trail Serra D’
+ Arga 2026 (GTSA) realiza-se de 02 a 04 de Outubro de 2026 no cenário selva
+ gem e místico da Serra d'Arga\,  cruzando os concelhos de Caminha\,  Viana
+  do Castelo e Ponte de Lima. Organizado pela prestigiada Carlos Sá Nature 
+ Events\,  o evento[..]\nhttps://www.portugalrunning.com/eventos/grande-trai
+ l-serra-darga/
 URL:https://www.portugalrunning.com/eventos/grande-trail-serra-darga/
 END:VEVENT
 END:VCALENDAR

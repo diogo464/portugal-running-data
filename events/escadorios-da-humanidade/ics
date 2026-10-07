@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67444-0@www.portugalrunning.com
+DTSTAMP:20261003T182336Z
+DTSTART:20260926
+DTEND:20260927
+SUMMARY:Escadórios da Humanidade 2026
+DESCRIPTION:Sobre Escadórios da Humanidade 2026Os Escadórios da Humanidad
+ e 2026 são uma emblemática e exigente prova desportiva e de superação f
+ ísica disputada nos históricos Escadórios do Santuário do Bom Jesus do 
+ Monte\,  em Braga\,  classificados como Património Cultural Mundial da UNE
+ SCO. Organizada pela AFDE (Associação de Formação e Desenvolvimento em 
+ Emergência)[..]\nhttps://www.portugalrunning.com/eventos/escadorios-da-hum
+ anidade/
+URL:https://www.portugalrunning.com/eventos/escadorios-da-humanidade/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68345-0@www.portugalrunning.com
+DTSTAMP:20261003T182404Z
+DTSTART:20261101
+DTEND:20261102
+LOCATION:Mortágua\,   Viseu Mortágua\,   Viseu
+SUMMARY:Trail Mortágua 2026
+DESCRIPTION:Sobre Trail Mortágua 2026O Trail Mortágua 2026 realiza-se no 
+ dia 1 de Novembro de 2026 (Domingo)\,  com partida agendada para as 09:00 e
+ m Mortágua\,  Viseu\,  no concelho de Mortágua\,  distrito de Viseu. Esta
+  conceituada competição desportiva reúne praticantes e entusiastas de co
+ rrida num ambiente de celebração atlética e convívio popular.O[..]\nhtt
+ ps://www.portugalrunning.com/eventos/trail-mortagua/
+URL:https://www.portugalrunning.com/eventos/trail-mortagua/
+END:VEVENT
+END:VCALENDAR

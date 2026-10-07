@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:48247-0@www.portugalrunning.com
-DTSTAMP:20260903T060147Z
-DTSTART:20261213T163000Z
+DTSTAMP:20261003T182353Z
+DTSTART:20261213T000000Z
 DTEND:20261213T235900Z
 LOCATION:Guarda Guarda
 SUMMARY:São Silvestre da Guarda 2026
-DESCRIPTION:Sobre São Silvestre da Guarda 2026A 47ª edição da São Silv
- estre da Guarda 2026 (Grande Prémio de Atletismo da Guarda) realiza-se no 
- domingo\,  13 de dezembro de 2026\,  na cidade mais alta de Portugal\,  no 
- distrito da Guarda. Com o ar puro da Serra da Estrela e o ambiente acolhedo
- r[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-da-guarda/
+DESCRIPTION:Sobre São Silvestre da Guarda 2026A São Silvestre da Guarda 2
+ 026 (47ª edição do Grande Prémio de Atletismo da Guarda) realiza-se no 
+ domingo\,  13 de dezembro\,  na cidade mais alta de Portugal. Coorganizada 
+ pela Associação de Atletismo da Guarda (AAG) e pelo Município da Guarda\
+ ,  a prova celebra o espírito[..]\nhttps://www.portugalrunning.com/eventos
+ /sao-silvestre-da-guarda/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-guarda/
 END:VEVENT
 END:VCALENDAR

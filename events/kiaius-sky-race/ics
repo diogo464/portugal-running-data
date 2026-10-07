@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:58251-0@www.portugalrunning.com
-DTSTAMP:20260902T140025Z
-DTSTART:20261220T093000Z
-DTEND:20261220T093000Z
-LOCATION:Praia de Quiaos\,   Figueira da Foz Praia de Quiaos\,   Figueira da Foz
-SUMMARY:2º Kiaius Sky Race 2026
-DESCRIPTION:Sobre O 2º Kiaius Sky Race 2026O 2º Kiaius Sky Race 2026 real
- iza-se no dia 20 de Dezembro de 2026 (Domingo)\,  na Praia de Quiaios\,  no
-  concelho da Figueira da Foz (distrito de Coimbra). Organizado pelo Talento
- s Objetivos – Clube de Enduro e Recreio com o apoio do Município da[..]\
- nhttps://www.portugalrunning.com/eventos/kiaius-sky-race/
+DTSTAMP:20261003T182338Z
+DTSTART:20261220T000000Z
+DTEND:20261220T235900Z
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:2ª Kiaius Sky Race 2026
+DESCRIPTION:Sobre 2ª Kiaius Sky Race 2026A 2ª Kiaius Sky Race 2026 decorr
+ e no domingo\,  20 de dezembro de 2026\,  na encantadora vila costeira da P
+ raia de Quiaios\,  concelho da Figueira da Foz e distrito de Coimbra. Sob o
+ rganização da associação Talentos Objetivos Clube de Enduro e Recreio\,
+   em cooperação com[..]\nhttps://www.portugalrunning.com/eventos/kiaius-s
+ ky-race/
 URL:https://www.portugalrunning.com/eventos/kiaius-sky-race/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:43094-0@www.portugalrunning.com
+DTSTAMP:20261003T182353Z
+DTSTART:20260315
+DTEND:20260316
+LOCATION:Povoação\,   Açores Povoação\,  Açores
+SUMMARY:Povoação Trail 2026
+DESCRIPTION:Sobre O Povoação Trail 2026O Povoação Trail 2026 realiza-se
+  no dia 15 de março de 2026 no concelho da Povoação\,  localizado na Ilh
+ a de São Miguel\,  Região Autónoma dos Açores. Organizado pelo Clube De
+ sportivo de Povoação em parceria com a Câmara Municipal da Povoação\, 
+  o evento percorre as imponentes paisagens[..]\nhttps://www.portugalrunning
+ .com/eventos/povoacao-trail-2026-2/
+URL:https://www.portugalrunning.com/eventos/povoacao-trail-2026-2/
+END:VEVENT
+END:VCALENDAR

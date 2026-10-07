@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68351-0@www.portugalrunning.com
+DTSTAMP:20261003T182355Z
+DTSTART:20261212T000000Z
+DTEND:20261212T235900Z
+LOCATION:Castelo de Paiva\,   Aveiro Castelo de Paiva\,   Aveiro
+SUMMARY:São Silvestre de Castelo de Paiva 2026
+DESCRIPTION:Sobre São Silvestre de Castelo de Paiva 2026A São Silvestre d
+ e Castelo de Paiva 2026 realiza-se no sábado\,  12 de dezembro de 2026\,  
+ com concentração e partida no emblemático Largo do Conde\,  na freguesia
+  de Sobrado\,  concelho de Castelo de Paiva\,  distrito de Aveiro. A prova 
+ é coorganizada pelo Município[..]\nhttps://www.portugalrunning.com/evento
+ s/sao-silvestre-de-castelo-de-paiva/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-castelo-de-paiva/
+END:VEVENT
+END:VCALENDAR

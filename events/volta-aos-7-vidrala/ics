@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:54366-0@www.portugalrunning.com
-DTSTAMP:20260903T060204Z
-DTSTART:20260926T143000Z
-DTEND:20260926T143000Z
+DTSTAMP:20261003T182410Z
+DTSTART:20260925T230000Z
+DTEND:20260926T225900Z
 LOCATION:Marinha Grande\,   Leiria Marinha Grande\,   Leiria
 SUMMARY:Volta aos 7 – Vidrala 2026
-DESCRIPTION:Sobre Volta aos 7 – Vidrala 2026A 3.ª edição da Volta aos 
- 7 – Vidrala 2026 realiza-se na tarde de 26 de setembro de 2026 (Sábado)\
- ,  com partida e chegada na histórica Praça Stephens\,  em frente aos Pa�
- �os do Concelho da Marinha Grande\,  distrito de Leiria. Numa coorganizaç�
- �o do Clube[..]\nhttps://www.portugalrunning.com/eventos/volta-aos-7-vidral
- a/
+DESCRIPTION:Sobre Volta aos 7 – Vidrala 2026A Volta aos 7 – Vidrala 202
+ 6 (3ª edição) é uma prova de atletismo de estrada promovida conjuntamen
+ te pelo Clube de Atletismo da Marinha Grande e pela empresa Vidrala S.A.\, 
+  contando com o apoio do Município da Marinha Grande\,  da Junta de Fregue
+ sia da[..]\nhttps://www.portugalrunning.com/eventos/volta-aos-7-vidrala/
 URL:https://www.portugalrunning.com/eventos/volta-aos-7-vidrala/
 END:VEVENT
 END:VCALENDAR

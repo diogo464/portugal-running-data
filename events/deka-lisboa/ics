@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:63594-0@www.portugalrunning.com
-DTSTAMP:20260903T060137Z
-DTSTART:20270514T080000Z
-DTEND:20270514T225900Z
+DTSTAMP:20261003T182335Z
+DTSTART:20270514T230000Z
+DTEND:20270515T225900Z
 LOCATION:Lisboa Lisboa
 SUMMARY:Deka Lisboa 2027
-DESCRIPTION:📅 Edição Confirmada 2026 Sobre a Deka Lisboa 2027 A Deka L
- isboa 2027 é a mítica e histórica corrida de 10 km que liga Algés à Pr
- aia de Carcavelos ao longo da magnífica Avenida Marginal de Oeiras. Organi
- zada pelo Município de Oeiras\,  a prova é um dos maiores símbolos do[..
- ]\nhttps://www.portugalrunning.com/eventos/deka-lisboa/
+DESCRIPTION:Sobre Deka Lisboa 2027O DEKA Lisboa 2027 realiza-se no sábado\
+ ,  15 de maio de 2027\,  sob a icónica Pala do Pavilhão de Portugal\,  no
+  Parque das Nações\,  em Lisboa. Desenvolvido pela conceituada chancela d
+ a Spartan Race\,  o evento traz à capital a derradeira experiência de fit
+ ness racing\,  desafiando atletas de[..]\nhttps://www.portugalrunning.com/e
+ ventos/deka-lisboa/
 URL:https://www.portugalrunning.com/eventos/deka-lisboa/
 END:VEVENT
 END:VCALENDAR

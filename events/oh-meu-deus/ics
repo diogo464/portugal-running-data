@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:67286-0@www.portugalrunning.com
-DTSTAMP:20260908T060033Z
+DTSTAMP:20261003T182353Z
 DTSTART:20270502
 DTEND:20270503
 LOCATION:Seia\,   Guarda Seia\,   Guarda
 SUMMARY:Oh Meu Deus - Ultra Trail Centro de Portugal 2027
-DESCRIPTION:Sobre Oh Meu Deus - Ultra Trail Centro de Portugal 2027O Oh Meu
-  Deus – Ultra Trail Centro de Portugal 2027 é uma das mais lendárias e 
- desafiantes ultramaratonas de montanha da Península Ibérica\,  com epicen
- tro em Seia e passagem pelas cumeadas mais agrestes do Parque Natural da Se
- rra da[..]\nhttps://www.portugalrunning.com/eventos/oh-meu-deus/
+DESCRIPTION:Sobre Oh Meu Deus &#8211; Ultra Trail Centro de Portugal 2027O 
+ Oh Meu Deus – Ultra Trail Centro de Portugal 2027 é uma das mais lendár
+ ias e desafiantes ultramaratonas de montanha da Península Ibérica\,  com 
+ epicentro em Seia e passagem pelas cumeadas mais agrestes do Parque Natural
+  da Serra da[..]\nhttps://www.portugalrunning.com/eventos/oh-meu-deus/
 URL:https://www.portugalrunning.com/eventos/oh-meu-deus/
 END:VEVENT
 END:VCALENDAR

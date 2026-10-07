@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69011-0@www.portugalrunning.com
+DTSTAMP:20261003T182409Z
+DTSTART:20261205
+DTEND:20261206
+LOCATION:Leiria Leiria
+SUMMARY:14º X-mas Night Trail 2026
+DESCRIPTION:Sobre 14º X-mas Night Trail 2026O 14º X-mas Night Trail 2026 
+ realiza-se no dia 5 de Dezembro de 2026 (Sábado)\,  com partida agendada p
+ ara as 16:00 no Soutocico e meta no centro de Leiria\,  distrito de Leiria.
+  Esta conceituada competição noturna reúne atletas e caminheiros num per
+ curso desafiante e festivo[..]\nhttps://www.portugalrunning.com/eventos/x-m
+ as-night-trail/
+URL:https://www.portugalrunning.com/eventos/x-mas-night-trail/
+END:VEVENT
+END:VCALENDAR

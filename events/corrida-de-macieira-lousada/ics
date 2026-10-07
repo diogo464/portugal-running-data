@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69016-0@www.portugalrunning.com
+DTSTAMP:20261003T182331Z
+DTSTART:20261129
+DTEND:20261130
+LOCATION:Macieira\,   Lousada Macieira\,   Lousada
+SUMMARY:IV Corrida de Macieira - Lousada 2026
+DESCRIPTION:Sobre IV Corrida de Macieira - Lousada 2026A IV Corrida de Maci
+ eira - Lousada 2026 realiza-se no dia 29 de Novembro de 2026 (Domingo)\,  c
+ om partida agendada para as 10:00 no Largo de São Gonçalo em Macieira\,  
+ concelho de Lousada\,  distrito do Porto. Esta prova de atletismo de estrad
+ a reúne[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-macieira-l
+ ousada/
+URL:https://www.portugalrunning.com/eventos/corrida-de-macieira-lousada/
+END:VEVENT
+END:VCALENDAR

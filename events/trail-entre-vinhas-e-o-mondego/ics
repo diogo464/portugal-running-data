@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68569-0@www.portugalrunning.com
+DTSTAMP:20261003T182403Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Vila Nova de Tazem\,   Gouveia Vila Nova de Tazem\,   Gouveia
+SUMMARY:1º Trail entre Vinhas e o Mondego 2026
+DESCRIPTION:Sobre 1º Trail entre Vinhas e o Mondego 2026O 1º Trail entre 
+ Vinhas e o Mondego 2026 realiza-se no dia 15 de Novembro de 2026 (Domingo)\
+ ,  com partidas a partir das 09:00 em Vila Nova de Tazem\,  no concelho de 
+ Gouveia\,  distrito da Guarda. A prova convida os atletas a[..]\nhttps://ww
+ w.portugalrunning.com/eventos/trail-entre-vinhas-e-o-mondego/
+URL:https://www.portugalrunning.com/eventos/trail-entre-vinhas-e-o-mondego/
+END:VEVENT
+END:VCALENDAR

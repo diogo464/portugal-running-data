@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69004-0@www.portugalrunning.com
+DTSTAMP:20261003T182350Z
+DTSTART:20261129T000000Z
+DTEND:20261129T235900Z
+LOCATION:Pombal\,   Leiria Pombal\,   Leiria
+SUMMARY:Meia Maratona de Pombal Full Protein 2026
+DESCRIPTION:Sobre Meia Maratona de Pombal Full Protein 2026A Meia Maratona 
+ de Pombal Full Protein 2026 (30ª edição) realiza-se no dia 29 de Novembr
+ o de 2026 (Domingo)\,  com partida às 10:00 no centro da cidade de Pombal\
+ ,  Leiria. Com percurso homologado pela Federação Portuguesa de Atletismo
+  e World Athletics\,  a prova[..]\nhttps://www.portugalrunning.com/eventos/
+ meia-maratona-pombal/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-pombal/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67468-0@www.portugalrunning.com
+DTSTAMP:20261003T182359Z
+DTSTART:20261205
+DTEND:20261206
+LOCATION:Ansião\,   Leiria Ansião\,   Leiria
+SUMMARY:Trail da Amizade 2026
+DESCRIPTION:Sobre Trail da Amizade 2026O Trail da Amizade 2026 realiza-se n
+ os dias 5 e 6 de dezembro de 2026 (Sábado e Domingo)\,  em Ansião (distri
+ to de Leiria). Organizada pela CAAS Events em estreita colaboração com as
+  entidades locais e cronometragem oficial Stop&Go\,  a prova convida a comu
+ nidade do trail running[..]\nhttps://www.portugalrunning.com/eventos/trail-
+ da-amizade/
+URL:https://www.portugalrunning.com/eventos/trail-da-amizade/
+END:VEVENT
+END:VCALENDAR

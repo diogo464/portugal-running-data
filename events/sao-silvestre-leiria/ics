@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67564-0@www.portugalrunning.com
+DTSTAMP:20261003T182356Z
+DTSTART:20261220T000000Z
+DTEND:20261220T235900Z
+LOCATION:Leiria Leiria
+SUMMARY:2ª São Silvestre de Leiria 2026
+DESCRIPTION:Sobre 2ª São Silvestre de Leiria 2026A 2ª São Silvestre de 
+ Leiria 2026 realiza-se no domingo\,  20 de dezembro de 2026\,  com partida 
+ e chegada na Avenida Bernardo Pimenta\,  em Leiria. Organizada pelo prestig
+ iado clube Juventude Vidigalense em estreita colaboração com o Município
+  de Leiria e com o apoio da[..]\nhttps://www.portugalrunning.com/eventos/sa
+ o-silvestre-leiria/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-leiria/
+END:VEVENT
+END:VCALENDAR

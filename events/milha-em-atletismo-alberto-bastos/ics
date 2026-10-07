@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68587-0@www.portugalrunning.com
+DTSTAMP:20261003T182349Z
+DTSTART:20261114T000000Z
+DTEND:20261114T235900Z
+LOCATION:Vale de Cambra\,   Aveiro Vale de Cambra\,   Aveiro
+SUMMARY:3ª Milha em Atletismo Alberto Bastos 2026
+DESCRIPTION:Sobre 3ª Milha em Atletismo Alberto Bastos 2026A 3ª Milha em 
+ Atletismo Alberto Bastos 2026 realiza-se no sábado\,  14 de novembro de 20
+ 26\,  com início marcado para as 15h00 na Avenida Camilo Tavares de Matos 
+ (junto à Biblioteca Municipal)\,  em Vale de Cambra\,  distrito de Aveiro.
+  A iniciativa é coorganizada[..]\nhttps://www.portugalrunning.com/eventos/
+ milha-em-atletismo-alberto-bastos/
+URL:https://www.portugalrunning.com/eventos/milha-em-atletismo-alberto-bastos/
+END:VEVENT
+END:VCALENDAR

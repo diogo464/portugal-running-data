@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69033-0@www.portugalrunning.com
+DTSTAMP:20261003T182354Z
+DTSTART:20261212
+DTEND:20261213
+LOCATION:Alcochete\,   Setúbal Alcochete\,   Setúbal
+SUMMARY:VI Corrida São Silvestre de Alcochete 2026
+DESCRIPTION:Sobre VI Corrida São Silvestre de Alcochete 2026A VI Corrida S
+ ão Silvestre de Alcochete 2026 realiza-se no dia 12 de Dezembro de 2026 (S
+ ábado)\,  com partida agendada para as 18:00 no Largo de São João em Alc
+ ochete\,  distrito de Setúbal. Esta emblemática corrida noturna celebra a
+  época natalícia pelas artérias[..]\nhttps://www.portugalrunning.com/eve
+ ntos/sao-silvestre-alcochete/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-alcochete/
+END:VEVENT
+END:VCALENDAR

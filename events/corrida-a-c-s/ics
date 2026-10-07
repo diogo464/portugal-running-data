@@ -4,18 +4,17 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:51036-0@www.portugalrunning.com
-DTSTAMP:20260902T135929Z
-DTSTART:20260606
-DTEND:20260607
-LOCATION:São Brás de Alportel\,   Faro São Brás de Alportel\,   Faro
-SUMMARY:Corrida A.C.S. 2026
-DESCRIPTION:A Associação Cultural Sambrasense vai organizar a “13º Cor
- rida ACS”\,  que terá lugar em São Brás de Alportel no dia 06 de Junho
-  de 2026\,  pelas 18:30h. Este evento que se insere nas comemorações do d
- ia doconcelho\,  terá incluído também caminhada (a 12ª edição) às 17
- :45h\,  e a "9ª Corrida[..]\nhttps://www.portugalrunning.com/eventos/corri
- da-a-c-s/
+UID:67591-0@www.portugalrunning.com
+DTSTAMP:20261003T182331Z
+DTSTART:20260926
+DTEND:20260927
+LOCATION:Funchal\,   Madeira Funchal\,   Madeira
+SUMMARY:XXXI Corrida do RG3 2026
+DESCRIPTION:Sobre XXXI Corrida do RG3 2026A XXXI Corrida do RG3 2026 realiz
+ a-se no sábado\,  26 de Setembro de 2026\,  com partida e chegada no emble
+ mático Regimento de Guarnição N.º 3 (RG3)\,  na cidade do Funchal\,  Il
+ ha da Madeira. A prova pontua para o prestigiado circuito regional Madeira 
+ a Correr da[..]\nhttps://www.portugalrunning.com/eventos/corrida-a-c-s/
 URL:https://www.portugalrunning.com/eventos/corrida-a-c-s/
 END:VEVENT
 END:VCALENDAR

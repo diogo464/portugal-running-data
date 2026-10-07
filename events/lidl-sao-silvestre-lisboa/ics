@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50957-0@www.portugalrunning.com
-DTSTAMP:20260903T060141Z
+DTSTAMP:20261003T182341Z
 DTSTART:20261226
 DTEND:20261227
 LOCATION:Lisboa Lisboa
 SUMMARY:Lidl São Silvestre de Lisboa 2026
-DESCRIPTION:Sobre O Lidl São Silvestre de Lisboa 2026A Lidl São Silvestre
-  de Lisboa 2026 regressa no dia 26 de Dezembro de 2026 para a sua 19ª edi�
- �ão\,  afirmando-se como a grande festa corrida de fim de ano na capital. 
- Organizada pelo Clube Olímpico de Oeiras em parceria com a Câmara[..]\nht
- tps://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/
+DESCRIPTION:Sobre Lidl São Silvestre de Lisboa 2026A 19ª edição da Lidl
+  São Silvestre de Lisboa 2026 realiza-se no sábado\,  26 de Dezembro de 2
+ 026\,  às 21:30\,  tendo como ponto nevrálgico a emblemática Avenida da 
+ Liberdade e a Praça dos Restauradores\,  no coração de Lisboa. Promovida
+  pelo Clube Olímpico de Oeiras[..]\nhttps://www.portugalrunning.com/evento
+ s/lidl-sao-silvestre-lisboa/
 URL:https://www.portugalrunning.com/eventos/lidl-sao-silvestre-lisboa/
 END:VEVENT
 END:VCALENDAR

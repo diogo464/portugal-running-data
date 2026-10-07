@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68312-0@www.portugalrunning.com
+DTSTAMP:20261003T182333Z
+DTSTART:20261025
+DTEND:20261026
+LOCATION:Peso da Régua\,   Vila Real Peso da Régua\,   Vila Real
+SUMMARY:1ª Corrida do Douro Navegável 2026
+DESCRIPTION:Sobre 1ª Corrida do Douro Navegável 2026O 1ª Corrida do Dour
+ o Navegável 2026 realiza-se no dia 25 de Outubro de 2026 (Domingo)\,  com 
+ partida agendada para as 10:00 em Peso da Régua\,  Vila Real\,  no concelh
+ o de Peso da Régua\,  distrito de Vila Real. Esta conceituada competição
+  desportiva reúne praticantes[..]\nhttps://www.portugalrunning.com/eventos
+ /corrida-do-douro-navegavel/
+URL:https://www.portugalrunning.com/eventos/corrida-do-douro-navegavel/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69251-0@www.portugalrunning.com
+DTSTAMP:20261003T182337Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Ílhavo\,   Aveiro Ílhavo\,   Aveiro
+SUMMARY:4º Duatlo Ílhavo 2026
+DESCRIPTION:Sobre 4º Duatlo Ílhavo 2026O 4º Duatlo Ílhavo 2026 realiza-
+ se no dia 15 de Novembro de 2026 (Domingo)\,  com partida agendada para as 
+ 10:00 em Ílhavo\,  Aveiro\,  no concelho de Ílhavo\,  Aveiro\,  distrito 
+ de Ílhavo\,  Aveiro. Esta conceituada competição desportiva reúne prati
+ cantes e entusiastas de corrida num ambiente de celebração[..]\nhttps://w
+ ww.portugalrunning.com/eventos/duatlo-ilhavo/
+URL:https://www.portugalrunning.com/eventos/duatlo-ilhavo/
+END:VEVENT
+END:VCALENDAR

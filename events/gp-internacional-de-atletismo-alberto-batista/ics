@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67411-0@www.portugalrunning.com
+DTSTAMP:20261003T182339Z
+DTSTART:20261010
+DTEND:20261011
+LOCATION:São João da Madeira\,   Aveiro São João da Madeira\,   Aveiro
+SUMMARY:GP Internacional de Atletismo Alberto Batista 2026
+DESCRIPTION:Sobre GP Internacional de Atletismo Alberto Batista 2026O Grand
+ e Prémio Internacional de Atletismo Alberto Batista 2026 realiza-se no sá
+ bado\,  10 de Outubro de 2026\,  às 17:00\,  no centro urbano de São Joã
+ o da Madeira\,  distrito de Aveiro. Organizado pelos Serviços Sociais dos 
+ Trabalhadores do Município de São João da Madeira[..]\nhttps://www.portu
+ galrunning.com/eventos/gp-internacional-de-atletismo-alberto-batista/
+URL:https://www.portugalrunning.com/eventos/gp-internacional-de-atletismo-alberto-batista/
+END:VEVENT
+END:VCALENDAR

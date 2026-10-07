@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:48267-0@www.portugalrunning.com
-DTSTAMP:20260903T060141Z
-DTSTART:20260927T070000Z
-DTEND:20260927T070000Z
+DTSTAMP:20261003T182343Z
+DTSTART:20260926T230000Z
+DTEND:20260927T225900Z
 LOCATION:Ameal\,   Coimbra Ameal\,   Coimbra
 SUMMARY:Meia Maratona Ameal 2026
-DESCRIPTION:Sobre Meia Maratona Ameal 2026A Meia Maratona Ameal 2026 decorr
- e no dia 27 de setembro de 2026 no Ameal\,  na União de Freguesias de Tave
- iro\,  Ameal e Arzila\,  concelho de Coimbra. Apresentando um percurso de e
- strada extremamente plano e rápido pelo vale dos campos do Baixo Mondego\,
-   a prova acolhe[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona
- -ameal/
+DESCRIPTION:Sobre Meia Maratona Ameal 2026A Meia Maratona Ameal 2026 (Meia 
+ Maratona do Ameal Arte & Meios) realiza-se a 27 de setembro de 2026 na vila
+  do Ameal\,  no concelho de Coimbra. Integrando o Campeonato Distrital de M
+ eia Maratona da ADAC e o Circuito das Estrelas de Portugal\,  a prova desen
+ rola-se[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-ameal/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-ameal/
 END:VEVENT
 END:VCALENDAR

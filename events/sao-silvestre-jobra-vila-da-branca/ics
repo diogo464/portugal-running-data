@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67439-0@www.portugalrunning.com
+DTSTAMP:20261003T182356Z
+DTSTART:20261226T000000Z
+DTEND:20261226T235900Z
+LOCATION:Albergaria-a-Velha\,   Aveiro Albergaria-a-Velha\,   Aveiro
+SUMMARY:São Silvestre Jobra/Vila da Branca 2026
+DESCRIPTION:Sobre São Silvestre Jobra/Vila da Branca 2026A São Silvestre 
+ Jobra/Vila da Branca 2026 (3ª edição) realiza-se no sábado\,  26 de dez
+ embro de 2026\,  na Vila da Branca\,  no concelho de Albergaria-a-Velha\,  
+ distrito de Aveiro. Promovida pela JOBRA – Associação de Jovens da Bran
+ ca com o apoio do Município de Albergaria-a-Velha[..]\nhttps://www.portuga
+ lrunning.com/eventos/sao-silvestre-jobra-vila-da-branca/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-jobra-vila-da-branca/
+END:VEVENT
+END:VCALENDAR

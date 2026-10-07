@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:47706-0@www.portugalrunning.com
+DTSTAMP:20261003T182348Z
+DTSTART:20260329T114400Z
+DTEND:20260329T225900Z
+LOCATION:Maranello\,   Itália Maranello\,   Itália
+SUMMARY:Meia Maratona Enzo Ferrari 2026
+DESCRIPTION:Sobre a Meia Maratona Enzo Ferrari 2026 (Maranello - Modena) A 
+ Meia Maratona Enzo Ferrari (Italy Half Marathon) realiza-se no dia 29 de ma
+ rço de 2026 ligando Maranello a Modena (Itália). Com partida em frente ao
+  Museu Ferrari e passagem exclusiva dentro do lendário circuito de Fiorano
+  e da fábrica[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-e
+ nzo-ferrari-2026/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-enzo-ferrari-2026/
+END:VEVENT
+END:VCALENDAR

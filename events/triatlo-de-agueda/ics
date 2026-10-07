@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68298-0@www.portugalrunning.com
+DTSTAMP:20261003T182410Z
+DTSTART:20260927
+DTEND:20260928
+LOCATION:Águeda\,   Aveiro Águeda\,   Aveiro
+SUMMARY:IX Triatlo de Águeda 2026
+DESCRIPTION:Sobre IX Triatlo de Águeda 2026O IX Triatlo de Águeda 2026 re
+ aliza-se no dia 27 de Setembro de 2026 (Domingo)\,  com concentração e pa
+ rtidas marcadas para as 10:00 na cidade de Águeda\,  no distrito de Aveiro
+ . A prestigiada competição multidesportiva atrai triatletas e entusiastas
+  de todo o país para disputar[..]\nhttps://www.portugalrunning.com/eventos
+ /triatlo-de-agueda/
+URL:https://www.portugalrunning.com/eventos/triatlo-de-agueda/
+END:VEVENT
+END:VCALENDAR

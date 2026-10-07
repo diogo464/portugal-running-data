@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68234-0@www.portugalrunning.com
+DTSTAMP:20261003T182405Z
+DTSTART:20261206
+DTEND:20261207
+LOCATION:Elvas\,   Portalegre Elvas\,   Portalegre
+SUMMARY:VIII Trail Elvas 2026
+DESCRIPTION:Sobre VIII Trail Elvas 2026O VIII Trail Elvas 2026 (Trail de El
+ vas – Património Mundial) realiza-se no dia 6 de Dezembro de 2026 (Domin
+ go)\,  com partidas a partir das 09:00 no Museu Militar de Elvas\,  em Elva
+ s\,  Portalegre. A emblemática competição desportiva percorre os trilhos
+  históricos e as fortificações militares[..]\nhttps://www.portugalrunnin
+ g.com/eventos/trail-elvas/
+URL:https://www.portugalrunning.com/eventos/trail-elvas/
+END:VEVENT
+END:VCALENDAR

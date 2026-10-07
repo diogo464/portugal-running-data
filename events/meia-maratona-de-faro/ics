@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68549-0@www.portugalrunning.com
+DTSTAMP:20261003T182347Z
+DTSTART:20270410
+DTEND:20270411
+LOCATION:Faro Faro\,   Portugal
+SUMMARY:X Meia Maratona de Faro 2027
+DESCRIPTION:Sobre X Meia Maratona de Faro 2027A X Meia Maratona de Faro 202
+ 7 realiza-se no dia 10 de Abril de 2027 (Sábado)\,  com partida agendada p
+ ara as 17:00 na Praia de Faro\,  no concelho de Faro\,  distrito de Faro. E
+ sta conceituada competição desportiva reúne praticantes e entusiastas de
+  corrida num[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de-
+ faro/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-faro/
+END:VEVENT
+END:VCALENDAR

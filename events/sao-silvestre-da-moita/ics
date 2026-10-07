@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68951-0@www.portugalrunning.com
+DTSTAMP:20261003T182354Z
+DTSTART:20261121
+DTEND:20261122
+LOCATION:Moita\,   Setúbal Moita\,   Setúbal
+SUMMARY:I São Silvestre da Moita 2026
+DESCRIPTION:Sobre I São Silvestre da Moita 2026A I São Silvestre da Moita
+  2026 realiza-se no dia 21 de Novembro de 2026 (Sábado) na Moita\,  no dis
+ trito de Setúbal. A prova tem como objetivo promover a prática desportiva
+  e o convívio\,  dando a conhecer o património natural e cultural do conc
+ elho\, [..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-da-moita
+ /
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-da-moita/
+END:VEVENT
+END:VCALENDAR

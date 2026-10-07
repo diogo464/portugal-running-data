@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68e063ba22157
-DTSTAMP:20251004T000058Z
+UID:45324-0@www.portugalrunning.com
+DTSTAMP:20261003T182346Z
 DTSTART:20260503
 DTEND:20260504
-LOCATION:Milão\,  Itália Milão\,  Itália
+LOCATION:Milão\,   Itália Milão\,   Itália
 SUMMARY:Meia Maratona de Milão 2026
 DESCRIPTION:A Stramilano Half Marathon é uma das meias maratonas mais pr
  estigiadas da Europa\,  realizada anualmente em Milão no dia 3 de maio\,  

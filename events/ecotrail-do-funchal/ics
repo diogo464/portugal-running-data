@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69028-0@www.portugalrunning.com
+DTSTAMP:20261003T182334Z
+DTSTART:20261017
+DTEND:20261018
+LOCATION:Funchal\,   Madeira Funchal\,   Madeira
+SUMMARY:Ecotrail do Funchal 2026
+DESCRIPTION:Sobre Ecotrail do Funchal 2026O Ecotrail do Funchal 2026 realiz
+ a-se nos dias 17 e 18 de Outubro de 2026 (Sábado e Domingo) no Funchal\,  
+ na Ilha da Madeira. Integrado no prestigiado circuito internacional EcoTrai
+ l\,  o evento alia o desafio desportivo de montanha à sustentabilidade amb
+ iental e à proteção da floresta[..]\nhttps://www.portugalrunning.com/eve
+ ntos/ecotrail-do-funchal/
+URL:https://www.portugalrunning.com/eventos/ecotrail-do-funchal/
+END:VEVENT
+END:VCALENDAR

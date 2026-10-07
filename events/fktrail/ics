@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67419-0@www.portugalrunning.com
+DTSTAMP:20261003T182336Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:FKTrail 2026
+DESCRIPTION:Sobre FKTrail 2026O FKTrail 2026 realiza-se no domingo\,  8 de 
+ novembro de 2026\,  ligando as localidades de Quiaios e Buarcos através do
+ s trilhos desafiantes da Serra da Boa Viagem\,  no concelho da Figueira da 
+ Foz\,  distrito de Coimbra. Organizado pelo Figueira Kayak Clube com cronom
+ etragem da Lap2Go\,  o evento destaca-se[..]\nhttps://www.portugalrunning.c
+ om/eventos/fktrail/
+URL:https://www.portugalrunning.com/eventos/fktrail/
+END:VEVENT
+END:VCALENDAR

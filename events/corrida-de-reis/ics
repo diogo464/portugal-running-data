@@ -4,16 +4,17 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:45223-0@www.portugalrunning.com
-DTSTAMP:20260902T135935Z
-DTSTART:20260110
-DTEND:20260111
-LOCATION:Póvoa de Varzim\,   Porto Póvoa de Varzim\,   Porto
-SUMMARY:Corrida de Reis 2026
-DESCRIPTION:A VIII Grupo CCR | Corrida de Reis 2026\,  realiza-se no dia 10
-  de janeiro de 2026\,  com a prova a ter início às 18h. E terá uma dist�
- �ncia única de 8 quilómetros.\nhttps://www.portugalrunning.com/eventos/co
- rrida-de-reis/
+UID:69046-0@www.portugalrunning.com
+DTSTAMP:20261003T182333Z
+DTSTART:20270109
+DTEND:20270110
+LOCATION:Porto de Mós\,   Leiria Porto de Mós\,   Leiria
+SUMMARY:I Corrida dos Reis – Vila de Porto de Mós 2027
+DESCRIPTION:Sobre I Corrida dos Reis – Vila de Porto de Mós 2027A I Corr
+ ida dos Reis – Vila de Porto de Mós 2027 realiza-se no dia 9 de Janeiro 
+ de 2027 (Sábado)\,  com partida na Ponte de São Pedro em Porto de Mós\, 
+  distrito de Leiria. Organizada pelo Grupo Desportivo[..]\nhttps://www.port
+ ugalrunning.com/eventos/corrida-de-reis/
 URL:https://www.portugalrunning.com/eventos/corrida-de-reis/
 END:VEVENT
 END:VCALENDAR

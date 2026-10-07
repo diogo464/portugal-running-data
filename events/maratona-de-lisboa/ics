@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:47253-0@www.portugalrunning.com
-DTSTAMP:20260903T060148Z
-DTSTART:20261018
-DTEND:20261019
-LOCATION:Lisboa Lisboa
+DTSTAMP:20261003T182350Z
+DTSTART:20261010
+DTEND:20261011
 SUMMARY:EDP Maratona de Lisboa 2026
 DESCRIPTION:Sobre EDP Maratona de Lisboa 2026A EDP Maratona de Lisboa 2026 
- realiza-se no dia 18 de Outubro de 2026\,  afirmando-se como um dos eventos
-  desportivos mais prestigiados e internacionais do atletismo mundial. Com p
- artida junto ao Hipódromo Manuel Possolo em Cascais e apoteótica meta na 
- icónica Praça do Comércio em[..]\nhttps://www.portugalrunning.com/evento
- s/maratona-de-lisboa/
+ realiza-se a 10 e 11 de Outubro de 2026\,  consagrada como uma das provas m
+ ais emblemáticas e deslumbrantes do panorama desportivo internacional. Int
+ egrando o prestigiado circuito European Marathon Classics e distinguida com
+  o selo World Athletics Gold Label\,  a[..]\nhttps://www.portugalrunning.co
+ m/eventos/maratona-de-lisboa/
 URL:https://www.portugalrunning.com/eventos/maratona-de-lisboa/
 END:VEVENT
 END:VCALENDAR

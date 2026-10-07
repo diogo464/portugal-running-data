@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69042-0@www.portugalrunning.com
+DTSTAMP:20261003T182335Z
+DTSTART:20261205T000000Z
+DTEND:20261205T235900Z
+LOCATION:Vila Nova da Barquinha\,   Santarém Vila Nova da Barquinha\,   Santarém
+SUMMARY:2ª Edição de São Silvestre D´almourol 2026
+DESCRIPTION:Sobre 2ª Edição de São Silvestre D´almourol 2026O 2ª Edi�
+ �ão de São Silvestre D´almourol 2026 realiza-se no dia 5 de Dezembro de 
+ 2026 (Sábado)\,  com partida agendada para as 16:30 em Vila Nova da Barqui
+ nha\,  Santarem\,  no concelho de Vila Nova da Barquinha\,  distrito de San
+ tarem. Esta conceituada competição desportiva[..]\nhttps://www.portugalru
+ nning.com/eventos/edicao-de-sao-silvestre-dalmourol/
+URL:https://www.portugalrunning.com/eventos/edicao-de-sao-silvestre-dalmourol/
+END:VEVENT
+END:VCALENDAR

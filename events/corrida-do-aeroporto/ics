@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67595-0@www.portugalrunning.com
+DTSTAMP:20261003T182331Z
+DTSTART:20260927
+DTEND:20260928
+LOCATION:Santa Cruz\,   Ilha da Madeira Santa Cruz\,   Ilha da Madeira
+SUMMARY:II Corrida do Aeroporto 2026
+DESCRIPTION:Sobre II Corrida do Aeroporto 2026A II Corrida do Aeroporto 202
+ 6 realiza-se no dia 27 de Setembro de 2026 (Domingo)\,  com partidas a part
+ ir das 09:00 em Santa Cruz\,  na Ilha da Madeira. Organizada em parceria co
+ njunta pela ANA\,  Aeroportos de Portugal S.A. e pela AARAM (Associação d
+ e Atletismo da[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-aero
+ porto/
+URL:https://www.portugalrunning.com/eventos/corrida-do-aeroporto/
+END:VEVENT
+END:VCALENDAR

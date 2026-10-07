@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68242-0@www.portugalrunning.com
+DTSTAMP:20261003T182335Z
+DTSTART:20261219
+DTEND:20261220
+LOCATION:Abrantes\,   Santarém Abrantes\,   Santarém
+SUMMARY:Corvus Trail Branco Gaspar 2026
+DESCRIPTION:Sobre Corvus Trail Branco Gaspar 2026O Corvus Trail Branco Gasp
+ ar 2026 realiza-se no dia 19 de Dezembro de 2026 (Sábado)\,  com partida a
+ gendada a partir das 09:30 em Abrançalha de Baixo\,  na freguesia de São 
+ Vicente\,  concelho de Abrantes\,  distrito de Santarém. Esta conceituada 
+ competição desportiva proporciona uma experiência única[..]\nhttps://ww
+ w.portugalrunning.com/eventos/corvus-trail/
+URL:https://www.portugalrunning.com/eventos/corvus-trail/
+END:VEVENT
+END:VCALENDAR

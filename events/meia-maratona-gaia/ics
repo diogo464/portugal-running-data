@@ -4,18 +4,17 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:47649-0@www.portugalrunning.com
-DTSTAMP:20260902T140044Z
-DTSTART:20260322T085200Z
-DTEND:20260322T235900Z
+UID:67610-0@www.portugalrunning.com
+DTSTAMP:20261003T182350Z
+DTSTART:20270314T000000Z
+DTEND:20270314T235900Z
 LOCATION:Vila Nova de Gaia\,   Porto Vila Nova de Gaia\,   Porto
-SUMMARY:Meia Maratona Gaia 2026
-DESCRIPTION:A primeira edição da&nbsp;Meia Maratona de Gaia – Corrida d
- o Atlântico&nbsp;foi um momento verdadeiramente inesquecível. Com milhare
- s de atletas a correrem lado a lado com o mar\,  entre emoção e superaç�
- �o\,  Gaia mostrou ao país e ao mundo que está à altura dos grandes palc
- os do desporto. A todos os[..]\nhttps://www.portugalrunning.com/eventos/mei
- a-maratona-gaia/
+SUMMARY:Meia Maratona de Gaia 2027
+DESCRIPTION:Sobre Meia Maratona de Gaia 2027A Meia Maratona de Gaia 2027 re
+ aliza-se na manhã de domingo\,  14 de março de 2027\,  afirmando-se como 
+ uma das provas de estrada mais cénicas e aguardadas de Portugal. Promovida
+  com o apoio institucional do Município de Vila Nova de Gaia\,  o evento p
+ ercorre a[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-gaia/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-gaia/
 END:VEVENT
 END:VCALENDAR

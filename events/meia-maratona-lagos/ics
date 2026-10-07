@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67410-0@www.portugalrunning.com
+DTSTAMP:20261003T182346Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Lagos\,   Faro Lagos\,   Faro
+SUMMARY:36ª Meia Maratona de Lagos 2026
+DESCRIPTION:Sobre 36ª Meia Maratona de Lagos 2026A 36ª Meia Maratona de L
+ agos 2026 realiza-se no domingo\,  15 de Novembro de 2026\,  às 09:30\,  s
+ ob a organização do histórico Olímpico Clube de Lagos e com o parecer t
+ écnico favorável da Associação de Atletismo do Algarve. Com partida e m
+ eta concentradas em[..]\nhttps://www.portugalrunning.com/eventos/meia-marat
+ ona-lagos/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-lagos/
+END:VEVENT
+END:VCALENDAR

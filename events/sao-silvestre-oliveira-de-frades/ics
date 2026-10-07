@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:68316-0@www.portugalrunning.com
+DTSTAMP:20261003T182358Z
+DTSTART:20261212
+DTEND:20261213
+LOCATION:Oliveira de Frades\,   Viseu Oliveira de Frades\,   Viseu
+SUMMARY:V São Silvestre de Oliveira de Frades 2026
+DESCRIPTION:Sobre V São Silvestre de Oliveira de Frades 2026A V São Silve
+ stre de Oliveira de Frades 2026 realiza-se no sábado\,  12 de dezembro de 
+ 2026\,  no concelho de Oliveira de Frades\,  distrito de Viseu. Organizada 
+ pela Associação Académica de Santa Cruz em estreita parceria com a Câma
+ ra Municipal de Oliveira[..]\nhttps://www.portugalrunning.com/eventos/sao-s
+ ilvestre-oliveira-de-frades/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-oliveira-de-frades/
+END:VEVENT
+END:VCALENDAR

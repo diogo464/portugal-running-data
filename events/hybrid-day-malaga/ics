@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67514-0@www.portugalrunning.com
+DTSTAMP:20261003T182342Z
+DTSTART:20261010
+DTEND:20261011
+LOCATION:Málaga\,   Espanha Málaga\,   Espanha
+SUMMARY:Hybrid Day Málaga 2026
+DESCRIPTION:Sobre Hybrid Day Málaga 2026O Hybrid Day Málaga 2026 realiza-
+ se a 10 de outubro de 2026 no emblemático Estadio Polideportivo Ciudad de 
+ Torremolinos\,  na região de Málaga\,  Costa del Sol\,  Espanha. Integran
+ do o circuito de fitness racing da Hybrid Day League\,  o evento combina 8 
+ km de corrida intervalada intercalados[..]\nhttps://www.portugalrunning.com
+ /eventos/hybrid-day-malaga/
+URL:https://www.portugalrunning.com/eventos/hybrid-day-malaga/
+END:VEVENT
+END:VCALENDAR

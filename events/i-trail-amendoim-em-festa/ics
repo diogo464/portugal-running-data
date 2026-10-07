@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:67401-0@www.portugalrunning.com
+DTSTAMP:20261003T182340Z
+DTSTART:20261024
+DTEND:20261025
+LOCATION:Aljezur\,   Faro Aljezur\,   Faro
+SUMMARY:I TRAIL AMENDOIM EM FESTA 2026
+DESCRIPTION:Sobre I TRAIL AMENDOIM EM FESTA 2026O I Trail Amendoim em Festa
+  2026 realiza-se no sábado\,  24 de outubro de 2026\,  no concelho de Alje
+ zur\,  coração do Parque Natural do Sudoeste Alentejano e Costa Vicentina
+ \,  no distrito de Faro. O evento visa valorizar a tradição gastronómica
+  e o património natural[..]\nhttps://www.portugalrunning.com/eventos/i-tra
+ il-amendoim-em-festa/
+URL:https://www.portugalrunning.com/eventos/i-trail-amendoim-em-festa/
+END:VEVENT
+END:VCALENDAR
