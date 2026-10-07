@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69276-0@www.portugalrunning.com
+DTSTAMP:20261007T060212Z
+DTSTART:20261114
+DTEND:20261115
+LOCATION:Lisboa Lisboa
+SUMMARY:Corrida das Castanhas 2026
+DESCRIPTION:Sobre Corrida das Castanhas 2026O Corrida das Castanhas 2026 re
+ aliza-se no dia 14 de Novembro de 2026 (Sábado)\,  com partida agendada pa
+ ra as 10:00 em Ajuda\,  Lisboa\,  no concelho de Lisboa\,  distrito de Lisb
+ oa. Esta conceituada competição desportiva reúne praticantes e entusiast
+ as de corrida num ambiente de celebração atlética e[..]\nhttps://www.por
+ tugalrunning.com/eventos/corrida-das-castanhas/
+URL:https://www.portugalrunning.com/eventos/corrida-das-castanhas/
+END:VEVENT
+END:VCALENDAR
