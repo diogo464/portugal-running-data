@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69350-0@www.portugalrunning.com
+DTSTAMP:20261008T060057Z
+DTSTART:20261129T000000Z
+DTEND:20261129T235900Z
+LOCATION:São João da Madeira\,   Aveiro São João da Madeira\,   Aveiro
+SUMMARY:Corrida dos Milagres 2026
+DESCRIPTION:Sobre Corrida dos Milagres 2026O Corrida dos Milagres 2026 real
+ iza-se no dia 29 de Novembro de 2026 (Domingo)\,  com partida agendada para
+  as 09:29 em São João da Madeira\,  Aveiro\,  no concelho de São João d
+ a Madeira\,  distrito de Aveiro. Esta conceituada competição desportiva r
+ eúne praticantes e entusiastas de corrida[..]\nhttps://www.portugalrunning
+ .com/eventos/corrida-dos-milagres/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-milagres/
+END:VEVENT
+END:VCALENDAR
