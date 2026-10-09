@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69363-0@www.portugalrunning.com
+DTSTAMP:20261009T060058Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Torres Vedras\,   Lisboa Torres Vedras\,   Lisboa
+SUMMARY:Cross de Torres Vedras 2026
+DESCRIPTION:Sobre Cross de Torres Vedras 2026O Cross de Torres Vedras 2026 
+ / 44º Corta-Mato de Matos Velhos realiza-se no dia 8 de Novembro de 2026 (
+ Domingo)\,  no Parque Verde da Várzea em Torres Vedras\,  Lisboa\,  com in
+ ício agendado para as 09:00 horas. A prova\,  qualificada pela Federação
+  Portuguesa de Atletismo\, [..]\nhttps://www.portugalrunning.com/eventos/cr
+ oss-torres-vedras/
+URL:https://www.portugalrunning.com/eventos/cross-torres-vedras/
+END:VEVENT
+END:VCALENDAR

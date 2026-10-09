@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69369-0@www.portugalrunning.com
+DTSTAMP:20261009T060057Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Mortágua\,   Viseu Mortágua\,   Viseu
+SUMMARY:1ª Corrida dos Bombeiros Voluntários de Mortágua 2026
+DESCRIPTION:Sobre 1ª Corrida dos Bombeiros Voluntários de Mortágua 2026A
+  1ª Corrida dos Bombeiros Voluntários de Mortágua 2026 realiza-se no dia
+  15 de Novembro de 2026 (Domingo) em Mortágua\,  no concelho de Mortágua\
+ ,  distrito de Viseu.O programa oficial do evento contempla a realização 
+ de um percurso com a distância de 10km\, [..]\nhttps://www.portugalrunning
+ .com/eventos/1-corrida-dos-bombeiros-voluntarios-de-mortagua/
+URL:https://www.portugalrunning.com/eventos/1-corrida-dos-bombeiros-voluntarios-de-mortagua/
+END:VEVENT
+END:VCALENDAR
