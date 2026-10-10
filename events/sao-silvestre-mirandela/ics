@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69399-0@www.portugalrunning.com
+DTSTAMP:20261010T060050Z
+DTSTART:20261226
+DTEND:20261227
+LOCATION:Mirandela\,   Bragança Mirandela\,   Bragança
+SUMMARY:Sao Silvestre Mirandela 2026
+DESCRIPTION:Sobre Sao Silvestre Mirandela 2026O Sao Silvestre Mirandela 202
+ 6 realiza-se no dia 26 de Dezembro de 2026 (Sábado)\,  com partida agendad
+ a para as 19:00 em Mirandela\,  Braganca\,  no concelho de Mirandela\,  dis
+ trito de Braganca. Esta conceituada competição desportiva reúne pratican
+ tes e entusiastas de corrida num ambiente de celebração atlética e[..]\n
+ https://www.portugalrunning.com/eventos/sao-silvestre-mirandela/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-mirandela/
+END:VEVENT
+END:VCALENDAR
