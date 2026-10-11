@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69420-0@www.portugalrunning.com
+DTSTAMP:20261011T060101Z
+DTSTART:20261219
+DTEND:20261220
+LOCATION:Estremoz\,   Évora Estremoz\,   Évora
+SUMMARY:5ª São Silvestre Ufestremoz 2026
+DESCRIPTION:Sobre 5ª São Silvestre Ufestremoz 2026A 5ª São Silvestre Uf
+ estremoz 2026 realiza-se no dia 19 de Dezembro de 2026 (Sábado)\,  com par
+ tida agendada para as 17:00 no coração do Alentejo\,  em Estremoz (distri
+ to de Évora). Como é tradição nesta época festiva\,  a cidade iluminad
+ a ganha vida com uma das clássicas[..]\nhttps://www.portugalrunning.com/ev
+ entos/sao-silvestre-ufestremoz/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-ufestremoz/
+END:VEVENT
+END:VCALENDAR

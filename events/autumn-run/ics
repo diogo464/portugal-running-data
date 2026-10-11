@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69415-0@www.portugalrunning.com
+DTSTAMP:20261011T060058Z
+DTSTART:20261114
+DTEND:20261115
+LOCATION:Amarante Amarante\,   Porto
+SUMMARY:101 Autumn Run 2026
+DESCRIPTION:Sobre 101 Autumn Run 2026O 101 Autumn Run 2026 realiza-se no di
+ a 14 de Novembro de 2026 (Sábado)\,  com partida agendada para as 09h00 no
+  Monverde Hotel & Spa\,  Telões\,  no concelho de Amarante\,  distrito do 
+ Porto. Uma prova de trilhos exclusiva\,  com limite de 101 participantes\, 
+  promovendo a prática[..]\nhttps://www.portugalrunning.com/eventos/autumn-
+ run/
+URL:https://www.portugalrunning.com/eventos/autumn-run/
+END:VEVENT
+END:VCALENDAR

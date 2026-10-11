@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69423-0@www.portugalrunning.com
+DTSTAMP:20261011T060100Z
+DTSTART:20261024
+DTEND:20261025
+LOCATION:São Brás de Alportel\,   Faro São Brás de Alportel\,   Faro
+SUMMARY:Glow Night Run São Brás de Alportel 2026
+DESCRIPTION:Sobre Glow Night Run São Brás de Alportel 2026O Glow Night Ru
+ n São Brás de Alportel 2026 regressa no dia 24 de Outubro de 2026 (Sábad
+ o)\,  com partida agendada para as 19:00 no Parque das Amendoeiras\,  em S�
+ �o Brás de Alportel (Algarve). Esta prova noturna única no distrito de Fa
+ ro[..]\nhttps://www.portugalrunning.com/eventos/night-run/
+URL:https://www.portugalrunning.com/eventos/night-run/
+END:VEVENT
+END:VCALENDAR

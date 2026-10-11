@@ -4,17 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:44826-0@www.portugalrunning.com
-DTSTAMP:20260902T140224Z
-DTSTART:20251208
-DTEND:20251209
+UID:69443-0@www.portugalrunning.com
+DTSTAMP:20261011T060103Z
+DTSTART:20261208
+DTEND:20261209
 LOCATION:Paranhos\,   Porto Paranhos\,   Porto
-SUMMARY:Volta a Paranhos 2025
-DESCRIPTION:Resultados O Sport Comércio e Salgueiros\,  em parceria com a 
- Eventsport\,  organiza a 68ª edição da Volta a Paranhos\,  a corrida mai
- s antiga do país. Com o objetivo de promover a prática desportiva como el
- emento essencial para a saúde e qualidade de vida\,  o evento realiza-se n
- o dia 8 de[..]\nhttps://www.portugalrunning.com/eventos/volta-a-paranhos/
+SUMMARY:69ª Volta a Paranhos 2026
+DESCRIPTION:Sobre 69ª Volta a Paranhos 2026A mítica 69ª Volta a Paranhos
+  2026 realiza-se no feriado de 8 de Dezembro (Terça-feira)\,  com partida 
+ agendada para as 10:45 nas emblemáticas ruas do Porto. Considerada a prova
+  de atletismo mais antiga e tradicional de Portugal sem interrupções\,  e
+ ste evento histórico organizado pelo Sport[..]\nhttps://www.portugalrunnin
+ g.com/eventos/volta-a-paranhos/
 URL:https://www.portugalrunning.com/eventos/volta-a-paranhos/
 END:VEVENT
 END:VCALENDAR

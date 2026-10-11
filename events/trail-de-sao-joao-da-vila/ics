@@ -4,18 +4,17 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:45669-0@www.portugalrunning.com
-DTSTAMP:20260902T140133Z
-DTSTART:20260606
-DTEND:20260607
+UID:69407-0@www.portugalrunning.com
+DTSTAMP:20261011T060101Z
+DTSTART:20270605
+DTEND:20270606
 LOCATION:Vila Franca do Campo\,   Açores Vila Franca do Campo\,   Açores
-SUMMARY:Trail de São João da Vila 2026
-DESCRIPTION:A 6ª edição do Trail de São João da Vila (TSJV)\,  nos Aç
- ores\,  foi pensada e organizada para diferentes perfis de participantes. E
- ste ano\,  a organização preparou as suas 4 distâncias num formato espec
- ial\,  percorrendo todas as freguesias do concelho de Vila Franca do Campo.
-  Independentemente do ponto de partida\, [..]\nhttps://www.portugalrunning.
- com/eventos/trail-de-sao-joao-da-vila/
+SUMMARY:Trail de São João da Vila 2027
+DESCRIPTION:Sobre Trail de São João da Vila 2027O Trail de São João da 
+ Vila 2027 realiza-se no dia 5 de Junho de 2027 (Sábado)\,  com partida age
+ ndada para as 07:00 em Vila Franca do Campo\,  Acores\,  no concelho de Vil
+ a Franca do Campo\,  distrito de Acores.A edição deste ano disponibiliza[
+ ..]\nhttps://www.portugalrunning.com/eventos/trail-de-sao-joao-da-vila/
 URL:https://www.portugalrunning.com/eventos/trail-de-sao-joao-da-vila/
 END:VEVENT
 END:VCALENDAR

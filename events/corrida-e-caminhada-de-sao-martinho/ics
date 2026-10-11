@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69419-0@www.portugalrunning.com
+DTSTAMP:20261011T060059Z
+DTSTART:20261108T010000Z
+DTEND:20261109T005900Z
+LOCATION:Fajã Grande\,   Ilha das Flores\,   Fajã Grande\,   Ilha das Flores
+SUMMARY:3ª Corrida e Caminhada de São Martinho 2026
+DESCRIPTION:Sobre 3ª Corrida e Caminhada de São Martinho 2026A 3ª Corrid
+ a e Caminhada de São Martinho 2026 realiza-se no dia 8 de Novembro de 2026
+  (Domingo)\,  com partida agendada para as 16:00 na deslumbrante Fajã Gran
+ de\,  no concelho das Lajes das Flores (Açores). Inserida numa das paisage
+ ns mais deslumbrantes do[..]\nhttps://www.portugalrunning.com/eventos/corri
+ da-e-caminhada-de-sao-martinho/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-de-sao-martinho/
+END:VEVENT
+END:VCALENDAR
