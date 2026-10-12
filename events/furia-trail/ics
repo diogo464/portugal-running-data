@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51286-0@www.portugalrunning.com
-DTSTAMP:20261003T182337Z
-DTSTART:20261108T083000Z
-DTEND:20261108T083000Z
+DTSTAMP:20261012T060103Z
+DTSTART:20261108T000000Z
+DTEND:20261108T235900Z
 LOCATION:Freixianda\,   Ourém Freixianda\,   Ourém
 SUMMARY:3º Fúria Trail 2026
-DESCRIPTION:Sobre 3º Fúria Trail 2026O 3º Fúria Trail 2026 realiza-se n
- o fim de semana de 7 e 8 de Novembro de 2026\,  na pitoresca vila de Freixi
- anda\,  no concelho de Ourém\,  distrito de Santarém. Promovido pela Asso
- ciação Cultural e Recreativa Vale do Nabão (ACRVN) com o apoio da Câmar
- a Municipal[..]\nhttps://www.portugalrunning.com/eventos/furia-trail/
+DESCRIPTION:Sobre 3º Fúria Trail 2026O 3º Fúria Trail 2026 realiza-se a
+  8 de Novembro de 2026 (Domingo).Com o centro nevrálgico instalado na freg
+ uesia de Freixianda (concelho de Ourém\,  distrito de Santarém)\,  o cart
+ az competitivo integra três provas de corrida na natureza (21 km\,  14 km 
+ e 10 km)\,  complementadas por[..]\nhttps://www.portugalrunning.com/eventos
+ /furia-trail/
 URL:https://www.portugalrunning.com/eventos/furia-trail/
 END:VEVENT
 END:VCALENDAR
