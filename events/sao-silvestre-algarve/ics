@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69516-0@www.portugalrunning.com
+DTSTAMP:20261013T060048Z
+DTSTART:20261219
+DTEND:20261220
+LOCATION:Albufeira\,   Faro Albufeira\,   Faro
+SUMMARY:Sao Silvestre do Algarve 2026
+DESCRIPTION:Sobre Sao Silvestre do Algarve 2026O Sao Silvestre do Algarve 2
+ 026 decorrerá no dia 19 de Dezembro de 2026 (Sábado)\,  arrancando pelas 
+ 18:30 nas ruas de Albufeira\,  no distrito de Faro. Trata-se de uma prova f
+ estiva que marca o encerramento do calendário desportivo na região algarv
+ ia\,  juntando atletas e famílias[..]\nhttps://www.portugalrunning.com/eve
+ ntos/sao-silvestre-algarve/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-algarve/
+END:VEVENT
+END:VCALENDAR
