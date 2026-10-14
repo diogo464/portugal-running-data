@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69557-0@www.portugalrunning.com
+DTSTAMP:20261014T060037Z
+DTSTART:20261108T000000Z
+DTEND:20261108T235900Z
+LOCATION:Beato\,   Lisboa Beato\,   Lisboa
+SUMMARY:Tech Run 2026
+DESCRIPTION:Sobre Tech Run 2026O Tech Run 2026 (3ª edição) realiza-se no
+  dia 8 de novembro de 2026 (domingo)\,  na Unicorn Factory Lisboa\,  no Bea
+ to Innovation District (acesso pela Av. Infante Dom Henrique 143\,  concelh
+ o e distrito de Lisboa). Integrada na celebração da Portugal Tech Week na
+  véspera da Web Summit\, [..]\nhttps://www.portugalrunning.com/eventos/tec
+ h-run/
+URL:https://www.portugalrunning.com/eventos/tech-run/
+END:VEVENT
+END:VCALENDAR

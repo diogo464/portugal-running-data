@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69567-0@www.portugalrunning.com
+DTSTAMP:20261014T060038Z
+DTSTART:20261212
+DTEND:20261213
+LOCATION:Almodôvar\,   Beja Almodôvar\,   Beja
+SUMMARY:São Silvestre Casa Benfica Almodôvar 2026
+DESCRIPTION:Sobre São Silvestre Casa Benfica Almodôvar 2026A São Silvest
+ re Casa Benfica Almodôvar 2026 realiza-se no sábado\,  12 de Dezembro de 
+ 2026\,  ao final da tarde\,  levando o espírito festivo das clássicas cor
+ ridas de fim de ano às ruas de Almodôvar\,  no distrito de Beja. Com part
+ ida e chegada instaladas junto[..]\nhttps://www.portugalrunning.com/eventos
+ /sao-silvestre-casa-benfica-almodovar/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-casa-benfica-almodovar/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69549-0@www.portugalrunning.com
+DTSTAMP:20261014T060037Z
+DTSTART:20261226
+DTEND:20261227
+LOCATION:Amares\,   Braga Amares\,   Braga
+SUMMARY:São Silvestre de Amares 2026
+DESCRIPTION:Sobre São Silvestre de Amares 2026A 12ª São Silvestre de Ama
+ res 2026 realiza-se no dia 26 de Dezembro de 2026 (Sábado)\,  com concentr
+ ação no Largo Gualdim Pais em Amares e partidas a partir das 17:00. O eve
+ nto despede-se do ano desportivo ligando a vila de Amares à vila termal de
+ [..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-amares/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-amares/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69563-0@www.portugalrunning.com
+DTSTAMP:20261014T060037Z
+DTSTART:20270221
+DTEND:20270222
+LOCATION:Sesimbra\,   Setúbal Sesimbra\,   Setúbal
+SUMMARY:Meia Maratona de Sesimbra 2027
+DESCRIPTION:Sobre Meia Maratona de Sesimbra 2027A Meia Maratona de Sesimbra
+  2027 realiza-se no dia 21 de fevereiro de 2027 (Domingo)\,  com concentra�
+ �ão\,  partida e chegada no emblemático Sesimbra Natura Park\,  no concel
+ ho de Sesimbra\,  distrito de Setúbal. Num cenário privilegiado rodeado d
+ e pinhais\,  charcas e natureza preservada\,  a prova proporciona[..]\nhttp
+ s://www.portugalrunning.com/eventos/meia-maratona-de-sesimbra/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-sesimbra/
+END:VEVENT
+END:VCALENDAR
