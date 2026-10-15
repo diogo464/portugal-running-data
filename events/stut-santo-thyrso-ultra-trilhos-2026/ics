@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:45215-0@www.portugalrunning.com
+DTSTAMP:20261015T060036Z
+DTSTART:20260214
+DTEND:20260215
+LOCATION:Santo Tirso\,   Porto Santo Tirso\,   Porto
+SUMMARY:Stut - Santo Thyrso Ultra Trilhos 2026
+DESCRIPTION:A 11ª Edição do STUT-Santo Thyrso Ultra Trilhos é uma prova
+  de trail\,  organizada pelo NAST – Núcleo Associativo de Santo Tirso e 
+ Câmara Municipal de Santo Tirso\,  que se desenvolve pelos montes circunda
+ ntes dos concelhos de Santo Tirso e Paços de Ferreira e em simultâneo com
+  as provas\,  realiza-se[..]\nhttps://www.portugalrunning.com/eventos/stut-
+ santo-thyrso-ultra-trilhos-2026/
+URL:https://www.portugalrunning.com/eventos/stut-santo-thyrso-ultra-trilhos-2026/
+END:VEVENT
+END:VCALENDAR

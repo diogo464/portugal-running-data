@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:697b097662a36
-DTSTAMP:20260129T071710Z
+UID:43197-0@www.portugalrunning.com
+DTSTAMP:20261015T060037Z
 DTSTART:20260326
 DTEND:20260327
-LOCATION:Amarante\,  Porto Amarante\,  Porto
+LOCATION:Amarante\,   Porto Amarante\,   Porto
 SUMMARY:Ultra Trail do Marão 2026
 DESCRIPTION:O Ultra Trail do Marão\,  é um evento desportivo de trail run
  ning em estado genuíno daresponsabilidade co-organizativa da Associação 
