@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69613-0@www.portugalrunning.com
+DTSTAMP:20261016T060055Z
+DTSTART:20261107
+DTEND:20261108
+LOCATION:Machico\,   Ilha da Madeira Machico\,   Ilha da Madeira
+SUMMARY:Campeonatos Regionais de Corta-mato / Viva o Corta-mato 2026
+DESCRIPTION:Sobre Campeonatos Regionais de Corta-mato / Viva o Corta-mato 2
+ 026Os Campeonatos Regionais de Corta-mato / Viva o Corta-mato 2026 realizam
+ -se no dia 7 de Novembro de 2026 (Sábado)\,  a partir das 14:00\,  no embl
+ emático planalto do Chão das Feiteiras (freguesia do Porto da Cruz)\,  no
+  concelho de Machico\,  Ilha da[..]\nhttps://www.portugalrunning.com/evento
+ s/campeonatos-regionais-de-corta-mato-viva-o-corta-mato/
+URL:https://www.portugalrunning.com/eventos/campeonatos-regionais-de-corta-mato-viva-o-corta-mato/
+END:VEVENT
+END:VCALENDAR

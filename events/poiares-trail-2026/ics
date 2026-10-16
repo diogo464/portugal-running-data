@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:693766db1dc14
-DTSTAMP:20251209T000131Z
-DTSTART:20260207
-DTEND:20260208
-LOCATION:Vila Nova de Poiares\,  Coimbra Vila Nova de Poiares\,  Coimbra
+UID:45772-0@www.portugalrunning.com
+DTSTAMP:20261016T060057Z
+DTSTART:20260222
+DTEND:20260223
+LOCATION:Vila Nova de Poiares\,   Coimbra Vila Nova de Poiares\,   Coimbra
 SUMMARY:Poiares Trail 2026
 DESCRIPTION:A secção de Atletismo da Associação Recreativa de S. Miguel
   – Vila Nova de Poiares é a entidade organizadora do evento denominado P
- OIARES TRAIL 2026\,  que decorrerá a 7 de fevereiro de 2026\,  com a reali
- zação das provas da Corrida de Obstáculos e PT Kids no dia 14 de feverei
- ro[..]\nhttps://www.portugalrunning.com/eventos/poiares-trail-2026/
+ OIARES TRAIL 2026\,  que decorrerá a 22 de fevereiro de 2026\,  com a real
+ ização das provas da Corrida de Obstáculos e PT Kids no dia 14 de fevere
+ iro[..]\nhttps://www.portugalrunning.com/eventos/poiares-trail-2026/
 URL:https://www.portugalrunning.com/eventos/poiares-trail-2026/
 END:VEVENT
 END:VCALENDAR

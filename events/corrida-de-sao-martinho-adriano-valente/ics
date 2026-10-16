@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69618-0@www.portugalrunning.com
+DTSTAMP:20261016T060055Z
+DTSTART:20261122
+DTEND:20261123
+LOCATION:Cabeceiras de Basto\,   Braga Cabeceiras de Basto\,   Braga
+SUMMARY:11ª Corrida de São Martinho – Adriano Valente 2026
+DESCRIPTION:Sobre 11ª Corrida de São Martinho – Adriano Valente 2026A 1
+ 1ª Corrida de São Martinho – Adriano Valente 2026 realiza-se no dia 22 
+ de Novembro de 2026 (Domingo)\,  às 10:30\,  na vila de Arco de Baúlhe\, 
+  concelho de Cabeceiras de Basto\,  distrito de Braga. Com partida e chegad
+ a na Rua[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-sao-martin
+ ho-adriano-valente/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-martinho-adriano-valente/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69623-0@www.portugalrunning.com
+DTSTAMP:20261016T060055Z
+DTSTART:20261129T000000Z
+DTEND:20261129T235900Z
+LOCATION:Odemira\,   Beja Odemira\,   Beja
+SUMMARY:31º Cross dos Cavaleiros de Vale Santiago / 17º Percurso dos Cavaleiros de Vale Santiago 2026
+DESCRIPTION:Sobre 31º Cross dos Cavaleiros de Vale Santiago / 17º Percurs
+ o dos Cavaleiros de Vale Santiago 2026O 31º Cross dos Cavaleiros de Vale S
+ antiago / 17º Percurso dos Cavaleiros de Vale Santiago 2026 realiza-se no 
+ dia 29 de Novembro de 2026 (Domingo)\,  junto ao Campo de Futebol de Vale d
+ e[..]\nhttps://www.portugalrunning.com/eventos/cross-dos-cavaleiros-de-vale
+ -santiago/
+URL:https://www.portugalrunning.com/eventos/cross-dos-cavaleiros-de-vale-santiago/
+END:VEVENT
+END:VCALENDAR
