@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69641-0@www.portugalrunning.com
+DTSTAMP:20261017T060050Z
+DTSTART:20261205
+DTEND:20261206
+LOCATION:Fornos de Algodres\,   Guarda Fornos de Algodres\,   Guarda
+SUMMARY:São Silvestre de Fornos de Algodres 2026
+DESCRIPTION:Sobre São Silvestre de Fornos de Algodres 2026A São Silvestre
+  de Fornos de Algodres 2026 realiza-se no sábado\,  5 de Dezembro de 2026\
+ ,  com ponto de encontro\,  partida e meta instalados junto ao Mercado Muni
+ cipal\,  na vila de Fornos de Algodres\,  distrito da Guarda. O evento conj
+ uga o ambiente festivo[..]\nhttps://www.portugalrunning.com/eventos/sao-sil
+ vestre-de-fornos-de-algodres/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-fornos-de-algodres/
+END:VEVENT
+END:VCALENDAR

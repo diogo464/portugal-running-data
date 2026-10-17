@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:66682-0@www.portugalrunning.com
-DTSTAMP:20261003T182330Z
+DTSTAMP:20261017T060048Z
 DTSTART:20261115
 DTEND:20261116
-LOCATION:Bonfim\,   Porto Bonfim\,   Porto
+LOCATION:Porto Porto
 SUMMARY:Bonfim Run Porto 2026
 DESCRIPTION:Sobre Bonfim Run Porto 2026A Bonfim Run Porto 2026 realiza-se n
- o dia 15 de novembro de 2026\,  levando o atletismo de estrada e a paixão 
- pela corrida ao coração de uma das freguesias mais carismáticas da cidad
- e invicta. Promovida pela ProEvents em parceria com a Câmara Municipal do 
- Porto\,  a[..]\nhttps://www.portugalrunning.com/eventos/bonfim-run-porto/
+ o domingo\,  15 de novembro de 2026\,  às 10:00\,  com partida e chegada n
+ a freguesia do Bonfim\,  na cidade do Porto. O evento integra oficialmente 
+ o circuito ProEvents Running Series 2026/2027 e é promovido pela ProEvents
+  em parceria com a[..]\nhttps://www.portugalrunning.com/eventos/bonfim-run-
+ porto/
 URL:https://www.portugalrunning.com/eventos/bonfim-run-porto/
 END:VEVENT
 END:VCALENDAR

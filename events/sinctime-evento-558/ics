@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:69325-0@www.portugalrunning.com
-DTSTAMP:20261007T060234Z
+DTSTAMP:20261017T060050Z
 DTSTART:20270605
 DTEND:20270606
-SUMMARY:Sinctime Evento 558 2026
-DESCRIPTION:Sobre Sinctime Evento 558 2026O Sinctime Evento 558 2026 realiz
- a-se no dia 5 de Junho de 2027 (Sábado)\,  com partida agendada para as 00
- :00 em Latitude: Longitude:\,  no concelho de Não Detetado\,  distrito de 
- Não Detetado. Esta conceituada competição desportiva reúne praticantes 
- e entusiastas de corrida num ambiente de celebração[..]\nhttps://www.port
- ugalrunning.com/eventos/sinctime-evento-558/
+LOCATION:Vila Verde\,   Braga Vila Verde\,   Braga
+SUMMARY:Bracarvs Backyard Ultra Vila Verde 2027
+DESCRIPTION:Sobre Bracarvs Backyard Ultra Vila Verde 2027A Bracarvs Backyar
+ d Ultra Vila Verde 2027 (4ª edição – Bronze Ticket Edition) realiza-se
+  a partir de sábado\,  dia 5 de junho de 2027\,  com a primeira largada ma
+ rcada para as 09:00 na Praia Fluvial do Faial\,  na freguesia de Vila de Pr
+ ado\,  concelho[..]\nhttps://www.portugalrunning.com/eventos/sinctime-event
+ o-558/
 URL:https://www.portugalrunning.com/eventos/sinctime-evento-558/
 END:VEVENT
 END:VCALENDAR

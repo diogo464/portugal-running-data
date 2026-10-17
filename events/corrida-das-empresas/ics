@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:53210-0@www.portugalrunning.com
-DTSTAMP:20261003T182330Z
-DTSTART:20261115T100000Z
-DTEND:20261115T100000Z
+DTSTAMP:20261017T060048Z
+DTSTART:20261115T000000Z
+DTEND:20261115T235900Z
 LOCATION:Lisboa Lisboa
 SUMMARY:Corrida das Empresas 2026
-DESCRIPTION:Sobre Corrida das Empresas 2026A Corrida das Empresas Quirónpr
- evención 2026 realiza-se no domingo\,  15 de novembro de 2026\,  no vangua
- rdista Beato Innovation District (Avenida Infante Dom Henrique)\,  em Lisbo
- a. Organizada em parceria pela Associação Aminhacorrida e pela Last Lap E
- ventos com o patrocínio principal da Quirónprevención\,  a iniciativa é
-  o[..]\nhttps://www.portugalrunning.com/eventos/corrida-das-empresas/
+DESCRIPTION:Sobre Corrida das Empresas 2026A Corrida das Empresas 2026 (Cor
+ rida das Empresas Quirónprevención) realiza-se no domingo\,  15 de novemb
+ ro de 2026\,  na frente ribeirinha oriental de Lisboa. Pensado para promove
+ r o espírito de equipa\,  o team building e o bem-estar corporativo fora d
+ o escritório\,  este desafio junta colegas de trabalho[..]\nhttps://www.po
+ rtugalrunning.com/eventos/corrida-das-empresas/
 URL:https://www.portugalrunning.com/eventos/corrida-das-empresas/
 END:VEVENT
 END:VCALENDAR
