@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69831-0@www.portugalrunning.com
+DTSTAMP:20261018T060050Z
+DTSTART:20261212
+DTEND:20261213
+LOCATION:Caminha\,   Viana do Castelo Caminha\,   Viana do Castelo
+SUMMARY:Run For All – São Silvestre de Caminha 2026
+DESCRIPTION:Sobre Run For All – São Silvestre de Caminha 2026O Run For A
+ ll – São Silvestre de Caminha 2026 realiza-se no sábado\,  dia 12 de de
+ zembro de 2026\,  com partida e chegada agendadas para as 18:00 na emblemá
+ tica Rua Direita\,  em Caminha (distrito de Viana do Castelo). Organizada p
+ ela Associação[..]\nhttps://www.portugalrunning.com/eventos/run-for-all-s
+ ao-silvestre-de-caminha/
+URL:https://www.portugalrunning.com/eventos/run-for-all-sao-silvestre-de-caminha/
+END:VEVENT
+END:VCALENDAR

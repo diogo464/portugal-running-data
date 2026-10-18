@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:69819-0@www.portugalrunning.com
+DTSTAMP:20261018T060050Z
+DTSTART:20261208
+DTEND:20261209
+LOCATION:Vila Nova de Famalicão\,   Braga Famalicão\,   Porto
+SUMMARY:8ª São Silvestre de Seide 2026
+DESCRIPTION:Sobre 8ª São Silvestre de Seide 2026A 8ª São Silvestre de S
+ eide 2026 realiza-se no feriado de terça-feira\,  dia 8 de dezembro de 202
+ 6\,  com partida e chegada no Parque da Freguesia de Seide São Miguel\,  n
+ o concelho de Vila Nova de Famalicão (distrito de Braga). Integrada oficia
+ lmente no Circuito[..]\nhttps://www.portugalrunning.com/eventos/sao-silvest
+ re-seide/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-seide/
+END:VEVENT
+END:VCALENDAR

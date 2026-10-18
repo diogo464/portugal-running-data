@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70044-0@www.portugalrunning.com
+DTSTAMP:20261018T060049Z
+DTSTART:20270228
+DTEND:20270301
+LOCATION:Madrid\,   Espanha Madrid\,   Espanha
+SUMMARY:15KM MetLife Madrid 2027
+DESCRIPTION:Sobre 15KM MetLife Madrid 2027O 15KM MetLife Madrid 2027 (12ª 
+ edição) realiza-se no dia 28 de Fevereiro de 2027 (Domingo)\,  com tiro d
+ e partida marcado para as 09:00 em pleno coração financeiro de Madrid\,  
+ Espanha. Limitada a um máximo de 10.000 corredores\,  esta clássica de in
+ verno afirmada no calendário europeu[..]\nhttps://www.portugalrunning.com/
+ eventos/metlife-madrid/
+URL:https://www.portugalrunning.com/eventos/metlife-madrid/
+END:VEVENT
+END:VCALENDAR
