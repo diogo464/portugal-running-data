@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70081-0@www.portugalrunning.com
+DTSTAMP:20261019T060118Z
+DTSTART:20270227T000000Z
+DTEND:20270227T235900Z
+LOCATION:Mpumalanga\,   África do Sul Mpumalanga\,   África do Sul
+SUMMARY:TRACN4 Elands Marathon 2027
+DESCRIPTION:Sobre TRACN4 Elands Marathon 2027A TRACN4 Elands Marathon 2027 
+ realiza-se no dia 27 de fevereiro de 2027 (sábado)\,  na província de Mpu
+ malanga\,  África do Sul\,  com chegada unificada no Sappi Skills Training
+  Centre (SSTC)\,  em Ngodwana (931 m de altitude). Reconhecida como a marat
+ ona mais rápida de Mpumalanga e uma[..]\nhttps://www.portugalrunning.com/e
+ ventos/tracn4-elands-marathon/
+URL:https://www.portugalrunning.com/eventos/tracn4-elands-marathon/
+END:VEVENT
+END:VCALENDAR
