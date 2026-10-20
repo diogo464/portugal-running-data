@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70263-0@www.portugalrunning.com
+DTSTAMP:20261020T060110Z
+DTSTART:20261025
+DTEND:20261026
+LOCATION:Faro Faro\,   Portugal
+SUMMARY:12º Cross Ana Dias 2026
+DESCRIPTION:Sobre 12º Cross Ana Dias 2026O 12º Cross Ana Dias 2026 realiz
+ a-se no domingo\,  25 de outubro de 2026\,  no circuito de corta-mato de Va
+ le das Almas\,  na freguesia de Montenegro\,  concelho e distrito de Faro. 
+ Integrado em simultâneo com o Campeonato Regional de Corta-Mato Longo 2026
+ /2027 da Associação de[..]\nhttps://www.portugalrunning.com/eventos/cross
+ -ana-dias/
+URL:https://www.portugalrunning.com/eventos/cross-ana-dias/
+END:VEVENT
+END:VCALENDAR

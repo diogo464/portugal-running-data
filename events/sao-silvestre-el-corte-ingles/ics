@@ -5,16 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50961-0@www.portugalrunning.com
-DTSTAMP:20261003T182357Z
+DTSTAMP:20261020T060118Z
 DTSTART:20261213
 DTEND:20261214
 LOCATION:Lisboa Lisboa
-SUMMARY:São Silvestre de El Corte Inglés 2026
-DESCRIPTION:Sobre São Silvestre de El Corte Inglés 2026A São Silvestre d
- e El Corte Inglés 2026 realiza-se no domingo\,  13 de dezembro de 2026\,  
- enchendo o coração de Lisboa com a magia e o brilho festivo do atletismo 
- de final de ano. Promovida pela Medialivre com o patrocínio do El Corte[..
- ]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/
+SUMMARY:São Silvestre El Corte Inglés 2026
+DESCRIPTION:Sobre São Silvestre El Corte Inglés 2026A São Silvestre El C
+ orte Inglés 2026 realiza-se no final de tarde de domingo\,  13 de dezembro
+  de 2026\,  com partida e meta instaladas na emblemática Praça do Duque d
+ e Saldanha\,  no centro de Lisboa. O programa inicia-se às 17:30 com a Cor
+ rida das[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-el-cort
+ e-ingles/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-el-corte-ingles/
 END:VEVENT
 END:VCALENDAR

@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:54919-0@www.portugalrunning.com
-DTSTAMP:20261003T182356Z
+DTSTAMP:20261020T060120Z
 DTSTART:20261122
 DTEND:20261123
-LOCATION:Montejunto\,   Cadaval Montejunto\,   Cadaval
+LOCATION:Cadaval\,   Lisboa Cadaval\,   Lisboa
 SUMMARY:Sky Race Montejunto Inverno 2026
-DESCRIPTION:Sobre Sky Race Montejunto Inverno 2026A edição de inverno da 
- Sky Race Montejunto 2026 realiza-se no domingo\,  22 de novembro de 2026\, 
-  no concelho do Cadaval\,  distrito de Lisboa. Sob a tutela da Federação 
- de Campismo e Montanhismo de Portugal (FCMP) e pontuável para o Campeonato
-  Nacional de Skyrunning\,  a[..]\nhttps://www.portugalrunning.com/eventos/s
- ky-race-montejunto-inverno/
+DESCRIPTION:Sobre Sky Race Montejunto Inverno 2026O Sky Race Montejunto Inv
+ erno 2026 realiza-se no dia 22 de novembro de 2026 (domingo)\,  com partida
+  única agendada para as 10:00 no Centro de Interpretação Ambiental da Se
+ rra de Montejunto\,  no concelho do Cadaval (distrito de Lisboa). Integrada
+  no Campeonato Nacional de Sky Race[..]\nhttps://www.portugalrunning.com/ev
+ entos/sky-race-montejunto-inverno/
 URL:https://www.portugalrunning.com/eventos/sky-race-montejunto-inverno/
 END:VEVENT
 END:VCALENDAR

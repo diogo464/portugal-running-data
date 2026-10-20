@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:51636-0@www.portugalrunning.com
-DTSTAMP:20261019T060115Z
+DTSTAMP:20261020T060116Z
 DTSTART:20261122
 DTEND:20261123
-LOCATION:Barcarena\,   Oeiras Barcarena\,   Oeiras
+LOCATION:Oeiras\,   Lisboa Oeiras\,   Lisboa
 SUMMARY:Oeiras Trail 2026
-DESCRIPTION:Sobre Oeiras Trail 2026A 7ª edição do Consilcar Oeiras Trail
-  2026 realiza-se no domingo\,  22 de novembro de 2026\,  tendo como cenári
- o o complexo histórico da Fábrica da Pólvora de Barcarena\,  no concelho
-  de Oeiras\,  distrito de Lisboa. Percorrendo trilhos florestais\,  linhas 
- de água e vales verdejantes da Área Metropolitana[..]\nhttps://www.portug
- alrunning.com/eventos/oeiras-trail/
+DESCRIPTION:Sobre Oeiras Trail 2026O Oeiras Trail 2026 (oficialmente 7º Co
+ nsilcar Oeiras Trail) realiza-se no dia 22 de novembro de 2026 (domingo)\, 
+  com partida e chegada na emblemática Fábrica da Pólvora de Barcarena (E
+ strada das Fontaínhas\,  2730-085 Barcarena)\,  no concelho de Oeiras (dis
+ trito de Lisboa). O evento arranca às 09:00 com[..]\nhttps://www.portugalr
+ unning.com/eventos/oeiras-trail/
 URL:https://www.portugalrunning.com/eventos/oeiras-trail/
 END:VEVENT
 END:VCALENDAR

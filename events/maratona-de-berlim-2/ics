@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:45546-0@www.portugalrunning.com
+DTSTAMP:20261020T060115Z
+DTSTART:20260927
+DTEND:20260928
+LOCATION:Berlim\,   Alemanha Berlim\,   Alemanha
+SUMMARY:Maratona de Berlim 2026
+DESCRIPTION:Sobre Maratona de Berlim 2026A 52ª edição da BMW Maratona de
+  Berlim 2026 realiza-se a 27 de setembro de 2026 na vibrante capital alemã
+  de Berlim. Reconhecida mundialmente como uma das seis prestigiadas provas 
+ do circuito Abbott World Marathon Majors\,  a prova oferece o percurso mais
+  veloz do planeta\,  consagrado[..]\nhttps://www.portugalrunning.com/evento
+ s/maratona-de-berlim-2/
+URL:https://www.portugalrunning.com/eventos/maratona-de-berlim-2/
+END:VEVENT
+END:VCALENDAR

@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:54387-0@www.portugalrunning.com
-DTSTAMP:20261019T060118Z
-DTSTART:20261129T093000Z
-DTEND:20261129T093000Z
-LOCATION:Carvalhais\,   São Pedro do Sul Carvalhais\,   São Pedro do Sul
+DTSTAMP:20261020T060121Z
+DTSTART:20261129T000000Z
+DTEND:20261129T235900Z
+LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
 SUMMARY:Trail da Cárcoda 2026
-DESCRIPTION:Sobre Trail da Cárcoda 2026O Trail da Cárcoda 2026 convida os
-  apaixonados pelo trail running a mergulharem na história milenar\,  flore
- stas e linhas de água da freguesia de Carvalhais\,  no concelho de São Pe
- dro do Sul (distrito de Viseu). O percurso conduz os atletas pelas imediaç
- ões e penedos do lendário[..]\nhttps://www.portugalrunning.com/eventos/tr
- ail-da-carcoda/
+DESCRIPTION:Sobre Trail da Cárcoda 2026O Trail da Cárcoda 2026 realiza-se
+  no domingo\,  29 de novembro de 2026\,  com partida\,  secretariado e cheg
+ ada no Campo Desportivo Marques Veloso (GPS: 40.787178\,  -8.111717)\,  na 
+ freguesia de Carvalhais (União de Freguesias de Carvalhais e Candal)\,  co
+ ncelho de São Pedro do Sul (distrito de Viseu).[..]\nhttps://www.portugalr
+ unning.com/eventos/trail-da-carcoda/
 URL:https://www.portugalrunning.com/eventos/trail-da-carcoda/
 END:VEVENT
 END:VCALENDAR

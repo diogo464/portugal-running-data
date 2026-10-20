@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70267-0@www.portugalrunning.com
+DTSTAMP:20261020T060123Z
+DTSTART:20261122
+DTEND:20261123
+LOCATION:Alfândega Da Fé\,   Bragança Alfândega da Fé\,   Bragança
+SUMMARY:Trail Lagos do Sabor 2026
+DESCRIPTION:Sobre Trail Lagos do Sabor 2026O Trail Lagos do Sabor 2026 real
+ iza-se no domingo\,  22 de novembro de 2026\,  na aldeia de Sendim da Serra
+ \,  concelho de Alfândega da Fé (distrito de Bragança)\,  em associaçã
+ o com o tradicional Festival Micológico. A partida e a meta estão instala
+ das em frente ao[..]\nhttps://www.portugalrunning.com/eventos/trail-lagos-d
+ o-sabor/
+URL:https://www.portugalrunning.com/eventos/trail-lagos-do-sabor/
+END:VEVENT
+END:VCALENDAR

@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:53160-0@www.portugalrunning.com
-DTSTAMP:20261019T060111Z
-DTSTART:20261122T090000Z
-DTEND:20261122T090000Z
-LOCATION:Bocal\,   Mafra Bocal\,   Mafra
+DTSTAMP:20261020T060107Z
+DTSTART:20261122T000000Z
+DTEND:20261122T235900Z
+LOCATION:Mafra\,   Lisboa Mafra\,   Lisboa
 SUMMARY:Bocal Trail Run 2026
-DESCRIPTION:Sobre Bocal Trail Run 2026A 2ª edição do Bocal Trail Run 202
- 6 (BTR II) realiza-se no domingo\,  22 de novembro de 2026\,  na localidade
-  de Bocal\,  no concelho de Mafra\,  distrito de Lisboa. Desbravando as enc
- ostas verdejantes\,  vales e linhas de água da região saloia\,  a prova o
- ferece um percurso[..]\nhttps://www.portugalrunning.com/eventos/bocal-trail
- -run/
+DESCRIPTION:Sobre Bocal Trail Run 2026O Bocal Trail Run 2026 (2ª edição 
+ – BTR II) realiza-se no dia 22 de novembro de 2026 (domingo)\,  com parti
+ da e chegada no Campo Santo do ACD Bocal\,  na localidade do Bocal\,  conce
+ lho de Mafra (distrito de Lisboa). Com abertura do secretariado às 07:00 e
+ [..]\nhttps://www.portugalrunning.com/eventos/bocal-trail-run/
 URL:https://www.portugalrunning.com/eventos/bocal-trail-run/
 END:VEVENT
 END:VCALENDAR

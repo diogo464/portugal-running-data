@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:68e306b62b606
-DTSTAMP:20251006T000054Z
+UID:45500-0@www.portugalrunning.com
+DTSTAMP:20261020T060116Z
 DTSTART:20261004
 DTEND:20261005
-LOCATION:Cardiff\,  Reino Unido Cardiff\,  Reino Unido
+LOCATION:Cardiff\,   Reino Unido Cardiff\,   Reino Unido
 SUMMARY:Meia Maratona de Cardiff 2026
-DESCRIPTION:A Meia Maratona de Cardiff é uma meia maratona que acontece na
-  cidade de Cardiff\,  no País de Gales\,  Reino Unido. É uma das corridas
-  de meio maratona mais populares e bem conhecidas do Reino Unido. A corrida
-  normalmente atrai milhares de participantes\,  incluindo corredores locais
-  e internacionais. O percurso[..]\nhttps://www.portugalrunning.com/eventos/
- meia-maratona-de-cardiff-2026/
+DESCRIPTION:Sobre Meia Maratona de Cardiff 2026A Meia Maratona de Cardiff 2
+ 026 (Principality Building Society Cardiff Half Marathon) realiza-se no dom
+ ingo\,  4 de outubro de 2026\,  na capital do País de Gales\,  no Reino Un
+ ido. Organizada pela fundação Run 4 Wales\,  a prova é um dos maiores e 
+ mais emblemáticos eventos[..]\nhttps://www.portugalrunning.com/eventos/mei
+ a-maratona-de-cardiff-2026/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-de-cardiff-2026/
 END:VEVENT
 END:VCALENDAR

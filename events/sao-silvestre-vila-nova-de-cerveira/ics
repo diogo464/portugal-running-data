@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70259-0@www.portugalrunning.com
+DTSTAMP:20261020T060118Z
+DTSTART:20261219
+DTEND:20261220
+LOCATION:Vila Nova de Cerveira\,   Viana do Castelo Vila Nova de Cerveira\,   Viana do Castelo
+SUMMARY:São Silvestre de Vila Nova de Cerveira 2026
+DESCRIPTION:Sobre São Silvestre de Vila Nova de Cerveira 2026A São Silves
+ tre de Vila Nova de Cerveira 2026 realiza-se no sábado\,  19 de dezembro d
+ e 2026\,  na vila histórica de Vila Nova de Cerveira (distrito de Viana do
+  Castelo). A partida e a meta estão instaladas na Rua Dr. José Pedreira\,
+  [..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-vila-nova-de-c
+ erveira/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vila-nova-de-cerveira/
+END:VEVENT
+END:VCALENDAR
