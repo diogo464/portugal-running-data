@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70387-0@www.portugalrunning.com
+DTSTAMP:20261021T060109Z
+DTSTART:20271010
+DTEND:20271011
+LOCATION:Bruges\,   Bélgica
+SUMMARY:Maratona de Bruges 2027
+DESCRIPTION:Sobre Maratona de Bruges 2027A Maratona de Bruges 2027 (oficial
+ mente Athora Bruges Marathon) realiza-se no domingo\,  10 de outubro de 202
+ 7\,  com início anunciado para as 10:00 na histórica cidade de Bruges\,  
+ na região da Flandres\,  Bélgica. Criada em 2017\,  a prova celebra uma d
+ écada de história como um dos[..]\nhttps://www.portugalrunning.com/evento
+ s/maratona-de-bruges/
+URL:https://www.portugalrunning.com/eventos/maratona-de-bruges/
+END:VEVENT
+END:VCALENDAR

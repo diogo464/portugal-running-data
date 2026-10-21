@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:57920-0@www.portugalrunning.com
-DTSTAMP:20261019T060118Z
-DTSTART:20270509T063000Z
-DTEND:20270509T063000Z
+DTSTAMP:20261021T060109Z
+DTSTART:20270508T230000Z
+DTEND:20270509T225900Z
 LOCATION:Genebra\,   Suíça Genebra\,   Suíça
 SUMMARY:Maratona de Genebra 2027
-DESCRIPTION:Sobre Maratona de Genebra 2027O Generali Genève Marathon 2027 
- (Maratona de Genebra) realiza-se no fim de semana de 8 e 9 de maio de 2027\
- ,  na prestigiada cidade de Genebra\,  na Suíça. Detentora do selo World 
- Athletics Label e famosa pelo seu perfil rápido e panorâmico\,  a prova c
- ombina uma[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-genebra
- /
+DESCRIPTION:Sobre Maratona de Genebra 2027A Maratona de Genebra 2027 (21ª 
+ edição do Generali Genève Marathon) realiza-se no fim de semana de 8 e 9
+  de maio de 2027\,  com as provas principais de domingo\,  9 de maio de 202
+ 7\,  a partirem às 07h45 (Meia Maratona) e às 09h00 (Maratona e[..]\nhttp
+ s://www.portugalrunning.com/eventos/maratona-de-genebra/
 URL:https://www.portugalrunning.com/eventos/maratona-de-genebra/
 END:VEVENT
 END:VCALENDAR

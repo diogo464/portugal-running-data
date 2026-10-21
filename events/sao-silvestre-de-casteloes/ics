@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70345-0@www.portugalrunning.com
+DTSTAMP:20261021T060109Z
+DTSTART:20261128T000000Z
+DTEND:20261128T235900Z
+LOCATION:Vila Nova de Famalicão\,   Braga Famalicão\,   Porto
+SUMMARY:São Silvestre de Castelões 2026
+DESCRIPTION:Sobre São Silvestre de Castelões 2026A São Silvestre de Cast
+ elões 2026 realiza-se no dia 28 de Novembro de 2026 (Sábado)\,  com parti
+ das e chegadas no parque exterior do Centro Social e Paroquial de Castelõe
+ s\,  na freguesia de Castelões\,  concelho de Vila Nova de Famalicão\,  d
+ istrito de Braga. A tarde desportiva[..]\nhttps://www.portugalrunning.com/e
+ ventos/sao-silvestre-de-casteloes/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-casteloes/
+END:VEVENT
+END:VCALENDAR

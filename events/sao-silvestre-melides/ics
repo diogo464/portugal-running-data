@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70337-0@www.portugalrunning.com
+DTSTAMP:20261021T060109Z
+DTSTART:20261205
+DTEND:20261206
+LOCATION:Grândola\,   Setúbal Grândola\,   Setúbal
+SUMMARY:São Silvestre de Melides – Edição 2026
+DESCRIPTION:Sobre São Silvestre de Melides – Edição 2026A São Silvest
+ re de Melides – Edição 2026 realiza-se no dia 5 de Dezembro de 2026 (S�
+ �bado)\,  com partidas e chegadas no Campo de Futebol de Melides (Campo do 
+ Castelo)\,  na freguesia de Melides\,  concelho de Grândola\,  distrito de
+  Setúbal. A Corrida de[..]\nhttps://www.portugalrunning.com/eventos/sao-si
+ lvestre-melides/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-melides/
+END:VEVENT
+END:VCALENDAR

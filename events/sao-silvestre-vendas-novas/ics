@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70330-0@www.portugalrunning.com
+DTSTAMP:20261021T060109Z
+DTSTART:20261211
+DTEND:20261212
+LOCATION:Vendas Novas\,   Évora Vendas Novas\,   Évora
+SUMMARY:12ª São Silvestre de Vendas Novas 2026
+DESCRIPTION:Sobre 12ª São Silvestre de Vendas Novas 2026A 12ª São Silve
+ stre de Vendas Novas 2026 realiza-se no dia 11 de Dezembro de 2026 (Sexta-f
+ eira)\,  com tiro de partida agendado para as 21:00 na Pista de Atletismo d
+ o Estádio Municipal de Vendas Novas\,  no concelho de Vendas Novas\,  dist
+ rito de Évora.[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-
+ vendas-novas/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vendas-novas/
+END:VEVENT
+END:VCALENDAR

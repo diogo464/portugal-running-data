@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70376-0@www.portugalrunning.com
+DTSTAMP:20261021T060110Z
+DTSTART:20261212
+DTEND:20261213
+LOCATION:Vila Nova de Famalicão\,   Braga Famalicão\,   Porto
+SUMMARY:4ª Crediversos São Silvestre de Vermoim 2026
+DESCRIPTION:Sobre 4ª Crediversos São Silvestre de Vermoim 2026A 4ª Credi
+ versos São Silvestre de Vermoim 2026 realiza-se no dia 12 de Dezembro de 2
+ 026 (Sábado)\,  com centro nevrálgico\,  partidas e chegadas junto ao Sal
+ ão Paroquial de Vermoim\,  no concelho de Vila Nova de Famalicão\,  distr
+ ito de Braga. A tarde competitiva inicia-se[..]\nhttps://www.portugalrunnin
+ g.com/eventos/sao-silvestre-vermoim/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vermoim/
+END:VEVENT
+END:VCALENDAR
