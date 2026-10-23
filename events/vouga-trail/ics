@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:44190-0@www.portugalrunning.com
-DTSTAMP:20261003T182410Z
+DTSTAMP:20261023T060137Z
 DTSTART:20270108
 DTEND:20270109
 LOCATION:Sever do Vouga\,   Aveiro Sever do Vouga\,   Aveiro
 SUMMARY:Vouga Trail 2027
-DESCRIPTION:Sobre Vouga Trail 2027O Vouga Trail 2027 afirma-se como uma das
-  provas mais desafiantes e apaixonantes do calendário nacional de montanha
- \,  decorrendo entre 8 e 10 de Janeiro de 2027 no magnífico concelho de Se
- ver do Vouga\,  no distrito de Aveiro. Desenhado para verdadeiros apaixonad
- os pelo contacto puro com a[..]\nhttps://www.portugalrunning.com/eventos/vo
- uga-trail/
+DESCRIPTION:Sobre Vouga Trail 2027O Vouga Trail 2027 (8ª edição) realiza
+ -se de 8 a 10 de janeiro de 2027 (sexta-feira a domingo)\,  com centro oper
+ acional no Pavilhão Gimnodesportivo de Sever do Vouga\,  no concelho de Se
+ ver do Vouga (distrito de Aveiro). O programa estende-se por três dias com
+  o Uphill Vouga[..]\nhttps://www.portugalrunning.com/eventos/vouga-trail/
 URL:https://www.portugalrunning.com/eventos/vouga-trail/
 END:VEVENT
 END:VCALENDAR

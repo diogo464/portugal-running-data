@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d4cf40fc
-DTSTAMP:20250720T222724Z
-DTSTART:20191215
-DTEND:20191216
-LOCATION:Sabradelo da Goma\,  Póvoa do Lanhoso Sabradelo da Goma\,  Póvoa do Lanhoso
-SUMMARY:Trail das Andorinhas
-DESCRIPTION:APRESENTAÇÃO: Designação: TRAIL DAS ANDORINHAS (4ª ediçã
- o) – 15 de DEZEMBRO DE 2019 Tipo de prova: Trail Running Distâncias: Tra
- il Longo – 25Kms | Trail Curto 10kms – Caminhada – 8Kms ORGANIZAÇÃO
-  • Evento organizado pelo GRUPO DESPORTIVO DA GOMA\,  em parceria com a C
- âmara Municipal da Póvoa de Lanhoso.[..]\nhttps://www.portugalrunning.com
- /eventos/trail-das-andorinhas/
+UID:70446-0@www.portugalrunning.com
+DTSTAMP:20261023T060135Z
+DTSTART:20261213
+DTEND:20261214
+LOCATION:Póvoa de Lanhoso\,   Braga Póvoa de Lanhoso\,   Braga
+SUMMARY:X - Trail das Andorinhas 2026
+DESCRIPTION:Sobre X - Trail das Andorinhas 2026O X - Trail das Andorinhas 2
+ 026 realiza-se no domingo\,  13 de dezembro de 2026\,  com secretariado\,  
+ partida e meta instalados no Parque Desportivo das Andorinhas\,  na fregues
+ ia de Sobradelo da Goma\,  concelho da Póvoa de Lanhoso (distrito de Braga
+ ). Na sua 10ª edição\, [..]\nhttps://www.portugalrunning.com/eventos/tra
+ il-das-andorinhas/
 URL:https://www.portugalrunning.com/eventos/trail-das-andorinhas/
 END:VEVENT
 END:VCALENDAR

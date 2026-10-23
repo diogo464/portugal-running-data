@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70331-0@www.portugalrunning.com
+DTSTAMP:20261023T060134Z
+DTSTART:20261011
+DTEND:20261012
+LOCATION:Bruges\,   Bélgica
+SUMMARY:Maratona de Bruges 2026
+DESCRIPTION:Sobre Maratona de Bruges 2026A Maratona de Bruges 2026 (oficial
+ mente Athora Bruges Marathon\,  9ª edição) realiza-se no domingo\,  11 d
+ e outubro de 2026\,  na histórica cidade de Bruges\,  na região da Flandr
+ es\,  Bélgica. Com partida na ampla praça ’t Zand e chegada monumental 
+ na emblemática Grote Markt — em pleno[..]\nhttps://www.portugalrunning.c
+ om/eventos/maratona-de-bruges-2026/
+URL:https://www.portugalrunning.com/eventos/maratona-de-bruges-2026/
+END:VEVENT
+END:VCALENDAR
