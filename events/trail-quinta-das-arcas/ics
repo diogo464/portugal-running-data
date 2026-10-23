@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70496-0@www.portugalrunning.com
+DTSTAMP:20261023T075346Z
+DTSTART:20261129
+DTEND:20261130
+LOCATION:Valongo\,   Porto Valongo\,   Porto
+SUMMARY:Trail Quinta das Arcas 2026
+DESCRIPTION:Sobre Trail Quinta das Arcas 2026O Trail Quinta das Arcas 2026 
+ realiza-se no dia 29 de novembro de 2026 (domingo)\,  com partida e chegada
+  nas instalações da Quinta das Arcas\,  na Rua Central da Lomba\,  em Sob
+ rado\,  no concelho de Valongo (distrito do Porto). Integrada no prestigiad
+ o Circuito dos Trilhos[..]\nhttps://www.portugalrunning.com/eventos/trail-q
+ uinta-das-arcas/
+URL:https://www.portugalrunning.com/eventos/trail-quinta-das-arcas/
+END:VEVENT
+END:VCALENDAR

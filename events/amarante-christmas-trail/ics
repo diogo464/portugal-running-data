@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70505-0@www.portugalrunning.com
+DTSTAMP:20261023T075344Z
+DTSTART:20261220
+DTEND:20261221
+LOCATION:Amarante\,   Porto Amarante\,   Porto
+SUMMARY:Amarante Christmas Trail 2026
+DESCRIPTION:Sobre Amarante Christmas Trail 2026O Amarante Christmas Trail 2
+ 026 (15ª edição — XV Amarante Christmas Trail) realiza-se no dia 20 de
+  dezembro de 2026 (domingo)\,  no concelho de Amarante\,  distrito do Porto
+ . Integrada no calendário oficial do Porto Trail Series da Associação de
+  Atletismo do Porto (AAP)\,  esta emblemática prova[..]\nhttps://www.portu
+ galrunning.com/eventos/amarante-christmas-trail/
+URL:https://www.portugalrunning.com/eventos/amarante-christmas-trail/
+END:VEVENT
+END:VCALENDAR
