@@ -5,17 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:70509-0@www.portugalrunning.com
-DTSTAMP:20261023T075344Z
-DTSTART:20251214
-DTEND:20251215
+DTSTAMP:20261024T060104Z
+DTSTART:20261212
+DTEND:20261213
 LOCATION:Arganil\,   Coimbra Arganil\,   Coimbra
 SUMMARY:Desafio Picos do Açor 2026
-DESCRIPTION:O Desafio Picos do Açor é organizado pela Evolução Vertical
- . Conta ainda com a colaboração da Câmara Municipal de Arganil e das Jun
- tas de Freguesia de Arganil e Folques. A Evolução Vertical é uma entidad
- e\,  que tem como principal objetivo promover e desenvolver atividades desp
- ortivas de aventura associadas à natureza.[..]\nhttps://www.portugalrunnin
- g.com/eventos/desafio-picos-do-acor/
+DESCRIPTION:Sobre Desafio Picos do Açor 2026O Desafio Picos do Açor 2026 
+ realiza-se nos dias 12 e 13 de dezembro de 2026 em Arganil\,  distrito de C
+ oimbra\,  percorrendo as cumeadas e aldeias serranas da emblemática Serra 
+ do Açor. O evento é organizado pela Evolução Vertical em colaboração 
+ com a Câmara Municipal[..]\nhttps://www.portugalrunning.com/eventos/desafi
+ o-picos-do-acor/
 URL:https://www.portugalrunning.com/eventos/desafio-picos-do-acor/
 END:VEVENT
 END:VCALENDAR

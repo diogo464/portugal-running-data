@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70517-0@www.portugalrunning.com
+DTSTAMP:20261024T060107Z
+DTSTART:20261025
+DTEND:20261026
+LOCATION:Albufeira\,   Faro Albufeira\,   Faro
+SUMMARY:Vortex Exclusive Event 2026
+DESCRIPTION:Sobre Vortex Exclusive Event 2026O Vortex Exclusive Event 2026 
+ realiza-se no dia 25 de outubro de 2026 (domingo)\,  no cenário exclusivo 
+ das falésias sobre o oceano do W Algarve\,  no concelho de Albufeira (dist
+ rito de Faro). Com uma arena limitada a 500 participantes\,  esta competiç
+ ão de fitness híbrido combina corrida[..]\nhttps://www.portugalrunning.co
+ m/eventos/vortex-exclusive-event/
+URL:https://www.portugalrunning.com/eventos/vortex-exclusive-event/
+END:VEVENT
+END:VCALENDAR

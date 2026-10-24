@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70546-0@www.portugalrunning.com
+DTSTAMP:20261024T060104Z
+DTSTART:20270320T000000Z
+DTEND:20270321T235900Z
+LOCATION:Tondela\,   Viseu Tondela\,   Viseu
+SUMMARY:Caramulo Magic 2027
+DESCRIPTION:Sobre Caramulo Magic 2027O Caramulo Magic 2027 (3ª edição do
+  Caramulo Magic Trail) realiza-se nos dias 20 e 21 de março de 2027 (sába
+ do e domingo)\,  tendo como centro nevrálgico e meta de todas as distânci
+ as a Vila do Caramulo (junto ao Museu do Caramulo)\,  no concelho de Tondel
+ a\,  distrito[..]\nhttps://www.portugalrunning.com/eventos/caramulo-magic/
+URL:https://www.portugalrunning.com/eventos/caramulo-magic/
+END:VEVENT
+END:VCALENDAR

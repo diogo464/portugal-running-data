@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70528-0@www.portugalrunning.com
+DTSTAMP:20261024T060106Z
+DTSTART:20261107T000000Z
+DTEND:20261107T235900Z
+LOCATION:Sesimbra\,   Setúbal Sesimbra\,   Setúbal
+SUMMARY:Sesimbra Spartan Trifecta 2026
+DESCRIPTION:Sobre Sesimbra Spartan Trifecta 2026O Sesimbra Spartan Trifecta
+  2026 (Sesimbra Spartan Weekend 2026) realiza-se nos dias 7 e 8 de novembro
+  de 2026 na Praia da Califórnia\,  em Sesimbra\,  distrito de Setúbal. Or
+ ganizado pela Spartan Race Portugal em parceria com a Câmara Municipal de 
+ Sesimbra\,  este evento oficial da Wolf[..]\nhttps://www.portugalrunning.co
+ m/eventos/sesimbra-spartan-trifecta/
+URL:https://www.portugalrunning.com/eventos/sesimbra-spartan-trifecta/
+END:VEVENT
+END:VCALENDAR
