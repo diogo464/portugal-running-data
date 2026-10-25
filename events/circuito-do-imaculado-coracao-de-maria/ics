@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70635-0@www.portugalrunning.com
+DTSTAMP:20261025T060142Z
+DTSTART:20261129
+DTEND:20261130
+LOCATION:Funchal\,   Madeira Funchal\,   Madeira
+SUMMARY:Circuito do Imaculado Coração de Maria 2026
+DESCRIPTION:Sobre Circuito do Imaculado Coração de Maria 2026O Circuito d
+ o Imaculado Coração de Maria 2026 (32ª edição — XXXII Circuito do Im
+ aculado Coração de Maria) realiza-se na manhã de domingo\,  29 de Novemb
+ ro de 2026\,  na freguesia do Imaculado Coração de Maria\,  no concelho d
+ o Funchal (Ilha da Madeira). Esta[..]\nhttps://www.portugalrunning.com/even
+ tos/circuito-do-imaculado-coracao-de-maria/
+URL:https://www.portugalrunning.com/eventos/circuito-do-imaculado-coracao-de-maria/
+END:VEVENT
+END:VCALENDAR

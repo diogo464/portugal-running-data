@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70631-0@www.portugalrunning.com
+DTSTAMP:20261025T060142Z
+DTSTART:20261130
+DTEND:20261201
+LOCATION:Fundão\,   Castelo Branco Fundão\,   Castelo Branco
+SUMMARY:Corrida dos Restauradores 2026
+DESCRIPTION:Sobre Corrida dos Restauradores 2026A Corrida dos Restauradores
+  2026 (6ª edição) realiza-se na noite de segunda-feira\,  30 de Novembro
+  de 2026\,  com partida e chegada na emblemática Praça do Município\,  n
+ o coração da cidade do Fundão (distrito de Castelo Branco). Esta prova n
+ oturna de estrada antecede e celebra uma das[..]\nhttps://www.portugalrunni
+ ng.com/eventos/corrida-dos-restauradores/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-restauradores/
+END:VEVENT
+END:VCALENDAR

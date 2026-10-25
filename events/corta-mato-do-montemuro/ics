@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70639-0@www.portugalrunning.com
+DTSTAMP:20261025T060143Z
+DTSTART:20261107
+DTEND:20261108
+LOCATION:Castro Daire\,   Viseu Castro Daire\,   Viseu
+SUMMARY:7º Corta Mato do Montemuro 2026
+DESCRIPTION:Sobre 7º Corta Mato do Montemuro 2026O 7º Corta Mato do Monte
+ muro 2026 realiza-se na tarde de sábado\,  7 de Novembro de 2026\,  nos te
+ rrenos anexos ao emblemático Santuário de Nossa Senhora da Ouvida\,  na f
+ reguesia de Monteiras\,  concelho de Castro Daire (distrito de Viseu). Inte
+ grada como 9ª jornada do[..]\nhttps://www.portugalrunning.com/eventos/cort
+ a-mato-do-montemuro/
+URL:https://www.portugalrunning.com/eventos/corta-mato-do-montemuro/
+END:VEVENT
+END:VCALENDAR
