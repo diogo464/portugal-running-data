@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70714-0@www.portugalrunning.com
+DTSTAMP:20261026T060126Z
+DTSTART:20270123
+DTEND:20270124
+LOCATION:Gondomar\,   Porto Gondomar\,   Porto
+SUMMARY:Hero Challenge 2027 (Hybrid / Simulação Hyrox)
+DESCRIPTION:Sobre Hero Challenge 2027 (Hybrid / Simulação Hyrox)O Hero Ch
+ allenge 2027 (Hybrid / Simulação Hyrox) (3ª edição) realiza-se no dia 
+ 23 de Janeiro de 2027 (Sábado) no Pavilhão Multiusos de Gondomar\,  no co
+ ncelho de Gondomar\,  distrito do Porto. Esta competição de fitness indoo
+ r híbrido combina o ritmo da corrida com[..]\nhttps://www.portugalrunning.
+ com/eventos/hero-challenge-hybrid-simulacao-hyrox/
+URL:https://www.portugalrunning.com/eventos/hero-challenge-hybrid-simulacao-hyrox/
+END:VEVENT
+END:VCALENDAR

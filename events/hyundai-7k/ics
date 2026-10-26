@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70722-0@www.portugalrunning.com
+DTSTAMP:20261026T060126Z
+DTSTART:20270306
+DTEND:20270307
+LOCATION:Lisboa Lisboa
+SUMMARY:Hyundai 7k 2027
+DESCRIPTION:Sobre Hyundai 7k 2027O Hyundai 7k 2027 realiza-se no dia 6 de M
+ arço de 2027 (Sábado)\,  com partida marcada para as 09:30 no histórico 
+ Estádio Nacional do Jamor (Algés) e meta instalada em frente ao Centro Cu
+ ltural de Belém\,  na Praça do Império\,  em Lisboa. Integrada no progra
+ ma oficial de[..]\nhttps://www.portugalrunning.com/eventos/hyundai-7k/
+URL:https://www.portugalrunning.com/eventos/hyundai-7k/
+END:VEVENT
+END:VCALENDAR
