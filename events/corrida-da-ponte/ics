@@ -5,17 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:52960-0@www.portugalrunning.com
-DTSTAMP:20261020T060108Z
+DTSTAMP:20261027T060127Z
 DTSTART:20261011
 DTEND:20261012
 LOCATION:Viana do Castelo Viana do Castelo
 SUMMARY:Corrida da Ponte 2026
-DESCRIPTION:Sobre Corrida da Ponte 2026A 4ª Edição da Corrida da Ponte 2
- 026 é um dos eventos mais emblemáticos e cénicos do atletismo do Alto Mi
- nho\,  disputada na deslumbrante cidade de Viana do Castelo (distrito de Vi
- ana do Castelo)\,  celebrando a ligação histórica entre as duas margens 
- do Rio Lima.Com partida[..]\nhttps://www.portugalrunning.com/eventos/corrid
- a-da-ponte/
+DESCRIPTION:Sobre Corrida da Ponte 2026A Corrida da Ponte 2026 (4ª ediçã
+ o) realiza-se no dia 11 de outubro de 2026\,  em Viana do Castelo\,  afirma
+ ndo-se como uma das provas de estrada mais emblemáticas do Alto Minho ao u
+ nir as duas margens do Rio Lima.Com partida (09:30 para os escalões de for
+ mação[..]\nhttps://www.portugalrunning.com/eventos/corrida-da-ponte/
 URL:https://www.portugalrunning.com/eventos/corrida-da-ponte/
 END:VEVENT
 END:VCALENDAR

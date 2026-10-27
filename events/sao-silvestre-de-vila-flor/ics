@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70750-0@www.portugalrunning.com
+DTSTAMP:20261027T060129Z
+DTSTART:20261212T000000Z
+DTEND:20261212T235900Z
+LOCATION:Vila Flor\,   Bragança Vila Flor\,   Bragança
+SUMMARY:São Silvestre de Vila Flor 2026
+DESCRIPTION:Sobre São Silvestre de Vila Flor 2026A São Silvestre de Vila 
+ Flor 2026 (3ª Corrida São Silvestre de Vila Flor) realiza-se no sábado\,
+   12 de dezembro de 2026\,  na vila transmontana de Vila Flor\,  distrito d
+ e Bragança. Com partida\,  meta e secretariado instalados na Avenida Marec
+ hal Carmona\,  em frente ao[..]\nhttps://www.portugalrunning.com/eventos/sa
+ o-silvestre-de-vila-flor/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-vila-flor/
+END:VEVENT
+END:VCALENDAR
