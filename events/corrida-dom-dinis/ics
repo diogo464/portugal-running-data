@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71180-0@www.portugalrunning.com
+DTSTAMP:20261028T094618Z
+DTSTART:20261122
+DTEND:20261123
+LOCATION:Odivelas\,   Lisboa Odivelas\,   Lisboa
+SUMMARY:Corrida Dom Dinis 2026
+DESCRIPTION:Sobre Corrida Dom Dinis 2026A Corrida Dom Dinis 2026 realiza-se
+  no domingo\,  22 de novembro de 2026\,  com início de provas às 09h30 ju
+ nto ao histórico Mosteiro de São Dinis e São Bernardo (Largo Dom Dinis)\
+ ,  em Odivelas\,  no distrito de Lisboa. Inserido nas comemorações oficia
+ is do 28º aniversário do[..]\nhttps://www.portugalrunning.com/eventos/cor
+ rida-dom-dinis/
+URL:https://www.portugalrunning.com/eventos/corrida-dom-dinis/
+END:VEVENT
+END:VCALENDAR

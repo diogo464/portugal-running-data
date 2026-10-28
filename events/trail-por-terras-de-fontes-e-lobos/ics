@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71188-0@www.portugalrunning.com
+DTSTAMP:20261028T094623Z
+DTSTART:20261213
+DTEND:20261214
+LOCATION:Vagos\,   Aveiro Vagos\,   Aveiro
+SUMMARY:Trail por Terras de Fontes e Lobos 2026
+DESCRIPTION:Sobre Trail por Terras de Fontes e Lobos 2026O Trail por Terras
+  de Fontes e Lobos 2026 realiza-se no domingo\,  13 de dezembro de 2026\,  
+ com partida às 09h30 junto ao Pavilhão Gimnodesportivo do Covão do Lobo\
+ ,  no concelho de Vagos\,  distrito de Aveiro. O evento percorre os trilhos
+  florestais[..]\nhttps://www.portugalrunning.com/eventos/trail-por-terras-d
+ e-fontes-e-lobos/
+URL:https://www.portugalrunning.com/eventos/trail-por-terras-de-fontes-e-lobos/
+END:VEVENT
+END:VCALENDAR

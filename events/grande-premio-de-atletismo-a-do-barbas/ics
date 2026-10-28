@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71193-0@www.portugalrunning.com
+DTSTAMP:20261028T094620Z
+DTSTART:20261208
+DTEND:20261209
+LOCATION:Leiria Leiria
+SUMMARY:35º Grande Prémio de Atletismo A-do-Barbas 2026
+DESCRIPTION:Sobre 35º Grande Prémio de Atletismo A-do-Barbas 2026O 35º G
+ rande Prémio de Atletismo A-do-Barbas 2026 (oficialmente Memorial Fernando
+  Figueiredo) realiza-se na terça-feira (feriado)\,  8 de dezembro de 2026\
+ ,  com início às 09h00 junto à sede do Centro Popular e Recreativo de A-
+ do-Barbas\,  na freguesia de Maceira\,  concelho e distrito de[..]\nhttps:/
+ /www.portugalrunning.com/eventos/grande-premio-de-atletismo-a-do-barbas/
+URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-a-do-barbas/
+END:VEVENT
+END:VCALENDAR

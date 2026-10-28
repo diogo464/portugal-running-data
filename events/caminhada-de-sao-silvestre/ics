@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71196-0@www.portugalrunning.com
+DTSTAMP:20261028T094617Z
+DTSTART:20261211
+DTEND:20261212
+LOCATION:Alcobaça\,   Leiria Alcobaça\,   Leiria
+SUMMARY:I Caminhada de São Silvestre 2026
+DESCRIPTION:Sobre I Caminhada de São Silvestre 2026A I Caminhada de São S
+ ilvestre 2026 realiza-se na sexta-feira\,  11 de dezembro de 2026\,  com pa
+ rtida noturna agendada para as 20h30 junto à sede da Associação Recreati
+ va do Carvalhal de Turquel\,  na freguesia de Turquel\,  concelho de Alcoba
+ ça\,  distrito de Leiria. O evento[..]\nhttps://www.portugalrunning.com/ev
+ entos/caminhada-de-sao-silvestre/
+URL:https://www.portugalrunning.com/eventos/caminhada-de-sao-silvestre/
+END:VEVENT
+END:VCALENDAR

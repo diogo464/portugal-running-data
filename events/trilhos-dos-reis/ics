@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71204-0@www.portugalrunning.com
+DTSTAMP:20261028T094623Z
+DTSTART:20270116
+DTEND:20270117
+LOCATION:Portalegre Portalegre
+SUMMARY:Trilhos dos Reis 2027
+DESCRIPTION:Sobre Trilhos dos Reis 2027Os Trilhos dos Reis 2027 (13ª ediç
+ ão) realizam-se nos dias 16 e 17 de janeiro de 2027\,  na cidade de Portal
+ egre e nas vertentes do Parque Natural da Serra de São Mamede. Organizada 
+ pela DAP – Associação de Desporto e Aventura de Portalegre\,  esta clá
+ ssica de[..]\nhttps://www.portugalrunning.com/eventos/trilhos-dos-reis/
+URL:https://www.portugalrunning.com/eventos/trilhos-dos-reis/
+END:VEVENT
+END:VCALENDAR
