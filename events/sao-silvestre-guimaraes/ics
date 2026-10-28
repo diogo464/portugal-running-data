@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71118-0@www.portugalrunning.com
+DTSTAMP:20261028T073101Z
+DTSTART:20261219T000000Z
+DTEND:20261219T235900Z
+LOCATION:Guimarães\,   Braga Guimarães\,   Braga
+SUMMARY:São Silvestre Guimarães 2026
+DESCRIPTION:Sobre São Silvestre Guimarães 2026A São Silvestre de Guimar�
+ �es 2026 (2ª edição) realiza-se no sábado\,  19 de Dezembro de 2026\,  
+ na cidade berço de Guimarães\,  distrito de Braga. As provas jovens têm 
+ início a partir das 16:00\,  seguindo-se a partida da corrida principal de
+  10 km às 18:00 e da[..]\nhttps://www.portugalrunning.com/eventos/sao-silv
+ estre-guimaraes/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-guimaraes/
+END:VEVENT
+END:VCALENDAR

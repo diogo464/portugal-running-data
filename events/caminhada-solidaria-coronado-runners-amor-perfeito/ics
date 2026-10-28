@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71095-0@www.portugalrunning.com
+DTSTAMP:20261028T073100Z
+DTSTART:20261129
+DTEND:20261130
+LOCATION:Trofa\,   Porto Trofa\,   Porto
+SUMMARY:Caminhada Solidária Coronado Runners / Amor Perfeito 2026
+DESCRIPTION:Sobre Caminhada Solidária Coronado Runners / Amor Perfeito 202
+ 6A Caminhada Solidária Coronado Runners / Amor Perfeito 2026 realiza-se no
+  domingo\,  29 de novembro de 2026\,  com partida marcada para as 10:00 no 
+ Largo de Mendões\,  em São Mamede do Coronado\,  no concelho da Trofa\,  
+ distrito do Porto. Trata-se de um[..]\nhttps://www.portugalrunning.com/even
+ tos/caminhada-solidaria-coronado-runners-amor-perfeito/
+URL:https://www.portugalrunning.com/eventos/caminhada-solidaria-coronado-runners-amor-perfeito/
+END:VEVENT
+END:VCALENDAR

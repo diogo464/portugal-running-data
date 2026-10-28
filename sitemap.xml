@@ -2,7 +2,49 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/</loc>
-		<lastmod>2026-10-28T07:09:05+00:00</lastmod>
+		<lastmod>2026-10-28T07:26:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-guimaraes/</loc>
+		<lastmod>2026-10-28T07:26:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-sao-silvestre-guimaraes.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/caminhada-solidaria-coronado-runners-amor-perfeito/</loc>
+		<lastmod>2026-10-28T07:17:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-caminhada-solidaria-coronado-runners-amor-perfeito.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-das-azenhas/</loc>
+		<lastmod>2026-10-28T07:16:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trilhos-das-azenhas.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-rio-paiva/</loc>
+		<lastmod>2026-10-28T07:14:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-do-rio-paiva.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-praia-do-areinho/</loc>
+		<lastmod>2026-10-28T07:10:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/corrida-praia-do-areinho-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-praga/</loc>
+		<lastmod>2026-10-28T07:09:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/maratona-de-praga-2026.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-porto/</loc>
@@ -229,13 +271,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-praia-do-areinho/</loc>
-		<lastmod>2026-10-27T14:59:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/corrida-praia-do-areinho.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/ultra-trail-serra-da-freita/</loc>
 		<lastmod>2026-10-27T14:59:19+00:00</lastmod>
 		<image:image>
@@ -345,13 +380,6 @@
 		<lastmod>2026-10-27T14:57:25+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/lobo-iberico-trail-2027.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-de-praga/</loc>
-		<lastmod>2026-10-27T14:57:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-maratona-de-praga-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>

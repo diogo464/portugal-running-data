@@ -4,17 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:44923-0@www.portugalrunning.com
-DTSTAMP:20260902T140141Z
-DTSTART:20260315
-DTEND:20260316
+UID:71077-0@www.portugalrunning.com
+DTSTAMP:20261028T073102Z
+DTSTART:20270307
+DTEND:20270308
 LOCATION:Cinfães\,   Viseu Cinfães\,   Viseu
-SUMMARY:Trail do Rio Paiva 2026
-DESCRIPTION:O Trail do Rio Paiva é uma prova competitiva de corrida de mon
- tanha\,  organizada pela Duelo D’Ocasião - Associação. A prova tem lug
- ar no concelho de Cinfães\,  tendo como local de partida e chegada o Parqu
- e de Autocaravanismo de Souselo junto à Escola Do 2º E 3º Ciclos Do Ensi
- no[..]\nhttps://www.portugalrunning.com/eventos/trail-do-rio-paiva/
+SUMMARY:VIII Trail do Rio Paiva 2027
+DESCRIPTION:Sobre VIII Trail do Rio Paiva 2027O VIII Trail do Rio Paiva 202
+ 7 (8ª edição) realiza-se no domingo\,  7 de março de 2027\,  com centro
+  nevrálgico\,  partidas e chegadas no Parque de Autocaravanismo de Souselo
+  (junto à Igreja e à Escola EB 2/3 de Souselo)\,  no concelho de Cinfães
+ \,  distrito[..]\nhttps://www.portugalrunning.com/eventos/trail-do-rio-paiv
+ a/
 URL:https://www.portugalrunning.com/eventos/trail-do-rio-paiva/
 END:VEVENT
 END:VCALENDAR
