@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:70843-0@www.portugalrunning.com
+DTSTAMP:20261028T060250Z
+DTSTART:20261208
+DTEND:20261209
+LOCATION:Pombal\,   Leiria Pombal\,   Leiria
+SUMMARY:Trail Solidários do 25 2026
+DESCRIPTION:Sobre Trail Solidários do 25 2026O Trail Solidários do 25 202
+ 6 (também conhecido como Trail Solidário do 25) realiza-se na terça-feir
+ a\,  feriado de 8 de dezembro de 2026\,  no concelho de Pombal\,  distrito 
+ de Leiria. Mais do que uma prova de natureza\,  este evento natalício sem 
+ cariz competitivo une os[..]\nhttps://www.portugalrunning.com/eventos/trail
+ -solidarios-do-25/
+URL:https://www.portugalrunning.com/eventos/trail-solidarios-do-25/
+END:VEVENT
+END:VCALENDAR
