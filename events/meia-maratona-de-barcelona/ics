@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71130-0@www.portugalrunning.com
+DTSTAMP:20261028T075244Z
+DTSTART:20270214
+DTEND:20270215
+LOCATION:Barcelona\,   Espanha Barcelona\,   Espanha
+SUMMARY:Meia Maratona de Barcelona 2027
+DESCRIPTION:Sobre Meia Maratona de Barcelona 2027A Meia Maratona de Barcelo
+ na 2027 (oficialmente Hyundai Mitja Marató Barcelona by Brooks 2027) reali
+ za-se no domingo\,  14 de fevereiro de 2027\,  com partida oficial às 08h3
+ 0 (08h25 para atletas em cadeira de rodas) no Passeig de Picasso\,  junto a
+ o Parc de la Ciutadella\,  em[..]\nhttps://www.portugalrunning.com/eventos/
+ meia-maratona-de-barcelona/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-barcelona/
+END:VEVENT
+END:VCALENDAR

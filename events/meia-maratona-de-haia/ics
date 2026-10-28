@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71133-0@www.portugalrunning.com
+DTSTAMP:20261028T075245Z
+DTSTART:20270314T000000Z
+DTEND:20270314T235900Z
+LOCATION:Haia\,   Países Baixos Haia\,   Países Baixos
+SUMMARY:Meia Maratona de Haia 2027
+DESCRIPTION:Sobre Meia Maratona de Haia 2027A Meia Maratona de Haia 2027 (5
+ 1ª edição da histórica NN CPC Loop Den Haag – City-Pier-City Run) rea
+ liza-se no domingo\,  14 de março de 2027\,  com partidas e chegadas centr
+ adas no Malieveld / Koningskade\,  em Haia\,  Países Baixos. Internacional
+ mente reconhecida pelo seu traçado ultrarrápido[..]\nhttps://www.portugal
+ running.com/eventos/meia-maratona-de-haia/
+URL:https://www.portugalrunning.com/eventos/meia-maratona-de-haia/
+END:VEVENT
+END:VCALENDAR
