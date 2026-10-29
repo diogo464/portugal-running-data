@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71231-0@www.portugalrunning.com
+DTSTAMP:20261029T060131Z
+DTSTART:20261114
+DTEND:20261115
+LOCATION:Coimbra Coimbra
+SUMMARY:Corrida e Caminhada Pela Diabetes 2026
+DESCRIPTION:Sobre Corrida e Caminhada Pela Diabetes 2026A Corrida e Caminha
+ da Pela Diabetes 2026 (5º Encontro a Correr e a Caminhar pela Diabetes) re
+ aliza-se no sábado\,  dia 14 de novembro de 2026\,  na emblemática Praça
+  da Canção\,  em Coimbra. Depois de passar por Lisboa na edição anterio
+ r\,  a iniciativa que assinala[..]\nhttps://www.portugalrunning.com/eventos
+ /corrida-e-caminhada-pela-diabetes/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-pela-diabetes/
+END:VEVENT
+END:VCALENDAR

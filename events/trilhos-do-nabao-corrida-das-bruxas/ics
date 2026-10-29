@@ -5,14 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:71208-0@www.portugalrunning.com
-DTSTAMP:20261028T094712Z
-DTSTART:20251031
-DTEND:20251101
-LOCATION:Linhaceira\,   Tomar Linhaceira\,   Tomar
+DTSTAMP:20261029T060133Z
+DTSTART:20261031
+DTEND:20261101
+LOCATION:Tomar\,   Santarém Tomar\,   Santarém
 SUMMARY:Trilhos do Nabão - Corrida das Bruxas 2026
-DESCRIPTION:A organização da Caminhada 6k e Trail 15K é da responsabilid
- ade da Associação Cultural e Recreativada Linhaceira.\nhttps://www.portug
- alrunning.com/eventos/trilhos-do-nabao-corrida-das-bruxas/
+DESCRIPTION:Sobre Trilhos do Nabão - Corrida das Bruxas 2026O Trilhos do N
+ abão - Corrida das Bruxas 2026 realiza-se na noite de sábado\,  31 de out
+ ubro de 2026\,  com partidas e chegadas junto ao Salão Multiusos da A.C.R.
+  da Linhaceira\,  na freguesia de Asseiceira\,  concelho de Tomar (distrito
+  de Santarém). Integrado[..]\nhttps://www.portugalrunning.com/eventos/tril
+ hos-do-nabao-corrida-das-bruxas/
 URL:https://www.portugalrunning.com/eventos/trilhos-do-nabao-corrida-das-bruxas/
 END:VEVENT
 END:VCALENDAR

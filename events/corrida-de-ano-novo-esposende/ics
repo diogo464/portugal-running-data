@@ -4,17 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:39324-0@www.portugalrunning.com
-DTSTAMP:20260902T135935Z
-DTSTART:20260117
-DTEND:20260118
+UID:71251-0@www.portugalrunning.com
+DTSTAMP:20261029T060130Z
+DTSTART:20270116
+DTEND:20270117
 LOCATION:Esposende\,   Braga Esposende\,   Braga
-SUMMARY:Corrida de Ano Novo Esposende 2026
-DESCRIPTION:A Câmara Municipal de Esposende vai organizar no dia 17 de jan
- eiro a VIII Corrida de Ano Novo. O programa é constituído pela Kids Run d
- e 1 609 e 800 m\,  por uma Caminhada de 8 Km e uma Corrida 10 Km. As provas
-  terão início no Largo Rodrigues Sampaio\, [..]\nhttps://www.portugalrunn
- ing.com/eventos/corrida-de-ano-novo-esposende/
+SUMMARY:Corrida de Ano Novo Esposende 2027
+DESCRIPTION:Sobre Corrida de Ano Novo Esposende 2027A Corrida de Ano Novo E
+ sposende 2027 realiza-se no dia 16 de janeiro de 2027 (sábado)\,  em Espos
+ ende\,  no distrito de Braga\,  marcando o arranque da época desportiva de
+  estrada no litoral minhoto. Com partida e meta instaladas na central Rua S
+ anta Maria dos[..]\nhttps://www.portugalrunning.com/eventos/corrida-de-ano-
+ novo-esposende/
 URL:https://www.portugalrunning.com/eventos/corrida-de-ano-novo-esposende/
 END:VEVENT
 END:VCALENDAR

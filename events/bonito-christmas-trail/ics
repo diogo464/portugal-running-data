@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71257-0@www.portugalrunning.com
+DTSTAMP:20261029T060130Z
+DTSTART:20261129T000000Z
+DTEND:20261129T235900Z
+LOCATION:Entroncamento\,   Santarém Entroncamento\,   Santarém
+SUMMARY:Bonito Christmas Trail 2026
+DESCRIPTION:Sobre Bonito Christmas Trail 2026O Bonito Christmas Trail 2026 
+ (2ª edição) realiza-se no dia 29 de novembro de 2026 (domingo)\,  com ce
+ ntro logístico\,  partidas e chegadas no Pavilhão Municipal do Entroncame
+ nto\,  no concelho do Entroncamento\,  distrito de Santarém. Integrado no 
+ calendário competitivo do CTR – Circuito de Trail do Ribatejo[..]\nhttps
+ ://www.portugalrunning.com/eventos/bonito-christmas-trail/
+URL:https://www.portugalrunning.com/eventos/bonito-christmas-trail/
+END:VEVENT
+END:VCALENDAR

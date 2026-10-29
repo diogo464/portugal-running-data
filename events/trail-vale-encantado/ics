@@ -4,17 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:46992-0@www.portugalrunning.com
-DTSTAMP:20260902T140214Z
-DTSTART:20260315T054600Z
-DTEND:20260315T235900Z
-LOCATION:Vale São Cosme\,   Vila Nova de Famalicão Vale São Cosme\,   Vila Nova de Famalicão
-SUMMARY:Trail Vale Encantado 2026
-DESCRIPTION:A prova de trail Vale Encantado regressa já no dia 15 de març
- o\,  com um percurso que conquistou tantos atletas pela beleza natural e pe
- los desafios únicos no nosso vale. Mantemos os trilhos icónicos de 17 km 
- e 27 km\,  perfeitos para quem procura aventura ou superação pessoal. Est
- amos a[..]\nhttps://www.portugalrunning.com/eventos/trail-vale-encantado/
+UID:71223-0@www.portugalrunning.com
+DTSTAMP:20261029T060133Z
+DTSTART:20270314T000000Z
+DTEND:20270314T235900Z
+LOCATION:Vila Nova de Famalicão\,   Braga Famalicão\,   Porto
+SUMMARY:Trail do Vale Encantado – ARCVC 2027
+DESCRIPTION:Sobre Trail do Vale Encantado – ARCVC 2027O Trail do Vale Enc
+ antado – ARCVC 2027 (4ª edição do Trail ARC Vale São Cosme) realiza-s
+ e no domingo\,  dia 14 de março de 2027\,  com centro nevrálgico\,  parti
+ das e chegadas junto ao CIIES de Vale São Cosme (antiga escola Didáxis)\,
+   no concelho[..]\nhttps://www.portugalrunning.com/eventos/trail-vale-encan
+ tado/
 URL:https://www.portugalrunning.com/eventos/trail-vale-encantado/
 END:VEVENT
 END:VCALENDAR

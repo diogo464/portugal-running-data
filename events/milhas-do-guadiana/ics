@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71245-0@www.portugalrunning.com
+DTSTAMP:20261029T060132Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Vila Real de Santo António\,   Faro Vila Real de Santo António\,   Faro
+SUMMARY:X Milhas do Guadiana 2026
+DESCRIPTION:Sobre X Milhas do Guadiana 2026A X Milhas do Guadiana 2026 (31�
+ � edição) realiza-se no dia 8 de novembro de 2026 (domingo)\,  com partid
+ a agendada para as 10:00 (hora portuguesa / 11:00 hora espanhola) na emblem
+ ática Praça Marquês de Pombal\,  em Vila Real de Santo António\,  no di
+ strito de Faro.[..]\nhttps://www.portugalrunning.com/eventos/milhas-do-guad
+ iana/
+URL:https://www.portugalrunning.com/eventos/milhas-do-guadiana/
+END:VEVENT
+END:VCALENDAR

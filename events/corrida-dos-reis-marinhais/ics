@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71211-0@www.portugalrunning.com
+DTSTAMP:20261029T060130Z
+DTSTART:20270103T000000Z
+DTEND:20270103T235900Z
+LOCATION:Salvaterra de Magos\,   Santarém Salvaterra de Magos\,   Santarém
+SUMMARY:2ª Corrida dos Reis - Marinhais 2027
+DESCRIPTION:Sobre 2ª Corrida dos Reis - Marinhais 2027A 2ª Corrida dos Re
+ is - Marinhais 2027 realiza-se na manhã de domingo\,  3 de janeiro de 2027
+ \,  com partidas e chegadas no Complexo Desportivo Municipal de Marinhais\,
+   no concelho de Salvaterra de Magos (distrito de Santarém). Abrindo o cal
+ endário de corridas de[..]\nhttps://www.portugalrunning.com/eventos/corrid
+ a-dos-reis-marinhais/
+URL:https://www.portugalrunning.com/eventos/corrida-dos-reis-marinhais/
+END:VEVENT
+END:VCALENDAR
