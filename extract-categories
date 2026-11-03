@@ -28,6 +28,7 @@ CLASS_TO_CATEGORIES = {
     "event_type-sao-silvestre": [CATEGORY_SAINT_SILVESTER],
     "event_type-outras": [],
     "event_type-obstaculos": [CATEGORY_RUN],
+    "event_type-ocr-kids": [CATEGORY_RUN, CATEGORY_KIDS],
     "event_type-corta-mato": [CATEGORY_RUN],
     "event_type-backyard-2": [CATEGORY_RUN],
     "event_type-meiamaratona": [CATEGORY_RUN, CATEGORY_HALF_MARATHON],

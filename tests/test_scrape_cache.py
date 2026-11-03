@@ -181,6 +181,19 @@ class ScrapeCacheTests(unittest.TestCase):
             (self.event_dir / "location-input").read_text(), first_input
         )
 
+    def test_ocr_kids_category_is_recognized(self):
+        (self.event_dir / "data.json").write_text(
+            json.dumps({"class_list": ["ajde_events", "event_type-ocr-kids"]})
+        )
+
+        self.run_script("extract-categories", "example-event")
+        self.run_script("extract-circuits", "example-event")
+        self.run_script("extract-organizer", "example-event")
+
+        self.assertEqual((self.event_dir / "categories").read_text(), "kids\nrun")
+        self.assertEqual((self.event_dir / "circuits").read_text(), "")
+        self.assertFalse((self.event_dir / "organizer").exists())
+
     def test_manz_organizer_is_recognized(self):
         (self.event_dir / "data.json").write_text(
             json.dumps({"class_list": ["ajde_events", "event_organizer-manz"]})

@@ -41,6 +41,7 @@ CLASS_TO_CIRCUITS = {
     "event_type-sao-silvestre": [],
     "event_type-outras": [],
     "event_type-obstaculos": [],
+    "event_type-ocr-kids": [],
     "event_type-corta-mato": [],
     "event_type-backyard-2": [],
     "event_type-skyrunning": [],
