@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72128-0@www.portugalrunning.com
+DTSTAMP:20261104T060211Z
+DTSTART:20261121
+DTEND:20261122
+LOCATION:Condeixa-a-Nova\,   Coimbra Condeixa-a-Nova\,   Coimbra
+SUMMARY:VI Trail da Escarpiada 2026
+DESCRIPTION:Sobre VI Trail da Escarpiada 2026O VI Trail da Escarpiada 2026 
+ realiza-se no dia 21 de novembro de 2026 (sábado)\,  com partidas e chegad
+ as centradas junto à Associação da Aldeia do Casmilo\,  no concelho de C
+ ondeixa-a-Nova\,  distrito de Coimbra. O evento percorre as paisagens calc�
+ �rias da Serra de Sicó\,  atravessando[..]\nhttps://www.portugalrunning.co
+ m/eventos/trail-da-escarpiada/
+URL:https://www.portugalrunning.com/eventos/trail-da-escarpiada/
+END:VEVENT
+END:VCALENDAR

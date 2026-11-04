@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69069f6591527
-DTSTAMP:20251102T000141Z
+UID:46200-0@www.portugalrunning.com
+DTSTAMP:20261104T060210Z
 DTSTART:20260221
 DTEND:20260222
-LOCATION:Ilha de São Miguel\,  Açores Ilha de São Miguel\,  Açores
+LOCATION:Ilha de São Miguel\,   Açores Ilha de São Miguel\,   Açores
 SUMMARY:Trail Costa Norte by ADSP 2026
 DESCRIPTION:O Trail Costa Norte (TCN)\,  organizado pelo&nbsp;Atlético Des
  portivo de São Pedro (ADSP)&nbsp;com o apoio da&nbsp;Câmara Municipal da 

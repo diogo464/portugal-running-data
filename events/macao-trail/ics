@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71772-0@www.portugalrunning.com
+DTSTAMP:20261104T060206Z
+DTSTART:20270307
+DTEND:20270308
+LOCATION:Mação\,   Santarém Mação\,   Santarém
+SUMMARY:Mação Trail 2027
+DESCRIPTION:Sobre Mação Trail 2027O Mação Trail 2027 (1ª edição) rea
+ liza-se no dia 7 de março de 2027 (domingo)\,  com centro nevrálgico\,  s
+ ecretariado e partidas junto às Piscinas Cobertas Municipais de Mação (a
+ o lado do Agrupamento de Escolas Verde Horizonte)\,  no concelho de Mação
+ \,  distrito de Santarém. A prova é certificada[..]\nhttps://www.portugal
+ running.com/eventos/macao-trail/
+URL:https://www.portugalrunning.com/eventos/macao-trail/
+END:VEVENT
+END:VCALENDAR

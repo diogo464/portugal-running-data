@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72120-0@www.portugalrunning.com
+DTSTAMP:20261104T060209Z
+DTSTART:20270404
+DTEND:20270405
+LOCATION:Santiago do Cacém\,   Setúbal Santiago do Cacém\,   Setubal
+SUMMARY:Stc Ocr 2027
+DESCRIPTION:Sobre Stc Ocr 2027O Stc Ocr 2027 (7ª edição do STC Ultimate 
+ Obstacle Challenge) realiza-se no domingo\,  4 de Abril de 2027\,  na cidad
+ e de Santiago do Cacém\,  distrito de Setúbal. Com concentração de atle
+ tas a partir das 08:00 e início das partidas por vagas às 09:00 (com saí
+ das de[..]\nhttps://www.portugalrunning.com/eventos/stc-ocr/
+URL:https://www.portugalrunning.com/eventos/stc-ocr/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71362-0@www.portugalrunning.com
+DTSTAMP:20261104T060205Z
+DTSTART:20270110
+DTEND:20270111
+LOCATION:Reguengos de Monsaraz\,   Évora Reguengos de Monsaraz\,   Évora
+SUMMARY:1º Canicross Piranhas do Alqueva 2027
+DESCRIPTION:Sobre 1º Canicross Piranhas do Alqueva 2027O 1º Canicross Pir
+ anhas do Alqueva 2027 realiza-se no dia 10 de Janeiro de 2027 (Domingo)\,  
+ com partida marcada para as 09:00 nos trilhos da histórica Herdade do Espo
+ rão\,  no concelho de Reguengos de Monsaraz\,  distrito de Évora. Inserid
+ a oficialmente na Taça de Portugal[..]\nhttps://www.portugalrunning.com/ev
+ entos/canicross-piranhas-do-alqueva/
+URL:https://www.portugalrunning.com/eventos/canicross-piranhas-do-alqueva/
+END:VEVENT
+END:VCALENDAR

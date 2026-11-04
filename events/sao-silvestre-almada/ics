@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72132-0@www.portugalrunning.com
+DTSTAMP:20261104T060207Z
+DTSTART:20261212
+DTEND:20261213
+LOCATION:Almada\,   Setúbal Almada\,   Setúbal
+SUMMARY:X São Silvestre Almada 2026
+DESCRIPTION:Sobre X São Silvestre Almada 2026O X São Silvestre Almada 202
+ 6 (10ª edição da São Silvestre de Almada) realiza-se no dia 12 de dezem
+ bro de 2026 (sábado)\,  ao cair da noite\,  com partidas e chegadas centra
+ das na emblemática Praça São João Batista\,  em pleno centro de Almada\
+ ,  distrito de Setúbal.[..]\nhttps://www.portugalrunning.com/eventos/sao-s
+ ilvestre-almada/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-almada/
+END:VEVENT
+END:VCALENDAR

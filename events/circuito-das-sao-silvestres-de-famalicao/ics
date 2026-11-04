@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71308-0@www.portugalrunning.com
+DTSTAMP:20261104T060203Z
+DTSTART:20261128
+DTEND:20261129
+LOCATION:Vila Nova de Famalicão\,   Braga Famalicão\,   Porto
+SUMMARY:Circuito das São Silvestres de Famalicão 2026
+DESCRIPTION:Sobre Circuito das São Silvestres de Famalicão 2026O Circuito
+  das São Silvestres de Famalicão 2026 arranca no sábado\,  28 de novembr
+ o de 2026\,  às 18h00\,  no concelho de Vila Nova de Famalicão\,  distrit
+ o de Braga. Este troféu municipal reúne num campeonato conjunto seis prov
+ as de São Silvestre emblemáticas do concelho[..]\nhttps://www.portugalrun
+ ning.com/eventos/circuito-das-sao-silvestres-de-famalicao/
+URL:https://www.portugalrunning.com/eventos/circuito-das-sao-silvestres-de-famalicao/
+END:VEVENT
+END:VCALENDAR

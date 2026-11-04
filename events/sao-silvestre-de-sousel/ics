@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72650-0@www.portugalrunning.com
+DTSTAMP:20261104T060208Z
+DTSTART:20261230
+DTEND:20261231
+LOCATION:Portalegre Portalegre
+SUMMARY:São Silvestre de Sousel 2026
+DESCRIPTION:Sobre São Silvestre de Sousel 2026A São Silvestre de Sousel 2
+ 026 estreia-se no calendário nacional no dia 30 de Dezembro de 2026 (Quart
+ a-feira)\,  levando a tradição das corridas de fim de ano às ruas da vil
+ a alentejana de Sousel\,  no distrito de Portalegre. Integrada nas celebra�
+ �ões da passagem de ano[..]\nhttps://www.portugalrunning.com/eventos/sao-s
+ ilvestre-de-sousel/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-de-sousel/
+END:VEVENT
+END:VCALENDAR

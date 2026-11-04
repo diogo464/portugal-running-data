@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71297-0@www.portugalrunning.com
+DTSTAMP:20261104T060202Z
+DTSTART:20270207
+DTEND:20270208
+LOCATION:Oliveira de Azeméis\,   Aveiro Oliveira de Azeméis\,   Aveiro
+SUMMARY:Corrida de São Martinho da Gândara – Gold Residence 2027
+DESCRIPTION:Sobre Corrida de São Martinho da Gândara – Gold Residence 2
+ 027A Corrida de São Martinho da Gândara – Gold Residence 2027 (1ª edi�
+ �ão) realiza-se no domingo\,  7 de fevereiro de 2027\,  na freguesia de S�
+ �o Martinho da Gândara\,  no concelho de Oliveira de Azeméis (distrito de
+  Aveiro). Organizada pela Palavras[..]\nhttps://www.portugalrunning.com/eve
+ ntos/corrida-de-sao-martinho-da-gandara-gold-residence/
+URL:https://www.portugalrunning.com/eventos/corrida-de-sao-martinho-da-gandara-gold-residence/
+END:VEVENT
+END:VCALENDAR

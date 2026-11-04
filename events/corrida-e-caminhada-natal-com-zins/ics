@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72648-0@www.portugalrunning.com
+DTSTAMP:20261104T060204Z
+DTSTART:20261213
+DTEND:20261214
+LOCATION:Guimarães\,   Braga Guimarães\,   Braga
+SUMMARY:2ª Corrida e Caminhada Natal com Zins 2026
+DESCRIPTION:Sobre 2ª Corrida e Caminhada Natal com Zins 2026A 2ª Corrida 
+ e Caminhada Natal com Zins 2026 realiza-se no domingo\,  13 de dezembro de 
+ 2026\,  na freguesia de Prazins Santo Tirso\,  no concelho de Guimarães (d
+ istrito de Braga). Com partida e chegada instaladas na Rua Arnaldo Borges\,
+   junto ao Centro[..]\nhttps://www.portugalrunning.com/eventos/corrida-e-ca
+ minhada-natal-com-zins/
+URL:https://www.portugalrunning.com/eventos/corrida-e-caminhada-natal-com-zins/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:63304-0@www.portugalrunning.com
+DTSTAMP:20261104T060212Z
+DTSTART:20260906T073000Z
+DTEND:20260906T073000Z
+LOCATION:Pedrulha\,   Coimbra Pedrulha\,   Coimbra
+SUMMARY:Trilhos CDP 2026
+DESCRIPTION:Sobre Trilhos CDP 2026A edição de 2026 dos Trilhos CDP realiz
+ a-se no dia 6 de setembro de 2026 (Domingo)\,  na Pedrulha\,  União das Fr
+ eguesias de Eiras e São Paulo de Frades\,  concelho e distrito de Coimbra.
+  Organizado pelo Clube Desportivo da Pedrulha (Trilhos CDP) com forte verte
+ nte solidária\,  o evento[..]\nhttps://www.portugalrunning.com/eventos/tri
+ lhos-cdp-2026/
+URL:https://www.portugalrunning.com/eventos/trilhos-cdp-2026/
+END:VEVENT
+END:VCALENDAR

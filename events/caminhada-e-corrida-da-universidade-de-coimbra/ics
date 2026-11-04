@@ -4,18 +4,19 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:49215-0@www.portugalrunning.com
-DTSTAMP:20260902T135919Z
-DTSTART:20260301T221800Z
-DTEND:20260301T221800Z
+UID:71279-0@www.portugalrunning.com
+DTSTAMP:20261104T060201Z
+DTSTART:20270228T000000Z
+DTEND:20270228T235900Z
 LOCATION:Coimbra Coimbra
-SUMMARY:Caminhada e Corrida da Universidade de Coimbra 2026
-DESCRIPTION:No próximo dia 1 de março de 2026\,  a Universidade de Coimbr
- a promove a primeira Caminhada e Corrida da UC. Este é um evento desportiv
- o\,  solidário e sustentável\,  desenhado para incentivar estilos de vida
-  saudáveis em toda a comunidade académica e no público em geral.\nhttps:
- //www.portugalrunning.com/eventos/caminhada-e-corrida-da-universidade-de-co
- imbra/
+SUMMARY:Caminhada e Corrida da Universidade de Coimbra 2027
+DESCRIPTION:Sobre Caminhada e Corrida da Universidade de Coimbra 2027A Cami
+ nhada e Corrida da Universidade de Coimbra 2027 (2ª edição) realiza-se n
+ o dia 28 de fevereiro de 2027 (Domingo) em Coimbra\,  celebrando o anivers�
+ �rio da mais antiga instituição universitária portuguesa num evento que 
+ une desporto\,  espírito académico\,  bem-estar e solidariedade. Com[..]\
+ nhttps://www.portugalrunning.com/eventos/caminhada-e-corrida-da-universidad
+ e-de-coimbra/
 URL:https://www.portugalrunning.com/eventos/caminhada-e-corrida-da-universidade-de-coimbra/
 END:VEVENT
 END:VCALENDAR

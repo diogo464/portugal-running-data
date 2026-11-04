@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:6913ce3510dfc
-DTSTAMP:20251112T000053Z
+UID:46512-0@www.portugalrunning.com
+DTSTAMP:20261104T060203Z
 DTSTART:20260201T192900Z
 DTEND:20260201T235900Z
-LOCATION:Portomar\,  Mira Portomar\,  Mira
+LOCATION:Portomar\,   Mira Portomar\,   Mira
 SUMMARY:Cabanão Trail 2.0 2026
 DESCRIPTION:O&nbsp;“Cabanão Trail 2.0”&nbsp;é a nova versão do event
  o desportivo organizado pela secção de trail da associação&nbsp;Clube D

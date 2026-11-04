@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:50845-0@www.portugalrunning.com
-DTSTAMP:20261028T060239Z
-DTSTART:20270314
-DTEND:20270315
+DTSTAMP:20261104T060209Z
+DTSTART:20270313
+DTEND:20270314
 LOCATION:Roma\,   Itália Roma\,   Itália
 SUMMARY:Maratona de Roma 2027
 DESCRIPTION:Sobre Maratona de Roma 2027A Maratona de Roma 2027 (32ª ediç�
- �o oficial da Run Rome The Marathon) realiza-se no domingo\,  14 de março 
- de 2027\,  em Roma\,  Itália\,  integrando a véspera festiva de sábado\,
-   13 de março de 2027. Distinguida com o selo FIDAL Gold Label e parceira 
- do circuito[..]\nhttps://www.portugalrunning.com/eventos/maratona-de-roma/
+ �o oficial da Run Rome The Marathon) realiza-se nos dias 13 e 14 de março 
+ de 2027\,  em Roma\,  Itália\,  com a maratona principal no domingo\,  14 
+ de março de 2027\,  e a véspera festiva no sábado\,  13 de março[..]\nh
+ ttps://www.portugalrunning.com/eventos/maratona-de-roma/
 URL:https://www.portugalrunning.com/eventos/maratona-de-roma/
 END:VEVENT
 END:VCALENDAR

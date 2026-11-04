@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71390-0@www.portugalrunning.com
+DTSTAMP:20261104T060207Z
+DTSTART:20261212
+DTEND:20261213
+LOCATION:Constância\,   Santarém Constância\,   Santarém
+SUMMARY:11ª Corrida São Silvestre Solidária Constância – Brigmec 2026
+DESCRIPTION:Sobre 11ª Corrida São Silvestre Solidária Constância – Br
+ igmec 2026A 11ª Corrida São Silvestre Solidária Constância – Brigmec 
+ 2026 realiza-se no dia 12 de dezembro de 2026 (sábado)\,  nas instalaçõe
+ s do Campo Militar de Santa Margarida (CMSM)\,  em Santa Margarida da Couta
+ da\,  no concelho de Constância\,  distrito de Santarém. O[..]\nhttps://w
+ ww.portugalrunning.com/eventos/sao-silvestre-constancia/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-constancia/
+END:VEVENT
+END:VCALENDAR

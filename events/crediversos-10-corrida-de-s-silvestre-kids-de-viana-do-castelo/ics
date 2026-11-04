@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71394-0@www.portugalrunning.com
+DTSTAMP:20261104T060204Z
+DTSTART:20261226
+DTEND:20261227
+LOCATION:Viana do Castelo Viana do Castelo
+SUMMARY:Crediversos 10ª Corrida de S. Silvestre Kids de Viana do Castelo 2026
+DESCRIPTION:Sobre Crediversos 10ª Corrida de S. Silvestre Kids de Viana do
+  Castelo 2026A Crediversos 10ª Corrida de S. Silvestre Kids de Viana do Ca
+ stelo 2026 realiza-se no sábado\,  dia 26 de dezembro de 2026\,  a partir 
+ das 16:30\,  com partida e chegada na emblemática Avenida dos Combatentes 
+ da Grande Guerra\, [..]\nhttps://www.portugalrunning.com/eventos/crediverso
+ s-10-corrida-de-s-silvestre-kids-de-viana-do-castelo/
+URL:https://www.portugalrunning.com/eventos/crediversos-10-corrida-de-s-silvestre-kids-de-viana-do-castelo/
+END:VEVENT
+END:VCALENDAR

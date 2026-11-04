@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69112b340c739
-DTSTAMP:20251110T000052Z
+UID:46405-0@www.portugalrunning.com
+DTSTAMP:20261104T060206Z
 DTSTART:20261018
 DTEND:20261019
-LOCATION:Roma\,  Itália Roma\,  Itália
-SUMMARY:Meia Maratona de Roma (Wizz Air) 2026
-DESCRIPTION:A Wizz Air Rome Half Marathon oferece um percurso totalmente di
- ferente\,  atravessando o centro histórico de Roma e passando pelos monume
- ntos mais icónicos da cidade. A partida é na Via del Circo Massimo (jun
- to ao Roseto) às 8h30\,  e a chegada é junto ao Coliseu. Durante os 21\,
-  097 km\,  os atletas passam por[..]\nhttps://www.portugalrunning.com/event
- os/meia-maratona-de-roma-2026/
+LOCATION:Roma\,   Itália Roma\,   Itália
+SUMMARY:Wizz Air Meia Maratona de Roma 2026
+DESCRIPTION:Sobre Wizz Air Meia Maratona de Roma 2026A Wizz Air Meia Marato
+ na de Roma 2026 (3ª edição) (Rome Half Marathon by Brooks) realiza-se no
+  domingo\,  18 de outubro de 2026\,  no coração monumental da lendária c
+ idade de Roma\,  em Itália. Organizada pela reputada RomaOstia SSD em parc
+ eria com a RCS[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-d
+ e-roma-2026/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-de-roma-2026/
 END:VEVENT
 END:VCALENDAR

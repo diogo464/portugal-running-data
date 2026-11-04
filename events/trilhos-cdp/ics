@@ -4,18 +4,17 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:63304-0@www.portugalrunning.com
-DTSTAMP:20260907T060107Z
-DTSTART:20260906T073000Z
-DTEND:20260906T073000Z
-LOCATION:Pedrulha\,   Coimbra Pedrulha\,   Coimbra
-SUMMARY:Trilhos CDP 2026
-DESCRIPTION:Sobre Trilhos CDP 2026A edição de 2026 dos Trilhos CDP realiz
- a-se no dia 6 de setembro de 2026 (Domingo)\,  na Pedrulha\,  União das Fr
- eguesias de Eiras e São Paulo de Frades\,  concelho e distrito de Coimbra.
-  Organizado pelo Clube Desportivo da Pedrulha (Trilhos CDP) com forte verte
- nte solidária\,  o evento[..]\nhttps://www.portugalrunning.com/eventos/tri
- lhos-cdp/
+UID:71846-0@www.portugalrunning.com
+DTSTAMP:20261104T060212Z
+DTSTART:20270918T230000Z
+DTEND:20270919T225900Z
+LOCATION:Coimbra Coimbra
+SUMMARY:Trail e 3ª Caminhada Colorida dos Trilhos CDP 2027
+DESCRIPTION:Sobre Trail e 3ª Caminhada Colorida dos Trilhos CDP 2027O Trai
+ l e 3ª Caminhada Colorida dos Trilhos CDP 2027 realiza-se no dia 19 de set
+ embro de 2027 (domingo)\,  na localidade da Pedrulha\,  na União das Fregu
+ esias de Eiras e São Paulo de Frades\,  concelho e distrito de Coimbra. O 
+ evento[..]\nhttps://www.portugalrunning.com/eventos/trilhos-cdp/
 URL:https://www.portugalrunning.com/eventos/trilhos-cdp/
 END:VEVENT
 END:VCALENDAR

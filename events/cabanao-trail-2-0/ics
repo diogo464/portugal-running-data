@@ -4,19 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:46512-0@www.portugalrunning.com
-DTSTAMP:20260902T135912Z
-DTSTART:20260201T192900Z
-DTEND:20260201T235900Z
-LOCATION:Portomar\,   Mira Portomar\,   Mira
-SUMMARY:Cabanão Trail 2.0 2026
-DESCRIPTION:O&nbsp;“Cabanão Trail 2.0”&nbsp;é a nova versão do event
- o desportivo organizado pela secção de trail da associação&nbsp;Clube D
- omus Nostra. Esta edição integra&nbsp;duas provas competitivas&nbsp;e&nbs
- p;uma caminhada de caráter recreativo. Chega em&nbsp;2026&nbsp;com uma ima
- gem renovada e percursos que prometem surpreender tanto quem se aventurou n
- o início do evento como quem agora tem coragem[..]\nhttps://www.portugalru
- nning.com/eventos/cabanao-trail-2-0/
+UID:72655-0@www.portugalrunning.com
+DTSTAMP:20261104T060202Z
+DTSTART:20270131T000000Z
+DTEND:20270131T235900Z
+LOCATION:Mira\,   Coimbra Mira\,   Coimbra
+SUMMARY:Cabanão Trail 2027
+DESCRIPTION:Sobre Cabanão Trail 2027O Cabanão Trail 2027 (Cabanão Trail 
+ 3.0 – 3ª edição) realiza-se no dia 31 de Janeiro de 2027 (Domingo)\,  
+ com centro operacional na localidade de Portomar\,  no concelho de Mira\,  
+ distrito de Coimbra. O evento afirma-se no calendário de inverno da regiã
+ o Centro com o propósito de[..]\nhttps://www.portugalrunning.com/eventos/c
+ abanao-trail-2-0/
 URL:https://www.portugalrunning.com/eventos/cabanao-trail-2-0/
 END:VEVENT
 END:VCALENDAR

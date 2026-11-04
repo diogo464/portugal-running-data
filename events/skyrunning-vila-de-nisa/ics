@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72124-0@www.portugalrunning.com
+DTSTAMP:20261104T060209Z
+DTSTART:20261115
+DTEND:20261116
+LOCATION:Nisa\,   Portalegre Nisa\,   Portalegre
+SUMMARY:I Skyrunning Vila de Nisa 2026
+DESCRIPTION:Sobre I Skyrunning Vila de Nisa 2026O I Skyrunning Vila de Nisa
+  2026 realiza-se no dia 15 de novembro de 2026 (domingo)\,  com partidas e 
+ chegadas centradas na histórica Praça da República\,  no coração da vi
+ la de Nisa\,  distrito de Portalegre. Esta edição inaugural afirma-se de 
+ imediato no calendário competitivo[..]\nhttps://www.portugalrunning.com/ev
+ entos/skyrunning-vila-de-nisa/
+URL:https://www.portugalrunning.com/eventos/skyrunning-vila-de-nisa/
+END:VEVENT
+END:VCALENDAR

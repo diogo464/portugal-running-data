@@ -4,18 +4,17 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:46917-0@www.portugalrunning.com
-DTSTAMP:20260902T140057Z
-DTSTART:20260322
-DTEND:20260323
-LOCATION:Queiriga\,   Viseu Queiriga\,   Viseu
-SUMMARY:Queiriga Trail 2026
-DESCRIPTION:Associação “Os Queiriguenses”\,  em Queiriga\,  concelho 
- de Vila Nova de Paiva\,  distrito de Viseu. O evento é composto por três 
- percursos e realiza-se no dia 22 de Março de 2026: Trail Curto de 23 km\, 
-  com aproximadamente 900 D+; Mini Trail 12 km\,  com aproximadamente 350 D+
- ; Caminhada 12Km\,  com[..]\nhttps://www.portugalrunning.com/eventos/queiri
- ga-trail/
+UID:71333-0@www.portugalrunning.com
+DTSTAMP:20261104T060208Z
+DTSTART:20270404
+DTEND:20270405
+LOCATION:Vila Nova de Paiva\,   Viseu Vila Nova de Paiva\,   Viseu
+SUMMARY:IX Queiriga Trail 2027
+DESCRIPTION:Sobre IX Queiriga Trail 2027O IX Queiriga Trail 2027 (9ª ediç
+ ão) realiza-se no dia 4 de Abril de 2027 (Domingo)\,  com partida marcada 
+ para as 09:00 na freguesia de Queiriga\,  no concelho de Vila Nova de Paiva
+ \,  distrito de Viseu. Integrada nas terras altas do planalto beirão e mar
+ cada pelo[..]\nhttps://www.portugalrunning.com/eventos/queiriga-trail/
 URL:https://www.portugalrunning.com/eventos/queiriga-trail/
 END:VEVENT
 END:VCALENDAR

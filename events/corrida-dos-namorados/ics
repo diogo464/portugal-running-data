@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6c583202a
-DTSTAMP:20250720T222320Z
-DTSTART:20220213
-DTEND:20220214
-LOCATION:Lisboa Lisboa
-SUMMARY:Corrida dos Namorados 2022
-DESCRIPTION:Um percurso de 6km\,  no Estádio Universitário de Lisboa\,  
- unidos num só objetivo… ser o casal mais rápido! da Corrida dos Namorad
- os 2022. Não importa o ritmo\,  o importante é compartilhar o prazer da a
- tividade física\,  num ambiente de natureza e envolvidos por uma atmosfera
-  de romantismo e cumplicidade.\nhttps://www.portugalrunning.com/eventos/cor
- rida-dos-namorados/
+UID:71290-0@www.portugalrunning.com
+DTSTAMP:20261104T060202Z
+DTSTART:20270214
+DTEND:20270215
+LOCATION:Vila Verde\,   Braga Vila Verde\,   Braga
+SUMMARY:Corrida dos Namorados 2027
+DESCRIPTION:Sobre Corrida dos Namorados 2027A Corrida dos Namorados 2027 (2
+ ª edição) realiza-se no dia 14 de Fevereiro de 2027 (Domingo)\,  às 09:
+ 30\,  com partida e chegada na Praça do Município\,  em Vila Verde\,  no 
+ distrito de Braga. Celebrada em pleno Dia de São Valentim e enquadrada na 
+ tradição minhota da[..]\nhttps://www.portugalrunning.com/eventos/corrida-
+ dos-namorados/
 URL:https://www.portugalrunning.com/eventos/corrida-dos-namorados/
 END:VEVENT
 END:VCALENDAR

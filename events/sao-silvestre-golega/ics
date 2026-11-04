@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72137-0@www.portugalrunning.com
+DTSTAMP:20261104T060208Z
+DTSTART:20261218
+DTEND:20261219
+LOCATION:Golegã\,   Santarém Golegã\,   Santarém
+SUMMARY:12ª Corrida São Silvestre da Golegã 2026
+DESCRIPTION:Sobre 12ª Corrida São Silvestre da Golegã 2026O 12ª Corrida
+  São Silvestre da Golegã 2026 realiza-se na noite de sexta-feira\,  18 de
+  dezembro de 2026\,  com partidas e chegadas junto ao emblemático Pórtico
+  de Entrada da Vila da Golegã\,  na Rua Diogo Boitacas\,  concelho da Gole
+ gã\,  distrito de Santarém. Organizada[..]\nhttps://www.portugalrunning.c
+ om/eventos/sao-silvestre-golega/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-golega/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72112-0@www.portugalrunning.com
+DTSTAMP:20261104T060202Z
+DTSTART:20261219T000000Z
+DTEND:20261219T235900Z
+LOCATION:Covilhã\,   Castelo Branco Covilhã\,   Castelo Branco
+SUMMARY:Cherry Winter Run 2026
+DESCRIPTION:Sobre Cherry Winter Run 2026A Cherry Winter Run 2026 (2ª ediç
+ ão do Grande Prémio de Atletismo do Paul) realiza-se no dia 19 de Dezembr
+ o de 2026 (Sábado)\,  na vila do Paul\,  concelho da Covilhã e distrito d
+ e Castelo Branco. Com epicentro de partida e chegada no Complexo Desportivo
+  da Raboleirada[..]\nhttps://www.portugalrunning.com/eventos/cherry-winter-
+ run-paul/
+URL:https://www.portugalrunning.com/eventos/cherry-winter-run-paul/
+END:VEVENT
+END:VCALENDAR

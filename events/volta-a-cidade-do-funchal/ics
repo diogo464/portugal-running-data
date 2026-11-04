@@ -4,16 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:46303-0@www.portugalrunning.com
-DTSTAMP:20260902T140228Z
-DTSTART:20251228
-DTEND:20251229
+UID:71289-0@www.portugalrunning.com
+DTSTAMP:20261104T060213Z
+DTSTART:20261228
+DTEND:20261229
 LOCATION:Funchal\,   Madeira Funchal\,   Madeira
-SUMMARY:Volta à Cidade do Funchal 2025
-DESCRIPTION:A Volta à Cidade do Funchal acontece pela 66ª vez na ilha da 
- Madeira e é uma das mais míticas corridas de estrada de fim de ano\,  abe
- rta a todas as idades.\nhttps://www.portugalrunning.com/eventos/volta-a-cid
- ade-do-funchal/
+SUMMARY:Volta à Cidade do Funchal 2026
+DESCRIPTION:Sobre Volta à Cidade do Funchal 2026A Volta à Cidade do Funch
+ al 2026 (67ª edição — LXVII Volta à Cidade do Funchal) realiza-se na 
+ segunda-feira\,  28 de dezembro de 2026\,  a partir das 18h00\,  com partid
+ a e meta na Avenida Sá Carneiro (em frente à Discoteca Vespas)\,  no cora
+ ção do[..]\nhttps://www.portugalrunning.com/eventos/volta-a-cidade-do-fun
+ chal/
 URL:https://www.portugalrunning.com/eventos/volta-a-cidade-do-funchal/
 END:VEVENT
 END:VCALENDAR

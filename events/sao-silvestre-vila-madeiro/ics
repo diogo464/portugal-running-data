@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72151-0@www.portugalrunning.com
+DTSTAMP:20261104T060210Z
+DTSTART:20261223
+DTEND:20261224
+LOCATION:Castelo Branco Castelo Branco
+SUMMARY:São Silvestre Vila Madeiro 2026
+DESCRIPTION:Sobre São Silvestre Vila Madeiro 2026O São Silvestre Vila Mad
+ eiro 2026 realiza-se na noite de quarta-feira\,  23 de dezembro de 2026\,  
+ com partidas e chegadas centradas no Jardim da República / Praça da Repú
+ blica\,  no coração histórico de Penamacor\,  distrito de Castelo Branco
+ . A estreia desta prova noturna decorre na[..]\nhttps://www.portugalrunning
+ .com/eventos/sao-silvestre-vila-madeiro/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-vila-madeiro/
+END:VEVENT
+END:VCALENDAR

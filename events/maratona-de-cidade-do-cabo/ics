@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72179-0@www.portugalrunning.com
+DTSTAMP:20261104T060205Z
+DTSTART:20270523
+DTEND:20270524
+SUMMARY:Maratona de Cidade do Cabo 2027
+DESCRIPTION:Sobre Maratona de Cidade do Cabo 2027A Maratona de Cidade do Ca
+ bo 2027 (Sanlam Cape Town Marathon) realiza-se no fim de semana de 22 e 23 
+ de maio de 2027\,  com a prova rainha dos 42\, 195 km agendada para a manh√
+ £ de domingo\,  23 de maio de 2027\,  na deslumbrante[..]\nhttps://www.port
+ ugalrunning.com/eventos/maratona-de-cidade-do-cabo/
+URL:https://www.portugalrunning.com/eventos/maratona-de-cidade-do-cabo/
+END:VEVENT
+END:VCALENDAR

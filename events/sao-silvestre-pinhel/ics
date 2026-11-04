@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:71316-0@www.portugalrunning.com
+DTSTAMP:20261104T060208Z
+DTSTART:20261231
+DTEND:20270101
+LOCATION:Pinhel\,   Guarda Pinhel\,   Guarda
+SUMMARY:Corrida de São Silvestre Pinhel 2026
+DESCRIPTION:Sobre Corrida de São Silvestre Pinhel 2026A Corrida de São Si
+ lvestre de Pinhel 2026 realiza-se no dia 31 de Dezembro de 2026 (Quinta-fei
+ ra)\,  com início marcado para as 09:00 em Pinhel\,  no distrito da Guarda
+ . Cumprindo a tradição de despedida do ano civil na Beira Interior\,  a p
+ rova convoca atletas[..]\nhttps://www.portugalrunning.com/eventos/sao-silve
+ stre-pinhel/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-pinhel/
+END:VEVENT
+END:VCALENDAR

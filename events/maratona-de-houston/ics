@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72098-0@www.portugalrunning.com
+DTSTAMP:20261104T060205Z
+DTSTART:20270116
+DTEND:20270117
+LOCATION:Houston\,   Estados Unidos da América
+SUMMARY:Maratona de Houston 2027
+DESCRIPTION:Sobre Maratona de Houston 2027A Maratona de Houston 2027 (54ª 
+ edição da Chevron Houston Marathon e 25ª edição da Aramco Houston Half
+  Marathon) realiza-se nos dias 16 e 17 de Janeiro de 2027\,  em Houston\,  
+ Estados Unidos da América. Com centro nevrálgico no complexo George R. Br
+ own Convention Center e[..]\nhttps://www.portugalrunning.com/eventos/marato
+ na-de-houston/
+URL:https://www.portugalrunning.com/eventos/maratona-de-houston/
+END:VEVENT
+END:VCALENDAR

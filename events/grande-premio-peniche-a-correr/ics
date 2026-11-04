@@ -1,17 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6ca2623e5
-DTSTAMP:20250720T222434Z
-DTSTART:20200112
-DTEND:20200113
-LOCATION:Peniche\,  Leiria Peniche\,  Leiria
-SUMMARY:Grande Prémio Peniche a Correr
-DESCRIPTION:Grande Prémio Peniche a Correr\nhttps://www.portugalrunning.co
- m/eventos/grande-premio-peniche-a-correr/
+UID:72116-0@www.portugalrunning.com
+DTSTAMP:20261104T060204Z
+DTSTART:20270110
+DTEND:20270111
+LOCATION:Peniche\,   Leiria Peniche\,   Leiria
+SUMMARY:Peniche a Correr 2027
+DESCRIPTION:Sobre Peniche a Correr 2027O Peniche a Correr 2027 (VIII Grande
+  Prémio Peniche a Correr) realiza-se no domingo\,  10 de Janeiro de 2027\,
+   na cidade costeira de Peniche\,  distrito de Leiria. Com partida e chegad
+ a instaladas junto ao Pavilhão Multiusos dos Bombeiros Voluntários de Pen
+ iche (Avenida do Porto de Pesca)\, [..]\nhttps://www.portugalrunning.com/ev
+ entos/grande-premio-peniche-a-correr/
 URL:https://www.portugalrunning.com/eventos/grande-premio-peniche-a-correr/
 END:VEVENT
 END:VCALENDAR

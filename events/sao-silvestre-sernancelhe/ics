@@ -1,21 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d2562190
-DTSTAMP:20250720T222645Z
-DTSTART:20241221T004500Z
-DTEND:20241221T004500Z
-LOCATION:Sernancelhe\,  Viseu Sernancelhe\,  Viseu
-SUMMARY:São Silvestre Sernancelhe 2024
-DESCRIPTION:A corrida São Silvestre realiza-se no dia 21 de dezembro de 20
- 24 pelas 21h00\,  na histórica vila de Sernancelhe com partida e chegada n
- o quartel os Bombeiros Voluntários de Sernancelhe. Este evento integra uma
-  corrida com a distância de 10 km e uma caminhada com a distância de 5km\
- ,  sem[..]\nhttps://www.portugalrunning.com/eventos/sao-silvestre-sernancel
- he/
+UID:71293-0@www.portugalrunning.com
+DTSTAMP:20261104T060208Z
+DTSTART:20261219T000000Z
+DTEND:20261219T235900Z
+LOCATION:Sernancelhe\,   Viseu Sernancelhe\,   Viseu
+SUMMARY:III Corrida São Silvestre – B.V. Sernancelhe 2026
+DESCRIPTION:Sobre III Corrida São Silvestre – B.V. Sernancelhe 2026A III
+  Corrida São Silvestre – B.V. Sernancelhe 2026 (3ª edição) realiza-se
+  no dia 19 de Dezembro de 2026 (Sábado)\,  com partida e chegada agendadas
+  para as 19:00 junto ao Quartel dos Bombeiros Voluntários de Sernancelhe\,
+   no distrito de Viseu. Esta prova[..]\nhttps://www.portugalrunning.com/eve
+ ntos/sao-silvestre-sernancelhe/
 URL:https://www.portugalrunning.com/eventos/sao-silvestre-sernancelhe/
 END:VEVENT
 END:VCALENDAR

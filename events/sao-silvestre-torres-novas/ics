@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72716-0@www.portugalrunning.com
+DTSTAMP:20261104T060210Z
+DTSTART:20261219
+DTEND:20261220
+LOCATION:Torres Novas\,   Santarém Torres Novas\,   Santarém
+SUMMARY:São Silvestre Torres Novas 2026
+DESCRIPTION:Sobre São Silvestre Torres Novas 2026A São Silvestre de Torre
+ s Novas 2026 realiza-se no sábado\,  19 de dezembro de 2026\,  levando o a
+ mbiente festivo do atletismo noturno ao coração histórico de Torres Nova
+ s\,  no distrito de Santarém. Com epicentro na Avenida Dr. João Martins d
+ e Azevedo\,  esta clássica de fim[..]\nhttps://www.portugalrunning.com/eve
+ ntos/sao-silvestre-torres-novas/
+URL:https://www.portugalrunning.com/eventos/sao-silvestre-torres-novas/
+END:VEVENT
+END:VCALENDAR

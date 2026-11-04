@@ -4,18 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:46013-0@www.portugalrunning.com
-DTSTAMP:20260902T140039Z
-DTSTART:20260329T232600Z
-DTEND:20260329T235900Z
-LOCATION:Fátima\,   Santarém Fátima\,   Santarém
-SUMMARY:Meia Maratona de Fátima 2026
-DESCRIPTION:Resultados A 2.ª edição da Renascença Meia Maratona de Fát
- ima realiza-se na icónica cidade de Fátima (Ourém)\,  Portugal\,  e assu
- me-se como um evento que une a superação desportiva à espiritualidade do
-  "Altar do Mundo". Agendada para o dia 29 de março de 2026\,  a prova de e
- strada (asfalto) oferece as[..]\nhttps://www.portugalrunning.com/eventos/me
- ia-maratona-de-fatima/
+UID:71776-0@www.portugalrunning.com
+DTSTAMP:20261104T060206Z
+DTSTART:20270402T230000Z
+DTEND:20270404T225900Z
+LOCATION:Ourém\,   Santarém Ourém\,   Santarém
+SUMMARY:Renascença Meia Maratona de Fátima 2027
+DESCRIPTION:Sobre Renascença Meia Maratona de Fátima 2027A Renascença Me
+ ia Maratona de Fátima 2027 (3ª edição) realiza-se nos dias 3 e 4 de abr
+ il de 2027 (sábado e domingo)\,  na cidade de Fátima\,  concelho de Ouré
+ m\,  distrito de Santarém. Com centro de partida e chegada junto ao Posto 
+ de Turismo de[..]\nhttps://www.portugalrunning.com/eventos/meia-maratona-de
+ -fatima/
 URL:https://www.portugalrunning.com/eventos/meia-maratona-de-fatima/
 END:VEVENT
 END:VCALENDAR
