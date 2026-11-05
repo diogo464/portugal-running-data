@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72792-0@www.portugalrunning.com
+DTSTAMP:20261105T060143Z
+DTSTART:20270918
+DTEND:20270919
+LOCATION:Rio Maior\,   Santarém Rio Maior\,   Santarém
+SUMMARY:Alcobertas Backyard Ultra 2027
+DESCRIPTION:Sobre Alcobertas Backyard Ultra 2027O Alcobertas Backyard Ultra
+  2027 realiza-se no dia 18 de setembro de 2027 (sábado)\,  com partida da 
+ primeira volta agendada para as 09:00 na freguesia de Alcobertas\,  no conc
+ elho de Rio Maior\,  distrito de Santarém. Dinamizado pela secção de tra
+ il running do Alcobertas Futebol Clube no[..]\nhttps://www.portugalrunning.
+ com/eventos/alcobertas-backyard-ultra/
+URL:https://www.portugalrunning.com/eventos/alcobertas-backyard-ultra/
+END:VEVENT
+END:VCALENDAR

@@ -4,17 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:45915-0@www.portugalrunning.com
-DTSTAMP:20260902T140034Z
-DTSTART:20260131T083200Z
-DTEND:20260131T235900Z
+UID:72780-0@www.portugalrunning.com
+DTSTAMP:20261105T060144Z
+DTSTART:20270123T000000Z
+DTEND:20270123T235900Z
 LOCATION:Aveiro Aveiro
-SUMMARY:HYBRID DAY Aveiro 2026
-DESCRIPTION:O Hybrid Day chega a Aveiro para desafiar todos os Hybrid Athle
- tes numa das cidades mais icónicas de Portugal 🇵🇹 Entre os edifício
- s de Arte Nova\,  os reflexos da ria e um café com ovos moles temos todos 
- os ingredientes para começar 2026 em grande forma.\nhttps://www.portugalru
- nning.com/eventos/hybrid-day-aveiro/
+SUMMARY:Hybrid Day Aveiro 2027
+DESCRIPTION:Sobre Hybrid Day Aveiro 2027O Hybrid Day Aveiro 2027 realiza-se
+  no sábado\,  23 de janeiro de 2027\,  nos pavilhões do Parque de Exposi�
+ �ões de Aveiro (Aveiro Parquexpo)\,  no coração da cidade e distrito de 
+ Aveiro. Esta competição constitui a segunda etapa oficial da época 2026/
+ 2027 da Hybrid Day Iberian League[..]\nhttps://www.portugalrunning.com/even
+ tos/hybrid-day-aveiro/
 URL:https://www.portugalrunning.com/eventos/hybrid-day-aveiro/
 END:VEVENT
 END:VCALENDAR

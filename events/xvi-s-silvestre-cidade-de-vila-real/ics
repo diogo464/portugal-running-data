@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72760-0@www.portugalrunning.com
+DTSTAMP:20261105T060146Z
+DTSTART:20270109
+DTEND:20270110
+LOCATION:Vila Real Vila Real
+SUMMARY:XX S. Silvestre Cidade de Vila Real 2027
+DESCRIPTION:Sobre XX S. Silvestre Cidade de Vila Real 2027A XX S. Silvestre
+  Cidade de Vila Real 2027 (20ª edição) realiza-se no sábado\,  9 de jan
+ eiro de 2027\,  levando o ambiente festivo das corridas de fim de tarde às
+  principais artérias da capital transmontana. O evento abre às 16:00 na A
+ venida[..]\nhttps://www.portugalrunning.com/eventos/xvi-s-silvestre-cidade-
+ de-vila-real/
+URL:https://www.portugalrunning.com/eventos/xvi-s-silvestre-cidade-de-vila-real/
+END:VEVENT
+END:VCALENDAR

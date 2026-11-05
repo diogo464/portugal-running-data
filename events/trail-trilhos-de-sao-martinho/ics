@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72764-0@www.portugalrunning.com
+DTSTAMP:20261105T060145Z
+DTSTART:20270110
+DTEND:20270111
+LOCATION:Vagos\,   Aveiro Vagos\,   Aveiro
+SUMMARY:Trail Trilhos de São Martinho 2027
+DESCRIPTION:Sobre Trail Trilhos de São Martinho 2027O Trail Trilhos de Sã
+ o Martinho 2027 (5ª edição) realiza-se no domingo\,  10 de janeiro de 20
+ 27\,  com partida e chegada instaladas no emblemático Parque das Azenhas d
+ e Ouca (Rua da Fonte 5)\,  na freguesia de Ouca\,  concelho de Vagos\,  dis
+ trito de Aveiro. O[..]\nhttps://www.portugalrunning.com/eventos/trail-trilh
+ os-de-sao-martinho/
+URL:https://www.portugalrunning.com/eventos/trail-trilhos-de-sao-martinho/
+END:VEVENT
+END:VCALENDAR

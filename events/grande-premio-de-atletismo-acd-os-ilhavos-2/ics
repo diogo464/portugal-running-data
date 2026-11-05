@@ -4,16 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:46969-0@www.portugalrunning.com
-DTSTAMP:20260902T140019Z
-DTSTART:20260125
-DTEND:20260126
+UID:72767-0@www.portugalrunning.com
+DTSTAMP:20261105T060144Z
+DTSTART:20270131
+DTEND:20270201
 LOCATION:Ílhavo\,   Aveiro Ílhavo\,   Aveiro
-SUMMARY:Grande Prémio de Atletismo ACD Os Ilhavos 2026
-DESCRIPTION:A Associação Cultural e Desportiva "Os Ílhavos" organiza uma
-  das mais clássicas provas de estrada da região de Aveiro em parceria com
-  o Município de Ílhavo.\nhttps://www.portugalrunning.com/eventos/grande-p
- remio-de-atletismo-acd-os-ilhavos-2/
+SUMMARY:Grande Prémio de Atletismo Acd os Ilhavos 2027
+DESCRIPTION:Sobre Grande Prémio de Atletismo Acd os Ilhavos 2027O Grande P
+ rémio de Atletismo Acd os Ilhavos 2027 (42ª edição) realiza-se no domin
+ go\,  31 de janeiro de 2027\,  nas artérias urbanas de Ílhavo\,  distrito
+  de Aveiro\,  assinalando simultaneamente o Campeonato Distrital de Estrada
+  de 5 km e as comemorações do 50º[..]\nhttps://www.portugalrunning.com/e
+ ventos/grande-premio-de-atletismo-acd-os-ilhavos-2/
 URL:https://www.portugalrunning.com/eventos/grande-premio-de-atletismo-acd-os-ilhavos-2/
 END:VEVENT
 END:VCALENDAR

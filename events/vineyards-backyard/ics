@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72788-0@www.portugalrunning.com
+DTSTAMP:20261105T060146Z
+DTSTART:20270123
+DTEND:20270124
+LOCATION:Madalena do Pico\,   Açores Madalena do Pico\,   Açores
+SUMMARY:Vineyards Backyard 2027
+DESCRIPTION:Sobre Vineyards Backyard 2027O Vineyards Backyard 2027 realiza-
+ se no dia 23 de janeiro de 2027 (sábado)\,  com partida agendada para as 0
+ 9:00 na Paisagem da Vinha do Pico – Criação Velha\,  no concelho da Mad
+ alena\,  Ilha do Pico (Açores). Organizado pela Associação Desportiva Tr
+ ilhos de Lava\,  o evento leva o[..]\nhttps://www.portugalrunning.com/event
+ os/vineyards-backyard/
+URL:https://www.portugalrunning.com/eventos/vineyards-backyard/
+END:VEVENT
+END:VCALENDAR
