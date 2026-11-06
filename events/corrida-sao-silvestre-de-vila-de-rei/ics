@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72795-0@www.portugalrunning.com
+DTSTAMP:20261106T060123Z
+DTSTART:20261226
+DTEND:20261227
+LOCATION:Castelo Branco Castelo Branco
+SUMMARY:1ª Corrida São Silvestre de Vila de Rei 2026
+DESCRIPTION:Sobre 1ª Corrida São Silvestre de Vila de Rei 2026A 1ª Corri
+ da São Silvestre de Vila de Rei 2026 realiza-se no dia 26 de dezembro de 2
+ 026 (sábado)\,  com partida da prova principal agendada para as 16:00 junt
+ o ao Edifício dos Paços do Concelho de Vila de Rei\,  no distrito[..]\nht
+ tps://www.portugalrunning.com/eventos/corrida-sao-silvestre-de-vila-de-rei/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-silvestre-de-vila-de-rei/
+END:VEVENT
+END:VCALENDAR

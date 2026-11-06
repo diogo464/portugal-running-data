@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72805-0@www.portugalrunning.com
+DTSTAMP:20261106T060124Z
+DTSTART:20261122
+DTEND:20261123
+LOCATION:Rio Maior\,   Santarém Rio Maior\,   Santarém
+SUMMARY:Légua de Arruda dos Pisões 2026
+DESCRIPTION:Sobre Légua de Arruda dos Pisões 2026A Légua de Arruda dos P
+ isões 2026 realiza-se no dia 22 de novembro de 2026 (domingo)\,  com iníc
+ io das provas às 10:00 na Rua das Faias\,  nº 14\,  em Arruda dos Pisões
+ \,  no concelho de Rio Maior\,  distrito de Santarém. Integrada no Torneio
+  de[..]\nhttps://www.portugalrunning.com/eventos/legua-de-arruda-dos-pisoes
+ /
+URL:https://www.portugalrunning.com/eventos/legua-de-arruda-dos-pisoes/
+END:VEVENT
+END:VCALENDAR
