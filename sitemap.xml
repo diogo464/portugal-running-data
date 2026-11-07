@@ -1,6 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.portugalrunning.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-porto/</loc>
+		<lastmod>2026-11-06T08:50:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-maratona-porto.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/mapa-maratona-porto-42k.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/altimetria-maratona-porto.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/mapa-maratona-porto-10k.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/mapa-maratona-porto-6k.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-mimosa/</loc>
+		<lastmod>2026-11-06T08:37:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/corrida-mimosa-2027.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-run-aqui-ha-os/</loc>
+		<lastmod>2026-11-06T08:21:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-run-aqui-ha-os-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-real-da-tapada-da-mafra/</loc>
+		<lastmod>2026-11-06T08:11:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-trail-real-da-tapada-da-mafra.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-sousel/</loc>
+		<lastmod>2026-11-06T08:04:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-sao-silvestre-de-sousel-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-marco/</loc>
+		<lastmod>2026-11-06T07:59:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-do-marco.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilho-dos-linces/</loc>
+		<lastmod>2026-11-06T07:59:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/trilho-dos-linces-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilho-do-neveiro/</loc>
+		<lastmod>2026-11-06T07:59:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-trilho-do-neveiro.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/furia-trail/</loc>
+		<lastmod>2026-11-06T07:59:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-furia-trail.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-entre-o-dao-e-o-mondego/</loc>
+		<lastmod>2026-11-06T07:58:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-entre-o-dao-e-o-mondego.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-costa-vicentina/</loc>
+		<lastmod>2026-11-06T07:58:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-costa-vicentina.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/viseu-trail-running/</loc>
+		<lastmod>2026-11-06T07:58:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-viseu-trail-running.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-do-burel/</loc>
+		<lastmod>2026-11-06T07:58:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-trilhos-do-burel.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/cascais-oeiras-lisboa/</loc>
+		<lastmod>2026-11-06T07:58:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-cascais-oeiras-lisboa.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/mini-e-meia-maratona-abrantes/</loc>
+		<lastmod>2026-11-06T07:58:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/mini-e-meia-maratona-abrantes-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-gaviao/</loc>
+		<lastmod>2026-11-06T07:58:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-trail-do-gaviao.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/maratona-de-malaga/</loc>
+		<lastmod>2026-11-06T07:58:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-maratona-de-malaga.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/mini-trail-santoinho/</loc>
+		<lastmod>2026-11-06T07:58:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-mini-trail-santoinho.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-aldeia-da-granja/</loc>
+		<lastmod>2026-11-06T07:58:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-aldeia-da-granja.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-olhar-encantador/</loc>
+		<lastmod>2026-11-06T07:58:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/trail-olhar-encantador-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/fktrail/</loc>
+		<lastmod>2026-11-06T07:58:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-fktrail-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-sao-goncalo-madonu/</loc>
+		<lastmod>2026-11-06T07:58:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-trail-sao-goncalo-madonu.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/cross-torres-vedras/</loc>
+		<lastmod>2026-11-06T07:58:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-cross-torres-vedras-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-e-caminhada-de-sao-martinho/</loc>
+		<lastmod>2026-11-06T07:58:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-corrida-e-caminhada-de-sao-martinho.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/tech-run/</loc>
+		<lastmod>2026-11-06T07:58:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-tech-run-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-do-sino-e-da-castanha/</loc>
+		<lastmod>2026-11-06T07:58:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/trail-do-sino-e-da-castanha-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/milhas-do-guadiana/</loc>
+		<lastmod>2026-11-06T07:58:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-milhas-do-guadiana.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-gondomar-2025/</loc>
 		<lastmod>2026-11-05T21:23:35+00:00</lastmod>
 		<image:image>
@@ -244,10 +445,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-sousel/</loc>
-		<lastmod>2026-11-02T18:38:14+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/meia-maratona-de-berlim/</loc>
 		<lastmod>2026-11-02T13:07:34+00:00</lastmod>
 		<image:image>
@@ -301,13 +498,6 @@
 		<lastmod>2026-11-02T13:06:52+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-corrida-sporting-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-do-gaviao/</loc>
-		<lastmod>2026-11-02T13:06:45+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-trail-do-gaviao.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -612,20 +802,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-entre-o-dao-e-o-mondego/</loc>
-		<lastmod>2026-10-31T20:42:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-entre-o-dao-e-o-mondego.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/viseu-trail-running/</loc>
-		<lastmod>2026-10-31T20:42:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-viseu-trail-running.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-de-houston/</loc>
 		<lastmod>2026-10-30T14:21:33+00:00</lastmod>
 		<image:image>
@@ -710,13 +886,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trilho-do-neveiro/</loc>
-		<lastmod>2026-10-30T09:09:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-trilho-do-neveiro.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-de-londres/</loc>
 		<lastmod>2026-10-30T09:09:34+00:00</lastmod>
 		<image:image>
@@ -742,13 +911,6 @@
 		<lastmod>2026-10-30T07:48:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-vb-trail-run.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/mini-trail-santoinho/</loc>
-		<lastmod>2026-10-30T07:47:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-mini-trail-santoinho.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1109,13 +1271,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/milhas-do-guadiana/</loc>
-		<lastmod>2026-10-28T16:09:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-milhas-do-guadiana.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/grande-premio-natal/</loc>
 		<lastmod>2026-10-28T16:06:02+00:00</lastmod>
 		<image:image>
@@ -1267,13 +1422,6 @@
 		<lastmod>2026-10-28T09:43:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-caminhada-de-sao-silvestre.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-do-sino-e-da-castanha/</loc>
-		<lastmod>2026-10-28T09:38:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/trail-do-sino-e-da-castanha-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1566,13 +1714,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/mimosa-apo-6k/</loc>
-		<lastmod>2026-10-28T07:06:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/mimosa-apo-6k-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-de-bruges/</loc>
 		<lastmod>2026-10-27T15:00:31+00:00</lastmod>
 		<image:image>
@@ -1668,13 +1809,6 @@
 		<lastmod>2026-10-27T14:58:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-do-vale-2027.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-mimosa/</loc>
-		<lastmod>2026-10-27T14:58:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/corrida-mimosa-2027.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2977,118 +3111,6 @@
 		<lastmod>2026-10-27T14:15:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-autumn-run.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-porto/</loc>
-		<lastmod>2026-10-27T14:15:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-maratona-porto.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-do-marco/</loc>
-		<lastmod>2026-10-27T14:07:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-do-marco.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trilho-dos-linces/</loc>
-		<lastmod>2026-10-27T14:07:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/trilho-dos-linces-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/furia-trail/</loc>
-		<lastmod>2026-10-27T14:06:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-furia-trail.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-costa-vicentina/</loc>
-		<lastmod>2026-10-27T14:05:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-costa-vicentina.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trilhos-do-burel/</loc>
-		<lastmod>2026-10-27T14:05:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-trilhos-do-burel.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/cascais-oeiras-lisboa/</loc>
-		<lastmod>2026-10-27T14:05:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-cascais-oeiras-lisboa.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/mini-e-meia-maratona-abrantes/</loc>
-		<lastmod>2026-10-27T14:04:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/mini-e-meia-maratona-abrantes-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/maratona-de-malaga/</loc>
-		<lastmod>2026-10-27T14:04:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-maratona-de-malaga.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-aldeia-da-granja/</loc>
-		<lastmod>2026-10-27T14:03:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-aldeia-da-granja.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-olhar-encantador/</loc>
-		<lastmod>2026-10-27T14:03:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/trail-olhar-encantador-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/fktrail/</loc>
-		<lastmod>2026-10-27T14:03:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-fktrail-1.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-sao-goncalo-madonu/</loc>
-		<lastmod>2026-10-27T14:03:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-trail-sao-goncalo-madonu.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/cross-torres-vedras/</loc>
-		<lastmod>2026-10-27T14:02:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-cross-torres-vedras-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-e-caminhada-de-sao-martinho/</loc>
-		<lastmod>2026-10-27T14:02:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-corrida-e-caminhada-de-sao-martinho.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/tech-run/</loc>
-		<lastmod>2026-10-27T14:02:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-tech-run-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -14171,7 +14193,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-run-aqui-ha-os/</loc>
+		<loc>https://www.portugalrunning.com/eventos/trail-run-aqui-ha-os-2026/</loc>
 		<lastmod>2026-08-23T21:28:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/trail-run-aqui-ha-os-2026.webp</image:loc>
@@ -15144,7 +15166,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-real-da-tapada-da-mafra/</loc>
+		<loc>https://www.portugalrunning.com/eventos/trail-real-da-tapada-da-mafra-2026/</loc>
 		<lastmod>2026-08-23T21:06:10+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/pop_407f84j922.jpg</image:loc>
