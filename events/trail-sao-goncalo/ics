@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//eventon.com NONSGML v1.0//EN
+PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:687d6d8b32912
-DTSTAMP:20250720T222827Z
-DTSTART:20210919
-DTEND:20210920
-LOCATION:Barcelos\,  Braga Barcelos\,  Braga
-SUMMARY:Trail São Gonçalo 2021
-DESCRIPTION:TRAIL SÃO GONÇALO” realiza-se no dia 19 de setembro 2021 em
-  Carapeços – Barcelos com início e fim no mesmo local. É um evento de 
- cariz lúdico desportivo é uma prova de corrida de montanha que percorre t
- rilhos e caminhos rurais\,  com o charme de campos\,  vales\,  vinhas\,  e 
- vistas[..]\nhttps://www.portugalrunning.com/eventos/trail-sao-goncalo/
+UID:72975-0@www.portugalrunning.com
+DTSTAMP:20261108T060125Z
+DTSTART:20261129
+DTEND:20261130
+LOCATION:Santo Tirso\,   Porto Santo Tirso\,   Porto
+SUMMARY:Trail Solidário São Gonçalo 2026
+DESCRIPTION:Sobre Trail Solidário São Gonçalo 2026O Trail Solidário Sã
+ o Gonçalo 2026 realiza-se no dia 29 de novembro de 2026 (domingo)\,  com p
+ artida e chegada na Capela de São Gonçalo\,  na freguesia de Monte Córdo
+ va\,  concelho de Santo Tirso (distrito do Porto). Co-organizado pelo NAST 
+ — Núcleo Associativo de Santo Tirso[..]\nhttps://www.portugalrunning.com
+ /eventos/trail-sao-goncalo/
 URL:https://www.portugalrunning.com/eventos/trail-sao-goncalo/
 END:VEVENT
 END:VCALENDAR

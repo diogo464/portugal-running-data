@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72971-0@www.portugalrunning.com
+DTSTAMP:20261108T060124Z
+DTSTART:20261120
+DTEND:20261121
+LOCATION:Espanha Espanha
+SUMMARY:El Privilegio 100 Millas 2026
+DESCRIPTION:Sobre El Privilegio 100 Millas 2026O El Privilegio 100 Millas 2
+ 026 realiza-se de 20 a 22 de novembro de 2026\,  entre as províncias de To
+ ledo e Ciudad Real\,  na região de Castela-La Mancha\,  em Espanha. Organi
+ zada pelo Club Deportivo Runin926\,  esta prova de ultra-endurance percorre
+  a rota histórica do antigo[..]\nhttps://www.portugalrunning.com/eventos/e
+ l-privilegio-100-millas/
+URL:https://www.portugalrunning.com/eventos/el-privilegio-100-millas/
+END:VEVENT
+END:VCALENDAR

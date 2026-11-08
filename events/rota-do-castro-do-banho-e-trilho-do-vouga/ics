@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72966-0@www.portugalrunning.com
+DTSTAMP:20261108T060124Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:São Pedro do Sul\,   Viseu São Pedro do Sul\,   Viseu
+SUMMARY:Rota do Castro do Banho e Trilho do Vouga 2026
+DESCRIPTION:Sobre Rota do Castro do Banho e Trilho do Vouga 2026A Rota do C
+ astro do Banho e Trilho do Vouga 2026 realiza-se no dia 8 de novembro de 20
+ 26 (domingo)\,  na freguesia de Serrazes\,  concelho de São Pedro do Sul\,
+   distrito de Viseu. Integrada no programa municipal «Percursos Pedestres 
+ 2026[..]\nhttps://www.portugalrunning.com/eventos/rota-do-castro-do-banho-e
+ -trilho-do-vouga/
+URL:https://www.portugalrunning.com/eventos/rota-do-castro-do-banho-e-trilho-do-vouga/
+END:VEVENT
+END:VCALENDAR

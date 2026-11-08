@@ -1,6 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.portugalrunning.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://www.portugalrunning.com/eventos/koyu-games/</loc>
+		<lastmod>2026-11-07T20:47:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-koyu-games.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-pinhel-2025/</loc>
+		<lastmod>2026-11-07T07:07:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/sao-silvestre-pinhel-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-pinhel/</loc>
+		<lastmod>2026-11-07T07:07:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/sao-silvestre-pinhel-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-sousel/</loc>
+		<lastmod>2026-11-07T07:04:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-sao-silvestre-de-sousel.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/mini-trail-santoinho/</loc>
+		<lastmod>2026-11-07T07:04:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/mini-trail-santoinho-2026.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-demonios-do-lizandro/</loc>
+		<lastmod>2026-11-07T07:03:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-demonios-do-lizandro-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-e-caminhada-de-sao-martinho/</loc>
+		<lastmod>2026-11-07T07:00:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-corrida-e-caminhada-de-sao-martinho.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/hx365-simulacao-hyrox/</loc>
+		<lastmod>2026-11-07T06:57:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-hx365-simulacao-hyrox.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/limestone-ultra-trail/</loc>
+		<lastmod>2026-11-07T06:54:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-limestone-ultra-trail.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-mortagua/</loc>
+		<lastmod>2026-11-07T06:50:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-sao-silvestre-mortagua.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-castro-daire/</loc>
+		<lastmod>2026-11-07T06:48:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-sao-silvestre-castro-daire.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trail-sao-goncalo/</loc>
+		<lastmod>2026-11-07T06:45:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-trail-sao-goncalo.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/el-privilegio-100-millas/</loc>
+		<lastmod>2026-11-07T06:43:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-el-privilegio-100-millas.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/rota-do-castro-do-banho-e-trilho-do-vouga/</loc>
+		<lastmod>2026-11-07T06:39:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-rota-do-castro-do-banho-e-trilho-do-vouga.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.portugalrunning.com/eventos/maratona-porto/</loc>
 		<lastmod>2026-11-06T08:50:27+00:00</lastmod>
 		<image:image>
@@ -38,13 +136,6 @@
 		<lastmod>2026-11-06T08:11:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-trail-real-da-tapada-da-mafra.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-sousel/</loc>
-		<lastmod>2026-11-06T08:04:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-sao-silvestre-de-sousel-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -132,13 +223,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/mini-trail-santoinho/</loc>
-		<lastmod>2026-11-06T07:58:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-mini-trail-santoinho.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/trail-aldeia-da-granja/</loc>
 		<lastmod>2026-11-06T07:58:28+00:00</lastmod>
 		<image:image>
@@ -171,13 +255,6 @@
 		<lastmod>2026-11-06T07:58:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-cross-torres-vedras-2026.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-e-caminhada-de-sao-martinho/</loc>
-		<lastmod>2026-11-06T07:58:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-corrida-e-caminhada-de-sao-martinho.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -400,13 +477,6 @@
 		<lastmod>2026-11-03T11:40:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-sao-silvestre-torres-novas.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/trail-demonios-do-lizandro/</loc>
-		<lastmod>2026-11-03T09:00:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trail-demonios-do-lizandro-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1121,13 +1191,6 @@
 		<lastmod>2026-10-29T19:24:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-pinheiro-grande-backyard-ultra-gdpg.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-pinhel/</loc>
-		<lastmod>2026-10-29T19:22:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/sao-silvestre-pinhel-2025-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -9330,7 +9393,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/ultra-blue-island-20245/</loc>
+		<loc>https://www.portugalrunning.com/eventos/ultra-blue-island-2025/</loc>
 		<lastmod>2026-08-24T05:57:07+00:00</lastmod>
 	</url>
 	<url>
@@ -15781,7 +15844,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/koyu-games/</loc>
+		<loc>https://www.portugalrunning.com/eventos/koyu-games-2026/</loc>
 		<lastmod>2026-08-23T20:54:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/05/42aaf4ee22a93cf62c6add5c2844506a.jpg</image:loc>
@@ -17604,13 +17667,6 @@
 		<lastmod>2026-08-23T15:38:59+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/11/sschaves25_banner.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-pinhel-2025/</loc>
-		<lastmod>2026-08-23T15:28:02+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/sao-silvestre-pinhel-2025-2026.webp</image:loc>
 		</image:image>
 	</url>
 	<url>

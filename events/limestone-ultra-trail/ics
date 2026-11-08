@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72991-0@www.portugalrunning.com
+DTSTAMP:20261108T060124Z
+DTSTART:20270729
+DTEND:20270730
+LOCATION:Porto de Mós\,   Leiria Porto de Mós\,   Leiria
+SUMMARY:Limestone Ultra Trail 2027
+DESCRIPTION:Sobre Limestone Ultra Trail 2027O Limestone Ultra Trail 2027 (L
+ UT — 7ª edição) realiza-se de 29 a 31 de julho de 2027\,  com centro n
+ evrálgico e secretariado instalados no complexo das Grutas de Mira de Aire
+ \,  no concelho de Porto de Mós\,  distrito de Leiria. Certificado pela IT
+ RA\,  UTMB World[..]\nhttps://www.portugalrunning.com/eventos/limestone-ult
+ ra-trail/
+URL:https://www.portugalrunning.com/eventos/limestone-ultra-trail/
+END:VEVENT
+END:VCALENDAR

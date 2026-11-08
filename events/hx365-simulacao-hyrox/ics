@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:72998-0@www.portugalrunning.com
+DTSTAMP:20261108T060124Z
+DTSTART:20270116
+DTEND:20270117
+LOCATION:Vila Nova de Famalicão\,   Braga Famalicão\,   Porto
+SUMMARY:Hx365 Simulação Hyrox 2027
+DESCRIPTION:Sobre Hx365 Simulação Hyrox 2027O Hx365 Simulação Hyrox 202
+ 7 realiza-se no sábado\,  16 de janeiro de 2027\,  entre as 10h00 e as 17h
+ 00\,  nas instalações da HX365 (Rua da Economia 297\,  Pavilhão F)\,  na
+  freguesia de Vilarinho das Cambas\,  concelho de Vila Nova de Famalicão (
+ distrito de Braga). Organizado pela[..]\nhttps://www.portugalrunning.com/ev
+ entos/hx365-simulacao-hyrox/
+URL:https://www.portugalrunning.com/eventos/hx365-simulacao-hyrox/
+END:VEVENT
+END:VCALENDAR
