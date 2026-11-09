@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73314-0@www.portugalrunning.com
+DTSTAMP:20261109T060126Z
+DTSTART:20261108
+DTEND:20261109
+LOCATION:Oeiras\,   Lisboa Oeiras\,   Lisboa
+SUMMARY:10km da Marginal 2026
+DESCRIPTION:Sobre 10km da Marginal 2026Os 10km da Marginal 2026 disputam-se
+  na manhã de domingo\,  8 de novembro de 2026\,  com tiro de partida agend
+ ado para as 09:00 junto à Praia de Santo Amaro de Oeiras (Estacionamento S
+ aisa). Integrada na grande festa do atletismo de estrada que une Cascais\, 
+  Oeiras e[..]\nhttps://www.portugalrunning.com/eventos/10km-da-marginal/
+URL:https://www.portugalrunning.com/eventos/10km-da-marginal/
+END:VEVENT
+END:VCALENDAR

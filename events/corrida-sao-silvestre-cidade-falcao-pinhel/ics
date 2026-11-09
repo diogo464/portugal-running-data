@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73310-0@www.portugalrunning.com
+DTSTAMP:20261109T060127Z
+DTSTART:20261231
+DTEND:20270101
+LOCATION:Pinhel\,   Guarda Pinhel\,   Guarda
+SUMMARY:Corrida São Silvestre Cidade Falcão - Pinhel 2026
+DESCRIPTION:Sobre Corrida São Silvestre Cidade Falcão - Pinhel 2026Desped
+ e-te do ano a correr na Corrida São Silvestre Cidade Falcão - Pinhel 2026
+ \,  agendada para a manhã de quinta-feira\,  31 de dezembro de 2026. Com p
+ artidas faseadas a partir das 10:00 e meta instalada junto aos Paços do Co
+ ncelho\,  no Largo[..]\nhttps://www.portugalrunning.com/eventos/corrida-sao
+ -silvestre-cidade-falcao-pinhel/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-silvestre-cidade-falcao-pinhel/
+END:VEVENT
+END:VCALENDAR

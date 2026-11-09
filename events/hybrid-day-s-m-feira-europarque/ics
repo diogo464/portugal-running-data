@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73355-0@www.portugalrunning.com
+DTSTAMP:20261109T060127Z
+DTSTART:20270326
+DTEND:20270327
+LOCATION:Santa Maria da Feira\,   Aveiro Santa Maria da Feira\,   Aveiro
+SUMMARY:Hybrid Day S. M. Feira 2027 Europarque
+DESCRIPTION:Sobre Hybrid Day S. M. Feira 2027 EuroparqueO Hybrid Day S. M. 
+ Feira 2027 Europarque realiza-se nos dias 26 e 27 de março de 2027 (Sexta-
+ feira Santa e Sábado de Páscoa)\,  regressando à nave do Europarque\,  e
+ m Santa Maria da Feira\,  distrito de Aveiro. Integrada na temporada 2026/2
+ 027 da Hybrid[..]\nhttps://www.portugalrunning.com/eventos/hybrid-day-s-m-f
+ eira-europarque/
+URL:https://www.portugalrunning.com/eventos/hybrid-day-s-m-feira-europarque/
+END:VEVENT
+END:VCALENDAR
