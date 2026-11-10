@@ -4,17 +4,18 @@ PRODID:-//EventON//NONSGML v1.0//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:44987-0@www.portugalrunning.com
-DTSTAMP:20260902T140221Z
-DTSTART:20260308
-DTEND:20260309
+UID:73596-0@www.portugalrunning.com
+DTSTAMP:20261110T060135Z
+DTSTART:20270314
+DTEND:20270315
 LOCATION:Valongo\,   Porto Valongo\,   Porto
-SUMMARY:Trilhos do Paleozóico 2026
-DESCRIPTION:A 13ª edição dos Trilhos do Paleozóico é uma prova que per
- corre trilhos e caminhos na serra de Santa Justa e de Pias no concelho de V
- alongo\,  onde está inserido o Parque Paleozóico de Valongo e o Centro de
-  Trail de Valongo\,  com partida e chegada no Largo do Centenário[..]\nhtt
- ps://www.portugalrunning.com/eventos/trilhos-do-paleozoico/
+SUMMARY:Trilhos do Paleozóico 2027
+DESCRIPTION:Sobre Trilhos do Paleozóico 2027Os Trilhos do Paleozóico 2027
+  (14ª edição) realizam-se no domingo\,  14 de março de 2027\,  no conce
+ lho de Valongo\,  distrito do Porto. Com partida e chegada centralizadas no
+  emblemático Largo do Centenário\,  no coração de Valongo\,  o evento d
+ esafia os atletas a percorrer os trilhos técnicos[..]\nhttps://www.portuga
+ lrunning.com/eventos/trilhos-do-paleozoico/
 URL:https://www.portugalrunning.com/eventos/trilhos-do-paleozoico/
 END:VEVENT
 END:VCALENDAR

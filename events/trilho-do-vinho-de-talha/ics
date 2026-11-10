@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73609-0@www.portugalrunning.com
+DTSTAMP:20261110T060136Z
+DTSTART:20261201
+DTEND:20261202
+LOCATION:Vidigueira\,   Beja Vidigueira\,   Beja
+SUMMARY:Trilho do Vinho de Talha 2026
+DESCRIPTION:Sobre Trilho do Vinho de Talha 2026O Trilho do Vinho de Talha 2
+ 026 realiza-se no feriado de 1 de Dezembro de 2026 (Terça-feira)\,  com pa
+ rtida às 10:00 junto à Junta de Freguesia de Vila de Frades\,  no concelh
+ o de Vidigueira\,  distrito de Beja. O evento integra simultaneamente a 7ª
+  edição[..]\nhttps://www.portugalrunning.com/eventos/trilho-do-vinho-de-t
+ alha/
+URL:https://www.portugalrunning.com/eventos/trilho-do-vinho-de-talha/
+END:VEVENT
+END:VCALENDAR

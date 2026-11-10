@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73606-0@www.portugalrunning.com
+DTSTAMP:20261110T060135Z
+DTSTART:20270110
+DTEND:20270111
+LOCATION:Figueira da Foz Figueira da Foz
+SUMMARY:Trilho de S. Tomé 2027
+DESCRIPTION:Sobre Trilho de S. Tomé 2027O Trilho de S. Tomé 2027 (13ª ed
+ ição) realiza-se no dia 10 de Janeiro de 2027 (Domingo)\,  com partida à
+ s 09:30 junto às instalações da Helenos\,  S.A.\,  em Ferreira-a-Nova\, 
+  no concelho da Figueira da Foz\,  distrito de Coimbra. O evento é organiz
+ ado pelo Grupo Desportivo[..]\nhttps://www.portugalrunning.com/eventos/tril
+ ho-de-s-tome/
+URL:https://www.portugalrunning.com/eventos/trilho-de-s-tome/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73592-0@www.portugalrunning.com
+DTSTAMP:20261110T060132Z
+DTSTART:20270130
+DTEND:20270131
+LOCATION:Alcobaça\,   Leiria Alcobaça\,   Leiria
+SUMMARY:CDM Beer Mile 2027
+DESCRIPTION:Sobre CDM Beer Mile 2027A CDM Beer Mile 2027 chega a Alcobaça 
+ no sábado\,  30 de janeiro de 2027\,  para um desafio desportivo e recreat
+ ivo que combina velocidade\,  estratégia de transição e convívio. Com p
+ artida nas imediações do Parque Verde da Cidade de Alcobaça\,  a prova p
+ ropõe a clássica distância[..]\nhttps://www.portugalrunning.com/eventos/
+ cdm-beer-mile/
+URL:https://www.portugalrunning.com/eventos/cdm-beer-mile/
+END:VEVENT
+END:VCALENDAR

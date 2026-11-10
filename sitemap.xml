@@ -1,6 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.portugalrunning.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-da-covilha/</loc>
+		<lastmod>2026-11-09T23:12:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/x-mas-night-trail/</loc>
+		<lastmod>2026-11-09T21:03:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-x-mas-night-trail.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/corrida-de-macieira-lousada/</loc>
+		<lastmod>2026-11-09T21:03:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-corrida-de-macieira-lousada.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/piramide-radical-trail/</loc>
+		<lastmod>2026-11-09T17:01:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-piramide-radical-trail.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/axtrail/</loc>
+		<lastmod>2026-11-09T16:59:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-axtrail.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilho-do-vinho-de-talha/</loc>
+		<lastmod>2026-11-09T16:56:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-trilho-do-vinho-de-talha.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilho-de-s-tome-2026/</loc>
+		<lastmod>2026-11-09T16:53:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/trilho-de-s-tome-2027.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilho-de-s-tome/</loc>
+		<lastmod>2026-11-09T16:53:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/trilho-de-s-tome-2027.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/aldeias-douro-trail-2/</loc>
+		<lastmod>2026-11-09T15:47:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/aldeias-douro-trail-2027.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/aldeias-douro-trail/</loc>
+		<lastmod>2026-11-09T15:46:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/aldeias-douro-trail-2027.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-do-paleozoico/</loc>
+		<lastmod>2026-11-09T15:33:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-trilhos-do-paleozoico.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/cdm-beer-mile/</loc>
+		<lastmod>2026-11-09T15:28:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/11/cartaz-beer-mile.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-lagoa-credito-agricola-acores/</loc>
+		<lastmod>2026-11-09T15:21:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-sao-silvestre-de-lagoa-credito-agricola-acores-1.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.portugalrunning.com/eventos/hybrid-day-s-m-feira-europarque/</loc>
 		<lastmod>2026-11-08T21:04:38+00:00</lastmod>
 		<image:image>
@@ -136,13 +224,6 @@
 		<lastmod>2026-11-08T12:33:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-meia-maratona-vigo-bayona.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-de-lagoa-credito-agricola-acores/</loc>
-		<lastmod>2026-11-08T12:31:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-sao-silvestre-de-lagoa-credito-agricola-acores-1.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1201,7 +1282,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/axtrail/</loc>
+		<loc>https://www.portugalrunning.com/eventos/axtrail-2026/</loc>
 		<lastmod>2026-10-30T09:10:01+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-axtrail.webp</image:loc>
@@ -2841,13 +2922,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/x-mas-night-trail/</loc>
-		<lastmod>2026-10-27T14:28:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-x-mas-night-trail.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/edicao-de-sao-silvestre-dalmourol/</loc>
 		<lastmod>2026-10-27T14:28:41+00:00</lastmod>
 		<image:image>
@@ -2929,13 +3003,6 @@
 		<lastmod>2026-10-27T14:26:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/10/cartaz-trilhos-dos-casainhos.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/corrida-de-macieira-lousada/</loc>
-		<lastmod>2026-10-27T14:26:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-corrida-de-macieira-lousada.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3804,7 +3871,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/piramide-radical-trail/</loc>
+		<loc>https://www.portugalrunning.com/eventos/piramide-radical-trail-2026/</loc>
 		<lastmod>2026-10-19T11:28:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/09/cartaz-piramide-radical-trail.webp</image:loc>
@@ -11645,13 +11712,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trilho-de-s-tome-2026/</loc>
-		<lastmod>2026-08-23T22:24:27+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/10/682420251030_23534_AfCartazGdfCmyk105X148mm-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.portugalrunning.com/eventos/sao-silvestre-constancia-2025/</loc>
 		<lastmod>2026-08-23T22:24:12+00:00</lastmod>
 		<image:image>
@@ -13451,7 +13511,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.portugalrunning.com/eventos/trilhos-do-paleozoico/</loc>
+		<loc>https://www.portugalrunning.com/eventos/trilhos-do-paleozoico-2026/</loc>
 		<lastmod>2026-08-23T21:45:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2025/09/548330676_1172199088266523_316172020521665778_n-1.jpg</image:loc>
@@ -14806,13 +14866,6 @@
 		<lastmod>2026-08-23T21:16:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/69bd4805ec526_FOTO_PERFIL-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.portugalrunning.com/eventos/aldeias-douro-trail/</loc>
-		<lastmod>2026-08-23T21:16:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.portugalrunning.com/wp-content/uploads/2026/03/69a7f8dcb8e41_Cartaz_net-cartaz_460.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
