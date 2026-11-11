@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73636-0@www.portugalrunning.com
+DTSTAMP:20261111T060145Z
+DTSTART:20261220
+DTEND:20261221
+LOCATION:Castelo Branco Castelo Branco
+SUMMARY:Corrida São Silvestre dos Madeiros 2026
+DESCRIPTION:Sobre Corrida São Silvestre dos Madeiros 2026A Corrida São Si
+ lvestre dos Madeiros 2026 (12ª edição) realiza-se no dia 20 de Dezembro 
+ de 2026 (Domingo)\,  com concentração e meta no Parque da Quinta do Moinh
+ o Velho (Rua Bairro Disco de Cima\,  nº 15)\,  em Castelo Branco. A jornad
+ a desportiva arranca às[..]\nhttps://www.portugalrunning.com/eventos/corri
+ da-sao-silvestre-dos-madeiros/
+URL:https://www.portugalrunning.com/eventos/corrida-sao-silvestre-dos-madeiros/
+END:VEVENT
+END:VCALENDAR

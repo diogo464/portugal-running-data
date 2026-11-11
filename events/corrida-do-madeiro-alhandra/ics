@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73630-0@www.portugalrunning.com
+DTSTAMP:20261111T060145Z
+DTSTART:20270116
+DTEND:20270117
+LOCATION:Vila Franca de Xira\,   Lisboa Vila Franca de Xira\,   Lisboa
+SUMMARY:Corrida do Madeiro – Alhandra 2027
+DESCRIPTION:Sobre Corrida do Madeiro – Alhandra 2027A Corrida do Madeiro 
+ – Alhandra 2027 (1ª edição) realiza-se no dia 16 de Janeiro de 2027 (S
+ ábado)\,  com partida às 18:00 na Zona Ribeirinha de Alhandra (junto à E
+ státua\,  ao lado da sede da Sociedade Euterpe Alhandrense)\,  no concelho
+  de Vila Franca de[..]\nhttps://www.portugalrunning.com/eventos/corrida-do-
+ madeiro-alhandra/
+URL:https://www.portugalrunning.com/eventos/corrida-do-madeiro-alhandra/
+END:VEVENT
+END:VCALENDAR

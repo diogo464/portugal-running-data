@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EventON//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:73680-0@www.portugalrunning.com
+DTSTAMP:20261111T060148Z
+DTSTART:20270110
+DTEND:20270111
+LOCATION:Paredes\,   Porto Paredes\,   Porto
+SUMMARY:Trail dos Reis - Baltar\,  Paredes 2027
+DESCRIPTION:Sobre Trail dos Reis - Baltar\,  Paredes 2027O Trail dos Reis -
+  Baltar\,  Paredes 2027 (IV edição) realiza-se no domingo\,  dia 10 de ja
+ neiro de 2027\,  com partidas e chegadas instaladas no quartel dos Bombeiro
+ s Voluntários de Baltar (Avenida dos Bombeiros Voluntários\,  nº 1443)\,
+   na freguesia de Baltar\,  concelho de[..]\nhttps://www.portugalrunning.co
+ m/eventos/trail-dos-reis/
+URL:https://www.portugalrunning.com/eventos/trail-dos-reis/
+END:VEVENT
+END:VCALENDAR
